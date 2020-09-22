@@ -1,0 +1,79 @@
+#' Generates latitudinal plot of species richness and returns dataframe of data
+#'
+#' @param data Data.frame (colnames: rep, species, x, y). A dataframe containing species ID, occurrences and (optional) replications.
+#' @param bandsize Integer. Size of latitudinal bins/bands desired for analyses.
+#' @param reps Logical. There are simulation replications in dataframe. Defaults to FALSE.
+#' @param write Logical. Write dataframe of latitudinal diversity. Defaults to FALSE.
+#' @param name. Character. Name of folder for storing outputs. Defaults to "simulation".
+#' @return A data.frame of latitudinal diversity. 
+#' @importFrom DescTools MeanCI
+#' @importFrom dplyr bind_cols
+#' @export
+
+LBGplot <- function(data, bandsize, reps = FALSE, write = FALSE, name = "simulation"){
+  nbins <- 180/bandsize
+  bin <- as.data.frame(seq(1, nbins, 1))
+  max <- as.data.frame(rev(seq((-90+bandsize), 90, bandsize))) 
+  min <- as.data.frame(rev(seq(-90, (90-bandsize), bandsize)))
+  mid <- as.data.frame(rev(seq((-90+(bandsize/2)), (90-(bandsize/2)), bandsize)))
+  hemisphere <- c("N", "S")
+  hemisphere <- as.data.frame(rep(hemisphere, each = nbins/2))
+  latbin <- cbind(bin, max, min, mid, hemisphere)
+  colnames(latbin) <- c("bin", "max", "min", "mid", "hemisphere")
+  if(reps == FALSE){
+    species_per_latbin <- vector("numeric") #count genus richness within each latitudinal bin
+    for (i in 1:nrow(latbin)) {
+      out <- subset(data, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+      species_per_latbin[i] <- length(unique(out$species))
+    }
+    latbin$richness <- species_per_latbin
+    if(write == TRUE){
+      suppressWarnings(dir.create("./Figures/"))
+      write.csv(latbin, paste("./Figures/", name, "_LBG.csv", sep = ""), row.names=FALSE)
+      png(paste("./Figures/", name, "_LBG_plot.png", sep = ""), width = 2400, height = 2000, res = 300)
+      plot(richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), type = "o", pch = 20)
+      dev.off()
+    }
+    plot(richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), type = "o", pch = 20)
+    }
+  if(reps == TRUE){
+    nreps <- unique(data$rep)
+    tmpdat <- lapply(nreps, function(i){ #check is right set up
+      subdat <- subset(data, rep == i)
+      species_per_latbin <- vector("numeric") #count genus richness within each latitudinal bin
+      for (i in 1:nrow(latbin)) {
+        out <- subset(subdat, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+        species_per_latbin[i] <- length(unique(out$species))
+      }
+      species_per_latbin
+    })
+    tmpdat <- do.call(cbind, tmpdat)
+    rep.means <- lapply(1:nrow(tmpdat), function (x){
+      if(length(which(is.na(unlist(tmpdat[x,])))) >= length(unique(data[, "rep"]))*0.95){tmpdat[x,] <- NA}
+      suppressWarnings(means <- DescTools::MeanCI(tmpdat[x,], conf.level=0.95, na.rm = TRUE))
+      means})
+    rep.means <- do.call(rbind, rep.means) 
+    colnames(rep.means) <- c("mean", "CI.Lower", "CI.Upper")
+    latbin <- cbind.data.frame(latbin, rep.means)
+    latbin[is.na(latbin)] <- NA
+    if(write == TRUE){
+      suppressWarnings(dir.create("./Figures/"))
+      write.csv(latbin, paste("./Figures/", name, "_LBG.csv", sep = ""), row.names=FALSE)
+      png(paste("./Figures/", name, "_LBG_plot.png", sep = ""), width = 2400, height = 2000, res = 300)
+      plot(mean~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower), max(latbin$CI.Upper)))
+      polygon(c(latbin$mid,rev(latbin$mid)),c(latbin$CI.Lower,rev(latbin$CI.Upper)),col = "grey75", border = FALSE)
+      points(mean~mid, latbin, pch = 20)
+      lines(mean~mid, latbin, pch = 20)
+      lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
+      lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+      dev.off()
+    }
+    plot(mean~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower), max(latbin$CI.Upper)))
+    polygon(c(latbin$mid,rev(latbin$mid)),c(latbin$CI.Lower,rev(latbin$CI.Upper)),col = "grey75", border = FALSE)
+    points(mean~mid, latbin, pch = 20)
+    lines(mean~mid, latbin, pch = 20)
+    lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
+    lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+  }
+  return(latbin)
+}

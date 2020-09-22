@@ -1,0 +1,50 @@
+#' Read rasters with optional discrete and plot functionality
+#' 
+#' Takes any raster file compatiable with 'raster' package
+#'
+#' @param layers RasterLayer. Filename or path of raster objects. 
+#' @param from Numeric. Lower numeric value used for converting data to binary
+#' @param to Numeric. Upper numeric value used for converting data to binary
+#' @param plot Logical. If TRUE, and from/to are defined, binary plot is outputted
+#' @return RasterLayer or RasterStack.
+#' @importFrom tools file_path_sans_ext
+#' @importFrom raster stack brick
+#' @importFrom rasterVis levelplot
+#' @export
+readLayers <- function(layers, from, to, binary, plot){
+  if(is.vector(layers) == TRUE){
+  nme <- list.files(layers)
+  layers <- raster::stack(paste(layers, "/", nme, sep = ""))
+  nme <- basename(nme)
+  nme <- tools::file_path_sans_ext(nme)
+  names(layers) <- nme
+  stk <- sapply(1:nlayers(layers), function(x){
+    r <- layers[[x]]
+    r[r < from | r > to] <- NA
+    if(binary == TRUE){
+      r[!is.na(r)] <- 1
+    }
+    layers[[x]] <- r
+  })
+  layers <- stack(stk)
+  if(plot == TRUE){
+    if(binary == TRUE){
+      suppressWarnings(print(rasterVis::levelplot(layers, margin=FALSE, xlab = expression(paste("Longitude (",degree,")")), ylab = expression(paste("Latitude (",degree,")")), colorkey=FALSE, par.settings = rasterVis::viridisTheme())))
+    }
+    else{suppressWarnings(print(rasterVis::levelplot(layers, margin=TRUE, xlab = expression(paste("Longitude (",degree,")")), ylab = expression(paste("Latitude (",degree,")")), scales.margin=list(x=c(0,0), y=NULL), par.settings = rasterVis::viridisTheme())))}
+  }
+  return(layers)}
+  else{ 
+    nme <- names(layers)
+    layers[layers < from] <- NA
+    layers[layers > to] <- NA
+    if(plot == TRUE){
+      if(binary == TRUE){
+        layers[layers >= from] <- 1
+        suppressWarnings(print(rasterVis::levelplot(layers, margin=FALSE, xlab = expression(paste("Longitude (",degree,")")), ylab = expression(paste("Latitude (",degree,")")), colorkey=FALSE,par.settings = rasterVis::viridisTheme())))
+      }
+      else{suppressWarnings(print(rasterVis::levelplot(layers, margin=TRUE, xlab = expression(paste("Longitude (",degree,")")), ylab = expression(paste("Latitude (",degree,")")), scales.margin=list(x=c(0,0), y=NULL), par.settings = rasterVis::viridisTheme())))}
+    }
+    return(layers)
+  }
+}

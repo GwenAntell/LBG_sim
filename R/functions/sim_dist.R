@@ -1,0 +1,55 @@
+sim_dist <- function(r){
+  
+  xy <- xyFromCell(r, 1:ncell(r))
+  prob <- getValues(r)
+  xy <- cbind(xy, prob)
+  
+  n <- 250 #maximum number of occurrences
+  maxlng <- 180
+  maxlat <- 90
+  
+  n <- seq(from = 2, to = n, by = 1)
+  maxlng <- seq(from = 2, to = maxlng, by = 1)
+  maxlat <- seq(from = 2, to = maxlat, by = 1)
+  
+  n <- sample(n, size = 1, replace = TRUE, prob = rev(n)^10) #random number of occurrences based on exponential decay curve
+  maxlng <- sample(maxlng, size = 1, replace = TRUE, prob = rev(maxlng)^10) #random range based on exponential decay curve
+  maxlat <- sample(maxlat, size = 1, replace = TRUE, prob = rev(maxlat)^10) #random range based on exponential decay curve
+  
+  xy <- na.omit(xy)
+  orig <- xy[sample(nrow(xy), size = 1, replace = FALSE, prob = xy[,3]),] #origination point of species
+  orig <- t(data.frame(orig[1:2]))
+  orig_cell <- cellFromXY(object = r, xy = orig)
+  
+  minlng <- floor(orig[,1] - (maxlng/2))
+  maxlng <- ceiling(orig[,1] + (maxlng/2))
+  
+  minlat <- floor(orig[,2] - (maxlat/2))
+  maxlat <- ceiling(orig[,2] + (maxlat/2))
+
+  ext <- raster::extent(c(minlng, maxlng, minlat, maxlat))
+  
+  tmp <- r #create distance gradient for sampling n cells within home range
+  tmp[] <- NA
+  tmp[orig_cell] <- 0.5
+  tmp <- crop(x = tmp, y = ext)
+  
+  suppressWarnings(tmp <- raster::distance(tmp)) #create distance gradient
+  
+  tmp <- (tmp-raster::cellStats(tmp,"min"))/(raster::cellStats(tmp,"max")-raster::cellStats(tmp,"min")) #rescale 0 to 1
+  rmax <- raster::cellStats(tmp, stat = "max", na.rm = TRUE, 
+                            asSample = FALSE)
+  rmin <- raster::cellStats(tmp, stat = "min", na.rm = TRUE, 
+                            asSample = FALSE)
+  tmp <- ((tmp - rmax) * -1) + rmin
+  
+  xy <- raster::xyFromCell(tmp, 1:ncell(tmp)) #xy dataframe of cells
+  prob <- raster::getValues(tmp) #probability values within home range
+  xy <- cbind(xy, prob) #bind
+  
+  xy <- xy[sample(nrow(xy), size = n, replace = TRUE, prob = xy[,3]),] #sample n occurrences
+  xy <- round(xy, digits = 2) #round off data
+  xy <- data.frame(xy[,1:2])
+  head(xy)
+  return(xy) #return data
+}

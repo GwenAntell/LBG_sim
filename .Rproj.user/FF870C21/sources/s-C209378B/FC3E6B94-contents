@@ -1,0 +1,172 @@
+#' Latitudinal classical rarefaction 
+#'
+#' @param data Dataframe (colnames: rep, species, x, y). A dataframe containing species ID, occurrences and (optional) replications.
+#' @param bandsize Integer. Size of latitudinal bins/bands desired for analyses.
+#' @param n Integer or "minimum". Defaults to minimum number of occurrences in bins, otherwise a value can be specified (e.g. n = 20 occurrences).
+#' @param threshold Integer. Integer value used to discard any bins equal to or less than threshold.
+#' @param iterations Integer. Defaults to 100, number of iterations to sample each rep for.
+#' @param reps Logical. If replications >1, reps should be defined as TRUE. Defaults to FALSE.
+#' @param replace Logical. If TRUE, sampling is done with replacement. Defaults to TRUE.
+#' @param plot Logical. If TRUE, a plot is generated. 
+#' @param write Logical. If true, a dataframe of latitudinal diversity is wrote to disk. 
+#' @param name Character. File name of dataframe.  
+#' @return A dataframe of latitudinal diversity. 
+#' @importFrom DescTools MeanCI
+#' @export
+LatCR <- function(data, bandsize = 15, n = "minimum", threshold = 5, iterations = 100, reps = FALSE, replace = TRUE, write = FALSE, name = "simulation"){
+  nbins <- 180/bandsize
+  bin <- as.data.frame(seq(1, nbins, 1))
+  max <- as.data.frame(rev(seq((-90+bandsize), 90, bandsize))) 
+  min <- as.data.frame(rev(seq(-90, (90-bandsize), bandsize)))
+  mid <- as.data.frame(rev(seq((-90+(bandsize/2)), (90-(bandsize/2)), bandsize)))
+  hemisphere <- c("N", "S")
+  hemisphere <- as.data.frame(rep(hemisphere, each = nbins/2))
+  latbin <- cbind(bin, max, min, mid, hemisphere)
+  colnames(latbin) <- c("bin", "max", "min", "mid", "hemisphere")
+  
+  if(reps == FALSE){
+    occurrences_per_latbin <- vector("numeric") #count occurrences within each latitudinal bin
+    for(i in 1:nrow(latbin)) {
+      out <- subset(data, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+      occurrences_per_latbin[i] <- length(out$species)
+    }
+    latbin$occurrences_per_latbin <- occurrences_per_latbin #attach occurrences to latbin dataframe
+    latbin[which(latbin$occurrences_per_latbin < threshold), "occurrences_per_latbin"] <- NA #any values less than or equal to minVal threshold converted to NA
+    if(length(which(is.na(latbin$occurrences_per_latbin))) == nrow(latbin)){
+      stop("Insufficient occurrences under desired threshold for all latitudinal bins, decrease threshold")
+    }
+    minocc <- min(latbin$occurrences_per_latbin, na.rm = TRUE) #get minimum number of occurrences
+    
+    if(n == "minimum"){
+      latbin$minimum_number_of_occurrences <- minocc}
+    else{latbin$sample_number_of_occurrences <- n}
+    
+    tmpdat <- lapply(1:iterations, function (x){
+    species_per_latbin <- vector("numeric") #count occurrences within each latitudinal bin
+    for (i in 1:nrow(latbin)) {
+      out <- subset(data, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+      
+      if(nrow(out) < threshold){
+        species_per_latbin[i] <- NA
+      }
+      
+      else if(n == "minimum"){
+        out <- out[sample(nrow(out), size = minocc, replace = replace),]
+        species_per_latbin[i] <- length(unique(out$species))}
+      
+      else{out <- out[sample(nrow(out), size = n, replace = replace),]
+      species_per_latbin[i] <- length(unique(out$species))}
+    }
+    species_per_latbin
+    })
+    
+    tmpdat <- do.call(cbind, tmpdat)
+    iter.means <- lapply(1:nrow(tmpdat), function (x){
+      if(length(which(is.na(unlist(tmpdat[x,])))) >= iterations*0.95){tmpdat[x,] <- NA}
+      suppressWarnings(means <- DescTools::MeanCI(tmpdat[x,], conf.level=0.95, na.rm = TRUE))
+      means})
+    iter.means <- do.call(rbind, iter.means) 
+    colnames(iter.means) <- c("mean", "CI.Lower", "CI.Upper")
+    latbin <- cbind.data.frame(latbin, iter.means)
+    latbin[is.na(latbin)] <- NA
+    
+    plot(mean~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, xlim = c(-90, 90), ylim = c(min(latbin$CI.Lower, na.rm = TRUE), max(latbin$CI.Upper, na.rm = TRUE)))
+    arrows(latbin$mid, latbin$CI.Lower, latbin$mid, latbin$CI.Upper, length=0.05, angle=90, code=3)
+    lines(mean~mid, latbin, pch = 20)
+    lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
+    lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+  }
+  
+  if(reps == TRUE){
+    nreps <- unique(data[, "rep"])
+    repdat <- list()
+    for(j in 1:length(nreps)){
+      subdat <- subset(data, rep == j)
+      occurrences_per_latbin <- vector("numeric") #count occurrences within each latitudinal bin
+      for (i in 1:nrow(latbin)) {
+        out <- subset(subdat, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+        occurrences_per_latbin[i] <- length(out$species)
+      }
+      occurrences_per_latbin[occurrences_per_latbin <= threshold] <- NA
+      repdat[[j]] <- occurrences_per_latbin
+    }
+
+      if(length(which(is.na(unlist(repdat)))) == length(repdat)){
+        stop("Insufficient occurrences under desired threshold for all latitudinal bins, decrease threshold")
+      }
+      minocc <- min(unlist(repdat), na.rm = TRUE) #get minimum number of occurrences
+      
+      if(n == "minimum"){
+        latbin$minimum_number_of_occurrences <- minocc}
+      else{latbin$sample_number_of_occurrences <- n}
+      
+      repdat <- list()
+      for(j in 1:length(nreps)){
+        subdat <- subset(data, rep == j)
+        tmpdat <- lapply(1:iterations, function (x){
+          species_per_latbin <- vector("numeric") #count occurrences within each latitudinal bin
+          for (i in 1:nrow(latbin)) {
+            out <- subset(subdat, y <= latbin[i, "max"] & y >= latbin[i, "min"])
+            
+            if(nrow(out) < threshold){
+              species_per_latbin[i] <- NA
+            }
+            
+            else if(n == "minimum"){
+              out <- out[sample(nrow(out), size = minocc, replace = replace),]
+              species_per_latbin[i] <- length(unique(out$species))}
+            
+            else{out <- out[sample(nrow(out), size = n, replace = replace),]
+            species_per_latbin[i] <- length(unique(out$species))}
+          }
+          species_per_latbin
+        })
+      tmpdat <- do.call(cbind, tmpdat)
+      tmpdat[tmpdat == 0] <- NA
+      
+      iter.means <- rowMeans(tmpdat, na.rm = TRUE)
+      iter.means[is.na(iter.means)] <- NA
+      repdat[[j]] <- iter.means
+  }
+      repdat <- do.call(cbind, repdat)
+      rep.means <- lapply(1:nrow(repdat), function (x){
+        if(length(which(is.na(unlist(repdat[x,])))) >= length(unique(data[, "rep"]))*0.95){repdat[x,] <- NA}
+        suppressWarnings(means <- DescTools::MeanCI(repdat[x,], conf.level=0.95, na.rm = TRUE))
+        means})
+      rep.means <- do.call(rbind, rep.means) 
+      colnames(rep.means) <- c("mean", "CI.Lower", "CI.Upper")
+    latbin <- cbind.data.frame(latbin, rep.means)
+    latbin[is.na(latbin)] <- NA
+    
+    if(length(which(is.na(latbin$mean))) == length(latbin$mean)){
+      warning(paste("No plot data available for", name, ", skipping plotting", sep = ""))
+      if(write == TRUE){
+        suppressWarnings(dir.create("./CR/"))
+        write.csv(latbin, paste("./CR/", name, "_LBG.csv", sep = ""))
+      }
+      return(latbin)
+    }
+    
+    plot(mean~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, xlim = c(-90, 90), ylim = c(min(latbin$CI.Lower, na.rm = TRUE), max(latbin$CI.Upper, na.rm = TRUE)))
+    arrows(latbin$mid, latbin$CI.Lower, latbin$mid, latbin$CI.Upper, length=0.05, angle=90, code=3)
+    lines(mean~mid, latbin, pch = 20)
+    lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
+    lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+  }
+  
+  #write data
+  if(write == TRUE){
+    suppressWarnings(dir.create("./CR/"))
+    suppressWarnings(dir.create("./CR/Figures/"))
+      png(paste("./CR/Figures/", name, "_CR_LBG_plot.png", sep = ""), width = 2400, height = 2000, res = 300)
+      plot(mean~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, xlim = c(-90, 90), ylim = c(min(latbin$CI.Lower, na.rm = TRUE), max(latbin$CI.Upper, na.rm = TRUE)))
+      arrows(latbin$mid, latbin$CI.Lower, latbin$mid, latbin$CI.Upper, length=0.05, angle=90, code=3)
+      lines(mean~mid, latbin, pch = 20)
+      lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
+      lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+      dev.off()
+    write.csv(latbin, paste("./CR/", name, "_LBG.csv", sep = ""))
+  }
+  return(latbin)
+}
+
