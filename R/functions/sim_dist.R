@@ -4,18 +4,20 @@ sim_dist <- function(r){
   prob <- getValues(r)
   xy <- cbind(xy, prob)
   
-  n <- 250 #maximum number of occurrences
+  n <- 300 #maximum number of occurrences
   maxlng <- 180
-  maxlat <- 90
+  maxlat <- 180
   
   n <- seq(from = 2, to = n, by = 1)
   maxlng <- seq(from = 2, to = maxlng, by = 1)
   maxlat <- seq(from = 2, to = maxlat, by = 1)
   
-  n <- sample(n, size = 1, replace = TRUE, prob = rev(n)^10) #random number of occurrences based on exponential decay curve
-  maxlng <- sample(maxlng, size = 1, replace = TRUE, prob = rev(maxlng)^10) #random range based on exponential decay curve
-  maxlat <- sample(maxlat, size = 1, replace = TRUE, prob = rev(maxlat)^10) #random range based on exponential decay curve
-  
+  n <- sample(n, size = 1, replace = TRUE, prob = exp(-0.05 * n)) #random number of occurrences based on exponential decay curve
+
+  maxlng <- sample(maxlng, size = 1, replace = TRUE, prob = exp(-0.05 * maxlng)) #random range based on exponential decay curve
+
+  maxlat <- sample(maxlat, size = 1, replace = TRUE, prob = exp(-0.05 * maxlat)) #random range based on exponential decay curve
+
   xy <- na.omit(xy)
   orig <- xy[sample(nrow(xy), size = 1, replace = FALSE, prob = xy[,3]),] #origination point of species
   orig <- t(data.frame(orig[1:2]))

@@ -1,0 +1,41 @@
+*.csv
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.DS_Store
+raw-data/*
+  data/*
+  *.html
+manuscript/version1/*
+  *.docx
+
+# LaTeX #
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fff
+*.lof
+*.lot
+*.out
+*.toc
+*.ttt
+*.fdb_latexmk
+*.pdf
+*.fls
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite

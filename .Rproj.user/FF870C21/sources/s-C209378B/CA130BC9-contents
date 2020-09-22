@@ -1,5 +1,0 @@
-#options
-libs <- c("raster")
-res <- 1
-reps <- 10
-species <- 100
