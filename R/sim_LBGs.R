@@ -9,11 +9,10 @@ source("./R/functions/sim_dist.R")
 #load libraries
 lapply(libs, require, character.only = TRUE) 
 #load DEMs
-layers <- c("/Users/lewis_jones/Documents/GitHub/LBG_sim/data/DEMs") #get path
+layers <- c("./data/DEMs/") #get path
 layers <- get_layers(layers = layers, agg = 2, fun = min, from = 0, to = 200, binary = TRUE) #convert rasters to 1 deg res with aggregation
 
 plot(layers$pre_industrial)
-layers <- layers$pre_industrial
 
 flat <- LBG_type(type = "flat", sd = 0, res = res)
 unimodal <- LBG_type(type = "unimodal", sd = 20, res = res)
@@ -32,6 +31,6 @@ names(bimodal) <- names(layers) #update layer names
 plot(unimodal$pre_industrial)
 
 #simulate each LBG
-source("./R/subscripts/flat.R")
-source("./R/subscripts/unimodal.R")
-source("./R/subscripts/bimodal.R")
+rstudioapi::jobRunScript(path = "./R/subscripts/flat.R", name = "flat", workingDir = getwd(), importEnv = TRUE)
+rstudioapi::jobRunScript(path = "./R/subscripts/unimodal.R", name = "unimodal", workingDir = getwd(), importEnv = TRUE)
+rstudioapi::jobRunScript(path = "./R/subscripts/bimodal.R", name = "bimodal", workingDir = getwd(), importEnv = TRUE)

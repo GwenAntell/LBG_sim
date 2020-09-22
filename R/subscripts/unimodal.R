@@ -1,5 +1,8 @@
 ####unimodal###
+lapply(libs, require, character.only = TRUE) 
+
 dir.create("./results/unimodal/")
+
 for(i in 1:nlayers(unimodal)){
   r <- unimodal[[i]]
   name <- names(r)

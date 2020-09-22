@@ -1,4 +1,6 @@
 ###flat###
+lapply(libs, require, character.only = TRUE) 
+
 dir.create("./results/flat/")
 
 for(i in 1:nlayers(flat)){

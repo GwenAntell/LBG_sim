@@ -1,4 +1,6 @@
 ####bimodal###
+lapply(libs, require, character.only = TRUE) 
+
 dir.create("./results/bimodal/")
 
 for(i in 1:nlayers(bimodal)){
