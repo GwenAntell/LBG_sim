@@ -1,4 +1,4 @@
 get_proportional <- function(x){
-  x <- x/sum(x)
+  x <- x/max(x, na.rm = TRUE)
   return(x)
 }

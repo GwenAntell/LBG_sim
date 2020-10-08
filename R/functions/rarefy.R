@@ -1,7 +1,3 @@
-data <- read.csv("./results/unimodal/pre_industrial.csv")
-#data <- subset(data, rep == 1)
-test <- rarefy(data = data, bandsize = 15, sample = 50, iterations = 100)
-
 rarefy <- function(data = data, bandsize = 15, sample = 50, iterations = 100){
   #make lat bins
   nbins <- 180/bandsize
@@ -44,12 +40,20 @@ rarefy <- function(data = data, bandsize = 15, sample = 50, iterations = 100){
   latbin$CI.Lower <- quant[,1]
   latbin$CI.Upper <- quant[,2]
   
-  plot(median_richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower), max(latbin$CI.Upper)))
+  rows <- which(latbin$median_richness == 0)
+  
+  plot(median_richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower, na.rm = TRUE), max(latbin$CI.Upper, na.rm = TRUE)))
   polygon(c(latbin$mid,rev(latbin$mid)),c(latbin$CI.Lower,rev(latbin$CI.Upper)),col = "grey75", border = FALSE)
   points(median_richness~mid, latbin, pch = 20)
   lines(median_richness~mid, latbin, pch = 20)
   lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
   lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
+  
+  if(length(rows) >= 1){
+    latbin$median_richness[rows] <- NA
+    latbin$CI.Lower[rows] <- NA
+    latbin$CI.Upper[rows] <- NA
+  }
   
   return(latbin)
 }

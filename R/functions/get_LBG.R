@@ -1,7 +1,3 @@
-data <- read.csv("./results/bimodal/pre_industrial.csv")
-latbin <- get_LBG(data = data, id = "id", bandsize = 15, reps = TRUE)
-
-
 get_LBG <- function(data, id = "id", bandsize = 15, reps = FALSE){
   nbins <- 180/bandsize
   bin <- as.data.frame(seq(1, nbins, 1))

@@ -1,5 +1,5 @@
 #simulate LBG
-
+source("./R/subscripts/directories.R") #generate directories
 source("./R/options.R") #source options
 #load functions
 source("./R/functions/LBG_type.R")
@@ -10,13 +10,12 @@ source("./R/functions/sim_dist.R")
 lapply(libs, require, character.only = TRUE) 
 #load DEMs
 layers <- c("./data/DEMs/") #get path
+
 layers <- get_layers(layers = layers, agg = 2, fun = min, from = 0, to = 200, binary = TRUE) #convert rasters to 1 deg res with aggregation
 
-plot(layers$pre_industrial)
-
 flat <- LBG_type(type = "flat", sd = 0, res = res)
-unimodal <- LBG_type(type = "unimodal", sd = 20, res = res)
-bimodal <- LBG_type(type = "bimodal", sd = 10, res = res)
+unimodal <- LBG_type(type = "unimodal", sd = 30, res = res)
+bimodal <- LBG_type(type = "bimodal", sd = 15, res = res)
 
 layers <- resample(layers, unimodal)
 
