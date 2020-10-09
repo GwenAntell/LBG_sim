@@ -7,9 +7,12 @@ stages <- read.csv("./data/raw_data/stages.csv") #load stage bins
 periods <- read.csv("./data/raw_data/periods.csv") #load period bins
 periods <- periods[2:7,]
 ssc <- read.csv("./results/SSC/lat_SSC.csv")
-ssc$ssc <- ssc$ssc + 1
+#ssc$ssc <- ssc$ssc + 1
+ssc$ssc[ssc$ssc == 0] <- NA
+
 source("./R/functions/equations.R")
 #---------------------------------
+
 
 flat_sim <- read.csv("./results/compiled_LBGs/flat_simulated.csv")
 flat_samp <- read.csv("./results/compiled_LBGs/flat_sampled.csv")
@@ -17,9 +20,13 @@ flat_rare <- read.csv("./results/compiled_LBGs/flat_rarefied.csv")
 flat_sim <- flat_sim[order(flat_sim$mid_age),]
 flat_samp <- flat_samp[order(flat_samp$mid_age),]
 flat_rare<- flat_rare[order(flat_rare$mid_age),]
-flat_sim$median_richness <- flat_sim$median_richness + 1
-flat_samp$median_richness <- flat_samp$median_richness + 1
-flat_rare$median_richness <- flat_rare$median_richness + 1
+flat_sim$median_richness[flat_sim$median_richness == 0] <- NA
+flat_samp$median_richness[flat_samp$median_richness == 0] <- NA
+flat_rare$median_richness[flat_rare$median_richness == 0] <- NA
+
+#flat_sim$median_richness <- flat_sim$median_richness + 1
+#flat_samp$median_richness <- flat_samp$median_richness + 1
+#flat_rare$median_richness <- flat_rare$median_richness + 1
 
 unimodal_sim <- read.csv("./results/compiled_LBGs/unimodal_simulated.csv")
 unimodal_samp <- read.csv("./results/compiled_LBGs/unimodal_sampled.csv")
@@ -27,9 +34,13 @@ unimodal_rare <- read.csv("./results/compiled_LBGs/unimodal_rarefied.csv")
 unimodal_sim <- unimodal_sim[order(unimodal_sim$mid_age),]
 unimodal_samp <- unimodal_samp[order(unimodal_samp$mid_age),]
 unimodal_rare<- unimodal_rare[order(unimodal_rare$mid_age),]
-unimodal_sim$median_richness <- unimodal_sim$median_richness + 1
-unimodal_samp$median_richness <- unimodal_samp$median_richness + 1
-unimodal_rare$median_richness <- unimodal_rare$median_richness + 1
+unimodal_sim$median_richness[unimodal_sim$median_richness == 0] <- NA
+unimodal_samp$median_richness[unimodal_samp$median_richness == 0] <- NA
+unimodal_rare$median_richness[unimodal_rare$median_richness == 0] <- NA
+
+#unimodal_sim$median_richness <- unimodal_sim$median_richness + 1
+#unimodal_samp$median_richness <- unimodal_samp$median_richness + 1
+#unimodal_rare$median_richness <- unimodal_rare$median_richness + 1
 
 bimodal_sim <- read.csv("./results/compiled_LBGs/bimodal_simulated.csv")
 bimodal_samp <- read.csv("./results/compiled_LBGs/bimodal_sampled.csv")
@@ -37,9 +48,13 @@ bimodal_rare <- read.csv("./results/compiled_LBGs/bimodal_rarefied.csv")
 bimodal_sim <- bimodal_sim[order(bimodal_sim$mid_age),]
 bimodal_samp <- bimodal_samp[order(bimodal_samp$mid_age),]
 bimodal_rare<- bimodal_rare[order(bimodal_rare$mid_age),]
-bimodal_sim$median_richness <- bimodal_sim$median_richness + 1
-bimodal_samp$median_richness <- bimodal_samp$median_richness + 1
-bimodal_rare$median_richness <- bimodal_rare$median_richness + 1
+bimodal_sim$median_richness[bimodal_sim$median_richness == 0] <- NA
+bimodal_samp$median_richness[bimodal_samp$median_richness == 0] <- NA
+bimodal_rare$median_richness[bimodal_rare$median_richness == 0] <- NA
+
+#bimodal_sim$median_richness <- bimodal_sim$median_richness + 1
+#bimodal_samp$median_richness <- bimodal_samp$median_richness + 1
+#bimodal_rare$median_richness <- bimodal_rare$median_richness + 1
 
 
 #---------------------------------
@@ -53,15 +68,19 @@ for(i in 1:nrow(periods)){
 }
 #---------------------------------
 #layout
-png("./figures/linear_models.png", height = 250, width = 250, unit = "mm", res = 600)
+png("./figures/linear_models_SSC.png", height = 220, width = 220, unit = "mm", res = 600)
 
 m <- matrix(c(1,2,3,4,5,6,7,8,9,10,10,10),nrow = 4,ncol = 3,byrow = TRUE)
 layout(mat = m,heights = c(0.8, 0.8, 0.8, 0.1))
 #---------------------------------
 
-plot(log(flat_sim$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(flat_sim$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("A", adj = 0)
 title("Simulated flat-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(flat_sim$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(flat_sim$median_richness) ~ log(ssc$ssc)), col='black', lwd = 2)
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
@@ -71,9 +90,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(flat_samp$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(flat_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("B", adj = 0)
 title("Sampled flat-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(flat_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(flat_samp$median_richness) ~ log(ssc$ssc)), col='black', lwd = 2)
 Fit <- cor.test(log(flat_samp$median_richness), log(ssc$ssc))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -84,9 +107,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(flat_rare$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(flat_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("C", adj = 0)
 title("Rarefied flat-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(flat_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(flat_rare$median_richness) ~ log(ssc$ssc)), col='black', lwd = 2)
 Fit <- cor.test(log(flat_rare$median_richness), log(ssc$ssc))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -97,9 +124,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_sim$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(unimodal_sim$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("D", adj = 0)
 title("Simulated unimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(flat_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(unimodal_sim$median_richness) ~ log(ssc$ssc)), col='black', lwd = 2)
 Fit <- cor.test(log(unimodal_sim$median_richness), log(ssc$ssc))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -110,9 +141,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_samp$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(unimodal_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("E", adj = 0)
 title("Sampled unimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(unimodal_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(unimodal_samp$median_richness) ~ log(ssc$ssc)), col='black', lwd = 2)
 Fit <- cor.test(log(unimodal_samp$median_richness), log(ssc$ssc))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -123,9 +158,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_rare$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(unimodal_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("F", adj = 0)
 title("Rarefied unimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(unimodal_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(unimodal_rare$median_richness) ~ (log(ssc$ssc))), col='black', lwd = 2)
 Fit <- cor.test(log(unimodal_rare$median_richness), (log(ssc$ssc)))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -136,9 +175,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_sim$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(bimodal_sim$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("G", adj = 0)
 title("Simulated bimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(bimodal_sim$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(bimodal_sim$median_richness) ~ (log(ssc$ssc))), col='black', lwd = 2)
 Fit <- cor.test(log(bimodal_sim$median_richness), (log(ssc$ssc)))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -149,9 +192,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_samp$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(bimodal_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("H", adj = 0)
 title("Sampled bimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(bimodal_samp$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(bimodal_samp$median_richness) ~ (log(ssc$ssc))), col='black', lwd = 2)
 Fit <- cor.test(log(bimodal_samp$median_richness), (log(ssc$ssc)))
 pVal <- anova(fit)$'Pr(>F)'[1]
@@ -162,9 +209,13 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_rare$median_richness)~log(ssc$ssc), pch = 21, cex = 1.25, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
+plot(log(bimodal_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol), ylab = "ln Species Richness", xlab = "ln Spatial Sampling Coverage (%)")
 title("I", adj = 0)
 title("Rarefied bimodal-type", adj = 0.5)
+abline(v=0, col="black", lty = 2)
+abline(h=0, col="black", lty = 2)
+points(log(bimodal_rare$median_richness)~log(ssc$ssc),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(ssc$periodcol))
+box()
 abline(fit <- lm(log(bimodal_rare$median_richness) ~ (log(ssc$ssc))), col='black', lwd = 2)
 Fit <- cor.test(log(bimodal_rare$median_richness), (log(ssc$ssc)))
 pVal <- anova(fit)$'Pr(>F)'[1]
