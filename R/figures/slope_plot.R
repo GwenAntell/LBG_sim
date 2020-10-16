@@ -47,7 +47,7 @@ A <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -88,7 +88,7 @@ B <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -113,7 +113,7 @@ C <- ggplot() +
   #geom_point(data = bimodal, aes(x = mid_age, y = (SampledN)), shape = 21, colour= "black", fill = col[2], size = 3, alpha = 0.95) +
   scale_x_reverse(expand=c(0,0), limits = c(300, 0)) +
   scale_y_continuous(expand=c(0,0), limits = c(-0.06, 0.06), breaks = seq(-0.05, 0.06, 0.02), labels = seq(-0.05, 0.06, 0.02)) +
-  labs(x = "", y = "Slope estimate of standardised latitudinal richness", title = "") +
+  labs(x = "", y = "Slope estimate of normalised latitudinal richness", title = "") +
   theme(panel.background = element_blank(),
         plot.background = element_rect(fill = NA, color = NA),
         plot.margin = margin(0.25,0.25,0.25,0.25, "cm"),
@@ -129,7 +129,7 @@ C <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -170,7 +170,7 @@ D <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -211,7 +211,7 @@ E <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -252,7 +252,7 @@ Fplot <- ggplot() +
         legend.text = element_text(size = 12),
         panel.border = element_rect(colour = "black", fill = NA),
         axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5),
-        axis.text.y = element_text(size = 14, angle = 0, hjust = 0),
+        axis.text.y = element_text(size = 14, angle = 0, hjust = 1),
         axis.title.y = element_text(size = 16, face = "bold", vjust = 5),
         axis.title.x = element_text(size = 16, face = "bold", vjust = -1),
         plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
@@ -260,9 +260,8 @@ Fplot <- ggplot() +
 
 Fplot
 
+plot <- plot_grid(A, B, C, D, E, Fplot, labels="auto", ncol=2, nrow = 3, align = "v", font.label = list(size = 26), label_x = .125)
+#plot
 
-plot <- plot_grid(A, B, C, D, E, Fplot, labels="AUTO", ncol=2, nrow = 3, align = "v", font.label = list(size = 22), label_x = .125)
-plot
-
-ggsave("./figures/slope_plot.png", plot = plot, width = 180, height = 150, units = "mm", dpi = 600, scale = 2)
-ggsave("./figures/slope_plot.pdf", plot = plot, width = 180, height = 150, units = "mm", dpi = 600, scale = 2)
+ggsave("./figures/slope_plot.png", plot = plot, width = 180, height = 150, units = "mm", dpi = 600, scale = 1.75)
+#ggsave("./figures/slope_plot.pdf", plot = plot, width = 180, height = 150, units = "mm", dpi = 600, scale = 2)

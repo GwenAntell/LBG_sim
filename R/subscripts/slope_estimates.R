@@ -25,11 +25,11 @@ for(i in 1:length(simulated)){
   samp <- read.csv(paste("./results/unimodal/LBGs/Sampled/", sampled[i], sep = ""))
   rare <- read.csv(paste("./results/unimodal/LBGs/Rarefied/", rarefied[i], sep = ""))
   
-  sim$prop_richness <- get_proportional(sim$median_richness)
+  sim$prop_richness <- get_proportional(sim$mean_richness)
   sim$prop_richness[sim$prop_richness == 0] <- NA
-  samp$prop_richness <- get_proportional(samp$median_richness)
+  samp$prop_richness <- get_proportional(samp$mean_richness)
   samp$prop_richness[samp$prop_richness == 0] <- NA
-  rare$prop_richness <- get_proportional(rare$median_richness)
+  rare$prop_richness <- get_proportional(rare$mean_richness)
   rare$prop_richness[rare$prop_richness == 0] <- NA
   
   simN <- subset(sim, hemisphere == "N")
@@ -85,11 +85,11 @@ for(i in 1:length(simulated)){
   samp <- read.csv(paste("./results/bimodal/LBGs/Sampled/", sampled[i], sep = ""))
   rare <- read.csv(paste("./results/bimodal/LBGs/Rarefied/", rarefied[i], sep = ""))
   
-  sim$prop_richness <- get_proportional(sim$median_richness)
+  sim$prop_richness <- get_proportional(sim$mean_richness)
   sim$prop_richness[sim$prop_richness == 0] <- NA
-  samp$prop_richness <- get_proportional(samp$median_richness)
+  samp$prop_richness <- get_proportional(samp$mean_richness)
   samp$prop_richness[samp$prop_richness == 0] <- NA
-  rare$prop_richness <- get_proportional(rare$median_richness)
+  rare$prop_richness <- get_proportional(rare$mean_richness)
   rare$prop_richness[rare$prop_richness == 0] <- NA
   
   simN <- subset(sim, hemisphere == "N")

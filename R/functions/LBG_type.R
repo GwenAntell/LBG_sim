@@ -22,7 +22,6 @@ LBG_type <- function(type, sd = 20, res = 1){
     r[1:nrow(r),] <- rep(y, each = ncol(r))
     r <- (r-raster::cellStats(r,"min"))/(raster::cellStats(r,"max")-raster::cellStats(r,"min"))
     plot(r, main = "Bimodal-type", legend = FALSE)
-    
   }
   
   if(type == "flat"){

@@ -277,7 +277,7 @@ for(i in intervals){
   combine <- ggarrange(flat.simplot, unimodal.simplot, bimodal.simplot,
                        flat.sampplot, unimodal.sampplot, bimodal.sampplot, 
                        flat.CRplot, unimodal.CRplot, bimodal.CRplot, 
-                       ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), labels = "AUTO", align = "v")
+                       ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), labels = "auto", align = "v")
   plot_name <- stringr::str_to_title(i)
   combine <- annotate_figure(combine, fig.lab = plot_name, top = " ", fig.lab.pos = "top.left", fig.lab.size = 18)
   ggsave(file=paste("./results/compiled_LBGs/plots/",mid_age,"_", i, ".png", sep =""), plot = combine, width = 210, height = 150, units = "mm", dpi = 300, scale = 1.7)

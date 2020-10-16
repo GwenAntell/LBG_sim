@@ -21,14 +21,14 @@ get_LBG <- function(data, id = "id", bandsize = 15, reps = FALSE){
       species_per_latbin
     })
     tmpdat <- do.call(cbind, tmpdat)
-    latbin$median_richness <- matrixStats::rowMedians(tmpdat)
+    latbin$mean_richness <- matrixStats::rowMeans2(tmpdat)
     quant <- matrixStats::rowQuantiles(tmpdat, probs = c(0.025, 0.975))
     latbin$CI.Lower <- quant[,1]
     latbin$CI.Upper <- quant[,2]
-    plot(median_richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower), max(latbin$CI.Upper)))
+    plot(mean_richness~mid, latbin,  main = "Latitudinal biodiversity gradient", ylab = "Species richness", xlab = expression(Latitude~(degree)), pch = 20, ylim = c(min(latbin$CI.Lower), max(latbin$CI.Upper)))
     polygon(c(latbin$mid,rev(latbin$mid)),c(latbin$CI.Lower,rev(latbin$CI.Upper)),col = "grey75", border = FALSE)
-    points(median_richness~mid, latbin, pch = 20)
-    lines(median_richness~mid, latbin, pch = 20)
+    points(mean_richness~mid, latbin, pch = 20)
+    lines(mean_richness~mid, latbin, pch = 20)
     lines(latbin$mid, latbin$CI.Lower, col="red",lty=2)
     lines(latbin$mid, latbin$CI.Upper, col="red",lty=2)
   }

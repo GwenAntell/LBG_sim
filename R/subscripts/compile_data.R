@@ -17,7 +17,7 @@ master <- data.frame()
   for(i in files){
     name <- tools::file_path_sans_ext(i)
     tmp <- read.csv(paste("./results/", t, "/LBGs/", i, sep = ""))
-    tmp$prop_richness <- get_proportional(tmp$median_richness)
+    tmp$prop_richness <- get_proportional(tmp$mean_richness)
     tmp <- cbind.data.frame(name, tmp)
     master <- rbind.data.frame(master, tmp)
   }
@@ -34,7 +34,7 @@ for(t in type){
   for(i in files){
     name <- tools::file_path_sans_ext(i)
     tmp <- read.csv(paste("./results/", t, "/LBGs/Sampled/", i, sep = ""))
-    tmp$prop_richness <- get_proportional(tmp$median_richness)
+    tmp$prop_richness <- get_proportional(tmp$mean_richness)
     tmp <- cbind.data.frame(name, tmp)
     master <- rbind.data.frame(master, tmp)
   }
@@ -51,7 +51,7 @@ for(t in type){
   for(i in files){
     name <- tools::file_path_sans_ext(i)
     tmp <- read.csv(paste("./results/", t, "/LBGs/Rarefied/", i, sep = ""))
-    tmp$prop_richness <- get_proportional(tmp$median_richness)
+    tmp$prop_richness <- get_proportional(tmp$mean_richness)
     tmp <- cbind.data.frame(name, tmp)
     master <- rbind.data.frame(master, tmp)
   }

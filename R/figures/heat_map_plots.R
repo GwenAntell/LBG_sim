@@ -48,27 +48,27 @@ FlatSim_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Simulated") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "Flat-type", subtitle = "Simulated") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = "black"),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-FlatSim_plot <- FlatSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+FlatSim_plot <- FlatSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 
 FlatSim_plot
 
@@ -82,27 +82,27 @@ FlatSamp_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampled") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampled") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = "black"),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-FlatSamp_plot <- FlatSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+FlatSamp_plot <- FlatSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 FlatSamp_plot
 
 #---------------------------------
@@ -115,27 +115,27 @@ FlatCR_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampling-standardised") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampling-standardised") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = "black"),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = "black"),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-FlatCR_plot <- FlatCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+FlatCR_plot <- FlatCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 FlatCR_plot
 
 #---------------------------------
@@ -149,27 +149,27 @@ UnimodalSim_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Simulated") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "Unimodal-type", subtitle = "Simulated") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-UnimodalSim_plot <- UnimodalSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+UnimodalSim_plot <- UnimodalSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 
 UnimodalSim_plot
 
@@ -183,27 +183,27 @@ UnimodalSamp_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampled") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampled") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-UnimodalSamp_plot <- UnimodalSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+UnimodalSamp_plot <- UnimodalSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 UnimodalSamp_plot
 
 #---------------------------------
@@ -216,27 +216,27 @@ UnimodalCR_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampling-standardised") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampling-standardised") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = "black"),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-UnimodalCR_plot <- UnimodalCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+UnimodalCR_plot <- UnimodalCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 UnimodalCR_plot
 
 #---------------------------------
@@ -250,27 +250,27 @@ BimodalSim_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Simulated") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "Bimodal-type", subtitle = "Simulated") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-BimodalSim_plot <- BimodalSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+BimodalSim_plot <- BimodalSim_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6,  title.hjust = 0.5))
 
 BimodalSim_plot
 
@@ -284,27 +284,27 @@ BimodalSamp_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampled") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampled") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = NA),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-BimodalSamp_plot <- BimodalSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+BimodalSamp_plot <- BimodalSamp_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6, title.hjust = 0.5))
 BimodalSamp_plot
 
 #---------------------------------
@@ -317,27 +317,27 @@ BimodalCR_plot <- ggplot() +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
   coord_fixed(ratio = 0.8) +
-  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), subtitle = "Sampling-standardised") +
+  labs(x = "Time (Ma)", y = expression(bold(paste("Latitude (",degree,")"))), title = "", subtitle = "Sampling-standardised") +
   theme(
     axis.text.x=element_text(size = 10, vjust = -2, angle = 0),
-    axis.text.y=element_text(size = 10, hjust = 0, angle = 0),
+    axis.text.y=element_text(size = 10, hjust = 1, angle = 0),
     axis.title.x=element_text(size = 12, face = "bold", vjust = -4, colour = "black"),
     axis.title.y=element_text(size = 12, face = "bold", vjust = 4, colour = NA),
     plot.subtitle = element_text(size = 12, hjust = 0.5, face = "bold"),
     legend.position="bottom",
-    plot.title = element_text(hjust = 0.5, vjust = 1, size = 16, face = "bold"),
+    plot.title = element_text(hjust = 0.5, vjust = 1, size = 12, face = "bold"),
     legend.text = element_text(size = 12),
     legend.key.width = unit(c(3.5), "cm"),
     legend.key.height = unit(c(0.75), "cm"),
     legend.background = element_blank(),
-    legend.title = element_text(size = 12, face = "bold", vjust = -6, colour = "white"),
+    legend.title = element_text(size = 14, face = "bold", vjust = -6, colour = "white"),
     plot.margin = unit(c(0.15,0.15,0.15,0.35), "cm"),
     panel.background=element_blank(),
     panel.grid.minor=element_blank(),
     plot.background=element_blank())
 
 
-BimodalCR_plot <- BimodalCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Proportional richness change", title.position = "top", title.hjust = 0.5))
+BimodalCR_plot <- BimodalCR_plot + guides(fill = guide_colourbar(ticks.colour = "black", frame.colour = "black", label = TRUE, title = "Normalised richness", title.position = "top", title.vjust = -6, title.hjust = 0.5))
 BimodalCR_plot
 
 #---------------------------------
@@ -346,14 +346,8 @@ BimodalCR_plot
 
 p <- ggarrange(FlatSim_plot, UnimodalSim_plot, BimodalSim_plot, FlatSamp_plot, UnimodalSamp_plot, 
                BimodalSamp_plot, FlatCR_plot, UnimodalCR_plot, BimodalCR_plot, 
-               ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), common.legend = TRUE, font.label = list(size = 12), legend="bottom", labels = "AUTO", align = "v", label.x = 0.15)
+               ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), common.legend = TRUE, font.label = list(size = 12), legend="bottom", labels = "auto", align = "v", label.x = 0.15)
 
-p
 
-png("./figures/heat_map.png",width = 300, height = 210, units = "mm", res = 300)
-p
-dev.off()
-
-pdf("./figures/heat_map.pdf", width = 14.9606, height = 8.26772, useDingbats = FALSE)
-p
-dev.off()
+ggsave("./figures/heat_map.png", plot = p, width = 300, height = 230, units = "mm", dpi = 300)
+#ggsave("./figures/heat_map.pdf", plot = p, width = 14.9606, height = 8.26772, useDingbats = FALSE)

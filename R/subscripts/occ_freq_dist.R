@@ -77,23 +77,23 @@ data <- read.csv("./results/unimodal/pre_industrial.csv")
 n <- sample(x = unique(data$rep), size = 1)
 sample_sim <- subset(data, rep == n)
 
-png("./results/frequency_dist/empirical_occ_freq.png", width = 210, height = 150, 
+png("./figures/empirical_occ_freq.png", width = 210, height = 150, 
     units = "mm", res = 300)
 
 par(mfrow=c(2,3))
 
 Anthozoa_occ <- occ_freq(data = Anthozoa, breaks = n_breaks)
-title("A", adj = 0, cex.main = 1.25)
+title("a", adj = 0, cex.main = 1.75)
 Porifera_occ <- occ_freq(data = Porifera, breaks = n_breaks)
-title("B", adj = 0, cex.main = 1.25)
+title("b", adj = 0, cex.main = 1.75)
 Bivalvia_occ <- occ_freq(data = Bivalvia, breaks = n_breaks)
-title("C", adj = 0, cex.main = 1.25)
+title("c", adj = 0, cex.main = 1.75)
 Brachiopoda_occ <- occ_freq(data = Brachiopoda, breaks = n_breaks)
-title("D", adj = 0, cex.main = 1.25)
+title("d", adj = 0, cex.main = 1.75)
 Echinoidea_occ <- occ_freq(data = Echinoidea, breaks = n_breaks)
-title("E", adj = 0, cex.main = 1.25)
+title("e", adj = 0, cex.main = 1.75)
 Sim_occ <- occ_freq(data = sample_sim, breaks = n_breaks)
-title("F", adj = 0, cex.main = 1.25)
+title("f", adj = 0, cex.main = 1.75)
 
 dev.off()
 

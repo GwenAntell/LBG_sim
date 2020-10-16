@@ -23,16 +23,16 @@ data <- unique(data)
 Anthozoa <- data
 
 
-png("./results/frequency_dist/empirical_range_freq.png", width = 210, height = 290, 
+png("./figures/empirical_range_freq.png", width = 210, height = 290, 
     units = "mm", res = 300)
 
 par(mfrow=c(5,3))
 Anthozoa.LAT <- range_freq(data = Anthozoa, metric = "latitude", breaks = LatBreaks)
-title("A", adj = 0, cex.main = 1.25)
+title("a", adj = 0, cex.main = 1.75)
 Anthozoa.LNG <- range_freq(data = Anthozoa, metric = "longitude", breaks = LongBreaks)
-title("B", adj = 0, cex.main = 1.25)
+title("b", adj = 0, cex.main = 1.75)
 Anthozoa.GCD <- range_freq(data = Anthozoa, metric = "GCD", breaks = GCDBreaks)
-title("C", adj = 0, cex.main = 1.25)
+title("c", adj = 0, cex.main = 1.75)
 
 
 #PORIFERA#
@@ -49,11 +49,11 @@ data <- unique(data)
 Porifera <- data
 
 Porifera.LAT <- range_freq(data = Porifera, metric = "latitude", breaks = LatBreaks)
-title("D", adj = 0, cex.main = 1.25)
+title("d", adj = 0, cex.main = 1.75)
 Porifera.LNG <- range_freq(data = Porifera, metric = "longitude", breaks = LongBreaks)
-title("E", adj = 0, cex.main = 1.25)
+title("e", adj = 0, cex.main = 1.75)
 Porifera.GCD <- range_freq(data = Porifera, metric = "GCD", breaks = GCDBreaks)
-title("F", adj = 0, cex.main = 1.25)
+title("f", adj = 0, cex.main = 1.75)
 
 #BIVALVIA#
 
@@ -69,11 +69,11 @@ data <- unique(data)
 Bivalvia <- unique(data)
 
 Bivalvia.LAT <- range_freq(data = Bivalvia, metric = "latitude", breaks = LatBreaks)
-title("G", adj = 0, cex.main = 1.25)
+title("g", adj = 0, cex.main = 1.75)
 Bivalvia.LNG <- range_freq(data = Bivalvia, metric = "longitude", breaks = LongBreaks)
-title("H", adj = 0, cex.main = 1.25)
+title("h", adj = 0, cex.main = 1.75)
 Bivalvia.GCD <- range_freq(data = Bivalvia, metric = "GCD", breaks = GCDBreaks)
-title("I", adj = 0, cex.main = 1.25)
+title("i", adj = 0, cex.main = 1.75)
 
 #BRACHIOPODA#
 
@@ -89,11 +89,11 @@ data <- unique(data)
 Brachiopoda <- unique(data)
 
 Brachiopoda.LAT <- range_freq(data = Brachiopoda, metric = "latitude", breaks = LatBreaks)
-title("J", adj = 0, cex.main = 1.25)
+title("j", adj = 0, cex.main = 1.75)
 Brachiopoda.LNG <- range_freq(data = Brachiopoda, metric = "longitude", breaks = LongBreaks)
-title("K", adj = 0, cex.main = 1.25)
+title("k", adj = 0, cex.main = 1.75)
 Brachiopoda.GCD <- range_freq(data = Brachiopoda, metric = "GCD", breaks = GCDBreaks)
-title("L", adj = 0, cex.main = 1.25)
+title("l", adj = 0, cex.main = 1.75)
 
 #ECHINOIDEA#
 
@@ -109,11 +109,11 @@ data <- unique(data)
 Echinoidea <- unique(data)
 
 Echinoidea.LAT <- range_freq(data = Echinoidea, metric = "latitude", breaks = LatBreaks)
-title("M", adj = 0, cex.main = 1.25)
+title("m", adj = 0, cex.main = 1.75)
 Echinoidea.LNG <- range_freq(data = Echinoidea, metric = "longitude", breaks = LongBreaks)
-title("N", adj = 0, cex.main = 1.25)
+title("n", adj = 0, cex.main = 1.75)
 Echinoidea.GCD <- range_freq(data = Echinoidea, metric = "GCD", breaks = GCDBreaks)
-title("O", adj = 0, cex.main = 1.25)
+title("o", adj = 0, cex.main = 1.75)
 
 dev.off()
 
@@ -123,17 +123,17 @@ n <- sample(x = unique(data$rep), size = 1)
 sample_sim <- subset(data, rep == n)
 #range
 
-png("./results/frequency_dist/sim_range_freq.png", width = 250, height = 100, 
+png("./figures/sim_range_freq.png", width = 250, height = 100, 
     units = "mm", res = 300)
 
 par(mfrow=c(1,3))
 
 sim_lat <- range_freq(data = sample_sim, metric = "latitude", breaks = LatBreaks)
-title("A", adj = 0, cex.main = 1.25)
+title("a", adj = 0, cex.main = 1.75)
 sim_lng <- range_freq(data = sample_sim, metric = "longitude", breaks = LongBreaks)
-title("B", adj = 0, cex.main = 1.25)
+title("b", adj = 0, cex.main = 1.75)
 sim_GCD <- range_freq(data = sample_sim, metric = "GCD", breaks = GCDBreaks)
-title("C", adj = 0, cex.main = 1.25)
+title("c", adj = 0, cex.main = 1.75)
 
 dev.off()
 

@@ -21,13 +21,13 @@ for(i in files){
   })
 
   df <- do.call(cbind, df)
-  median_richness <- median(df)
+  mean_richness <- mean(df)
   
   quant <- quantile(df, probs = c(0.025, 0.975))
   CI.Lower <- quant[1]
   CI.Upper <- quant[2]
   
-  df <- cbind.data.frame(name, median_richness, CI.Lower, CI.Upper)
+  df <- cbind.data.frame(name, mean_richness, CI.Lower, CI.Upper)
   master <- rbind.data.frame(master, df)
 }
 
@@ -53,13 +53,13 @@ for(i in files){
   })
   
   df <- do.call(cbind, df)
-  median_richness <- median(df)
+  mean_richness <- mean(df)
   
   quant <- quantile(df, probs = c(0.025, 0.975))
   CI.Lower <- quant[1]
   CI.Upper <- quant[2]
   
-  df <- cbind.data.frame(name, median_richness, CI.Lower, CI.Upper)
+  df <- cbind.data.frame(name, mean_richness, CI.Lower, CI.Upper)
   master <- rbind.data.frame(master, df)
 }
 
@@ -86,13 +86,13 @@ for(i in files){
   })
   
   df <- do.call(cbind, df)
-  median_richness <- median(df)
+  mean_richness <- mean(df)
   
   quant <- quantile(df, probs = c(0.025, 0.975))
   CI.Lower <- quant[1]
   CI.Upper <- quant[2]
   
-  df <- cbind.data.frame(name, median_richness, CI.Lower, CI.Upper)
+  df <- cbind.data.frame(name, mean_richness, CI.Lower, CI.Upper)
   master <- rbind.data.frame(master, df)
 }
 

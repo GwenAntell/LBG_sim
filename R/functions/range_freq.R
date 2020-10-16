@@ -15,7 +15,7 @@ range_freq <- function(data,  metric = "latitude", breaks){
     output <- suppressWarnings(dplyr::bind_rows(dat))
     max <- max(output$range, na.rm = TRUE)
     brk <- seq(from = 0, to = (max+breaks), by = breaks)
-    h <- hist(output$range, main = "", breaks = brk, col = "#c51b8a", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Latitude~(degree))))
+    h <- hist(output$range, main = "", breaks = brk, cex.lab=1.25, col = "#c51b8a", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Latitude~(degree))))
     output <- cbind.data.frame(h$breaks[2:length(h$breaks)], h$counts)
     colnames(output) <- c("breaks", "counts")
   }
@@ -37,7 +37,7 @@ range_freq <- function(data,  metric = "latitude", breaks){
     output <- suppressWarnings(dplyr::bind_rows(dat))
     max <- max(output$range, na.rm = TRUE)
     brk <- seq(from = 0, to = (max+breaks), by = breaks)
-    h <- hist(output$range, main = "", breaks = brk, col = "#3182bd", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Longitude~(degree))))
+    h <- hist(output$range, main = "", breaks = brk, cex.lab=1.25, col = "#3182bd", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Longitude~(degree))))
     output <- cbind.data.frame(h$breaks[2:length(h$breaks)], h$counts)
     colnames(output) <- c("breaks", "counts")
   }
@@ -59,7 +59,7 @@ range_freq <- function(data,  metric = "latitude", breaks){
     max <- max(output$range, na.rm = TRUE)
     brk <- seq(from = 0, to = (max+breaks), by = breaks)
     
-    h <- hist(output$range, main = "", breaks = brk, col = "#2ca25f", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Range~(km))))
+    h <- hist(output$range, main = "", breaks = brk, cex.lab=1.25, col = "#2ca25f", freq = TRUE, ylab = expression(bold(Frequency)), xlab = expression(bold(Range~(km))))
     output <- cbind.data.frame(h$breaks[2:length(h$breaks)], h$counts)
     colnames(output) <- c("breaks", "counts")
   }
