@@ -16,7 +16,7 @@ sampled <- unique(stringr::str_remove(string = sampled, pattern = "_sampled"))
 rarefied <- list.files(path = "./results/unimodal/LBGs/Rarefied/", pattern = ".csv")
 
 
-#type
+#unimodal and bimodal type
 master <- data.frame()
 
 for(i in 1:length(simulated)){
@@ -40,12 +40,12 @@ for(i in 1:length(simulated)){
   rare_unimodal$prop_richness <- get_proportional(rare_unimodal$mean_richness)
   rare_bimodal$prop_richness <- get_proportional(rare_bimodal$mean_richness)
   
-  sim_unimodal$prop_richness[is.na(sim_bimodal$prop_richness)] <- 0
+  sim_unimodal$prop_richness[is.na(sim_unimodal$prop_richness)] <- 0
   sim_bimodal$prop_richness[is.na(sim_bimodal$prop_richness)] <- 0
-  samp_unimodal$prop_richness[is.na(samp_bimodal$prop_richness)] <- 0
+  samp_unimodal$prop_richness[is.na(samp_unimodal$prop_richness)] <- 0
   samp_bimodal$prop_richness[is.na(samp_bimodal$prop_richness)] <- 0
-  rare_unimodal$prop_richness[is.na(rare_bimodal$prop_richness)] <- 0
-  rare_bimodal$prop_richness[is.na(rare_bimodal$prop_richness)] <- 0
+  rare_unimodal$prop_richness[is.na(rare_unimodal$prop_richness)] <- NA
+  rare_bimodal$prop_richness[is.na(rare_bimodal$prop_richness)] <- NA
   
   sim_ks_stat <- ks.test(sim_unimodal$prop_richness, sim_bimodal$prop_richness)$statistic
   sim_ks_sig <- ks.test(sim_unimodal$prop_richness, sim_bimodal$prop_richness)$p.value
@@ -64,7 +64,108 @@ for(i in 1:length(simulated)){
 master <- plyr::join(master, stages, by = "name", type = "left")
 master <- master[order(master$max_age),]
 
-write.csv(master, "./results/KS_test/LBG_type_temporal_KS_test.csv", row.names = FALSE)
+write.csv(master, "./results/KS_test/LBG_type_temporal_KS_test_UB.csv", row.names = FALSE)
+
+#unimodal and flat type
+master <- data.frame()
+
+for(i in 1:length(simulated)){
+  name <- tools::file_path_sans_ext(simulated[i])
+  
+  sim_unimodal <- read.csv(paste("./results/unimodal/LBGs/", simulated[i], sep = ""))
+  sim_flat <- read.csv(paste("./results/flat/LBGs/", simulated[i], sep = ""))
+  
+  samp_unimodal <- read.csv(paste("./results/unimodal/LBGs/Sampled/", sampled[i], sep = ""))
+  samp_flat <- read.csv(paste("./results/flat/LBGs/Sampled/", sampled[i], sep = ""))
+  
+  rare_unimodal <- read.csv(paste("./results/unimodal/LBGs/Rarefied/", rarefied[i], sep = ""))
+  rare_flat <- read.csv(paste("./results/flat/LBGs/Rarefied/", rarefied[i], sep = ""))
+  
+  sim_unimodal$prop_richness <- get_proportional(sim_unimodal$mean_richness)
+  sim_flat$prop_richness <- get_proportional(sim_flat$mean_richness)
+  
+  samp_unimodal$prop_richness <- get_proportional(samp_unimodal$mean_richness)
+  samp_flat$prop_richness <- get_proportional(samp_flat$mean_richness)
+  
+  rare_unimodal$prop_richness <- get_proportional(rare_unimodal$mean_richness)
+  rare_flat$prop_richness <- get_proportional(rare_flat$mean_richness)
+  
+  sim_unimodal$prop_richness[is.na(sim_unimodal$prop_richness)] <- 0
+  sim_flat$prop_richness[is.na(sim_flat$prop_richness)] <- 0
+  samp_unimodal$prop_richness[is.na(samp_unimodal$prop_richness)] <- 0
+  samp_flat$prop_richness[is.na(samp_flat$prop_richness)] <- 0
+  rare_unimodal$prop_richness[is.na(rare_unimodal$prop_richness)] <- NA
+  rare_flat$prop_richness[is.na(rare_flat$prop_richness)] <- NA
+  
+  sim_ks_stat <- ks.test(sim_unimodal$prop_richness, sim_flat$prop_richness)$statistic
+  sim_ks_sig <- ks.test(sim_unimodal$prop_richness, sim_flat$prop_richness)$p.value
+  
+  samp_ks_stat <- ks.test(samp_unimodal$prop_richness, samp_flat$prop_richness)$statistic
+  samp_ks_sig <- ks.test(samp_unimodal$prop_richness, samp_flat$prop_richness)$p.value
+  
+  rare_ks_stat <- ks.test(rare_unimodal$prop_richness, rare_flat$prop_richness)$statistic
+  rare_ks_sig <- ks.test(rare_unimodal$prop_richness, rare_flat$prop_richness)$p.value
+  
+  tmp <- cbind.data.frame(name, sim_ks_stat, sim_ks_sig, samp_ks_stat, samp_ks_sig, rare_ks_stat, rare_ks_sig)
+  master <- rbind.data.frame(master, tmp)
+  
+}
+
+master <- plyr::join(master, stages, by = "name", type = "left")
+master <- master[order(master$max_age),]
+
+write.csv(master, "./results/KS_test/LBG_type_temporal_KS_test_UF.csv", row.names = FALSE)
+
+#bimodal and flat type
+master <- data.frame()
+
+for(i in 1:length(simulated)){
+  name <- tools::file_path_sans_ext(simulated[i])
+  
+  sim_bimodal <- read.csv(paste("./results/bimodal/LBGs/", simulated[i], sep = ""))
+  sim_flat <- read.csv(paste("./results/flat/LBGs/", simulated[i], sep = ""))
+  
+  samp_bimodal <- read.csv(paste("./results/bimodal/LBGs/Sampled/", sampled[i], sep = ""))
+  samp_flat <- read.csv(paste("./results/flat/LBGs/Sampled/", sampled[i], sep = ""))
+  
+  rare_bimodal <- read.csv(paste("./results/bimodal/LBGs/Rarefied/", rarefied[i], sep = ""))
+  rare_flat <- read.csv(paste("./results/flat/LBGs/Rarefied/", rarefied[i], sep = ""))
+  
+  sim_bimodal$prop_richness <- get_proportional(sim_bimodal$mean_richness)
+  sim_flat$prop_richness <- get_proportional(sim_flat$mean_richness)
+  
+  samp_bimodal$prop_richness <- get_proportional(samp_bimodal$mean_richness)
+  samp_flat$prop_richness <- get_proportional(samp_flat$mean_richness)
+  
+  rare_bimodal$prop_richness <- get_proportional(rare_bimodal$mean_richness)
+  rare_flat$prop_richness <- get_proportional(rare_flat$mean_richness)
+  
+  sim_bimodal$prop_richness[is.na(sim_bimodal$prop_richness)] <- 0
+  sim_flat$prop_richness[is.na(sim_flat$prop_richness)] <- 0
+  samp_bimodal$prop_richness[is.na(samp_bimodal$prop_richness)] <- 0
+  samp_flat$prop_richness[is.na(samp_flat$prop_richness)] <- 0
+  rare_bimodal$prop_richness[is.na(rare_bimodal$prop_richness)] <- NA
+  rare_flat$prop_richness[is.na(rare_flat$prop_richness)] <- NA
+  
+  sim_ks_stat <- ks.test(sim_bimodal$prop_richness, sim_flat$prop_richness)$statistic
+  sim_ks_sig <- ks.test(sim_bimodal$prop_richness, sim_flat$prop_richness)$p.value
+  
+  samp_ks_stat <- ks.test(samp_bimodal$prop_richness, samp_flat$prop_richness)$statistic
+  samp_ks_sig <- ks.test(samp_bimodal$prop_richness, samp_flat$prop_richness)$p.value
+  
+  rare_ks_stat <- ks.test(rare_bimodal$prop_richness, rare_flat$prop_richness)$statistic
+  rare_ks_sig <- ks.test(rare_bimodal$prop_richness, rare_flat$prop_richness)$p.value
+  
+  tmp <- cbind.data.frame(name, sim_ks_stat, sim_ks_sig, samp_ks_stat, samp_ks_sig, rare_ks_stat, rare_ks_sig)
+  master <- rbind.data.frame(master, tmp)
+  
+}
+
+master <- plyr::join(master, stages, by = "name", type = "left")
+master <- master[order(master$max_age),]
+
+write.csv(master, "./results/KS_test/LBG_type_temporal_KS_test_FB.csv", row.names = FALSE)
+
 
 #unimodal
 master <- data.frame()
@@ -82,7 +183,7 @@ for(i in 1:length(simulated)){
   
   sim$prop_richness[is.na(sim$prop_richness)] <- 0 
   samp$prop_richness[is.na(samp$prop_richness)] <- 0 
-  rare$prop_richness[is.na(rare$prop_richness)] <- 0 
+  rare$prop_richness[is.na(rare$prop_richness)] <- 0
   
   sampled_ks_stat <- ks.test(sim$prop_richness, samp$prop_richness)$statistic
   sampled_ks_sig <- ks.test(sim$prop_richness, samp$prop_richness)$p.value
@@ -116,7 +217,7 @@ for(i in 1:length(simulated)){
   
   sim$prop_richness[is.na(sim$prop_richness)] <- 0 
   samp$prop_richness[is.na(samp$prop_richness)] <- 0 
-  rare$prop_richness[is.na(rare$prop_richness)] <- 0 
+  rare$prop_richness[is.na(rare$prop_richness)] <- 0
   
   sampled_ks_stat <- ks.test(sim$prop_richness, samp$prop_richness)$statistic
   sampled_ks_sig <- ks.test(sim$prop_richness, samp$prop_richness)$p.value
@@ -150,7 +251,7 @@ for(i in 1:length(simulated)){
   
   sim$prop_richness[is.na(sim$prop_richness)] <- 0 
   samp$prop_richness[is.na(samp$prop_richness)] <- 0 
-  rare$prop_richness[is.na(rare$prop_richness)] <- 0 
+  rare$prop_richness[is.na(rare$prop_richness)] <- 0
   
   sampled_ks_stat <- ks.test(sim$prop_richness, samp$prop_richness)$statistic
   sampled_ks_sig <- ks.test(sim$prop_richness, samp$prop_richness)$p.value

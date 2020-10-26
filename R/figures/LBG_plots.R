@@ -61,7 +61,7 @@ for(i in intervals){
     geom_point(data = Unimodal.sim, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[1], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Unimodal-type", subtitle = "Simulated") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Unimodal-type", subtitle = "Simulated") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -74,9 +74,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  unimodal.simplot <- unimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)"))
-  unimodal.simplot
-  
+  suppressMessages(unimodal.simplot <- unimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+
   unimodal.sampplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -85,7 +84,7 @@ for(i in intervals){
     geom_point(data = Unimodal.samp, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[2], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Unimodal-type", subtitle = "Sampled") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Unimodal-type", subtitle = "Sampled") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -98,9 +97,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  unimodal.sampplot <- unimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)"))
-  unimodal.sampplot
-  
+  suppressMessages(unimodal.sampplot <- unimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+
   unimodal.CRplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -109,7 +107,7 @@ for(i in intervals){
     geom_point(data = Unimodal.CR, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[3], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Unimodal-type", subtitle = "Rarefied") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Unimodal-type", subtitle = "Sampling-standardised") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -122,9 +120,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  unimodal.CRplot <- unimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  unimodal.CRplot
-  
+  suppressMessages(unimodal.CRplot <- unimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   flat.simplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -133,7 +130,7 @@ for(i in intervals){
     geom_point(data = Flat.sim, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[1], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Flat-type", subtitle = "Simulated") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Flat-type", subtitle = "Simulated") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -146,9 +143,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  flat.simplot <- flat.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  flat.simplot
-  
+  suppressMessages(flat.simplot <- flat.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   flat.sampplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -157,7 +153,7 @@ for(i in intervals){
     geom_point(data = Flat.samp, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[2], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Flat-type", subtitle = "Sampled") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Flat-type", subtitle = "Sampled") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -170,10 +166,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  flat.sampplot
-  flat.sampplot <- flat.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  flat.sampplot
-  
+  suppressMessages(flat.sampplot <- flat.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   flat.CRplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -182,7 +176,7 @@ for(i in intervals){
     geom_point(data = Flat.CR, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[3], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Flat-type", subtitle = "Rarefied") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Flat-type", subtitle = "Sampling-standardised") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -195,10 +189,8 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  flat.CRplot
-  flat.CRplot <- flat.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  flat.CRplot
-  
+  suppressMessages(flat.CRplot <- flat.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   bimodal.simplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -207,7 +199,7 @@ for(i in intervals){
     geom_point(data = Bimodal.sim, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[1], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Bimodal-type", subtitle = "Simulated") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Bimodal-type", subtitle = "Simulated") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -221,9 +213,8 @@ for(i in intervals){
           aspect.ratio = 0.6)
   
   
-  bimodal.simplot <- bimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)"))
-  bimodal.simplot
-  
+  suppressMessages(bimodal.simplot <- bimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+
   bimodal.sampplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -232,7 +223,7 @@ for(i in intervals){
     geom_point(data = Bimodal.samp, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[2], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Bimodal-type", subtitle = "Sampled") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Bimodal-type", subtitle = "Sampled") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -246,10 +237,8 @@ for(i in intervals){
           
           aspect.ratio = 0.6)
   
-  bimodal.sampplot
-  bimodal.sampplot <- bimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  bimodal.sampplot
-  
+  suppressMessages(bimodal.sampplot <- bimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   bimodal.CRplot <- ggplot() +
     geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
@@ -258,7 +247,7 @@ for(i in intervals){
     geom_point(data = Bimodal.CR, aes(x = mid, y = prop_richness), shape = 21, colour= "black", fill = col[3], size = 3, alpha = 1) +
     scale_x_continuous(expand=c(0,0), breaks = seq(-90, 90, 30), labels = seq(-90, 90, 30), limits = c(-90, 90)) +
     scale_y_continuous(expand=c(0,0), breaks = seq(0, 1, 0.25), labels = seq(0, 1, 0.25), limits = c(0, 1)) +
-    labs(y = "Standardised richness", x = expression(bold(paste("Latitude (",degree,")"))), title = "Bimodal-type", subtitle = "Rarefied") +
+    labs(y = "Proportional richness", x = expression(bold(paste("Palaeolatitude (",degree,")"))), title = "Bimodal-type", subtitle = "Sampling-standardised") +
     theme(panel.background = element_blank(),
           plot.margin = margin(0.15,0.5,0.15,0.5, "cm"),
           panel.border = element_rect(colour = "black", fill = NA),
@@ -271,14 +260,14 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  bimodal.CRplot <- bimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)"))
-  bimodal.CRplot
-  
+  suppressMessages(bimodal.CRplot <- bimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+
   combine <- ggarrange(flat.simplot, unimodal.simplot, bimodal.simplot,
                        flat.sampplot, unimodal.sampplot, bimodal.sampplot, 
                        flat.CRplot, unimodal.CRplot, bimodal.CRplot, 
-                       ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), labels = "auto", align = "v")
+                       ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), labels = "auto", align = "v", label.x = 0.1)
   plot_name <- stringr::str_to_title(i)
+  combine <- annotate_figure(combine, fig.lab = "", top = " ", fig.lab.pos = "top.left", fig.lab.size = 18)
   combine <- annotate_figure(combine, fig.lab = plot_name, top = " ", fig.lab.pos = "top.left", fig.lab.size = 18)
   ggsave(file=paste("./results/compiled_LBGs/plots/",mid_age,"_", i, ".png", sep =""), plot = combine, width = 210, height = 150, units = "mm", dpi = 300, scale = 1.7)
 }

@@ -9,11 +9,13 @@ source("./R/subscripts/calculate_ssc.R") #calculate SSC
 rm(list=ls())
 source("./R/figures/heat_map_SSC_plots.R") #plot SSC
 rm(list=ls())
-source("./R/subscripts/calculate_mst.R")
+source("./R/subscripts/calculate_mst.R") #calculated MST
 rm(list=ls())
 source("./R/figures/heat_map_MST_plots.R") #plot SSC
 rm(list=ls())
 source("./R/figures/combine_sampling_plots.R") #combine spatial sampling plots
+rm(list=ls())
+source("./R/figures/global_sampling_plot.R") #global sampling plot
 rm(list=ls())
 
 #frequency distributions
@@ -40,18 +42,38 @@ rm(list=ls())
 source("./R/figures/heat_map_plots.R") #summary heat map graphic of LBGs
 rm(list=ls())
 
-#Frechet distance
-source("./R/subscripts/calculate_frechet.R")
+#calculate residuals
+source("./R/figures/heat_map_residual_plots.R")
+rm(list=ls())
+
+#Calculate displacement
+source("./R/subscripts/calculate_sld.R")
+rm(list=ls())
+source("./R/figures/SLD_plot.R")
+rm(list=ls())
+source("./R/figures/SLD_type_plot.R")
+rm(list=ls())
+source("./R/figures/SLD_type_plot_all.R")
+rm(list=ls())
+
+#Pearson tests
+source("./R/subscripts/calculate_pearson.R")
+rm(list=ls())
+source("./R/figures/Pearson_plot.R")
 rm(list=ls())
 
 #KS tests
 source("./R/subscripts/KS_test.R")
 rm(list=ls())
-
-#slope estimates
-source("./R/subscripts/slope_estimates.R") #calculate slope estimates
+source("./R/figures/KS_plot.R")
 rm(list=ls())
-source("./R/figures/slope_plot.R") #calculate slope estimates
+
+#calculate maximum palaeolatitudinal richness
+source("./R/subscripts/get_max.R")
+rm(list=ls())
+source("./R/subscripts/format_get_max_table.R")
+rm(list=ls())
+source("./R/figures/max_plot.R")
 rm(list=ls())
 
 #linear models
@@ -64,7 +86,9 @@ rm(list=ls())
 #global diversity
 source("./R/subscripts/calculate_global_div.R") #calculate global diveristy
 rm(list=ls())
-source("./R/figures/global_div_plot.R") #generate global diveristy plot
+source("./R/figures/global_div_plot.R") #generate global diversity plot
+rm(list=ls())
+source("./R/subscripts/linear_models_global.R") #generate global linear models
 rm(list=ls())
 
 

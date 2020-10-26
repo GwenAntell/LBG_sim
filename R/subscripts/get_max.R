@@ -1,7 +1,5 @@
 #get max
 
-library(ggplot2)
-library(ggpubr)
 dir.create("./results/max_lat/")
 stages <- read.csv("./data/raw_data/stages.csv") #load stage bins
 col <- c("#1b9e77", "#d95f02", "#7570b3")
@@ -17,7 +15,7 @@ FlatCR$prop_richness[which(FlatCR$prop_richness == 0)] <- NA
 UnimodalSim <- read.csv("./results/compiled_LBGs/unimodal_simulated.csv")
 UnimodalSamp <- read.csv("./results/compiled_LBGs/unimodal_sampled.csv")
 UnimodalCR <- read.csv("./results/compiled_LBGs/unimodal_rarefied.csv")
-unimodalCR$prop_richness[which(unimodalCR$prop_richness == 0)] <- NA
+UnimodalCR$prop_richness[which(UnimodalCR$prop_richness == 0)] <- NA
 
 #---------------------------------
 

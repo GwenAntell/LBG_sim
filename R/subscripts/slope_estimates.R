@@ -39,28 +39,29 @@ for(i in 1:length(simulated)){
   rareN <- subset(rare, hemisphere == "N")
   rareS <- subset(rare, hemisphere == "S")
   #simulated
-  if(sum(!is.na(simN$prop_richness)) < 3) {SimulatedN <- NA; SimulatedN.sig <- NA}
+  if(sum(!is.na(simN$prop_richness)) < 4) {SimulatedN <- NA; SimulatedN.sig <- NA}
   else{SimulatedN <- summary(lm(simN$prop_richness~simN$mid))$coefficients[2]
   SimulatedN.sig <- summary(lm(simN$prop_richness~simN$mid))$coefficients[4]}
   
-  if(sum(!is.na(simS$prop_richness)) < 3) {SimulatedS <- NA; SimulatedS.sig <- NA}
+  if(sum(!is.na(simS$prop_richness)) < 4) {SimulatedS <- NA; SimulatedS.sig <- NA}
   else{SimulatedS <- summary(lm(simS$prop_richness~simS$mid))$coefficients[2]
   SimulatedS.sig <- summary(lm(simS$prop_richness~simS$mid))$coefficients[4]}
+  
   #sampled
-  if(sum(!is.na(sampN$prop_richness)) < 3) {SampledN <- NA; SampledN.sig <- NA}
+  if(sum(!is.na(sampN$prop_richness)) < 4) {SampledN <- NA; SampledN.sig <- NA}
   else{SampledN <- summary(lm(sampN$prop_richness~sampN$mid))$coefficients[2]
   SampledN.sig <- summary(lm(sampN$prop_richness~sampN$mid))$coefficients[4]}
   
-  if(sum(!is.na(sampS$prop_richness)) < 3) {SampledS <- NA; SampledS.sig <- NA}
+  if(sum(!is.na(sampS$prop_richness)) < 4) {SampledS <- NA; SampledS.sig <- NA}
   else{SampledS <- summary(lm(sampS$prop_richness~sampS$mid))$coefficients[2]
   SampledS.sig <- summary(lm(sampS$prop_richness~sampS$mid))$coefficients[4]}
   
   #rarefied
-  if(sum(!is.na(rareN$prop_richness)) < 3) {RarefiedN <- NA; RarefiedN.sig <- NA}
+  if(sum(!is.na(rareN$prop_richness)) < 4) {RarefiedN <- NA; RarefiedN.sig <- NA}
   else{RarefiedN <- summary(lm(rareN$prop_richness~rareN$mid))$coefficients[2]
   RarefiedN.sig <- summary(lm(rareN$prop_richness~rareN$mid))$coefficients[4]}
   
-  if(sum(!is.na(rareS$prop_richness)) < 3) {RarefiedS <- NA; RarefiedS.sig <- NA}
+  if(sum(!is.na(rareS$prop_richness)) < 4) {RarefiedS <- NA; RarefiedS.sig <- NA}
   else{RarefiedS <- summary(lm(rareS$prop_richness~rareS$mid))$coefficients[2]
   RarefiedS.sig <- summary(lm(rareS$prop_richness~rareS$mid))$coefficients[4]}
   
@@ -99,28 +100,28 @@ for(i in 1:length(simulated)){
   rareN <- subset(rare, hemisphere == "N")
   rareS <- subset(rare, hemisphere == "S")
   #simulated
-  if(sum(!is.na(simN$prop_richness)) < 3) {SimulatedN <- NA; SimulatedN.sig <- NA}
+  if(sum(!is.na(simN$prop_richness)) < 4) {SimulatedN <- NA; SimulatedN.sig <- NA}
   else{SimulatedN <- summary(lm(simN$prop_richness~simN$mid))$coefficients[2]
   SimulatedN.sig <- summary(lm(simN$prop_richness~simN$mid))$coefficients[4]}
   
-  if(sum(!is.na(simS$prop_richness)) < 3) {SimulatedS <- NA; SimulatedS.sig <- NA}
+  if(sum(!is.na(simS$prop_richness)) < 4) {SimulatedS <- NA; SimulatedS.sig <- NA}
   else{SimulatedS <- summary(lm(simS$prop_richness~simS$mid))$coefficients[2]
   SimulatedS.sig <- summary(lm(simS$prop_richness~simS$mid))$coefficients[4]}
   #sampled
-  if(sum(!is.na(sampN$prop_richness)) < 3) {SampledN <- NA; SampledN.sig <- NA}
+  if(sum(!is.na(sampN$prop_richness)) < 4) {SampledN <- NA; SampledN.sig <- NA}
   else{SampledN <- summary(lm(sampN$prop_richness~sampN$mid))$coefficients[2]
   SampledN.sig <- summary(lm(sampN$prop_richness~sampN$mid))$coefficients[4]}
   
-  if(sum(!is.na(sampS$prop_richness)) < 3) {SampledS <- NA; SampledS.sig <- NA}
+  if(sum(!is.na(sampS$prop_richness)) < 4) {SampledS <- NA; SampledS.sig <- NA}
   else{SampledS <- summary(lm(sampS$prop_richness~sampS$mid))$coefficients[2]
   SampledS.sig <- summary(lm(sampS$prop_richness~sampS$mid))$coefficients[4]}
   
   #rarefied
-  if(sum(!is.na(rareN$prop_richness)) < 3) {RarefiedN <- NA; RarefiedN.sig <- NA}
+  if(sum(!is.na(rareN$prop_richness)) < 4) {RarefiedN <- NA; RarefiedN.sig <- NA}
   else{RarefiedN <- summary(lm(rareN$prop_richness~rareN$mid))$coefficients[2]
   RarefiedN.sig <- summary(lm(rareN$prop_richness~rareN$mid))$coefficients[4]}
   
-  if(sum(!is.na(rareS$prop_richness)) < 3) {RarefiedS <- NA; RarefiedS.sig <- NA}
+  if(sum(!is.na(rareS$prop_richness)) < 4) {RarefiedS <- NA; RarefiedS.sig <- NA}
   else{RarefiedS <- summary(lm(rareS$prop_richness~rareS$mid))$coefficients[2]
   RarefiedS.sig <- summary(lm(rareS$prop_richness~rareS$mid))$coefficients[4]}
   

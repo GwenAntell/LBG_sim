@@ -22,9 +22,6 @@ flat_sim$mean_richness[flat_sim$mean_richness == 0] <- NA
 flat_samp$mean_richness[flat_samp$mean_richness == 0] <- NA
 flat_rare$mean_richness[flat_rare$mean_richness == 0] <- NA
 
-#flat_sim$mean_richness <- flat_sim$mean_richness + 1
-#flat_samp$mean_richness <- flat_samp$mean_richness + 1
-#flat_rare$mean_richness <- flat_rare$mean_richness + 1
 
 unimodal_sim <- read.csv("./results/compiled_LBGs/unimodal_simulated.csv")
 unimodal_samp <- read.csv("./results/compiled_LBGs/unimodal_sampled.csv")
@@ -36,9 +33,6 @@ unimodal_sim$mean_richness[unimodal_sim$mean_richness == 0] <- NA
 unimodal_samp$mean_richness[unimodal_samp$mean_richness == 0] <- NA
 unimodal_rare$mean_richness[unimodal_rare$mean_richness == 0] <- NA
 
-#unimodal_sim$mean_richness <- unimodal_sim$mean_richness + 1
-#unimodal_samp$mean_richness <- unimodal_samp$mean_richness + 1
-#unimodal_rare$mean_richness <- unimodal_rare$mean_richness + 1
 
 bimodal_sim <- read.csv("./results/compiled_LBGs/bimodal_simulated.csv")
 bimodal_samp <- read.csv("./results/compiled_LBGs/bimodal_sampled.csv")
@@ -49,10 +43,6 @@ bimodal_rare<- bimodal_rare[order(bimodal_rare$mid_age),]
 bimodal_sim$mean_richness[bimodal_sim$mean_richness == 0] <- NA
 bimodal_samp$mean_richness[bimodal_samp$mean_richness == 0] <- NA
 bimodal_rare$mean_richness[bimodal_rare$mean_richness == 0] <- NA
-
-#bimodal_sim$mean_richness <- bimodal_sim$mean_richness + 1
-#bimodal_samp$mean_richness <- bimodal_samp$mean_richness + 1
-#bimodal_rare$mean_richness <- bimodal_rare$mean_richness + 1
 
 
 #---------------------------------
@@ -66,7 +56,7 @@ for(i in 1:nrow(periods)){
 }
 #---------------------------------
 #layout
-png("./figures/linear_models_MST.png", height = 220, width = 220, unit = "mm", res = 600)
+png("./figures/linear_models_MST.png", height = 220, width = 220, unit = "mm", res = 900)
 
 m <- matrix(c(1,2,3,4,5,6,7,8,9,10,10,10),nrow = 4,ncol = 3,byrow = TRUE)
 layout(mat = m,heights = c(0.8, 0.8, 0.8, 0.1))
@@ -127,7 +117,7 @@ title("d", adj = 0)
 title("Simulated unimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(flat_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(unimodal_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
 abline(fit <- lm(log(unimodal_sim$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
 Fit <- cor.test(log(unimodal_sim$mean_richness), log(MST$MST))
