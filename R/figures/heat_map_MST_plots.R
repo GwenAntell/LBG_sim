@@ -24,7 +24,7 @@ for(i in 1:nrow(periods)){
 
 MST_plot <- ggplot() + 
   geom_tile(data = MST, aes(x = mid_age, y = mid, fill = MST, width = duration, height = 20), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(0, 35000), breaks=seq(0,35000,by=5000), labels = seq(0,35000,by=5000)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(0, 27000), breaks=seq(0,27000,by=3000), labels = seq(0,27000,by=3000)) +
   geom_tile(data = stages, aes(x = mid_age, y = 95, width = duration, height = 10), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 95, label = abbr), color = "black", size = 4) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +

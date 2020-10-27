@@ -18,9 +18,9 @@ flat_rare <- read.csv("./results/compiled_LBGs/flat_rarefied.csv")
 flat_sim <- flat_sim[order(flat_sim$mid_age),]
 flat_samp <- flat_samp[order(flat_samp$mid_age),]
 flat_rare<- flat_rare[order(flat_rare$mid_age),]
-flat_sim$mean_richness[flat_sim$mean_richness == 0] <- NA
-flat_samp$mean_richness[flat_samp$mean_richness == 0] <- NA
-flat_rare$mean_richness[flat_rare$mean_richness == 0] <- NA
+flat_sim$mean_richness[flat_sim$mean_richness < 1] <- NA
+flat_samp$mean_richness[flat_samp$mean_richness < 1] <- NA
+flat_rare$mean_richness[flat_rare$mean_richness < 1] <- NA
 
 
 unimodal_sim <- read.csv("./results/compiled_LBGs/unimodal_simulated.csv")
@@ -29,9 +29,9 @@ unimodal_rare <- read.csv("./results/compiled_LBGs/unimodal_rarefied.csv")
 unimodal_sim <- unimodal_sim[order(unimodal_sim$mid_age),]
 unimodal_samp <- unimodal_samp[order(unimodal_samp$mid_age),]
 unimodal_rare<- unimodal_rare[order(unimodal_rare$mid_age),]
-unimodal_sim$mean_richness[unimodal_sim$mean_richness == 0] <- NA
-unimodal_samp$mean_richness[unimodal_samp$mean_richness == 0] <- NA
-unimodal_rare$mean_richness[unimodal_rare$mean_richness == 0] <- NA
+unimodal_sim$mean_richness[unimodal_sim$mean_richness < 1] <- NA
+unimodal_samp$mean_richness[unimodal_samp$mean_richness < 1] <- NA
+unimodal_rare$mean_richness[unimodal_rare$mean_richness < 1] <- NA
 
 
 bimodal_sim <- read.csv("./results/compiled_LBGs/bimodal_simulated.csv")
@@ -40,9 +40,9 @@ bimodal_rare <- read.csv("./results/compiled_LBGs/bimodal_rarefied.csv")
 bimodal_sim <- bimodal_sim[order(bimodal_sim$mid_age),]
 bimodal_samp <- bimodal_samp[order(bimodal_samp$mid_age),]
 bimodal_rare<- bimodal_rare[order(bimodal_rare$mid_age),]
-bimodal_sim$mean_richness[bimodal_sim$mean_richness == 0] <- NA
-bimodal_samp$mean_richness[bimodal_samp$mean_richness == 0] <- NA
-bimodal_rare$mean_richness[bimodal_rare$mean_richness == 0] <- NA
+bimodal_sim$mean_richness[bimodal_sim$mean_richness < 1] <- NA
+bimodal_samp$mean_richness[bimodal_samp$mean_richness < 1] <- NA
+bimodal_rare$mean_richness[bimodal_rare$mean_richness < 1] <- NA
 
 
 #---------------------------------

@@ -49,7 +49,7 @@ BimodalSim$SimRare <-  BimodalCR$prop_richness - BimodalSim$prop_richness
 
 FlatSimSamp <- ggplot() + 
   geom_tile(data = FlatSim, aes(x = mid_age, y = mid, fill = SimSamp, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
@@ -83,7 +83,7 @@ FlatSimSamp
 
 FlatSimRare <- ggplot() + 
   geom_tile(data = FlatSim, aes(x = mid_age, y = mid, fill = SimRare, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
@@ -116,7 +116,7 @@ FlatSimRare
 #---------------------------------
 UnimodalSimSamp <- ggplot() + 
   geom_tile(data = UnimodalSim, aes(x = mid_age, y = mid, fill = SimSamp, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
@@ -150,7 +150,7 @@ UnimodalSimSamp
 
 UnimodalSimRare <- ggplot() + 
   geom_tile(data = UnimodalSim, aes(x = mid_age, y = mid, fill = SimRare, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
@@ -183,7 +183,7 @@ UnimodalSimRare
 #---------------------------------
 BimodalSimSamp <- ggplot() + 
   geom_tile(data = BimodalSim, aes(x = mid_age, y = mid, fill = SimSamp, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +
@@ -217,7 +217,7 @@ BimodalSimSamp
 
 BimodalSimRare <- ggplot() + 
   geom_tile(data = BimodalSim, aes(x = mid_age, y = mid, fill = SimRare, width = duration, height = 15), colour = "black") +
-  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.3, 0.7), breaks=seq(-0.3,0.7,by=0.25), labels = seq(-0.3,0.7,by=0.25)) +
+  scale_fill_viridis(option = "D", direction = 1, limits=c(-0.4, 0.8), breaks=seq(-0.4,0.8,by=0.2), labels = seq(-0.4,0.8,by=0.2)) +
   geom_tile(data = stages, aes(x = mid_age, y = 97.5, width = duration, height = 15), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 97.5, label = abbr), color = "black", size = 2.75) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 45)) +

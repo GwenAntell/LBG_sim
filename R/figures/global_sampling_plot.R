@@ -16,15 +16,15 @@ s <- seq(2, 56, 2)
 throwing_shade <- stages[s,]
 
 p1 <- ggplot() +
-  geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=-0.25, ymax= 5), linetype = 0, color="grey90", alpha=0.1)  +
-  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y = -0.25, yend = 5), linetype = 2, size = 1, color = "grey80") +
-  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin= -0.25, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
-  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.25, ymax= 0), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
-  geom_text(data = periods, mapping=aes(x=(min_age+max_age)/2, y= -0.125, label = abbr), colour = "black", alpha=1)  +
+  geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=-0.15, ymax= 3), linetype = 0, color="grey90", alpha=0.1)  +
+  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y = -0.15, yend = 3), linetype = 2, size = 1, color = "grey80") +
+  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin= -0.15, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.15, ymax= 0), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
+  geom_text(data = periods, mapping=aes(x=(min_age+max_age)/2, y= -0.0725, label = abbr), colour = "black", alpha=1)  +
   geom_line(data = ssc, aes(x = mid_age, y = ssc), colour = col[1], size = 1.2) +
   geom_point(data = ssc, aes(x = mid_age, y = ssc), shape = 21, colour= "black", fill = col[1], size = 3) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 300, 50), labels = seq(0, 300, 50)) +
-  scale_y_continuous(expand = c(0,0)) +
+  scale_y_continuous(expand = c(0,0), breaks = seq(0, 3, 0.5), labels = seq(0, 3, 0.5)) +
   labs(x = "", y = "Spatial sampling coverage (%)") +
   theme(panel.background = element_blank(),
         plot.margin = margin(0.5,0.5,0.5,0.5, "cm"),

@@ -13,8 +13,8 @@ my.settings <- list(
 
 collections <- list.files("./data/raw_data/binned_collections/masked/")
 
-col <- rasterVis::GrTheme(region = (brewer.pal(9, 'Greys')))
-col$panel.background$col <- "white"
+#col <- rasterVis::GrTheme(region = (brewer.pal(9, 'Greys')))
+#col$panel.background$col <- "white"
 
 
 for(i in collections){
@@ -38,7 +38,7 @@ for(i in collections){
   p <- rasterVis::levelplot(ras, main = paste(name,": ", min_age, "\u2012", max_age, " Ma", sep = ""), 
                             scales=list(x=list(cex=1),y=list(cex=1)), ylab = list("Palaeolatitude", fontface = "bold", fontsize = 16),
                             xlab = list("Palaeolongitude", fontface = "bold", fontsize = 16), colorkey = FALSE,
-                            margin=list(FUN = 'sum', axis=grid::gpar(col = 'black', fontsize = 12, fontface = "bold")), par.settings = col)
+                            margin=list(FUN = 'sum', axis=grid::gpar(col = 'black', fontsize = 12, fontface = "bold")), par.settings = BuRdTheme())
   
   p$par.settings$layout.heights[
     c( 'bottom.padding',
