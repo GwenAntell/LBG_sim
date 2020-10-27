@@ -32,7 +32,6 @@
 .Ruserdata
 *.DS_Store
   data/DEMs/*
-  data/shallow_marine_grids/*
   *.html
   *.docx
   
