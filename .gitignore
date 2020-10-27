@@ -35,6 +35,8 @@
   data/shallow_marine_grids/*
   *.html
   *.docx
+  
+rm --cached data/shallow_marine_grids/
 
 # LaTeX #
 *.aux
