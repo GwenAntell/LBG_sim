@@ -27,9 +27,10 @@
 *.asc
 *.nc
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+*.gitattributes
+*.Rhistory
+*.RData
+*.Ruserdata
 *.DS_Store
   data/DEMs/*
   data/shallow_marine_grids/*
