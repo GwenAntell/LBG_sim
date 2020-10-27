@@ -11,12 +11,16 @@ To cite the paper:
   <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/paper_workflow.png" alt="" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/results/GIF/spatial_sampling.gif" alt="" width="400"/>
+</p>
+
 -------
 
 ## Data
 The data is organised in the folder "data" as follows:
 
-* **raw_data**
+* **./data/raw_data/**
 This folder contains the collections from the Paleobiology Database, as well as stratigraphic stage and period bins used in this study.
 
 -------
@@ -32,5 +36,25 @@ This script simulates the stage-level flat-, unimodal- and bimodal-type latitudi
 
 * **./R/run_analyses.R**
 This script runs the analyses.
+
+-------
+
+## Results
+The data is organised in the folder "results" as follows:
+
+* **./results/flat/**
+This folder contains the data related to simulated/sampled/sampling-standardised flat-type latitudinal biodiversity gradients.
+
+* **./results/unimodal/**
+This folder contains the data related to simulated/sampled/sampling-standardised unimodal-type latitudinal biodiversity gradients.
+
+* **./results/bimodal/**
+This folder contains the data related to simulated/sampled/sampling-standardised bimodal-type latitudinal biodiversity gradients.
+
+* **./results/compiled_LBGs/**
+This folder contains the data related to all simulated/sampled/sampling-standardised latitudinal biodiversity gradients. The folder also includes stage-level plots.
+
+* **./results/GIF/**
+This folder contains plots of all stage-level sampling grids.
 
 -------
