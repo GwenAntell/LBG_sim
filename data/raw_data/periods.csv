@@ -1,0 +1,8 @@
+name,max_age,mid_age,min_age,abbr,color
+quaternary,2.588,1.294,0,Q,#F9F97F
+neogene,23.03,12.809,2.588,Ng,#FFE619
+paleogene,66,44.515,23.03,Pg,#FD9A52
+cretaceous,145,105.5,66,K,#7FC64E
+jurassic,201.3,173.15,145,J,#34B2C9
+triassic,252.17,226.735,201.3,Tr,#812B92
+permian,298.9,275.535,252.17,P,#F04028

@@ -1,0 +1,565 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"13120",24709,"col","",10.1,50.200001,"Kissingen",NA,"",3,"Induan","",252.17,251.2,6929,"gp_mid",30,27.04,"305",251.685,1
+"13121",24710,"col","",11.1,50.700001,"Singen",NA,"",4,"Induan","",252.17,251.2,6929,"gp_mid",30.59,27.66,"305",251.685,1
+"13122",24711,"col","",11.2,50.799999,"Bad Berka",NA,"",2,"Induan","",252.17,251.2,6929,"gp_mid",30.63,27.77,"305",251.685,1
+"13239",24961,"col","Lower Buntsandstein",20.666668,50.833332,"Lower Buntsandstein A1-a Tumlin-Podgrodzie IG1 borehole Kielce",NA,"",39,"Griesbachian","",252.17,251.3,6936,"gp_mid",37.22,29.26,"305",251.735,1
+"13243",24967,"col","Lower Buntsandstein",20.666668,50.833332,"Lower Buntsandstein A1-b Tumlin-Podgrodzie IG1 borehole Kielce",NA,"",36,"Griesbachian","",252.17,251.3,6936,"gp_mid",37.22,29.26,"305",251.735,1
+"13751",26379,"col","Kingscourt Sandstone",-6.785,53.900002,"Siltstone Member o-x Kingscourt",NA,"",8,"Griesbachian","",252.17,251.3,6998,"gp_mid",17.79,29.28,"313",251.735,1
+"13752",26380,"col","Kingscourt Sandstone",-6.785,53.900002,"Middle Sandstone Member y Kingscourt",NA,"",10,"Griesbachian","",252.17,251.3,6998,"gp_mid",17.79,29.28,"313",251.735,1
+"13753",26381,"col","Kingscourt Sandstone",-6.785,53.900002,"Middle Sandstone Member z Kingscourt",NA,"",10,"Griesbachian","",252.17,251.3,6998,"gp_mid",17.79,29.28,"313",251.735,1
+"15827",29979,"col","Hongqi",120.800003,41,"Nanpiao",NA,"PGAP 2201",9,"Induan","",252.17,251.2,8315,"gp_mid",122.63,9.48,"604",251.685,1
+"16300",30456,"col","",103.5,62.200001,"Ilimpei River",NA,"PGAP 2335",2,"Induan","",252.17,251.2,8169,"gp_mid",78.38,64.4,"401",251.685,1
+"17115",31358,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 58.95m",NA,"",41,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17134",31353,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 64.36m",NA,"",33,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17135",31354,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 63.56m",NA,"",34,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17136",31355,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 63.10m",NA,"",23,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17137",31356,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 62.20m",NA,"",19,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17138",31357,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 59.15m",NA,"",20,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17139",31359,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 57.23m",NA,"",39,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17140",31360,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 56.78m",NA,"",57,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17141",31361,"col","",29.27861,71.159721,"Finnmark core 7129/10-U-01 layer 56.43m",NA,"",53,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.63,49.67,"302",251.735,1
+"17169",31388,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 116.17m",NA,"",50,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17170",31389,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 115.94m",NA,"",32,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17171",31390,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 112.30m",NA,"",41,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17173",31392,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 109.65m",NA,"",22,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17174",31393,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 104.73m",NA,"",48,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17175",31394,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 103.90m",NA,"",34,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17176",31395,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 100.22m",NA,"",27,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17178",31397,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 94.23m",NA,"",31,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17179",31398,"col","",26.84111,71.241386,"Finnmark core 7128/12-U-01 layer 84.28m",NA,"",31,"Griesbachian","",252.17,251.3,8467,"gp_mid",31.49,49.4,"302",251.735,1
+"17180",31399,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 80.26m",NA,"",29,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17181",31400,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 75.05m",NA,"",26,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17184",31403,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 70.36m",NA,"",34,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17186",31405,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 66.04m",NA,"",21,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"17187",31406,"col","",28.841389,71.240555,"Finnmark core 7128/12-U-01 layer 64.34m",NA,"",35,"Griesbachian","",252.17,251.3,8467,"gp_mid",32.38,49.68,"302",251.735,1
+"18199",32510,"col","Blind Fiord",-71.25,81.834999,"Lake Hazen, CB-57-5-28/F, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,8766,"gp_mid",11.99,53.53,"106",251.735,1
+"21704",37037,"col","Kopanaskya",55.724998,51.344444,"Blumenthal 1 locality",NA,"Blyumental-1, locality 27 (Tverdokhlebov et al, 2003); Burtya River basin, Saratov Univ 104/13, 19",3,"Induan","",252.17,251.2,9808,"gp_mid",61.14,38.51,"302",251.685,1
+"26652",43788,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 11, Huzhou city",NA,"",20,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.29,-7.08,"611",251.735,1
+"26653",43789,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 12, Huzhou city",NA,"",6,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.29,-7.08,"611",251.735,1
+"26654",43790,"col","Yinkeng",120.099998,30.866667,"Beds 15-17, Yinkeng Formation, Huangzhishan section, Huzhou city, Zhejiang",NA,"",7,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.4,-7.1,"611",251.735,1
+"26716",43852,"col","Blind Fiord",-95.379997,80.550003,"GSC 32373, Arthaber Creek, Axel Heiberg Island",NA,"",7,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.72,54.78,"106",251.735,1
+"26718",43854,"col","Blind Fiord",-95.5,80.666664,"South Coast of Bjarnason Island (GSc 32364)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,1
+"26720",43856,"col","Blind Fiord",-95.370003,80.550003,"GSC 32367, Arthaber Creek, Axel Heiberg Island",NA,"",4,"Dienerian","",252.17,251.3,17934,"gp_mid",5.72,54.78,"106",251.735,1
+"26765",44001,"col","",106,24,"Naliling Section 2",44000,"",6,"Dienerian","",252.17,251.3,11557,"gp_mid",106.34,-16.4,"611",251.735,1
+"30317",47921,"col","Blind Fiord",-95.5,80.666664,"South Coast of Bjarnason Island (GSC 34001)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,1
+"30318",47922,"col","Blind Fiord",-95.5,80.666664,"South coast of Bjarnason Island 2 (GSC 47524)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,1
+"30319",47923,"col","Blind Fiord",-95.5,80.666664,"South coast of Bjarnason Island 3 (GSC 47525)",NA,"",6,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,1
+"30328",47932,"col","Blind Fiord",-95.400002,80.639999,"GSC 47527, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"30329",47933,"col","Blind Fiord",-95.400002,80.639999,"GSC 47530, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"30331",47935,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek (GSC 47538)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30332",47936,"col","Blind Fiord",-94.474998,80.485001,"GSC 47539, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30333",47937,"col","Blind Fiord",-85.949997,78.389999,"GSC 47548, Blind Fiord, Ellesmere Island",NA,"",2,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.42,52.03,"106",251.735,1
+"30334",47938,"col","Blind Fiord",-95.370003,80.544998,"GSC 47553, Arthaber Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.71,54.77,"106",251.735,1
+"30335",47939,"col","Blind Fiord",-95.5,80.639999,"GSC 47570, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.85,"106",251.735,1
+"30336",47940,"col","Blind Fiord",-95.400002,80.639999,"GSC 47571, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"30337",47941,"col","Blind Fiord",-95.400002,80.639999,"GSC 47578, Bjarnason Island",NA,"",2,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"30339",47942,"col","Blind Fiord",-91.01667,80.73333,"North of Lighfoot River (GSC 47590)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",6.8,54.4,"106",251.735,1
+"30340",47943,"col","Blind Fiord",-95.400002,80.639999,"GSC 47610, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"30341",47944,"col","Blind Fiord",-94.616669,80.550003,"Near Camp Five Creek junction (GSC 47620)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.86,54.69,"106",251.735,1
+"30342",47945,"col","Blind Fiord",-88.800003,81.07,"GSC 47622, Lindstroem Creek, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",7.64,54.41,"106",251.735,1
+"30343",47946,"col","Blind Fiord",-85.970001,78.379997,"GSC 51588, Raanes Peninsula, Ellesmere Island",NA,"",2,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.41,52.02,"106",251.735,1
+"30347",47950,"col","Blind Fiord",-85.970001,78.379997,"GSC 51591, Raanes Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.41,52.02,"106",251.735,1
+"30348",47951,"col","Blind Fiord",-85.970001,78.379997,"GSC 51592, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.41,52.02,"106",251.735,1
+"30349",47952,"col","Blind Fiord",-85.970001,78.379997,"GSC 51593, Raanes Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.41,52.02,"106",251.735,1
+"30351",47954,"col","Blind Fiord",-88.883331,80.966667,"Section south of Diener Creek (GSC 51689)",NA,"",2,"Griesbachian","",252.17,251.3,11541,"gp_mid",7.5,54.34,"106",251.735,1
+"30352",47955,"col","Blind Fiord",-86.160004,78.489998,"GSC 55470, Raanes Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.47,52.13,"106",251.735,1
+"30353",47956,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 3 (GSC 64732)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30354",47957,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 4 (GSC 64733)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30356",47959,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 5 (GSC 64734)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30357",47960,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 6 (GSC 64735)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30358",47961,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 7 (GSC 64744)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30359",47962,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 8 (GSC 64745)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30360",47963,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 9 (GSC 64746)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30361",47964,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 10 (GSC 64747)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30362",47965,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 11 (GSC 64750)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30363",47966,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 12 (GSC 64762)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30364",47967,"col","Blind Fiord",-94.633331,80.51667,"Griesbach Creek 13 (GSC 64763)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.82,54.67,"106",251.735,1
+"30367",47970,"col","Blind Fiord",-94.900002,80.5,"GSC 64765, Camp Five Creek, Axel Heiberg Island",NA,"",3,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30368",47971,"col","Blind Fiord",-94.900002,80.5,"GSC 64766, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30369",47972,"col","Blind Fiord",-94.900002,80.5,"GSC 64767, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30370",47973,"col","Blind Fiord",-94.900002,80.5,"GSC 64768, Camp Five Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30371",47974,"col","Blind Fiord",-94.900002,80.5,"GSC 64769, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30372",47975,"col","Blind Fiord",-94.900002,80.5,"GSC 64770, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30373",47976,"col","Blind Fiord",-94.900002,80.5,"GSC 64771, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30374",47977,"col","Blind Fiord",-94.900002,80.5,"GSC 64772, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30375",47978,"col","Blind Fiord",-94.900002,80.5,"GSC 64773, Camp Five Creek, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.75,54.69,"106",251.735,1
+"30376",47979,"col","Blind Fiord",-94.474998,80.485001,"GSC 64774, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30377",47980,"col","Blind Fiord",-94.474998,80.485001,"GSC 64775, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30378",47981,"col","Blind Fiord",-94.474998,80.485001,"GSC 64776, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30379",47982,"col","Blind Fiord",-94.474998,80.485001,"GSC 64777, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30380",47983,"col","Blind Fiord",-94.474998,80.485001,"GSC 64778, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30381",47984,"col","Blind Fiord",-94.474998,80.485001,"GSC 64779, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30382",47985,"col","Blind Fiord",-94.474998,80.485001,"GSC 64780, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30383",47986,"col","Blind Fiord",-94.474998,80.485001,"GSC 64781, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30384",47987,"col","Blind Fiord",-94.474998,80.485001,"GSC 64782, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30385",47988,"col","Blind Fiord",-94.474998,80.485001,"GSC 64783, Griesbach Creek",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"30386",47989,"col","Bjorne",-85.283333,78.25,"West of Head of Trold Fiord (GSC 68350)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.46,51.84,"106",251.735,1
+"31149",48898,"col","Qinglong",120,31,"Meishan section Bed 27 c-d",NA,"",2,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31150",48899,"col","Qinglong",120,31,"Meishan section Bed 28",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31151",48900,"col","Qinglong",120,31,"Meishan section Bed 29",NA,"",9,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31152",48901,"col","Qinglong",120,31,"Meishan section Bed 30",NA,"",3,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31153",48902,"col","Qinglong",120,31,"Meishan section Bed 31",NA,"",0,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31154",48903,"col","Qinglong",120,31,"Meishan section Bed 32",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31155",48904,"col","Qinglong",120,31,"Meishan section Bed 33",NA,"",0,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31156",48905,"col","Qinglong",120,31,"Meishan section Bed 34",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31157",48906,"col","Qinglong",120,31,"Meishan section Bed 35",NA,"",2,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31158",48907,"col","Qinglong",120,31,"Meishan section Bed 36",NA,"",3,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31159",48909,"col","Qinglong",120,31,"Meishan section Bed 37",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,1
+"31166",48919,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 22",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"31167",48920,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 23",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"31168",48921,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 24",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"31169",48922,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 25",NA,"",0,"Griesbachian","Dienerian",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"31170",48923,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 26",NA,"",0,"Griesbachian","Dienerian",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"31171",48924,"col","Kangshare",104.73333,24.733334,"Selong Section Bed 27",NA,"",0,"Griesbachian","Dienerian",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,1
+"33054",112008,"col","Feixianguan",105.099998,26.030001,"Zhongying Section Bed 43 (QZ-29), Qinglong County",NA,"",7,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.24,-14.49,"611",251.735,1
+"37099",57087,"col","Blind Fiord",-88.800003,81.07,"GSC 47543, Lindstroem Creek, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.64,54.41,"106",251.735,1
+"37103",57091,"col","Blind Fiord",-95.370003,80.544998,"GSC 47554, Arthaber Creek, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.71,54.77,"106",251.735,1
+"40204",60525,"col","Daye",117.349998,29.17,"Yangou Section Y11 (Bed 20), Leping County",NA,"",5,"Griesbachian","",252.17,251.3,17398,"gp_mid",115.53,-9.37,"611",251.735,1
+"40205",60526,"col","Daye",117.349998,29.17,"Yangou Section Y12 (Bed 21), Leping County",NA,"",4,"Griesbachian","",252.17,251.3,17398,"gp_mid",115.53,-9.37,"611",251.735,1
+"41480",61941,"col","Blind Fiord",-86.333336,78.333336,"Blind Fiord Fm - GSC 26109, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.27,52.03,"106",251.735,1
+"41481",61942,"col","Blind Fiord",-88,81,"Blind Fiord Fm - GSC 28448, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",7.72,54.28,"106",251.735,1
+"41483",61944,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 32215, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41484",61945,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 32366, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41485",61946,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 32368, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41493",61954,"col","Ivishak",-146.366669,69.29583,"Kavik Mbr, Ivishak Fm - USGS M6060",NA,"",5,"Griesbachian","",252.17,251.3,17925,"gp_mid",-23.83,59.43,"103",251.735,1
+"41505",61971,"col","Blind Fiord",-93.5,81.383331,"Blind Fiord Fm - GSC 64715, Axel Heiberg Island",NA,"Locality 156",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.12,55.14,"106",251.735,1
+"41506",61973,"col","Blind Fiord",-93.5,81.383331,"Blind Fiord Fm - GSC 64717, Axel Heiberg Island",NA,"Locality 156",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.12,55.14,"106",251.735,1
+"41507",61972,"col","Blind Fiord",-93.5,81.383331,"Blind Fiord Fm - GSC 64716, Axel Heiberg Island",NA,"Locality 156",2,"Dienerian","",252.17,251.3,11541,"gp_mid",7.12,55.14,"106",251.735,1
+"41508",61974,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64723, 64725, Axel Heiberg Island",NA,"Locality 161",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41509",61975,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64729, Axel Heiberg Island",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41510",61976,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64730, Axel Heiberg Island",NA,"Section 159",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41511",61977,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64731, Axel Heiberg Island",NA,"Section 158",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41512",61978,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64764, Axel Heiberg Island",NA,"Section 158",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41514",61980,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64856, Axel Heiberg Island",NA,"Section 158",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"41515",61981,"col","Blind Fiord",-90,79.5,"Blind Fiord Fm - GSC 64863, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.6,53.38,"106",251.735,1
+"42409",63508,"col","Yinkeng",119.75,30,"Baoqing, basal Yinkeng Fm, Changxing County",NA,"",9,"Griesbachian","",252.17,251.3,13680,"gp_mid",117.35,-8.02,"611",251.735,1
+"42410",63509,"col","Yinkeng",106.790001,26.705,"Pingqiao, Yinkeng Fm, Zhijin County",NA,"",1,"Griesbachian","",252.17,251.3,13680,"gp_mid",106.69,-13.62,"611",251.735,1
+"42413",63512,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 50 (FQ-36), Fuyuan County",NA,"",7,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"55844",85070,"col","",106.866669,25.549999,"Dajiang I, Great Bank of Guizhou",NA,"Reef 157",2,"Griesbachian","",252.17,251.3,28576,"gp_mid",106.93,-14.76,"611",251.735,1
+"55870",85127,"col","Yelang",105.279999,26.139999,"Zhongzai section, Bed 15b, Liuzhi County",NA,"",13,"Griesbachian","",252.17,251.3,28638,"gp_mid",105.39,-14.36,"611",251.735,1
+"55871",85128,"col","Kayitou",104.019997,26.25,"Mide Section, Bed 47, Xuanwei",NA,"",2,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.22,-14.38,"611",251.735,1
+"55872",85129,"col","Kayitou",104.470001,25.950001,"Tucheng Section, Bed 12, Panxian",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.66,-14.63,"611",251.735,1
+"55873",85130,"col","Yinkeng",119.988998,30.922001,"Huangzishan, Yinkeng Bed 7, Huzhou",NA,"",2,"Griesbachian","",252.17,251.3,28638,"gp_mid",117.29,-7.08,"611",251.735,1
+"56469",85957,"col","",45.150002,57.125,"Krasnye Baki",NA,"Krasnie Baki, Vetluga River",1,"Induan","",252.17,251.2,29011,"gp_mid",50.49,40.49,"302",251.685,1
+"57313",87279,"col","Khuff",44.049999,26.004999,"Buraydah - Al-Faydah 02KH22",NA,"",12,"Griesbachian","",252.17,251.3,29392,"gp_mid",42.61,-14.99,"503",251.735,1
+"57316",87283,"col","Khuff",44.049999,26.004999,"Buraydah - Al-Faydah 02KH29",NA,"",1,"Griesbachian","",252.17,251.3,29392,"gp_mid",42.61,-14.99,"503",251.735,1
+"58992",89357,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 6, Xingwen",NA,"",7,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58993",89358,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 10, Xingwen",NA,"",1,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58994",89359,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 11, Xingwen",NA,"",5,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58995",89360,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 13, Xingwen",NA,"",1,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58996",89361,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 15, Xingwen",NA,"",10,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58997",89362,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 16, Xingwen",NA,"",5,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58998",89363,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 17, Xingwen",NA,"",4,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"58999",89364,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 18, Xingwen",NA,"",3,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"59000",89365,"col","Feixianguan",105.044998,28.101999,"Chuanyan Section, P-T Bed 19, Xingwen",NA,"",6,"Griesbachian","",252.17,251.3,29971,"gp_mid",104.93,-12.43,"611",251.735,1
+"61833",93572,"col","",45.150002,57.125,"Lipovo village, PIN 3355",NA,"type locality of Contritosaurus simus; Vetluga River",1,"Induan","",252.17,251.2,31696,"gp_mid",50.49,40.49,"302",251.685,1
+"61834",93573,"col","",45.150002,57.125,"Sarafanikha site",NA,"Vetluga River",1,"Induan","",252.17,251.2,31696,"gp_mid",50.49,40.49,"302",251.685,1
+"62398",94247,"col","Vokhma",45.075001,57.424999,"Anisimovo village",NA,"Vetluga River",2,"Induan","",252.17,251.2,32049,"gp_mid",50.26,40.73,"302",251.685,1
+"63652",95654,"col","Qinglong",117.544998,30.455,"Dalongshan Section Bed 1, Panjiaqiao, Guichi",NA,"",8,"Induan","",252.17,251.2,32482,"gp_mid",115.37,-8.09,"611",251.685,1
+"64359",96695,"col","",106.545998,24.812,"Shanggan Sha3, Leye County",NA,"",17,"Griesbachian","",252.17,251.3,32961,"gp_mid",106.74,-15.53,"611",251.735,1
+"64603",97071,"col","Luolou",107.692001,22.269899,"Dongpan section, bed 13-6, Fusui County",NA,"",2,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,1
+"64604",97072,"col","Luolou",107.692001,22.269899,"Dongpan section, bed 13-7, Fusui County",NA,"",8,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,1
+"64605",97073,"col","Luolou",107.692001,22.269899,"Dongpan section, bed 14, Fusui County",NA,"",1,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,1
+"64606",97074,"col","Luolou",107.692001,22.269899,"Dongpan section, bed 16, Fusui County",NA,"",3,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,1
+"64713",97173,"col","Luolou",106.830002,24.65,"Waili cave section Jin62",NA,"",1,"Dienerian","",252.17,251.3,32448,"gp_mid",107.03,-15.65,"611",251.735,1
+"64721",97181,"col","Luolou",106.830002,24.65,"Waili fall section FW11",NA,"",1,"Dienerian","",252.17,251.3,32448,"gp_mid",107.03,-15.65,"611",251.735,1
+"65479",98223,"col","",106.349998,26.700001,"Lijiachong, Lindai, Lower Triassic, Qingzhen County",NA,"",3,"Griesbachian","",252.17,251.3,31822,"gp_mid",106.29,-13.68,"611",251.735,1
+"65769",98540,"col","Feixianguan",104.870003,27.43,"Wufengshan, Zhenxiong County",NA,"",1,"Induan","",252.17,251.2,33125,"gp_mid",104.86,-13.12,"611",251.685,1
+"65771",98542,"col","Kayitou",104.519997,25.225,"Laochang, Yujia, Kayitou Fm, Fuyuan County",NA,"",1,"Griesbachian","",252.17,251.3,33125,"gp_mid",104.8,-15.35,"611",251.735,1
+"65774",98545,"col","Feixianguan",104.900002,27.450001,"Toushang, Poshui, Zhenxiong County",NA,"",1,"Induan","",252.17,251.2,33125,"gp_mid",104.88,-13.1,"611",251.685,1
+"65789",98560,"col","Blind Fiord",-90.199997,81.129997,"GSC 28440, 225 feet above base, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,1
+"65790",98561,"col","Blind Fiord",-90.199997,81.129997,"GSC 28441, talus, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,1
+"65792",98563,"col","Blind Fiord",-90.199997,81.129997,"GSC 28663, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,1
+"66851",99889,"col","",136.899994,64.099998,"Allakha-Sokh Creek, Tompo River Basin",NA,"",1,"Griesbachian","",252.17,251.3,33466,"gp_mid",83.48,79.35,"401",251.735,1
+"66863",99901,"col","",107.449997,26.700001,"Paomuchong, Longli County",NA,"",1,"Griesbachian","",252.17,251.3,34341,"gp_mid",107.3,-13.54,"611",251.735,1
+"67914",101333,"col","Yelang",105.349998,26.129999,"Liuzhai section, bed 12",NA,"",2,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,1
+"69315",103362,"col","Blind Fiord",-88,80.949997,"GSC 51670, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.66,54.24,"106",251.735,1
+"69317",103363,"col","Blind Fiord",-88.449997,80.985001,"GSC 51665, Otto Fiord, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.61,54.31,"106",251.735,1
+"69318",103364,"col","Blind Fiord",-88.449997,80.985001,"GSC 51666, Otto Fiord, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.61,54.31,"106",251.735,1
+"69357",103404,"col","Blind Fiord",-88.75,80.925003,"GSC 51691, Diener Creek, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.48,54.3,"106",251.735,1
+"69358",103405,"col","Blind Fiord",-88.75,80.925003,"GSC 51692, Diener Creek, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.48,54.3,"106",251.735,1
+"69359",103406,"col","Blind Fiord",-88.75,80.925003,"GSC 51693, Diener Creek, Svartefjeld Peninsula, Ellesmere Island",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",7.48,54.3,"106",251.735,1
+"69360",103407,"col","Blind Fiord",-88.75,80.925003,"GSC 51694, Diener Creek, Svartefjeld Peninsula, Ellesmere Island",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",7.48,54.3,"106",251.735,1
+"69361",103408,"col","Blind Fiord",-88.75,80.925003,"GSC 51695, Diener Creek, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.48,54.3,"106",251.735,1
+"70074",104961,"col","Daye",107.230003,26.629999,"Jieshan Lake Section JL2",NA,"",6,"Griesbachian","",252.17,251.3,32516,"gp_mid",107.11,-13.64,"611",251.735,1
+"70075",104962,"col","Daye",107.230003,26.629999,"Jieshan Lake Section JL3",NA,"",4,"Griesbachian","",252.17,251.3,32516,"gp_mid",107.11,-13.64,"611",251.735,1
+"70076",104963,"col","Daye",107.230003,26.629999,"Jieshan Lake Section JL6",NA,"",1,"Dienerian","",252.17,251.3,32516,"gp_mid",107.11,-13.64,"611",251.735,1
+"70077",104964,"col","Luolou",106.893997,24.576,"Jinya Section Jin14",NA,"",4,"Dienerian","",252.17,251.3,32516,"gp_mid",107.1,-15.72,"611",251.735,1
+"70078",104965,"col","Luolou",106.830002,24.65,"Laren Section Jin102",NA,"",1,"Dienerian","",252.17,251.3,32516,"gp_mid",107.03,-15.65,"611",251.735,1
+"70079",104966,"col","Luolou",106.830002,24.65,"Laren Section Wai22",NA,"",1,"Griesbachian","",252.17,251.3,32516,"gp_mid",107.03,-15.65,"611",251.735,1
+"70080",104967,"col","Luolou",106.545998,24.812,"Shanggan Sha4, Leye County",NA,"",5,"Dienerian","",252.17,251.3,32516,"gp_mid",106.74,-15.53,"611",251.735,1
+"70081",104968,"col","Luolou",106.545998,24.812,"Shanggan Sha5, Leye County",NA,"",1,"Dienerian","",252.17,251.3,32516,"gp_mid",106.74,-15.53,"611",251.735,1
+"70082",104969,"col","Luolou",106.545998,24.812,"Shanggan Sha7, Leye County",NA,"",2,"Dienerian","",252.17,251.3,32516,"gp_mid",106.74,-15.53,"611",251.735,1
+"70083",104970,"col","Luolou",106.545998,24.812,"Shanggan Sha8, Leye County",NA,"",1,"Dienerian","",252.17,251.3,32516,"gp_mid",106.74,-15.53,"611",251.735,1
+"70084",104971,"col","Luolou",106.830002,24.65,"Waili Section FW9",NA,"",3,"Dienerian","",252.17,251.3,32516,"gp_mid",107.03,-15.65,"611",251.735,1
+"70085",104972,"col","Luolou",106.449997,24.950001,"Yuping Section YR1",NA,"",1,"Dienerian","",252.17,251.3,32516,"gp_mid",106.63,-15.4,"611",251.735,1
+"70086",104973,"col","Luolou",106.449997,24.950001,"Yuping Section YR30",NA,"",2,"Dienerian","",252.17,251.3,32516,"gp_mid",106.63,-15.4,"611",251.735,1
+"70087",104974,"col","Luolou",106.449997,24.950001,"Yuping Section YR59",NA,"",3,"Dienerian","",252.17,251.3,32516,"gp_mid",106.63,-15.4,"611",251.735,1
+"70163",105056,"col","Vokhma",46.599998,60.599998,"Yontala, Yug River (PIN collection 4891)",NA,"",2,"Griesbachian","",252.17,251.3,35143,"gp_mid",49.05,43.88,"302",251.735,1
+"70196",105098,"col","Feixianguan",105.949997,26.25,"Anshun County, Feixianguan Fm",NA,"",2,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.99,-14.17,"611",251.735,1
+"70201",105103,"col","Feixianguan",105.324997,28.309999,"Gusong, Feixianguan Fm, Xuyong County",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.16,-12.2,"611",251.735,1
+"70207",105109,"col","Feixianguan",104.5,25.950001,"Panxian County, Feixianguan Fm",NA,"",2,"Induan","",252.17,251.2,35163,"gp_mid",104.69,-14.63,"611",251.685,1
+"70208",105110,"col","Feixianguan",105.099998,26.030001,"Qinglong County, Feixianguan Fm",NA,"",2,"Induan","",252.17,251.2,35163,"gp_mid",105.24,-14.49,"611",251.685,1
+"70211",105113,"col","Feixianguan",104.099998,26.200001,"Xuanwei County, Feixianguan Fm",NA,"",1,"Dienerian","",252.17,251.3,35163,"gp_mid",104.3,-14.42,"611",251.735,1
+"70212",105114,"col","Feixianguan",105.449997,28.15,"Xuyong County, Feixianguan Fm member 2",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.29,-12.34,"611",251.735,1
+"70307",105216,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 25 (new), Huzhou city",NA,"",8,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70308",105217,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 26 (new), Huzhou city",NA,"",5,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70309",105218,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 27 (new), Huzhou city",NA,"",7,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70310",105219,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 28 (new), Huzhou city",NA,"",5,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70311",105220,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 29 (new), Huzhou city",NA,"",17,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70312",105221,"col","Huangzhishan",119.989166,30.921944,"Huangzhishan section, Bed 30 (new), Huzhou city",NA,"",39,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70313",105222,"col","Yinkeng",119.989166,30.921944,"Huangzhishan section, Bed 31 (new), Huzhou city",NA,"",6,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70314",105223,"col","Yinkeng",119.989166,30.921944,"Huangzhishan section, Bed 32 (new), Huzhou city",NA,"",2,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70315",105224,"col","Yinkeng",119.989166,30.921944,"Huangzhishan section, Bed 33 (new), Huzhou city",NA,"",1,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"70316",105225,"col","Yinkeng",119.989166,30.921944,"Huangzhishan section, Bed 34 (new), Huzhou city",NA,"",1,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,1
+"71409",106639,"col","Luolou",106.883057,24.585278,"Waili South W163, Fengshan",NA,"",14,"Griesbachian","",252.17,251.3,31742,"gp_mid",107.09,-15.71,"611",251.735,1
+"71418",106648,"col","Luolou",106.883057,24.585278,"Waili South W81, Fengshan",NA,"",3,"Dienerian","",252.17,251.3,31742,"gp_mid",107.09,-15.71,"611",251.735,1
+"71596",107026,"col","",137.149994,64.199997,"Dodayo Creek, compressus zone, Tompo Basin",NA,"",1,"Dienerian","",252.17,251.3,33466,"gp_mid",82.94,79.46,"401",251.735,1
+"71597",107027,"col","",137.149994,64.199997,"Dodayo Creek, Dienerian, Tompo Basin",NA,"",1,"Dienerian","",252.17,251.3,33466,"gp_mid",82.94,79.46,"401",251.735,1
+"71614",107044,"col","",137.149994,64.199997,"Lekeer Creek, boreale zone, Tompo River Basin",NA,"",1,"Griesbachian","",252.17,251.3,54385,"gp_mid",82.94,79.46,"401",251.735,1
+"71615",107045,"col","",137.149994,64.199997,"Lekeer Creek, Dienerian, Tompo River Basin",NA,"",2,"Dienerian","",252.17,251.3,33466,"gp_mid",82.94,79.46,"401",251.735,1
+"71616",107046,"col","",137.149994,64.199997,"Lekeer Creek, nielseni zone, Tompo River Basin",NA,"",2,"Griesbachian","",252.17,251.3,33466,"gp_mid",82.94,79.46,"401",251.735,1
+"71674",107115,"col","",137.149994,64.199997,"Onkuchakh Creek, Tompo River Basin",NA,"",1,"Griesbachian","",252.17,251.3,33466,"gp_mid",82.94,79.46,"401",251.735,1
+"72619",108159,"col","Feixianguan",105.945999,27.039,"Jianpo, Qianxi",NA,"",1,"Dienerian","",252.17,251.3,32416,"gp_mid",105.88,-13.39,"611",251.735,1
+"72639",108179,"col","Feixianguan",105.379997,26.775,"Tianshengqiao, Feixianguan Fm, Nayong County",NA,"",1,"Griesbachian","",252.17,251.3,32416,"gp_mid",105.4,-13.72,"611",251.735,1
+"72640",108180,"col","Feixianguan",105.510002,25.879999,"Weijiaping ridge, Yongning, Guanling",NA,"",1,"Griesbachian","",252.17,251.3,32416,"gp_mid",105.63,-14.59,"611",251.735,1
+"72938",108554,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 15a, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72939",108555,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 18, Liuzhi County",NA,"",9,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72940",108556,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 20, Liuzhi County",NA,"",10,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72941",108557,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 22 lower, Liuzhi County",NA,"",5,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72942",108558,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 22 upper, Liuzhi County",NA,"",5,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72943",108559,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 23, Liuzhi County",NA,"",4,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72944",108560,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 24, Liuzhi County",NA,"",7,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72945",108561,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 26, Liuzhi County",NA,"",7,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72946",108562,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 27, Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72947",108563,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 28 lower, Liuzhi County",NA,"",7,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72948",108564,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 28 upper, Liuzhi County",NA,"",12,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"72949",108565,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 30, Liuzhi County",NA,"",10,"Griesbachian","",252.17,251.3,33502,"gp_mid",105.39,-14.36,"611",251.735,1
+"73929",109663,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 17, Liuzhi County",NA,"",2,"Griesbachian","",252.17,251.3,33541,"gp_mid",105.39,-14.36,"611",251.735,1
+"74046",109790,"col","",117.5,30.6,"Kueichih, Loc. 714",NA,"",1,"Griesbachian","",252.17,251.3,33544,"gp_mid",115.29,-7.96,"611",251.735,1
+"74050",109794,"col","",108.864998,23.82,"Hoshan H4, Tsienkiang",NA,"",2,"Griesbachian","",252.17,251.3,33544,"gp_mid",109.07,-16.19,"611",251.735,1
+"75154",110954,"col","Mianwali",71.045998,32.235001,"Kingriali Mountain, Section 11, Bed 5",NA,"",1,"Griesbachian","",252.17,251.3,11136,"gp_mid",51.59,-34.03,"501",251.735,1
+"75155",110955,"col","Mianwali",70.910004,32.202999,"Tapan Wahan, Section 12, Bed 6",NA,"",1,"Griesbachian","",252.17,251.3,11136,"gp_mid",51.51,-33.93,"501",251.735,1
+"75212",111012,"col","",106.663887,25.556667,"Dajiang PDJ-055",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75213",111013,"col","",106.663887,25.556667,"Dajiang PDJ-058",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75214",111014,"col","",106.663887,25.556667,"Dajiang PDJ-061",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75215",111015,"col","",106.663887,25.556667,"Dajiang PDJ-075",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75216",111016,"col","",106.663887,25.556667,"Dajiang PDJ-157",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75217",111017,"col","",106.663887,25.556667,"Dajiang PDJ-158",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75218",111018,"col","",106.663887,25.556667,"Dajiang PDJ-172",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75275",111078,"col","",106.663887,25.556667,"Dajiang PDJ-161",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75276",111079,"col","",106.663887,25.556667,"Dajiang PDJ-162",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75277",111080,"col","",106.663887,25.556667,"Dajiang PDJ-164",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75278",111081,"col","",106.663887,25.556667,"Dajiang PDJ-170",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75279",111082,"col","",106.663887,25.556667,"Dajiang PDJ-174",NA,"",4,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75280",111083,"col","",106.663887,25.556667,"Dajiang PDJ-178",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75281",111084,"col","",106.663887,25.556667,"Dajiang PDJ-186",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75282",111085,"col","",106.663887,25.556667,"Dajiang PDJ-187",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75283",111086,"col","",106.663887,25.556667,"Dajiang PDJ-195",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75284",111087,"col","",106.663887,25.556667,"Dajiang PDJ-197",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75285",111088,"col","",106.663887,25.556667,"Dajiang PDJ-200",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75286",111089,"col","",106.663887,25.556667,"Dajiang PDJ-262",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75287",111090,"col","",106.663887,25.556667,"Dajiang PDJ-281",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.74,-14.77,"611",251.735,1
+"75303",111106,"col","",106.674721,25.539444,"Dawen PDW-008",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75304",111107,"col","",106.674721,25.539444,"Dawen PDW-011",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75305",111108,"col","",106.674721,25.539444,"Dawen PDW-013",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75306",111109,"col","",106.674721,25.539444,"Dawen PDW-016",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75307",111110,"col","",106.674721,25.539444,"Dawen PDW-020",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75308",111111,"col","",106.674721,25.539444,"Dawen PDW-021",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75391",111198,"col","",106.674721,25.539444,"Dawen PDW-087",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75392",111199,"col","",106.674721,25.539444,"Dawen PDW-096",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75393",111200,"col","",106.674721,25.539444,"Dawen PDW-099",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75394",111201,"col","",106.674721,25.539444,"Dawen PDW-102",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75395",111202,"col","",106.674721,25.539444,"Dawen PDW-106",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"75889",111975,"col","Feixianguan",105.290001,26.15,"Heilajia Section Bed 10 (HG-1), Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,1
+"75890",111976,"col","Feixianguan",105.290001,26.15,"Heilajia Section Bed 10 (HG-2), Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,1
+"75891",111977,"col","Feixianguan",105.290001,26.15,"Heilajia Section Bed 10 (HG-3), Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,1
+"75892",111978,"col","Feixianguan",105.290001,26.15,"Heilajia Section Bed 8 (HG-4), Liuzhi County",NA,"",4,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,1
+"75899",111985,"col","Feixianguan",105.925003,26.334999,"Jiaozishan Section Bed 30 (AJ-48), Anshun County",NA,"",4,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.96,-14.09,"611",251.735,1
+"76019",112109,"col","Feixianguan",104.504997,25.940001,"Laowuji Section Bed 21 (PL23-21,20,19,18,17), Panxian County",NA,"",8,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.7,-14.64,"611",251.735,1
+"76020",112110,"col","Feixianguan",104.504997,25.940001,"Laowuji Section Bed 18 (PL23-16), Panxian County",NA,"",5,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.7,-14.64,"611",251.735,1
+"76021",112111,"col","Feixianguan",104.504997,25.940001,"Laowuji Section Bed 17 (PL23-15), Panxian County",NA,"",8,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.7,-14.64,"611",251.735,1
+"76022",112112,"col","Feixianguan",104.504997,25.940001,"Laowuji Section Bed 16 (PL23-14,12,11, PL27-32,31,29), Panxian County",NA,"",20,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.7,-14.64,"611",251.735,1
+"76028",112118,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 52 (FQ-40,39,38), Fuyuan County",NA,"",7,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"76029",112119,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 53 (FQ-43,42,41), Fuyuan County",NA,"",4,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"76030",112120,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 54 (FQ-46,45,44), Fuyuan County",NA,"",6,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"76031",112121,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 55 (FQ-47), Fuyuan County",NA,"",5,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"76032",112122,"col","Kayitou",104.375,25.834999,"Qingyun Section Bed 56 (FQ-49,48), Fuyuan County",NA,"",2,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,1
+"76034",112124,"col","Kayitou",104.410004,25.655001,"Huoshaopu, Sample Panhuo1, Panxian County",NA,"",1,"Griesbachian","",252.17,251.3,27402,"gp_mid",104.64,-14.93,"611",251.735,1
+"76213",112367,"col","Yinkeng",118.019997,30.809999,"Yashan Y1, Nanling County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.68,-7.64,"611",251.735,1
+"76234",112394,"col","Yinkeng",116.099998,30.15,"Zuoshan, Yinkeng Formation, Susong County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",114.22,-8.69,"611",251.735,1
+"76235",112395,"col","Yinkeng",118.019997,30.809999,"Yashan, Yinkeng Fm, Nanling County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.68,-7.64,"611",251.735,1
+"76242",112402,"col","Luolou",108.872002,23.771999,"Matan Section Act572, Bed 38, Heshan",NA,"",2,"Griesbachian","",252.17,251.3,33590,"gp_mid",109.08,-16.24,"611",251.735,1
+"76247",112408,"col","Luolou",108.872002,23.771999,"Matan Section Act573, Bed 39, Heshan",NA,"",3,"Griesbachian","",252.17,251.3,33590,"gp_mid",109.08,-16.24,"611",251.735,1
+"76261",112425,"col","Luolou",108.872002,23.771999,"Matan Section Act574, Bed 40, Heshan",NA,"",1,"Griesbachian","",252.17,251.3,33590,"gp_mid",109.08,-16.24,"611",251.735,1
+"76262",112426,"col","Luolou",108.872002,23.771999,"Matan Section Act575, Bed 41, Heshan",NA,"",1,"Griesbachian","",252.17,251.3,33590,"gp_mid",109.08,-16.24,"611",251.735,1
+"77490",113866,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Bed 16, Guiding",NA,"",15,"Griesbachian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77491",113867,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Bed 17, Guiding",NA,"",1,"Dienerian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77492",113868,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Bed 18, Guiding",NA,"",6,"Griesbachian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77493",113869,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Bed 19, Guiding",NA,"",1,"Dienerian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77494",113870,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Bed 20, Guiding",NA,"",5,"Dienerian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77495",113871,"col","Daye",107.215553,26.61389,"Wenjiangsi Section, Triassic Beds 16-21, Guiding",NA,"",9,"Griesbachian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,1
+"77758",114138,"col","",136.850006,63.5,"Tirekhtyakh River, western Verkhoyan",NA,"",1,"Induan","",252.17,251.2,27341,"gp_mid",86.72,79.31,"401",251.685,1
+"78277",114720,"col","",106.674721,25.539444,"Dawen PDW-108",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78278",114721,"col","",106.674721,25.539444,"Dawen PDW-112",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78279",114722,"col","",106.674721,25.539444,"Dawen PDW-118",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78280",114723,"col","",106.674721,25.539444,"Dawen PDW-120",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78281",114724,"col","",106.674721,25.539444,"Dawen PDW-122",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78282",114725,"col","",106.674721,25.539444,"Dawen PDW-123",NA,"",4,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78283",114726,"col","",106.674721,25.539444,"Dawen PDW-126",NA,"",4,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78284",114727,"col","",106.674721,25.539444,"Dawen PDW-128",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78285",114728,"col","",106.674721,25.539444,"Dawen PDW-130",NA,"",1,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78286",114729,"col","",106.674721,25.539444,"Dawen PDW-135",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78287",114730,"col","",106.674721,25.539444,"Dawen PDW-137",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78288",114731,"col","",106.674721,25.539444,"Dawen PDW-140",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78289",114732,"col","",106.674721,25.539444,"Dawen PDW-143",NA,"",2,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78290",114733,"col","",106.674721,25.539444,"Dawen PDW-145",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78291",114734,"col","",106.674721,25.539444,"Dawen PDW-155",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78292",114735,"col","",106.674721,25.539444,"Dawen PDW-167",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78293",114736,"col","",106.674721,25.539444,"Dawen PDW-246",NA,"",4,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78294",114737,"col","",106.674721,25.539444,"Dawen PDW-259",NA,"",2,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78295",114738,"col","",106.674721,25.539444,"Dawen PDW-273",NA,"",2,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78296",114739,"col","",106.674721,25.539444,"Dawen PDW-275",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78297",114740,"col","",106.674721,25.539444,"Dawen PDW-277",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78298",114741,"col","",106.674721,25.539444,"Dawen PDW-281",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78299",114742,"col","",106.674721,25.539444,"Dawen PDW-283",NA,"",2,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78300",114743,"col","",106.674721,25.539444,"Dawen PDW-285",NA,"",2,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78301",114744,"col","",106.674721,25.539444,"Dawen PDW-289",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78302",114745,"col","",106.674721,25.539444,"Dawen PDW-291",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"78303",114746,"col","",106.674721,25.539444,"Dawen PDW-296",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,1
+"79236",116380,"col","Kayitou",104.019997,26.25,"Mide Section, Bed 54, Xuanwei",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.22,-14.38,"611",251.735,1
+"79237",116381,"col","Kayitou",104.470001,25.950001,"Tucheng Section, Bed 20, Panxian",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.66,-14.63,"611",251.735,1
+"79238",116382,"col","Yelang",105.279999,26.139999,"Zhongzai Section, Bed 21, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",105.39,-14.36,"611",251.735,1
+"79541",116812,"col","Blind Fiord",-86.183334,81.183334,"Otto Fiord north, bryozoan bed",NA,"",1,"Dienerian","",252.17,251.3,37588,"gp_mid",8.29,54.23,"106",251.735,1
+"79543",116814,"col","Blind Fiord",-87.51667,80.616669,"Confederation Point, lower bryozoan bed (first sandstone)",NA,"",1,"Dienerian","",252.17,251.3,37588,"gp_mid",7.39,53.94,"106",251.735,1
+"79544",116815,"col","Blind Fiord",-87.51667,80.616669,"Confederation Point, lower bryozoan bed (second sandstone)",NA,"",1,"Dienerian","",252.17,251.3,37588,"gp_mid",7.39,53.94,"106",251.735,1
+"80820",118148,"col","Bernburg",8.6,48.583332,"Nagold valley",NA,"",1,"Induan","",252.17,251.2,38050,"gp_mid",29.28,25.26,"305",251.685,1
+"82345",119945,"col","Feixianguan",105.067001,26.514999,"Lanba Section Tc-2, Shuicheng County",NA,"",1,"Griesbachian","",252.17,251.3,31606,"gp_mid",105.15,-14.01,"611",251.735,1
+"82351",119951,"col","Kayitou",104.504997,25.940001,"Laowuji Section PL27-34, Panxian County",NA,"",1,"Griesbachian","",252.17,251.3,31606,"gp_mid",104.7,-14.64,"611",251.735,1
+"83343",121128,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 1, Pingguo County",NA,"",8,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83344",121129,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 2 (lower), Pingguo County",NA,"",13,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83345",121130,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 2 (upper), Pingguo County",NA,"",13,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83346",121131,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 6, Pingguo County",NA,"",1,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83347",121132,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 8, Pingguo County",NA,"",1,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83348",121133,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 9 (lower), Pingguo County",NA,"",4,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83349",121134,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 9 (upper), Pingguo County",NA,"",5,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83350",121135,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 10, Pingguo County",NA,"",10,"Dienerian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83351",121136,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 11, Pingguo County",NA,"",1,"Dienerian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83352",121137,"col","Majiaoling",107.550003,23.5,"Taiping, Bed 12, Pingguo County",NA,"",5,"Dienerian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,1
+"83356",121141,"col","Majiaoling",107.699997,22.42,"Dongluo Coal Mine, Majiaoling Fm, Fusui County",NA,"",4,"Induan","",252.17,251.2,33769,"gp_mid",108.19,-17.74,"611",251.685,1
+"83357",121142,"col","Majiaoling",107.019997,23.469999,"Zuodeng, Majiaoling Fm, Tiandong County",NA,"",2,"Induan","",252.17,251.2,33769,"gp_mid",107.38,-16.79,"611",251.685,1
+"83512",121324,"col","Feixianguan",105.300003,26.1,"Lojiayakou KL004a, Langdai County",NA,"",5,"Griesbachian","",252.17,251.3,26661,"gp_mid",105.41,-14.39,"611",251.735,1
+"83513",121325,"col","Yelang",105.25,27.299999,"Yanzhikou KY123b, Bijie County",NA,"",4,"Griesbachian","",252.17,251.3,26661,"gp_mid",105.22,-13.21,"611",251.735,1
+"85228",123650,"col","Feixianguan",104.660004,28.059999,"Muai, Junlian County",NA,"",1,"Induan","",252.17,251.2,39776,"gp_mid",104.59,-12.51,"611",251.685,1
+"85299",123720,"col","",104.720001,28.440001,"Gongxian outskirts",NA,"",1,"Griesbachian","",252.17,251.3,39785,"gp_mid",104.6,-12.13,"611",251.735,1
+"85300",123721,"col","",104.519997,28.43,"Xiqueqi, Gaoxian County",NA,"",1,"Griesbachian","",252.17,251.3,39785,"gp_mid",104.43,-12.16,"611",251.735,1
+"85302",123723,"col","Feixianguan",104.720001,28.440001,"Gongxian outskirts, Feixianguan Fm",NA,"",2,"Induan","",252.17,251.2,39785,"gp_mid",104.6,-12.13,"611",251.685,1
+"85303",123724,"col","Feixianguan",104.230003,28.110001,"Yanjin suburbs, Feixianguan Fm",NA,"",1,"Induan","",252.17,251.2,39785,"gp_mid",104.2,-12.51,"611",251.685,1
+"87745",126966,"col","Feixianguan",105.324997,28.309999,"Gusong, Feixianguan Fm member 2, Xuyong County",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.16,-12.2,"611",251.735,1
+"87747",126969,"col","Feixianguan",105.099998,26.030001,"Qinglong County, Feixianguan Fm member 2",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.24,-14.49,"611",251.735,1
+"87748",126971,"col","Feixianguan",107.635002,26.01,"Dading, Feixianguan Fm member 2",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",107.57,-14.2,"611",251.735,1
+"87750",126973,"col","Yelang",105.775002,26.049999,"Zhenning County, Yelang Formation member 3",NA,"",1,"Induan","",252.17,251.2,35163,"gp_mid",105.86,-14.39,"611",251.685,1
+"87751",126974,"col","Feixianguan",105.324997,28.309999,"Gusong, Feixianguan Fm member 3, Xuyong County",NA,"",1,"Dienerian","",252.17,251.3,35163,"gp_mid",105.16,-12.2,"611",251.735,1
+"87752",126975,"col","Feixianguan",105.099998,26.030001,"Qinglong County, Feixianguan Fm member 3",NA,"",1,"Dienerian","",252.17,251.3,35163,"gp_mid",105.24,-14.49,"611",251.735,1
+"88172",127715,"col","",136.710007,64.214996,"Burgagandzha River, turgidus zone, eastern Verkhoyan",NA,"",4,"Dienerian","",252.17,251.3,41710,"gp_mid",82.86,79.27,"401",251.735,1
+"89855",130296,"col","",175.005005,-36.789001,"Horizon R10/f177/0.7, WHK1 Section, Waiheke Island",NA,"",7,"Induan","",252.17,251.2,42231,"gp_mid",163.12,-86.38,"806",251.685,1
+"89856",130297,"col","",175.005005,-36.789001,"Horizon R10/f177/0.8, WHK1 Section, Waiheke Island",NA,"",4,"Induan","",252.17,251.2,42231,"gp_mid",163.12,-86.38,"806",251.685,1
+"89857",130298,"col","",175.005005,-36.789001,"Horizon R10/f177/0.9, WHK1 Section, Waiheke Island",NA,"",2,"Induan","",252.17,251.2,42231,"gp_mid",163.12,-86.38,"806",251.685,1
+"89858",130299,"col","",175.005005,-36.789001,"Horizon R10/f177/1, WHK1 Section, Waiheke Island",NA,"",2,"Induan","",252.17,251.2,42231,"gp_mid",163.12,-86.38,"806",251.685,1
+"89859",130300,"col","",175.005005,-36.789001,"Horizon R10/f177/1.8, WHK1 Section, Waiheke Island",NA,"",1,"Induan","",252.17,251.2,42231,"gp_mid",163.12,-86.38,"806",251.685,1
+"91054",131699,"col","'Arqov",34.599998,31.700001,"Pleshet-1 borehole, collection 28",NA,"",3,"Induan","",252.17,251.2,42469,"gp_mid",39.32,-4.8,"508",251.685,1
+"91706",132525,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ30, Luodian",NA,"",3,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91707",132526,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ31, Luodian",NA,"",6,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91708",132527,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ32, Luodian",NA,"",11,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91709",132528,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ33, Luodian",NA,"",9,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91710",132529,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ35, Luodian",NA,"",2,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91711",132530,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ36, Luodian",NA,"",1,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91712",132531,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ37, Luodian",NA,"",4,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91713",132532,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ38, Luodian",NA,"",6,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91714",132533,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ39, Luodian",NA,"",6,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91715",132534,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ40, Luodian",NA,"",6,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91716",132535,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ41, Luodian",NA,"",1,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91717",132536,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ42, Luodian",NA,"",7,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91718",132537,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ43, Luodian",NA,"",8,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91719",132538,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ44, Luodian",NA,"",11,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"91720",132539,"col","Daye",106.661392,25.565556,"Dajiang 05PAJ45, Luodian",NA,"",5,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,1
+"94390",135945,"col","Blind Fiord",-92.050003,81.216667,"GSC 47849, Cape Stallworthy, Axel Heiberg Island",NA,"",1,"Griesbachian","",252.17,251.3,43486,"gp_mid",7.18,54.86,"106",251.735,1
+"94470",136052,"col","",137.149994,64.199997,"Lekeer Creek, Induan, Tompo River Basin",NA,"",1,"Induan","",252.17,251.2,43132,"gp_mid",82.94,79.46,"401",251.685,1
+"95785",137782,"col","Blind Fiord",-95.370003,80.544998,"GSC 47551, Arthaber Creek, Axel Heiberg Island",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.71,54.77,"106",251.735,1
+"95818",137818,"col","Feixianguan",105.349998,26.084999,"Langdai Section ACG705, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,44075,"gp_mid",105.46,-14.4,"611",251.735,1
+"95822",137822,"col","Feixianguan",105.349998,26.084999,"Langdai Section ACG710, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,44075,"gp_mid",105.46,-14.4,"611",251.735,1
+"95826",137826,"col","Feixianguan",105.349998,26.084999,"Langdai Section ACG, Liuzhi County",NA,"",1,"Dienerian","",252.17,251.3,44075,"gp_mid",105.46,-14.4,"611",251.735,1
+"95930",137932,"col","Blind Fiord",-95.370003,80.544998,"GSC 47575, Arthaber Creek",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.71,54.77,"106",251.735,1
+"95932",137934,"col","Blind Fiord",-94.550003,80.5,"GSC 47584, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.82,54.65,"106",251.735,1
+"95933",137935,"col","Blind Fiord",-95.400002,80.639999,"GSC 47607, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"95934",137936,"col","Blind Fiord",-95.400002,80.639999,"GSC 47611, Bjarnason Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.83,54.84,"106",251.735,1
+"95936",137938,"col","Blind Fiord",-88.800003,81.07,"GSC 47621, Lindstroem Creek, Ellesmere Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",7.64,54.41,"106",251.735,1
+"95951",137953,"col","Blind Fiord",-86.160004,78.489998,"GSC 51605, Blind Fiord, Raanes Peninsula, Ellesmere Island",NA,"",2,"Griesbachian","",252.17,251.3,38363,"gp_mid",5.47,52.13,"106",251.735,1
+"95955",137957,"col","Blind Fiord",-88.449997,80.985001,"GSC 51664, Otto Fiord, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",7.61,54.31,"106",251.735,1
+"95994",137996,"col","Blind Fiord",-94.474998,80.485001,"GSC 64725, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,1
+"98179",140340,"col","Yelang",105.349998,26.129999,"Liuzhai section, bed 10",NA,"",1,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,1
+"98180",204565,"col","Yelang",105.349998,26.129999,"Liuzhai section, bed 14",NA,"",1,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,1
+"99961",142562,"col","",136.899994,64.099998,"Siren' Creek, Tompo River Basin",NA,"",2,"Dienerian","",252.17,251.3,46289,"gp_mid",83.48,79.35,"401",251.735,1
+"99962",142563,"col","",137.149994,64.199997,"Onkuchakh Creek, korostelevi zone, Tompo River Basin",NA,"",2,"Dienerian","",252.17,251.3,46289,"gp_mid",82.94,79.46,"401",251.735,1
+"101004",143827,"col","Lower Ceratite Limestone",70.790001,32.259998,"Sheik-Budin, Lower Ceratite Limestone",NA,"",2,"Dienerian","",252.17,251.3,33112,"gp_mid",51.54,-33.81,"501",251.735,1
+"101013",143836,"col","Ceratite Sandstone",72.949997,32.709999,"Choa, Salt Range",NA,"",2,"Dienerian","",252.17,251.3,33112,"gp_mid",52.77,-35.39,"501",251.735,1
+"101018",143841,"col","Lower Ceratite Limestone",71.150002,32.240002,"Kafir Kote, Lower Ceratite Limestone, Khisor Range",NA,"Kafirkot",2,"Dienerian","",252.17,251.3,33112,"gp_mid",51.63,-34.11,"501",251.735,1
+"102400",146272,"col","",105.480003,26.48,"Chihchinghsien",NA,"",1,"Griesbachian","",252.17,251.3,26094,"gp_mid",105.53,-14,"611",251.735,1
+"105080",149201,"col","Majiaoling",109.275002,23.6,"Paoshui Section, bed 33, Laibin County",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,1
+"105081",149202,"col","Majiaoling",109.275002,23.6,"Paoshui Section, bed 32, Laibin County",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,1
+"105082",149203,"col","Majiaoling",109.275002,23.6,"Paoshui Section, bed 31, Laibin County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,1
+"105158",149284,"col","Daye",106.230003,26.665001,"Sandongqiao section, bed 23, Liuchang, Qingzhen",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.19,-13.73,"611",251.735,1
+"105159",149285,"col","Daye",106.230003,26.665001,"Sandongqiao section, bed 22, Liuchang, Qingzhen",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.19,-13.73,"611",251.735,1
+"105160",149286,"col","Daye",106.230003,26.665001,"Sandongqiao section, bed 21, Liuchang, Qingzhen",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.19,-13.73,"611",251.735,1
+"105161",149287,"col","Daye",106.230003,26.665001,"Sandongqiao section, bed 17, Liuchang, Qingzhen",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.19,-13.73,"611",251.735,1
+"105177",149302,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 25, Wengjing Lukou, Guiyang",NA,"",1,"Dienerian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"105178",149303,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 24, Wengjing Lukou, Guiyang",NA,"",1,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"105179",149304,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 21, Wengjing Lukou, Guiyang",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"105180",149305,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 20, Wengjing Lukou, Guiyang",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"105641",151112,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 18, Wengjing Lukou, Guiyang",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106632",151113,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 17, Wengjing Lukou, Guiyang",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106633",151114,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 16, Wengjing Lukou, Guiyang",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106634",151115,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 15, Wengjing Lukou, Guiyang",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106635",151116,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 14, Wengjing Lukou, Guiyang",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106636",151117,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 13, Wengjing Lukou, Guiyang",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106637",151118,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 12, Wengjing Lukou, Guiyang",NA,"",7,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106638",151119,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 11, Wengjing Lukou, Guiyang",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106639",151120,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 10, Wengjing Lukou, Guiyang",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106640",151121,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 9, Wengjing Lukou, Guiyang",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106641",151122,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 8, Wengjing Lukou, Guiyang",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106642",151123,"col","Daye",106.620003,26.575001,"Yingpanpo section, bed 7, Wengjing Lukou, Guiyang",NA,"",1,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.56,-13.77,"611",251.735,1
+"106647",151128,"col","Daye",106.675003,26.544001,"Xiaochehe section, bed 10, Guiyang",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.61,-13.79,"611",251.735,1
+"106648",151129,"col","Daye",106.675003,26.544001,"Xiaochehe section, bed 9, Guiyang",NA,"",8,"Griesbachian","",252.17,251.3,36523,"gp_mid",106.61,-13.79,"611",251.735,1
+"106655",151136,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 18, Panxian County",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106656",151137,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 17, Panxian County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106657",151138,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 16, Panxian County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106658",151139,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 15, Panxian County",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106659",151140,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 14, Panxian County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106660",151141,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 13, Panxian County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106661",151142,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 12, Panxian County",NA,"",1,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106662",151143,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 11, Panxian County",NA,"",7,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106663",151144,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 10, Panxian County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106664",151145,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 9, Panxian County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106665",151146,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 8, Panxian County",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106666",151147,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 7, Panxian County",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106667",151148,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 6, Panxian County",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"106668",151149,"col","Kayitou",104.417999,25.658001,"Huopu coal mine section, bed 5, Panxian County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,1
+"110764",157352,"col","Feixianguan",104.685997,24.938,"Xiongwu section",NA,"",8,"Griesbachian","",252.17,251.3,51768,"gp_mid",104.98,-15.61,"611",251.735,1
+"120445",172215,"col","Yelang",105.279999,26.139999,"Zhongzhai bed 30, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,55955,"gp_mid",105.39,-14.36,"611",251.735,1
+"120446",172216,"col","Yelang",105.279999,26.139999,"Zhongzhai bed 32, Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,55955,"gp_mid",105.39,-14.36,"611",251.735,1
+"120447",172217,"col","Yelang",105.279999,26.139999,"Zhongzhai bed 33, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,55955,"gp_mid",105.39,-14.36,"611",251.735,1
+"121249",174677,"col","Dalong",106.5,26.1,"Sample GMC-04, Gaimao section, Guizhou",NA,"",2,"Griesbachian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"121250",174678,"col","Dalong",106.5,26.1,"Sample GMC-05, Gaimao section, Guizhou",NA,"",1,"Griesbachian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"121251",174679,"col","Shabaowan",106.5,26.1,"Sample GMC-07, Gaimao section, Guizhou",NA,"",1,"Griesbachian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"121252",174680,"col","Shabaowan",106.5,26.1,"Sample GMC-08, Gaimao section, Guizhou",NA,"",3,"Griesbachian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"121253",174681,"col","Shabaowan",106.5,26.1,"Sample GMC-09, Gaimao section, Guizhou",NA,"",4,"Griesbachian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"121254",174682,"col","Shabaowan",106.5,26.1,"Sample GMC-12, Gaimao section, Guizhou",NA,"",1,"Dienerian","",252.17,251.3,57068,"gp_mid",106.51,-14.26,"611",251.735,1
+"125142",204566,"col","Yelang",105.349998,26.129999,"Liuzhai section, bed 15",NA,"",1,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,1
+"129468",187266,"col","Luolou",106.653702,24.9578,"YUP A, Yuping section",NA,"",4,"Griesbachian","",252.17,251.3,62810,"gp_mid",106.82,-15.37,"611",251.735,1
+"129469",187267,"col","Luolou",107.373398,24.431801,"LON 7, Longyuan section",NA,"",15,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.57,-15.8,"611",251.735,1
+"129477",187275,"col","Luolou",107.3339,24.3624,"WUZE B1-2, Wuzhuan section",NA,"",10,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.54,-15.87,"611",251.735,1
+"129478",187276,"col","Luolou",107.3339,24.3624,"WUZE B3, Wuzhuan section",NA,"",15,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.54,-15.87,"611",251.735,1
+"129479",187277,"col","Luolou",107.3339,24.3624,"WUZE D-E, Wuzhuan section",NA,"",13,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.54,-15.87,"611",251.735,1
+"129480",187278,"col","Luolou",107.3339,24.3624,"WUZE J, Wuzhuan section",NA,"",10,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.54,-15.87,"611",251.735,1
+"129481",187279,"col","Luolou",107.3339,24.3624,"WUZE F, Wuzhuan section",NA,"",11,"Griesbachian","",252.17,251.3,62810,"gp_mid",107.54,-15.87,"611",251.735,1
+"129482",187280,"col","Luolou",106.653702,24.9578,"YUP B, Yuping section",NA,"",8,"Griesbachian","",252.17,251.3,62810,"gp_mid",106.82,-15.37,"611",251.735,1
+"129483",187281,"col","Luolou",106.653702,24.9578,"YUP NMC, Yuping section",NA,"",7,"Griesbachian","",252.17,251.3,62810,"gp_mid",106.82,-15.37,"611",251.735,1
+"129484",187282,"col","Luolou",106.653702,24.9578,"YUP D2, Yuping section",NA,"",13,"Griesbachian","",252.17,251.3,62810,"gp_mid",106.82,-15.37,"611",251.735,1
+"129485",187283,"col","Luolou",106.547897,24.813299,"SHA 19, Shanggan 2 section",NA,"",17,"Griesbachian","",252.17,251.3,62810,"gp_mid",106.74,-15.52,"611",251.735,1
+"130548",189460,"col","Vokhmian",45.263611,56.943333,"Astashikha I, PIN 3447",NA,"",1,"Induan","",252.17,251.2,28966,"gp_mid",50.68,40.36,"302",251.685,1
+"133346",195820,"col","Kopanskaya",55.7925,51.71389,"Gryaznushka (Locality 25)",NA,"",1,"Induan","",252.17,251.2,28844,"gp_mid",60.95,38.85,"302",251.685,1
+"133413",195896,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 3",NA,"",2,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133414",195897,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 4",NA,"",4,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133415",195898,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 5",NA,"",4,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133416",195899,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 6",NA,"",2,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133417",195900,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 7",NA,"",3,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133418",195901,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 8",NA,"",5,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133419",195902,"col","Luolou",106.300003,24.4,"Sidazhai Section, Bed 9",NA,"",2,"Griesbachian","",252.17,251.3,66687,"gp_mid",106.57,-15.96,"611",251.735,1
+"133553",196092,"col","Kopanskaya",50.483055,52.448612,"Bolsheglushitzkoe II (Locality 206)",NA,"",1,"Induan","",252.17,251.2,28844,"gp_mid",56.87,37.87,"302",251.685,1
+"134106",197045,"col","Dalong",105.915001,26.379999,"Xinmin section, bed 48 (upper)",NA,"",2,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,1
+"134107",197046,"col","Daye",105.915001,26.379999,"Xinmin section, bed 51",NA,"",1,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,1
+"134108",197047,"col","Daye",105.915001,26.379999,"Xinmin section, bed 55",NA,"",1,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,1
+"134773",198272,"col","Majiaoling",106,23.4,"Pojue Section, Bet 10, Majiaoling Fm",NA,"",2,"Griesbachian","",252.17,251.3,67555,"gp_mid",106.42,-16.99,"611",251.735,1
+"134887",198512,"col","Majiaoling",106,23.4,"Pojue Section, Bet 13, Majiaoling Fm",NA,"",2,"Griesbachian","",252.17,251.3,67555,"gp_mid",106.42,-16.99,"611",251.735,1
+"135098",198877,"col","Daye",106.871002,26.514,"GJ-14, Gujiao section",NA,"",3,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135099",198878,"col","Daye",106.871002,26.514,"GJ-15, Gujiao section",NA,"",4,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135100",198879,"col","Daye",106.871002,26.514,"GJ-19, Gujiao section",NA,"",1,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135101",198880,"col","Daye",106.871002,26.514,"GJ-21, Gujiao section",NA,"",4,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135102",198881,"col","Daye",106.871002,26.514,"GJ-22, Gujiao section",NA,"",9,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135103",198882,"col","Daye",106.871002,26.514,"GJ-23, Gujiao section",NA,"",3,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135104",198883,"col","Daye",106.871002,26.514,"GJ-24, Gujiao section",NA,"",5,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135105",198884,"col","Daye",106.871002,26.514,"GJ-25, Gujiao section",NA,"",2,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135106",198885,"col","Daye",106.871002,26.514,"GJ-27, Gujiao section",NA,"",8,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135107",198886,"col","Daye",106.871002,26.514,"GJ-28, Gujiao section",NA,"",5,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135108",198887,"col","Daye",106.871002,26.514,"GJ-32, Gujiao section",NA,"",14,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135109",198888,"col","Daye",106.871002,26.514,"GJ-33, Gujiao section",NA,"",16,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135110",198889,"col","Daye",106.871002,26.514,"GJ-35, Gujiao section",NA,"",6,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135111",198890,"col","Daye",106.871002,26.514,"GJ-40, Gujiao section",NA,"",7,"Dienerian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135112",198891,"col","Daye",106.871002,26.514,"GJ-41, Gujiao section",NA,"",3,"Dienerian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,1
+"135541",200000,"col","Ma'in",35.566666,31.516666,"Bed NA51, Al Mamalih section 2 (sample A)",NA,"",3,"Dienerian","",252.17,251.3,68012,"gp_mid",38.96,-6.46,"503",251.735,1
+"135542",200001,"col","Ma'in",35.566666,31.516666,"Bed NA51, Al Mamalih section 2 (sample B)",NA,"",1,"Dienerian","",252.17,251.3,68012,"gp_mid",38.96,-6.46,"503",251.735,1
+"135543",200002,"col","Ma'in",35.566666,31.516666,"Bed NA51, Al Mamalih section 2 (sample C)",NA,"",1,"Dienerian","",252.17,251.3,68012,"gp_mid",38.96,-6.46,"503",251.735,1
+"135544",200003,"col","Ma'in",35.566666,31.516666,"Bed NA51, Al Mamalih section 2 (sample D)",NA,"",1,"Dienerian","",252.17,251.3,68012,"gp_mid",38.96,-6.46,"503",251.735,1
+"135545",200004,"col","Ma'in",35.566666,31.516666,"Bed NA51, Al Mamalih section 2 (sample E)",NA,"",2,"Dienerian","",252.17,251.3,68012,"gp_mid",38.96,-6.46,"503",251.735,1
+"136003",200981,"col","Daye",106.659721,25.566389,"Dajiang-1",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.74,-14.77,"611",251.735,1
+"136004",200982,"col","Daye",106.649719,25.5875,"Rongbao-1",NA,"",14,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.73,-14.75,"611",251.735,1
+"136005",200983,"col","Daye",106.75972,25.581112,"Youjianzhai-1",NA,"",8,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136006",200984,"col","Daye",106.75972,25.581112,"Youjianzhai-2",NA,"",8,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136007",200985,"col","Daye",106.75972,25.581112,"Youjianzhai-3",NA,"",23,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136008",200986,"col","Daye",106.659721,25.566389,"Dajiang-2",NA,"",3,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.74,-14.77,"611",251.735,1
+"136009",200987,"col","Daye",106.763611,25.569166,"Dongjiawen-1",NA,"",15,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136010",200988,"col","Daye",106.75972,25.581112,"Youjianzhai-4",NA,"",21,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136011",200989,"col","Daye",106.75972,25.581112,"Youjianzhai-5",NA,"",15,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136012",200990,"col","Daye",106.674164,25.53861,"Dawen-1",NA,"",10,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136013",200991,"col","Daye",106.75972,25.581112,"Youjianzhai-6",NA,"",20,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136014",200992,"col","Daye",106.763611,25.569166,"Dongjiawen II-1",NA,"",2,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136015",200993,"col","Daye",106.763611,25.569166,"Dongjiawen-2",NA,"",5,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136016",200994,"col","Daye",106.75972,25.581112,"Youjianzhai-7",NA,"",23,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136017",200995,"col","Daye",106.763611,25.569166,"Dongjiawen-3",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136018",200996,"col","Daye",106.763611,25.569166,"Dongjiawen-4",NA,"",4,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136019",200997,"col","Daye",106.764168,25.540833,"Houchang-1",NA,"",18,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.84,-14.78,"611",251.735,1
+"136020",200998,"col","Daye",106.674164,25.53861,"Dawen-2",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136021",200999,"col","Daye",106.75972,25.581112,"Youjianzhai-X",NA,"",4,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136022",201000,"col","Daye",106.763611,25.569166,"Dongjiawen-5",NA,"",25,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136023",201001,"col","Daye",106.75972,25.581112,"Youjianzhai-8",NA,"",12,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136024",201002,"col","Daye",106.763611,25.569166,"Dongjiawen-6",NA,"",23,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136025",201003,"col","Daye",106.75972,25.581112,"Youjianzhai-9",NA,"",15,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136026",201004,"col","Daye",106.75972,25.581112,"Youjianzhai-10",NA,"",11,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136027",201005,"col","Daye",106.674164,25.53861,"Dawen-3",NA,"",2,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136028",201006,"col","Daye",106.674164,25.53861,"Dawen-4",NA,"",6,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136029",201007,"col","Daye",106.763611,25.569166,"Dongjiawen-7",NA,"",25,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136030",201008,"col","Daye",106.764168,25.540833,"Houchang-2",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.84,-14.78,"611",251.735,1
+"136031",201009,"col","Daye",106.75972,25.581112,"Youjianzhai-11",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136032",201010,"col","Daye",106.75972,25.581112,"Youjianzhai-12",NA,"",2,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,1
+"136033",201011,"col","Daye",106.674164,25.53861,"Dawen-5",NA,"",2,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136034",201012,"col","Daye",106.674164,25.53861,"Dawen-6",NA,"",11,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,1
+"136035",201013,"col","Daye",106.763611,25.569166,"Dongjiawen-8",NA,"",28,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,1
+"136298",201714,"col","Yinkeng",119.988998,30.922001,"Huangzishan",NA,"",6,"Induan","",252.17,251.2,69021,"gp_mid",117.29,-7.08,"611",251.685,1
+"138402",204768,"col","Daye",106.871002,26.514,"GJ-11, Gujiao section",NA,"",2,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138403",204769,"col","Daye",106.871002,26.514,"GJ-16, Gujiao section",NA,"",5,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138404",204770,"col","Daye",106.871002,26.514,"GJ-17, Gujiao section",NA,"",6,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138405",204771,"col","Daye",106.871002,26.514,"GJ-18, Gujiao section",NA,"",2,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138406",204772,"col","Daye",106.871002,26.514,"GJ-20, Gujiao section",NA,"",4,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138407",204773,"col","Daye",106.871002,26.514,"GJ-26, Gujiao section",NA,"",3,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138408",204774,"col","Daye",106.871002,26.514,"GJ-29, Gujiao section",NA,"",4,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138409",204775,"col","Daye",106.871002,26.514,"GJ-31, Gujiao section",NA,"",8,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138410",204776,"col","Daye",106.871002,26.514,"GJ-34, Gujiao section",NA,"",4,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138411",204777,"col","Daye",106.871002,26.514,"GJ-37b, Gujiao section",NA,"",1,"Dienerian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"138412",204778,"col","Daye",106.871002,26.514,"GJ-38, Gujiao section",NA,"",1,"Dienerian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,1
+"139334",205960,"col","Kayitou",104.43528,26.73,"Jinzhong (JZ1)",NA,"",13,"Griesbachian","",252.17,251.3,70655,"gp_mid",104.54,-13.86,"611",251.735,1
+"139336",205962,"col","Kayitou",104.43528,26.73,"Jinzhong (JZ2)",NA,"",2,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.54,-13.86,"611",251.735,1
+"139345",205971,"col","Kayitou",104.385277,26.4825,"Chinahe, Tianba (CNH9)",NA,"",3,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.53,-14.11,"611",251.735,1
+"139346",205972,"col","Kayitou",104.385277,26.4825,"Chinahe, Tianba (CNH10)",NA,"",2,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.53,-14.11,"611",251.735,1
+"139347",205973,"col","Kayitou",104.385277,26.4825,"Chinahe, Tianba (CNH11)",NA,"",1,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.53,-14.11,"611",251.735,1
+"139356",205982,"col","Feixianguan",104.681114,28.009443,"Jinjibang, Zhenzhou (JJB9)",NA,"",3,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.62,-12.56,"611",251.735,1
+"139357",205983,"col","Feixianguan",104.681114,28.009443,"Jinjibang, Zhenzhou (JJB10)",NA,"",4,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.62,-12.56,"611",251.735,1
+"139358",205984,"col","Feixianguan",104.681114,28.009443,"Jinjibang, Zhenzhou (JJB11)",NA,"",4,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.62,-12.56,"611",251.735,1
+"139359",205985,"col","Feixianguan",104.681114,28.009443,"Jinjibang, Zhenzhou (JJB12)",NA,"",3,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.62,-12.56,"611",251.735,1
+"139364",205990,"col","Kayitou",104.404167,27.233334,"Kele, Hezhang (KL5)",NA,"",4,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.46,-13.36,"611",251.735,1
+"139365",205991,"col","Kayitou",104.404167,27.233334,"Kele, Hezhang (KL6)",NA,"",6,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.46,-13.36,"611",251.735,1
+"139368",205994,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD3)",NA,"",12,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1
+"139369",205995,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD4)",NA,"",8,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1
+"139370",205996,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD5)",NA,"",2,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1
+"139371",205997,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD6)",NA,"",2,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1
+"139372",205998,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD7)",NA,"",4,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1
+"139373",205999,"col","Feixianguan",104.665833,26.018888,"Wadu, Panxian (WD8)",NA,"",2,"Griesbachian","",252.17,251.3,70657,"gp_mid",104.84,-14.54,"611",251.735,1

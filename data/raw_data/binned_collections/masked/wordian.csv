@@ -1,0 +1,673 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"12626",49656,"col","Khuff",57.68972,21.036388,"Khuff AB43",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"12630",49655,"col","Khuff",57.68972,21.036388,"Khuff AB7",NA,"",5,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"15646",29798,"col","Yinping",119.400002,30.799999,"Guangde",NA,"PGAP 12009",3,"Wordian","",268.8,265.1,8304,"gp_mid",121.73,-6.52,"611",266.95,1
+"15658",29810,"col","Wenbishan",113.599998,25.1,"Renhua",NA,"PGAP 13003",2,"Wordian","",268.8,265.1,8313,"gp_mid",121.27,-14.17,"611",266.95,1
+"16526",30684,"col","Veslyanskaya Suite",51.099998,63.799999,"Vym",NA,"PGAP 13333",9,"Wordian","",268.8,265.1,8240,"gp_mid",42.84,36.92,"302",266.95,1
+"16527",30685,"col","Cheriyusskaya Suite",50.900002,62.200001,"Sluda",NA,"PGAP 13334",6,"Wordian","",268.8,265.1,8240,"gp_mid",44,35.62,"302",266.95,1
+"16528",30686,"col","Belebeyeoskaya Suite",50.299999,56.400002,"Kityak",NA,"PGAP 13335",12,"Wordian","",268.8,265.1,8240,"gp_mid",47.89,30.81,"302",266.95,1
+"20641",35517,"col","Gharif",58,22,"Haushi-Huqf",NA,"",30,"Wordian","",268.8,265.1,9591,"gp_mid",52.37,-35.03,"503",266.95,1
+"24481",84110,"col","",36.049999,38.080002,"Naltas, Sainbeyli Area",NA,"",7,"Wordian","",268.8,265.1,28161,"gp_mid",40.24,-14.16,"504",266.95,1
+"24962",41654,"col","Oum el Afia Shale",10.175,33.417999,"Locality B1, Kef en Nsouri, Djebel Tebaga",NA,"",18,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"24963",41655,"col","Oum el Afia Shale",10.175,33.417999,"Locality B2, Kef en Nsouri, Djebel Tebaga",NA,"Reef 200",1,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"24966",41657,"col","Djebel Tebaga",10.174,33.415001,"Locality B11-19, Kef en Nsouri, Djebel Tebaga",NA,"Reef 200",1,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"24967",41658,"col","Djebel Tebaga",10.173,33.412998,"Locality B21, Kef en Nsouri, Djebel Tebaga",NA,"Reef 200",9,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"24973",42070,"col","Oum el Afia Shale (?)",10.25,33.416668,"Newell 1973 spot locality 1, Baten beni Zid, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,11156,"gp_mid",20.05,-4.25,"715",266.95,1
+"25047",120461,"col","",-103.224998,76.449997,"GSC 25986, Cameron Island",NA,"",1,"Wordian","",268.8,265.1,27358,"gp_mid",1.62,43.25,"106",266.95,1
+"25072",120462,"col","",-103.224998,76.449997,"GSC 25993, Cameron Island",NA,"",1,"Wordian","",268.8,265.1,27358,"gp_mid",1.62,43.25,"106",266.95,1
+"25108",41833,"col","Djebel Tebaga Lower Bioherm",10.184,33.416,"Locality C8, Merbah el Oussif West, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,11155,"gp_mid",20,-4.21,"715",266.95,1
+"25109",41834,"col","Djebel Tebaga Lower Bioherm",10.184,33.416,"Locality C5, Merbah el Oussif West, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11155,"gp_mid",20,-4.21,"715",266.95,1
+"25110",41835,"col","Djebel Tebaga",10.184,33.414001,"Locality C11, Merbah el Oussif West, Djebel Tebaga",NA,"",18,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.22,"715",266.95,1
+"25111",41836,"col","Djebel Tebaga",10.183,33.411999,"Locality C16, Merbah el Oussif West, Djebel Tebaga",NA,"",17,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.22,"715",266.95,1
+"25126",41852,"col","Middle Shaly Facies",10.196,33.417999,"Locality E12, Middle Shaly Facies, Merbah el Oussif, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25127",41853,"col","Djebel Tebaga",10.196,33.417999,"Locality E13, Merbah el Oussif East, Djebel Tebaga",NA,"",6,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25132",41858,"col","Middle Shaly Facies",10.195,33.416,"Locality E18, Merbah el Oussif East, Djebel Tebaga",NA,"",8,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25133",41859,"col","Middle Shaly Facies",10.195,33.415001,"Locality E21, Merbah el Oussif East, Djebel Tebaga",NA,"",8,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25134",41860,"col","Middle Shaly Facies",10.195,33.415001,"Locality E22, Merbah el Oussif East, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25135",41861,"col","Middle Shaly Facies",10.195,33.414001,"Locality E23, Merbah el Oussif East, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25136",41862,"col","Middle Shaly Facies",10.195,33.412998,"Locality E25, Merbah el Oussif East, Djebel Tebaga",NA,"",6,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25137",41863,"col","Middle Shaly Facies",10.195,33.412998,"Locality E26, Merbah el Oussif East, Djebel Tebaga",NA,"",12,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25138",41864,"col","Middle Shaly Facies",10.195,33.411999,"Locality E27, Merbah el Oussif East, Djebel Tebaga",NA,"",34,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25139",41865,"col","Middle Shaly Facies",10.195,33.411999,"Locality E28, Merbah el Oussif East, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11153,"gp_mid",20.01,-4.22,"715",266.95,1
+"25148",41875,"col","Oum el Afia Shale",10.209,33.419998,"Locality F4, Bateun Beni Zid, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11153,"gp_mid",20.02,-4.23,"715",266.95,1
+"25149",41876,"col","Oum el Afia Shale",10.233333,33.416668,"Locality F6, Oum el Afia Shale (?), Baten beni Zid, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11153,"gp_mid",20.04,-4.24,"715",266.95,1
+"25154",41880,"col","Djebel Tebaga",10.277,33.435001,"Locality G6, Saikra, Djebel Tebaga",NA,"Reef 200",2,"Wordian","",268.8,265.1,11153,"gp_mid",20.08,-4.25,"715",266.95,1
+"25238",41971,"col","Oum el Afia Shale",10.18,33.421001,"Locality J1, Halk el Djemel, Djebel Tebaga",NA,"",8,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"25239",41972,"col","Djebel Tebaga Biohermal Complex",10.18,33.418999,"Locality J5, Halk el Djemel, Djebel Tebaga",NA,"Reef 200",4,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"25241",41974,"col","Djebel Tebaga Biohermal Complex",10.179,33.415001,"Locality J16, Halk el Djemel, Djebel Tebaga",NA,"Reef 200",5,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"25242",41975,"col","Djebel Tebaga Biohermal Complex",10.179,33.414001,"Locality J17, Halk el Djemel, Djebel Tebaga",NA,"Reef 200",55,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"25243",41976,"col","Djebel Tebaga Biohermal Complex",10.179,33.412998,"Locality J18, Halk el Djemel, Djebel Tebaga",NA,"Reef 200",12,"Wordian","",268.8,265.1,11153,"gp_mid",20,-4.21,"715",266.95,1
+"25334",42071,"col","Oum el Afia Shale (?)",10.25,33.416668,"Newell 1973 spot locality 2A, Baten beni Zid, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,11156,"gp_mid",20.05,-4.25,"715",266.95,1
+"25335",42072,"col","Oum el Afia Shale (?)",10.25,33.416668,"Newell 1973 spot locality 4A, Baten beni Zid, Djebel Tebaga",NA,"",9,"Wordian","",268.8,265.1,11156,"gp_mid",20.05,-4.25,"715",266.95,1
+"25354",42091,"col","",10.241667,33.408333,"Baten beni Zid Series, Djebel Tebaga",NA,"",52,"Wordian","",268.8,265.1,11209,"gp_mid",20.04,-4.25,"715",266.95,1
+"31815",49839,"col","Khuff",57.68972,21.036388,"Khuff AB42/8",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31816",49840,"col","",57.68972,21.036388,"Khuff AB41",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31817",49841,"col","Khuff",57.68972,21.036388,"Khuff AB40",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31818",49842,"col","Khuff",57.68972,21.036388,"Khuff AB11",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31819",49843,"col","Khuff",57.68972,21.036388,"Khuff AB39",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31821",49845,"col","Khuff",57.68972,21.036388,"Khuff AB38",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31822",49846,"col","Khuff",57.68972,21.036388,"Khuff AB37",NA,"",5,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31823",49847,"col","Khuff",57.68972,21.036388,"Khuff AB35",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31832",49857,"col","Khuff",57.68972,21.036388,"Khuff AB12",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31833",49858,"col","Khuff",57.68972,21.036388,"Khuff AB34",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31834",49859,"col","Khuff",57.68972,21.036388,"Khuff AB12A/33C",NA,"",6,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31835",49860,"col","Khuff",57.68972,21.036388,"Khuff AB33",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31836",49861,"col","Khuff",57.68972,21.036388,"Khuff AB33B",NA,"",5,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31837",49862,"col","Khuff",57.68972,21.036388,"Khuff AB33A",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31838",49863,"col","Khuff",57.68972,21.036388,"Khuff AB32",NA,"",5,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31839",49864,"col","Khuff",57.68972,21.036388,"Khuff AB31",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31840",49865,"col","Khuff",57.68972,21.036388,"Khuff AB6/30",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31841",49866,"col","Khuff",57.68972,21.036388,"Khuff AB5",NA,"",6,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31842",49867,"col","Khuff",57.68972,21.036388,"Khuff AB4",NA,"",1,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31843",49868,"col","Khuff",57.68972,21.036388,"Khuff AB29",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31844",49869,"col","Khuff",57.68972,21.036388,"Khuff AB28",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31845",49870,"col","Khuff",57.68972,21.036388,"Khuff AB27",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31872",49905,"col","Khuff",57.68972,21.036388,"Khuff AB26",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31873",49906,"col","Khuff",57.68972,21.036388,"Khuff AB3-B",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31874",49907,"col","Khuff",57.68972,21.036388,"Khuff AB25",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31875",49908,"col","Khuff",57.68972,21.036388,"Khuff AB22/JB46",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31876",49909,"col","Khuff",57.68972,21.036388,"Khuff AB24/JB47",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31877",49910,"col","Khuff",57.68972,21.036388,"Khuff AB1/23",NA,"",7,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31878",49911,"col","Khuff",57.68972,21.036388,"Khuff AB21/JB45",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31879",49912,"col","Khuff",57.68972,21.036388,"Khuff AB20A/JB44",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31880",49913,"col","Khuff",57.68972,21.036388,"Khuff AB20",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31881",49914,"col","Khuff",57.68972,21.036388,"Khuff AB19",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31884",49917,"col","Khuff",57.68972,21.036388,"Khuff AB18A/JB43",NA,"",16,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31885",49918,"col","Khuff",57.68972,21.036388,"Khuff AB13",NA,"",12,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31887",49920,"col","Khuff",57.68972,21.036388,"Khuff AB18",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31888",49921,"col","Khuff",57.68972,21.036388,"Khuff AB10",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31889",49922,"col","Khuff",57.68972,21.036388,"Khuff AB17",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31890",49923,"col","Khuff",57.68972,21.036388,"Khuff AB16A/JB42",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31892",49925,"col","Khuff",57.68972,21.036388,"Khuff AB16",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31893",49926,"col","Khuff",57.68972,21.036388,"Khuff AB15B/JB41",NA,"",4,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31894",49927,"col","Khuff",57.68972,21.036388,"Khuff AB15/JB39",NA,"",3,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"31895",49928,"col","Khuff",57.68972,21.036388,"Khuff AB14/JB38",NA,"",2,"Wordian","",268.8,265.1,13311,"gp_mid",51.73,-35.89,"503",266.95,1
+"32946",135939,"col","Muree",151.464996,-32.904999,"0.75 miles WSW of Mulbring post office, Hunter Valley",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",166.55,-73.57,"801",266.95,1
+"41345",61751,"col","",55.93,28.129999,"Kuh-e-Gahkan, Zagros Mountains",NA,"",1,"Wordian","",268.8,265.1,17802,"gp_mid",52.1,-28.62,"503",266.95,1
+"41705",62320,"col","McGregor Creek",-119.916664,50.666668,"Locality A, east of Kamloops",NA,"",17,"Wordian","",268.8,265.1,18017,"gp_mid",-38.57,30.08,"127",266.95,1
+"42103",133336,"col","Gerringong",150.910004,-34.419998,"Wollongong Point, Illawarra (USNM coll)",NA,"",26,"Wordian","",268.8,265.1,20608,"gp_mid",167.27,-75.14,"801",266.95,1
+"42382",63371,"col","Khuff",57.689999,21.035,"Haushi Uplift OL1, Section 1",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42383",63372,"col","Khuff",57.689999,21.035,"Haushi Uplift OL2, Section 1",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42384",63373,"col","Khuff",57.689999,21.035,"Haushi Uplift OL3, Section 1",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42385",63374,"col","Khuff",57.689999,21.035,"Haushi Uplift OL4, Section 1",NA,"",5,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42386",63375,"col","Khuff",57.689999,21.035,"Haushi Uplift OL5, Section 1",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42387",63376,"col","Khuff",57.689999,21.035,"Haushi Uplift OL21, Section 1",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42388",63377,"col","Khuff",57.689999,21.035,"Haushi Uplift OL6, Section 1",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42391",63422,"col","Khuff",57.689999,21.035,"Haushi Uplift OL23, Section 1",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42392",63423,"col","Khuff",57.689999,21.035,"Haushi Uplift OL7, Section 1",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42500",63768,"col","Khuff",57.667999,21.01,"Haushi Uplift OL12, Section 5",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.7,-35.91,"503",266.95,1
+"42501",63769,"col","Khuff",57.667999,21.01,"Haushi Uplift OL19, Section 5",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.7,-35.91,"503",266.95,1
+"42502",63770,"col","Khuff",57.667999,21.01,"Haushi Uplift OL20, Section 5",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.7,-35.91,"503",266.95,1
+"42503",63771,"col","Khuff",57.689999,21.035,"Haushi Uplift OL8, Section 1",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42504",63772,"col","Khuff",57.689999,21.035,"Haushi Uplift OL20, Section 1",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"42508",63776,"col","Khuff",57.695,21.035,"Haushi Uplift OL30, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42509",63777,"col","Khuff",57.695,21.035,"Haushi Uplift OL26, Section 7",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42510",63778,"col","Khuff",57.695,21.035,"Haushi Uplift OL27, Section 7",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42511",63779,"col","Khuff",57.695,21.035,"Haushi Uplift OL28, Section 7",NA,"",6,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42512",63780,"col","Khuff",57.695,21.035,"Haushi Uplift OL31, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42513",63781,"col","Khuff",57.695,21.035,"Haushi Uplift OL29, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42514",63782,"col","Khuff",57.695,21.035,"Haushi Uplift OL37, Section 7",NA,"",5,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42515",63783,"col","Khuff",57.695,21.035,"Haushi Uplift OL38, Section 7",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42516",63784,"col","Khuff",57.695,21.035,"Haushi Uplift OL39, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42517",63785,"col","Khuff",57.695,21.035,"Haushi Uplift OL34, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42518",63787,"col","Khuff",57.695,21.035,"Haushi Uplift OL40, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42519",63788,"col","Khuff",57.695,21.035,"Haushi Uplift OL41, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42520",63789,"col","Khuff",57.695,21.035,"Haushi Uplift OL47, Section 7",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42521",63790,"col","Khuff",57.695,21.035,"Haushi Uplift OL49, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42522",63791,"col","Khuff",57.695,21.035,"Haushi Uplift OL44, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42523",63792,"col","Khuff",57.695,21.035,"Haushi Uplift OL33, Section 7",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42524",63793,"col","Khuff",57.695,21.035,"Haushi Uplift OL45, Section 7",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42525",63794,"col","Khuff",57.695,21.035,"Haushi Uplift OL42, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42526",63795,"col","Khuff",57.695,21.035,"Haushi Uplift OL43, Section 7",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42527",63796,"col","Khuff",57.695,21.035,"Haushi Uplift OL46, Section 7",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42528",63797,"col","Khuff",57.695,21.035,"Haushi Uplift OL35, Section 7",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42529",63798,"col","Khuff",57.695,21.035,"Haushi Uplift OL50, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42530",63799,"col","Khuff",57.695,21.035,"Haushi Uplift OL36, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"42531",63800,"col","Khuff",57.688999,21.049999,"Haushi Uplift OL54, Section 7bis",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.87,"503",266.95,1
+"42532",63801,"col","Khuff",57.688999,21.049999,"Haushi Uplift OL56, Section 7bis",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.87,"503",266.95,1
+"42533",63802,"col","Khuff",57.688,21.049999,"Haushi Uplift OL53, Section 7bis",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.87,"503",266.95,1
+"42534",63803,"col","Khuff",57.688,21.049999,"Haushi Uplift OL60, Section 7bis",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.87,"503",266.95,1
+"42535",63804,"col","Khuff",57.688,21.049999,"Haushi Uplift OL51, Section 7bis",NA,"",8,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.87,"503",266.95,1
+"42536",63805,"col","Khuff",57.688,21.049999,"Haushi Uplift OL52, Section 7bis",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.87,"503",266.95,1
+"42537",63806,"col","Khuff",57.688,21.049999,"Haushi Uplift OL57, Section 7bis",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.87,"503",266.95,1
+"42538",63807,"col","Khuff",57.66,21.01,"Haushi Uplift OL57, Section 9",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.69,-35.91,"503",266.95,1
+"42539",63808,"col","Khuff",57.66,21.01,"Haushi Uplift OL59, Section 9",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.69,-35.91,"503",266.95,1
+"50280",75571,"col","",100.550003,-0.566667,"Guguk Bulat, Sumatra",NA,"Reef 2286",51,"Wordian","",268.8,265.1,25515,"gp_mid",113.87,-33.3,"616",266.95,1
+"50322",75649,"col","Zinnar",43.360001,37.279999,"Geli Khana, Ora, Wentzelella Beds",NA,"",6,"Wordian","",268.8,265.1,25560,"gp_mid",44.79,-16.39,"503",266.95,1
+"50323",75650,"col","Zinnar",43.18,37.25,"Zozan-I-Harrur Section, Chalki",NA,"",6,"Wordian","",268.8,265.1,25560,"gp_mid",44.64,-16.36,"503",266.95,1
+"51689",78401,"col","Fanjiatun",126.595001,43.145,"Shoushangou, Fanjiatun Fm, Yumuqiao City, Huadian County",NA,"",2,"Wordian","",268.8,265.1,33594,"gp_mid",127.51,11.18,"604",266.95,1
+"53198",81381,"col","Akasaka",136.574005,35.393002,"Akasaka Limestone, Neoschwagerina Zone",NA,"",2,"Wordian","",268.8,265.1,27406,"gp_mid",132.4,5.51,"610",266.95,1
+"54022",82606,"col","",10.21,33.450001,"Baten Beni Zid, North Slope, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,11211,"gp_mid",20.04,-4.2,"715",266.95,1
+"54225",82851,"col","Qulqula",44.75,35.950001,"Beyarah, Qulqula Region",NA,"",17,"Wordian","",268.8,265.1,27854,"gp_mid",45.27,-18.07,"503",266.95,1
+"54469",83172,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (USNM coll)",NA,"Illawarra",15,"Wordian","",268.8,265.1,20608,"gp_mid",167.61,-75.5,"801",266.95,1
+"55476",84592,"col","Wandrawandian",150.557007,-35.055,"BMR JB38, Tomerong-Braidwood Road, Tomerong",NA,"",1,"Wordian","",268.8,265.1,14254,"gp_mid",167.28,-75.84,"801",266.95,1
+"56524",86044,"col","Nowra",150.617004,-34.867001,"Bomaderry Creek, Nowra",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",167.14,-75.65,"801",266.95,1
+"56535",86149,"col","Muree",151.270004,-32.630001,"Bow-Wow Creek, Mount Vincent",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",165.64,-73.38,"801",266.95,1
+"56830",86574,"col","Berry",150.589996,-34.73,"Selby's Rock, Broger's Creek, Kangaroo Valley",NA,"",5,"Wordian","",268.8,265.1,23110,"gp_mid",166.83,-75.53,"801",266.95,1
+"56831",120678,"col","Mulbring",151.244995,-32.665001,"Great Northern Railway Milepost 142, Minimbah",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",165.62,-73.42,"801",266.95,1
+"57255",87197,"col","Berry",150.360001,-34.645,"Bundanoon Gully",NA,"",8,"Wordian","",268.8,265.1,14254,"gp_mid",166,-75.53,"801",266.95,1
+"57351",87346,"col","Nowra",150.764999,-35,"Cabbage Tree, Jervis Bay",NA,"",1,"Wordian","",268.8,265.1,42916,"gp_mid",167.81,-75.72,"801",266.95,1
+"57352",87350,"col","Hutang",118.025002,28.235001,"Caijiawan, Pengjia Mb, Shangrao County",NA,"",5,"Wordian","",268.8,265.1,34601,"gp_mid",122.46,-9.26,"611",266.95,1
+"58084",88233,"col","Berry",150.600006,-34.779999,"Cambewarra",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",166.94,-75.58,"801",266.95,1
+"58289",88435,"col","Shadrovskaya",52.25,71.275002,"Cape Shadrovskiy, Collection 20503-1, Mezhdusharskiy Island",NA,"",3,"Wordian","",268.8,265.1,29395,"gp_mid",36.79,42.8,"302",266.95,1
+"62846",94834,"col","Muree",151.324997,-32.595001,"Abbey Green, Wittingham Parish",NA,"",2,"Wordian","",268.8,265.1,32346,"gp_mid",165.74,-73.33,"801",266.95,1
+"62854",94842,"col","",122.5,47.049999,"A'erbengele, Jalaid Qi",NA,"",1,"Wordian","",268.8,265.1,31908,"gp_mid",133.32,30.92,"628",266.95,1
+"63062",95056,"col","Gerringong",150.735001,-34.759998,"Broughton Village, near Berry",NA,"",1,"Wordian","",268.8,265.1,32369,"gp_mid",167.31,-75.51,"801",266.95,1
+"63072",95066,"col","Mulbring",150.115005,-32.415001,"Bylong",NA,"",1,"Wordian","",268.8,265.1,32369,"gp_mid",162.18,-73.54,"801",266.95,1
+"63230",95218,"col","McGregor Creek",-120.07,50.672699,"Kamloops Cement Lafarge limestone block",NA,"",25,"Wordian","",268.8,265.1,31793,"gp_mid",-38.68,30.08,"127",266.95,1
+"63527",95521,"col","Porcupine",150.270004,-31.1,"Curlewis",NA,"",2,"Wordian","",268.8,265.1,14254,"gp_mid",161.1,-72.25,"801",266.95,1
+"63600",95598,"col","Daheshen",126.782997,43.349998,"Daheshen, Changshan Gongshe, Huadian County",NA,"",5,"Wordian","",268.8,265.1,32355,"gp_mid",127.75,11.25,"604",266.95,1
+"64460",96846,"col","Tomago",151.800003,-32.900002,"DM Stockton DDH3 Well, 613.8 m",NA,"",1,"Wordian","",268.8,265.1,29742,"gp_mid",167.45,-73.45,"801",266.95,1
+"64647",97115,"col","Dingjiashan",119.008003,29.326,"Dongwuli section, Bed 16, Lijia, Jiande County",NA,"",9,"Wordian","",268.8,265.1,34601,"gp_mid",122.42,-7.87,"611",266.95,1
+"64745",97214,"col","Saiq",58.75,23.27,"Quryat 1, Saih Hatat",NA,"",7,"Wordian","",268.8,265.1,33157,"gp_mid",53.56,-33.96,"503",266.95,1
+"64746",97215,"col","Saiq",58.75,23.27,"Quryat 2, Saih Hatat",NA,"",1,"Wordian","",268.8,265.1,33157,"gp_mid",53.56,-33.96,"503",266.95,1
+"64822",97299,"col","Kufeng",119.555,30.985001,"Dushan Section, Kufeng Fm, Guangde County",NA,"",11,"Wordian","",268.8,265.1,31757,"gp_mid",121.71,-6.29,"611",266.95,1
+"65350",98081,"col","Muree",151.483337,-32.916668,"Mount Vincent",NA,"",2,"Wordian","",268.8,265.1,15909,"gp_mid",166.61,-73.58,"801",266.95,1
+"65351",98082,"col","Gerringong",150.833328,-34.75,"Gerringong",NA,"",2,"Wordian","",268.8,265.1,15909,"gp_mid",167.59,-75.47,"801",266.95,1
+"65376",98110,"col","Muree",151.729996,-32.582001,"Glendon Homestead, Hunter River (USNM coll)",NA,"",18,"Wordian","",268.8,265.1,27730,"gp_mid",166.81,-73.19,"801",266.95,1
+"67018",100072,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 12, RCF25, Sangzhi County",NA,"",2,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67019",100073,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 12, RCF26, Sangzhi County",NA,"",2,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67020",100074,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 12, RCF27, Sangzhi County",NA,"",1,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67021",100075,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 13, RCF29, Sangzhi County",NA,"",1,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67022",100076,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 13, RCF30, Sangzhi County",NA,"",2,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67023",100077,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 13, RCF33, Sangzhi County",NA,"",3,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67024",100078,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 13, RCF34, Sangzhi County",NA,"",3,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67025",100079,"col","Maokou",110.105003,29.584999,"Rencunping section, bed 13, RCF35, Sangzhi County",NA,"",13,"Wordian","",268.8,265.1,34347,"gp_mid",115.99,-12.35,"611",266.95,1
+"67609",100919,"col","Khuff",57.689999,21.035,"Haushi Uplift OL22, Section 1",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"68018",101553,"col","Broughton",150.824005,-34.771999,"UQ L2788, Black Head, Gerroa",NA,"",2,"Wordian","",268.8,265.1,28382,"gp_mid",167.6,-75.49,"801",266.95,1
+"68021",101556,"col","Nowra",150.350006,-35.259998,"UQ L3155, Pointer Gap roadcut, Milton",NA,"",2,"Wordian","",268.8,265.1,28382,"gp_mid",167,-76.1,"801",266.95,1
+"68022",101557,"col","Muree",151.268005,-32.587002,"UQ L3262, Hunter River, north bank W of Glendon Homestead",NA,"",2,"Wordian","",268.8,265.1,28382,"gp_mid",165.57,-73.34,"801",266.95,1
+"68023",101558,"col","Muree",151.755997,-32.763,"UQ L3264, Muree Hill quarries, Raymond Terrace",NA,"",2,"Wordian","",268.8,265.1,28382,"gp_mid",167.13,-73.34,"801",266.95,1
+"68029",101564,"col","Mulbring",151.158203,-32.563499,"UQ L2797, Hunter River, Singleton",NA,"",1,"Wordian","",268.8,265.1,27376,"gp_mid",165.24,-73.36,"801",266.95,1
+"68063",101598,"col","Dingjiashan",119.008003,29.326,"Dongwuli section, Bed 18, Lijia, Jiande County",NA,"",2,"Wordian","",268.8,265.1,34601,"gp_mid",122.42,-7.87,"611",266.95,1
+"68068",101603,"col","Hutang",117.565002,28.200001,"Hutang, Xin'anbu, Qianshan County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",122.16,-9.54,"611",266.95,1
+"68069",101604,"col","Hutang",118.025002,28.235001,"Caijiawan, Topmost Pengjia Mb, Sishiba, Shangrao County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",122.46,-9.26,"611",266.95,1
+"68070",101605,"col","Hutang",118.025002,28.235001,"Caijiawan, Upper Pengjia Mb, Sishiba, Shangrao County",NA,"",3,"Wordian","",268.8,265.1,34601,"gp_mid",122.46,-9.26,"611",266.95,1
+"68071",101606,"col","Hutang",117.540001,28.049999,"Chenfang, Qianshan County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",122.24,-9.67,"611",266.95,1
+"68074",101609,"col","Hutang",117.970001,28.23,"Huangniwu, Hutang Fm, Caijia, Shangrao County",NA,"",3,"Wordian","",268.8,265.1,34601,"gp_mid",122.42,-9.29,"611",266.95,1
+"68075",101610,"col","Hutang",117.970001,28.23,"Huangniwu, Pengjia Mb, Caijia, Shangrao County",NA,"",5,"Wordian","",268.8,265.1,34601,"gp_mid",122.42,-9.29,"611",266.95,1
+"68076",101611,"col","Yangqiao",120.309998,31.129999,"Xishan, Suzhou County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",122.12,-5.76,"611",266.95,1
+"68077",101612,"col","Wenbishan",117.470001,26.700001,"Linchang, Jiangle County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",123.06,-10.76,"611",266.95,1
+"68078",101613,"col","Maokou",110.099998,29.549999,"Luoziqi, Liangshuikou, Sangzhi County",NA,"",1,"Wordian","",268.8,265.1,34601,"gp_mid",116.01,-12.38,"611",266.95,1
+"68503",102133,"col","Wenbishan",117.669998,26.27,"Sanming County, Wenbishan Formation",NA,"",1,"Wordian","",268.8,265.1,34696,"gp_mid",123.48,-10.97,"611",266.95,1
+"69017",102903,"col","",95.300003,32.900002,"Gemaqu IV-F28a, Zaduo County",NA,"",2,"Wordian","",268.8,265.1,34805,"gp_mid",77.37,-24.47,"612",266.95,1
+"69265",103245,"col","",95.25,32.900002,"Zaxilawusi IV F151, Zaduo County",NA,"",1,"Wordian","",268.8,265.1,33552,"gp_mid",77.32,-24.47,"612",266.95,1
+"69520",103602,"col","",95.300003,32.900002,"Randuonongba Section IV F136, Zaqu, Zaduo County",NA,"",1,"Wordian","",268.8,265.1,33552,"gp_mid",77.37,-24.47,"612",266.95,1
+"69525",103607,"col","",95.169998,33.049999,"Taojiyong, Zaqing, Zaduo County",NA,"",10,"Wordian","",268.8,265.1,33552,"gp_mid",77.23,-24.33,"612",266.95,1
+"69543",103626,"col","",95.730003,32.5,"Yeyong Section IV F341, Zhexiao, Zaduo County",NA,"",1,"Wordian","",268.8,265.1,33552,"gp_mid",77.8,-24.84,"612",266.95,1
+"69545",103628,"col","",95.199997,33.049999,"Zalongqu Section IV F227, Zaqing, Zaduo County",NA,"",1,"Wordian","",268.8,265.1,33552,"gp_mid",77.26,-24.33,"612",266.95,1
+"69582",103666,"col","Wandrawandian",150.516006,-35.272999,"UNE L1032, Green Island",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.53,-76.05,"801",266.95,1
+"69583",103667,"col","Wandrawandian",150.768005,-35.015999,"UNE L1034, Green Island",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.85,-75.73,"801",266.95,1
+"69584",103668,"col","Nowra",150.755005,-34.957001,"UNE L1035, Copper Point, Lake Wollumboola, Culburra",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.71,-75.68,"801",266.95,1
+"69585",103669,"col","Nowra",150.755005,-34.957001,"UNE L1043, Yalwal Trig",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.71,-75.68,"801",266.95,1
+"69602",103686,"col","Porcupine",150.270004,-31.1,"UNE L112, Quarry, Curlewis Parish",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",161.1,-72.25,"801",266.95,1
+"69612",103696,"col","Muree",151.244995,-32.662998,"UNE L1166, Minimbah Siding",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.61,-73.42,"801",266.95,1
+"69613",103697,"col","Muree",151.324005,-32.595001,"UNE L1173, Abbey Green",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.74,-73.33,"801",266.95,1
+"69614",103698,"col","Muree",151.324005,-32.595001,"UNE L1175, Hunter River, Abbey Green",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.74,-73.33,"801",266.95,1
+"69615",103699,"col","Wandrawandian",150.770004,-35.02,"UNE L1190, Montague Point",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.86,-75.74,"801",266.95,1
+"69616",103700,"col","Wandrawandian",150.770004,-35.02,"UNE L1189, Montague Point",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.86,-75.74,"801",266.95,1
+"69617",103701,"col","Wandrawandian",150.770004,-35.02,"UNE L1191, Montague Point",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.86,-75.74,"801",266.95,1
+"69618",103702,"col","Wandrawandian",150.770004,-35.02,"UNE L1192, Montague Point",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.86,-75.74,"801",266.95,1
+"69623",103707,"col","Mulbring",150.800003,-32.174999,"UNE L1241, Sandy Creek, Old St. Heliers",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",163.77,-73.11,"801",266.95,1
+"69624",103708,"col","Muree",150.983994,-32.334999,"UNE L1242, Antienne Railway Siding",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",164.47,-73.2,"801",266.95,1
+"69682",103776,"col","Porcupine",150.25,-31,"UNE L82, Pottinger, Gunnedah",NA,"",2,"Wordian","",268.8,265.1,36711,"gp_mid",160.94,-72.17,"801",266.95,1
+"69683",103777,"col","Porcupine",150.270004,-31.1,"UNE L832, Woodleigh Homestead, Curlewis",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",161.1,-72.25,"801",266.95,1
+"69688",103783,"col","Nowra",150.360001,-35.365002,"UNE L883, Kingiman Road, Croobyar National Forest",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.21,-76.19,"801",266.95,1
+"69697",103834,"col","Nowra",150.358994,-35.262001,"UNE L885, Apex Lookout, Pointer Gap",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.03,-76.1,"801",266.95,1
+"69699",103836,"col","Nowra",150.320007,-35.389999,"UNE L898, Pigeon House Mountain",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.13,-76.23,"801",266.95,1
+"69704",103841,"col","Nowra",150.320007,-35.389999,"UNE L923, Pigeon House Mountain",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.13,-76.23,"801",266.95,1
+"69705",103842,"col","Nowra",150.600006,-34.862,"UNE L926, Shoalhaven Bridge, Nowra",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.08,-75.65,"801",266.95,1
+"69707",103844,"col","Nowra",150.830002,-35.005001,"UNE L929, Crookhaven Heads, Culburra",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",168.02,-75.7,"801",266.95,1
+"69708",103845,"col","Berry",150.509995,-34.805,"UNE L931, Bengalee Creek",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.71,-75.63,"801",266.95,1
+"69709",103846,"col","Nowra",150.395004,-35.165001,"UNE L935, 12 Mile Road, Jerrawangala State Forest",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.97,-76,"801",266.95,1
+"69710",103847,"col","Nowra",150.395004,-35.165001,"UNE L936, 12 Mile Road, Jerrawangala State Forest",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.97,-76,"801",266.95,1
+"69711",103848,"col","Broughton",150.824005,-34.771999,"UNE L938, Black Head, Gerroa",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.6,-75.49,"801",266.95,1
+"69712",103849,"col","Broughton",150.395004,-35.165001,"UNE L939, Cleary's Illawara Blue Metal Quarry, Albion Park",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.97,-76,"801",266.95,1
+"69713",103850,"col","Broughton",150.395004,-35.165001,"UNE L942, Spring Hill Railway, Wollongong-Port Kembla Road",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.97,-76,"801",266.95,1
+"69714",103851,"col","Muree",151.587006,-32.744999,"UNE L948, West Maitland Abbatoir Railway Cutting",NA,"",2,"Wordian","",268.8,265.1,36711,"gp_mid",166.65,-73.38,"801",266.95,1
+"69740",103877,"col","Muree",150.983994,-32.330002,"UQ L1432, Antienne Station",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",164.46,-73.2,"801",266.95,1
+"69741",103878,"col","Muree",150.910004,-32.435001,"UQ L1435, Southwater and Pringles Creeks, Jerry's Plains",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",164.4,-73.32,"801",266.95,1
+"69769",103927,"col","Porcupine",150,-30.33,"UQ L1953, Barra Creek, Narrabri",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",159.61,-71.6,"801",266.95,1
+"69770",103928,"col","Porcupine",150.074997,-30.33,"UQ L1954, Narrabri",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",159.81,-71.58,"801",266.95,1
+"69914",104751,"col","",52.939999,56.634998,"Prokoshevo Locality, borehole 9, depth 4.6-4.8 m",NA,"PIN collection 4991",1,"Wordian","",268.8,265.1,34927,"gp_mid",49.1,31.86,"302",266.95,1
+"69989",104837,"col","Belford",151.270004,-32.630001,"UQ L5137, Bow-Wow Creek",NA,"",3,"Wordian","",268.8,265.1,27370,"gp_mid",165.64,-73.38,"801",266.95,1
+"69990",104838,"col","Belford",151.270004,-32.630001,"UQ L5138, Black Creek",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.64,-73.38,"801",266.95,1
+"69991",104839,"col","Belford",151.25,-32.650002,"UQ L5139, New England Highway",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.61,-73.41,"801",266.95,1
+"69992",104840,"col","Belford",151.5,-32.68,"UQ L5140, Lochnivar Anticline",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.33,-73.35,"801",266.95,1
+"69993",104841,"col","Belford",151.5,-32.68,"UQ L5141, Lochnivar Anticline",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.33,-73.35,"801",266.95,1
+"69994",104842,"col","Belford",151.270004,-32.630001,"UQ L5143, Bow-Wow Creek",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",165.64,-73.38,"801",266.95,1
+"69995",104843,"col","Muree",151.229996,-32.650002,"UQ L5145, Singleton",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",165.55,-73.41,"801",266.95,1
+"69996",104844,"col","Mulbring",151.229996,-32.650002,"UQ L5146, Singleton",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",165.55,-73.41,"801",266.95,1
+"69997",104845,"col","Mulbring",151.229996,-32.650002,"UQ L5147, Singleton",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",165.55,-73.41,"801",266.95,1
+"69998",104846,"col","Muree",151.587006,-32.744999,"UQ L5148, West Maitland Abbatoir",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.65,-73.38,"801",266.95,1
+"69999",104847,"col","Muree",151.587006,-32.744999,"UQ L5149, West Maitland Abbatoir",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.65,-73.38,"801",266.95,1
+"70000",104848,"col","Muree",151.587006,-32.744999,"UQ L5150, West Maitland Abbatoir",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.65,-73.38,"801",266.95,1
+"70001",104849,"col","Muree",151.270004,-32.630001,"UQ L5151, Bow-Wow Gorge",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.64,-73.38,"801",266.95,1
+"70002",104850,"col","Muree",151.270004,-32.630001,"UQ L5153, Bow-Wow Gorge",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.64,-73.38,"801",266.95,1
+"70003",104851,"col","Muree",151.25,-32.650002,"UQ L5154, New England Highway",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",165.61,-73.41,"801",266.95,1
+"70020",104898,"col","Nowra",150.360001,-35.365002,"UQ L5171, Mount Kingiman",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.21,-76.19,"801",266.95,1
+"70021",104899,"col","Nowra",150.358994,-35.262001,"UQ L5172, Porters Gap",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.03,-76.1,"801",266.95,1
+"70022",104900,"col","Nowra",150.358994,-35.262001,"UQ L5173, Porters Gap",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.03,-76.1,"801",266.95,1
+"70023",104901,"col","Nowra",150.667999,-35.053001,"UQ L5174, Currumbene Creek",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.61,-75.8,"801",266.95,1
+"70024",104902,"col","Nowra",150.768997,-34.897999,"UQ L5175, Crookhaven Headland",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.65,-75.62,"801",266.95,1
+"70025",104903,"col","Nowra",150.768997,-34.897999,"UQ L5176, Crookhaven Headland",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.65,-75.62,"801",266.95,1
+"70026",104904,"col","Nowra",150.514999,-35.271999,"UQ L5177, Green Island, Jervis Bay",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.53,-76.05,"801",266.95,1
+"70027",104905,"col","Berry",150.481003,-34.723,"UQ L5178, Kangaroo Valley Power Station",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.49,-75.56,"801",266.95,1
+"70028",104906,"col","Berry",150.569,-34.936001,"UQ L5179, Nowra Air Base",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.11,-75.73,"801",266.95,1
+"70030",104908,"col","Berry",150.516006,-34.714001,"UQ L5180, Barrengarry",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",166.58,-75.54,"801",266.95,1
+"70031",104909,"col","Broughton",150.824005,-34.771999,"UQ L5181, Black Head, Gerroa",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.6,-75.49,"801",266.95,1
+"70032",104910,"col","Broughton",150.735992,-34.577,"UQ L5182, Albion Park",NA,"",2,"Wordian","",268.8,265.1,27370,"gp_mid",167.02,-75.34,"801",266.95,1
+"70033",104911,"col","Broughton",150.819,-34.571999,"UQ L5183, Whispering Gallery, Shellharbour Railway Station",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.25,-75.31,"801",266.95,1
+"70034",104912,"col","Broughton",150.878006,-34.444,"UQ L5184, Springhill Railway Cut",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.22,-75.18,"801",266.95,1
+"70043",104921,"col","Nowra",150.360001,-35.365002,"UQ L5200, Mount Kingiman",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.21,-76.19,"801",266.95,1
+"70044",104922,"col","Nowra",150.360001,-35.365002,"UQ L5201, Mount Kingiman",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.21,-76.19,"801",266.95,1
+"70045",104923,"col","Nowra",150.360001,-35.365002,"UQ L5203, Mount Kingiman",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.21,-76.19,"801",266.95,1
+"70239",105142,"col","Nowra",150.479996,-35.112,"Jerrawangala, South Coast",NA,"",2,"Wordian","",268.8,265.1,14254,"gp_mid",167.14,-75.92,"801",266.95,1
+"70247",105151,"col","Nowra",150.330002,-35.110001,"Tianjarra",NA,"",1,"Wordian","",268.8,265.1,14254,"gp_mid",166.68,-75.97,"801",266.95,1
+"70251",105155,"col","Muree",151.600006,-32.75,"HV5, Maitland",NA,"",1,"Wordian","",268.8,265.1,14254,"gp_mid",166.69,-73.38,"801",266.95,1
+"70253",105157,"col","Gerringong",150.908997,-34.419998,"Wollongong, South Coast (AM coll)",NA,"",3,"Wordian","",268.8,265.1,14254,"gp_mid",167.27,-75.14,"801",266.95,1
+"70254",105158,"col","Nowra",150.781006,-34.931999,"Wheeler's Point, Culburra Headland, Nowra",NA,"",2,"Wordian","",268.8,265.1,14254,"gp_mid",167.74,-75.65,"801",266.95,1
+"70256",105160,"col","Muree",151.544998,-32.733002,"Near Pont's House, Maitland",NA,"",3,"Wordian","",268.8,265.1,43251,"gp_mid",166.52,-73.39,"801",266.95,1
+"70710",105706,"col","Khuff",57.695,21.035,"Haushi Uplift OL48, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"70712",105704,"col","Khuff",57.695,21.035,"Haushi Uplift OL32, Section 7",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",51.74,-35.89,"503",266.95,1
+"70713",105705,"col","Khuff",57.689999,21.035,"Haushi Uplift OL25, Section 1",NA,"",3,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"70714",105707,"col","Khuff",57.689999,21.035,"Haushi Uplift OL24, Section 1",NA,"",5,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"70715",105708,"col","Khuff",57.689999,21.035,"Haushi Uplift OL9, Section 1",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",51.73,-35.89,"503",266.95,1
+"70716",105709,"col","Khuff",57.667999,21.01,"Haushi Uplift OL13, Section 5",NA,"",11,"Wordian","",268.8,265.1,18222,"gp_mid",51.7,-35.91,"503",266.95,1
+"70717",105710,"col","Khuff",57.25,20,"Jabal Gharif JPP347B, Section AJZ2347",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",50.9,-36.78,"503",266.95,1
+"70718",105711,"col","Khuff",57.25,20,"Jabal Gharif JPP526E, Section HS2526",NA,"",2,"Wordian","",268.8,265.1,18222,"gp_mid",50.9,-36.78,"503",266.95,1
+"70719",105712,"col","Khuff",57.25,20,"Jabal Gharif JPP526B, Section HS2526",NA,"",4,"Wordian","",268.8,265.1,18222,"gp_mid",50.9,-36.78,"503",266.95,1
+"70720",105713,"col","Khuff",57.25,20,"Jabal Gharif JPP526I, Section HS2526",NA,"",1,"Wordian","",268.8,265.1,18222,"gp_mid",50.9,-36.78,"503",266.95,1
+"70721",105714,"col","Khuff",57.299999,20.1,"Jabal Gharif JPP392A, Section TBQ2392",NA,"",10,"Wordian","",268.8,265.1,18222,"gp_mid",50.99,-36.69,"503",266.95,1
+"70722",105715,"col","Khuff",57.5,20.799999,"Huqf1 Section, sample 1281",NA,"",5,"Wordian","",268.8,265.1,18222,"gp_mid",51.44,-36.07,"503",266.95,1
+"70723",105716,"col","Khuff",57.5,20.799999,"Huqf1 Section, sample 1284",NA,"",5,"Wordian","",268.8,265.1,18222,"gp_mid",51.44,-36.07,"503",266.95,1
+"71453",106682,"col","Broughton",150.835999,-34.744999,"Gerringong Trig Station",NA,"",1,"Wordian","",268.8,265.1,32346,"gp_mid",167.59,-75.46,"801",266.95,1
+"71489",106878,"col","Mulbring",151.158005,-32.563,"Singleton railway bridge, north end, Hunter River",NA,"",1,"Wordian","",268.8,265.1,32369,"gp_mid",165.24,-73.36,"801",266.95,1
+"71490",106879,"col","Mulbring",151.244995,-32.662998,"Minimbah Platform, 1 mile towards Wittingham",NA,"",1,"Wordian","",268.8,265.1,32369,"gp_mid",165.61,-73.42,"801",266.95,1
+"71494",106883,"col","Muree",151.324997,-32.595001,"Loder's Creek, Abbey Green, Singleton",NA,"",1,"Wordian","",268.8,265.1,32369,"gp_mid",165.74,-73.33,"801",266.95,1
+"71623",107064,"col","",10.194722,33.416111,"Merbah el Oussif MO200, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71624",107065,"col","",10.194722,33.416111,"Merbah el Oussif MO201, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71625",107066,"col","",10.194722,33.416111,"Merbah el Oussif MO203, Djebel Tebaga",NA,"",5,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71626",107067,"col","",10.194722,33.416111,"Merbah el Oussif TMO1, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71627",107068,"col","",10.194722,33.416111,"Merbah el Oussif TMO2, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71628",107069,"col","",10.194722,33.416111,"Merbah el Oussif MO204, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71629",107070,"col","",10.194722,33.416111,"Merbah el Oussif TMO3, Djebel Tebaga",NA,"",4,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71630",107071,"col","",10.194722,33.413891,"Merbah el Oussif MO205, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71631",107072,"col","",10.196944,33.416668,"Djebel Tebaga LTCP1, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71632",107073,"col","",10.195833,33.414444,"Djebel Tebaga LTCP2, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71633",107074,"col","",10.195833,33.414444,"Djebel Tebaga LTCP3, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,35687,"gp_mid",20.01,-4.22,"715",266.95,1
+"71634",107075,"col","",10.209167,33.413891,"Mine MI200, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,35687,"gp_mid",20.02,-4.23,"715",266.95,1
+"71636",107077,"col","",10.209167,33.413891,"Mine MI201, Djebel Tebaga",NA,"",4,"Wordian","",268.8,265.1,35687,"gp_mid",20.02,-4.23,"715",266.95,1
+"71637",107078,"col","",10.176944,33.407501,"Halq Jemel HJ104, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",19.99,-4.22,"715",266.95,1
+"71638",107079,"col","",10.176944,33.407501,"Halq Jemel HJ107, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,35687,"gp_mid",19.99,-4.22,"715",266.95,1
+"71881",107351,"col","Khuff",57.669998,21.01,"Haushi Undivided",NA,"",5,"Wordian","",268.8,265.1,33470,"gp_mid",51.7,-35.91,"503",266.95,1
+"71885",107355,"col","Exmoor",148.136002,-20.983,"BMR MC292, Collinsville Road, Blenheim Creek",NA,"",1,"Wordian","",268.8,265.1,29742,"gp_mid",149.73,-62.87,"801",266.95,1
+"73348",108995,"col","Khuff",57.603001,21.004,"Haushi, Top of Section",NA,"",2,"Wordian","",268.8,265.1,33511,"gp_mid",51.63,-35.9,"503",266.95,1
+"73865",109598,"col","",24.167,38.493,"Ochotonia massif (Elafoklisi), near Achladeri, Euboea",NA,"",1,"Wordian","",268.8,265.1,32129,"gp_mid",30.46,-10.99,"307",266.95,1
+"73870",109603,"col","Fanjiatun",126.580002,43.150002,"Huadian, Fanjiatun Fm",NA,"",1,"Wordian","",268.8,265.1,32355,"gp_mid",127.51,11.19,"604",266.95,1
+"73876",109609,"col","Sijiashan",122.25,46.915001,"Tabu Maodu, Bayan Wulan, Sijiashan Fm, Jalaid Qi",NA,"",1,"Wordian","",268.8,265.1,32355,"gp_mid",133.08,30.85,"628",266.95,1
+"73879",109612,"col","Huanggangliang",119.641998,43.748001,"Yindongzi, Huanggangliang Fm, Chaoyangwang Gongshe, Bailinyouqi",NA,"",11,"Wordian","",268.8,265.1,32355,"gp_mid",129.84,28.5,"628",266.95,1
+"73881",109614,"col","Daheshen",126.580002,43.150002,"Yumuqiaozi, Daheshen Fm, Huadian County",NA,"",1,"Wordian","",268.8,265.1,32355,"gp_mid",127.51,11.19,"604",266.95,1
+"73884",109617,"col","Sijiashan",122.150002,46.849998,"Zhagan Chulu, Sijiashan Formation, Bayan Wulan, Jalaid Qi",NA,"",25,"Wordian","",268.8,265.1,32355,"gp_mid",132.98,30.81,"628",266.95,1
+"74052",109796,"col","Zinnar",43.349998,37.279999,"Pirispiki Section, Ora",NA,"",1,"Wordian","",268.8,265.1,25560,"gp_mid",44.78,-16.39,"503",266.95,1
+"74104",109848,"col","Kufeng",117.800003,30.950001,"Niuxingshan, Shunan, Tongling City",NA,"",9,"Wordian","",268.8,265.1,31757,"gp_mid",120.57,-7.28,"611",266.95,1
+"74105",109849,"col","Kufeng",118.449997,30.65,"Qiuerling, Kufeng Fm, Yan'gongtang, Jingxian County",NA,"",10,"Wordian","",268.8,265.1,31757,"gp_mid",121.2,-7.16,"611",266.95,1
+"74106",109850,"col","Kufeng",117.25,30.4,"Renxingshan, Wutianpu, Guichi County",NA,"",9,"Wordian","",268.8,265.1,31757,"gp_mid",120.55,-8,"611",266.95,1
+"74107",109851,"col","Kufeng",118.964996,30.785,"Shuidong, Xuancheng",NA,"",3,"Wordian","",268.8,265.1,31757,"gp_mid",121.45,-6.77,"611",266.95,1
+"74108",109852,"col","Kufeng",117.300003,30.5,"Shuizhutang Section, Kufeng Fm, Dashan, Guichi County",NA,"",9,"Wordian","",268.8,265.1,31757,"gp_mid",120.52,-7.9,"611",266.95,1
+"74109",109853,"col","Kufeng",117.75,30.799999,"Suishiling, Datong, Tonglin County",NA,"",2,"Wordian","",268.8,265.1,31757,"gp_mid",120.63,-7.42,"611",266.95,1
+"74182",109931,"col","Shadrovskaya",52.34,71.342003,"Mezhdusharsky Island, Sample 203-b, Novaya Zemlya",NA,"",2,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.87,"302",266.95,1
+"74183",109932,"col","Shadrovskaya",52.299999,71.330002,"Mezhdusharsky Island, Sample 204-18b, Novaya Zemlya",NA,"",6,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.85,"302",266.95,1
+"74184",109933,"col","Shadrovskaya",52.299999,71.330002,"Mezhdusharsky Island, Sample 204-18v, Novaya Zemlya",NA,"",4,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.85,"302",266.95,1
+"74192",109941,"col","Shadrovskaya",52.27,71.322998,"Mezhdusharsky Island, Section 11, Sample 1400, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.84,"302",266.95,1
+"74205",109954,"col","Shadrovskaya",52.34,71.342003,"Mezhdusharsky Island, Section 9, Sample 1269, Novaya Zemlya",NA,"",11,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.87,"302",266.95,1
+"74206",109955,"col","Shadrovskaya",52.338001,71.342003,"Mezhdusharsky Island, Section 9, Sample 1292, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.87,"302",266.95,1
+"74207",109956,"col","Shadrovskaya",52.34,71.342003,"Mezhdusharsky Island, Section 9, Sample 1302, Novaya Zemlya",NA,"",2,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.87,"302",266.95,1
+"74208",109957,"col","Shadrovskaya",52.326,71.341003,"Mezhdusharsky Island, Section 9, Sample 1306, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.86,"302",266.95,1
+"74209",109958,"col","Shadrovskaya",52.328999,71.341003,"Mezhdusharsky Island, Section 9, Sample 1331, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.86,"302",266.95,1
+"74210",109959,"col","Shadrovskaya",52.325001,71.339996,"Mezhdusharsky Island, Section 9, Sample 1342, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.86,"302",266.95,1
+"74211",109960,"col","Shadrovskaya",52.325001,71.339996,"Mezhdusharsky Island, Section 9, Sample 1356, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",36.75,42.86,"302",266.95,1
+"74219",109968,"col","Valentinovskaya",55.700001,71.550003,"Savina River, Sample 3096, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27332,"gp_mid",37.58,43.78,"302",266.95,1
+"74648",110413,"col","Tokuyama",136.574997,35.674999,"Neo, Gifu Prefecture",NA,"",1,"Wordian","",268.8,265.1,33559,"gp_mid",132.53,5.76,"610",266.95,1
+"75335",111138,"col","Sijiashan",122.150002,46.849998,"Jalaid Qi Undivided, Sijiiashan Fm",NA,"",7,"Wordian","",268.8,265.1,31908,"gp_mid",132.98,30.81,"628",266.95,1
+"75353",111156,"col","Miaoling",129.666672,42.616669,"Shanxiuling, Yanji Area",NA,"",1,"Wordian","",268.8,265.1,31908,"gp_mid",129,9.38,"604",266.95,1
+"75358",111161,"col","Sijiashan",122.485001,47.150002,"Shihuiyao, Jalaid Qi",NA,"",2,"Wordian","",268.8,265.1,31908,"gp_mid",133.35,31.01,"628",266.95,1
+"75367",111170,"col","Huanggangliang",118.949997,42.950001,"Wengniute (Ongniud) Qi",NA,"",1,"Wordian","",268.8,265.1,31908,"gp_mid",128.99,27.93,"628",266.95,1
+"75974",112064,"col","Marmari",23.423,37.306,"Episkopi, Sample 90-40, Hydra",NA,"",1,"Wordian","",268.8,265.1,36597,"gp_mid",29.12,-11.13,"307",266.95,1
+"75982",112072,"col","Marmari",23.423,37.306,"Episkopi, Sample 50176, Hydra",NA,"",1,"Wordian","",268.8,265.1,36597,"gp_mid",29.12,-11.13,"307",266.95,1
+"75985",112075,"col","Marmari",23.423,37.306,"Episkopi, Sample 50179, Hydra",NA,"",1,"Wordian","",268.8,265.1,36597,"gp_mid",29.12,-11.13,"307",266.95,1
+"76774",112990,"col","Muree",151.425003,-32.904999,"UNE L1369, Bow Wow Gorge",NA,"",3,"Wordian","",268.8,265.1,27930,"gp_mid",166.44,-73.58,"801",266.95,1
+"76777",112993,"col","Muree",151.667007,-32.75,"UNE L965, Eales Road, Duckenfield",NA,"",1,"Wordian","",268.8,265.1,27930,"gp_mid",166.87,-73.36,"801",266.95,1
+"76778",112994,"col","Muree",151.240005,-32.911999,"UNE L969, Barraba Trig, Ellalong",NA,"",1,"Wordian","",268.8,265.1,27930,"gp_mid",165.94,-73.65,"801",266.95,1
+"76783",112999,"col","Muree",151.75,-32.755001,"UNE L843, Raymond Terrace",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",167.1,-73.34,"801",266.95,1
+"76848",113075,"col","Bateun Beni Zid",10.2,33.415001,"Djebel Tebaga, Bateun Beni Zid Series",NA,"",1,"Wordian","",268.8,265.1,33603,"gp_mid",20.01,-4.22,"715",266.95,1
+"77836",114214,"col","Shadrovskaya",51.849998,72.150002,"Cape Severnyy Gusinyy Nos, Gusinaya Zemlya peninsula, Novaya Zemlya",NA,"",1,"Wordian","",268.8,265.1,27341,"gp_mid",35.83,43.34,"302",266.95,1
+"78926",115730,"col","",-103.224998,76.458336,"GSC 76029, Cape Fortune, Cameron Island",NA,"",4,"Wordian","",268.8,265.1,29167,"gp_mid",1.63,43.26,"106",266.95,1
+"79468",116735,"col","",147.699997,-20.83,"BMR Collinsville 1",NA,"",3,"Wordian","",268.8,265.1,37509,"gp_mid",148.8,-62.79,"801",266.95,1
+"79469",116750,"col","",147.699997,-20.83,"BMR Collinsville 4a",NA,"",1,"Wordian","",268.8,265.1,37509,"gp_mid",148.8,-62.79,"801",266.95,1
+"79481",116747,"col","",148.179993,-22.110001,"BMR C1318/1, Clermont area",NA,"",1,"Wordian","",268.8,265.1,37509,"gp_mid",150.24,-63.98,"801",266.95,1
+"79575",116846,"col","Saiq",57.313889,23.333332,"Wadi Sathan, Sample 1362",NA,"",2,"Wordian","",268.8,265.1,27799,"gp_mid",52.04,-33.58,"503",266.95,1
+"79578",116849,"col","",58.133331,22.666668,"Fath, Sample 1620",NA,"",1,"Wordian","",268.8,265.1,27799,"gp_mid",52.72,-34.41,"503",266.95,1
+"79579",116850,"col","",58.133331,22.666668,"Fath, Sample 1621",NA,"",1,"Wordian","",268.8,265.1,27799,"gp_mid",52.72,-34.41,"503",266.95,1
+"79580",116851,"col","",58.133331,22.666668,"Wadi Musjah, Sample 1626",NA,"",1,"Wordian","",268.8,265.1,27799,"gp_mid",52.72,-34.41,"503",266.95,1
+"79581",116852,"col","",58.133331,22.666668,"Wadi Musjah, Sample 1631",NA,"",2,"Wordian","",268.8,265.1,27799,"gp_mid",52.72,-34.41,"503",266.95,1
+"79972",117264,"col","Baitugan",52.026371,55.7425,"E2, Yelabuga, Kama River",NA,"Jelabuga, Elabuga",23,"Wordian","",268.8,265.1,29038,"gp_mid",49.25,30.84,"302",266.95,1
+"80569",117864,"col","Akasaka",136.578003,35.396,"Kinshozan quarry, C. amicula-C. gifuensis zone, Akasaka, Gifu Prefecture",NA,"",3,"Wordian","",268.8,265.1,37873,"gp_mid",132.4,5.51,"610",266.95,1
+"80790",118117,"col","Gerringong",150.833328,-34.75,"Gerringong (Caltech coll)",NA,"",1,"Wordian","",268.8,265.1,27469,"gp_mid",167.59,-75.47,"801",266.95,1
+"81367",118846,"col","",100.856003,14.699,"Khao Khao KK-2",NA,"",1,"Wordian","",268.8,265.1,33710,"gp_mid",115.97,-30.46,"615",266.95,1
+"81368",118847,"col","",100.857002,14.6995,"Khao Khao KK-a",NA,"",1,"Wordian","",268.8,265.1,33710,"gp_mid",115.97,-30.46,"615",266.95,1
+"81369",118848,"col","",100.858002,14.699,"Khao Khao KK-27",NA,"",1,"Wordian","",268.8,265.1,33710,"gp_mid",115.97,-30.46,"615",266.95,1
+"81733",119247,"col","",10.166,33.437,"Oum el Afia, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,11209,"gp_mid",20.01,-4.19,"715",266.95,1
+"81958",119515,"col","Silungkang",101.800003,-1.75,"Bukit Bessi, south end of Bukit Pandjang, Padang",NA,"",2,"Wordian","",268.8,265.1,22890,"gp_mid",115.31,-32.07,"616",266.95,1
+"82427",120027,"col","Wenbishan",117.199997,26.35,"Chengguan, Wenbishan Formation, Longyan County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",123.09,-11.18,"611",266.95,1
+"82429",120029,"col","Kufeng",117.300003,30.35,"Dalingpai, Upper Kufeng Fm, Pailou, Guichi County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",120.61,-8.01,"611",266.95,1
+"82433",120033,"col","Kufeng",117.800003,30.950001,"Fenshuiling, Kufeng Formation, Tongling County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",120.57,-7.28,"611",266.95,1
+"82440",120040,"col","Dingjiashan",118.599998,28.75,"Hengshan, Jiangshan",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",122.52,-8.54,"611",266.95,1
+"82478",120078,"col","Dingjiashan",119.5,30,"Kuzishan, Tonglu County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",122.32,-7.08,"611",266.95,1
+"82481",120081,"col","Wenbishan",117.5,26.75,"Laohushan, Wenbishan Formation, Jiangle County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",123.05,-10.7,"611",266.95,1
+"82484",120084,"col","Dingjiashan",118.599998,28.75,"Luotanggang, Jiangshan County",NA,"",2,"Wordian","",268.8,265.1,34166,"gp_mid",122.52,-8.54,"611",266.95,1
+"82492",120092,"col","Wenbishan",116.949997,26.450001,"Quanshang, Wenbishan Fm, Ninghua County",NA,"",2,"Wordian","",268.8,265.1,34166,"gp_mid",122.85,-11.24,"611",266.95,1
+"82500",120100,"col","Dingjiashan",118.599998,28.75,"Shuangtangcun, Dingjiashan Fm, Jiangshan County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",122.52,-8.54,"611",266.95,1
+"82520",120120,"col","Kufeng",116.099998,30.15,"Zuoshan, Kufeng Formation, Susong County",NA,"",1,"Wordian","",268.8,265.1,34166,"gp_mid",119.92,-8.82,"611",266.95,1
+"82798",120463,"col","",-103.224998,76.449997,"GSC 25994, Cameron Island",NA,"",1,"Wordian","",268.8,265.1,27358,"gp_mid",1.62,43.25,"106",266.95,1
+"82799",120464,"col","",-103.224998,76.449997,"GSC 25995, Cameron Island",NA,"",1,"Wordian","",268.8,265.1,27358,"gp_mid",1.62,43.25,"106",266.95,1
+"82800",120465,"col","",-92.349998,81.300003,"GSC 32201, Svartevaeg cliffs, Axel Heiberg Island",NA,"",1,"Wordian","",268.8,265.1,27358,"gp_mid",8.75,44.37,"106",266.95,1
+"82804",120470,"col","",-108,76,"GSC 35316, Sabine Peninsula, Melville Island",NA,"",1,"Wordian","",268.8,265.1,33744,"gp_mid",0.28,44,"106",266.95,1
+"82805",120471,"col","",-108,76,"GSC 35317, Sabine Peninsula, Melville Island",NA,"",1,"Wordian","",268.8,265.1,38504,"gp_mid",0.28,44,"106",266.95,1
+"82808",120474,"col","Muree",151.729996,-32.582001,"Glendon (W.B. Clarke coll)",NA,"",3,"Wordian","",268.8,265.1,38505,"gp_mid",166.81,-73.19,"801",266.95,1
+"82880",120606,"col","Khuff",57.700001,21.041668,"Haushi, 2001 field trip A02, stop 7",NA,"",1,"Wordian","",268.8,265.1,30160,"gp_mid",51.75,-35.88,"503",266.95,1
+"82881",120608,"col","Gerringong",150.832001,-34.757999,"Coastal platform 0.8 km S of Gerringong",NA,"",1,"Wordian","",268.8,265.1,22998,"gp_mid",167.6,-75.48,"801",266.95,1
+"82943",120675,"col","Nowra",150.600006,-34.860001,"Nowra, Shoalhaven River, Co. St. Vincent",NA,"",5,"Wordian","",268.8,265.1,20795,"gp_mid",167.08,-75.65,"801",266.95,1
+"82945",120677,"col","Gerringong",150.785004,-34.650002,"Jamberoo",NA,"",2,"Wordian","",268.8,265.1,23110,"gp_mid",167.28,-75.39,"801",266.95,1
+"82946",120679,"col","Gerringong",150.785004,-34.650002,"Banks of Minumurra River, near Jamberoo",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",167.28,-75.39,"801",266.95,1
+"82948",120681,"col","Muree",151.75,-32.755001,"Raymond Terrace (W.B. Clarke coll)",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",167.1,-73.34,"801",266.95,1
+"82953",120686,"col","Nowra",150.330002,-35.110001,"Mount Tianjara, near Nowra",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",166.68,-75.97,"801",266.95,1
+"83039",150438,"col","Wenbishan",117,25.1,"Longyan County, Wenbishan Formation",NA,"",1,"Wordian","",268.8,265.1,39950,"gp_mid",123.76,-12.26,"611",266.95,1
+"83135",120879,"col","Xiala",89.985001,30.735001,"Xinji section, Bed 4, Xainza Area",NA,"",4,"Wordian","",268.8,265.1,25510,"gp_mid",73.15,-47.8,"613",266.95,1
+"83686",121523,"col","",133.259995,34.880001,"Ippaimizu, Tojo town, Taishaku District, Hiroshima Prefecture",NA,"",1,"Wordian","",268.8,265.1,33773,"gp_mid",129.75,6.33,"610",266.95,1
+"83766",121606,"col","Maokou",118.099998,28.58,"Xintang, Bed 2 (80-XF016), Yichun County",NA,"",2,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83767",121607,"col","Maokou",118.099998,28.58,"Xintang, Bed 2 (80-XF015), Yichun County",NA,"",2,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83768",121608,"col","Maokou",118.099998,28.58,"Xintang, Bed 2 (80-XF014), Yichun County",NA,"",1,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83769",121609,"col","Maokou",118.099998,28.58,"Xintang, Bed 2 (80-XF008), Yichun County",NA,"",1,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83770",121610,"col","Maokou",118.099998,28.58,"Xintang, Bed 3 (80-XF029), Yichun County",NA,"",1,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83771",121611,"col","Maokou",118.099998,28.58,"Xintang, Bed 4 (80-XF032), Yichun County",NA,"",1,"Wordian","",268.8,265.1,33780,"gp_mid",122.29,-8.95,"611",266.95,1
+"83875",121715,"col","Dingjiashan",119.008003,29.326,"Lijia, Shouchang, Jiande County (Shimentang Mb)",NA,"",7,"Wordian","",268.8,265.1,31823,"gp_mid",122.42,-7.87,"611",266.95,1
+"83879",121719,"col","Lixian",119.535004,29.924999,"Lengwu, Yaolin, Tonglu County",NA,"",1,"Wordian","",268.8,265.1,31823,"gp_mid",122.39,-7.11,"611",266.95,1
+"83917",121852,"col","Khuff",57.657501,21,"Haushi K7 section OL200",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83918",121853,"col","Khuff",57.657501,21,"Haushi K7 section OL202",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83919",121854,"col","Khuff",57.657501,21,"Haushi K7 section AO80",NA,"",6,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83920",121855,"col","Khuff",57.657501,21,"Haushi K7 section OL201",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83921",121856,"col","Khuff",57.657501,21,"Haushi K7 section AO82",NA,"",5,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83922",121857,"col","Khuff",57.657501,21,"Haushi K7 section AO210",NA,"",19,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83923",121858,"col","Khuff",57.657501,21,"Haushi K7 section AO76",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83924",121859,"col","Khuff",57.657501,21,"Haushi K7 section AO73",NA,"",14,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83925",121860,"col","Khuff",57.657501,21,"Haushi K7 section AO72",NA,"",7,"Wordian","",268.8,265.1,38789,"gp_mid",51.68,-35.91,"503",266.95,1
+"83926",121861,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM15",NA,"",4,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83927",121862,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM10bis",NA,"",7,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83928",121863,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM11",NA,"",4,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83929",121864,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM16",NA,"",6,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83930",121865,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM13",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83931",121866,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM14",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83932",121867,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM12",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83933",121868,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM12bis",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.75,-35.89,"503",266.95,1
+"83934",121869,"col","Khuff",57.602779,20.861944,"Saiwan section AO124",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83935",121870,"col","Khuff",57.602779,20.861944,"Saiwan section AO126",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83936",121871,"col","Khuff",57.602779,20.861944,"Saiwan section AO125",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83937",121872,"col","Khuff",57.602779,20.861944,"Saiwan section AO127",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83938",121873,"col","Khuff",57.602779,20.861944,"Saiwan section AO131",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83939",121874,"col","Khuff",57.602779,20.861944,"Saiwan section AO128",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83940",121875,"col","Khuff",57.602779,20.861944,"Saiwan section AO130",NA,"",4,"Wordian","",268.8,265.1,38789,"gp_mid",51.58,-36.03,"503",266.95,1
+"83941",121876,"col","Khuff",57.360558,19.950277,"Jabal Gharif OL105",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83942",121877,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO109",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83943",121878,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO111",NA,"",4,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83944",121879,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO112",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83945",121880,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO113",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83946",121881,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO202",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83947",121882,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO204",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83948",121883,"col","Khuff",57.360558,19.950277,"Jabal Gharif AO206",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83949",121884,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO102",NA,"",5,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83950",121885,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO103",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83951",121886,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO104",NA,"",5,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83952",121887,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO105",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83953",121888,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO106",NA,"",3,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83954",121889,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO107",NA,"",9,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83955",121890,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO110",NA,"",1,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83956",121891,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO113",NA,"",13,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83957",121892,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO115",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"83958",121893,"col","Khuff",57.360558,19.950277,"Jabal Gharif 00AO116",NA,"",2,"Wordian","",268.8,265.1,38789,"gp_mid",51.01,-36.85,"503",266.95,1
+"85355",123779,"col","Khuff",57.657501,21,"Haushi ring AO45",NA,"",2,"Wordian","",268.8,265.1,27418,"gp_mid",51.68,-35.91,"503",266.95,1
+"85356",123780,"col","Khuff",57.657501,21,"Haushi ring AO59",NA,"",1,"Wordian","",268.8,265.1,27418,"gp_mid",51.68,-35.91,"503",266.95,1
+"85357",123781,"col","Khuff",57.657501,21,"Haushi ring OM20",NA,"",1,"Wordian","",268.8,265.1,27418,"gp_mid",51.68,-35.91,"503",266.95,1
+"85358",123782,"col","Khuff",57.360001,19.950001,"Jabal Gharif OL101",NA,"",1,"Wordian","",268.8,265.1,27418,"gp_mid",51.01,-36.85,"503",266.95,1
+"85359",123783,"col","Khuff",57.360001,19.950001,"Jabal Gharif OL100",NA,"",1,"Wordian","",268.8,265.1,27418,"gp_mid",51.01,-36.85,"503",266.95,1
+"85360",123784,"col","Khuff",57.706112,21.035833,"Haushi I1 section OM18",NA,"",2,"Wordian","",268.8,265.1,27418,"gp_mid",51.75,-35.89,"503",266.95,1
+"85361",123785,"col","Khuff",57.657501,21,"Haushi ring AO56",NA,"",6,"Wordian","",268.8,265.1,27418,"gp_mid",51.68,-35.91,"503",266.95,1
+"86314",125011,"col","Sisophon",103.055,13.055,"Mid-height on Phnom Takream, Battambang",NA,"",1,"Wordian","",268.8,265.1,33499,"gp_mid",119.05,-30.01,"615",266.95,1
+"86357",125054,"col","Sisophon",103.055,13.055,"Phnom Takream, scree 15 m above plain, Battambang",NA,"",1,"Wordian","",268.8,265.1,33499,"gp_mid",119.05,-30.01,"615",266.95,1
+"88244",127793,"col","",10.21,33.419998,"Tu-3A, Baten Beni Zid, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88245",127794,"col","",10.21,33.419998,"Tu-4, Baten Beni Zid, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88246",127795,"col","",10.21,33.419998,"Tu-5, Baten Beni Zid, Djebel Tebaga",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88247",127796,"col","",10.21,33.419998,"Tu-6, Baten Beni Zid, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88248",127797,"col","",10.21,33.419998,"Tu-7, Baten Beni Zid, Djebel Tebaga",NA,"",2,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88249",127798,"col","",10.21,33.419998,"Tu-8, Baten Beni Zid, Djebel Tebaga",NA,"",3,"Wordian","",268.8,265.1,41766,"gp_mid",20.02,-4.23,"715",266.95,1
+"88257",127806,"col","",9.85,33.169998,"Tu-20, Bir Soltane well, 2137-2138.6 m depth",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",19.63,-4.22,"715",266.95,1
+"88258",127807,"col","",9.85,33.169998,"Tu-21, Bir Soltane well, 2241.4-2243.7 m depth",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",19.63,-4.22,"715",266.95,1
+"88259",127808,"col","",9.85,33.169998,"Tu-22, Bir Soltane well, 2242.6 m depth",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",19.63,-4.22,"715",266.95,1
+"88260",127809,"col","",9.85,33.169998,"Tu-24, Bir Soltane well, 2497.5 m depth",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",19.63,-4.22,"715",266.95,1
+"88261",127810,"col","",9.85,33.169998,"Tu-24, Bir Soltane well, 2642 m depth",NA,"",1,"Wordian","",268.8,265.1,41766,"gp_mid",19.63,-4.22,"715",266.95,1
+"88891",128708,"col","Furen",131.735001,33.009998,"Furen limestone, Oita Prefecture",NA,"",15,"Wordian","",268.8,265.1,42027,"gp_mid",127.73,5.32,"610",266.95,1
+"88943",128760,"col","Akasaka",136.576508,35.396999,"Ak-208, section 3, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88944",128761,"col","Akasaka",136.576508,35.396999,"Ak-131, section 3, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88945",128762,"col","Akasaka",136.576508,35.396999,"Ak-209, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88946",128763,"col","Akasaka",136.576508,35.396999,"Ak-210, section 3, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88947",128764,"col","Akasaka",136.576508,35.396999,"Ak-132, section 3, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88948",128765,"col","Akasaka",136.576508,35.396999,"Ak-133, section 3, Akasaka",NA,"",9,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88949",128766,"col","Akasaka",136.576508,35.396999,"Ak-134, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88950",128767,"col","Akasaka",136.576508,35.396999,"Ak-211, section 3, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88951",128768,"col","Akasaka",136.576508,35.396999,"Ak-212, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88952",128769,"col","Akasaka",136.576508,35.396999,"Ak-135, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88953",128770,"col","Akasaka",136.576508,35.396999,"Ak-213, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88954",128771,"col","Akasaka",136.576508,35.396999,"Ak-136, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88955",128772,"col","Akasaka",136.576508,35.396999,"Ak-137, section 3, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88956",128773,"col","Akasaka",136.576508,35.396999,"Ak-138, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88957",128774,"col","Akasaka",136.576508,35.396999,"Ak-139, section 3, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88958",128775,"col","Akasaka",136.576508,35.396999,"Ak-140, section 3, Akasaka",NA,"",10,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88959",128776,"col","Akasaka",136.576508,35.396999,"Ak-141A, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88960",128777,"col","Akasaka",136.576508,35.396999,"Ak-141B, section 3, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88961",128778,"col","Akasaka",136.576508,35.396999,"Ak-142, section 3, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88962",128779,"col","Akasaka",136.576508,35.396999,"Ak-143, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88963",128780,"col","Akasaka",136.576508,35.396999,"Ak-214, section 3, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88964",128781,"col","Akasaka",136.576508,35.396999,"Ak-144, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88965",128782,"col","Akasaka",136.576508,35.396999,"Ak-215, section 3, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88966",128783,"col","Akasaka",136.576508,35.396999,"Ak-145, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88967",128784,"col","Akasaka",136.576508,35.396999,"Ak-216, section 3, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88968",128785,"col","Akasaka",136.576508,35.396999,"Ak-217, section 3, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88969",128786,"col","Akasaka",136.576508,35.396999,"Ak-218, section 3, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88970",128787,"col","Akasaka",136.578003,35.394001,"Ak-77, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88971",128788,"col","Akasaka",136.578003,35.394001,"Ak-76, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88972",128789,"col","Akasaka",136.578003,35.394001,"Ak-231, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88973",128790,"col","Akasaka",136.578003,35.394001,"Ak-232, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88974",128791,"col","Akasaka",136.578003,35.394001,"Ak-64, section 4, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88975",128792,"col","Akasaka",136.578003,35.394001,"Ak-233, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88976",128793,"col","Akasaka",136.578003,35.394001,"Ak-234, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88977",128794,"col","Akasaka",136.578003,35.394001,"Ak-235, section 4, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88978",128795,"col","Akasaka",136.578003,35.394001,"Ak-65, section 4, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88979",128796,"col","Akasaka",136.578003,35.394001,"Ak-236, section 4, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88980",128797,"col","Akasaka",136.578003,35.394001,"Ak-63, section 4, Akasaka",NA,"",8,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88981",128798,"col","Akasaka",136.578003,35.394001,"Ak-237, section 4, Akasaka",NA,"",8,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88982",128799,"col","Akasaka",136.578003,35.394001,"Ak-66, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88983",128800,"col","Akasaka",136.578003,35.394001,"Ak-238, section 4, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88984",128801,"col","Akasaka",136.578003,35.394001,"Ak-239, section 4, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88985",128802,"col","Akasaka",136.578003,35.394001,"Ak-240, section 4, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88988",128805,"col","Akasaka",136.578003,35.394001,"Ak-242, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88989",128806,"col","Akasaka",136.578003,35.394001,"Ak-67, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88990",128807,"col","Akasaka",136.578003,35.394001,"Ak-243, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88991",128808,"col","Akasaka",136.578003,35.394001,"Ak-68, section 4, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88992",128809,"col","Akasaka",136.578003,35.394001,"Ak-244, section 4, Akasaka",NA,"",7,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88993",128810,"col","Akasaka",136.578003,35.394001,"Ak-245, section 4, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88994",128811,"col","Akasaka",136.578003,35.394001,"Ak-69, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88995",128812,"col","Akasaka",136.578003,35.394001,"Ak-246, section 4, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88996",128813,"col","Akasaka",136.578003,35.394001,"Ak-70, section 4, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88997",128814,"col","Akasaka",136.578003,35.394001,"Ak-71, section 4, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88998",128815,"col","Akasaka",136.578003,35.394001,"Ak-247, section 4, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"88999",128816,"col","Akasaka",136.578003,35.394001,"Ak-248, section 4, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89000",128817,"col","Akasaka",136.578003,35.394001,"Ak-249, section 4, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89004",128821,"col","Akasaka",136.574493,35.3965,"Ak-51, section 5, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89005",128822,"col","Akasaka",136.574493,35.3965,"Ak-52, section 5, Akasaka",NA,"",5,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89006",128823,"col","Akasaka",136.574493,35.3965,"Ak-147, section 5, Akasaka",NA,"",8,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89007",128824,"col","Akasaka",136.574493,35.3965,"Ak-53, section 5, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89008",128825,"col","Akasaka",136.574493,35.3965,"Kin-3, section 5, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89009",128826,"col","Akasaka",136.574493,35.3965,"Ak-54, section 5, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89010",128827,"col","Akasaka",136.574493,35.3965,"Ak-75, section 5, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89011",128828,"col","Akasaka",136.574493,35.3965,"Ak-73, section 5, Akasaka",NA,"",4,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"89018",128835,"col","Akasaka",136.572998,35.400002,"Ok-1, section 6, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89019",128836,"col","Akasaka",136.572998,35.400002,"Ok-3, section 6, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89020",128837,"col","Akasaka",136.572998,35.400002,"Ok-4, section 6, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89021",128838,"col","Akasaka",136.572998,35.400002,"Ok-7, section 6, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89022",128839,"col","Akasaka",136.572998,35.400002,"Ok-8, section 6, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89023",128840,"col","Akasaka",136.572998,35.400002,"Ok-9, section 6, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.52,"610",266.95,1
+"89039",128856,"col","Akasaka",136.572998,35.408001,"Ichihashi-2, Akasaka",NA,"",3,"Wordian","",268.8,265.1,42029,"gp_mid",132.41,5.53,"610",266.95,1
+"89040",128857,"col","Akasaka",136.572998,35.408001,"Ichihashi-1, Akasaka",NA,"",2,"Wordian","",268.8,265.1,42029,"gp_mid",132.41,5.53,"610",266.95,1
+"89041",128858,"col","Akasaka",136.572998,35.408001,"Ichihashi-3, Akasaka",NA,"",1,"Wordian","",268.8,265.1,42029,"gp_mid",132.41,5.53,"610",266.95,1
+"89043",128860,"col","Akasaka",136.578903,35.392101,"Ak-95, Akasaka",NA,"",6,"Wordian","",268.8,265.1,42029,"gp_mid",132.4,5.51,"610",266.95,1
+"90251",130711,"col","Iwato",131.346893,32.757198,"SLR-12, Saraito logging road section, Takachiho",NA,"",1,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90252",130712,"col","Iwato",131.346893,32.757198,"SLR-13, Saraito logging road section, Takachiho",NA,"",3,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90253",130713,"col","Iwato",131.346893,32.757198,"SLR-14, Saraito logging road section, Takachiho",NA,"",4,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90254",130714,"col","Iwato",131.346893,32.757198,"SLR-15, Saraito logging road section, Takachiho",NA,"",10,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90255",130715,"col","Iwato",131.346893,32.757198,"SLR-17, Saraito logging road section, Takachiho",NA,"",10,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90256",130716,"col","Iwato",131.346893,32.757198,"SLR-19, Saraito logging road section, Takachiho",NA,"",2,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90257",130717,"col","Iwato",131.346893,32.757198,"SLR-20, Saraito logging road section, Takachiho",NA,"",8,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90258",130718,"col","Iwato",131.3461,32.7579,"SLR-21, Saraito logging road section, Takachiho",NA,"",1,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90259",130719,"col","Iwato",131.3461,32.7579,"SLR-23, Saraito logging road section, Takachiho",NA,"",2,"Wordian","",268.8,265.1,42281,"gp_mid",127.32,5.26,"610",266.95,1
+"90915",131533,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D4",NA,"",1,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90916",131534,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D13",NA,"",1,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90917",131535,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D15",NA,"",2,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90918",131536,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D25",NA,"",1,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90919",131537,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D28",NA,"",15,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90920",131538,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D46",NA,"",1,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"90921",131539,"col","Dalan",51.423332,30.93111,"Kuh-e Dena D47",NA,"",1,"Wordian","",268.8,265.1,42449,"gp_mid",48.84,-24.78,"503",266.95,1
+"91129",131778,"col","",150.899994,-34.459999,"Rocks along beach, Wollongong Harbour",NA,"",1,"Wordian","",268.8,265.1,27370,"gp_mid",167.31,-75.18,"801",266.95,1
+"91282",131933,"col","Berry",150.175003,-33.549999,"Hartley, Upper Marine Series",NA,"",4,"Wordian","",268.8,265.1,42532,"gp_mid",163.82,-74.58,"801",266.95,1
+"91532",132311,"col","Nowra",150.740005,-34.849998,"Shoalhaven Heads (AM collection)",NA,"",1,"Wordian","",268.8,265.1,42594,"gp_mid",167.48,-75.59,"801",266.95,1
+"91533",132312,"col","Broughton",150.794998,-34.494999,"Dapto",NA,"",1,"Wordian","",268.8,265.1,42594,"gp_mid",167.06,-75.25,"801",266.95,1
+"91534",132313,"col","Nowra",150.794998,-34.494999,"Nowra",NA,"",1,"Wordian","",268.8,265.1,42594,"gp_mid",167.06,-75.25,"801",266.95,1
+"92237",133290,"col","Muree",151.75,-32.755001,"Raymond Terrace (Strzelecki coll)",NA,"",4,"Wordian","",268.8,265.1,26633,"gp_mid",167.1,-73.34,"801",266.95,1
+"92240",133293,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (AM coll)",NA,"",5,"Wordian","",268.8,265.1,14254,"gp_mid",167.61,-75.5,"801",266.95,1
+"92241",133294,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (ANU coll)",NA,"",3,"Wordian","",268.8,265.1,14254,"gp_mid",167.61,-75.5,"801",266.95,1
+"92242",133295,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (MM coll)",NA,"",1,"Wordian","",268.8,265.1,23110,"gp_mid",167.61,-75.5,"801",266.95,1
+"92278",133331,"col","Gerringong",150.910004,-34.419998,"Wollongong (Dun coll)",NA,"",5,"Wordian","",268.8,265.1,42916,"gp_mid",167.27,-75.14,"801",266.95,1
+"92279",133332,"col","Nowra",150.794998,-34.494999,"Nowra Hill, Shoalhaven",NA,"",1,"Wordian","",268.8,265.1,42916,"gp_mid",167.06,-75.25,"801",266.95,1
+"92281",133334,"col","Berry",150.360001,-34.645,"Bundanoon Gully (Thorpe coll)",NA,"",1,"Wordian","",268.8,265.1,42916,"gp_mid",166,-75.53,"801",266.95,1
+"92282",133337,"col","Gerringong",150.850006,-34.5,"Illawarra District (USNM coll)",NA,"",20,"Wordian","",268.8,265.1,27730,"gp_mid",167.23,-75.24,"801",266.95,1
+"92286",133342,"col","Gerringong",150.910004,-34.419998,"Wollongong (W.B. Clarke coll)",NA,"",20,"Wordian","",268.8,265.1,21658,"gp_mid",167.27,-75.14,"801",266.95,1
+"92287",133343,"col","Mulbring",151.539993,-32.73,"Darlington (W.B. Clarke coll)",NA,"",7,"Wordian","",268.8,265.1,21658,"gp_mid",166.5,-73.38,"801",266.95,1
+"92288",133344,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (W.B. Clarke coll)",NA,"",8,"Wordian","",268.8,265.1,21658,"gp_mid",167.61,-75.5,"801",266.95,1
+"92289",133346,"col","Muree",151.755005,-32.764999,"Muree (W.B. Clarke coll)",NA,"",9,"Wordian","",268.8,265.1,21658,"gp_mid",167.13,-73.34,"801",266.95,1
+"92290",133347,"col","Muree",151.324997,-32.595001,"Loder's Creek (W.B. Clarke coll)",NA,"",6,"Wordian","",268.8,265.1,21658,"gp_mid",165.74,-73.33,"801",266.95,1
+"92291",133348,"col","Muree",151.285004,-32.619999,"Bell's Creek (W.B. Clarke coll)",NA,"",2,"Wordian","",268.8,265.1,21658,"gp_mid",165.66,-73.37,"801",266.95,1
+"92292",133357,"col","Muree",151.285004,-32.619999,"Korinda (W.B. Clarke coll)",NA,"Corinda",4,"Wordian","",268.8,265.1,21658,"gp_mid",165.66,-73.37,"801",266.95,1
+"92339",133436,"col","",110.68,26.33,"Longjiachong, Guangxi",NA,"Lung-chia-ch'ung, Kiang-si",1,"Wordian","",268.8,265.1,42989,"gp_mid",118.33,-14.73,"611",266.95,1
+"92483",133747,"col","Gerringong",150.908997,-34.419998,"Wollongong, South Coast (MM coll)",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",167.27,-75.14,"801",266.95,1
+"92784",134048,"col","Gerringong",150.910004,-34.419998,"Illawarra (Strzelecki coll)",NA,"",14,"Wordian","",268.8,265.1,26633,"gp_mid",167.27,-75.14,"801",266.95,1
+"92785",134049,"col","Gerringong",150.910004,-34.419998,"Wollongong (Strzelecki coll)",NA,"",2,"Wordian","",268.8,265.1,26633,"gp_mid",167.27,-75.14,"801",266.95,1
+"92789",134053,"col","Muree",151.729996,-32.582001,"Glendon (Strzelecki coll)",NA,"",3,"Wordian","",268.8,265.1,26633,"gp_mid",166.81,-73.19,"801",266.95,1
+"92793",134057,"col","Gerringong",150.822006,-34.779999,"Black Head, Gerringong (UQ coll)",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",167.61,-75.5,"801",266.95,1
+"93186",134518,"col","Muree",151.544998,-32.709999,"Quarry north-west of the Waterworks, west Maitland",NA,"",1,"Wordian","",268.8,265.1,43251,"gp_mid",166.49,-73.36,"801",266.95,1
+"93188",134520,"col","Muree",151.589996,-32.744999,"West Maitland (AM coll)",NA,"",1,"Wordian","",268.8,265.1,33746,"gp_mid",166.66,-73.38,"801",266.95,1
+"93190",134522,"col","Muree",151.399994,-32.674999,"Greta (AM coll)",NA,"",1,"Wordian","",268.8,265.1,33746,"gp_mid",166.05,-73.38,"801",266.95,1
+"94377",135925,"col","Berry",150.360001,-34.650002,"Bundanoon (AM coll)",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",166.01,-75.54,"801",266.95,1
+"94387",135942,"col","Muree",151.369995,-32.650002,"BMR HV15, quarry immediately west of school",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",165.93,-73.37,"801",266.95,1
+"94534",136356,"col","Muree",151.330002,-32.66,"UNE L910, Branxton Railway cutting",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",165.84,-73.39,"801",266.95,1
+"94828",136617,"col","Belford",151.324005,-32.595001,"UNE L1176, Abbey Green",NA,"",2,"Wordian","",268.8,265.1,36711,"gp_mid",165.74,-73.33,"801",266.95,1
+"94829",136618,"col","Muree",151.393005,-32.695,"UNE L967, Wallis Creek",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",166.06,-73.4,"801",266.95,1
+"94830",136619,"col","Muree",151.550003,-32.695,"UNE L949, West Maitland reservoir",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",166.48,-73.35,"801",266.95,1
+"94831",136620,"col","Mulbring",151.156998,-32.563999,"UNE L1172, Singleton",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",165.24,-73.36,"801",266.95,1
+"94833",136622,"col","Porcupine",150.714005,-31.663,"UNE L1121, Borambil Creek",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",162.92,-72.66,"801",266.95,1
+"94835",136624,"col","Porcupine",150.259995,-31.01,"UNE L917, Parish Gunnedah",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",160.98,-72.17,"801",266.95,1
+"94836",136625,"col","Muree",151.479996,-32.915001,"Mount Vincent (MM coll)",NA,"",1,"Wordian","",268.8,265.1,36711,"gp_mid",166.6,-73.57,"801",266.95,1
+"94837",136626,"col","Muree",150.604996,-30.375,"Barraba (W.B. Clarke coll)",NA,"",2,"Wordian","",268.8,265.1,21658,"gp_mid",161.22,-71.48,"801",266.95,1
+"94850",136654,"col","Mulbring",151.158203,-32.563499,"Beneath railway bridge over Hunter River, Singleton",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",165.24,-73.36,"801",266.95,1
+"94854",136658,"col","",147.699997,-20.83,"BMR Collinsville 1a",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",148.8,-62.79,"801",266.95,1
+"94859",136663,"col","Gerringong",150.908005,-34.422001,"Flagstaff Hill, Wollongong",NA,"",2,"Wordian","",268.8,265.1,42917,"gp_mid",167.27,-75.14,"801",266.95,1
+"94860",136664,"col","Gerringong",150.705002,-34.764999,"Near Berry",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",167.23,-75.53,"801",266.95,1
+"94863",136667,"col","Gerringong",150.774994,-34.764999,"Dead Mans Gulch, 8 miles south of Kiama",NA,"",1,"Wordian","",268.8,265.1,42917,"gp_mid",167.44,-75.5,"801",266.95,1
+"98394",140655,"col","Khuff",57.602779,20.861944,"Saiwan section AO123",NA,"",5,"Wordian","",268.8,265.1,45579,"gp_mid",51.58,-36.03,"503",266.95,1
+"98395",140656,"col","Khuff",57.657501,21,"Haushi AO79",NA,"",1,"Wordian","",268.8,265.1,45579,"gp_mid",51.68,-35.91,"503",266.95,1
+"98396",140657,"col","Khuff",57.602779,20.861944,"Saiwan section AO214",NA,"",13,"Wordian","",268.8,265.1,45579,"gp_mid",51.58,-36.03,"503",266.95,1
+"98397",140658,"col","Khuff",57.669998,21.01,"Haushi AO3",NA,"",4,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98398",140659,"col","Khuff",57.669998,21.01,"Haushi AO61",NA,"",4,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98399",140660,"col","Khuff",57.6675,21.010279,"Haushi section K1, AO40",NA,"",13,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98400",140661,"col","Khuff",57.669998,21.01,"Haushi AO211",NA,"",11,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98401",140662,"col","Khuff",57.669998,21.01,"Haushi AO41",NA,"",8,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98402",140663,"col","Khuff",57.669998,21.01,"Haushi AO67",NA,"",2,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98403",140664,"col","Khuff",57.700001,21.041668,"Haushi section K4, AO55",NA,"",12,"Wordian","",268.8,265.1,45579,"gp_mid",51.75,-35.88,"503",266.95,1
+"98404",140665,"col","Khuff",57.700001,21.041668,"Haushi section K4, AO47bis",NA,"",11,"Wordian","",268.8,265.1,45579,"gp_mid",51.75,-35.88,"503",266.95,1
+"98405",140666,"col","Khuff",57.669998,21.01,"Haushi AO50",NA,"",8,"Wordian","",268.8,265.1,45579,"gp_mid",51.7,-35.91,"503",266.95,1
+"98406",140667,"col","Khuff",57.657501,21,"Haushi ring AO58",NA,"",2,"Wordian","",268.8,265.1,45579,"gp_mid",51.68,-35.91,"503",266.95,1
+"98407",140668,"col","Khuff",57.587502,20.87389,"Saiwan section 6-2, sample 965-9",NA,"",3,"Wordian","",268.8,265.1,45579,"gp_mid",51.57,-36.02,"503",266.95,1
+"98408",140669,"col","Khuff",57.587502,20.87389,"Saiwan section 6-2, sample 965-3",NA,"",2,"Wordian","",268.8,265.1,45579,"gp_mid",51.57,-36.02,"503",266.95,1
+"98409",140670,"col","Khuff",57.599998,20.877222,"Saiwan section 6-3, sample 965-8",NA,"",3,"Wordian","",268.8,265.1,45579,"gp_mid",51.58,-36.02,"503",266.95,1
+"98410",140671,"col","Khuff",57.66,21.010279,"Haushi section 6-7, sample 965-4",NA,"",1,"Wordian","",268.8,265.1,45579,"gp_mid",51.69,-35.9,"503",266.95,1
+"98411",140672,"col","Khuff",57.66,21.010279,"Haushi section 6-7, sample 965-5",NA,"",1,"Wordian","",268.8,265.1,45579,"gp_mid",51.69,-35.9,"503",266.95,1
+"98412",140673,"col","Khuff",57.66,21.010279,"Haushi section 6-7, sample 965-2",NA,"",8,"Wordian","",268.8,265.1,45579,"gp_mid",51.69,-35.9,"503",266.95,1
+"98413",140674,"col","Khuff",57.66,21.010279,"Haushi section 6-7, sample 965-1",NA,"",1,"Wordian","",268.8,265.1,45579,"gp_mid",51.69,-35.9,"503",266.95,1
+"105120",149241,"col","Takaoka",133.305557,33.490276,"Ohirayama Mine, Tosa Limestone Co.",NA,"",5,"Wordian","",268.8,265.1,47774,"gp_mid",129.11,5.1,"610",266.95,1
+"108313",153613,"col","Akasaka",136.574997,35.396,"Hanaokayama quarry, Akasaka, Ogaki City",NA,"",1,"Wordian","",268.8,265.1,49676,"gp_mid",132.4,5.51,"610",266.95,1
+"113993",161843,"col","Wandrawandian",150.492996,-34.869999,"Longreach, Shoalhaven River (A)",NA,"",4,"Wordian","",268.8,265.1,52707,"gp_mid",166.77,-75.69,"801",266.95,1
+"113994",161844,"col","Wandrawandian",150.492996,-34.875,"Shoalhaven River (B)",NA,"",1,"Wordian","",268.8,265.1,52707,"gp_mid",166.78,-75.7,"801",266.95,1
+"113996",161846,"col","Nowra",150.585007,-34.865002,"Shoalhaven River near Nowra",NA,"",5,"Wordian","",268.8,265.1,52707,"gp_mid",167.04,-75.66,"801",266.95,1
+"113997",161847,"col","Nowra",150.585007,-34.865002,"Shoalhaven River (C)",NA,"",2,"Wordian","",268.8,265.1,52707,"gp_mid",167.04,-75.66,"801",266.95,1
+"115600",164770,"col","",45.68,67.745003,"Between Nadtey and Krutaya rivers, outcrop 7, bed 1, Kanin Peninsula",NA,"",5,"Wordian","",268.8,265.1,53775,"gp_mid",37.54,38.63,"302",266.95,1
+"116895",166924,"col","",59.490002,21.905001,"Jebel Qarari",NA,"",1,"Wordian","",268.8,265.1,54535,"gp_mid",53.99,-35.45,"503",266.95,1
+"126153",181935,"col","Akasaka",136.578003,35.396,"Mt. Kinshozan, middle Member, Akasaka (NMNS collection)",NA,"",1,"Wordian","",268.8,265.1,60515,"gp_mid",132.4,5.51,"610",266.95,1
+"134382",197534,"col","Prikazan",48.906872,55.782631,"K3, Pechishchi Village, Volga River (upper)",NA,"",16,"Wordian","",268.8,265.1,67364,"gp_mid",47.57,29.85,"302",266.95,1
+"134383",197535,"col","Prikazan",48.904202,55.782612,"K4, Pechishchi Village, Volga River",NA,"",13,"Wordian","",268.8,265.1,67364,"gp_mid",47.57,29.85,"302",266.95,1
+"134384",197536,"col","Prikazan",48.951481,55.782829,"K2, Flour Milling Plant, Pechishchi Village",NA,"",12,"Wordian","",268.8,265.1,67364,"gp_mid",47.59,29.87,"302",266.95,1
+"134385",197538,"col","Pechishchi",48.94973,55.782631,"K1, Flour Milling Plant, Pechishchi Village",NA,"",2,"Wordian","",268.8,265.1,67364,"gp_mid",47.59,29.87,"302",266.95,1
+"134386",197540,"col","Pechishchi",48.929611,55.782688,"K6, Cheremushka Gully, Volga River",NA,"",29,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134389",197555,"col","Verkhnii Uslon",48.96159,55.786999,"K7, Telegraphynyi Gully, Volga River",NA,"",8,"Wordian","",268.8,265.1,67364,"gp_mid",47.59,29.88,"302",266.95,1
+"134390",197556,"col","Verkhnii Uslon",48.92585,55.78249,"K5, bank of the Volga River (lower)",NA,"",11,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134391",197557,"col","Morkvashi",48.92585,55.78249,"K5, bank of the Volga River (upper)",NA,"",10,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134392",197558,"col","Isheevo",48.927441,55.779781,"P04, Cheremushka Gully, Volga River",NA,"Palaeomutela wohrmani zone stratotype (bed 66)",22,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134421",197587,"col","Isheevo",48.927471,55.779869,"P05, Cheremushka Gully, Volga River (lower)",NA,"",20,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134422",197588,"col","Isheevo",48.927189,55.779362,"P07, Cheremushka Gully, Volga River",NA,"",26,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134423",197589,"col","Isheevo",48.927471,55.779869,"P05, Cheremushka Gully, Volga River (upper)",NA,"",14,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134424",197590,"col","Isheevo",48.92783,55.778919,"P09, Cheremushka Gully, Volga River",NA,"",13,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134425",197591,"col","Isheevo",48.911991,55.777149,"P11, Trekhglavyi Gully, Volga River",NA,"Palaeomutela numerosa zone stratotype (bed 138)",19,"Wordian","",268.8,265.1,67364,"gp_mid",47.57,29.85,"302",266.95,1
+"134426",197592,"col","Isheevo",48.889431,55.772831,"P12 & P13, Strela Gully, Volga River",NA,"",9,"Wordian","",268.8,265.1,67364,"gp_mid",47.57,29.84,"302",266.95,1
+"134427",197593,"col","'First'",48.890835,55.02639,"Monastery Ravine, Volga River ('First' Formation)",NA,"",13,"Wordian","",268.8,265.1,67364,"gp_mid",48.05,29.23,"302",266.95,1
+"134428",197594,"col","'Second'",48.884998,55.029446,"Monastery Ravine, Volga River ('Second' Formation)",NA,"",19,"Wordian","",268.8,265.1,67364,"gp_mid",48.05,29.23,"302",266.95,1
+"134429",197595,"col","'Third'",48.884998,55.029446,"Monastery Ravine, Volga River ('Third' Formation)",NA,"",31,"Wordian","",268.8,265.1,67364,"gp_mid",48.05,29.23,"302",266.95,1
+"134454",197620,"col","Belebey",51.740108,55.704861,"S2, Sentyak Section, Kama River",NA,"",13,"Wordian","",268.8,265.1,67364,"gp_mid",49.12,30.72,"302",266.95,1
+"134455",197621,"col","",51.738522,55.705521,"S1, Sentyak Section, Kama River",NA,"",13,"Wordian","",268.8,265.1,67364,"gp_mid",49.12,30.72,"302",266.95,1
+"134463",197629,"col","",52.204941,54.52169,"A5, Karkali Limestone Quarry, Inesh River (upper)",NA,"",4,"Wordian","",268.8,265.1,67364,"gp_mid",50.18,29.92,"302",266.95,1
+"134577",197762,"col","Prikazan",48.906872,55.782631,"Prikazan type sections (Pechishchi & Karsnovidovo villages)",NA,"",20,"Wordian","",268.8,265.1,67364,"gp_mid",47.57,29.85,"302",266.95,1
+"134578",197763,"col","Pechishchi",48.929611,55.782688,"Pechishchi type sections (Pechishchi & Karsnovidovo villages)",NA,"",29,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134579",197764,"col","Verkhnii Uslon",48.96159,55.786999,"Verkhnii Uslon type sections (Pechishchi & Karsnovidovo villages)",NA,"Verkhnyi Uslon",42,"Wordian","",268.8,265.1,67364,"gp_mid",47.59,29.88,"302",266.95,1
+"134580",197765,"col","Morkvashi",48.92585,55.78249,"Morkvashi type sections (Pechishchi & Karsnovidovo villages)",NA,"",25,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134581",197766,"col","",48.927441,55.779781,"Palaeomutela krotowi zone stratotype, Cheremushka Gully",NA,"outcrop CH-2001, bed 19",5,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"134582",197767,"col","Isheevo",48.927189,55.779362,"Gremyachka",NA,"",15,"Wordian","",268.8,265.1,67364,"gp_mid",47.58,29.86,"302",266.95,1
+"143111",211654,"col","Dalan",49.985001,32.419998,"Sample Z32, Il-e-Beyk section",NA,"",1,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143112",211655,"col","Dalan",49.985001,32.419998,"Sample Z33, Il-e-Beyk section",NA,"",16,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143113",211656,"col","Dalan",49.985001,32.419998,"Sample Z34, Il-e-Beyk section",NA,"",3,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143114",211657,"col","Dalan",49.985001,32.419998,"Sample Z36, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143115",211658,"col","Dalan",49.985001,32.419998,"Sample Z38, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143116",211659,"col","Dalan",49.985001,32.419998,"Sample Z39, Il-e-Beyk section",NA,"",1,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143117",211660,"col","Dalan",49.985001,32.419998,"Sample Z41, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143118",211661,"col","Dalan",49.985001,32.419998,"Sample Z43, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143119",211662,"col","Dalan",49.985001,32.419998,"Sample Z45, Il-e-Beyk section",NA,"",1,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143120",211663,"col","Dalan",49.985001,32.419998,"Sample Z49, Il-e-Beyk section",NA,"",5,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143121",211664,"col","Dalan",49.985001,32.419998,"Sample Z50, Il-e-Beyk section",NA,"",3,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143122",211665,"col","Dalan",49.985001,32.419998,"Sample Z51, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143123",211666,"col","Dalan",49.985001,32.419998,"Sample Z54, Il-e-Beyk section",NA,"",7,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143124",211667,"col","Dalan",49.985001,32.419998,"Sample Z55, Il-e-Beyk section",NA,"",7,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143125",211668,"col","Dalan",49.985001,32.419998,"Sample Z56, Il-e-Beyk section",NA,"",11,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143126",211669,"col","Dalan",49.985001,32.419998,"Sample Z57, Il-e-Beyk section",NA,"",9,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143127",211670,"col","Dalan",49.985001,32.419998,"Sample Z58, Il-e-Beyk section",NA,"",9,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143128",211671,"col","Dalan",49.985001,32.419998,"Sample Z59, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143129",211672,"col","Dalan",49.985001,32.419998,"Sample Z61, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143130",211673,"col","Dalan",49.985001,32.419998,"Sample Z62, Il-e-Beyk section",NA,"",1,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143131",211674,"col","Dalan",49.985001,32.419998,"Sample Z71, Il-e-Beyk section",NA,"",2,"Wordian","",268.8,265.1,73152,"gp_mid",48.13,-22.97,"503",266.95,1
+"143573",212277,"col","Akasaka",136.574997,35.395,"Akasaka, Gifu Prefecture (Honjo collection)",NA,"",1,"Wordian","",268.8,265.1,35954,"gp_mid",132.4,5.51,"610",266.95,1
+"143954",212887,"col","Selander",21.980833,78.521667,"Barentsøya, Selander Formation, Upper Permian",NA,"",2,"Wordian","",268.8,265.1,73515,"gp_mid",22.44,44.15,"311",266.95,1
+"143955",212888,"col","Selander",21.980833,78.521667,"Barentsøya, Selander Formation, Upper Permian",NA,"",24,"Wordian","",268.8,265.1,73515,"gp_mid",22.44,44.15,"311",266.95,1

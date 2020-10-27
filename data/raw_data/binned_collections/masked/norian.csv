@@ -1,0 +1,159 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"12328",22994,"col","",-121.783333,53.083332,"Eaglenest Mountain, British Columbia, Canada",NA,"Reef 2989",16,"Norian","",228,208.5,6622,"gp_mid",-51.05,26.44,"127",218.25,1
+"12698",23981,"col","Heiberg",-89.166664,78.916664,"Axel Heiberg Island 7",NA,"",1,"Norian","",228,208.5,6787,"gp_mid",-12.97,51.07,"106",218.25,1
+"12699",23982,"col","Heiberg",-90,79,"Axel Heiberg Island 8",NA,"",2,"Norian","",228,208.5,6787,"gp_mid",-13.16,51.21,"106",218.25,1
+"12902",24304,"col","Jebel Wasa",55.866669,24.700001,"Jebel Wasa south, Oman",NA,"Reef 33",21,"Norian","",228,208.5,6869,"gp_mid",52.79,-9.06,"503",218.25,1
+"12904",24306,"col","Misfah",57.058334,23.172222,"Sint, Jebel Kawr, Oman",NA,"Reef 35",25,"Norian","",228,208.5,6869,"gp_mid",53.61,-10.75,"503",218.25,1
+"12908",24310,"col","Pantokrator",23.083332,37.633331,"Sarmeika, Argolis Peninsula",NA,"Reef 11",14,"Norian","",228,208.5,6872,"gp_mid",29.29,8.31,"307",218.25,1
+"15433",29585,"col","Dajingkou",109.900002,27.5,"Huaihua",NA,"PGAP 2163",16,"Norian","",228,208.5,8308,"gp_mid",119.72,27.87,"611",218.25,1
+"15794",29946,"col","Yongping",109.199997,35.200001,"Tongchuan",NA,"PGAP 2188",6,"Norian","",228,208.5,8311,"gp_mid",119.83,41.23,"604",218.25,1
+"16789",30947,"col","Huai Hin Lat",102,16.6,"Huai Hin Lat",NA,"PGAP 2275",8,"Norian","",228,208.5,7943,"gp_mid",110.72,16.26,"615",218.25,1
+"16794",30952,"col","Garazhovka",38,49,"Donbass",NA,"PGAP 2294",62,"Norian","",228,208.5,8169,"gp_mid",41.17,39.61,"302",218.25,1
+"16824",30982,"col","",107.099998,20.9,"Hongay",NA,"PGAP 2276",13,"Norian","",228,208.5,7943,"gp_mid",117.33,21.13,"611",218.25,1
+"18514",32914,"col","Tetyukhinskaya",56.366669,52.349998,"Primor'ye Region, Rudnoy River",NA,"PIN 2609/36",1,"Norian","",228,208.5,8807,"gp_mid",51.09,49.42,"302",218.25,1
+"21575",36890,"col","",104.799721,4.876667,"Sotong limestone, Malay basin",NA,"Reef 193",27,"Norian","",228,208.5,9875,"gp_mid",115.12,11.7,"620",218.25,1
+"22409",38047,"col","",30.333332,36.900002,"B. Alanköyü, Southern Anatolia, Turkey",NA,"Reef 92",73,"Lacian","",221.5,215.56,10156,"gp_mid",35.69,7.74,"504",218.53,1
+"22410",38048,"col","",30.5,37,"Tilkideligi Tepe, Southern Anatolia, Turkey",NA,"Reef 1",8,"Lacian","",221.5,215.56,10156,"gp_mid",35.84,7.8,"504",218.53,1
+"24602",41201,"col","Sumra",56.105,25.799999,"Wadi Milaha, Jebel Hagab (Modiolus Beds)",NA,"",20,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"24603",41203,"col","Sumra",56.105,25.799999,"Wadi Milaha, Jebel Hagab (Lopha Beds)",NA,"",12,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"24605",41210,"col","Asfal",56.105,25.799999,"Wadi Milaha, Jebel Hagab (Spiriferina Bed)",NA,"",3,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"24606",41211,"col","Asfal",56.105,25.799999,"Wadi Milaha, Jebel Hagab (Misolia Bed)",NA,"",3,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"24607",41212,"col","Asfal",56.105,25.799999,"Wadi Milaha, Jebel Hagab (Dicerocardium Limestone)",NA,"",1,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"26689",43825,"col","Pardonet",-130.416672,54.75,"Pardonet/Brown Hill - norian",NA,"",4,"Norian","",228,208.5,11546,"gp_mid",-57.01,26.26,"127",218.25,1
+"27036",44336,"col","Bolila",97.019997,31.225,"Xixionggou, Qamdo County",NA,"",4,"Alaunian","",215.56,212,42718,"gp_mid",78.46,-20.42,"613",213.78,1
+"27501",44759,"col","Van Lang",106.5,21.75,"Lower Van Lang Formation, An Chau Basin, NE Vietnam",NA,"",3,"Norian","",228,208.5,11693,"gp_mid",116.68,21.95,"611",218.25,1
+"27514",44771,"col","Suoi Bang",104,21.5,"Lower Suoi Bang Formation, Song Da Basin, NW Vietnam",NA,"",14,"Norian","",228,208.5,11693,"gp_mid",110.89,21.51,"615",218.25,1
+"27523",44780,"col","Dong Do",105,19.5,"Dong Do Formation, Sam Nua Basin, Central Vietnam",NA,"",2,"Norian","",228,208.5,11693,"gp_mid",112.55,19.94,"615",218.25,1
+"35923",55493,"col","Cow Branch",-79.668999,36.540901,"Solite Corporation Quarry (YPM coll)",NA,"Virginia Solite Quarry, CB1",49,"Norian","",228,208.5,34906,"gp_mid",-12.82,9.85,"109",218.25,1
+"36844",56715,"col","",23.516666,37.366669,"Lo 2/12, Kap-Kastello, Hydra, Greece",NA,"",19,"Norian","",228,208.5,15293,"gp_mid",29.35,7.88,"307",218.25,1
+"37943",57949,"col","",-3.250398,51.393559,"Bendrick Rock tracksite, Barry",NA,"Bendricks Rock, South Glamorgan",5,"Norian","",228,208.5,52462,"gp_mid",11.63,29.55,"315",218.25,1
+"38546",58623,"col","",3.96667,44.083328,"Gardon de Saint-Jean tracksite",NA,"Anduze",2,"Norian","",228,208.5,16648,"gp_mid",19.57,24.38,"305",218.25,1
+"38547",58624,"col","",3.96667,44.083328,"Gardon de Saint-Jean ravine tracksite",NA,"Anduze",2,"Norian","",228,208.5,16648,"gp_mid",19.57,24.38,"305",218.25,1
+"39188",59290,"col","",3.441667,43.966667,"Alzon (MNHN)",NA,"",1,"Norian","",228,208.5,16981,"gp_mid",19.23,24.13,"305",218.25,1
+"40156",60473,"col","",30.333332,36.833332,"'Cipit Limestone', Saklikent, Southern Anatolia, Western Taurus",NA,"Reef 1",11,"Lacian","",221.5,215.56,17340,"gp_mid",35.67,7.67,"504",218.53,1
+"45242",67685,"col","Esiri",29.733334,37.533333,"Yesilova, Salda Lake, Esiri Formation, Burdur",NA,"Reef 150",20,"Norian","",228,208.5,19332,"gp_mid",35.31,8.86,"504",218.25,1
+"45272",67742,"col","",34.933334,32.683334,"Asher-Atlit-1 Borehole, reef facies, Haifa",NA,"Reef 2787",17,"Norian","",228,208.5,19361,"gp_mid",37.89,4.84,"508",218.25,1
+"47176",70425,"col","Marnes irisées supérieures",5.43333,45.950001,"Chappon, Saint-Rambert",NA,"Le Chappou",2,"Norian","",228,208.5,23624,"gp_mid",19.88,26.49,"305",218.25,1
+"48779",73260,"col","",58.416668,23.083332,"Ridge north of Wadi Alwa, Wadi Alwa IV, collection 121A",NA,"",2,"Alaunian","",215.56,212,24596,"gp_mid",54.85,-9.13,"503",213.78,1
+"48780",73261,"col","",58.416668,23.083332,"Ridge north of Wadi Alwa, Wadi Alwa IV, collection 121T",NA,"",3,"Alaunian","",215.56,212,24596,"gp_mid",54.85,-9.13,"503",213.78,1
+"49161",73857,"col","",31.166668,37.683334,"Caglarseki Tepe, Isparta",NA,"Reef 3607",2,"Norian","",228,208.5,24765,"gp_mid",36.46,8.71,"504",218.25,1
+"49162",73858,"col","",31.166668,37.75,"Terziler, sample TE6, Isparta",NA,"Reef 3607",9,"Norian","",228,208.5,24765,"gp_mid",36.47,8.77,"504",218.25,1
+"49163",73859,"col","",31.166668,37.75,"Terziler, sample AK4, Isparta",NA,"Reef 3607",6,"Norian","",228,208.5,24765,"gp_mid",36.47,8.77,"504",218.25,1
+"49164",73860,"col","Kasimlar",31.35,37.700001,"Tavuk Cesme, Isparta",NA,"Reef 119",33,"Lacian","",221.5,215.56,24763,"gp_mid",36.69,8.3,"504",218.53,1
+"49812",74732,"col","Ghalilah",56.09,25.715279,"Wadi Naqab, Hajar Mountains",NA,"",4,"Norian","",228,208.5,25161,"gp_mid",53.17,-8.1,"503",218.25,1
+"55834",85057,"col","",9.666667,34.933334,"Djebel Rheouis",NA,"",1,"Norian","",228,208.5,28558,"gp_mid",19.05,14.25,"714",218.25,1
+"55875",85132,"col","Otuk",-155.766663,68.566666,"USGS D11071, 11075, 11078 Killik River",NA,"",2,"Norian","",228,208.5,28639,"gp_mid",-39.05,55.22,"103",218.25,1
+"55876",85133,"col","Otuk",-149.066666,68.51667,"USGS D12582, 12583, 12584 Atigun River",NA,"",3,"Norian","",228,208.5,28639,"gp_mid",-41.3,53.15,"103",218.25,1
+"55878",85146,"col","",-154.25,63.549999,"USGS D11284, 11285, 11286 Kuskokwim Mountains",NA,"",9,"Norian","",228,208.5,28639,"gp_mid",-52.49,43.04,"123",218.25,1
+"56208",85504,"col","",30.299999,36.599998,"Alakir Cay Valley",NA,"Reef 92",4,"Lacian","",221.5,215.56,28901,"gp_mid",35.58,7.46,"504",218.53,1
+"58868",89149,"col","Lithofacies Association II",-78.901947,35.869167,"Triangle Brick Quarry, Genlee",NA,"",27,"Norian","",228,208.5,35457,"gp_mid",-12.17,9.19,"109",218.25,1
+"59216",89992,"col","Huai Hin Lat",101.633331,16.533333,"Chulabhorn Dam",NA,"Nam Phrom Dam",7,"Norian","",228,208.5,30141,"gp_mid",110.39,16.09,"615",218.25,1
+"59811",91027,"col","Otuk",-162.622498,68.412498,"USGS DR 2490, De Long Mountains [Otuk Fm]",NA,"99AD1D; Loc. 33",5,"Norian","",228,208.5,30624,"gp_mid",-36.37,57.25,"103",218.25,1
+"59815",91033,"col","Otuk",-162.846664,68.171669,"USGS DR 2487, De Long Mountains [Otuk Fm]",NA,"KE98-28; Loc. 66",8,"Norian","",228,208.5,30624,"gp_mid",-36.59,57.48,"103",218.25,1
+"62311",94152,"col","Huai Hin Lat",101.75,16.75,"Tad Huai Nam Yai tracksite",NA,"Nam Nao",1,"Norian","",228,208.5,31997,"gp_mid",110.43,16.33,"615",218.25,1
+"66540",99429,"col","Cumnock",-79.25,35.549999,"New Egypt coal mine",NA,"",4,"Norian","",228,208.5,69390,"gp_mid",-12.45,8.87,"109",218.25,1
+"66609",99541,"col","Cumnock",-79.103561,35.618591,"NCPALEO1906, Moncure",NA,"",21,"Norian","",228,208.5,34225,"gp_mid",-12.33,8.94,"109",218.25,1
+"67390",100584,"col","",-130.833328,57.216667,"GSC C-201504 Arctic Lake",NA,"",1,"Norian","",228,208.5,34480,"gp_mid",-58.12,28.53,"127",218.25,1
+"67957",101376,"col","",56.200001,25.733334,"Jebel Agah",NA,"",4,"Norian","",228,208.5,34571,"gp_mid",53.27,-8.1,"503",218.25,1
+"67960",101398,"col","",57.849998,22.783333,"Al Aqil",NA,"",19,"Norian","",228,208.5,34585,"gp_mid",54.28,-11.26,"503",218.25,1
+"71335",106479,"col","Cow Branch",-79.668999,36.540901,"Solite Quarries (VMNH collection)",NA,"Solite Corporation",18,"Norian","",228,208.5,35551,"gp_mid",-12.82,9.85,"109",218.25,1
+"71380",106542,"col","Huai Hin Lat",101.616669,16.766666,"Ban Huai Sanan Sai-Ban Na Pha Song Road",NA,"",3,"Norian","",228,208.5,35627,"gp_mid",110.3,16.3,"615",218.25,1
+"71392",106555,"col","Huai Hin Lat",102,16.666668,"Huai Hin Lat creek",NA,"",1,"Norian","",228,208.5,35630,"gp_mid",110.69,16.33,"615",218.25,1
+"80126",117416,"col","Kasimlar",31.166668,37.716667,"Pinargözü Magara",NA,"Reef 3607",1,"Norian","",228,208.5,37674,"gp_mid",36.46,8.74,"504",218.25,1
+"80127",117417,"col","Kasimlar",31.333332,37.416668,"Dumanle Gözu",NA,"",1,"Norian","",228,208.5,37674,"gp_mid",36.52,8.42,"504",218.25,1
+"83089",120831,"col","Ghalilah",56.033333,25.683332,"Arabian wallowaconchids",NA,"",1,"Norian","",228,208.5,38589,"gp_mid",53.11,-8.12,"503",218.25,1
+"86471",125202,"col","Zulla",56.95163,23.202749,"Al Ayn Section (5), BC767",NA,"",4,"Lacian","",221.5,215.56,40646,"gp_mid",53.51,-11.18,"503",218.53,1
+"86472",125203,"col","Zulla",56.988319,23.22698,"Tawi Shannah Section (7), BC347",NA,"",1,"Alaunian","",215.56,212,40646,"gp_mid",53.56,-8.8,"503",213.78,1
+"86607",125389,"col","",57.034222,23.25275,"Section name not reported, BC349",NA,"",1,"Lacian","",221.5,215.56,40646,"gp_mid",53.6,-11.14,"503",218.53,1
+"86608",125390,"col","",57.034222,23.25275,"Section name not reported, BC351",NA,"",1,"Lacian","",221.5,215.56,40646,"gp_mid",53.6,-11.14,"503",218.53,1
+"88487",128063,"col","",157.300003,64.5,"Korkodon River headwaters, Kolyma River basin",NA,"",1,"Norian","",228,208.5,41832,"gp_mid",-111.61,74,"405",218.25,1
+"88532",128138,"col","",150.080002,60.77,"Mukul'chan River, Armana river basin",NA,"",1,"Norian","",228,208.5,41832,"gp_mid",-124.9,82.75,"401",218.25,1
+"88533",128139,"col","",157.300003,64.5,"Burgagchan Creek, Korkodon River basin",NA,"",1,"Norian","",228,208.5,41832,"gp_mid",-111.61,74,"405",218.25,1
+"88542",128148,"col","",157.300003,64.5,"Korkodon River, below mouth of Yalobo-Ununge River (TsGM coll)",NA,"",1,"Norian","",228,208.5,41832,"gp_mid",-111.61,74,"405",218.25,1
+"90224",130684,"col","Gokdere",30.426001,36.578999,"97-UKT-123/98-UKT-46, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",47,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90225",130685,"col","Gokdere",30.426001,36.578999,"97-UKT-124, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",11,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90226",130686,"col","Gokdere",30.426001,36.578999,"97-UKT-127/98-UKT-47, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",30,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90227",130687,"col","Gokdere",30.426001,36.578999,"97-UKT-128/98-UKT-48, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",105,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90228",130688,"col","Gokdere",30.426001,36.578999,"97-UKT-132/98-UKT-50, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",2,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90231",130691,"col","Gokdere",30.426001,36.578999,"97-UKT-137/98-UKT-53, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",126,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90232",130692,"col","Gokdere",30.426001,36.578999,"97-UKT-138/98-UKT-55, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",76,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90233",130693,"col","Gokdere",30.426001,36.578999,"96-UKT-661/98-UKT-56, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",41,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90234",130694,"col","Gokdere",30.426001,36.578999,"96-UKT-662/98-UKT-57, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",31,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90235",130695,"col","Gokdere",30.426001,36.578999,"98-UKT-58, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",4,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90236",130696,"col","Gokdere",30.426001,36.578999,"96-UKT-666/98-UKT-59, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",97,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90237",130697,"col","Gokdere",30.426001,36.578999,"98-UKT-61, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",90,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90238",130698,"col","Gokdere",30.426001,36.578999,"96-UKT-669/98-UKT-62, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",66,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90239",130699,"col","Gokdere",30.426001,36.578999,"96-UKT-670/98-UKT-63, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",3,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90240",130700,"col","Gokdere",30.426001,36.578999,"98-UKT-64, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",12,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90241",130701,"col","Gokdere",30.426001,36.578999,"96-UKT-672/98-UKT-65, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",27,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90242",130702,"col","Gokdere",30.426001,36.578999,"98-UKT-66, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",29,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90243",130703,"col","Gokdere",30.426001,36.578999,"98-UKT-67, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",21,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90244",130704,"col","Gokdere",30.426001,36.578999,"96-UKT-673/98-UKT-68, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",37,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90245",130705,"col","Gokdere",30.426001,36.578999,"98-UKT-69, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",18,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90246",130706,"col","Gokdere",30.426001,36.578999,"96-UKT-674/98-UKT-70, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",2,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90247",130707,"col","Gokdere",30.426001,36.578999,"98-UKT-71, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",8,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90248",130708,"col","Gokdere",30.426001,36.578999,"96-UKT-675/98-UKT-72, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",14,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90249",130709,"col","Gokdere",30.426001,36.578999,"96-UKT-676/98-UKT-73, Yaylakuzdere measured section II, Alakircay Nappe",NA,"",41,"Lacian","",221.5,215.56,42261,"gp_mid",35.67,7.41,"504",218.53,1
+"90516",130995,"col","Gokdere",30.68,37.692001,"T5-1, Ispartacay Section, Alakircay Nappe",NA,"",5,"Lacian","",221.5,215.56,42261,"gp_mid",36.17,8.43,"504",218.53,1
+"90517",130996,"col","Gokdere",30.68,37.692001,"T5-6, Ispartacay Section, Alakircay Nappe",NA,"",10,"Lacian","",221.5,215.56,42261,"gp_mid",36.17,8.43,"504",218.53,1
+"91723",132548,"col","",31.234722,37.65139,"Islibucak (Loc. No 1)",NA,"",1,"Norian","",228,208.5,42701,"gp_mid",36.5,8.66,"504",218.25,1
+"91724",132549,"col","",31.161388,37.7425,"Terziler (Loc. No 2)",NA,"",1,"Norian","",228,208.5,42701,"gp_mid",36.47,8.77,"504",218.25,1
+"91770",132608,"col","",99.660004,35.205002,"1 mile south of Wenquan",NA,"",1,"Lacian","",221.5,215.56,42700,"gp_mid",107.17,41.68,"602",218.53,1
+"93128",134442,"col","",172.995514,-41.484741,"JDC 2732, 88 Ram Creek div. (N28/f168)",NA,"",1,"Otamitan","",221.5,212,43142,"gp_mid",86.34,-72.39,"806",216.75,1
+"93133",134447,"col","",172.999863,-41.48304,"GS 434, 88 Valley (N28/f7468)",NA,"",2,"Otamitan","",221.5,212,43881,"gp_mid",86.34,-72.39,"806",216.75,1
+"93156",134475,"col","",173.115097,-41.406559,"JDC 725, Mount Heslington (N28/f7559)",NA,"",2,"Otamitan","",221.5,212,43142,"gp_mid",86.62,-72.47,"806",216.75,1
+"93161",134480,"col","",173.131516,-41.395679,"JDC 1793, Wairoa Gorge (N28/f7590)",NA,"",1,"Otamitan","",221.5,212,43142,"gp_mid",86.66,-72.48,"806",216.75,1
+"93173",134492,"col","",173.102295,-41.41909,"JDC 2540, Garden Valley (N28/f7760)",NA,"",1,"Otamitan","",221.5,212,43142,"gp_mid",86.58,-72.46,"806",216.75,1
+"94416",135973,"col","",56.09,25.790001,"Five miles east of Ras al Khaima",NA,"",4,"Norian","",228,208.5,11071,"gp_mid",53.18,-8.02,"503",218.25,1
+"94417",135974,"col","Sumra",56.105,25.799999,"Wadi Milaha, Jebel Hagab (unknown beds)",NA,"",3,"Norian","",228,208.5,11071,"gp_mid",53.2,-8.02,"503",218.25,1
+"94515",136160,"col","Nytymokin",176.990005,63.400002,"Triasovyy creek, Kenkeren Ridge, Koryak (lower Nytymokin Fm)",NA,"",6,"Alaunian","",215.56,212,43565,"gp_mid",-88.81,62.97,"485",213.78,1
+"95236",137157,"col","Heiberg",-88.400002,78.620003,"GSC 26450, Wolf Fiord, Axel Heiberg Island",NA,"",1,"Alaunian","",215.56,212,11541,"gp_mid",-15.22,50.74,"106",213.78,1
+"95281",137217,"col","",173.112793,-41.401649,"GS 7526, Mt. Heslington (N28/f7619)",NA,"",3,"Otamitan","",221.5,212,43881,"gp_mid",86.64,-72.47,"806",216.75,1
+"95282",137218,"col","",173.085007,-41.439999,"GS 395, between Wairoa Gorge and Eighty-eight Valley",NA,"",2,"Otamitan","",221.5,212,43881,"gp_mid",86.5,-72.45,"806",216.75,1
+"95283",137219,"col","",173.121674,-41.407291,"GS 7527, Mt. Heslington (N28/f7620)",NA,"",3,"Otamitan","",221.5,212,43881,"gp_mid",86.62,-72.48,"806",216.75,1
+"95284",137220,"col","",173.089996,-41.445,"GS 140, Wairoa Gorge",NA,"",2,"Otamitan","",221.5,212,43881,"gp_mid",86.49,-72.46,"806",216.75,1
+"95285",137221,"col","",173.132004,-41.395,"GS 442, Wairoa Gorge",NA,"",1,"Otamitan","",221.5,212,43881,"gp_mid",86.67,-72.48,"806",216.75,1
+"95293",137229,"col","",173.121674,-41.407291,"GS 7528, Mt. Heslington (N28/f7621)",NA,"",1,"Otamitan","",221.5,212,43881,"gp_mid",86.62,-72.48,"806",216.75,1
+"95492",137458,"col","",173.12384,-41.406441,"GS 385, Mount Heslington, Nelson (N28/f7491)",NA,"",2,"Otamitan","",221.5,212,43989,"gp_mid",86.63,-72.48,"806",216.75,1
+"95493",137459,"col","",172.996613,-41.48473,"GS 4552, Eighty-eight valley, Nelson (N28/f7515)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.34,-72.39,"806",216.75,1
+"95494",137460,"col","",173.097824,-41.417591,"GS 4603, Mount Heslington, Nelson (N28/f7539a)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.58,-72.46,"806",216.75,1
+"95495",137461,"col","",173.114029,-41.407398,"JDC 801N, Mount Heslington, Nelson (N28/f7580)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.62,-72.47,"806",216.75,1
+"95496",137462,"col","",173.133499,-41.398891,"JDC 1805, Wairoa River, Nelson (N28/f7595)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.65,-72.48,"806",216.75,1
+"95497",137463,"col","",173.132462,-41.401379,"JDC 1798, Wairoa River, Nelson (N28/f7599)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.64,-72.48,"806",216.75,1
+"95498",137464,"col","",173.132462,-41.401379,"JDC 725, Wairoa River, Nelson (N28/f7599)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.64,-72.48,"806",216.75,1
+"95499",137465,"col","",173.132462,-41.401379,"McF D8, Wairoa River, Nelson (N28/f7599)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.64,-72.48,"806",216.75,1
+"95500",137466,"col","",173.11615,-41.4049,"GS 7543, Wairoa River, Nelson (N28/f7617)",NA,"",2,"Otamitan","",221.5,212,43989,"gp_mid",86.63,-72.47,"806",216.75,1
+"95501",137467,"col","",173.116287,-41.41066,"JDC 2566, Wairoa Gorge, Nelson (N28/f7781)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.61,-72.47,"806",216.75,1
+"95502",137468,"col","",173.120636,-41.408951,"JDC 2677, Wairoa Gorge, Nelson (N28/f7846)",NA,"",1,"Otamitan","",221.5,212,43989,"gp_mid",86.62,-72.48,"806",216.75,1
+"95821",137821,"col","Xiaotangzi",104.160004,31.450001,"Hanwang ACG349, Mianzhu County",NA,"",1,"Alaunian","",215.56,212,44075,"gp_mid",114.7,37.15,"611",213.78,1
+"95953",137955,"col","Heiberg",-88.400002,78.620003,"GSC 51643, east of Wolf Fiord, Axel Heiberg Island",NA,"",1,"Alaunian","",215.56,212,11541,"gp_mid",-15.22,50.74,"106",213.78,1
+"96967",139027,"col","Shublik",-148.133331,68.949997,"USGS Mesozoic loc. M6674",NA,"field No. 68ATo18",2,"Norian","",228,208.5,28639,"gp_mid",-40.91,52.65,"103",218.25,1
+"97346",139411,"col","",30.969999,37.505001,"Su/2b, Egridir-Sütçüler road near Sütçüler",NA,"",3,"Lacian","",221.5,215.56,44827,"gp_mid",36.34,8.19,"504",218.53,1
+"98425",140686,"col","Heiberg",-86.300003,80.065002,"GSC 28686, Ellesmere Island",NA,"",1,"Norian","",228,208.5,17934,"gp_mid",-11.56,51.98,"106",218.25,1
+"99879",142422,"col","Heiberg",-85.910004,80.199997,"GSC 28687, Ellesmere Island",NA,"",1,"Norian","",228,208.5,17934,"gp_mid",-11.39,52.09,"106",218.25,1
+"99880",142423,"col","Heiberg",-85.43,79.989998,"GSC 30486, Ellesmere Island",NA,"",2,"Norian","",228,208.5,17934,"gp_mid",-11.37,51.86,"106",218.25,1
+"106621",151092,"col","",148.5,60.349998,"Nizkogornogo Creek, Yana-Okhotsk basin (TsNIGR)",NA,"",3,"Lacian","",221.5,215.56,48244,"gp_mid",-133.02,83.56,"401",218.53,1
+"106624",151095,"col","",148.490005,60.310001,"Vtoraya Sentyabrskaya river (verchojanicum zone, TsGM coll)",NA,"",1,"Lacian","",221.5,215.56,48245,"gp_mid",-133.32,83.54,"401",218.53,1
+"115886",165294,"col","",130.973007,32.444,"M-14, Mizukamigoe",NA,"",2,"Lacian","",221.5,215.56,54074,"gp_mid",142.04,38.24,"610",218.53,1
+"116718",166548,"col","",155.75,65.300003,"Bulun River (Otapiria ussuriensis zone)",NA,"",1,"Alaunian","",215.56,212,54385,"gp_mid",-107.72,72.02,"405",213.78,1
+"116825",166685,"col","",148.5,60.349998,"Nizkogornogo Creek, Yana-Okhotsk basin (IGiG)",NA,"",1,"Lacian","",221.5,215.56,54385,"gp_mid",-133.02,83.56,"401",218.53,1
+"116837",166697,"col","",145.164993,60.450001,"Bozhekchan River, Inya River basin",NA,"",1,"Alaunian","",215.56,212,54385,"gp_mid",-131.77,83.01,"401",213.78,1
+"116839",166699,"col","",154.779999,65.650002,"Aly-Yuryakh River, ussuriensis zone, Korkodon river basin",NA,"",1,"Alaunian","",215.56,212,54385,"gp_mid",-106.01,71.96,"405",213.78,1
+"127105",183672,"col","",31.133333,37.516666,"Bucakdere South, Kasimlar Basin",NA,"Reef 91",2,"Norian","",228,208.5,61357,"gp_mid",36.39,8.56,"504",218.25,1
+"127106",183673,"col","",30.316668,36.700001,"Deliktas locality",NA,"Reef 92",8,"Norian","",228,208.5,61357,"gp_mid",35.54,7.93,"504",218.25,1
+"127120",183687,"col","",31.133333,37.516666,"Karadis Tepe locality",NA,"Reef 4086",4,"Norian","",228,208.5,61357,"gp_mid",36.39,8.56,"504",218.25,1
+"127122",183688,"col","",31.35,37.683334,"Topuk cipits locality",NA,"",0,"Norian","",228,208.5,61357,"gp_mid",36.6,8.67,"504",218.25,1
+"127123",183689,"col","",31.35,37.683334,"Topuk cipits locality",NA,"Reef 4086",1,"Norian","",228,208.5,61357,"gp_mid",36.6,8.67,"504",218.25,1
+"127124",183690,"col","",31.35,37.683334,"Topuk Tepe locality",NA,"Reef 4086",1,"Norian","",228,208.5,61357,"gp_mid",36.6,8.67,"504",218.25,1
+"130497",189406,"col","Cow Branch",-79.668999,36.540901,"Solite Quarry, Cycle 1 (VMNH collection)",NA,"",1,"Norian","",228,208.5,63023,"gp_mid",-12.82,9.85,"109",218.25,1
+"130498",189407,"col","Cow Branch",-79.668999,36.540901,"Solite Quarry, Cycle 13 (VMNH collection)",NA,"",1,"Norian","",228,208.5,63023,"gp_mid",-12.82,9.85,"109",218.25,1
+"132605",194070,"col","Grès supérieurs et Argilites bariolées",4.052634,44.220547,"F1 tracksite, Grand-Combe",NA,"",2,"Norian","",228,208.5,65699,"gp_mid",19.58,24.53,"305",218.25,1
+"132606",194071,"col","Grès supérieurs et Argilites bariolées",4.052634,44.220547,"F2 tracksite, Grand-Combe",NA,"",2,"Norian","",228,208.5,65699,"gp_mid",19.58,24.53,"305",218.25,1
+"134109",197048,"col","Cow Branch",-79.668999,36.540901,"Solite Quarries (VPIGM collection)",NA,"Solite Corporation",1,"Norian","",228,208.5,67124,"gp_mid",-12.82,9.85,"109",218.25,1
+"135996",200974,"col","Huobachong",103.346107,23.671389,"Niaoge, Kaiyuan",NA,"",1,"Norian","",228,208.5,47190,"gp_mid",113.41,23.7,"611",218.25,1
+"137084",202708,"col","",157.300003,64.5,"Korkodon River basin (verchojanicum zone)",NA,"",9,"Lacian","",221.5,215.56,69414,"gp_mid",-111.78,74.44,"405",218.53,1
+"137916",203926,"col","Torlesse",172.846115,-41.876945,"Ridge of St Arnaud Range, above Lake Rotoiti (N29/f24)",NA,"GS12644",3,"Norian","",228,208.5,69890,"gp_mid",85.27,-72.83,"806",218.25,1
+"138074",204256,"col","Zulla",57.404999,23.408001,"Rustaq, Halobia Limestone, central Oman Mountains",NA,"",2,"Lacian","",221.5,215.56,70006,"gp_mid",53.97,-11.05,"503",218.53,1
+"138075",204257,"col","Zulla",59.099998,22.466667,"Wadi Bani Khalid, Halobia Limestone",NA,"",2,"Lacian","",221.5,215.56,70006,"gp_mid",55.39,-12.23,"503",218.53,1
+"139213",205837,"col","Kasimlar",31.333889,37.575279,"Dumanlı I and II",NA,"",2,"Lacian","",221.5,215.56,70601,"gp_mid",36.64,8.18,"504",218.53,1
+"140360",207614,"col","Heiberg",-89.35083,79.256668,"Strand Fjord, Axel Heiberg Island",NA,"",9,"Norian","",228,208.5,71587,"gp_mid",-12.83,51.41,"106",218.25,1

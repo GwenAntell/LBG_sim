@@ -1,0 +1,102 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"842",2145,"col","",-102,27,"BV-Eastern Coahuila(MEX)",NA,"",37,"Hauterivian","",132.9,129.4,65,"gp_mid",-41.88,26.9,"101",131.15,1
+"844",2147,"col","",-101,28,"PO-Eastern Coahuila(MEX)",NA,"",13,"Hauterivian","",132.9,129.4,65,"gp_mid",-40.57,27.56,"101",131.15,1
+"845",2148,"col","",-102,27,"PM1-Eastern Coahuila(MEX)",NA,"",7,"Hauterivian","",132.9,129.4,65,"gp_mid",-41.88,26.9,"101",131.15,1
+"856",2159,"col","Taraises",-102.083336,26.983334,"Loc. 20, Sierra de Parras [Taraises Fm]",NA,"",1,"Hauterivian","",132.9,129.4,65,"gp_mid",-41.96,26.91,"101",131.15,1
+"857",2160,"col","Taraises",-102.083336,26.983334,"Loc. 42, Sierra de Parras [Taraises Fm]",NA,"",1,"Hauterivian","",132.9,129.4,65,"gp_mid",-41.96,26.91,"101",131.15,1
+"858",2161,"col","Carbonera",-102.083336,26.983334,"58-Coahuila",NA,"",6,"Hauterivian","",132.9,129.4,65,"gp_mid",-41.96,26.91,"101",131.15,1
+"881",2199,"col","",6.583333,47.049999,"Hm-Jura",NA,"",64,"Hauterivian","",132.9,129.4,66,"gp_mid",28.98,32.01,"305",131.15,1
+"882",2200,"col","",6.75,47.066666,"Hl-Jura",NA,"",52,"Hauterivian","",132.9,129.4,66,"gp_mid",29.12,32.02,"305",131.15,1
+"883",2201,"col","",7.083333,47.049999,"Hld-Jura",NA,"",67,"Hauterivian","",132.9,129.4,66,"gp_mid",29.39,31.99,"305",131.15,1
+"884",2203,"col","",6.05,46.783333,"Hn-Jura",NA,"",63,"Hauterivian","",132.9,129.4,66,"gp_mid",28.54,31.76,"305",131.15,1
+"885",2205,"col","",6.4,46.700001,"Hva-Jura",NA,"",2,"Hauterivian","",132.9,129.4,66,"gp_mid",28.82,31.67,"305",131.15,1
+"886",2206,"col","",6.05,46.783333,"Hc-Jura",NA,"",50,"Hauterivian","",132.9,129.4,66,"gp_mid",28.54,31.76,"305",131.15,1
+"887",2209,"col","",6.666667,47.066666,"Hv-Jura",NA,"",85,"Hauterivian","",132.9,129.4,66,"gp_mid",29.05,32.02,"305",131.15,1
+"904",2198,"col","",6.516667,46.833332,"Hsc-Jura",NA,"",139,"Hauterivian","",132.9,129.4,66,"gp_mid",28.92,31.8,"305",131.15,1
+"936",2246,"col","Mergel and Knollenmergel zone",6.916667,47.016666,"Valangin31",NA,"",1,"Hauterivian","",132.9,129.4,68,"gp_mid",29.25,31.97,"305",131.15,1
+"937",2248,"col","",6.916667,47.016666,"Valangin32",NA,"",8,"Hauterivian","",132.9,129.4,68,"gp_mid",29.25,31.97,"305",131.15,1
+"939",2253,"col","Mergel and Kalk Zone",7.083333,47.049999,"Landeron4-6",NA,"",6,"Hauterivian","",132.9,129.4,68,"gp_mid",29.39,31.99,"305",131.15,1
+"940",2254,"col","Mergel and Kalk Zone",7.083333,47.049999,"Landeron7",NA,"",1,"Hauterivian","",132.9,129.4,68,"gp_mid",29.39,31.99,"305",131.15,1
+"941",2255,"col","Zone de Pierre jaune",7.083333,47.049999,"Landeron8",NA,"",10,"Hauterivian","",132.9,129.4,68,"gp_mid",29.39,31.99,"305",131.15,1
+"943",2256,"col","Zone de Pierre jaune",7.083333,47.049999,"Landeron9",NA,"",72,"Hauterivian","",132.9,129.4,68,"gp_mid",29.39,31.99,"305",131.15,1
+"944",2258,"col","Zone de Pierre jaune",7.083333,47.049999,"Landeron10",NA,"",14,"Hauterivian","",132.9,129.4,68,"gp_mid",29.39,31.99,"305",131.15,1
+"945",2259,"col","Zone de Pierre jaune",7.083333,47.016666,"Landeron11",NA,"",10,"Hauterivian","",132.9,129.4,68,"gp_mid",29.38,31.96,"305",131.15,1
+"1192",2521,"col","",45,56,"Mena River-6",NA,"",2,"Hauterivian","",132.9,129.4,73,"gp_mid",58,42.23,"302",131.15,1
+"1250",2579,"col","Qishn",48.487221,14.2975,"Jebel Billum I-4",NA,"",3,"Hauterivian","",132.9,129.4,74,"gp_mid",42.03,-21.24,"503",131.15,1
+"1709",3725,"col","",-0.183333,40.5,"Castellfort, Spain",NA,"",5,"Hauterivian","",132.9,129.4,235,"gp_mid",22.07,25.53,"304",131.15,1
+"1710",3726,"col","",-0.183333,40.5,"Castellfort, Spain",NA,"",16,"Hauterivian","",132.9,129.4,236,"gp_mid",22.07,25.53,"304",131.15,1
+"4466",12237,"col","",6.516667,43.849998,"Castellane, La Lagne (Alpes de Hte Provence)",NA,"",2,"Hauterivian","",132.9,129.4,4226,"gp_mid",28.75,28.82,"305",131.15,1
+"30216",47813,"col","Calcaire à Spatangues",-3.9833,47.983299,"Bernon, Aube",NA,"",1,"Hauterivian","",132.9,129.4,12804,"gp_mid",20.62,33.5,"305",131.15,1
+"36401",56053,"col","",6.588889,43.913334,"Unit X (inférieur Hauterivian) - Coupe de Vergons",NA,"",5,"Hauterivian","",132.9,129.4,15116,"gp_mid",28.81,28.88,"305",131.15,1
+"36402",56054,"col","",6.588889,43.913334,"Unit XI (inférieur Hauterivian) - Coupe de Vergons",NA,"",4,"Hauterivian","",132.9,129.4,15116,"gp_mid",28.81,28.88,"305",131.15,1
+"36403",56055,"col","",6.588889,43.913334,"Unit XII (inférieur Hauterivian) - Coupe de Vergons",NA,"",22,"Hauterivian","",132.9,129.4,15116,"gp_mid",28.81,28.88,"305",131.15,1
+"36836",56707,"col","Llacova",0.05,40.466667,"Lower Reef, Cati, Maestrazgo",NA,"Reef 3364",22,"Hauterivian","",132.9,129.4,15289,"gp_mid",22.22,25.41,"304",131.15,1
+"36837",56708,"col","Llacova",0.05,40.466667,"Upper Reef, Cati, Maestrazgo",NA,"Reef 2842",20,"Hauterivian","",132.9,129.4,15289,"gp_mid",22.22,25.41,"304",131.15,1
+"37139",57129,"col","",48.408611,54.158054,"Unit IV - Volga River composite section (Hauterivian)",NA,"",4,"Hauterivian","",132.9,129.4,15436,"gp_mid",61,40.77,"302",131.15,1
+"39003",59091,"col","",-2.03407,42.077209,"La Torre tracksite",NA,"Igea",6,"Hauterivian","",132.9,129.4,16839,"gp_mid",21.76,27.62,"304",131.15,1
+"39797",59971,"col","Los Villares",-0.416667,38.483334,"Bed 94-7, Section Busot III, Los Villares Formation, Busot, Spain",NA,"",1,"Hauterivian","",132.9,129.4,17208,"gp_mid",20.69,23.94,"304",131.15,1
+"39798",59972,"col","Los Villares",-0.416667,38.483334,"Bed 94-13, Section Busot III, Los Villares Formation, Busot, Spain",NA,"",1,"Hauterivian","",132.9,129.4,17208,"gp_mid",20.69,23.94,"304",131.15,1
+"41497",61958,"col","Kongakut",-142.28334,69.102776,"Kongakut Fm - USGS M5817",NA,"",2,"Hauterivian","",132.9,129.4,17925,"gp_mid",-36.82,76.27,"103",131.15,1
+"41641",62245,"col","",48.416668,54.266666,"Hauterivian - Ulyanovsk, Volga Region",NA,"",2,"Hauterivian","",132.9,129.4,17932,"gp_mid",60.98,40.87,"302",131.15,1
+"44884",67189,"col","Gildehausen Sandstone",7.133333,52.283333,"Sieringhoek, Bad Bentheim, Gildehausen Sandstone",NA,"",4,"Hauterivian","",132.9,129.4,19172,"gp_mid",29.73,37.22,"315",131.15,1
+"44885",67190,"col","Gildehausen Sandstone",7.116667,52.299999,"Gildehaus, Bad Bentheim, Gildehausen Sandstone",NA,"",8,"Hauterivian","",132.9,129.4,19172,"gp_mid",29.72,37.24,"315",131.15,1
+"45811",68449,"col","",-2.181485,42.133385,"Valdeté tracksite, Préjano",NA,"",2,"Hauterivian","",132.9,129.4,28579,"gp_mid",21.69,27.73,"304",131.15,1
+"45812",68450,"col","",-2.188789,42.129307,"La Magdalena tracksite, Préjano",NA,"Barranco de Los Lobos",1,"Hauterivian","",132.9,129.4,28579,"gp_mid",21.69,27.73,"304",131.15,1
+"45816",68454,"col","",-2.029031,42.050323,"El Villar tracksite",NA,"Nostra Senora del Villar",1,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.75,27.59,"304",131.15,1
+"50851",76950,"col","",7.116667,52.299999,"Gildehaus, Muehlenberg, Lower Saxony",NA,"",14,"Hauterivian","",132.9,129.4,18721,"gp_mid",29.72,37.24,"315",131.15,1
+"52220",79217,"col","",21.833332,43.583332,"Ozren-Devica area",NA,"",4,"Hauterivian","",132.9,129.4,26579,"gp_mid",37.36,12.51,"308",131.15,1
+"54994",83900,"col","Morven",147.116669,-26.416668,"Victoria Downs, Morven [Morven bed]",NA,"",1,"Hauterivian","",132.9,129.4,28110,"gp_mid",156.43,-74.29,"801",131.15,1
+"55026",83939,"col","Morven",148.78334,-26.583332,"Natal Downs, Roma [Morven bed]",NA,"",1,"Hauterivian","",132.9,129.4,28113,"gp_mid",161.95,-74.2,"801",131.15,1
+"55847",85073,"col","",-2.126555,42.129826,"Muro de Aguas, outcrop A",NA,"",1,"Hauterivian","",132.9,129.4,28579,"gp_mid",21.73,27.7,"304",131.15,1
+"55848",85074,"col","",-2.126555,42.129826,"Muro de Aguas, outcrop B",NA,"Barranco del Chorrón del Saltadero",1,"Hauterivian","",132.9,129.4,28579,"gp_mid",21.73,27.7,"304",131.15,1
+"58945",89272,"col","",-3.286643,42.022221,"Tenadas de Viajete",NA,"",1,"Hauterivian","",132.9,129.4,29949,"gp_mid",20.86,28.1,"304",131.15,1
+"58952",89279,"col","",-3.2682,42.023106,"Peña Uñor I tracksite",NA,"",2,"Hauterivian","",132.9,129.4,29949,"gp_mid",20.87,28.09,"304",131.15,1
+"64232",96475,"col","",-2.025278,42.057777,"La Canada I tracksite ",NA,"Igea",1,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.75,27.6,"304",131.15,1
+"64233",96476,"col","",-2.03,42.062778,"Las Navas tracksite",NA,"",1,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.75,27.6,"304",131.15,1
+"64234",96477,"col","",-2.013056,42.069168,"Hermita de Santa Ana tracksite",NA,"Igea",1,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.77,27.6,"304",131.15,1
+"64235",96478,"col","",-2.050833,42.086945,"Fonsarracin tracksite",NA,"Igea",1,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.76,27.63,"304",131.15,1
+"64236",96479,"col","",-1.97445,42.072178,"Valdebrajos tracksite",NA,"Valdevajes 1, Valdebrajes",4,"Hauterivian","",132.9,129.4,32626,"gp_mid",21.8,27.59,"304",131.15,1
+"64336",96668,"col","",5.983333,47.666668,"Neocomian fauna, Champvans near Gray",NA,"",43,"Hauterivian","",132.9,129.4,32832,"gp_mid",28.54,32.65,"305",131.15,1
+"65051",97672,"col","Yuruma",-71.116669,12.083333,"Punta Espada, La Guajira [Yuruma Fm]",NA,"",9,"Hauterivian","",132.9,129.4,33368,"gp_mid",-28.55,11.21,"203",131.15,1
+"84766",123148,"col","",1.25,33.110001,"Brezina, Saida department (PIN collection 3394)",NA,"",2,"Hauterivian","",132.9,129.4,39413,"gp_mid",17.91,17.71,"714",131.15,1
+"86078",124728,"col","",33.933334,44.650002,"Sbrosovyi Gully  (Section no. 5) K1Hau2 Bed 3 (0.6 m).",NA,"",3,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.2,30.06,"302",131.15,1
+"86079",124729,"col","",33.933334,44.650002,"Sbrosovyi Gully  (Section no. 5) Bed 4 (0.2-0.5 m).",NA,"",1,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.2,30.06,"302",131.15,1
+"86095",124745,"col","",34.049999,44.816666,"Patil ' Mountain (Section no. 14) KjHauj. Bed 3 (7 m)",NA,"",3,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.28,30.24,"302",131.15,1
+"86096",124746,"col","",34.083332,44.833332,"Pervomaiskii Quarry (Section no. 15) Bed 2 (0.9 m)",NA,"",1,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.3,30.26,"302",131.15,1
+"86098",124748,"col","",34.083332,44.833332,"Pervomaiskii Quarry (Section no. 15) Bed 3 (4 m).",NA,"",3,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.3,30.26,"302",131.15,1
+"86099",124749,"col","",34.066666,44.849998,"Village of Trudolyubovka (Section no. 16) K,Hau,. Bed 1 (3 m)",NA,"",2,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.29,30.27,"302",131.15,1
+"86100",124750,"col","",35.916668,44.849998,"AI'ma River (Section no. 17) Bed 2 (ca. 4 m)",NA,"",3,"Hauterivian","",132.9,129.4,40328,"gp_mid",52.8,30.4,"302",131.15,1
+"86101",124751,"col","",34.283333,44.983334,"Ivanovka (Section no. 18) Bed 2 (5 m)",NA,"",2,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.45,30.42,"302",131.15,1
+"86206",124869,"col","",34.333332,45.033333,"Zuiskii Quarry-Kunich Mountain(Section no. 24) K|Hau,. Bed 3 (ca. 60 m",NA,"",4,"Hauterivian","",132.9,129.4,40328,"gp_mid",51.49,30.47,"302",131.15,1
+"96739",138793,"col","",6.93,47,"Area around Neuchâtel",NA,"Neuenburg",2,"Hauterivian","",132.9,129.4,44471,"gp_mid",29.26,31.95,"305",131.15,1
+"96844",138903,"col","Lapos",25.9,46.950001,"Bicaz Gorges, SU III Member, succession III",NA,"",1,"Hauterivian","",132.9,129.4,44447,"gp_mid",41.25,10.28,"308",131.15,1
+"98185",140350,"col","Helez",34.69611,31.561943,"Hellez 3 Well, Core 15",NA,"",6,"Hauterivian","",132.9,129.4,45354,"gp_mid",40.64,1.08,"508",131.15,1
+"107943",153102,"col","",7.05,47.049999,"Quarry on the Landeron-Combes road (Bed 24 10.7m)",NA,"",1,"Hauterivian","",132.9,129.4,49334,"gp_mid",29.36,31.99,"305",131.15,1
+"107944",153103,"col","",7.056,47.058998,"Quarry on the Landeron-Combes road, N of Les Chipres (Bed 31 1.5m)",NA,"",1,"Hauterivian","",132.9,129.4,49334,"gp_mid",29.36,32,"305",131.15,1
+"107946",153105,"col","",6.78,46.959999,"Bed of the Areuse E of Champ du Moulin",NA,"",2,"Hauterivian","",132.9,129.4,49334,"gp_mid",29.14,31.91,"305",131.15,1
+"108399",153721,"col","",6.14,46.09,"Mont Salève",NA,"",1,"Hauterivian","",132.9,129.4,49791,"gp_mid",28.57,31.07,"305",131.15,1
+"108409",153731,"col","",8.62,46.950001,"Sisikon, Vierwaldstattersee",NA,"",1,"Hauterivian","",132.9,129.4,49791,"gp_mid",30.61,31.85,"305",131.15,1
+"116125",165606,"col","",33.98,44.700001,"Resanaya Mountain, Kacha river basin",NA,"",1,"Hauterivian","",132.9,129.4,54147,"gp_mid",51.23,30.12,"302",131.15,1
+"116127",165608,"col","",33.98,44.700001,"Fotisala, Crimea",NA,"",1,"Hauterivian","",132.9,129.4,54147,"gp_mid",51.23,30.12,"302",131.15,1
+"116128",165609,"col","",33.98,44.700001,"Verkhorechye, Crimea",NA,"",2,"Hauterivian","",132.9,129.4,54147,"gp_mid",51.23,30.12,"302",131.15,1
+"116187",165678,"col","",38.040001,44.73,"Adegot River, Caucasus",NA,"",1,"Hauterivian","",132.9,129.4,54147,"gp_mid",54.55,30.45,"302",131.15,1
+"116192",165683,"col","",43.560001,43.459999,"Nalchik, Caucasus (Hauterivian)",NA,"",1,"Hauterivian","",132.9,129.4,54147,"gp_mid",59.28,29.7,"302",131.15,1
+"116193",165684,"col","",34,44.740002,"Sel-Bukhra Mountain",NA,"",2,"Hauterivian","",132.9,129.4,54147,"gp_mid",51.25,30.16,"302",131.15,1
+"116280",165814,"col","",34.007,44.743999,"Kacha River (Hauterivian)",NA,"",1,"Hauterivian","",132.9,129.4,54147,"gp_mid",51.25,30.16,"302",131.15,1
+"116613",166231,"col","",-2.519174,42.19696,"Valdemayor tracksite",NA,"Cabezón de Cameros",1,"Hauterivian","",132.9,129.4,54314,"gp_mid",21.5,27.92,"304",131.15,1
+"119337",170641,"col","",-3.2682,42.023106,"Peña Uñor II tracksite",NA,"",1,"Hauterivian","",132.9,129.4,55588,"gp_mid",20.87,28.09,"304",131.15,1
+"119342",170646,"col","",-2.025278,42.057777,"La Canada II tracksite ",NA,"Igea",1,"Hauterivian","",132.9,129.4,55588,"gp_mid",21.75,27.6,"304",131.15,1
+"119343",170647,"col","",-2.025278,42.057777,"La Canada III tracksite ",NA,"Igea",1,"Hauterivian","",132.9,129.4,55588,"gp_mid",21.75,27.6,"304",131.15,1
+"120487",172585,"col","",48.411945,54.579166,"Gorodische",NA,"Gorodishche, type of Ichthyosaurus steleodon",1,"Hauterivian","",132.9,129.4,56058,"gp_mid",60.9,41.18,"302",131.15,1
+"122338",176253,"col","",9.708611,51.926388,"Spechtsbrink im Hils",NA,"Ichthyosaurus polyptychodon locality",1,"Hauterivian","",132.9,129.4,31955,"gp_mid",31.69,36.8,"315",131.15,1
+"123373",177873,"col","",48.383331,54.433334,"UKM no. 201. small town of Slantsevyi Rudnik",NA,"",3,"Hauterivian","",132.9,129.4,58838,"gp_mid",60.92,41.03,"302",131.15,1
+"123374",177874,"col","",48.408333,54.474998,"Loc. 432, 4 km southeast of the village of Novaya Beden’ga",NA,"CS K1h2v-2",5,"Hauterivian","",132.9,129.4,58838,"gp_mid",60.92,41.08,"302",131.15,1
+"123375",177875,"col","",48.366669,54.400002,"UPM, no. 168/1-3. Polivna",NA,"P K1h2d",2,"Hauterivian","",132.9,129.4,58838,"gp_mid",60.91,41,"302",131.15,1
+"123376",177876,"col","",48.366669,54.375,"UPM, no. 168/1-3. Polivna",NA,"P K1h2d",6,"Hauterivian","",132.9,129.4,58838,"gp_mid",60.92,40.97,"302",131.15,1
+"130176",188797,"col","",6.59,46.77,"Villers-le-Lac",NA,"",1,"Hauterivian","",132.9,129.4,63385,"gp_mid",28.97,31.73,"305",131.15,1
+"138745",205203,"col","",35.200558,44.968887,"Planerskoje",NA,"",2,"Hauterivian","",132.9,129.4,70412,"gp_mid",52.2,30.47,"302",131.15,1
+"141835",209709,"col","Stadthagen",9.875,52.235001,"Moorberg claypit, Sarstedt",NA,"Lagenanectes-type locality",1,"Hauterivian","",132.9,129.4,72335,"gp_mid",31.83,37.1,"315",131.15,1
+"143019",211484,"col","",7.06,51.439999,"Essen-on-the-Ruhr (BMNH collection)",NA,"",1,"Hauterivian","",132.9,129.4,73084,"gp_mid",29.62,36.38,"315",131.15,1
+"143910",212807,"col","Rurikfjellet",15.048611,77.622223,"Van Keulenfjorden, Hauterivian",NA,"",5,"Hauterivian","",132.9,129.4,73480,"gp_mid",36.04,62.43,"309",131.15,1
+"144010",212948,"col","",16.561943,78.287781,"Sassenfjorden, Mountain side",NA,"",1,"Hauterivian","",132.9,129.4,73524,"gp_mid",36.73,63.09,"309",131.15,1
+"144040",212978,"col","Rurikfjellet",13.934722,78.098892,"Festningen, Cliff exposure",NA,"",1,"Hauterivian","",132.9,129.4,73524,"gp_mid",35.54,62.91,"309",131.15,1

@@ -1,0 +1,817 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"1630",3568,"col","Crystal River Limestone",-83.581947,30.117222,"FDi-1 (Crystal River)",NA,"",4,"Priabonian","",38,33.9,124,"gp_mid",-68.58,33.09,"109",35.95,1
+"1631",3569,"col","Crystal River Limestone",-85.226944,30.774166,"FJa-1 (Crystal River)",NA,"",14,"Priabonian","",38,33.9,124,"gp_mid",-70.11,33.99,"109",35.95,1
+"1632",3570,"col","Crystal River Limestone",-83.175003,30.052778,"FLa-1 (Crystal River)",NA,"",18,"Priabonian","",38,33.9,124,"gp_mid",-68.18,32.96,"109",35.95,1
+"1633",3571,"col","Crystal River Limestone",-83.175003,30.052778,"FLa-2 (Crystal River)",NA,"",6,"Priabonian","",38,33.9,124,"gp_mid",-68.18,32.96,"109",35.95,1
+"1634",3572,"col","Crystal River Limestone",-82.446945,29.387222,"FLe-1 (Crystal River)",NA,"",5,"Priabonian","",38,33.9,124,"gp_mid",-67.58,32.2,"109",35.95,1
+"1635",3573,"col","Crystal River Limestone",-82.168053,29.253332,"FMa-1 (Crystal River)",NA,"",6,"Priabonian","",38,33.9,124,"gp_mid",-67.33,32.02,"109",35.95,1
+"1636",3574,"col","Crystal River Limestone",-83.387779,29.670834,"FTa-1 (Crystal River)",NA,"",2,"Priabonian","",38,33.9,124,"gp_mid",-68.48,32.62,"109",35.95,1
+"1637",3575,"col","Crystal River Limestone",-83.387779,29.670834,"FTa-2 (Crystal River)",NA,"",5,"Priabonian","",38,33.9,124,"gp_mid",-68.48,32.62,"109",35.95,1
+"1638",3576,"col","Crystal River Limestone",-83.387779,29.670834,"FTa-3 (Crystal River)",NA,"",4,"Priabonian","",38,33.9,124,"gp_mid",-68.48,32.62,"109",35.95,1
+"1692",3715,"col","Neerrepen Sands",5.47,50.779999,"Francart Quarry",NA,"",14,"Priabonian","",38,33.9,230,"gp_mid",10.25,44.64,"315",35.95,1
+"2410",4886,"col","Island Sandstone",171.350006,-42.033333,"Te Miko (Unit 2)",NA,"Decapod Bed; K30/f8723; K30/f37; K30/f37A; K30/f8510; K30/f9735",21,"Kaiatan","",37.2,36,301,"gp_mid",-170.01,-49.5,"806",36.6,1
+"2411",4887,"col","Island Sandstone",171.350006,-42.033333,"Te Miko (Unit 4)",NA,"",9,"Kaiatan","",37.2,36,301,"gp_mid",-170.01,-49.5,"806",36.6,1
+"3227",7295,"col","",34.983334,48.450001,"Dnieper River, Ukraine",NA,"",4,"Priabonian","",38,33.9,468,"gp_mid",36.36,41.88,"302",35.95,1
+"3234",7318,"col","Williston Limestone",-82.867226,29.775,"FG-1 - Bell [Williston Limestone]",NA,"",17,"Priabonian","",38,33.9,471,"gp_mid",-67.93,32.64,"109",35.95,1
+"3235",7319,"col","Williston Limestone",-82.749443,29.291668,"Fl3-10 - Otter Creek [Williston Limestone]",NA,"",8,"Priabonian","",38,33.9,471,"gp_mid",-67.91,32.15,"109",35.95,1
+"3695",9074,"col","Bembridge Limestone",-1.55,50.666668,"Headon Hill, Bembridge Limestone (marl 15), Isle of Wight",NA,"",15,"Late Eocene","",37.2,33.9,791,"gp_mid",3.99,44.85,"315",35.55,1
+"3696",9070,"col","Bembridge Marls",-1.0856,50.6772,"Howgate Bay, Bembridge Marls, Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,791,"gp_mid",4.41,44.84,"315",35.55,1
+"3697",9071,"col","Bembridge Limestone",-1.55,50.666668,"Headon Hill, Organic 14, Bembridge Limestone",NA,"",16,"Late Eocene","",37.2,33.9,11154,"gp_mid",3.99,44.85,"315",35.55,1
+"3698",9069,"col","Bembridge Marls",-1.3636,50.737499,"Thorness Bay, Bembridge Marls, Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,791,"gp_mid",4.17,44.91,"315",35.55,1
+"3930",10703,"col","",12.883333,47.166668,"Eisenrichterstein, Germany",NA,"Reef 1729",141,"Priabonian","",38,33.9,3977,"gp_mid",18.72,38.32,"307",35.95,1
+"3947",10963,"col","",12.15,47.783333,"Kirchberg, Neubeuern, Germany",NA,"Reef 1730",47,"Priabonian","",38,33.9,3977,"gp_mid",15.98,41.42,"305",35.95,1
+"4902",13073,"col","Possagno Marl",11.866667,45.849998,"Possagno",NA,"",1,"Late Eocene","",37.2,33.9,10901,"gp_mid",17.36,37.29,"307",35.55,1
+"5112",13354,"col","Nago Limestone",10.884722,45.886112,"Nago, Italy",NA,"Reef 2319",44,"Priabonian","",38,33.9,5994,"gp_mid",16.55,37.54,"307",35.95,1
+"5214",13491,"col","Iwaki",140.830002,37,"Iwasaki Colliery, Joban Coal Field",NA,"",1,"Priabonian","",38,33.9,6107,"gp_mid",136.71,42.46,"610",35.95,1
+"11642",21976,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (A'Court Smith collection)",NA,"ETE Locality 797",115,"Priabonian","",38,33.9,5087,"gp_mid",4.17,44.91,"315",35.95,1
+"14024",27508,"col","Twiggs",-83.633331,32.700001,"J. M. Huber Corporation Kaolin (Clay) Pit, Twiggs Clay",NA,"",10,"Priabonian","",38,33.9,7576,"gp_mid",-68.06,35.64,"109",35.95,1
+"14123",27641,"col","Crystal River",-82.599998,29.65,"Ocala Limerock Corporation Quarry",NA,"",1,"Late Eocene","",37.2,33.9,7608,"gp_mid",-67.68,32.48,"109",35.55,1
+"14145",27663,"col","Headon Beds",-1.6,50.75,"Hordle Cliff Leaf Bed, Hampshire",NA,"",91,"Priabonian","",38,33.9,10789,"gp_mid",3.96,44.94,"315",35.95,1
+"14146",27664,"col","Lower Headon",-1.533333,50.666668,"Lower Headon of Colwell Bay",NA,"",5,"Priabonian","",38,33.9,7610,"gp_mid",4.01,44.85,"315",35.95,1
+"14726",28747,"col","Headon Hill",-1.592778,50.724998,"Hordle Cliff Mammal Beds",NA,"Hordwell",38,"MP 17A","MP 17B",37.2,33.9,10566,"gp_mid",3.96,44.91,"315",35.55,1
+"15108",31309,"col","",-5.65,40.966667,"Teso de las Canteras",NA,"Aldearrubia",2,"Priabonian","",38,33.9,8458,"gp_mid",-0.36,35.8,"304",35.95,1
+"17363",31586,"col","",-0.166667,44.400002,"Falaise de Baby",NA,"",7,"Priabonian","",38,33.9,8517,"gp_mid",4.6,38.53,"305",35.95,1
+"17384",31607,"col","",-1.316667,50.666668,"Bembridge Limestone",NA,"Bembridge",5,"Priabonian","",38,33.9,8517,"gp_mid",4.2,44.84,"315",35.95,1
+"17385",31608,"col","",-1.316667,50.666668,"Osborne Beds",NA,"",3,"Priabonian","",38,33.9,8517,"gp_mid",4.2,44.84,"315",35.95,1
+"17500",31724,"col","",4.216667,44.066666,"Euzet",NA,"Euzet-les-bains",14,"Priabonian","",38,33.9,12522,"gp_mid",8.57,38,"305",35.95,1
+"17521",31743,"col","",7.283333,46.75,"Mormont Entreroches",NA,"Mauremont",19,"Priabonian","",38,33.9,8517,"gp_mid",11.54,40.55,"305",35.95,1
+"17525",31747,"col","",5.383333,43.900002,"La Debruge",NA,"Apt, Gargas, Saint-Saturnin-d'Apt, Sainte Radegonde; La Débruge",53,"Priabonian","",38,33.9,28567,"gp_mid",9.62,37.78,"305",35.95,1
+"17534",31756,"col","",4.166667,43.883331,"Fons 1",NA,"Fons",20,"Priabonian","",38,33.9,13339,"gp_mid",8.51,37.81,"305",35.95,1
+"17535",31757,"col","",4.166667,43.883331,"Fons 2",NA,"",7,"Priabonian","",38,33.9,13339,"gp_mid",8.51,37.81,"305",35.95,1
+"17536",31758,"col","",4.166667,43.883331,"Fons 4",NA,"",17,"Priabonian","",38,33.9,12522,"gp_mid",8.51,37.81,"305",35.95,1
+"17538",31759,"col","",4.166667,43.883331,"Fons 5",NA,"",10,"Priabonian","",38,33.9,13339,"gp_mid",8.51,37.81,"305",35.95,1
+"17539",31760,"col","",4.166667,43.883331,"Fons 6",NA,"",23,"Priabonian","",38,33.9,13339,"gp_mid",8.51,37.81,"305",35.95,1
+"17540",31761,"col","",4.166667,43.883331,"Fons 7",NA,"",7,"Priabonian","",38,33.9,13339,"gp_mid",8.51,37.81,"305",35.95,1
+"18517",32917,"col","Ocala",-83.175003,30.052778,"Williston Shellrock Mine",NA,"",1,"Priabonian","",38,33.9,8825,"gp_mid",-68.18,32.96,"109",35.95,1
+"18518",32918,"col","Ocala",-82.573608,29.690277,"Haile Quarry",NA,"",1,"Priabonian","",38,33.9,8825,"gp_mid",-67.65,32.51,"109",35.95,1
+"18519",32919,"col","Ocala",-82.392624,29.595415,"Gainesville Quarry",NA,"Arredondo",2,"Priabonian","",38,33.9,8825,"gp_mid",-67.49,32.39,"109",35.95,1
+"18520",32920,"col","Ocala",-82.499168,29.901943,"Sam Wall Quarry",NA,"",2,"Priabonian","",38,33.9,8825,"gp_mid",-67.53,32.71,"109",35.95,1
+"18587",32992,"col","",10.0667,44.283298,"Varano",NA,"",1,"Priabonian","",38,33.9,8840,"gp_mid",15.24,36.2,"307",35.95,1
+"18589",32994,"col","",10.5333,52.266701,"Braunschweig",NA,"",1,"Priabonian","",38,33.9,6036,"gp_mid",14.84,45.95,"315",35.95,1
+"20219",34994,"col","Williston Limestone",-82.446945,29.387222,"Unspecified localities [Williston Limestone]",NA,"",1,"Priabonian","",38,33.9,9411,"gp_mid",-67.58,32.2,"109",35.95,1
+"21422",36688,"col","",3.2,46.099998,"Menat, west of Gannat",NA,"Sioule valley, Noir d'Auvergne",4,"Late Eocene","",37.2,33.9,9829,"gp_mid",7.81,40.07,"305",35.55,1
+"21693",37025,"col","Dongjun",107.339996,23.51,"Dongjun formation, Baibi, Tiandong county, Guangxizhuangzu zizhiqu",NA,"",1,"Late Eocene","",37.2,33.9,9915,"gp_mid",108.96,21,"611",35.55,1
+"21748",202045,"col","Ocala",-83.997688,32.724308,"Knoxville",NA,"",1,"Priabonian","",38,33.9,61712,"gp_mid",-68.43,35.72,"109",35.95,1
+"22917",38817,"col","",-2.866667,42.666668,"Zambrana",NA,"",26,"MP 18","",37.2,33.9,10455,"gp_mid",2.3,37.42,"304",35.55,1
+"22947",38858,"col","",-1.533333,50.666668,"Lacey's Farm Quarry (lower), Isle of Wight",NA,"Greens Quarry\r\nUB 7105",2,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.01,44.85,"315",35.55,1
+"22948",38859,"col","",-1.533333,50.666668,"Lacey's Farm Quarry (upper), Isle of Wight",NA,"Greens Quarry\r\nUB 6911",8,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.01,44.85,"315",35.55,1
+"22949",38860,"col","",-1.55,50.662498,"Headon Hill UB 7103, Osborne Beds, Isle of Wight",40853,"",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",3.99,44.85,"315",35.55,1
+"22950",38861,"col","",-1.55,50.662498,"Headon Hill HH5, Osborne Beds, Isle of Wight",39675,"UB 7106",2,"Late Eocene","",37.2,33.9,10480,"gp_mid",3.99,44.85,"315",35.55,1
+"22951",38862,"col","Headon Hill",-1.216667,50.716667,"Fishbourne, Isle of Wight",NA,"UB 6909",13,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.3,44.89,"315",35.55,1
+"22952",38863,"col","",-1.083333,50.666668,"Whitecliff Bay Osborne Beds(lowest), Isle of Wight",40538,"UB 7066",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,1
+"22953",38864,"col","",-1.083333,50.666668,"Whitecliff Bay Osborne Beds(middle), Isle of Wight",40538,"UB 7101",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,1
+"22954",38865,"col","",-1.083333,50.666668,"Whitecliff Bay Osborne Beds(upper), Isle of Wight",40538,"UB 7102",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,1
+"23045",38953,"col","London Clay",1.272,51.846001,"Walton-on-the-Naze, London Clay, Unit 11",22801,"section TM 267243",1,"Late Eocene","",37.2,33.9,10537,"gp_mid",6.63,45.89,"315",35.55,1
+"23174",39233,"col","Lower Headon Beds",-1.55,50.629166,"Headon Hill HH1, Lower Headon Beds, Isle of Wight",40887,"",7,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,1
+"23176",39236,"col","Lower Headon Beds",-1.55,50.629166,"Headon Hill HH2, Lower Headon Beds, Isle of Wight",39677,"",27,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,1
+"23177",39249,"col","Upper Headon Beds",-1.55,50.629166,"Headon Hill HH3, Upper Headon Beds, Isle of Wight",39676,"",17,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,1
+"23178",39250,"col","Upper Headon Beds",-1.55,50.629166,"Headon Hill HH4, Upper Headon Beds, Isle of Wight",39676,"",13,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,1
+"23180",39263,"col","Bembridge Limestone",-1.533333,50.666668,"Headon Hill HH6, Bembridge Limestone, Isle of Wight",40814,"",4,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.01,44.85,"315",35.55,1
+"23181",39264,"col","Bembridge Limestone",-1.533333,50.666668,"Headon Hill HH7, Bembridge Limestone, Isle of Wight",40814,"",12,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.01,44.85,"315",35.55,1
+"23184",39292,"col","Lower Headon Beds",-1.097222,50.673611,"Whitecliff Bay WB1, Isle of Wight",39704,"",5,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.4,44.84,"315",35.55,1
+"23186",39297,"col","Bembridge Marls",-1.091667,50.676388,"Whitecliff Bay WB2A, Bembridge Marls, Isle of Wight",39704,"",5,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.4,44.84,"315",35.55,1
+"23187",39298,"col","Bembridge Marls",-1.091667,50.676388,"Whitecliff Bay WB2B, Bembridge Marls, Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.4,44.84,"315",35.55,1
+"23188",39299,"col","Lower Headon Beds",-1.533333,50.666668,"Totland Bay, Lower Headon Beds, Isle of Wight",NA,"",21,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.01,44.85,"315",35.55,1
+"23189",39300,"col","Lower Hamstead Beds",-1.5,50.700001,"Bouldnor Cliff, Lower Hamstead Beds, Isle of Wight",NA,"",17,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.04,44.88,"315",35.55,1
+"23508",39643,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Crocodile Bed, Hampshire",NA,"Hordwell",78,"Priabonian","",38,33.9,10566,"gp_mid",3.96,44.91,"315",35.95,1
+"23526",39662,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Rodent Bed, Hampshire",NA,"Hordwell",91,"Late Eocene","",37.2,33.9,10566,"gp_mid",3.96,44.91,"315",35.55,1
+"23527",39664,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Green Clay (below the Unio Bed), Hampshire",NA,"Hordwell",13,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23528",39665,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Rolled-Bone Bed, Hampshire",NA,"Hordwell",9,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23529",39666,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff white sand (above the Leaf Bed), Hampshire",NA,"Hordwell",1,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.96,44.91,"315",35.55,1
+"23530",39667,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff shell bed (within Mammal Bed), Hampshire",28747,"Hordwell",10,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23537",39674,"col","Osborne Beds",-1.566667,50.666668,"Alum Bay, Osborne Beds (Beds 72-75), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23538",39675,"col","Headon Hill",-1.566667,50.666668,"Alum Bay, Headon Beds (Beds 62-71), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23539",39676,"col","Headon Hill",-1.566667,50.666668,"Alum Bay, Headon Beds (Beds 53-61), Isle of Wight",NA,"",13,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23540",39677,"col","Headon Hill",-1.566667,50.666668,"Alum Bay, Headon Beds (Beds 42-45), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23557",39694,"col","Headon Hill",-1.566667,50.666668,"Alum Bay, Headon Beds (Beds 37-40), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23558",39695,"col","Barton Beds",-1.566667,50.666668,"Alum Bay, Middle Barton Beds, Isle of Wight",NA,"""London Clay"" (Bed 29)",38,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,1
+"23559",39696,"col","Barton Beds",-1.566667,50.666668,"Alum Bay, Middle Barton Beds, Isle of Wight",NA,"""London Clay"" (Beds 4-6)",31,"Late Eocene","",37.2,33.9,10907,"gp_mid",3.98,44.85,"315",35.55,1
+"23567",39704,"col","Bembridge Marls",-1.083333,50.666668,"Whitecliff Bay, Bembridge Marl (Bed 37) Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"23568",39705,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Marl (Bed 36) Isle of Wight",NA,"",8,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"23685",39828,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Unio Bed, Hampshire",NA,"Hordwell",5,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23694",39838,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff Chara Bed, Hampshire",NA,"Hordwell",12,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23696",39840,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff blue and green clay (below the Chara Bed), Hampshire",NA,"Hordwell",3,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23697",39841,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff limestone unit (below the ironstone bed), Hampshire",NA,"",2,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23705",39853,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff ironstone bed, Hampshire",NA,"Hordwell",2,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,1
+"23805",40029,"col","Upper Headon Beds",-1.55,50.629166,"Headon Hill, Upper Headon Beds (Microchoerus Bed), Isle of Wight",NA,"",11,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.99,44.82,"315",35.55,1
+"23806",40028,"col","Lower Headon Beds",-1.566667,50.666668,"Headon Hill, Lower Headon Beds (marl bed), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10823,"gp_mid",3.98,44.85,"315",35.55,1
+"23807",40030,"col","Upper Headon Beds",-1.55,50.629166,"Headon Hill Lignite Bed, Isle of Wight",39676,"",21,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.99,44.82,"315",35.55,1
+"23816",40042,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Beds 32-34), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"23834",40096,"col","Bembridge Limestone",-1.1,50.683334,"Brading Harbour, Bembridge Limestone (bed 1), Isle of Wight",NA,"Bembridge Harbour",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,1
+"23835",40097,"col","Bembridge Limestone",-1.1,50.683334,"Brading Harbour, Bembridge Limestone (bed 2), Isle of Wight",NA,"Bembridge Harbour",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,1
+"23837",40099,"col","Bembridge Limestone",-1.1,50.683334,"Brading Harbour, Bembridge Limestone (bed 3), Isle of Wight",NA,"Bembridge Harbour",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,1
+"23839",40101,"col","Bembridge Limestone",-1.1,50.683334,"Brading Harbour, Bembridge Limestone (bed 4), Isle of Wight",NA,"Bembridge Harbour",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,1
+"23840",40102,"col","Bembridge Limestone",-1.1,50.683334,"Brading Harbour, Bembridge Limestone (bed 5), Isle of Wight",NA,"Bembridge Harbour",9,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,1
+"23843",40105,"col","Hempstead",-1.45,50.708332,"Hempstead Cliff, Hempstead Series (bed 1), Isle of Wight",NA,"",8,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"23974",40267,"col","Hempstead",-1.45,50.724998,"Hempstead Cliff, Hempstead Series (bed 2), Isle of Wight",NA,"",18,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.91,"315",35.55,1
+"23975",40268,"col","Hempstead",-1.45,50.708332,"Hempstead Cliff, Hempstead Series (bed 4), Isle of Wight",NA,"",18,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"23976",40269,"col","Hempstead",-1.45,50.708332,"Hempstead Cliff, Hempstead Series (Black Band), Isle of Wight",NA,"",10,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"23977",40270,"col","Hempstead",-1.45,50.708332,"Hempstead Cliff, Hempstead Series (bed 3), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"23978",40271,"col","Hempstead",-1.45,50.708332,"Hempstead Cliff, Hempstead Series (White Band), Isle of Wight",NA,"",9,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"23989",40292,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 2), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23990",40293,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 3), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23991",40294,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 4), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23992",40295,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 6), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23993",40296,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 7), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23994",40297,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 8), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23995",40298,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 9), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23996",40299,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 10), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"23997",40300,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 11), Isle of Wight",NA,"",11,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"24037",40357,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 12), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"24039",40359,"col","Osborne Beds",-1.1,50.708332,"Seafield, Osborne Series (bed 14), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,1
+"24040",40377,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed a), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24041",40378,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed b), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24042",40379,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed c), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24043",40380,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed d), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24044",40381,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed e), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24045",40382,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed f), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24046",40383,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed g), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24047",40384,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed h), Isle of Wight",NA,"This bed is a green clay with plentiful shells. The Bembridge Marls at this locality are concretionary marls and clays.",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24048",40385,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed i), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24049",40386,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed j), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24050",40387,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed k), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24051",40388,"col","Bembridge Marls",-1.333333,50.75,"Thorness Point, Bembridge Marl (bed m), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,1
+"24065",40412,"col","Osborne Beds",-1.068333,50.666668,"Whitecliff Bay, Osborne Beds (limestone bed), Isle of Wight",40538,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.42,44.83,"315",35.55,1
+"24069",40420,"col","Osborne Beds",-1.508333,50.702778,"Cliffend, Osborne Beds (bed 1), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,1
+"24070",40421,"col","Osborne Beds",-1.508333,50.702778,"Cliffend, Osborne Beds (bed 2), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,1
+"24071",40423,"col","Osborne Beds",-1.508333,50.669445,"Cliffend, Osborne Beds (bed 3), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.03,44.85,"315",35.55,1
+"24074",40428,"col","Osborne Beds",-1.508333,50.702778,"Cliffend, Osborne Beds (bed 4), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,1
+"24078",40441,"col","os",-1.508333,50.702778,"Cliffend, Osborne Beds (bed 5), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,1
+"24121",40537,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Bed 3), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24128",40536,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Bed 4), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24129",40538,"col","Osborne Beds",-1.083333,50.666668,"Whitecliff Bay, Osborne Beds (Bed 31), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24300",40769,"col","Headon Beds",-1.083333,50.666668,"Whitecliff Bay, Upper Headon Beds (Beds 28-29) Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24301",40770,"col","Headon Beds",-1.083333,50.666668,"Whitecliff Bay, Middle Headon Beds (Bed 26), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24302",40771,"col","Headon Beds",-1.083333,50.666668,"Whitecliff Bay, Middle Headon Beds (Bed 24), Isle of Wight",NA,"",12,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24303",40772,"col","Headon Beds",-1.083333,50.666668,"Whitecliff Bay, Lower Headon Beds (Bed 21), Isle of Wight",NA,"",17,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,1
+"24304",40774,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Bed 17) Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10907,"gp_mid",4.41,44.83,"315",35.55,1
+"24307",40777,"col","Barton Beds",-1.566667,50.666668,"Alum Bay, Lower Barton Beds, Isle of Wight",NA,"""London Clay"" (lowest bed)",6,"Late Eocene","",37.2,33.9,10907,"gp_mid",3.98,44.85,"315",35.55,1
+"24337",40814,"col","Bembridge Limestone",-1.533333,50.666668,"Headon Hill, Bembridge Limestone, Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.01,44.85,"315",35.55,1
+"24368",40845,"col","Osborne Beds",-1.55,50.662498,"Headon Hill, Osborne Beds (Bed 1), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,1
+"24374",40851,"col","Osborne Beds",-1.55,50.662498,"Headon Hill, Osborne Beds (Bed 2), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,1
+"24375",40852,"col","Osborne Beds",-1.55,50.662498,"Headon Hill, Osborne Beds (Bed 4), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,1
+"24376",40853,"col","Osborne Beds",-1.55,50.662498,"Headon Hill, Osborne Beds (Bed 7), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,1
+"24382",40859,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 1), Isle of Wight",40042,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24383",40860,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 2), Isle of Wight",40042,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24384",40861,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 3), Isle of Wight",40042,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24385",40862,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 4), Isle of Wight",40042,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24404",40880,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 5), Isle of Wight",40042,"",8,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24405",40881,"col","Bembridge Limestone",-1.083333,50.666668,"Whitecliff Bay, Bembridge Limestone (Bed 6), Isle of Wight",40042,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,1
+"24411",40887,"col","Headon Beds",-1.55,50.629166,"Headon Hill, Lower Headon Beds, Isle of Wight",39677,"",14,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,1
+"24414",40890,"col","Headon Beds",-1.55,50.629166,"Headon Hill, Middle Headon Beds, Isle of Wight",NA,"",14,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,1
+"24417",40893,"col","Headon Beds",-1.55,50.629166,"Headon Hill, Upper Headon Beds, Isle of Wight",39676,"",21,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,1
+"24425",40900,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 1), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24426",40901,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 2), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24427",40902,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 3), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24428",40903,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 4), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24429",40904,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 6), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24431",40905,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 8), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24432",40906,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 9), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24433",40907,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 10), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24434",40908,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 12), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24435",40909,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 13), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24436",40910,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 14), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24437",40911,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 15), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24438",40912,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 16), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24439",40913,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 17)",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24440",40914,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 18), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24441",40915,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 19), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24442",40916,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 20), Isle of Wight",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24443",40917,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 21), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24444",40918,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 22), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24445",40919,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 23), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24446",40920,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 24), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24447",40921,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 26), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24448",40922,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 28), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24449",40923,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 29), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24450",40924,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 30), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24451",40925,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 32), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24452",40926,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 34), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24453",40927,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 35), Isle of Wight",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24454",40928,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 37), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24455",40929,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 39), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24456",40930,"col","Bembridge Marls",-1.45,50.708332,"Hempstead Cliff, Bembridge Marls (bed 40), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,1
+"24791",41453,"col","Inglis Limestone",-82.703331,29.225279,"FGS L-93 - Gulf Hammock [Inglis Limestone]",NA,"",46,"Priabonian","",38,33.9,11115,"gp_mid",-67.88,32.08,"109",35.95,1
+"24810",41476,"col","Inglis Limestone",-82.701111,29.239721,"FGS VL-187 - Gulf Hammock [Inglis Limestone]",NA,"",3,"Priabonian","",38,33.9,11115,"gp_mid",-67.87,32.09,"109",35.95,1
+"24832",41499,"col","Lower Headon Beds",-1.526389,50.691666,"Colwell Bay 1, Lower Headon Beds, Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.02,44.88,"315",35.55,1
+"24833",41500,"col","Lower Headon Beds",-1.526389,50.691666,"Colwell Bay 2, Lower Headon Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.02,44.88,"315",35.55,1
+"24835",41502,"col","Headon Beds",-1.55,50.616669,"Headon Hill, Headon Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",3.99,44.8,"315",35.55,1
+"24836",41503,"col","Osborne Beds",-1.083333,50.711109,"Nettlestone, Osborne Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.42,44.87,"315",35.55,1
+"24960",41652,"col","Bembridge Limestone",-1.533333,50.666668,"Headon Hill, lower Bembridge Limestone, Isle of Wight",NA,"",20,"Late Eocene","",37.2,33.9,11154,"gp_mid",4.01,44.85,"315",35.55,1
+"24961",41653,"col","Bembridge Limestone",-1.483333,50.674999,"Tapnell Quarry, lower Bembridge Limestone, Isle of Wight",NA,"",5,"Priabonian","",38,33.9,11154,"gp_mid",4.06,44.86,"315",35.95,1
+"24975",41665,"col","Bembridge Limestone",-1.55,50.666668,"Headon Hill, Bembridge Limestone (marl 18), Isle of Wight",NA,"",16,"Late Eocene","",37.2,33.9,11154,"gp_mid",3.99,44.85,"315",35.55,1
+"25253",204637,"col","Ocala",-83.221283,30.111443,"Dowling Springs",NA,"",1,"Late Eocene","",37.2,33.9,32917,"gp_mid",-68.22,33.03,"109",35.55,1
+"25734",42566,"col","Barton Beds",-1.733333,50.783333,"Hinton Admiral, Hampshire, Middle Barton Beds",NA,"",2,"Late Eocene","",37.2,33.9,11308,"gp_mid",3.84,44.98,"315",35.55,1
+"25750",42582,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Chama bed), Isle of Wight",NA,"",25,"Late Eocene","",37.2,33.9,11308,"gp_mid",4.41,44.83,"315",35.55,1
+"25752",42584,"col","Barton Beds",-0.633333,51.283333,"Tunnel Hill, Lower Barton Beds, Surrey",NA,"",36,"Late Eocene","",37.2,33.9,11308,"gp_mid",4.88,45.42,"315",35.55,1
+"25753",42586,"col","Barton Beds",-0.633333,51.283333,"Tunnel Hill, Upper Barton Beds, Surrey",NA,"",26,"Late Eocene","",37.2,33.9,11308,"gp_mid",4.88,45.42,"315",35.55,1
+"25754",42585,"col","Barton Beds",-0.633333,51.283333,"Tunnel Hill, Middle Barton Beds, Surrey",NA,"",32,"Late Eocene","",37.2,33.9,11308,"gp_mid",4.88,45.42,"315",35.55,1
+"25798",42634,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Lower Barton Beds, A1, Hampshire",NA,"",7,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25799",42635,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Lower Barton Beds, A2, Hampshire",NA,"",10,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25802",42640,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Middle Barton Beds, C, Hampshire",NA,"",107,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25805",42643,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Middle Barton Beds, E, Hampshire",NA,"",19,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25806",42644,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Middle Barton Beds, F, Hampshire",NA,"",144,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25807",42645,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Upper Barton Beds, G, Hampshire",NA,"",5,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25808",42646,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Upper Barton Beds, H, Hampshire",NA,"Chama-Bed",13,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25809",42647,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Upper Barton Beds, I, Hampshire",NA,"",1,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25811",42649,"col","Barton Beds",-1.691667,50.738888,"Cliffend, Upper Barton Beds, K, Hampshire",NA,"",16,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,1
+"25818",42658,"col","Barton Beds",-1.733333,50.783333,"Bransgore, Lower Barton Beds, Hampshire",NA,"",70,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.84,44.98,"315",35.55,1
+"25819",42662,"col","Barton Beds",-1.783333,50.849998,"Poulner, Middle Barton Beds, Hampshire",NA,"",48,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.81,45.05,"315",35.55,1
+"25901",42787,"col","Carbonera",-73.57972,6.804722,"Hannatoma A: Carbonera Fm: El Cerrito, Columbia (Durham)",NA,"",16,"Late Eocene","",37.2,33.9,11374,"gp_mid",-62.04,6.6,"203",35.55,1
+"25902",42788,"col","Carbonera",-73.57972,6.804722,"Hannatoma B: Carbonera Fm: El Cerrito, Columbia (Dusenbury)",NA,"",15,"Late Eocene","",37.2,33.9,11374,"gp_mid",-62.04,6.6,"203",35.55,1
+"25904",42790,"col","Carbonera",-73.57972,6.804722,"Hannatoma D: Carbonera Fm: El Cerrito, Columbia (Hedberg)",NA,"",15,"Late Eocene","",37.2,33.9,11374,"gp_mid",-62.04,6.6,"203",35.55,1
+"25964",42878,"col","Bembridge Marls",-1.333333,50.75,"Gurnard or Thorness Bays, Bembridge Marl, Isle of Wight",NA,"Gurnard Point",4,"Priabonian","",38,33.9,10305,"gp_mid",4.2,44.93,"315",35.95,1
+"26849",44095,"col","",78.339722,30.079721,"Nilkanth Mudstone Beds",NA,"",8,"Late Eocene","",37.2,33.9,11578,"gp_mid",79.35,11.31,"501",35.55,1
+"26893",44184,"col","Fayette",5.43,43.861668,"Saignon Ichnofossil site",NA,"Carlet, Vaucluse",5,"Priabonian","",38,33.9,11605,"gp_mid",9.66,37.74,"305",35.95,1
+"27001",44299,"col","",4.013333,43.794724,"Garrigues/Sainte-Eulalie Ichnofossil site",NA,"Garrigues, Sainte-Eulalie, Gard",3,"Priabonian","",38,33.9,11605,"gp_mid",8.36,37.73,"305",35.95,1
+"27037",132660,"col","Ocala",-83.678055,32.394169,"Georgia Limestone Products Co. Quarry",NA,"Grigg's Cement Products Co., Georgia Limerock Products",2,"Priabonian","",38,33.9,42488,"gp_mid",-68.18,35.34,"109",35.95,1
+"27729",45003,"col","",11.953611,51.321945,"Geiseltal, untere Oberkohle (lower Uppercoal)",NA,"",5,"Late Eocene","",37.2,33.9,11714,"gp_mid",16.02,44.96,"305",35.55,1
+"28139",45522,"col","",11.953611,51.321945,"Geiseltal, mittlere Oberkohle (middle Uppercoal)",NA,"",1,"Late Eocene","",37.2,33.9,11941,"gp_mid",16.02,44.96,"305",35.55,1
+"28140",45523,"col","",11.953611,51.321945,"Geiseltal, obere Oberkohle (upper Uppercoal)",NA,"",1,"Late Eocene","",37.2,33.9,11941,"gp_mid",16.02,44.96,"305",35.55,1
+"28253",45640,"col","Clinchfield",-83.359169,32.905556,"Hardie Kaolin Mine",NA,"Wilkinson Mine, WKR Mine",53,"Priabonian","",38,33.9,12028,"gp_mid",-67.74,35.8,"109",35.95,1
+"28464",45884,"col","Koun",49.530556,40.499168,"Sumgait River, Gobustan, Koun Formation",NA,"",4,"Priabonian","",38,33.9,37562,"gp_mid",49.88,34.29,"402",35.95,1
+"29477",47060,"col","",35.1455,48.448002,"Rybal'skiy Quarry",NA,"",2,"Priabonian","",38,33.9,12529,"gp_mid",36.51,41.88,"302",35.95,1
+"29484",47067,"col","Mandrikovka",35.1455,48.448002,"Rybal'skiy quarry",47060,"",7,"Priabonian","",38,33.9,12537,"gp_mid",36.51,41.88,"302",35.95,1
+"30422",48026,"col","",32.683613,49.072498,"Chigirin",NA,"Tschigirin, Tyas'ma River",2,"Priabonian","",38,33.9,11981,"gp_mid",34.31,42.48,"302",35.95,1
+"30423",48027,"col","",36.355278,49.702499,"Korobow Chutor",NA,"",1,"Priabonian","",38,33.9,29257,"gp_mid",37.55,43.15,"302",35.95,1
+"30424",48028,"col","",37.2575,49.191113,"Bugajewka",NA,"Zmiev",1,"Priabonian","",38,33.9,26362,"gp_mid",38.37,42.65,"302",35.95,1
+"31366",49167,"col","Tavda",63.583332,51.202221,"Kachar",NA,"",2,"Priabonian","",38,33.9,12996,"gp_mid",61.61,45.66,"402",35.95,1
+"31860",49885,"col","Clinchfield",-83.636391,32.404999,"Pennsylvania-Dixie Cement Corporation quarry",NA,"Medusa Cement Company west quarry",4,"Priabonian","",38,33.9,12993,"gp_mid",-68.13,35.35,"109",35.95,1
+"37133",57123,"col","Ocala",-82.599998,29.700001,"Cummer Lumber Company Phosphate Mine Eocene",NA,"",1,"Priabonian","",38,33.9,15425,"gp_mid",-67.67,32.53,"109",35.95,1
+"40133",60448,"col","",-82.692497,29.834167,"Devil's Eye Spring",NA,"",1,"Priabonian","",38,33.9,12000,"gp_mid",-67.74,32.67,"109",35.95,1
+"40134",60449,"col","Crystal River",-82.152222,29.244444,"Coon Cave",NA,"",1,"Priabonian","",38,33.9,12000,"gp_mid",-67.32,32.01,"109",35.95,1
+"40135",60450,"col","Crystal River",-83.237503,30.090834,"Dell Limerock Mine",NA,"",1,"Priabonian","",38,33.9,12000,"gp_mid",-68.24,33.01,"109",35.95,1
+"40136",60451,"col","Ocala",-83.922501,31.903334,"Flint River",NA,"",4,"Priabonian","",38,33.9,8335,"gp_mid",-68.54,34.9,"109",35.95,1
+"40278",60601,"col","",-72.666664,19.5,"Station 9813",NA,"B 163 F",1,"Late Eocene","",37.2,33.9,17411,"gp_mid",-65.52,20.82,"252",35.55,1
+"40280",60603,"col","",-72.666664,19.5,"Station 9825",NA,"B 100 F",1,"Late Eocene","",37.2,33.9,17411,"gp_mid",-65.52,20.82,"252",35.55,1
+"40281",60604,"col","",-72.650002,19.4,"Station 9770",NA,"B 229 F",2,"Late Eocene","",37.2,33.9,17411,"gp_mid",-65.52,20.72,"252",35.55,1
+"40282",60605,"col","",-72.416664,19.166668,"Station 9887",NA,"B 334 F",3,"Late Eocene","",37.2,33.9,17411,"gp_mid",-65.31,20.46,"252",35.55,1
+"40283",60606,"col","",-73.050003,18.85,"Station 9673",NA,"W 167 F",9,"Late Eocene","",37.2,33.9,17411,"gp_mid",-65.98,20.21,"252",35.55,1
+"40898",61271,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 232.26-232.32 m (Chickahominy Fm)",NA,"762.0-762.2 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40899",61272,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 229.39-229.42 m (Chickahominy Fm)",NA,"752.6-752.7 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40900",61273,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 228.87-228.90 m (Chickahominy Fm)",NA,"750.9-751.0 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40901",61274,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 226.47-226.50 m (Chickahominy Fm)",NA,"743.0-743.1 ft",2,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40902",61275,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 224.38-224.42 m (Chickahominy Fm)",NA,"736.16-736.3 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40905",61277,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 214.02-214.06 m (Chickahominy Fm)",NA,"702.15-702.3 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40906",61278,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 212.45 m (Chickahominy Fm)",NA,"697.0 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40907",61279,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 212.08 m (Chickahominy Fm)",NA,"695.8 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40908",61280,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 211.84-211.88 m (Chickahominy Fm)",NA,"695.0-695.15 ft",1,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"40909",61281,"col","Chickahominy",-76.385559,37.095554,"Langley Core, VA - 205.56-205.59 m (Chickahominy Fm)",NA,"674.4-674.5 ft",2,"Late Eocene","",37.2,33.9,17631,"gp_mid",-59.67,38.81,"109",35.55,1
+"42111",133257,"col","",19.940001,54.869999,"Baltic amber, Yantarny (Perreau collection)",NA,"",2,"Priabonian","",38,33.9,42897,"gp_mid",23.19,48.33,"302",35.95,1
+"43368",65035,"col","",11.374167,45.633888,"Priabona",NA,"",1,"Priabonian","",38,33.9,18727,"gp_mid",16.86,37.2,"307",35.95,1
+"44400",66423,"col","Clinchfield",-83.60611,32.424168,"Indian Creek",NA,"Locality 9",3,"Priabonian","",38,33.9,18983,"gp_mid",-68.1,35.36,"109",35.95,1
+"45944",68584,"col","",12.166667,47.666668,"Oberaudorf",NA,"",2,"Priabonian","",38,33.9,19773,"gp_mid",18.33,38.95,"307",35.95,1
+"47345",70639,"col","Toolinna Limestone",124.01667,-33.116669,"Toolinna Limestone - Wylie Scarp",NA,"",6,"Late Eocene","",37.2,33.9,9081,"gp_mid",126.32,-54.19,"801",35.55,1
+"47605",70918,"col","Okinoshima",132.550003,32.716667,"Okinoshima Fm (lowest part) - Okinoshima",NA,"",3,"Late Eocene","",37.2,33.9,23772,"gp_mid",129.12,36.95,"610",35.55,1
+"47606",70919,"col","Okinoshima",132.550003,32.716667,"Okinoshima Fm (lower part) - Okinoshima",NA,"",7,"Late Eocene","",37.2,33.9,23772,"gp_mid",129.12,36.95,"610",35.55,1
+"47607",70920,"col","Okinoshima",132.550003,32.716667,"Okinoshima Fm (upper part) - Okinoshima",NA,"",16,"Late Eocene","",37.2,33.9,23772,"gp_mid",129.12,36.95,"610",35.55,1
+"47610",70922,"col","Kirimiya",130.04306,32.84111,"Kirimiya Fm (glauconite-bearing sst) - Isahaya",NA,"",12,"Late Eocene","",37.2,33.9,23772,"gp_mid",126.51,36.65,"610",35.55,1
+"47611",70923,"col","Kirimiya",130.04306,32.84111,"Saburaishi Mbr, Kirimiya Fm - Isahaya",NA,"",5,"Late Eocene","",37.2,33.9,23772,"gp_mid",126.51,36.65,"610",35.55,1
+"47612",70924,"col","Itchoda",130.166672,32.416668,"Itchoda Fm - Amakusa",NA,"",9,"Late Eocene","",37.2,33.9,23772,"gp_mid",126.74,36.26,"610",35.55,1
+"47613",70925,"col","Sakasegawa",130.166672,32.416668,"Sakasegawa Fm - Amakusa",NA,"",7,"Late Eocene","",37.2,33.9,23772,"gp_mid",126.74,36.26,"610",35.55,1
+"47614",70926,"col","Kawamagari",130.166672,32.416668,"Kawamagari Fm - Asakusa",NA,"",10,"Late Eocene","",37.2,33.9,23772,"gp_mid",126.74,36.26,"610",35.55,1
+"48326",71975,"col","Jacksonian",-83.425003,32.424999,"Penn-Dixie Portland Cement quarry",NA,"",4,"Late Eocene","",37.2,33.9,24336,"gp_mid",-67.91,35.34,"109",35.55,1
+"48874",73434,"col","Jacksonian",-83.5,32.741669,"Huber Kaolin Quarry",NA,"",25,"Late Eocene","",37.2,33.9,24336,"gp_mid",-67.92,35.66,"109",35.55,1
+"48991",73586,"col","",-83.25,30.233334,"Quarry west of Dowling Park, Lafayette",NA,"",6,"Late Eocene","",37.2,33.9,24674,"gp_mid",-68.22,33.15,"109",35.55,1
+"50756",76603,"col","Yaw",94.300003,21.283333,"Thetkegyin (Yaw stage)",NA,"",3,"Late Eocene","",37.2,33.9,25899,"gp_mid",98.77,9.89,"617",35.55,1
+"50934",77068,"col","Mandrikovka",34.983334,48.450001,"Dnipropetrovsk, Mandrikovka Formation",NA,"Reef 3924",20,"Priabonian","",38,33.9,29186,"gp_mid",36.36,41.88,"302",35.95,1
+"51040",77227,"col","Kharkov",42.200832,47.717499,"Tsimlyanskaya",NA,"Tsimlyanskaya Station",1,"Priabonian","",38,33.9,26143,"gp_mid",42.83,41.28,"302",35.95,1
+"51717",78433,"col","Okinoshima",129.883331,32.75,"Nagasaki 2 [Okinoshima Formation]",NA,"",1,"Late Eocene","",37.2,33.9,26376,"gp_mid",126.37,36.54,"610",35.55,1
+"51836",78563,"col","",111.48333,0.083333,"Melawi Group",NA,"",7,"Late Eocene","",37.2,33.9,26409,"gp_mid",120.78,1.73,"620",35.55,1
+"51837",78564,"col","Silantek",111.98333,0.883333,"Silantek Formation",NA,"",3,"Late Eocene","",37.2,33.9,26409,"gp_mid",120.97,2.66,"620",35.55,1
+"51838",78565,"col","",11.374167,45.633888,"Priabona",NA,"",174,"Priabonian","",38,33.9,26411,"gp_mid",16.86,37.2,"307",35.95,1
+"51868",78617,"col","Marna di Possagno",13.374444,46.156387,"Marna di Possagno Formation",NA,"",105,"Priabonian","",38,33.9,26438,"gp_mid",18.73,37.26,"307",35.95,1
+"52331",79433,"col","Middle Headon Beds",-1.566667,50.816666,"Brockenhurst",NA,"",3,"Priabonian","",38,33.9,26581,"gp_mid",4,45,"315",35.95,1
+"53039",81043,"col","Marna di Priabona",11.75,45.5,"Marne a Briozoi, Valle dell'Onte [Marna di Priabona Fm] - Coleoidea",NA,"",28,"Priabonian","",38,33.9,27270,"gp_mid",17.12,36.99,"307",35.95,1
+"53134",81225,"col","Okinoshima",129.550003,32.866669,"Loc. 133 [Okinoshima Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53135",81226,"col","Okinoshima",129.550003,32.866669,"Loc. 134 [Okinoshima Fm]",NA,"",3,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53137",81228,"col","Okinoshima",129.550003,32.866669,"Loc. 137 [Okinoshima Fm]",NA,"",2,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53140",81231,"col","Okinoshima",129.550003,32.866669,"Loc. 140 [Okinoshima Fm]",NA,"",2,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53141",81232,"col","Okinoshima",129.550003,32.866669,"Loc. 141 [Okinoshima Fm]",NA,"",9,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53142",81233,"col","Okinoshima",129.550003,32.866669,"Loc. 132 [Okinoshima Fm]",NA,"",2,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53143",81234,"col","Okinoshima",129.550003,32.866669,"Loc. 143 [Okinoshima Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,1
+"53145",81236,"col","Okinoshima",129.766663,32.700001,"Loc. 148 [Okinoshima Fm]",NA,"",3,"Late Eocene","",37.2,33.9,27378,"gp_mid",126.26,36.47,"610",35.55,1
+"53462",81780,"col","",26.1,51.650002,"Rovno Amber (Vladimirets distict, Khomich NCR collection)",NA,"",1,"Priabonian","",38,33.9,70104,"gp_mid",28.48,45.05,"302",35.95,1
+"55254",84267,"col","Crystal River",-82.702225,29.839167,"Santa Fe River Locality 1",NA,"",1,"Priabonian","",38,33.9,13400,"gp_mid",-67.75,32.68,"109",35.95,1
+"55295",84324,"col","",-1.083333,43.616669,"David",NA,"",1,"Priabonian","",38,33.9,28259,"gp_mid",3.7,37.8,"305",35.95,1
+"55513",84655,"col","",11.418889,45.373611,"Colli Berici",NA,"Coralanzone",1,"Late Eocene","",37.2,33.9,28392,"gp_mid",16.79,36.94,"307",35.55,1
+"56283",85732,"col","Ixtaclum Shale",-92.716667,17.049999,"Simojovel road section B-8199",NA,"",11,"Late Eocene","",37.2,33.9,8422,"gp_mid",-80.29,21.57,"205",35.55,1
+"56285",85734,"col","Ixtaclum Shale",-92.76667,17.016666,"Simojovel road section B-8120",NA,"",3,"Late Eocene","",37.2,33.9,8422,"gp_mid",-80.35,21.54,"205",35.55,1
+"56857",86616,"col","Brockenhurst Beds",-1.571944,50.817223,"Brockenhurst",NA,"",21,"Priabonian","",38,33.9,15072,"gp_mid",3.99,45,"315",35.95,1
+"56883",86682,"col","Kievskaya",33.416668,48,"Staro-Dobrovol'skiy Rudnik",NA,"",3,"Late Eocene","",37.2,33.9,29186,"gp_mid",34.98,41.42,"302",35.55,1
+"56907",86750,"col","Kievskaya",34.049999,47.666668,"Ordzhonikidze",NA,"",2,"Late Eocene","",37.2,33.9,29186,"gp_mid",35.55,41.09,"302",35.55,1
+"56933",86778,"col","Kievskaya",36.033333,48.200001,"Vasil'kovka",NA,"",2,"Late Eocene","",37.2,33.9,29186,"gp_mid",37.31,41.65,"302",35.55,1
+"57459",87473,"col","Promina",16.15,43.849998,"Drnis area",NA,"",12,"Late Eocene","",37.2,33.9,29455,"gp_mid",20.18,34.47,"307",35.55,1
+"58139",88288,"col","",-22.049999,70.150002,"Cyrena bed a, Kap Brewster",NA,"",4,"Late Eocene","",37.2,33.9,29643,"gp_mid",2.1,63.21,"102",35.55,1
+"58140",88289,"col","",-22.049999,70.150002,"Cyrena bed b, Kap Brewster",NA,"",7,"Late Eocene","",37.2,33.9,29643,"gp_mid",2.1,63.21,"102",35.55,1
+"58141",88290,"col","",-22.049999,70.150002,"Cyrena bed c, Kap Brewster",NA,"",1,"Late Eocene","",37.2,33.9,29643,"gp_mid",2.1,63.21,"102",35.55,1
+"58142",88291,"col","",-22.049999,70.150002,"Cyrena bed d, Kap Brewster",NA,"",4,"Late Eocene","",37.2,33.9,29643,"gp_mid",2.1,63.21,"102",35.55,1
+"58143",88292,"col","",-22.049999,70.150002,"Cyrena bed e, Kap Brewster",NA,"",4,"Late Eocene","",37.2,33.9,29643,"gp_mid",2.1,63.21,"102",35.55,1
+"58767",89007,"col","",171.21666,-42.383331,"S44/736, GS 4872 Port Elizabeth Beach",NA,"",5,"Kaiatan","",37.2,36,29819,"gp_mid",-169.87,-49.85,"806",36.6,1
+"58796",89038,"col","Kaiata Siltstone",171.25,-42.383331,"S44 Dunollie",NA,"",1,"Kaiatan","",37.2,36,29819,"gp_mid",-169.84,-49.84,"806",36.6,1
+"58858",89134,"col","",171.350006,-42.033333,"GS 28, S37 Fox River",NA,"",1,"Kaiatan","",37.2,36,29819,"gp_mid",-170.01,-49.5,"806",36.6,1
+"58931",89238,"col","Ocala Limestone",-83.253609,30.254168,"Mill Creek Quarry [Ocala Limestone]",NA,"Loc. UF ZL004",1,"Late Eocene","",37.2,33.9,29921,"gp_mid",-68.22,33.17,"109",35.55,1
+"58932",89239,"col","Ocala Limestone",-83.253609,30.254168,"Suwannee American Cement Quarry [Ocala Limestone]",NA,"Loc. UF SU014",1,"Late Eocene","",37.2,33.9,29921,"gp_mid",-68.22,33.17,"109",35.55,1
+"59871",91104,"col","Ocala Limestone",-83.637222,32.413612,"PRI 1167",NA,"",5,"Priabonian","",38,33.9,11845,"gp_mid",-68.13,35.36,"109",35.95,1
+"59872",91105,"col","Ocala Limestone",-83.637222,32.413612,"PRI 1168",NA,"",5,"Priabonian","",38,33.9,11845,"gp_mid",-68.13,35.36,"109",35.95,1
+"59908",91140,"col","Ocala Limestone",-82.567497,29.680279,"Dickerson Limerock mines, Haile complex, Alachua County",NA,"",1,"Late Eocene","",37.2,33.9,30435,"gp_mid",-67.64,32.5,"109",35.55,1
+"60509",123930,"col","",19.940001,54.869999,"Baltic Amber, Brussels collection",NA,"",23,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"60539",91875,"col","Ocala Limestone",-82.409164,29.605,"M 38",NA,"",2,"Priabonian","",38,33.9,11845,"gp_mid",-67.5,32.4,"109",35.95,1
+"60708",92044,"col","Inglis Limestone",-82.64389,29.445,"M 319 - Bronson [Inglis Limestone]",NA,"",2,"Priabonian","",38,33.9,11845,"gp_mid",-67.77,32.28,"109",35.95,1
+"60914",92257,"col","Ocala Limestone",-82.167778,29.253611,"M 52",NA,"",5,"Priabonian","",38,33.9,11845,"gp_mid",-67.33,32.02,"109",35.95,1
+"60915",92258,"col","Ocala Limestone",-83.6325,32.840832,"M 56",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-68.03,35.78,"109",35.95,1
+"60916",92259,"col","Ocala Limestone",-82.015556,33.09,"M 57",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-66.33,35.77,"109",35.95,1
+"60917",92260,"col","Ocala Limestone",-82.015556,33.09,"M 58",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-66.33,35.77,"109",35.95,1
+"60920",92263,"col","Ocala Limestone",-82.41111,30.001667,"M 62",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.42,32.79,"109",35.95,1
+"60923",92266,"col","Ocala Limestone",-83.498611,32.800556,"M 65",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.9,35.72,"109",35.95,1
+"61022",92391,"col","Inglis Limestone",-82.71167,29.237778,"PRI 3201 - Gulf Hammock [Inglis Limestone]",NA,"",38,"Priabonian","",38,33.9,11845,"gp_mid",-67.88,32.09,"109",35.95,1
+"61051",92432,"col","Barnwell Sand",-81.719444,33.560555,"Sta. 4593 - Deearadeaux [Barnwell Sand]",NA,"",33,"Late Eocene","",37.2,33.9,31145,"gp_mid",-65.92,36.18,"109",35.55,1
+"61053",92434,"col","Santee Limestone",-80.766388,33.683613,"Sta. 7990 - Belle Broughton Plantation [Santee Limestone]",NA,"Loc. 148",7,"Late Eocene","",37.2,33.9,31145,"gp_mid",-64.93,36.16,"109",35.55,1
+"61167",92603,"col","Ocala Limestone",-82.573334,29.690556,"TU 449 - Haile [Ocala Limestone]",NA,"",1,"Late Eocene","",37.2,33.9,31182,"gp_mid",-67.65,32.51,"109",35.55,1
+"61309",92785,"col","Crystal River Limestone",-82.190277,29.293888,"Martin Station [Crystal River Limestone]",NA,"",8,"Late Eocene","",37.2,33.9,31304,"gp_mid",-67.34,32.06,"109",35.55,1
+"65876",98650,"col","Ocala Limestone",-84.15583,31.578611,"PRI 1178",NA,"",2,"Priabonian","",38,33.9,11845,"gp_mid",-68.85,34.62,"109",35.95,1
+"65877",98651,"col","Ocala Limestone",-84.15583,31.578611,"M 461",NA,"",2,"Priabonian","",38,33.9,11845,"gp_mid",-68.85,34.62,"109",35.95,1
+"65879",98653,"col","Ocala Limestone",-83.731667,32.458332,"PRI 1182",NA,"",12,"Priabonian","",38,33.9,11845,"gp_mid",-68.22,35.42,"109",35.95,1
+"65880",98654,"col","Ocala Limestone",-83.637222,32.413612,"PRI 1183",NA,"",4,"Priabonian","",38,33.9,11845,"gp_mid",-68.13,35.36,"109",35.95,1
+"65882",98656,"col","Barnwell",-82.41111,33,"M 888",NA,"",1,"Late Eocene","",37.2,33.9,11845,"gp_mid",-66.75,35.74,"109",35.55,1
+"65883",98657,"col","Barnwell",-82.41111,33,"M 889",NA,"",1,"Late Eocene","",37.2,33.9,11845,"gp_mid",-66.75,35.74,"109",35.55,1
+"65884",98658,"col","Barnwell",-82.096664,33.314167,"M 705",NA,"",1,"Late Eocene","",37.2,33.9,11845,"gp_mid",-66.36,36,"109",35.55,1
+"66390",99191,"col","Ocala limestone",-82.51889,29.530001,"PRI 25",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.63,32.35,"109",35.95,1
+"66391",99192,"col","Ocala limestone",-82.606392,29.646389,"PRI 903",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.69,32.48,"109",35.95,1
+"66392",99193,"col","Crystal River",-82.606392,29.646389,"M 882",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.69,32.48,"109",35.95,1
+"66394",99195,"col","Crystal River",-82.817497,29.613333,"M 883",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.91,32.48,"109",35.95,1
+"66404",99205,"col","Crystal River",-82.446671,29.387501,"M 884",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.58,32.2,"109",35.95,1
+"66405",99206,"col","Crystal River",-82.446671,29.387501,"M 885",NA,"",1,"Priabonian","",38,33.9,11845,"gp_mid",-67.58,32.2,"109",35.95,1
+"66434",99252,"col","Crystal River",-82.167778,29.253611,"PRI 3620",NA,"",6,"Priabonian","",38,33.9,11845,"gp_mid",-67.33,32.02,"109",35.95,1
+"68591",102229,"col","",27.766666,42.950001,"Rudnik",NA,"",9,"Priabonian","",38,33.9,34737,"gp_mid",29.58,31.35,"308",35.95,1
+"68592",102230,"col","",27.083332,42.866669,"Lyulyakovo",NA,"",66,"Priabonian","",38,33.9,34737,"gp_mid",28.99,31.39,"308",35.95,1
+"68610",102293,"col","",27.633333,42.650002,"Chimovo",NA,"",3,"Priabonian","",38,33.9,34737,"gp_mid",29.38,31.08,"308",35.95,1
+"68657",102341,"col","",24.433332,43.400002,"Dolni Dubnik",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",26.94,32.39,"308",35.95,1
+"68659",102343,"col","",24.816668,42.233334,"Kalekovets",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",26.91,31.19,"308",35.95,1
+"68671",102355,"col","",27.716667,42.983334,"Dolni Chiflik",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.55,31.39,"308",35.95,1
+"68679",102363,"col","",26.4,42.683334,"Sotirya",NA,"",6,"Priabonian","",38,33.9,34737,"gp_mid",28.36,31.33,"308",35.95,1
+"69641",103735,"col","",26.116667,42.733334,"Sar'yar",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",28.14,31.43,"308",35.95,1
+"69644",103738,"col","",26.15,42.75,"Novachevo",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",28.18,31.44,"308",35.95,1
+"69647",103741,"col","",25.5,43.099998,"Momin Sbor",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",27.74,31.9,"308",35.95,1
+"69648",103742,"col","",27.483334,42.599998,"Mina Cherno More",NA,"",14,"Priabonian","",38,33.9,34737,"gp_mid",29.24,31.06,"308",35.95,1
+"69663",103757,"col","",27.1,42.883331,"Rupcha",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",29.01,31.4,"308",35.95,1
+"69665",103759,"col","",27.733334,43.283333,"Kalimantsi",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.65,31.68,"308",35.95,1
+"69666",103760,"col","",27.200001,42.883331,"Duskotna",NA,"",18,"Priabonian","",38,33.9,34737,"gp_mid",29.09,31.38,"308",35.95,1
+"69667",103761,"col","",27.616667,43.016666,"Goren Chiflik",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.47,31.44,"308",35.95,1
+"69669",103763,"col","",25.133333,42.283333,"Tyurkmen",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",27.19,31.18,"308",35.95,1
+"69670",103764,"col","",25.616667,43.066666,"Altunovski Quarry, Turnovo",NA,"",4,"Priabonian","",38,33.9,34737,"gp_mid",27.82,31.85,"308",35.95,1
+"69671",103765,"col","",25.416668,43.083332,"Balvan",NA,"",4,"Priabonian","",38,33.9,34737,"gp_mid",27.66,31.9,"308",35.95,1
+"69674",103768,"col","",26.183332,42.733334,"Byala",NA,"",6,"Priabonian","",38,33.9,34737,"gp_mid",28.2,31.42,"308",35.95,1
+"69727",103864,"col","",27.4,43.116669,"Komarevo",NA,"",4,"Priabonian","",38,33.9,34737,"gp_mid",29.32,31.57,"308",35.95,1
+"69730",103867,"col","",25,42.216667,"Shishmantsi",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",27.06,31.14,"308",35.95,1
+"69750",103887,"col","",27.483334,42.616669,"Khodzhamar",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.25,31.07,"308",35.95,1
+"69773",103931,"col","",27.15,42.883331,"Planinitsa",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.05,31.39,"308",35.95,1
+"69774",103932,"col","",26.083332,42.733334,"Borov Dol",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",28.12,31.44,"308",35.95,1
+"69775",103933,"col","",27.666668,42.950001,"Krivini",NA,"",0,"Priabonian","",38,33.9,34737,"gp_mid",29.5,31.36,"308",35.95,1
+"69779",103937,"col","",24.483334,43.700001,"Gigen",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",27.07,32.67,"308",35.95,1
+"69780",103938,"col","",25.333332,42.200001,"Chirpan",NA,"",2,"Priabonian","",38,33.9,34737,"gp_mid",27.33,31.06,"308",35.95,1
+"69784",103942,"col","",27.716667,43.25,"Slunchevo",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",29.62,31.65,"308",35.95,1
+"69805",103963,"col","",26.233334,42.75,"Vuglen",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",28.24,31.43,"308",35.95,1
+"69806",103964,"col","",26.416668,42.616669,"Khadzhi Dimitur",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",28.36,31.27,"308",35.95,1
+"72711",108261,"col","Chegan",56.799999,46.599998,"North Precipice, Ustjurt Plateau",NA,"",1,"Priabonian","",38,33.9,35921,"gp_mid",56.04,40.7,"402",35.95,1
+"72712",108262,"col","Chegan",60.5,46.950001,"North coast of the Aral Sea",NA,"",1,"Priabonian","",38,33.9,35921,"gp_mid",59.35,41.24,"402",35.95,1
+"72746",207956,"col","",26.889999,51.310001,"Rovno amber (ISEA Novosibirsk collection)",NA,"",1,"Priabonian","",38,33.9,71836,"gp_mid",29.17,44.71,"302",35.95,1
+"74932",110735,"col","",19.940001,54.869999,"Baltic Amber, GPIH collection",NA,"",314,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"74934",110736,"col","",19.940001,54.869999,"Baltic Amber, SMF Kernegger collection",NA,"",4,"Priabonian","",38,33.9,36392,"gp_mid",23.19,48.33,"302",35.95,1
+"76890",113118,"col","Adaev",52.808334,44.111389,"Monata",NA,"",13,"Priabonian","",38,33.9,36745,"gp_mid",52.63,38.03,"402",35.95,1
+"77130",113470,"col","",21.059999,55.919998,"Baltic amber (PIN collection 364)",NA,"",80,"Priabonian","",38,33.9,11234,"gp_mid",24.2,49.36,"302",35.95,1
+"77275",113621,"col","",26.25,50.599998,"Rovno Amber, Ukryantar factory material (SIZC UA collection)",NA,"",150,"Priabonian","",38,33.9,39985,"gp_mid",28.61,44,"302",35.95,1
+"77361",113709,"col","",4.176,44.129601,"Célas, Gard (Museum Marseille collection)",NA,"",50,"Priabonian","",38,33.9,38999,"gp_mid",8.54,38.06,"305",35.95,1
+"77455",113829,"col","Bembridge Marls",-1.345,50.75,"North end of Thorness Bay, Bembridge Marls (BMNH collection)",NA,"",19,"Priabonian","",38,33.9,51852,"gp_mid",4.19,44.93,"315",35.95,1
+"79961",117249,"col","",19.940001,54.873001,"Baltic Amber, Bremi collection",NA,"",1,"Priabonian","",38,33.9,37344,"gp_mid",23.19,48.33,"302",35.95,1
+"80309",117602,"col","",19.940001,54.869999,"Baltic amber (Riedel collection)",NA,"",1,"Priabonian","",38,33.9,47782,"gp_mid",23.19,48.33,"302",35.95,1
+"82349",119949,"col","",19.940001,54.869999,"Baltic Amber (Kupryjanowicz collection)",NA,"",1,"Priabonian","",38,33.9,44243,"gp_mid",23.19,48.33,"302",35.95,1
+"82883",120610,"col","",19.940001,54.869999,"Baltic amber, Yantarnyi village (PIN collection 363)",NA,"",21,"Priabonian","",38,33.9,38558,"gp_mid",23.19,48.33,"302",35.95,1
+"83077",120812,"col","",19.940001,54.869999,"Baltic Amber, G. Liedtke collection",NA,"",11,"Priabonian","",38,33.9,38571,"gp_mid",23.19,48.33,"302",35.95,1
+"83079",120814,"col","",19.940001,54.869999,"Baltic Amber, Staatliches Museum fur Naturkunde (SMNS) collection",NA,"",62,"Priabonian","",38,33.9,38571,"gp_mid",23.19,48.33,"302",35.95,1
+"83080",120815,"col","",19.940001,54.869999,"Baltic Amber, Institut fur Geologie and Palaontologie collection",NA,"",1,"Priabonian","",38,33.9,38571,"gp_mid",23.19,48.33,"302",35.95,1
+"83081",120816,"col","",19.940001,54.869999,"Baltic Amber, Beigel collection",NA,"",2,"Priabonian","",38,33.9,54726,"gp_mid",23.19,48.33,"302",35.95,1
+"84341",122405,"col","",4.18,44.09,"Monteils (Theobald coll)",NA,"",3,"Priabonian","",38,33.9,38999,"gp_mid",8.54,38.02,"305",35.95,1
+"84342",122406,"col","",4,44,"Les Fumades",NA,"",7,"Late Eocene","",37.2,33.9,38999,"gp_mid",8.37,37.94,"305",35.55,1
+"84457",122591,"col","",19.940001,54.869999,"Baltic Amber, Yantarnyi village (PIN collection 964)",NA,"",75,"Priabonian","",38,33.9,8920,"gp_mid",23.19,48.33,"302",35.95,1
+"84651",122983,"col","",21.059999,55.919998,"Baltic Amber, Tyskiewicz's amber mine, Palanga, Samland Peninsula",NA,"",2,"Priabonian","",38,33.9,39217,"gp_mid",24.2,49.36,"302",35.95,1
+"84658",122995,"col","",26.120001,51.205002,"Rovno Amber, Vyrka locality (SIZC DU collection)",NA,"",8,"Priabonian","",38,33.9,39237,"gp_mid",28.5,44.61,"302",35.95,1
+"84659",122996,"col","",26.559999,51.564999,"Rovno Amber, Dubrovitsa locality (SIZC D collection)",NA,"",28,"Priabonian","",38,33.9,39237,"gp_mid",28.89,44.96,"302",35.95,1
+"84660",122997,"col","",26.889999,51.310001,"Rovno Amber, Klesov locality (SIZC K collection)",NA,"",277,"Priabonian","",38,33.9,39237,"gp_mid",29.17,44.71,"302",35.95,1
+"84661",122998,"col","",26.1,51.650002,"Rovno Amber, Vladimirets district (Suvorkin collection)",NA,"",6,"Priabonian","",38,33.9,39239,"gp_mid",28.48,45.05,"302",35.95,1
+"84662",122999,"col","",26.895,51.27,"Rovno Amber, Fedorovskii area, Klesov locality (SIZC KF collection)",NA,"",6,"Priabonian","",38,33.9,39245,"gp_mid",29.18,44.67,"302",35.95,1
+"84825",123221,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Kühl collection",NA,"",60,"Priabonian","",38,33.9,40189,"gp_mid",23.19,48.33,"302",35.95,1
+"85010",123419,"col","",19.940001,54.869999,"Baltic Amber, Hoffeins/Deutsches Entomologische Institut collection",NA,"",343,"Priabonian","",38,33.9,11319,"gp_mid",23.19,48.33,"302",35.95,1
+"85011",123420,"col","",19.940001,54.869999,"Baltic Amber, Göttingen GZG collection",NA,"",77,"Priabonian","",38,33.9,39546,"gp_mid",23.19,48.33,"302",35.95,1
+"85031",123439,"col","",19.940001,54.869999,"Baltic Amber (Museum Munich SNSB collection)",NA,"",3,"Priabonian","",38,33.9,39606,"gp_mid",23.19,48.33,"302",35.95,1
+"85047",123458,"col","",19.940001,54.869999,"Baltic Amber, Naturhistorisches Museum in Wien (NHMW) collection",NA,"",30,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85049",123460,"col","",21.059999,55.919998,"Baltic Amber (Veta collection)",NA,"",1,"Priabonian","",38,33.9,49917,"gp_mid",24.2,49.36,"302",35.95,1
+"85051",123462,"col","",19.940001,54.869999,"Baltic Amber, MCNA collection",NA,"",3,"Priabonian","",38,33.9,48023,"gp_mid",23.19,48.33,"302",35.95,1
+"85082",123493,"col","",19.940001,54.869999,"Baltic amber (AMNH collection)",NA,"",98,"Priabonian","",38,33.9,5083,"gp_mid",23.19,48.33,"302",35.95,1
+"85308",123730,"col","",19.940001,54.869999,"Baltic Amber, P. Vanmarsenille collection",NA,"",1,"Priabonian","",38,33.9,39796,"gp_mid",23.19,48.33,"302",35.95,1
+"85335",123757,"col","",19.940001,54.869999,"Baltic Amber, Zoological Museum, Humboldt Univ Berlin (ZHMB MfN) Collection",NA,"",175,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85336",123758,"col","",19.940001,54.869999,"Baltic Amber, Swedish Amber Museum, Hollviken",NA,"",1,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85338",123760,"col","",19.940001,54.869999,"Baltic Amber (von Holt collection)",NA,"",11,"Priabonian","",38,33.9,43941,"gp_mid",23.19,48.33,"302",35.95,1
+"85340",123762,"col","",12.35,55.23,"Baltic Amber (University of Copenhagen ZMUC, NHMD Collection)",NA,"Scandinavian amber",301,"Priabonian","",38,33.9,39684,"gp_mid",16.64,48.85,"302",35.95,1
+"85341",123763,"col","",19.940001,54.869999,"Baltic Amber (Teuber collection)",NA,"",4,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85342",123764,"col","",19.940001,54.869999,"Baltic Amber (Damzen collection)",NA,"",22,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85343",123766,"col","",19.940001,54.869999,"Baltic amber (BMNH coll)",NA,"",171,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85344",123767,"col","",21.059999,55.919998,"Baltic Amber (Urbonas and Veilandas collection)",NA,"",8,"Priabonian","",38,33.9,39684,"gp_mid",24.2,49.36,"302",35.95,1
+"85346",123770,"col","",19.940001,54.869999,"Baltic Amber (Herrling Collection)",NA,"",36,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85347",123771,"col","",19.940001,54.869999,"Baltic Amber, Scheele collection, University of Hamburg",NA,"",84,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85348",123772,"col","",19.940001,54.869999,"Baltic Amber (Zurich Museum collection)",NA,"",1,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85349",123773,"col","",19.940001,54.869999,"Baltic Amber (Velten collection)",NA,"",21,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85414",123862,"col","",19.940001,54.869999,"Baltic Amber (Heiss coll, Tiroler Landesmuseum)",NA,"",38,"Priabonian","",38,33.9,39854,"gp_mid",23.19,48.33,"302",35.95,1
+"85421",123870,"col","",19.940001,54.869999,"Baltic Amber (Bachofen-Echt collection)",NA,"",73,"Priabonian","",38,33.9,5179,"gp_mid",23.19,48.33,"302",35.95,1
+"85425",123876,"col","Kharkov",42.237221,47.716389,"Khoroshevskii Cossack Village",NA,"Khoroshevskaya",1,"Priabonian","",38,33.9,41149,"gp_mid",42.86,41.28,"302",35.95,1
+"85436",123884,"col","",19.940001,54.869999,"Baltic amber (Engel collection)",NA,"",1,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85437",123885,"col","",19.940001,54.869999,"Baltic amber (Mendl collection)",NA,"",1,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85438",123907,"col","",19.940001,54.869999,"Baltic Amber (Ernst and Nordmann collection)",NA,"",12,"Priabonian","",38,33.9,39891,"gp_mid",23.19,48.33,"302",35.95,1
+"85451",123908,"col","",19.940001,54.869999,"Baltic Amber, Krummer collection",NA,"",1,"Priabonian","",38,33.9,39891,"gp_mid",23.19,48.33,"302",35.95,1
+"85452",123909,"col","",19.940001,54.869999,"Baltic amber, Krylov collection",NA,"",8,"Priabonian","",38,33.9,39891,"gp_mid",23.19,48.33,"302",35.95,1
+"85454",123911,"col","",19.940001,54.869999,"Baltic Amber, Ludwig collection",NA,"",4,"Priabonian","",38,33.9,39891,"gp_mid",23.19,48.33,"302",35.95,1
+"85455",123912,"col","",19.940001,54.869999,"Baltic Amber, Wenzel collection",NA,"",1,"Priabonian","",38,33.9,39891,"gp_mid",23.19,48.33,"302",35.95,1
+"85468",123926,"col","",19.940001,54.869999,"Baltic Amber, Tubingen collection",NA,"",16,"Priabonian","",38,33.9,39904,"gp_mid",23.19,48.33,"302",35.95,1
+"85469",123927,"col","",19.940001,54.869999,"Baltic amber, Konigsberg collection",NA,"",1221,"Priabonian","",38,33.9,44304,"gp_mid",23.19,48.33,"302",35.95,1
+"85470",123928,"col","",19.940001,54.869999,"Baltic Amber, Senckenberg Frankfurt (SMF) collection",NA,"",31,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85471",123929,"col","",19.940001,54.869999,"Baltic Amber, Universitat Bonn collection",NA,"",5,"Priabonian","",38,33.9,39904,"gp_mid",23.19,48.33,"302",35.95,1
+"85474",123936,"col","",19.940001,54.869999,"Baltic Amber, MNHN collection",NA,"",40,"Priabonian","",38,33.9,39684,"gp_mid",23.19,48.33,"302",35.95,1
+"85491",123959,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (Brodie coll)",NA,"",268,"Priabonian","",38,33.9,37729,"gp_mid",4.17,44.91,"315",35.95,1
+"85492",157666,"col","Bouldnor",-1.36,50.737999,"Thorness Bay, Bembridge Marls (MNEMG coll)",NA,"",16,"Priabonian","",38,33.9,51854,"gp_mid",4.17,44.91,"315",35.95,1
+"85493",123960,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (Hooley coll)",NA,"",213,"Priabonian","",38,33.9,39932,"gp_mid",4.17,44.91,"315",35.95,1
+"85494",123961,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (Jarzembowski coll)",NA,"",3,"Priabonian","",38,33.9,5087,"gp_mid",4.17,44.91,"315",35.95,1
+"85495",123962,"col","",19.940001,54.869999,"Baltic Amber, Künow collection",NA,"",65,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"85496",123964,"col","",19.940001,54.869999,"Baltic Amber (Schmalhausen Institute of Zoology SIZC collection)",NA,"",3,"Priabonian","",38,33.9,46187,"gp_mid",23.19,48.33,"302",35.95,1
+"85507",123977,"col","",21.059999,55.919998,"Baltic Amber, Palanga Amber Museum Collection",NA,"",37,"Priabonian","",38,33.9,39915,"gp_mid",24.2,49.36,"302",35.95,1
+"85508",123978,"col","",19.940001,54.869999,"Baltic Amber, K. M. Sadilenko Collection",NA,"",10,"Priabonian","",38,33.9,39915,"gp_mid",23.19,48.33,"302",35.95,1
+"85509",123979,"col","",19.995001,54.724998,"Baltic Amber, beach at town of Primorska",NA,"",1,"Priabonian","",38,33.9,39915,"gp_mid",23.23,48.18,"302",35.95,1
+"85512",123993,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Thomas collection",NA,"",21,"Priabonian","",38,33.9,40189,"gp_mid",23.19,48.33,"302",35.95,1
+"85523",124003,"col","",19.940001,54.869999,"Baltic amber (Zoological Institute ZIN collection)",NA,"",18,"Priabonian","",38,33.9,50269,"gp_mid",23.19,48.33,"302",35.95,1
+"85524",124005,"col","",19.940001,54.869999,"Baltic Amber, California Academy of Sciences coll",NA,"",2,"Priabonian","",38,33.9,39943,"gp_mid",23.19,48.33,"302",35.95,1
+"85550",124073,"col","",19.940001,54.869999,"Baltic Amber, Klebs collection",NA,"",420,"Priabonian","",38,33.9,42650,"gp_mid",23.19,48.33,"302",35.95,1
+"85551",124076,"col","",19.940001,54.869999,"Baltic Amber (Motschulsky collection)",NA,"",1,"Priabonian","",38,33.9,49545,"gp_mid",23.19,48.33,"302",35.95,1
+"85553",124088,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Simon collection",NA,"",35,"Priabonian","",38,33.9,40189,"gp_mid",23.19,48.33,"302",35.95,1
+"85569",124105,"col","",19.940001,54.869999,"Baltic Amber, Hermenau collection",NA,"",24,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85652",124188,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Thomé collection",NA,"",4,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85653",124189,"col","",19.940001,54.869999,"Baltic Amber, Dzieduszycki Museum collection",NA,"",8,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85658",124193,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Navás collection",NA,"",3,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85659",124194,"col","",19.940001,54.869999,"Baltic Amber, Prague Museum collection",NA,"",21,"Priabonian","",38,33.9,39959,"gp_mid",23.19,48.33,"302",35.95,1
+"85662",124201,"col","",19.940001,54.869999,"Baltic amber, Yantarny, Kernegger collection",NA,"",44,"Priabonian","",38,33.9,39968,"gp_mid",23.19,48.33,"302",35.95,1
+"85663",124202,"col","",19.940001,54.869999,"Baltic amber, Yantarny, Jiri Hava collection",NA,"",3,"Priabonian","",38,33.9,39968,"gp_mid",23.19,48.33,"302",35.95,1
+"85664",124203,"col","",19.940001,54.869999,"Baltic amber, Yantarny, Deutsche Entomologische Institut Pütz collection",NA,"",1,"Priabonian","",38,33.9,39970,"gp_mid",23.19,48.33,"302",35.95,1
+"85665",124204,"col","",19.940001,54.869999,"Baltic Amber, Yantarnyi village (Hawkeswood coll)",NA,"",2,"Priabonian","",38,33.9,39971,"gp_mid",23.19,48.33,"302",35.95,1
+"85666",124205,"col","",19.940001,54.869999,"Baltic amber (MCZ collection)",NA,"",133,"Priabonian","",38,33.9,39972,"gp_mid",23.19,48.33,"302",35.95,1
+"85676",124227,"col","",19.940001,54.869999,"Baltic Amber (J. Scheven coll)",NA,"",2,"Priabonian","",38,33.9,40047,"gp_mid",23.19,48.33,"302",35.95,1
+"85706",124272,"col","",26.889999,51.310001,"Rovno amber (AWC coll)",NA,"",2,"Priabonian","",38,33.9,44618,"gp_mid",29.17,44.71,"302",35.95,1
+"85708",124274,"col","",14.015,54.055,"Isle of Usedom, Baltic Amber",NA,"",14,"Priabonian","",38,33.9,40047,"gp_mid",18.01,47.63,"315",35.95,1
+"85709",124275,"col","",19.940001,54.869999,"Baltic Amber (M. Glink collection)",NA,"",18,"Priabonian","",38,33.9,40047,"gp_mid",23.19,48.33,"302",35.95,1
+"85744",124318,"col","",19.940001,54.869999,"Baltic amber (Wunderlich collection)",NA,"",586,"Priabonian","",38,33.9,40076,"gp_mid",23.19,48.33,"302",35.95,1
+"85783",124370,"col","",19.940001,54.869999,"Baltic Amber (University of Kansas SEMC Collection)",NA,"",16,"Priabonian","",38,33.9,40137,"gp_mid",23.19,48.33,"302",35.95,1
+"85841",124431,"col","",12.934722,47.696667,"Halthurm",NA,"",5,"Late Eocene","",37.2,33.9,40158,"gp_mid",18.98,38.81,"307",35.55,1
+"85864",124468,"col","",19.940001,54.869999,"Baltic amber (Wichard collection)",NA,"",32,"Priabonian","",38,33.9,45767,"gp_mid",23.19,48.33,"302",35.95,1
+"85873",124476,"col","",21.059999,55.919998,"Baltic amber, Palanga (Insect Centre coll, Moscow)",NA,"",2,"Priabonian","",38,33.9,40186,"gp_mid",24.2,49.36,"302",35.95,1
+"85880",124493,"col","",19.940001,54.869999,"Baltic amber, Koniglichen Bernstein-Werke collection",NA,"Baltic Amber",1,"Priabonian","",38,33.9,40189,"gp_mid",23.19,48.33,"302",35.95,1
+"85881",124494,"col","",19.940001,54.869999,"Baltic amber, Enderlein collection",NA,"",2,"Priabonian","",38,33.9,40189,"gp_mid",23.19,48.33,"302",35.95,1
+"85882",124503,"col","",19.940001,54.869999,"Baltic Amber, ANSP collection",NA,"",30,"Priabonian","",38,33.9,40192,"gp_mid",23.19,48.33,"302",35.95,1
+"85891",124517,"col","",19.940001,54.869999,"Baltic Amber (MHNN Neuchatel collection)",NA,"",46,"Priabonian","",38,33.9,49008,"gp_mid",23.19,48.33,"302",35.95,1
+"85900",124525,"col","",19.940001,54.869999,"Baltic Amber, State Museum of Natural History, Lv'iv",NA,"",1,"Priabonian","",38,33.9,40235,"gp_mid",23.19,48.33,"302",35.95,1
+"85904",124529,"col","",19.940001,54.869999,"Baltic amber, De Walsche collection",NA,"",1,"Priabonian","",38,33.9,11231,"gp_mid",23.19,48.33,"302",35.95,1
+"85951",124579,"col","",19.940001,54.869999,"Baltic amber (Field Museum FMNH coll)",NA,"",20,"Priabonian","",38,33.9,11236,"gp_mid",23.19,48.33,"302",35.95,1
+"85952",124580,"col","",19.940001,54.869999,"Baltic Amber (HLMD coll)",NA,"Baltic amber",3,"Priabonian","",38,33.9,40277,"gp_mid",23.19,48.33,"302",35.95,1
+"85953",124581,"col","",19.940001,54.869999,"Baltic Amber (Kurz collection)",NA,"",2,"Priabonian","",38,33.9,40338,"gp_mid",23.19,48.33,"302",35.95,1
+"86112",124765,"col","",19.940001,54.869999,"Baltic amber (LACM coll)",NA,"",14,"Priabonian","",38,33.9,5894,"gp_mid",23.19,48.33,"302",35.95,1
+"86123",124776,"col","",19.940001,54.869999,"Baltic amber, Michael von Tschirnhaus collection",NA,"",8,"Priabonian","",38,33.9,40377,"gp_mid",23.19,48.33,"302",35.95,1
+"86181",124843,"col","",19.940001,54.869999,"Baltic Amber (Baker collection)",NA,"",2,"Priabonian","",38,33.9,11214,"gp_mid",23.19,48.33,"302",35.95,1
+"86186",124849,"col","",19.940001,54.869999,"Baltic amber (PIN collection)",NA,"",39,"Priabonian","",38,33.9,40429,"gp_mid",23.19,48.33,"302",35.95,1
+"86237",124903,"col","",19.940001,54.869999,"Baltic amber (Roesler collection)",NA,"",2,"Priabonian","",38,33.9,36227,"gp_mid",23.19,48.33,"302",35.95,1
+"86269",124951,"col","",19.940001,54.869999,"Baltic amber (V.A. Gusakov collection)",NA,"",14,"Priabonian","",38,33.9,40499,"gp_mid",23.19,48.33,"302",35.95,1
+"86433",125139,"col","",19.940001,54.869999,"Baltic Amber, Poinar collection",NA,"",41,"Priabonian","",38,33.9,40638,"gp_mid",23.19,48.33,"302",35.95,1
+"86516",125274,"col","",19.940001,54.869999,"Baltic Amber, Cholewinski collection",NA,"",1,"Priabonian","",38,33.9,40665,"gp_mid",23.19,48.33,"302",35.95,1
+"86680",125512,"col","",19.940001,54.869999,"Baltic amber (Ulrich ZFMK collection)",NA,"",6,"Priabonian","",38,33.9,45642,"gp_mid",23.19,48.33,"302",35.95,1
+"87866",127165,"col","",11.533333,45.533333,"Fontanella of Grancona",NA,"",1,"Late Eocene","",37.2,33.9,41330,"gp_mid",16.95,37.07,"307",35.55,1
+"87869",127169,"col","",19.940001,54.869999,"Baltic amber, Geol Instituts der Universitat Berlin coll",NA,"",3,"Priabonian","",38,33.9,41333,"gp_mid",23.19,48.33,"302",35.95,1
+"87870",127170,"col","",19.940001,54.869999,"Baltic Amber, Judge Fritsch (Goldap) collection",NA,"",76,"Priabonian","",38,33.9,41333,"gp_mid",23.19,48.33,"302",35.95,1
+"88015",127464,"col","",-0.38,42.31472,"Huesca, near",NA,"",1,"Priabonian","",38,33.9,41514,"gp_mid",4.59,37.01,"304",35.95,1
+"88103",127625,"col","",19.940001,54.869999,"Baltic Amber (Fleissner collection)",NA,"",5,"Priabonian","",38,33.9,47531,"gp_mid",23.19,48.33,"302",35.95,1
+"88203",127743,"col","Bembridge Marls",-1.36,50.737999,"Thorness Bay, Bembridge Marls, Isle of Wight (IWCMS coll)",NA,"",14,"Priabonian","",38,33.9,9429,"gp_mid",4.17,44.91,"315",35.95,1
+"88679",128437,"col","Padrag Marl",17.440001,47.099998,"Devecser 4 borehole",NA,"",2,"Priabonian","",38,33.9,41949,"gp_mid",22.43,37.31,"308",35.95,1
+"89234",129229,"col","",26.889999,51.310001,"Rovno Amber (RMRS collection)",NA,"",1,"Priabonian","",38,33.9,42084,"gp_mid",29.17,44.71,"302",35.95,1
+"89382",129546,"col","Bouldnor",-1.348,50.742001,"Bembridge marls, east end of Thorness Bay",NA,"",1,"Priabonian","",38,33.9,5011,"gp_mid",4.18,44.92,"315",35.95,1
+"91034",131679,"col","",19.940001,54.869999,"Baltic Amber, SMNK Karlsruhe collection",NA,"",1,"Priabonian","",38,33.9,42478,"gp_mid",23.19,48.33,"302",35.95,1
+"91581",132371,"col","",26.889999,51.310001,"Rovno Amber, Klesov locality (Museum of the Earth collection)",NA,"",5,"Priabonian","",38,33.9,42648,"gp_mid",29.17,44.71,"302",35.95,1
+"91726",132552,"col","Tobacco Road",-82.816666,32.950001,"Tennile Lime Sinks",NA,"",1,"Priabonian","",38,33.9,42488,"gp_mid",-67.18,35.76,"109",35.95,1
+"91773",132611,"col","Crystal River",-83.138054,29.319721,"Cedar Key, north",NA,"",1,"Priabonian","",38,33.9,42488,"gp_mid",-68.3,32.24,"109",35.95,1
+"91835",132702,"col","Crystal River",-83.248055,30.205278,"D. H. Bell Site",NA,"",1,"Priabonian","",38,33.9,42488,"gp_mid",-68.22,33.13,"109",35.95,1
+"91836",132703,"col","Crystal River",-85.22361,30.788055,"Marianna, north",NA,"",0,"Priabonian","",38,33.9,42488,"gp_mid",-70.11,34,"109",35.95,1
+"91926",132817,"col","Crystal River",-83.395279,29.665001,"Steinhatchee",NA,"Steinhatchee 1",1,"Priabonian","",38,33.9,42488,"gp_mid",-68.49,32.62,"109",35.95,1
+"92064",133024,"col","Twiggs",-83.324722,32.863056,"Gordon",NA,"",1,"Priabonian","",38,33.9,42488,"gp_mid",-67.71,35.75,"109",35.95,1
+"93137",134456,"col","",19.940001,54.869999,"Baltic Amber, ISEA Novosibirsk collection",NA,"",58,"Priabonian","",38,33.9,43235,"gp_mid",23.19,48.33,"302",35.95,1
+"95444",137410,"col","",19.940001,54.869999,"Baltic Amber, Brothers collection",NA,"",2,"Priabonian","",38,33.9,43941,"gp_mid",23.19,48.33,"302",35.95,1
+"95997",137999,"col","",21.059999,55.919998,"Baltic Amber, Latvian Natural History Museum LDM collection",NA,"",7,"Priabonian","",38,33.9,45790,"gp_mid",24.2,49.36,"302",35.95,1
+"95998",138000,"col","",19.940001,54.869999,"Baltic Amber, Vitali collection",NA,"",18,"Priabonian","",38,33.9,44121,"gp_mid",23.19,48.33,"302",35.95,1
+"96108",138115,"col","Calcareniti di Castelgomberto",11.583333,45.450001,"Lumignano, Vicenza, Calcareniti di Castelgomberto",NA,"",10,"Priabonian","",38,33.9,44169,"gp_mid",16.96,36.98,"307",35.95,1
+"96345",138380,"col","",19.940001,54.869999,"Baltic Amber (Geol. Inst. Koln collection)",NA,"",1,"Priabonian","",38,33.9,44303,"gp_mid",23.19,48.33,"302",35.95,1
+"96610",138654,"col","",19.940001,54.869999,"Baltic Amber (Brischke collection)",NA,"",9,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96611",138655,"col","",19.940001,54.869999,"Baltic Amber (Klinsmann collection)",NA,"",2,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96613",138657,"col","",19.940001,54.869999,"Baltic Amber (Duisburg collection)",NA,"",9,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96614",138658,"col","",19.940001,54.869999,"Baltic Amber (Dorpater museum collection)",NA,"",4,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96615",138659,"col","",19.940001,54.869999,"Baltic Amber (Dresden Museum collection)",NA,"",3,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96616",138660,"col","",19.940001,54.869999,"Baltic Amber (Meier collection)",NA,"",5,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96617",138661,"col","",19.940001,54.869999,"Baltic Amber (Schiefferdecker collection)",NA,"",6,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96618",138662,"col","",19.940001,54.869999,"Baltic Amber (Sischel collection)",NA,"",1,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96619",138663,"col","",19.940001,54.869999,"Baltic Amber (Sommerfeldt collection)",NA,"",9,"Priabonian","",38,33.9,44414,"gp_mid",23.19,48.33,"302",35.95,1
+"96623",138667,"col","Ocala",-84.15583,31.578611,"Albany",NA,"",1,"Priabonian","",38,33.9,44423,"gp_mid",-68.85,34.62,"109",35.95,1
+"96745",138800,"col","",19.940001,54.869999,"Baltic Amber, GPIH Kernegger collection",NA,"",3,"Priabonian","",38,33.9,44484,"gp_mid",23.19,48.33,"302",35.95,1
+"96826",138883,"col","",13.8,50.532001,"Kutschlin near Bilin",NA,"Kulín",12,"Late Eocene","",37.2,33.9,44564,"gp_mid",17.61,44.12,"305",35.55,1
+"96878",138940,"col","",19.940001,54.869999,"Baltic amber (Pouillon coll)",NA,"",1,"Priabonian","",38,33.9,44622,"gp_mid",23.19,48.33,"302",35.95,1
+"97147",139207,"col","",19.940001,54.869999,"Baltic Amber, BGSS coll",NA,"",1,"Priabonian","",38,33.9,44717,"gp_mid",23.19,48.33,"302",35.95,1
+"97818",139927,"col","",19.940001,54.869999,"Baltic Amber (Rücker coll)",NA,"",3,"Priabonian","",38,33.9,45115,"gp_mid",23.19,48.33,"302",35.95,1
+"97819",139928,"col","",19.940001,54.869999,"Baltic Amber (Alekseev coll)",NA,"",34,"Priabonian","",38,33.9,45116,"gp_mid",23.19,48.33,"302",35.95,1
+"97820",139929,"col","",19.940001,54.869999,"Baltic Amber (Belles coll)",NA,"",1,"Priabonian","",38,33.9,45117,"gp_mid",23.19,48.33,"302",35.95,1
+"97971",140082,"col","",19.940001,54.869999,"Baltic amber (Janson coll)",NA,"",3,"Priabonian","",38,33.9,45222,"gp_mid",23.19,48.33,"302",35.95,1
+"97976",140087,"col","",-82.81028,32.981667,"Sandersville",NA,"",2,"Priabonian","",38,33.9,45232,"gp_mid",-67.16,35.79,"109",35.95,1
+"98076",140221,"col","",19.940001,54.869999,"Baltic amber (Rosen coll)",NA,"",3,"Priabonian","",38,33.9,45339,"gp_mid",23.19,48.33,"302",35.95,1
+"98153",140306,"col","",19.940001,54.869999,"Baltic amber (Ward coll)",NA,"",1,"Priabonian","",38,33.9,45382,"gp_mid",23.19,48.33,"302",35.95,1
+"98154",140311,"col","",19.940001,54.869999,"Baltic Amber (Booth Museum BMB coll)",NA,"",4,"Priabonian","",38,33.9,45389,"gp_mid",23.19,48.33,"302",35.95,1
+"98272",140452,"col","",19.940001,54.869999,"Baltic Amber (BSPG coll)",NA,"",12,"Priabonian","",38,33.9,45449,"gp_mid",23.19,48.33,"302",35.95,1
+"98299",140480,"col","",19.940001,54.869999,"Baltic amber (Weiterschan coll)",NA,"",6,"Priabonian","",38,33.9,45490,"gp_mid",23.19,48.33,"302",35.95,1
+"98514",140789,"col","",19.940001,54.869999,"Baltic amber (KGL Berlin collection)",NA,"",7,"Priabonian","",38,33.9,45646,"gp_mid",23.19,48.33,"302",35.95,1
+"98528",140808,"col","",19.940001,54.869999,"Baltic amber (Vilnius University collection)",NA,"",19,"Priabonian","",38,33.9,5899,"gp_mid",23.19,48.33,"302",35.95,1
+"98529",140810,"col","",19.940001,54.869999,"Baltic amber, Reike collection",NA,"",9,"Priabonian","",38,33.9,45692,"gp_mid",23.19,48.33,"302",35.95,1
+"98538",140820,"col","",19.940001,54.869999,"Baltic amber, Rheinheimer collection",NA,"",1,"Priabonian","",38,33.9,45693,"gp_mid",23.19,48.33,"302",35.95,1
+"98539",140821,"col","",19.940001,54.869999,"Baltic amber (MNH Lyon collection)",NA,"",1,"Priabonian","",38,33.9,45694,"gp_mid",23.19,48.33,"302",35.95,1
+"99379",141892,"col","",-60.627499,43.849167,"CP1  P-51 well (475-480m)",NA,"",3,"Late Eocene","",37.2,33.9,46092,"gp_mid",-42.31,42.87,"108",35.55,1
+"100232",142966,"col","Jackson",-80.627777,33.595833,"Belle Broughton plantation, 1/2 mi SE of Creston, on branch of Halfway Swamp",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-64.81,36.05,"109",35.55,1
+"100237",142971,"col","",-82.301666,29.658056,"Alachua County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.38,32.44,"109",35.55,1
+"100238",142972,"col","",-82.821114,29.317778,"Levy County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.98,32.19,"109",35.55,1
+"100239",142973,"col","",-82.127777,29.278889,"Marion County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.28,32.04,"109",35.55,1
+"100694",143459,"col","",2.535278,46.361111,"Domérat",NA,"Montlucon–Domérat basin",7,"MP 18","MP 19",37.2,33.9,61227,"gp_mid",7.23,40.36,"305",35.55,1
+"101207",144065,"col","",110.916664,21.65,"Tat'ang, Maoming",NA,"",4,"Late Eocene","",37.2,33.9,46579,"gp_mid",112.96,20.35,"611",35.55,1
+"101578",144529,"col","Monteils",4.18,44.09,"Alès-Monteils (MNHN Collection)",NA,"",13,"Priabonian","",38,33.9,46750,"gp_mid",8.54,38.02,"305",35.95,1
+"101590",144541,"col","",11.55,45.383331,"Colle La Favorita. Lonigo",NA,"",1,"Late Eocene","",37.2,33.9,46758,"gp_mid",16.91,36.92,"307",35.55,1
+"101591",144542,"col","",11.55,45.383331,"Monticello di Fara",NA,"",1,"Late Eocene","",37.2,33.9,46758,"gp_mid",16.91,36.92,"307",35.55,1
+"101616",144567,"col","",19.940001,54.869999,"Baltic amber (Alava Museum collection)",NA,"",1,"Priabonian","",38,33.9,50073,"gp_mid",23.19,48.33,"302",35.95,1
+"101652",144665,"col","",-5.854444,43.360001,"Cantera Llamaquique",NA,"Asturichelys multicostatus type locality",1,"Late Eocene","",37.2,33.9,46814,"gp_mid",-0.42,38.2,"304",35.55,1
+"102258",145846,"col","",19.940001,54.869999,"Baltic Amber (Zoologische Staatsammlung, Munich)",NA,"",27,"Priabonian","",38,33.9,50232,"gp_mid",23.19,48.33,"302",35.95,1
+"102259",154572,"col","",19.940001,54.869999,"Baltic amber (Seredszus collection)",NA,"",7,"Priabonian","",38,33.9,50232,"gp_mid",23.19,48.33,"302",35.95,1
+"102481",146359,"col","",19.940001,54.869999,"Baltic Amber, Sternberg collection",NA,"",1,"Priabonian","",38,33.9,47286,"gp_mid",23.19,48.33,"302",35.95,1
+"102935",146881,"col","",19.940001,54.869999,"Baltic amber (Pougnet coll)",NA,"",1,"Priabonian","",38,33.9,47449,"gp_mid",23.19,48.33,"302",35.95,1
+"102963",146906,"col","",19.940001,54.869999,"Baltic amber (Sorbonne collection)",NA,"",1,"Priabonian","",38,33.9,47456,"gp_mid",23.19,48.33,"302",35.95,1
+"103057",147004,"col","",19.940001,54.869999,"Baltic amber (Tystschenko coll)",NA,"",1,"Priabonian","",38,33.9,47474,"gp_mid",23.19,48.33,"302",35.95,1
+"103225",147179,"col","",13.15,48.116669,"Molasse Zone",NA,"",7,"Priabonian","",38,33.9,47498,"gp_mid",16.89,41.72,"305",35.95,1
+"103372",147344,"col","",19.940001,54.869999,"Baltic amber (Leipzig University collection)",NA,"",19,"Priabonian","",38,33.9,47505,"gp_mid",23.19,48.33,"302",35.95,1
+"103376",147348,"col","",19.940001,54.869999,"Baltic amber (Sachsisch-Thuringischen Vereins collection)",NA,"",3,"Priabonian","",38,33.9,47505,"gp_mid",23.19,48.33,"302",35.95,1
+"103377",147349,"col","",19.940001,54.869999,"Baltic amber (Halle collection)",NA,"",10,"Priabonian","",38,33.9,49879,"gp_mid",23.19,48.33,"302",35.95,1
+"103378",147350,"col","",19.940001,54.869999,"Baltic amber (Ouchakoff collection)",NA,"",1,"Priabonian","",38,33.9,47507,"gp_mid",23.19,48.33,"302",35.95,1
+"103465",147468,"col","",19.940001,54.869999,"Baltic amber, Cornell collection",NA,"",9,"Priabonian","",38,33.9,47446,"gp_mid",23.19,48.33,"302",35.95,1
+"103474",147477,"col","",19.940001,54.869999,"Baltic Amber, University of Cambridge (Sedgwick Mus)",NA,"",4,"Priabonian","",38,33.9,47446,"gp_mid",23.19,48.33,"302",35.95,1
+"103601",147611,"col","",19.940001,54.869999,"Baltic Amber (SMNG collection)",NA,"",1,"Priabonian","",38,33.9,47531,"gp_mid",23.19,48.33,"302",35.95,1
+"103602",147612,"col","",19.940001,54.869999,"Baltic Amber, Humboldt University MfN Collection",NA,"Paleontological Institute, Humboldt Univ Berlin",46,"Priabonian","",38,33.9,50950,"gp_mid",23.19,48.33,"302",35.95,1
+"103634",147651,"col","",19.940001,54.869999,"Baltic Amber (YPM collection)",NA,"",7,"Priabonian","",38,33.9,47446,"gp_mid",23.19,48.33,"302",35.95,1
+"103635",147652,"col","",19.940001,54.869999,"Baltic Amber (USNM collection)",NA,"",12,"Priabonian","",38,33.9,47446,"gp_mid",23.19,48.33,"302",35.95,1
+"103686",147703,"col","",11.533333,45.416668,"Mossano village, Coralline crust wackestone facies",NA,"",14,"Priabonian","",38,33.9,47541,"gp_mid",16.91,36.95,"307",35.95,1
+"103687",147704,"col","",11.533333,45.416668,"Mossano village, small Nummulites and rhodolith packstone facies",NA,"",15,"Priabonian","",38,33.9,47541,"gp_mid",16.91,36.95,"307",35.95,1
+"103778",147798,"col","",11.533333,45.416668,"Mossano village, Orthophragminid rudstone facies",NA,"",14,"Priabonian","",38,33.9,47541,"gp_mid",16.91,36.95,"307",35.95,1
+"103779",147799,"col","",11.533333,45.416668,"Mossano village, Orthophragminid packstone facies",NA,"",12,"Priabonian","",38,33.9,47541,"gp_mid",16.91,36.95,"307",35.95,1
+"103780",147800,"col","",11.533333,45.416668,"Mossano village, Crustose coralline algal pavement facies facies",NA,"",16,"Priabonian","",38,33.9,47541,"gp_mid",16.91,36.95,"307",35.95,1
+"104756",148846,"col","",19.940001,54.869999,"Baltic Amber (Petrunkevitch collection)",NA,"",3,"Priabonian","",38,33.9,47730,"gp_mid",23.19,48.33,"302",35.95,1
+"104789",148889,"col","",19.940001,54.869999,"Baltic Amber (Royal Ontario Museum)",NA,"",4,"Priabonian","",38,33.9,51767,"gp_mid",23.19,48.33,"302",35.95,1
+"105191",149316,"col","Langental Beds",15.4055,-27.396,"Langental, NE of Bogenfels",NA,"",112,"Priabonian","",38,33.9,47897,"gp_mid",11.49,-36.23,"701",35.95,1
+"105296",149473,"col","",19.940001,54.869999,"Baltic Amber (H. Wegner collection)",NA,"",2,"Priabonian","",38,33.9,47817,"gp_mid",23.19,48.33,"302",35.95,1
+"105297",149474,"col","",19.940001,54.869999,"Baltic amber (F. and G. Witsch coll)",NA,"",1,"Priabonian","",38,33.9,47818,"gp_mid",23.19,48.33,"302",35.95,1
+"105301",149478,"col","",9.98,53.459999,"Hamburg-Harburg gravel mine (Baltic amber)",NA,"",1,"Priabonian","",38,33.9,47825,"gp_mid",14.44,47.16,"315",35.95,1
+"105302",149482,"col","",19.940001,54.869999,"Baltic amber (Grote coll)",NA,"",1,"Priabonian","",38,33.9,47826,"gp_mid",23.19,48.33,"302",35.95,1
+"105303",149483,"col","",19.940001,54.869999,"Baltic amber (Kropf coll)",NA,"",1,"Priabonian","",38,33.9,47826,"gp_mid",23.19,48.33,"302",35.95,1
+"105305",149488,"col","",8.8,53.07,"Sand mine in Bremen, Baltic amber",NA,"",1,"Priabonian","",38,33.9,47826,"gp_mid",13.38,46.81,"315",35.95,1
+"105308",149492,"col","",19.940001,54.869999,"Baltic amber (Krause coll)",NA,"",1,"Priabonian","",38,33.9,47837,"gp_mid",23.19,48.33,"302",35.95,1
+"105508",149851,"col","",1.7,52.599998,"Baltic amber, east coast of England (BMNH coll)",NA,"",1,"Priabonian","",38,33.9,47730,"gp_mid",7.09,46.62,"315",35.95,1
+"105833",150189,"col","",19.940001,54.869999,"Baltic Amber, Geologisch-Palaeontologisches Museum, Berlin",NA,"",1,"Priabonian","",38,33.9,10266,"gp_mid",23.19,48.33,"302",35.95,1
+"105977",151737,"col","Youganwo",110.883331,21.700001,"Maoming City Oil Shale Quarry",NA,"",6,"Late Eocene","",37.2,33.9,48403,"gp_mid",112.91,20.39,"611",35.55,1
+"106874",151433,"col"," Nago Limestone",11.116667,46.049999,"Trentino, Nago Limestone, coral facies 1",NA,"",28,"Priabonian","",38,33.9,48390,"gp_mid",16.81,37.65,"307",35.95,1
+"106875",151434,"col"," Nago Limestone",11.116667,46.049999,"Trentino, Nago Limestone, coral facies 2",NA,"",32,"Priabonian","",38,33.9,48390,"gp_mid",16.81,37.65,"307",35.95,1
+"106997",151572,"col","",19.940001,54.869999,"Baltic Amber (OSUC collection)",NA,"",6,"Priabonian","",38,33.9,48444,"gp_mid",23.19,48.33,"302",35.95,1
+"107279",151913,"col","",19.940001,54.869999,"Baltic amber (Bursey collection)",NA,"",1,"Priabonian","",38,33.9,48541,"gp_mid",23.19,48.33,"302",35.95,1
+"107313",151998,"col","",19.940001,54.869999,"Baltic Amber, ZFAK collection",NA,"",2,"Priabonian","",38,33.9,48628,"gp_mid",23.19,48.33,"302",35.95,1
+"107314",151999,"col","",19.940001,54.869999,"Baltic amber (Evenhuis collection, BPBM)",NA,"",2,"Priabonian","",38,33.9,48628,"gp_mid",23.19,48.33,"302",35.95,1
+"107315",152000,"col","",19.940001,54.869999,"Baltic amber (Ocean Museum Kaliningrad collection)",NA,"",7,"Priabonian","",38,33.9,50805,"gp_mid",23.19,48.33,"302",35.95,1
+"107322",152019,"col","",19.940001,54.869999,"Baltic amber (Senckenberg Forschungsinstitut coll)",NA,"",1,"Priabonian","",38,33.9,48691,"gp_mid",23.19,48.33,"302",35.95,1
+"107323",152022,"col","",19.940001,54.869999,"Baltic amber, Andris Bukejs (Daugavpils University) collection",NA,"",24,"Priabonian","",38,33.9,48693,"gp_mid",23.19,48.33,"302",35.95,1
+"107342",152042,"col","",19.940001,54.869999,"Baltic amber (Freiheit collection)",NA,"",2,"Priabonian","",38,33.9,48711,"gp_mid",23.19,48.33,"302",35.95,1
+"107532",152261,"col","",19.940001,54.869999,"Baltic amber (Theobald collection)",NA,"",3,"Priabonian","",38,33.9,48966,"gp_mid",23.19,48.33,"302",35.95,1
+"107542",152273,"col","",26.559999,51.564999,"Rovno Amber, Dubrovitsa locality, Gritski Village (SIZC DG collection)",NA,"",1,"Priabonian","",38,33.9,48975,"gp_mid",28.89,44.96,"302",35.95,1
+"107668",152465,"col","Toolinna Limestone",123.894997,-33.591,"Israelite Bay",NA,"",3,"Priabonian","",38,33.9,49060,"gp_mid",126.26,-54.67,"801",35.95,1
+"107672",152468,"col","Toolinna Limestone",125.026001,-32.729,"Toolinna Cove",NA,"",6,"Priabonian","",38,33.9,49060,"gp_mid",127.65,-53.68,"801",35.95,1
+"107674",152469,"col","Wilson Bluff",126.035004,-32.27,"Twilight Cove",NA,"",3,"Priabonian","",38,33.9,49060,"gp_mid",128.94,-53.1,"801",35.95,1
+"107675",152470,"col","Wilson Bluff",125.917,-31.966,"Cocklebiddy Cave",NA,"Cockelbiddy Cave",3,"Priabonian","",38,33.9,49060,"gp_mid",128.7,-52.82,"801",35.95,1
+"107678",152471,"col","Werillup",123.769997,-32.189999,"Kullingobinya Dam, Balladonia",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",125.76,-53.3,"801",35.95,1
+"107680",152474,"col","Toolinna Limestone",123.610001,-32.759998,"Booanya Well, Nanambinia Station",NA,"",4,"Priabonian","",38,33.9,49060,"gp_mid",125.66,-53.88,"801",35.95,1
+"107682",152475,"col","Wilson Bluff Limestone",125.917,-31.966,"Swallow Cave, Cocklebiddy Station",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",128.7,-52.82,"801",35.95,1
+"107685",152534,"col","Wilson Bluff",125.917,-31.966,"Cocklebiddy Cave, 44.2-70.2 m below top of formation",NA,"Cockelbiddy Cave",1,"Priabonian","",38,33.9,49060,"gp_mid",128.7,-52.82,"801",35.95,1
+"107688",152538,"col","Toolinna Limestone",125.026001,-32.729,"Toolinna Cove, 30.1-33.6 m above sea level",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",127.65,-53.68,"801",35.95,1
+"107711",152502,"col","Marna Euganea",11.691,45.327999,"Via Siesa, Castelnuovo of Teolo",NA,"",6,"Priabonian","",38,33.9,49093,"gp_mid",17,36.84,"307",35.95,1
+"107719",152519,"col","Wilson Bluff",123.849998,-33.400002,"Malcolm Scarp, 9-12.3 m below plain",NA,"",2,"Priabonian","",38,33.9,49060,"gp_mid",126.15,-54.49,"801",35.95,1
+"107720",152520,"col","Wilson Bluff",123.849998,-33.400002,"Malcolm Scarp, 12.3-15.3 m below plain",NA,"",2,"Priabonian","",38,33.9,49060,"gp_mid",126.15,-54.49,"801",35.95,1
+"107722",152523,"col","Toolinna Limestone",125.026001,-32.729,"Toolinna Cove, 24.6 m above sea level",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",127.65,-53.68,"801",35.95,1
+"107730",152539,"col","Toolinna Limestone",125.026001,-32.729,"Toolinna Cove, 24.4 m above sea level",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",127.65,-53.68,"801",35.95,1
+"107732",152541,"col","Wilson Bluff",125.917,-31.966,"Cocklebiddy Station, Nullarbor Plain",NA,"",1,"Priabonian","",38,33.9,49060,"gp_mid",128.7,-52.82,"801",35.95,1
+"107762",152582,"col","Arguis",-0.566667,42.366669,"Rasal locality, Ainsa-Jaca Basin, coral boundstone facies",NA,"",37,"Priabonian","",38,33.9,49125,"gp_mid",4.42,37.06,"304",35.95,1
+"107763",152583,"col","Arguis",-0.566667,42.366669,"Rasal locality, Ainsa-Jaca Basin, skeletal packstone facies",NA,"",11,"Priabonian","",38,33.9,49125,"gp_mid",4.42,37.06,"304",35.95,1
+"107764",152584,"col","Arguis",-0.566667,42.366669,"Rasal locality, Ainsa-Jaca Basin, coral rudstone facies",NA,"",9,"Priabonian","",38,33.9,49125,"gp_mid",4.42,37.06,"304",35.95,1
+"107765",152585,"col","Arguis",-0.566667,42.366669,"Rasal locality, Ainsa-Jaca Basin, bryozoan floatstone facies",NA,"",6,"Priabonian","",38,33.9,49125,"gp_mid",4.42,37.06,"304",35.95,1
+"107766",152586,"col","Arguis",-0.566667,42.366669,"Rasal locality, Ainsa-Jaca Basin, Sandstones facies",NA,"",3,"Priabonian","",38,33.9,49125,"gp_mid",4.42,37.06,"304",35.95,1
+"107798",152640,"col","",19.940001,54.869999,"Baltic Amber (Thery collection)",NA,"",2,"Priabonian","",38,33.9,49176,"gp_mid",23.19,48.33,"302",35.95,1
+"107799",152641,"col","",19.940001,54.869999,"Baltic Amber (Meunier collection)",NA,"",2,"Priabonian","",38,33.9,49176,"gp_mid",23.19,48.33,"302",35.95,1
+"107801",152643,"col","",19.940001,54.869999,"Baltic Amber (Freheit collection)",NA,"",1,"Priabonian","",38,33.9,49213,"gp_mid",23.19,48.33,"302",35.95,1
+"108241",153460,"col","",19.940001,54.869999,"Baltic amber (S.V. Triapitsyn collection)",NA,"",4,"Priabonian","",38,33.9,37853,"gp_mid",23.19,48.33,"302",35.95,1
+"108242",153461,"col","",19.940001,54.869999,"Baltic amber (UC Riverside collection)",NA,"",3,"Priabonian","",38,33.9,37853,"gp_mid",23.19,48.33,"302",35.95,1
+"108307",153587,"col","",26.889999,51.310001,"Rovno Amber, Klesov locality (Damzen collection)",NA,"",1,"Priabonian","",38,33.9,49627,"gp_mid",29.17,44.71,"302",35.95,1
+"108348",153654,"col","",0.81,48.330002,"Nogent-le-Rotrou",NA,"",1,"Priabonian","",38,33.9,49716,"gp_mid",5.86,42.41,"305",35.95,1
+"108411",153734,"col","",19.940001,54.869999,"Baltic amber (Moravian Museum collection)",NA,"",1,"Priabonian","",38,33.9,49797,"gp_mid",23.19,48.33,"302",35.95,1
+"108412",153735,"col","",19.940001,54.869999,"Baltic amber (Serafin collection)",NA,"",2,"Priabonian","",38,33.9,50246,"gp_mid",23.19,48.33,"302",35.95,1
+"108535",153882,"col","",26.559999,51.564999,"Rovno Amber, unspecified locality (SIZC collection)",NA,"",4,"Priabonian","",38,33.9,49863,"gp_mid",28.89,44.96,"302",35.95,1
+"108921",154362,"col","",21.059999,55.919998,"Baltic amber (INHS collection)",NA,"",6,"Priabonian","",38,33.9,50203,"gp_mid",24.2,49.36,"302",35.95,1
+"109152",154618,"col","",19.940001,54.869999,"Baltic amber (Stark collection)",NA,"",1,"Priabonian","",38,33.9,50252,"gp_mid",23.19,48.33,"302",35.95,1
+"109153",154619,"col","",19.940001,54.869999,"Baltic Amber (Weitschat Collection)",NA,"",3,"Priabonian","",38,33.9,50259,"gp_mid",23.19,48.33,"302",35.95,1
+"109167",154633,"col","",19.940001,54.869999,"Baltic Amber (Janzen Collection)",NA,"",6,"Priabonian","",38,33.9,50259,"gp_mid",23.19,48.33,"302",35.95,1
+"109168",154634,"col","",19.940001,54.869999,"Baltic Amber (Zompro collection)",NA,"",1,"Priabonian","",38,33.9,50259,"gp_mid",23.19,48.33,"302",35.95,1
+"109169",154635,"col","",19.940001,54.869999,"Baltic Amber (Krull collection)",NA,"",1,"Priabonian","",38,33.9,50259,"gp_mid",23.19,48.33,"302",35.95,1
+"109229",154708,"col","",19.940001,54.869999,"Baltic Amber (MRAC collection)",NA,"",2,"Priabonian","",38,33.9,50302,"gp_mid",23.19,48.33,"302",35.95,1
+"109230",154709,"col","",19.940001,54.869999,"Baltic Amber (Henderickx collection)",NA,"",4,"Priabonian","",38,33.9,50302,"gp_mid",23.19,48.33,"302",35.95,1
+"109231",154710,"col","",26.15,51.355,"Rovno Amber, Zhovkini locality (SIZC ZH collection)",NA,"",1,"Priabonian","",38,33.9,50304,"gp_mid",28.52,44.76,"302",35.95,1
+"109242",154725,"col","Headon Hill",-1.539444,50.669445,"Hatherwood Point, Headon Hill Locality",NA,"",1,"Late Eocene","",37.2,33.9,50285,"gp_mid",4,44.86,"315",35.55,1
+"109374",154929,"col","",19.940001,54.869999,"Baltic Amber (Priesner collection)",NA,"",1,"Priabonian","",38,33.9,50463,"gp_mid",23.19,48.33,"302",35.95,1
+"109464",156261,"col","",19.940001,54.869999,"Baltic Amber (Manchester Museum collection)",NA,"",1,"Priabonian","",38,33.9,51182,"gp_mid",23.19,48.33,"302",35.95,1
+"109488",155056,"col","",19.940001,54.869999,"Baltic Amber (Royal Swedish Museum collection)",NA,"",2,"Priabonian","",38,33.9,50544,"gp_mid",23.19,48.33,"302",35.95,1
+"109492",155061,"col","",19.940001,54.869999,"Baltic Amber (National Museum of Ukraine collection)",NA,"",2,"Priabonian","",38,33.9,72519,"gp_mid",23.19,48.33,"302",35.95,1
+"109630",155207,"col","",1.7,52.599998,"Baltic amber, Norfolk coast (BMNH coll)",NA,"",1,"Priabonian","",38,33.9,50594,"gp_mid",7.09,46.62,"315",35.95,1
+"109762",155460,"col","",19.940001,54.869999,"Baltic amber (Oehlke collection)",NA,"",8,"Priabonian","",38,33.9,50770,"gp_mid",23.19,48.33,"302",35.95,1
+"109921",155731,"col","",19.940001,54.869999,"Baltic Amber (Knodel collection)",NA,"",1,"Priabonian","",38,33.9,50921,"gp_mid",23.19,48.33,"302",35.95,1
+"109922",155732,"col","",19.940001,54.869999,"Baltic Amber (Eberswalde collection)",NA,"",2,"Priabonian","",38,33.9,49190,"gp_mid",23.19,48.33,"302",35.95,1
+"109923",155733,"col","",19.940001,54.869999,"Baltic amber (Kotashevich collection)",NA,"",2,"Priabonian","",38,33.9,50922,"gp_mid",23.19,48.33,"302",35.95,1
+"109977",155834,"col","Kaiata Mudstone",171.431427,-42.142342,"K30/f8687 - Bullock Creek [Kaiata Mudstone]",NA,"S37/f0687",1,"Kaiatan","",37.2,36,50994,"gp_mid",-169.85,-49.56,"806",36.6,1
+"109978",155835,"col","Kaiata Mudstone",171.337524,-42.096958,"K30/f8614 - Bullock Creek [Kaiata Mudstone]",NA,"S37/f0614",3,"Kaiatan","",37.2,36,50994,"gp_mid",-169.98,-49.56,"806",36.6,1
+"109979",155836,"col","Kaiata Mudstone",171.322205,-42.4328,"K31/f8467 - Brunner Mine [Kaiata Mudstone]",NA,"S44/f0467",1,"Kaiatan","",37.2,36,50994,"gp_mid",-169.73,-49.85,"806",36.6,1
+"110086",155981,"col","",19.940001,54.869999,"Baltic Amber (Mustafajew collection)",NA,"",1,"Priabonian","",38,33.9,51054,"gp_mid",23.19,48.33,"302",35.95,1
+"110087",155982,"col","",19.940001,54.869999,"Baltic Amber (Ribnitz-Damgarten collection)",NA,"",1,"Priabonian","",38,33.9,51055,"gp_mid",23.19,48.33,"302",35.95,1
+"110237",156165,"col","",19.940001,54.869999,"Baltic Amber (Schulke collection)",NA,"",1,"Priabonian","",38,33.9,51143,"gp_mid",23.19,48.33,"302",35.95,1
+"110304",156497,"col","",19.940001,54.869999,"Baltic Amber (Peter Laging collection)",NA,"",2,"Priabonian","",38,33.9,51278,"gp_mid",23.19,48.33,"302",35.95,1
+"110354",156572,"col","",19.940001,54.869999,"Baltic Amber (Klausnitzer collection)",NA,"",3,"Priabonian","",38,33.9,51320,"gp_mid",23.19,48.33,"302",35.95,1
+"110395",156628,"col","Bembridge Marls",-1.36,50.737999,"Thorness Bay, Bembridge Marls, Isle of Wight (BMB coll)",NA,"",16,"Priabonian","",38,33.9,51361,"gp_mid",4.17,44.91,"315",35.95,1
+"110711",157229,"col","",19.940001,54.869999,"Baltic amber (Ravmusee Varde Museum collection)",NA,"",1,"Priabonian","",38,33.9,51588,"gp_mid",23.19,48.33,"302",35.95,1
+"110744",157322,"col","",19.940001,54.869999,"Baltic Amber (Piton collection)",NA,"",3,"Priabonian","",38,33.9,51666,"gp_mid",23.19,48.33,"302",35.95,1
+"110745",157323,"col","",19.940001,54.869999,"Yantarnyi village (PIN collection 477)",NA,"Baltic Amber",2,"Priabonian","",38,33.9,51593,"gp_mid",23.19,48.33,"302",35.95,1
+"110746",157325,"col","",19.940001,54.869999,"Baltic amber (Uppsala collection)",NA,"",1,"Priabonian","",38,33.9,51593,"gp_mid",23.19,48.33,"302",35.95,1
+"110747",157326,"col","",19.940001,54.869999,"Baltic Amber, Humboldt Museum Orth collection",NA,"",1,"Priabonian","",38,33.9,51593,"gp_mid",23.19,48.33,"302",35.95,1
+"110751",157330,"col","",19.940001,54.869999,"Baltic amber (Stuke collection)",NA,"",1,"Priabonian","",38,33.9,51701,"gp_mid",23.19,48.33,"302",35.95,1
+"110760",157348,"col","",19.940001,54.869999,"Baltic Amber (Spies collection)",NA,"",1,"Priabonian","",38,33.9,40359,"gp_mid",23.19,48.33,"302",35.95,1
+"111010",157667,"col","Bouldnor",-1.36,50.737999,"Thorness Bay, Bembridge Marls (Portsmouth coll)",NA,"",1,"Priabonian","",38,33.9,51854,"gp_mid",4.17,44.91,"315",35.95,1
+"111011",157670,"col","Bembridge Marls",-1.378,50.734001,"Burnt Wood, Bembridge Marls (BMNH collection)",NA,"",1,"Priabonian","",38,33.9,51861,"gp_mid",4.16,44.91,"315",35.95,1
+"111012",157669,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (CAMSM collection)",NA,"",9,"Priabonian","",38,33.9,51852,"gp_mid",4.17,44.91,"315",35.95,1
+"112600",160118,"col","Williston Limestone",-82.480278,29.668333,"Abandoned limerock quarry, FL Highway 26 [Williston Limestone]",NA,"",1,"Priabonian","",38,33.9,52258,"gp_mid",-67.56,32.48,"109",35.95,1
+"112832",160399,"col","Dry Branch",-81.418335,33.5825,"SCGS 2-42 (20 m) - Aiken Co. Road 14 [Griffins Landing Mbr, Dry Branch Fm]",NA,"",3,"Late Eocene","",37.2,33.9,52308,"gp_mid",-65.61,36.16,"109",35.55,1
+"112833",160400,"col","Dry Branch",-81.427498,33.575558,"SCGS 2-49 (14 m) - Aiken Co. Road 14 [Griffins Landing Mbr, Dry Branch Fm]",NA,"",8,"Late Eocene","",37.2,33.9,52308,"gp_mid",-65.62,36.15,"109",35.55,1
+"112871",160436,"col","",19.940001,54.869999,"Baltic amber (University of L'Aquila collection)",NA,"",2,"Priabonian","",38,33.9,52315,"gp_mid",23.19,48.33,"302",35.95,1
+"112893",160460,"col","",9.833,52.237,"Baltic Amber, Kiesgruben west of Sarstedt",NA,"",7,"Priabonian","",38,33.9,52349,"gp_mid",14.22,45.94,"315",35.95,1
+"112900",160467,"col","",19.940001,54.869999,"Baltic Amber, H. Liedtke collection",NA,"",1,"Priabonian","",38,33.9,51545,"gp_mid",23.19,48.33,"302",35.95,1
+"112904",160471,"col","",19.940001,54.869999,"Baltic amber (UFES collection)",NA,"",3,"Priabonian","",38,33.9,52377,"gp_mid",23.19,48.33,"302",35.95,1
+"114397",162500,"col","Tongeren",5.686165,50.820728,"ENCI Quarry, Eocene",NA,"Sint-Pietersberg",1,"Priabonian","",38,33.9,52921,"gp_mid",10.44,44.68,"315",35.95,1
+"114832",163130,"col","",19.940001,54.869999,"Baltic amber (University of Lund coll)",NA,"",1,"Priabonian","",38,33.9,53118,"gp_mid",23.19,48.33,"302",35.95,1
+"115150",163784,"col","",19.940001,54.869999,"Baltic amber (MGCP collection)",NA,"",6,"Priabonian","",38,33.9,53413,"gp_mid",23.19,48.33,"302",35.95,1
+"115214",163861,"col","",19.940001,54.869999,"Baltic amber (University of Helsinki collection)",NA,"",1,"Priabonian","",38,33.9,53496,"gp_mid",23.19,48.33,"302",35.95,1
+"115540",164667,"col","",19.940001,54.869999,"Baltic amber (Roussy collection)",NA,"",1,"Priabonian","",38,33.9,53807,"gp_mid",23.19,48.33,"302",35.95,1
+"116092",165567,"col","",19.940001,54.869999,"Baltic Amber (University of Silesia collection)",NA,"",16,"Priabonian","",38,33.9,54131,"gp_mid",23.19,48.33,"302",35.95,1
+"116093",165568,"col","",19.940001,54.869999,"Baltic Amber (Arnold collection)",NA,"",3,"Priabonian","",38,33.9,54131,"gp_mid",23.19,48.33,"302",35.95,1
+"117088",167230,"col","Youganwo",110.883331,21.700001,"Maoming Basin",NA,"",7,"Late Eocene","",37.2,33.9,54564,"gp_mid",112.91,20.39,"611",35.55,1
+"117232",172372,"col","",26.25,50.599998,"Rovno Amber (Wunderlich collection)",NA,"",2,"Priabonian","",38,33.9,47859,"gp_mid",28.61,44,"302",35.95,1
+"117363",167590,"col","",19.940001,54.869999,"Baltic Amber (Technical University Munich collection)",NA,"",1,"Priabonian","",38,33.9,54720,"gp_mid",23.19,48.33,"302",35.95,1
+"117398",167686,"col","",19.940001,54.869999,"Baltic Amber (Fischer coll)",NA,"",3,"Priabonian","",38,33.9,54761,"gp_mid",23.19,48.33,"302",35.95,1
+"117457",167770,"col","",19.940001,54.869999,"Baltic Amber (Assing coll)",NA,"",1,"Priabonian","",38,33.9,54811,"gp_mid",23.19,48.33,"302",35.95,1
+"117619",167952,"col","",19.940001,54.869999,"Baltic amber (Ron Cauble collection)",NA,"",2,"Priabonian","",38,33.9,54968,"gp_mid",23.19,48.33,"302",35.95,1
+"118220",169418,"col","Pidinga",121.769997,-32.188889,"Scotia South SC3466R",NA,"Cowan paleodrainage",2,"Late Eocene","",37.2,33.9,55370,"gp_mid",122.94,-53.5,"801",35.55,1
+"118221",169419,"col","Pidinga",121.769997,-32.188889,"Scotia pit",NA,"Cowan paleodrainage",1,"Late Eocene","",37.2,33.9,55370,"gp_mid",122.94,-53.5,"801",35.55,1
+"118964",170205,"col","",29.190001,50.875,"Rovno Amber, Gulyanka locality (SIZC Gu collection)",NA,"",2,"Priabonian","",38,33.9,55537,"gp_mid",31.2,44.27,"302",35.95,1
+"119804",171373,"col","Marnes de la Côte des Basques",-1.55,43.466667,"Biarritz, Côte des Basques (BMNH collection)",NA,"",4,"Priabonian","",38,33.9,55728,"gp_mid",3.56,38.19,"304",35.95,1
+"119805",171374,"col","",-1.1,43.549999,"Peyrehorade (Arribaouts)",NA,"",1,"Priabonian","",38,33.9,55728,"gp_mid",3.67,37.73,"305",35.95,1
+"120041",171610,"col","",19.940001,54.869999,"Baltic amber (University of Alcalá UAH collection)",NA,"",2,"Priabonian","",38,33.9,55790,"gp_mid",23.19,48.33,"302",35.95,1
+"120499",172614,"col","",21.059999,55.919998,"Baltic amber (Maastricht NHM collection)",NA,"",1,"Priabonian","",38,33.9,56077,"gp_mid",24.2,49.36,"302",35.95,1
+"120599",172936,"col","",19.940001,54.869999,"Baltic amber (Damgaard collection)",NA,"",26,"Priabonian","",38,33.9,56232,"gp_mid",23.19,48.33,"302",35.95,1
+"120619",172987,"col","Amravati",74.508331,21.566668,"Valia, Broach District",NA,"",1,"Priabonian","",38,33.9,56246,"gp_mid",74.1,3.73,"501",35.95,1
+"120650",173102,"col","",19.940001,54.869999,"Baltic Amber (Schimmel collection)",NA,"",1,"Priabonian","",38,33.9,56268,"gp_mid",23.19,48.33,"302",35.95,1
+"120673",173158,"col","",24.17,52.105,"Belarus amber, Gatcha-Osov site, Kobryn district",NA,"",3,"Priabonian","",38,33.9,56276,"gp_mid",26.8,45.52,"302",35.95,1
+"120690",173264,"col","",19.940001,54.869999,"Baltic Amber (Heitman collection)",NA,"",3,"Priabonian","",38,33.9,56326,"gp_mid",23.19,48.33,"302",35.95,1
+"120724",173420,"col","",23.6,56.970001,"Baltic amber, Yurmala (Zoological Museum, ZMU, Moscow)",NA,"",1,"Priabonian","",38,33.9,55364,"gp_mid",26.41,50.39,"302",35.95,1
+"121297",174732,"col","Ocala",-82.561386,29.700277,"Dickerson Limerock Mines (Haile Complex)",NA,"UF AL004",1,"Priabonian","",38,33.9,57098,"gp_mid",-67.63,32.52,"109",35.95,1
+"121948",175703,"col","",19.940001,54.869999,"Baltic Amber (Dietrich collection)",NA,"",1,"Priabonian","",38,33.9,57520,"gp_mid",23.19,48.33,"302",35.95,1
+"123284",177543,"col","",-0.253056,47.286667,"Roche-Ragot",NA,"",1,"Priabonian","",38,33.9,58591,"gp_mid",4.8,41.42,"305",35.95,1
+"123286",177548,"col","Bouldnor",-1.495,50.7048,"Yarmouth",NA,"",1,"Priabonian","",38,33.9,58591,"gp_mid",4.05,44.89,"315",35.95,1
+"123293",177583,"col","",4.214444,43.989723,"Sainte-Croix-de-Brignon",NA,"",1,"Priabonian","",38,33.9,58591,"gp_mid",8.56,37.92,"305",35.95,1
+"123965",178680,"col","",19.940001,54.869999,"Baltic amber (Silesian Museum SMOC collection)",NA,"",1,"Priabonian","",38,33.9,59893,"gp_mid",23.19,48.33,"302",35.95,1
+"124362",179132,"col","",7.716667,46.666668,"South of Lake Thun",NA,"",2,"Late Eocene","",37.2,33.9,59283,"gp_mid",11.93,40.45,"305",35.55,1
+"124804",179763,"col","Mandrikovka",34.983334,48.450001,"Mandrikovka, Dnipropetrovsk",NA,"",2,"Priabonian","",38,33.9,59623,"gp_mid",36.36,41.88,"302",35.95,1
+"124826",179786,"col","Molare",8.316667,44.433334,"Dego",NA,"",2,"Priabonian","",38,33.9,59423,"gp_mid",13.82,36.74,"307",35.95,1
+"124827",179787,"col","Molare",8.283333,44.366669,"Carcare",NA,"",3,"Priabonian","",38,33.9,59423,"gp_mid",13.76,36.69,"307",35.95,1
+"124828",179788,"col","Molare",8.383333,44.516666,"Pareto",NA,"",1,"Priabonian","",38,33.9,59423,"gp_mid",13.91,36.81,"307",35.95,1
+"125122",180395,"col","Iwaki",140.848618,37.108334,"Tagashira, Nishiogawa",NA,"",2,"Priabonian","",38,33.9,59870,"gp_mid",136.7,42.57,"610",35.95,1
+"125250",180527,"col","Liyan",78.540001,33.106667,"800 m north of Liyan Gompa",NA,"",2,"Late Eocene","",37.2,33.9,59905,"gp_mid",80.16,14.23,"501",35.55,1
+"125374",180657,"col","",19.940001,54.869999,"Baltic amber (RSM collection)",NA,"",7,"Priabonian","",38,33.9,59977,"gp_mid",23.19,48.33,"302",35.95,1
+"125379",180672,"col","",21.059999,55.919998,"Baltic amber (MNHW Wroclaw collection)",NA,"",1,"Priabonian","",38,33.9,59988,"gp_mid",24.2,49.36,"302",35.95,1
+"125730",181253,"col","",-82.419998,33.049999,"USNM 244447",NA,"",1,"Priabonian","",38,33.9,60251,"gp_mid",-66.75,35.79,"109",35.95,1
+"125749",181272,"col","Headon Beds",-1.592778,50.724998,"Hordle Cliff (generic, non-specific locality)",NA,"Hordwell",6,"Late Eocene","",37.2,33.9,60271,"gp_mid",3.96,44.91,"315",35.55,1
+"126007",181657,"col","",-0.27,47.285999,"Milly-le-Meugon",NA,"La-Roche-Rabot",0,"Late Eocene","",37.2,33.9,60047,"gp_mid",4.78,41.42,"305",35.55,1
+"126367",182272,"col","Coja",-7.987222,40.268333,"Empresa Cerâmica da Carriça Lda., Coja",NA,"",6,"Late Eocene","",37.2,33.9,60629,"gp_mid",-2.57,35.18,"304",35.55,1
+"126383",182490,"col","",8.666111,35.208332,"Bir Om Ali",NA,"Djebel Chambi",4,"Late Eocene","",37.2,33.9,60694,"gp_mid",12.7,26.69,"714",35.55,1
+"126391",182498,"col","Cemalettin",34.792778,41.529446,"BOY-1, Boyabat",NA,"",1,"Priabonian","",38,33.9,60699,"gp_mid",36.33,34.96,"511",35.95,1
+"126640",182807,"col","",7.368611,47.274445,"Moutier",NA,"",4,"Late Eocene","",37.2,33.9,60954,"gp_mid",11.66,41.07,"305",35.55,1
+"126762",183071,"col","Yoshinotani",129.883331,33.266666,"Tatsukawa Colliery (Imari Coalfield)",NA,"Imari City, Saga",2,"Late Eocene","",37.2,33.9,61077,"gp_mid",126.24,37.04,"610",35.55,1
+"126979",183530,"col","",32.683613,49.072498,"Saturday",NA,"",1,"Priabonian","",38,33.9,60839,"gp_mid",34.31,42.48,"302",35.95,1
+"127190",183757,"col","",11.87,45.849998,"Possagno (Quaggiotto collection)",NA,"",2,"Priabonian","",38,33.9,61368,"gp_mid",17.36,37.29,"307",35.95,1
+"127191",183758,"col","Marnes de la Côte des Basques",-1.57,43.472,"Côte-des-Basques, Biarritz (Dupérier collection)",NA,"",3,"Priabonian","",38,33.9,61368,"gp_mid",3.54,38.19,"304",35.95,1
+"127192",183759,"col","Marnes de la Côte des Basques",-1.57,43.472,"Côte-des-Basques, Biarritz (Staadt collection)",NA,"",2,"Priabonian","",38,33.9,61368,"gp_mid",3.54,38.19,"304",35.95,1
+"127193",183760,"col","",11.96,45.860001,"Curogna, Pederobba (Cossmann collection)",NA,"",1,"Priabonian","",38,33.9,61368,"gp_mid",17.44,37.28,"307",35.95,1
+"127240",183807,"col","Marnes de la Côte des Basques",-1.57,43.472,"Côte-des-Basques, Biarritz (Cossmann collection)",NA,"",2,"Priabonian","",38,33.9,61368,"gp_mid",3.54,38.19,"304",35.95,1
+"127399",183976,"col","",4.270556,44,"Saint-Dézéry",NA,"St-Dézéry; Dézéry; Saint-Dezery",7,"Late Eocene","",37.2,33.9,61444,"gp_mid",8.61,37.93,"305",35.55,1
+"127516",184102,"col","",4.176,44.129601,"Célas (MNHN collection)",NA,"",1,"Late Eocene","",37.2,33.9,61455,"gp_mid",8.54,38.06,"305",35.55,1
+"127595",184194,"col","",4.090833,43.785278,"Sommières",NA,"",1,"Late Eocene","",37.2,33.9,61562,"gp_mid",8.43,37.72,"305",35.55,1
+"127598",184197,"col","",4.123056,43.81472,"Souvignargues",NA,"",2,"Late Eocene","",37.2,33.9,61562,"gp_mid",8.46,37.75,"305",35.55,1
+"127628",184230,"col","Headon Hill",-1.539444,50.669445,"How Ledge Limestone clay unit, Headon Hill",NA,"",16,"Priabonian","",38,33.9,61574,"gp_mid",4,44.86,"315",35.95,1
+"127720",184469,"col","",22.168612,41.752777,"Stip",NA,"Shtip, Stipa",1,"Late Eocene","",37.2,33.9,61814,"gp_mid",24.54,31.23,"308",35.55,1
+"127730",184491,"col","Coja",-8.05,40.53611,"Naia",NA,"",1,"Late Eocene","",37.2,33.9,61836,"gp_mid",-2.62,35.45,"304",35.55,1
+"127735",184508,"col","",19.940001,54.869999,"Baltic Amber, Göttingen Zoologisches Museum collection",NA,"",4,"Priabonian","",38,33.9,44719,"gp_mid",23.19,48.33,"302",35.95,1
+"127926",184754,"col","Headon Hill",-1.553056,50.800278,"Royden, Brockenhurst bed",NA,"",1,"Priabonian","",38,33.9,61794,"gp_mid",4.01,44.99,"315",35.95,1
+"127930",184757,"col","Headon Hill",-1.537222,50.68972,"Colwell Bay",NA,"",1,"Priabonian","",38,33.9,61794,"gp_mid",4.01,44.88,"315",35.95,1
+"127931",184758,"col","Headon Hill",-1.1825,50.724998,"Binstead",NA,"",7,"Priabonian","",38,33.9,61794,"gp_mid",4.33,44.89,"315",35.95,1
+"127932",184759,"col","Headon Hill",-1.104722,50.711388,"Seafield, Isle of Wight",NA,"",2,"Priabonian","",38,33.9,61794,"gp_mid",4.4,44.87,"315",35.95,1
+"127933",184760,"col","Bembridge Limestone",-1.457222,50.677776,"Prospect Quarry, Shalcombe, Isle of Wight",NA,"",3,"Priabonian","",38,33.9,61794,"gp_mid",4.08,44.86,"315",35.95,1
+"127934",184761,"col","Bembridge Limestone",-1.522222,50.706669,"Cliff End, Sconce",NA,"Cliffend",3,"Priabonian","",38,33.9,61794,"gp_mid",4.02,44.89,"315",35.95,1
+"127935",184762,"col","Bouldnor",-1.498056,50.705002,"Yarmouth (Bembridge Marls Member)",NA,"",3,"Priabonian","",38,33.9,61794,"gp_mid",4.05,44.89,"315",35.95,1
+"128266",185320,"col","",131.262222,33.985001,"Ube coal mine",NA,"",2,"Priabonian","",38,33.9,61669,"gp_mid",127.48,37.98,"610",35.95,1
+"128421",185548,"col","",9.904167,48.424999,"Ehrenstein 1",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,1
+"128422",185549,"col","",9.904167,48.424999,"Ehrenstein 2",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,1
+"128423",185550,"col","",9.904167,48.424999,"Ehrenstein 3",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,1
+"128424",185551,"col","",9.904167,48.424999,"Herrlingen 3",NA,"",1,"Priabonian","",38,33.9,62212,"gp_mid",14.01,42.13,"305",35.95,1
+"128426",185560,"col","",19.940001,54.869999,"Baltic amber, Fabrizio Fanti collection",NA,"",5,"Priabonian","",38,33.9,62215,"gp_mid",23.19,48.33,"302",35.95,1
+"128543",185682,"col","",27.645,51.224998,"Rovno Amber, Olevsk locality (SIZC OL collection)",NA,"",3,"Priabonian","",38,33.9,62267,"gp_mid",29.84,44.62,"302",35.95,1
+"128544",185683,"col","",26.790001,51.849998,"Rovno Amber, Rechitsa locality (SIZC G collection)",NA,"",2,"Priabonian","",38,33.9,68546,"gp_mid",29.09,45.25,"302",35.95,1
+"128545",185684,"col","",25.674999,51.674999,"Rovno Amber, Kukhotskaya Volya locality (SIZK KV collection)",NA,"",2,"Priabonian","",38,33.9,62267,"gp_mid",28.11,45.08,"302",35.95,1
+"128547",185686,"col","",26.889999,51.310001,"Rovno Amber, Klesov locality (Suvorkin collection)",NA,"",1,"Priabonian","",38,33.9,62267,"gp_mid",29.17,44.71,"302",35.95,1
+"129115",186786,"col","",35.1455,48.448002,"UDR1-UDR5, Rybalsky Quarry, Dnipropetrovsk",NA,"",11,"Priabonian","",38,33.9,62633,"gp_mid",36.51,41.88,"302",35.95,1
+"129624",187519,"col","",11.465,45.424721,"Grancona roadcut",NA,"",1,"Priabonian","",38,33.9,62933,"gp_mid",16.85,36.98,"307",35.95,1
+"129637",187575,"col","",0.328056,47.325832,"Grand Morier, assemblage no. 1",NA,"",1,"Late Eocene","",37.2,33.9,62965,"gp_mid",5.33,41.43,"305",35.55,1
+"130282",189031,"col","Promina",16.1,43.933334,"Mt. Promina",NA,"",2,"Late Eocene","",37.2,33.9,62933,"gp_mid",20.17,34.56,"307",35.55,1
+"130289",189041,"col","",19.940001,54.869999,"Baltic amber (UCMP IP15208)",NA,"",1,"Priabonian","",38,33.9,63517,"gp_mid",23.19,48.33,"302",35.95,1
+"131464",191097,"col","",19.940001,54.869999,"Baltic amber (Hauser collection)",NA,"",1,"Priabonian","",38,33.9,40369,"gp_mid",23.19,48.33,"302",35.95,1
+"131887",192073,"col","",29.190001,50.875,"Rovno Amber, Gulyanka locality (Gusakov collection)",NA,"",1,"Priabonian","",38,33.9,64945,"gp_mid",31.2,44.27,"302",35.95,1
+"131986",192258,"col","",19.940001,54.869999,"Baltic Amber (Kaliningrad Amber Museum collection)",NA,"",6,"Priabonian","",38,33.9,63786,"gp_mid",23.19,48.33,"302",35.95,1
+"132892",194874,"col","",19.940001,54.869999,"Baltic Amber (Kaunas T. Ivanauskas Zoological Museum KZM collection)",NA,"",1,"Priabonian","",38,33.9,66243,"gp_mid",23.19,48.33,"302",35.95,1
+"132893",194875,"col","",19.940001,54.869999,"Baltic Amber (CZT Chen amber collection)",NA,"",3,"Priabonian","",38,33.9,66244,"gp_mid",23.19,48.33,"302",35.95,1
+"132941",194988,"col","Headon Hill",-1.400278,50.713612,"Newtown Bone Bed",NA,"",1,"Priabonian","",38,33.9,66288,"gp_mid",4.13,44.89,"315",35.95,1
+"132997",195170,"col","",19.940001,54.869999,"Baltic Amber (Bone Room collection)",NA,"",1,"Priabonian","",38,33.9,66400,"gp_mid",23.19,48.33,"302",35.95,1
+"133905",196704,"col","",26.1,51.650002,"Rovno Amber, Vladimirets district (SIZK L collection)",NA,"",5,"Priabonian","",38,33.9,66937,"gp_mid",28.48,45.05,"302",35.95,1
+"133907",196706,"col","",19.940001,54.869999,"Baltic Amber (Ulitzka collection)",NA,"",4,"Priabonian","",38,33.9,66939,"gp_mid",23.19,48.33,"302",35.95,1
+"133977",196815,"col","",21.93,42.421391,"Buštranje",NA,"",9,"Late Eocene","",37.2,33.9,67033,"gp_mid",24.55,31.92,"308",35.55,1
+"133996",196835,"col","",22.578611,42.931667,"Zvonce",NA,"",6,"Late Eocene","",37.2,33.9,67033,"gp_mid",25.25,32.29,"308",35.55,1
+"134127",197073,"col","",19.940001,54.869999,"Baltic Amber (SNUC collection)",NA,"",1,"Priabonian","",38,33.9,67161,"gp_mid",23.19,48.33,"302",35.95,1
+"134511",197696,"col","",21.940277,42.414165,"Rusce",NA,"",1,"Late Eocene","",37.2,33.9,67411,"gp_mid",24.55,31.92,"308",35.55,1
+"135705",200410,"col","",19.940001,54.869999,"Baltic Amber (Muona collection, Finnish Museum of Natural History)",NA,"",4,"Priabonian","",38,33.9,68415,"gp_mid",23.19,48.33,"302",35.95,1
+"135829",200779,"col","",26.889999,51.310001,"Rovno amber (GPIH coll)",NA,"",2,"Priabonian","",38,33.9,68733,"gp_mid",29.17,44.71,"302",35.95,1
+"136268",201682,"col","",19.940001,54.869999,"Baltic Amber (Phyletisches Museum Jena PMJ colleciton)",NA,"",1,"Priabonian","",38,33.9,69012,"gp_mid",23.19,48.33,"302",35.95,1
+"136373",201871,"col","",26.889999,51.310001,"Rovno amber (UCP coll)",NA,"",1,"Priabonian","",38,33.9,69098,"gp_mid",29.17,44.71,"302",35.95,1
+"136497",202013,"col","Dry Branch",-81.681709,33.624866,"North Aiken Site",NA,"SC96.97",14,"Priabonian","",38,33.9,69202,"gp_mid",-65.87,36.24,"109",35.95,1
+"136498",202014,"col","Dry Branch",-84.742775,33.50444,"South Aiken Site",NA,"",24,"Priabonian","",38,33.9,69202,"gp_mid",-69.01,36.6,"101",35.95,1
+"137110",202735,"col","",19.940001,54.869999,"Baltic Amber (Unimol collection)",NA,"",3,"Priabonian","",38,33.9,69486,"gp_mid",23.19,48.33,"302",35.95,1
+"137533",203225,"col","Itchoda",130.166672,32.416668,"Itchoda-mura",NA,"",1,"Late Eocene","",37.2,33.9,61622,"gp_mid",126.74,36.26,"610",35.55,1
+"137535",203227,"col","",130.166672,32.416668,"Mirokudake",NA,"",9,"Late Eocene","",37.2,33.9,61622,"gp_mid",126.74,36.26,"610",35.55,1
+"137722",203464,"col","",-84.449997,31.33,"Baker County, GA",NA,"",3,"Late Eocene","",37.2,33.9,16640,"gp_mid",-69.2,34.42,"109",35.55,1
+"137730",203472,"col","Ocala",-82.478699,29.403002,"Johnson's Lime Sink",NA,"",3,"Late Eocene","",37.2,33.9,16640,"gp_mid",-67.61,32.22,"109",35.55,1
+"137848",203667,"col","Ocala",-83.320137,29.797169,"Clara, near",NA,"",3,"Priabonian","",38,33.9,61653,"gp_mid",-68.38,32.73,"109",35.95,1
+"138361",204714,"col","Ocala",-83.174858,30.067518,"Taylor County rock pit",NA,"",2,"Priabonian","",38,33.9,32917,"gp_mid",-68.18,32.98,"109",35.95,1
+"138362",204715,"col","Ocala",-84.147118,31.607395,"Kinchafoonee Creek dam",NA,"",3,"Priabonian","",38,33.9,32917,"gp_mid",-68.83,34.64,"109",35.95,1
+"139594",206249,"col","",4.016667,44.066666,"Clos de la Barrèze",NA,"Grès de Célas",4,"Late Eocene","",37.2,33.9,70789,"gp_mid",8.39,38,"305",35.55,1
+"139595",206250,"col","",4.016667,44.066666,"Lascours 2",NA,"Grès de Célas",2,"Late Eocene","",37.2,33.9,70789,"gp_mid",8.39,38,"305",35.55,1
+"139596",206251,"col","",4.016667,44.066666,"Mas combet",NA,"Grès de Célas",1,"Late Eocene","",37.2,33.9,70789,"gp_mid",8.39,38,"305",35.55,1
+"139640",206315,"col","",19.940001,54.869999,"Baltic Amber (Bente Nielsen collection)",NA,"",1,"Priabonian","",38,33.9,70869,"gp_mid",23.19,48.33,"302",35.95,1
+"140161",207195,"col","Bembridge Marls",-1.378,50.734001,"Hempstead Ledge",NA,"Hampstead",2,"Priabonian","",38,33.9,46872,"gp_mid",4.16,44.91,"315",35.95,1
+"140163",207258,"col","Bembridge Marls",-1.39,50.730999,"Saltmead Ledge (Yule collection)",NA,"",4,"Priabonian","",38,33.9,71354,"gp_mid",4.14,44.91,"315",35.95,1
+"140164",207259,"col","Bembridge Marls",-1.347,50.743999,"Sticelett Ledge (Yule collection)",NA,"",1,"Priabonian","",38,33.9,71354,"gp_mid",4.18,44.92,"315",35.95,1
+"140165",207291,"col","Bouldnor",-1.438,50.723999,"Hampstead Ledge (Jarzembowski collection)",NA,"",1,"Priabonian","",38,33.9,71383,"gp_mid",4.1,44.9,"315",35.95,1
+"140166",207292,"col","Bouldnor",-1.36,50.737999,"Bembridge Marls (MIWG collection)",NA,"",2,"Priabonian","",38,33.9,71383,"gp_mid",4.17,44.91,"315",35.95,1
+"140310",207550,"col","",11.483889,45.380554,"Campolongo di Val Liona",NA,"",92,"Priabonian","",38,33.9,71548,"gp_mid",16.85,36.93,"307",35.95,1
+"140312",207552,"col","",11.383,45.657001,"Buso della Rana",NA,"Monte di Malo",9,"Priabonian","",38,33.9,71559,"gp_mid",16.88,37.22,"307",35.95,1
+"140372",207626,"col","",39.812222,44.739445,"Gorny Luch, left bank of Pshekha River",NA,"",1,"Late Eocene","",37.2,33.9,71596,"gp_mid",40.81,38.25,"302",35.55,1
+"140379",207634,"col","",11.37216,45.634518,"Grotta T. Poscola",NA,"",6,"Priabonian","",38,33.9,47482,"gp_mid",16.86,37.2,"307",35.95,1
+"140380",207635,"col","",11.362375,45.648979,"Piazzola Rio Rana",NA,"",1,"Priabonian","",38,33.9,47482,"gp_mid",16.86,37.21,"307",35.95,1
+"140381",207636,"col","",11.383576,45.642799,"Boro",NA,"",1,"Priabonian","",38,33.9,47482,"gp_mid",16.87,37.2,"307",35.95,1
+"140407",207746,"col","",3.412097,51.386055,"de Zwarte Polder",NA,"\r\nNieuwvliet-Bad",3,"Priabonian","",38,33.9,71649,"gp_mid",8.48,45.33,"315",35.95,1
+"140441",207785,"col","Priabona Marl",10.966667,45.466667,"Parona, Eocene",NA,"",12,"Priabonian","",38,33.9,71692,"gp_mid",16.45,37.13,"307",35.95,1
+"140462",207812,"col","",19.940001,54.869999,"Baltic Amber (Charles University collection)",NA,"",1,"Priabonian","",38,33.9,71720,"gp_mid",23.19,48.33,"302",35.95,1
+"140557",207953,"col","",26.084999,51.560001,"Rovno Amber, Voronki locality (SIZK W collection)",NA,"",5,"Priabonian","",38,33.9,71826,"gp_mid",28.47,44.96,"302",35.95,1
+"140558",207954,"col","",19.940001,54.869999,"Baltic amber (Górnośląskie Muzeum Przyrodnicze w Bytomiu collection)",NA,"",1,"Priabonian","",38,33.9,71830,"gp_mid",23.19,48.33,"302",35.95,1
+"140561",207958,"col","",25.98,51.09,"Rovno amber, Osova, Dubrovitsa district (SIZK DO collection)",NA,"",1,"Priabonian","",38,33.9,71836,"gp_mid",28.37,44.49,"302",35.95,1
+"140562",207959,"col","",26.889999,51.310001,"Rovno amber (MAIG collection)",NA,"",3,"Priabonian","",38,33.9,71836,"gp_mid",29.17,44.71,"302",35.95,1
+"141464",209304,"col","",25.719999,51.549999,"Rovno amber, Veselukha River (SIZK LKV collection)",NA,"",1,"Priabonian","",38,33.9,72228,"gp_mid",28.15,44.95,"302",35.95,1
+"141531",209381,"col","Margas de Arguís",-0.259444,42.499722,"Yebra de Basa",NA,"",1,"Priabonian","",38,33.9,72261,"gp_mid",4.71,37.19,"304",35.95,1
+"142208",210196,"col","",19.940001,54.869999,"Baltic Amber (Paramonov collection)",NA,"",1,"Priabonian","",38,33.9,72519,"gp_mid",23.19,48.33,"302",35.95,1
+"142805",211078,"col","Gehlberg",10.994194,52.156002,"Tagebau Treue, Priabonian",NA,"Treue 3, Nordwand",2,"Priabonian","",38,33.9,72902,"gp_mid",15.24,45.82,"315",35.95,1
+"142807",211084,"col","Gehlberg",11.011111,52.224445,"Helmstedt, Priabonian",NA,"",2,"Priabonian","",38,33.9,72902,"gp_mid",15.26,45.89,"315",35.95,1
+"142885",211298,"col","Prussian",19.972086,54.868675,"Kaliningrad Amber Plant JSC",NA,"",1,"Priabonian","",38,33.9,72957,"gp_mid",23.22,48.33,"302",35.95,1
+"142929",211382,"col","Dry Branch",-83.589996,32.490002,"Oaky Woods WMA",NA,"GA037",1,"Priabonian","",38,33.9,68339,"gp_mid",-68.07,35.42,"109",35.95,1

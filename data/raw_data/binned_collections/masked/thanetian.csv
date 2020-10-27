@@ -1,0 +1,143 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"1473",3113,"col","Vincentown",-74.683334,39.971943,"Vincentown Formation, NJ",NA,"",164,"Thanetian","",59.2,56,140,"gp_mid",-44.51,40.13,"109",57.6,1
+"5017",13185,"col","Aquia",-76.960556,37.875,"Piscataway",NA,"",1,"Thanetian","",59.2,56,4382,"gp_mid",-47.6,38.76,"109",57.6,1
+"11310",21218,"col","Woolwich & Reading Beds",-0.1,51.383331,"Woolwich Beds - Croyden",NA,"",19,"Thanetian","",59.2,56,6504,"gp_mid",8.2,41.53,"315",57.6,1
+"12420",23239,"col","Woolwich & Reading beds",-0.016667,51.450001,"Woolwich Beds - Counter Hill/Lewisham",NA,"",2,"Thanetian","",59.2,56,6528,"gp_mid",8.27,41.59,"315",57.6,1
+"12421",23240,"col","Woolwich & Reading beds",0.2,51.466667,"Woolwich Beds, Woolwich",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.46,41.59,"315",57.6,1
+"12437",23313,"col","Woolwich & Reading Beds",0.066667,51.349998,"Woolwich Beds - Newington",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.33,41.48,"315",57.6,1
+"12438",23315,"col","Woolrich & Reading Beds",-1,51.333332,"Reading Beds - Reading",NA,"",14,"Thanetian","",59.2,56,6528,"gp_mid",7.44,41.53,"315",57.6,1
+"12439",23316,"col","Woolwich & Reading Beds",-0.033333,51.516666,"Reading Beds, Hedge Row, Lea Valley",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.27,41.66,"315",57.6,1
+"12441",23318,"col","Woolwich & Reading Beds",0.016667,51.416668,"Woolwich Beds - Bromley",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.3,41.55,"315",57.6,1
+"12443",23320,"col","Woolwich & Reading Beds",-0.083333,51.516666,"Woolwich beds - Tooting, London",NA,"",8,"Thanetian","",59.2,56,6528,"gp_mid",8.23,41.66,"315",57.6,1
+"12449",23326,"col","Woolwich & Reading Beds",-0.066667,51.450001,"Woolwich Beds - Dulwich",NA,"",2,"Thanetian","",59.2,56,6528,"gp_mid",8.23,41.59,"315",57.6,1
+"12450",23327,"col","Woolwich & Reading Beds",0,51.733334,"Reading Beds - Broxbourne",NA,"",4,"Thanetian","",59.2,56,6528,"gp_mid",8.32,41.87,"315",57.6,1
+"12451",23328,"col","Woolwich & reading Beds",-0.033333,51.633331,"Reading Beds - Ponder's End",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.28,41.77,"315",57.6,1
+"12452",23329,"col","Woolwich & Reading Beds",0,51.333332,"Woolwich Beds - Beddington",NA,"",1,"Thanetian","",59.2,56,6528,"gp_mid",8.27,41.47,"315",57.6,1
+"13867",27018,"col","Babica Beds",21.9,49.916668,"Babica, Middle Carpathians",NA,"KT loc. 435",100,"Thanetian","",59.2,56,7472,"gp_mid",26.41,39.49,"305",57.6,1
+"13868",27019,"col","Czarnorzeki Beds",21.933332,49.766666,"Plosina, Middle Carpathians",NA,"KT loc. 435",106,"Thanetian","",59.2,56,7472,"gp_mid",26.44,39.34,"305",57.6,1
+"13869",27020,"col","Czarnorzeki Beds",21.966667,49.766666,"Blizne, Middle Carpathians",NA,"KT loc. 435",82,"Thanetian","",59.2,56,7472,"gp_mid",26.47,39.34,"305",57.6,1
+"13870",27021,"col","Czarnorzeki Beds",21.966667,49.766666,"Blizne conglomerates, Middle Carpathians",NA,"KT loc. 435",8,"Thanetian","",59.2,56,7472,"gp_mid",26.47,39.34,"305",57.6,1
+"17109",31329,"col","",5.733333,43.599998,"Saint-Maurin",NA,"Rians",1,"Thanetian","",59.2,56,8465,"gp_mid",12.45,33.48,"305",57.6,1
+"17110",31330,"col","",5.533333,43.533333,"Saint-Antonin",NA,"Suberoque farm",1,"Thanetian","",59.2,56,8465,"gp_mid",12.27,33.43,"305",57.6,1
+"17111",31331,"col","",5.9,43.683334,"Saint-Julien-le-Montagnie",NA,"Saint-Julien",1,"Thanetian","",59.2,56,8465,"gp_mid",12.6,33.56,"305",57.6,1
+"17112",31332,"col","",6.033333,43.566666,"Ponteves",NA,"",1,"Thanetian","",59.2,56,8465,"gp_mid",12.71,33.44,"305",57.6,1
+"17113",31333,"col","",6.15,43.566666,"Sillans-la-Cascade",NA,"",1,"Thanetian","",59.2,56,8465,"gp_mid",12.81,33.43,"305",57.6,1
+"17114",31334,"col","",5.783333,43.716667,"La Baraque, Vinon",NA,"La Barraque",1,"Thanetian","",59.2,56,8465,"gp_mid",12.5,33.6,"305",57.6,1
+"33711",133242,"col","",-5.605556,31.507221,"N'Tagourt",NA,"",1,"Thanetian","",59.2,56,42889,"gp_mid",1.08,20.5,"714",57.6,1
+"33713",133241,"col","",-7,31.959999,"Ihadjamene",NA,"Ihad Jamene",10,"Thanetian","",59.2,56,42889,"gp_mid",-0.01,21.25,"707",57.6,1
+"41640",62244,"col","Aquia",-76.673889,37.953609,"Piscataway Mbr, Aquia Fm - 128-137 m, Haynesville Core",NA,"",3,"Thanetian","",59.2,56,17987,"gp_mid",-47.29,38.76,"109",57.6,1
+"51126",77353,"col","",-6.716667,32.683334,"Sidi Chennane",NA,"Quarry A4",3,"Thanetian","",59.2,56,26180,"gp_mid",0.44,21.88,"707",57.6,1
+"51656",78359,"col","Aquia",-76.800003,38.866669,"3 miles west of Leeland",NA,"",1,"Thanetian","",59.2,56,26372,"gp_mid",-47.01,39.65,"109",57.6,1
+"52268",79282,"col","",13.833333,45.666668,"Padriciano",NA,"",7,"Thanetian","",59.2,56,26586,"gp_mid",21.1,31.07,"307",57.6,1
+"52274",79288,"col","",13.95,45.599998,"Hrpelje-Kozina",NA,"",4,"Thanetian","",59.2,56,26586,"gp_mid",21.14,30.97,"307",57.6,1
+"52275",79289,"col","",14,45.733334,"Dolenja Vas, Bed 26",NA,"",4,"Thanetian","",59.2,56,26585,"gp_mid",21.26,31.07,"307",57.6,1
+"52276",79290,"col","",13.95,45.599998,"Golež",NA,"",2,"Thanetian","",59.2,56,26586,"gp_mid",21.14,30.97,"307",57.6,1
+"52278",79292,"col","",14,45.733334,"Dolenja Vas, Bed 28",NA,"",3,"Thanetian","",59.2,56,26585,"gp_mid",21.26,31.07,"307",57.6,1
+"52279",79293,"col","",13.9,45.716667,"Sopada hill",NA,"",4,"Thanetian","",59.2,56,26586,"gp_mid",21.18,31.09,"307",57.6,1
+"52280",79294,"col","",14,45.733334,"Dolenja Vas, Bed 29",NA,"Reef 3702",7,"Thanetian","",59.2,56,26585,"gp_mid",21.26,31.07,"307",57.6,1
+"52281",79295,"col","",14,45.733334,"Dolenja Vas, Bed 30",NA,"",6,"Thanetian","",59.2,56,26585,"gp_mid",21.26,31.07,"307",57.6,1
+"52282",79296,"col","",14.25,45.583332,"Breg",NA,"",3,"Thanetian","",59.2,56,26586,"gp_mid",21.34,30.85,"307",57.6,1
+"52283",79297,"col","",14,45.733334,"Dolenja vas West, Bed 29",NA,"Dolenja vas, Bed 29",1,"Thanetian","",59.2,56,26586,"gp_mid",21.26,31.07,"307",57.6,1
+"52794",80477,"col","Tuscahoma",-84.849998,31.700001,"AHe-4 Tuscahoma",NA,"",4,"Thanetian","",59.2,56,124,"gp_mid",-57.76,35.02,"109",57.6,1
+"52898",80672,"col","Tuscahoma",-85.583336,31.333332,"ADa-3 Tuschoma",NA,"",13,"Thanetian","",59.2,56,124,"gp_mid",-58.63,34.87,"109",57.6,1
+"52939",80825,"col","Trstelj",13.970278,45.684723,"Divaca",NA,"",15,"Thanetian","",59.2,56,26603,"gp_mid",21.21,31.03,"307",57.6,1
+"52941",80827,"col","Trstelj",13.991667,45.706669,"Cebulovica",NA,"",11,"Thanetian","",59.2,56,26603,"gp_mid",21.23,31.05,"307",57.6,1
+"52942",80828,"col","Trstelj",14.004722,45.572777,"Kozina",NA,"",2,"Thanetian","",59.2,56,26603,"gp_mid",21.16,30.93,"307",57.6,1
+"52943",80830,"col","Trstelj",14.004722,45.572777,"Kozina",NA,"",3,"Thanetian","",59.2,56,26603,"gp_mid",21.16,30.93,"307",57.6,1
+"52944",80832,"col","Trstelj",14.004722,45.572777,"Kozina",NA,"",3,"Thanetian","",59.2,56,26603,"gp_mid",21.16,30.93,"307",57.6,1
+"53457",81775,"col","Vincentown",-74.748611,39.933887,"Vincentown (Bryan collection, Vincentown Fm)",NA,"",5,"Thanetian","",59.2,56,27587,"gp_mid",-44.59,40.11,"109",57.6,1
+"54564",83307,"col","Jibou",23.261389,47.264999,"Jibou B (JBB4)",NA,"JBB; Calcaires de Rona; Botanic Garden of Jibou",25,"Thanetian","",59.2,56,44195,"gp_mid",28.51,29.18,"308",57.6,1
+"55107",84045,"col","Aquia",-77.264999,38.417999,"Clifton Beach",NA,"",10,"Thanetian","",59.2,56,41194,"gp_mid",-47.65,39.36,"109",57.6,1
+"56606",86295,"col","",-6.566667,32.866669,"Lithoptila type specimen",NA,"Grand Daoui; Oued Zem",5,"Thanetian","",59.2,56,29076,"gp_mid",0.63,22.03,"707",57.6,1
+"58153",88301,"col","Jbel Guersif",-5.66,31.610001,"Adrar Mgorn 1",NA,"",49,"Thanetian","",59.2,56,29646,"gp_mid",1.06,20.61,"714",57.6,1
+"59877",91755,"col","Vincentown",-74.5625,40.048889,"M 155",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-44.37,40.17,"109",57.6,1
+"59894",91126,"col","Aquia",-77.376389,38.430832,"PRI 3144",NA,"",31,"Thanetian","",59.2,56,11845,"gp_mid",-47.75,39.4,"109",57.6,1
+"59895",91127,"col","Aquia",-77.376389,38.430832,"PRI 3147",NA,"",13,"Thanetian","",59.2,56,11845,"gp_mid",-47.75,39.4,"109",57.6,1
+"60420",91756,"col","Vincentown",-75.068054,39.852222,"M 157",NA,"",9,"Thanetian","",59.2,56,11845,"gp_mid",-44.93,40.12,"109",57.6,1
+"60421",91757,"col","Vincentown",-75.10833,39.762501,"M 158",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-45.01,40.05,"109",57.6,1
+"60425",91761,"col","Vincentown",-74.53083,40.067501,"M 164",NA,"",14,"Thanetian","",59.2,56,11845,"gp_mid",-44.33,40.18,"109",57.6,1
+"60523",91859,"col","Aquia",-77.184441,38.268055,"M 281",NA,"",35,"Thanetian","",59.2,56,11845,"gp_mid",-47.64,39.19,"109",57.6,1
+"60524",91860,"col","Aquia",-77.184441,38.268055,"M 282",NA,"",3,"Thanetian","",59.2,56,11845,"gp_mid",-47.64,39.19,"109",57.6,1
+"60528",91864,"col","Aquia",-77.460556,38.303055,"M 288",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.89,39.3,"109",57.6,1
+"60529",91865,"col","Aquia",-77.460556,38.303055,"M 289",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-47.89,39.3,"109",57.6,1
+"60530",91866,"col","Aquia",-77.460556,38.303055,"M 290",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-47.89,39.3,"109",57.6,1
+"65861",98634,"col","Tuscahoma",-85.047218,31.609167,"M 699",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-57.99,34.99,"109",57.6,1
+"65862",98635,"col","Tuscahoma",-85.047218,31.609167,"M 700",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-57.99,34.99,"109",57.6,1
+"65929",98702,"col","Aquia",-76.493332,39.013611,"M 479",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-46.65,39.71,"109",57.6,1
+"66441",99260,"col","Tuscahoma",-76.548889,38.953056,"M 728",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-46.73,39.67,"109",57.6,1
+"66447",99266,"col","Aquia",-77.102501,38.522221,"M 484",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.45,39.41,"109",57.6,1
+"66455",99273,"col","Aquia",-76.989441,38.395557,"M 731",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.4,39.26,"109",57.6,1
+"66456",99274,"col","Aquia",-76.989441,38.395557,"M 732",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-47.4,39.26,"109",57.6,1
+"66458",99276,"col","Aquia",-77.13472,38.546112,"M 734",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.47,39.44,"109",57.6,1
+"66460",99278,"col","Aquia",-77.102501,38.522221,"M 865",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.45,39.41,"109",57.6,1
+"66462",99280,"col","Aquia",-76.131943,39.271389,"M 342",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-46.2,39.86,"109",57.6,1
+"66464",99282,"col","Aquia",-76.972504,38.700558,"M 121",NA,"",8,"Thanetian","",59.2,56,11845,"gp_mid",-47.25,39.54,"109",57.6,1
+"66465",99283,"col","Aquia",-76.75972,38.968334,"M 489",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-46.93,39.74,"109",57.6,1
+"66466",99284,"col","",-76.748886,38.873611,"M 490",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-46.96,39.65,"109",57.6,1
+"66467",99285,"col","Aquia",-76.90667,38.896111,"M 491",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.1,39.71,"109",57.6,1
+"66470",99288,"col","Aquia",-77.071671,38.607777,"M 739",NA,"",3,"Thanetian","",59.2,56,11845,"gp_mid",-47.38,39.48,"109",57.6,1
+"67883",101302,"col","Aquia",-77.184441,38.268055,"M 283",NA,"",7,"Thanetian","",59.2,56,11845,"gp_mid",-47.64,39.19,"109",57.6,1
+"67887",101306,"col","Aquia",-77.301941,38.346111,"M 630",NA,"",17,"Thanetian","",59.2,56,11845,"gp_mid",-47.72,39.3,"109",57.6,1
+"67897",101316,"col","Aquia",-77.408333,38.421944,"PRI 1270",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-47.79,39.4,"109",57.6,1
+"67899",101318,"col","Aquia",-77.408333,38.421944,"M 634",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-47.79,39.4,"109",57.6,1
+"67900",101319,"col","Aquia",-77.408333,38.421944,"M 920",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-47.79,39.4,"109",57.6,1
+"67902",101321,"col","Aquia",-77.37056,37.766388,"M 636",NA,"",2,"Thanetian","",59.2,56,11845,"gp_mid",-48.04,38.77,"109",57.6,1
+"67903",101322,"col","Aquia",-77.37056,37.766388,"M 854",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-48.04,38.77,"109",57.6,1
+"67921",101340,"col","",-74.53083,40.067501,"M 519",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-44.33,40.18,"109",57.6,1
+"67931",101350,"col","Vincentown",-74,40.243057,"M 162",NA,"",4,"Thanetian","",59.2,56,11845,"gp_mid",-43.75,40.2,"109",57.6,1
+"67942",101361,"col","Aquia",-77.276947,37.317501,"M 852",NA,"",1,"Thanetian","",59.2,56,11845,"gp_mid",-48.14,38.32,"109",57.6,1
+"77024",113321,"col","",-6.116667,32.116669,"Sidi Chennane",NA,"Arambourgisuchus khouribgaensis type locality",1,"Thanetian","",59.2,56,36774,"gp_mid",0.81,21.2,"707",57.6,1
+"77286",113632,"col","interbasaltic plant-beds",-6.231,56.342999,"Ardtun Head, Isle of Mull",NA,"",12,"Thanetian","",59.2,56,36962,"gp_mid",3.9,46.83,"303",57.6,1
+"84560",122852,"col","Aquia",-77.274719,38.336109,"Belvedere Beach",NA,"Belvidere Beach",2,"Thanetian","",59.2,56,39155,"gp_mid",-47.7,39.28,"109",57.6,1
+"85101",123512,"col","Vincentown",-74.748611,39.933887,"Vincentown",NA,"Crocodilus clavirostris type",2,"Thanetian","",59.2,56,34880,"gp_mid",-44.59,40.11,"109",57.6,1
+"85103",123514,"col","Aquia",-76.986946,38.701111,"USNM Eosuchus minor specimens",NA,"",1,"Thanetian","",59.2,56,34880,"gp_mid",-47.26,39.55,"109",57.6,1
+"85104",123515,"col","Aquia",-77.300003,38.400002,"USNM Eosuchus minor specimens",NA,"",1,"Thanetian","",59.2,56,34880,"gp_mid",-47.69,39.35,"109",57.6,1
+"85424",123874,"col","Lower Aquia",-76.848892,38.913891,"Landover Mall",NA,"",1,"Thanetian","",59.2,56,39866,"gp_mid",-47.04,39.71,"109",57.6,1
+"85655",124191,"col","Aquia",-77.269165,38.46389,"Liverpool Point",NA,"",9,"Thanetian","",59.2,56,39882,"gp_mid",-47.64,39.4,"109",57.6,1
+"86273",124965,"col","Vincentown",-74.752045,39.938969,"Rancocas Creek, south branch",NA,"Vincentown",19,"Thanetian","",59.2,56,40566,"gp_mid",-44.59,40.12,"109",57.6,1
+"86274",124966,"col","Vincentown",-74.784264,39.92564,"Medford Farms",NA,"",22,"Thanetian","",59.2,56,39861,"gp_mid",-44.63,40.11,"109",57.6,1
+"87879",127180,"col","Aquia",-77.165558,38.576111,"Mattawoman Creek",NA,"",1,"Thanetian","",59.2,56,41357,"gp_mid",-47.49,39.48,"109",57.6,1
+"92187",133215,"col","Djbel",-5.605556,31.507221,"Talazit",NA,"",1,"Thanetian","",59.2,56,42870,"gp_mid",1.08,20.5,"714",57.6,1
+"92212",133243,"col","Jbel Guersif",-5.66,31.610001,"Ilimzi",NA,"",3,"Thanetian","",59.2,56,42890,"gp_mid",1.06,20.61,"714",57.6,1
+"92213",133244,"col","",-5.66,31.610001,"Timadriouine",NA,"",1,"Thanetian","",59.2,56,42890,"gp_mid",1.06,20.61,"714",57.6,1
+"95273",137197,"col","Jbel Guersif",-5.66,31.610001,"Adrar Mgorn 1bis",NA,"",6,"Thanetian","",59.2,56,43865,"gp_mid",1.06,20.61,"714",57.6,1
+"96224",138239,"col","Jibou",23.261389,47.264999,"Jibou A (JBA)",NA,"Calcaires de Rona; Botanic Garden of Jibou",10,"Thanetian","",59.2,56,44195,"gp_mid",28.51,29.18,"308",57.6,1
+"96225",138240,"col","Jibou",23.298611,47.284721,"Rona 1 (RN1)",NA,"Calcaires de Rona; River Somes",12,"Thanetian","",59.2,56,44195,"gp_mid",28.55,29.18,"308",57.6,1
+"96226",138241,"col","Jibou",23.298611,47.284721,"Rona 2 (RN2)",NA,"Calcaires de Rona; River Somes",7,"Thanetian","",59.2,56,44195,"gp_mid",28.55,29.18,"308",57.6,1
+"96227",138242,"col","Jibou",23.261389,47.264999,"Jibou B (JBB1)",NA,"JBB; Calcaires de Rona; Botanic Garden of Jibou",1,"Thanetian","",59.2,56,44196,"gp_mid",28.51,29.18,"308",57.6,1
+"96228",138243,"col","Jibou",23.261389,47.264999,"Jibou B (JBB2)",NA,"JBB; Calcaires de Rona; Botanic Garden of Jibou",1,"Thanetian","",59.2,56,44196,"gp_mid",28.51,29.18,"308",57.6,1
+"96229",138244,"col","Jibou",23.261389,47.264999,"Jibou B (JBB3)",NA,"JBB; Calcaires de Rona; Botanic Garden of Jibou",1,"Thanetian","",59.2,56,44196,"gp_mid",28.51,29.18,"308",57.6,1
+"96230",138245,"col","Jibou",23.261389,47.264999,"Jibou B (JBB5)",NA,"JBB; Calcaires de Rona; Botanic Garden of Jibou",1,"Thanetian","",59.2,56,44196,"gp_mid",28.51,29.18,"308",57.6,1
+"107261",151895,"col","Kolosh",42.833332,37.216667,"Shiranish village, Kolosh Fm",NA,"",5,"Thanetian","",59.2,56,48535,"gp_mid",43.49,17.35,"503",57.6,1
+"107983",153143,"col","Pavy",-64.397003,81.737503,"Watercourse Bay, Ellesmere Island",NA,"",1,"Thanetian","",59.2,56,49341,"gp_mid",10.18,70.08,"106",57.6,1
+"108140",153341,"col","",-85.816002,31.719999,"Well near Brundidge Depot (USGS locality 25208)",NA,"",2,"Thanetian","",59.2,56,49378,"gp_mid",-58.71,35.29,"109",57.6,1
+"108146",153348,"col","Vincentown",-74.749001,39.9856,"Stokely Canning Factory, north bank of Rancocas Creek",NA,"",1,"Thanetian","",59.2,56,49378,"gp_mid",-44.57,40.16,"109",57.6,1
+"108703",154088,"col","",-2.259722,43.299999,"Zumaya section, U1, 17m, Samples Z4",NA,"",45,"Thanetian","",59.2,56,49947,"gp_mid",6.21,33.31,"304",57.6,1
+"108704",154089,"col","",-2.259722,43.299999,"Zumaya section, U2, Samples Z5, Thickness 18 m",NA,"",45,"Thanetian","",59.2,56,49947,"gp_mid",6.21,33.31,"304",57.6,1
+"109716",155340,"col","Ulukla",35,37.616669,"Ulukla Basin, Ulukla Fm, Northern Margin: Imrahor Log",NA,"",6,"Thanetian","",59.2,56,50684,"gp_mid",37.6,24.06,"504",57.6,1
+"109737",155376,"col","Ulukla",35,37.616669,"Ulukla Basin, Ulukla Fm, Imrahor Log, Back Reef Facies",NA,"",15,"Thanetian","",59.2,56,50684,"gp_mid",37.6,24.06,"504",57.6,1
+"109738",155377,"col","Ulukla",35,37.616669,"Ulukla Basin, Ulukla Fm, Imrahor Log, Back Reef Facies",NA,"",9,"Thanetian","",59.2,56,50684,"gp_mid",37.6,24.06,"504",57.6,1
+"109742",155381,"col","Ulukla",35,37.616669,"Ulukla Fm, between the Ardçl and mrahor logs",NA,"",8,"Thanetian","",59.2,56,50684,"gp_mid",37.6,24.06,"504",57.6,1
+"110630",157012,"col","Cabo de Lata",-3.829167,43.487499,"Cabo Mayor 10",NA,"",1,"Thanetian","",59.2,56,45052,"gp_mid",4.89,33.65,"304",57.6,1
+"112818",160381,"col","Hannut",5.013333,50.679169,"Wansin [Hannut Fm]",NA,"",1,"Thanetian","",59.2,56,52290,"gp_mid",12.38,40.58,"315",57.6,1
+"112822",160387,"col","",63.207222,52.969444,"Sokolovsky Quarry",NA,"",1,"Thanetian","",59.2,56,52290,"gp_mid",60.41,44.79,"402",57.6,1
+"114272",162205,"col","",-6.231,56.342999,"Isle of Mull (Seward collection)",NA,"",1,"Thanetian","",59.2,56,5043,"gp_mid",3.9,46.83,"303",57.6,1
+"116444",165994,"col","Aquia",-76.75,38.82,"Upper Marlboro (Aquia Fm)",NA,"",1,"Thanetian","",59.2,56,54247,"gp_mid",-46.98,39.6,"109",57.6,1
+"116445",165995,"col","Aquia",-76.794998,38.865002,"3 miles west of Leeland (Maryland Geological Survey coll)",NA,"",1,"Thanetian","",59.2,56,54247,"gp_mid",-47.01,39.65,"109",57.6,1
+"116446",165996,"col","Aquia",-76.477997,38.990002,"Mouth of Severn River, opposite Annapolis",NA,"",1,"Thanetian","",59.2,56,54247,"gp_mid",-46.65,39.68,"109",57.6,1
+"117063",167205,"col","Aquia",-77.010399,38.7435,"Fort Washington Construction Site",NA,"",1,"Thanetian","",59.2,56,54562,"gp_mid",-47.27,39.59,"109",57.6,1
+"117602",167933,"col","",12.985,47.938,"Kch 6, Kroisbach, Haunsberg near St. Pankraz",NA,"",1,"Thanetian","",59.2,56,29379,"gp_mid",18.89,37.59,"305",57.6,1
+"117603",167934,"col","",12.985,47.938,"Kroisbachgraben, Salzburg",NA,"",1,"Thanetian","",59.2,56,54938,"gp_mid",18.89,37.59,"305",57.6,1
+"123498",178086,"col","",0.033333,49.325001,"Chenay",NA,"",34,"Thanetian","",59.2,56,26566,"gp_mid",8.08,39.47,"305",57.6,1
+"125669",181073,"col","",3.72,48.720001,"Sézanne (Munier-Chalmas collection)",NA,"",5,"Thanetian","",59.2,56,60151,"gp_mid",11.12,38.68,"305",57.6,1
+"127237",183804,"col","",1.98,49.279999,"Remise Madame, Bachivillers (Pacaud collection)",NA,"",1,"Thanetian","",59.2,56,61368,"gp_mid",9.71,39.32,"305",57.6,1
+"127238",183805,"col","",1.98,49.279999,"Remise Madame, Bachivillers (Pons collection)",NA,"",1,"Thanetian","",59.2,56,61368,"gp_mid",9.71,39.32,"305",57.6,1
+"127698",184446,"col","",32.060001,39.400002,"Kirkkavak Hill sample 08.K.11.1",NA,"",1,"Thanetian","",59.2,56,61799,"gp_mid",35.44,29.14,"510",57.6,1
+"127699",184447,"col","",32.060001,39.400002,"Kirkkavak Hill sample 08.K.2.1",NA,"",1,"Thanetian","",59.2,56,61799,"gp_mid",35.44,29.14,"510",57.6,1
+"127979",184810,"col","",12.985,47.938,"Kch 8, Kroisbach, Haunsberg near St. Pankraz",NA,"",1,"Thanetian","",59.2,56,56314,"gp_mid",18.89,37.59,"305",57.6,1
+"130839",190086,"col","Kakara",77.097,30.905001,"Bakhalag-Bughar",NA,"near the villages Kog, Ghanagughat and Kalharan",5,"Thanetian","",59.2,56,63383,"gp_mid",75.54,-5.18,"501",57.6,1
+"132431",193460,"col","",5.233333,50.566666,"Vinalmont",NA,"",3,"Thanetian","",59.2,56,65726,"gp_mid",12.55,40.46,"315",57.6,1
+"132623",194122,"col","Kakara",77,31.066668,"Kakara village",NA,"",4,"Thanetian","",59.2,56,63383,"gp_mid",75.51,-5,"501",57.6,1
+"134751",198239,"col","Saratov beds",43.975555,48.725834,"Karpovka",NA,"",3,"Thanetian","",59.2,56,67532,"gp_mid",45.01,39,"302",57.6,1
+"141234",208954,"col","",33.934444,44.805557," Glubokii Yar",NA,"",1,"Thanetian","",59.2,56,72121,"gp_mid",36.79,34.61,"302",57.6,1
+"141726",209587,"col","Jbel Ta'Louit",-6.609167,31.496668,"Jbel Guersif",NA,"",1,"Thanetian","",59.2,56,72297,"gp_mid",0.2,20.72,"714",57.6,1

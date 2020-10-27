@@ -1,0 +1,430 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"244",1443,"col","Cook Mountain",-86.561386,31.291389,"Conecuh River (H76-49-1)",NA,"H76-49",48,"Lutetian","",47.8,41.3,42,"gp_mid",-66.84,34.68,"109",44.55,1
+"245",1444,"col","Cook Mountain",-86.48333,31.308332,"Conecuh River (H76-52)",NA,"H76-52",46,"Lutetian","",47.8,41.3,42,"gp_mid",-66.76,34.68,"109",44.55,1
+"3344",8125,"col","Selsey",-0.783333,50.733334,"Units SL1-SL3, East Selsey, West Sussex",NA,"",195,"Lutetian","",47.8,41.3,551,"gp_mid",6.01,43.28,"315",44.55,1
+"3368",8124,"col","Selsey",-0.783333,50.733334,"Units S1-S9, Selsey Peninsula, West Sussex",NA,"",535,"Lutetian","",47.8,41.3,551,"gp_mid",6.01,43.28,"315",44.55,1
+"5084",13322,"col","",11.953611,51.321945,"Geiseltal, Mittelkohle, Zone III (Middlecoal, zone III)",NA,"",77,"Lutetian","",47.8,41.3,11714,"gp_mid",17.05,43.36,"305",44.55,1
+"5103",13346,"col","Tallahatta",-86.519997,31.366667,"Point A Dam Site",NA,"Point ""A"" Dam Site, Conecuh River",68,"Lutetian","",47.8,41.3,688,"gp_mid",-66.78,34.74,"109",44.55,1
+"14886",28978,"col","Kuldana",71.922218,33.622223,"Chorlakki",NA,"",52,"Lutetian","",47.8,41.3,12009,"gp_mid",74.19,11.51,"501",44.55,1
+"17079",31299,"col","Subathu",75.5,32.5,"East Babbian Gala Locality",NA,"GASH, EBGL; Metka Inlier",15,"Lutetian","",47.8,41.3,8420,"gp_mid",76.81,9.61,"501",44.55,1
+"17359",31582,"col","",1.516667,46.566666,"Argenton-sur-Creuse",NA,"Argenton",4,"Lutetian","",47.8,41.3,8517,"gp_mid",7.6,39.01,"305",44.55,1
+"17386",31609,"col","",7.466667,48.816666,"Bouxwiller",NA,"",22,"Lutetian","",47.8,41.3,8517,"gp_mid",13,41,"305",44.55,1
+"22055",37601,"col","Akasaki",130.5,32.650002,"Coast at Akasemachi",NA,"",11,"Lutetian","",47.8,41.3,2599,"gp_mid",126.57,39.2,"610",44.55,1
+"22862",38719,"col","Brussles",4.563495,50.918949,"Nederokkerzeel",NA,"Imbrechts sand pit; BGS 74 W 148",6,"Lutetian","",47.8,41.3,10411,"gp_mid",10.65,43.21,"315",44.55,1
+"24322",40792,"col","",28.450001,41.150002,"Level 1, Lutetian, Catalca-Karacakoy, Turkey",NA,"",4,"Lutetian","",47.8,41.3,11023,"gp_mid",29.49,26.4,"308",44.55,1
+"24323",40793,"col","",28.450001,41.150002,"Level 2, Lutetian, Catalca-Karacakoy, Turkey",NA,"",18,"Lutetian","",47.8,41.3,11023,"gp_mid",29.49,26.4,"308",44.55,1
+"25122",41847,"col","Earnley",-0.858,50.762001,"Bracklesham, Earnley Formation",NA,"",4,"Lutetian","",47.8,41.3,10367,"gp_mid",5.95,43.31,"315",44.55,1
+"25146",41872,"col","Marsh Farm",-0.844,50.762001,"Earnley Marsh, Marsh Farm Formation, E11",NA,"",2,"Lutetian","",47.8,41.3,10367,"gp_mid",5.96,43.31,"315",44.55,1
+"25147",41874,"col","Selsey",-0.858,50.762001,"Medmerry, Selsey Formation",8124,"",1,"Lutetian","",47.8,41.3,10367,"gp_mid",5.95,43.31,"315",44.55,1
+"25649",42452,"col","",-0.83,51.337002,"Yateley, Bracklesham Beds, Hampshire",NA,"",1,"Lutetian","",47.8,41.3,11292,"gp_mid",6.04,43.88,"315",44.55,1
+"26087",43002,"col","Centinela",-72.25,-50.5,"Bandurrias River, Calafate - Centinela Formation",NA,"",13,"Lutetian","",47.8,41.3,11392,"gp_mid",-64.64,-51.23,"291",44.55,1
+"26089",43004,"col","Centinela",-72.25,-50.5,"Bandurrias River, Calafate - Upper Centinela Formation",NA,"",1,"Lutetian","",47.8,41.3,11392,"gp_mid",-64.64,-51.23,"291",44.55,1
+"26090",43005,"col","Centinela",-72.25,-50.5,"Bandurrias River, Calafate - Lower Centinela Formation",NA,"",1,"Lutetian","",47.8,41.3,11392,"gp_mid",-64.64,-51.23,"291",44.55,1
+"26598",43624,"col","Uzunçarşıdere",32.733334,40.083332,"Haymana Basin",NA,"",7,"Lutetian","",47.8,41.3,11458,"gp_mid",35.24,32.04,"510",44.55,1
+"26891",44180,"col","",5.528333,43.918888,"Six kilometers east of Gignac (Lutetian of l'Hérault )",NA,"",2,"Lutetian","",47.8,41.3,11605,"gp_mid",10.95,36.18,"305",44.55,1
+"27725",44999,"col","",11.953611,51.321945,"Geiseltal, untere Unterkohle",NA,"",21,"Lutetian","",47.8,41.3,11714,"gp_mid",17.05,43.36,"305",44.55,1
+"27726",45000,"col","",11.953611,51.321945,"Geiseltal, obere Unterkohle (upper Lowercoal)",NA,"",9,"Lutetian","",47.8,41.3,11714,"gp_mid",17.05,43.36,"305",44.55,1
+"27727",45001,"col","",11.953611,51.321945,"Geiseltal, Mittelkohle, Zone I (Middlecoal, zone I)",NA,"",23,"Lutetian","",47.8,41.3,11714,"gp_mid",17.05,43.36,"305",44.55,1
+"27728",45002,"col","",11.953611,51.321945,"Geiseltal, Mittelkohle, Zone II (Middlecoal, zone II)",NA,"",31,"Lutetian","",47.8,41.3,11714,"gp_mid",17.05,43.36,"305",44.55,1
+"27904",45234,"col","",-5.6225,42.420834,"Dehesa de Valdevimbre (Z-8)",NA,"",1,"Lutetian","",47.8,41.3,11746,"gp_mid",1.23,35.46,"304",44.55,1
+"27905",45235,"col","",-5.566111,42.433334,"Cerro del Viso (Z-9)",NA,"",4,"Lutetian","",47.8,41.3,11746,"gp_mid",1.28,35.47,"304",44.55,1
+"28141",45524,"col","Kohat",72.19722,33.615276,"H-GSP 9204",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,11942,"gp_mid",74.41,11.44,"501",44.55,1
+"28143",45527,"col","Kuldana",72.199997,33.658333,"H-GSP 9209",NA,"",2,"Lutetian","",47.8,41.3,11943,"gp_mid",74.43,11.48,"501",44.55,1
+"28145",45529,"col","Kuldana",72.681664,33.783054,"Ganda Kas",NA,"includes Gingerich (1977) localities 2 & 11",16,"Lutetian","",47.8,41.3,11944,"gp_mid",74.86,11.49,"501",44.55,1
+"28201",45586,"col","Kuldana",72.188889,33.633331,"H-GSP 62",NA,"H-GSP Locality 62",17,"Lutetian","",47.8,41.3,12020,"gp_mid",74.41,11.46,"501",44.55,1
+"28202",45587,"col","Kuldana",72.681664,33.783054,"Ganda Kas Locality 24",NA,"",3,"Lutetian","",47.8,41.3,11944,"gp_mid",74.86,11.49,"501",44.55,1
+"28341",45735,"col","",11.953611,51.321945,"Geiseltal, Ns XLI, Neumark-Süd, Trichter",45002,"",2,"Lutetian","",47.8,41.3,12101,"gp_mid",17.05,43.36,"305",44.55,1
+"28343",45736,"col","",11.953611,51.321945,"Geiseltal, Cl II, Grube ""Cecilie"", Leichenfeld I",13322,"",1,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28346",45739,"col","",11.953611,51.321945,"Geiseltal, Cl IV, Grube ""Cecilie"", Trichter NE",13322,"",8,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28348",45741,"col","",11.953611,51.321945,"Geiseltal, L III, Grube ""Leonhardt"", Hochbaggertrichter",13322,"",8,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28349",45742,"col","",11.953611,51.321945,"Geiseltal, L I, Grube ""Leonhardt"", Trichter I",45002,"",7,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28350",45743,"col","",11.953611,51.321945,"Geiseltal, L V, Grube ""Leonhardt"", Trichter V",45002,"",2,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28351",45744,"col","",11.953611,51.321945,"Geiseltal, L VI, Grube ""Leonhardt"", Trichter VI",45001,"",1,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28352",45745,"col","",11.953611,51.321945,"Geiseltal, L VII, Grube ""Leonhardt"", Trichter VII",13322,"",3,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28353",45746,"col","",11.953611,51.321945,"Geiseltal, L IX, Grube ""Leonhardt"", Trichter IX",13322,"",1,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28354",45747,"col","",11.953611,51.321945,"Geiseltal, Nw VI, Neumark-West, Trichter VI",45001,"",12,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28355",45748,"col","",11.953611,51.321945,"Geiseltal, Nw VII, Neumark-West, Leichenfeld VII",45002,"",1,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28357",45750,"col","",11.953611,51.321945,"Geiseltal, Ns XVIII, Neumark-Süd, Trichter XVIII",45000,"",5,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28358",45751,"col","",11.953611,51.321945,"Geiseltal, Ns XXII, Neumark-Süd",13322,"",9,"Lutetian","",47.8,41.3,11932,"gp_mid",17.05,43.36,"305",44.55,1
+"28370",45762,"col","",11.953611,51.321945,"Geiseltal, Ns XXVI, Neumark-Süd, Trichter",45002,"",2,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28371",45763,"col","",11.953611,51.321945,"Geiseltal, Ns XXVII, Neumark-Süd, Leichenfeld",45002,"",2,"Lutetian","",47.8,41.3,11933,"gp_mid",17.05,43.36,"305",44.55,1
+"28372",45764,"col","",11.953611,51.321945,"Geiseltal, Ns XXXIII, Neumark-Süd, Trichter",45002,"",2,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28373",45765,"col","",11.953611,51.321945,"Geiseltal, Ns XXXV, Neumark-Süd, Trichter",45002,"",9,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28374",45766,"col","",11.953611,51.321945,"Geiseltal, Ns XXXVIII, Neumark-Süd, Trichter",45002,"",8,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28375",45767,"col","",11.953611,51.321945,"Geiseltal, MÜw LII, Mücheln-West, Bachlauf",45001,"",3,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28376",45768,"col","",11.953611,51.321945,"Geiseltal, Ns XXXVI, Neumark-Süd, Trichter",45002,"",9,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28377",45769,"col","",11.953611,51.321945,"Geiseltal, Ns XXXVII, Neumark-Süd, Trichter",45002,"",12,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28378",45770,"col","",11.953611,51.321945,"Geiseltal, Ns XLIII, Neumark-Süd, Trichter",45001,"",3,"Lutetian","",47.8,41.3,11934,"gp_mid",17.05,43.36,"305",44.55,1
+"28403",45800,"col","",11.953611,51.321945,"Geiseltal, Ce VI, Grube ""Cecilie""",NA,"",1,"Lutetian","",47.8,41.3,11941,"gp_mid",17.05,43.36,"305",44.55,1
+"28404",45801,"col","",11.953611,51.321945,"Geiseltal, Ce III, Grube ""Cecilie""",13322,"Leichenfeld II",5,"Lutetian","",47.8,41.3,11941,"gp_mid",17.05,43.36,"305",44.55,1
+"30467",48072,"col","",18.315001,47.475834,"Oroszlany",NA,"",2,"Lutetian","",47.8,41.3,12865,"gp_mid",24.18,34.86,"308",44.55,1
+"31245",49002,"col","Kuldana",72.199997,33.629166,"H-GSP 9210",NA,"Includes: H-GSP 57, H-GSP 58, H-GSP 59, H-GSP 60",6,"Lutetian","",47.8,41.3,13075,"gp_mid",74.42,11.45,"501",44.55,1
+"31820",49844,"col","Kuldana",72.333336,33.633331,"Jhalar",NA,"H-GSP Locality 225",3,"Lutetian","",47.8,41.3,14036,"gp_mid",74.53,11.43,"501",44.55,1
+"31861",49887,"col","",18.450001,47.549999,"Felsogalla",NA,"Keselo-Hill, Tatabanya",3,"Lutetian","",47.8,41.3,13402,"gp_mid",24.32,34.89,"308",44.55,1
+"33762",52200,"col","Kuldana",71.199997,33.599998,"Jozaria Rest House",NA,"",1,"Lutetian","",47.8,41.3,14034,"gp_mid",73.6,11.67,"501",44.55,1
+"35737",55239,"col","",11.222144,45.600391,"Monte Bolca (Pesciara)",NA,"",76,"Lutetian","",47.8,41.3,14688,"gp_mid",17.81,35.09,"307",44.55,1
+"35750",55255,"col","Nanjemoy",-76.991669,38.407223,"Pope's Creek, Nanjemoy Fm.",NA,"",13,"Lutetian","",47.8,41.3,14737,"gp_mid",-55.14,39.72,"109",44.55,1
+"40244",60569,"col","",-72.550003,19.666668,"Station 9771",NA,"B 260 F",2,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.09,20.62,"252",44.55,1
+"40245",60570,"col","",-72.550003,19.666668,"Station 9857",NA,"B 260 Fa",3,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.09,20.62,"252",44.55,1
+"40246",60571,"col","",-72.550003,19.666668,"Station 9889",NA,"B 326 F",2,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.09,20.62,"252",44.55,1
+"40247",60572,"col","",-72.550003,19.666668,"Station 9861",NA,"B 267 F",3,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.09,20.62,"252",44.55,1
+"40248",60573,"col","",-72.666664,19.5,"Station 9792",NA,"W 316 F",13,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.23,20.47,"252",44.55,1
+"40249",60574,"col","",-72.666664,19.5,"Station 9952",NA,"W 345 F",6,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.23,20.47,"252",44.55,1
+"40250",60575,"col","",-72.666664,19.5,"Station 9950",NA,"W 343 F",3,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.23,20.47,"252",44.55,1
+"40251",60576,"col","",-72.666664,19.5,"Station 9754",NA,"W 288 F",1,"Lutetian","",47.8,41.3,17411,"gp_mid",-64.23,20.47,"252",44.55,1
+"43394",65072,"col","Faluns de la Touraine",1.256667,47.390835,"Pontlevoy-Thenay",NA,"",17,"Lutetian","",47.8,41.3,18736,"gp_mid",7.45,39.84,"305",44.55,1
+"43476",65226,"col","",38.677502,32.520279,"Wadi Ruweishid",NA,"",9,"Lutetian","",47.8,41.3,18800,"gp_mid",38.94,17.21,"503",44.55,1
+"48134",71666,"col","",13.85,45.549999,"Crni Kal",NA,"Reef 3636",26,"Lutetian","",47.8,41.3,24224,"gp_mid",19.83,34.3,"307",44.55,1
+"50234",75454,"col","",13.516667,45.966667,"Russiz, Gorizia",NA,"Reef 3634",28,"Lutetian","",47.8,41.3,25454,"gp_mid",19.78,34.77,"307",44.55,1
+"50235",75455,"col","",1.95,48.849998,"Grignon, Yvelines, Paris Basin",NA,"",7,"Lutetian","",47.8,41.3,25456,"gp_mid",8.19,41.26,"305",44.55,1
+"50877",76996,"col","",23.283333,47.266666,"Jibou area, serpulid-algal bioherm",NA,"Reef 3661",4,"Lutetian","",47.8,41.3,26052,"gp_mid",27.86,33.4,"308",44.55,1
+"50962",77119,"col","",11,45.466667,"Avesa",NA,"",14,"Lutetian","",47.8,41.3,26110,"gp_mid",17.57,35.03,"307",44.55,1
+"51069",77257,"col","Ilaro",3.233333,6.7,"Borehole 927 - Ilaro Fm",NA,"",74,"Lutetian","",47.8,41.3,26161,"gp_mid",3.56,-2.81,"714",44.55,1
+"51212",77524,"col","",74.373611,33.241669,"Sindkhatudi Bone Bed",NA,"Sindkhatuti",11,"Lutetian","",47.8,41.3,31734,"gp_mid",76.09,10.58,"501",44.55,1
+"51240",77611,"col","Bruxelles",3.45,51.083332,"Aalter Sands (Sables d'Aalter) - Bruxelles Formation",NA,"",84,"Lutetian","",47.8,41.3,24507,"gp_mid",9.71,43.42,"315",44.55,1
+"51241",77612,"col","Bruxelles",4.3,50.916668,"Wemmel Sands (Sables d'Wemmel) - Bruxelles Formation",NA,"",14,"Lutetian","",47.8,41.3,24507,"gp_mid",10.43,43.22,"315",44.55,1
+"51242",77613,"col","Bruxelles",4.333333,50.833332,"Bruxelles Sands (Sables d'Bruxelles) - Bruxelles Formation",NA,"",34,"Lutetian","",47.8,41.3,24507,"gp_mid",10.45,43.14,"315",44.55,1
+"51567",78230,"col","",3.288333,49.848057,"Saint Quentin",NA,"",1,"Lutetian","",47.8,41.3,26337,"gp_mid",9.45,42.2,"315",44.55,1
+"52148",79060,"col","Dammam",50.59,26.129999,"Hisai Jebel, 3 miles east of Rifaa",NA,"",6,"Lutetian","",47.8,41.3,26552,"gp_mid",48.49,9.33,"503",44.55,1
+"53047",81055,"col","Chiampo Marble",11.283333,45.549999,"Cava Lovara [upper Chiampo Marble] - Coleoidea",NA,"",1,"Lutetian","",47.8,41.3,27275,"gp_mid",17.84,35.03,"307",44.55,1
+"53048",81056,"col","Chiampo Marble",11.283333,45.549999,"Cava Boschetto di Nogarole [upper Chiampo Marble] - Coleoidea",NA,"",1,"Lutetian","",47.8,41.3,27275,"gp_mid",17.84,35.03,"307",44.55,1
+"53049",81057,"col","Chiampo Marble",11.283333,45.549999,"Cava Boschetto di Chiampo [upper Chiampo Marble] - Coleoidea",NA,"Cengio dell’Orbo",12,"Lutetian","",47.8,41.3,27275,"gp_mid",17.84,35.03,"307",44.55,1
+"53051",81059,"col","Chiampo Marble",11.283333,45.549999,"Middle Chiampo Valley [upper Chiampo Marble]",NA,"",10,"Lutetian","",47.8,41.3,27275,"gp_mid",17.84,35.03,"307",44.55,1
+"53128",81208,"col","Lisbon",-86.48333,31.299999,"ACov-1 Lisbon",NA,"",7,"Lutetian","",47.8,41.3,124,"gp_mid",-66.76,34.67,"109",44.55,1
+"53129",81209,"col","Lisbon",-86.48333,31.299999,"ACov-7 Lisbon",NA,"",21,"Lutetian","",47.8,41.3,124,"gp_mid",-66.76,34.67,"109",44.55,1
+"53130",81210,"col","Lisbon",-86.48333,31.299999,"ACov-12 Lisbon",NA,"",4,"Lutetian","",47.8,41.3,124,"gp_mid",-66.76,34.67,"109",44.55,1
+"53132",81212,"col","Lisbon",-86.48333,31.299999,"ACov-6 Lisbon",NA,"",23,"Lutetian","",47.8,41.3,124,"gp_mid",-66.76,34.67,"109",44.55,1
+"53150",81242,"col","Lisbon",-86.166664,31.200001,"ACof-2 Lisbon",NA,"",10,"Lutetian","",47.8,41.3,124,"gp_mid",-66.47,34.51,"109",44.55,1
+"53151",81253,"col","Lisbon",-86.73333,31.316668,"ACon-4 Upper Lisbon",NA,"",36,"Lutetian","",47.8,41.3,124,"gp_mid",-67.01,34.73,"109",44.55,1
+"53152",81254,"col","Lisbon",-86.48333,31.299999,"ACov-4 Upper Lisbon",NA,"",22,"Lutetian","",47.8,41.3,124,"gp_mid",-66.76,34.67,"109",44.55,1
+"53153",81255,"col","Lisbon",-86.73333,31.316668,"ACov-5 Upper Lisbon",NA,"",11,"Lutetian","",47.8,41.3,124,"gp_mid",-67.01,34.73,"109",44.55,1
+"53154",81256,"col","Lisbon",-85.849998,31.016666,"AGe-1",NA,"",1,"Lutetian","",47.8,41.3,124,"gp_mid",-66.2,34.27,"109",44.55,1
+"53155",81257,"col","Lisbon",-85.849998,31.016666,"AGe-2",NA,"",9,"Lutetian","",47.8,41.3,124,"gp_mid",-66.2,34.27,"109",44.55,1
+"53159",81261,"col","Lisbon",-84.933334,31.366667,"GEa-3 Upper Lisbon",NA,"",3,"Lutetian","",47.8,41.3,124,"gp_mid",-65.18,34.44,"109",44.55,1
+"53160",81262,"col","Lisbon",-84.933334,31.366667,"GEa-4 Upper Lisbon",NA,"",3,"Lutetian","",47.8,41.3,124,"gp_mid",-65.18,34.44,"109",44.55,1
+"53161",81263,"col","Lisbon",-84.216667,32.066666,"GSu-1 Upper Lisbon",NA,"",1,"Lutetian","",47.8,41.3,124,"gp_mid",-64.26,34.98,"109",44.55,1
+"55395",84511,"col","Kartal",32.71389,40.093056,"Saribeylar",NA,"AK 95-52",12,"Lutetian","",47.8,41.3,28324,"gp_mid",35.23,32.05,"510",44.55,1
+"56690",190293,"col","Szoc Limestone",17.370001,46.981998,"Csabrendek, Darvastó",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.23,34.65,"308",44.55,1
+"57872",87963,"col","Kuldana",72.683334,33.783333,"Jandewala Nala",NA,"H-GSP Locality 9205; Ganda Kas",3,"Lutetian","",47.8,41.3,11799,"gp_mid",74.86,11.49,"501",44.55,1
+"57877",87970,"col","Kuldana",72.216667,33.583332,"Thatta",NA,"H-GSP Locality 9613; Ganda Kas",2,"Lutetian","",47.8,41.3,11799,"gp_mid",74.42,11.41,"501",44.55,1
+"57878",87971,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 64",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,11799,"gp_mid",74.86,11.49,"501",44.55,1
+"57879",87972,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 227",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,11799,"gp_mid",74.86,11.49,"501",44.55,1
+"57880",87973,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 9206",NA,"Ganda Kas",3,"Lutetian","",47.8,41.3,11799,"gp_mid",74.86,11.49,"501",44.55,1
+"60049",91339,"col","Jbel Tagount",-6.310833,31.415001,"Aznag",NA,"",28,"Lutetian","",47.8,41.3,30724,"gp_mid",-0.75,23.13,"714",44.55,1
+"60257",91575,"col","",4.45,50.666668,"Maransart",NA,"",1,"Lutetian","",47.8,41.3,30859,"gp_mid",10.53,42.96,"315",44.55,1
+"61854",93595,"col","Kuldana",72.166664,33.633331,"Shepherd's Lake",NA,"H-GSP 9607",8,"Lutetian","",47.8,41.3,31707,"gp_mid",74.39,11.47,"501",44.55,1
+"61940",93699,"col","Subathu",74.403893,33.22361,"Chenpur (LU 1007)",NA,"",2,"Lutetian","",47.8,41.3,31735,"gp_mid",76.11,10.56,"501",44.55,1
+"61941",93700,"col","Subathu",74.376389,33.239445,"LU 1002",NA,"",2,"Lutetian","",47.8,41.3,31735,"gp_mid",76.09,10.58,"501",44.55,1
+"61942",93701,"col","Subathu",74.355553,33.242222,"LU 1006",NA,"",1,"Lutetian","",47.8,41.3,31735,"gp_mid",76.07,10.58,"501",44.55,1
+"61943",93702,"col","Subathu",74.363892,33.239723,"LU 1005",NA,"",2,"Lutetian","",47.8,41.3,31735,"gp_mid",76.08,10.58,"501",44.55,1
+"62619",94590,"col","",1.696667,49.124168,"Calcaire grossier, Chaussy, Val d'Oise",NA,"",48,"Lutetian","",47.8,41.3,31728,"gp_mid",8,41.55,"305",44.55,1
+"63154",95141,"col","Kuldana",72.198608,33.616669,"H-GSP 146",NA,"",5,"Lutetian","",47.8,41.3,15199,"gp_mid",74.42,11.44,"501",44.55,1
+"63155",95142,"col","Kuldana",72.186111,33.640278,"H-GSP 9205",NA,"",2,"Lutetian","",47.8,41.3,32320,"gp_mid",74.41,11.47,"501",44.55,1
+"63158",95146,"col","Kuldana",72.188889,33.616669,"H-GSP 9206",87973,"Valley D",2,"Lutetian","",47.8,41.3,32320,"gp_mid",74.41,11.44,"501",44.55,1
+"63159",95147,"col","Kuldana",71.202782,33.643055,"H-GSP 9207",NA,"Valley A, including H-GSP 9211",2,"Lutetian","",47.8,41.3,11996,"gp_mid",73.61,11.71,"501",44.55,1
+"63160",95148,"col","Kuldana",72.1875,33.650002,"G-GSP 9605",NA,"Valley E",1,"Lutetian","",47.8,41.3,32320,"gp_mid",74.42,11.48,"501",44.55,1
+"63161",95149,"col","Kuldana",71.258331,33.299999,"H-GSP 9712",NA,"Jatta Salt Mine",1,"Lutetian","",47.8,41.3,32320,"gp_mid",73.56,11.36,"501",44.55,1
+"65888",99345,"col","Laredo",-99.440002,27.0425,"M 746",NA,"",1,"Lutetian","",47.8,41.3,11845,"gp_mid",-81.15,32.9,"101",44.55,1
+"68288",101881,"col","",23.133333,46.799999,"Bedeciu",NA,"",1,"Lutetian","",47.8,41.3,34618,"gp_mid",27.54,33.01,"308",44.55,1
+"74021",109766,"col","",12.333333,51.616669,"Braunkohl Mine",NA,"Bitterfeld",1,"Lutetian","",47.8,41.3,36004,"gp_mid",17.39,43.65,"305",44.55,1
+"74321",110070,"col","Chiampo",11.25,45.533333,"Chiampo",NA,"",66,"Lutetian","",47.8,41.3,36291,"gp_mid",17.8,35.02,"307",44.55,1
+"77683",114060,"col","",11.953611,51.321945,"Geiseltal (GPIUH collection)",NA,"",87,"Lutetian","",47.8,41.3,42651,"gp_mid",17.05,43.36,"305",44.55,1
+"79824",117103,"col","",11.21,45.578609,"Monte Bolca (BMNH collection)",NA,"",1,"Lutetian","",47.8,41.3,37630,"gp_mid",17.79,35.07,"307",44.55,1
+"79825",117104,"col","",11.21,45.578609,"Monte Bolca (MNHN Paris Bol. collection)",NA,"",1,"Lutetian","",47.8,41.3,37630,"gp_mid",17.79,35.07,"307",44.55,1
+"82835",120554,"col","",23.360001,46.470001,"Cluj-Manastur",NA,"",1,"Lutetian","",47.8,41.3,38535,"gp_mid",27.58,32.64,"308",44.55,1
+"83136",120885,"col","",39.066387,49.528332,"Ikovo",NA,"Novopskov",50,"Lutetian","",47.8,41.3,38603,"gp_mid",40.43,41.64,"302",44.55,1
+"84018",121968,"col","Fürstenau",7.220556,52.590832,"Dalum",NA,"",30,"Lutetian","",47.8,41.3,38795,"gp_mid",13.08,44.78,"315",44.55,1
+"84725",123069,"col","",3.783333,50.916668,"Balegem",NA,"",2,"Lutetian","",47.8,41.3,39323,"gp_mid",9.98,43.24,"315",44.55,1
+"84726",123070,"col","",-1.466667,49.416668,"Hauteville (RSNB collection)",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",5.27,42,"305",44.55,1
+"84728",123073,"col","Wemmel",4.3,50.900002,"Wemmel",NA,"",2,"Lutetian","",47.8,41.3,39323,"gp_mid",10.43,43.2,"315",44.55,1
+"84729",123076,"col","",4.666667,50.633331,"Nil-Saint-Vincent",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",10.72,42.92,"315",44.55,1
+"84730",123077,"col","Lede",3.983333,50.950001,"Lede",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",10.16,43.27,"315",44.55,1
+"84731",123078,"col","Lede",3.333333,51.166668,"Oedelem, Lede Formation",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",9.62,43.51,"315",44.55,1
+"84732",123084,"col","Lede",4.333333,50.816666,"Saint-Gilles, Lede Formation",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",10.45,43.12,"315",44.55,1
+"84735",123095,"col","Wemmel",4.2,50.883331,"Asse (Tenberg)",NA,"",2,"Lutetian","",47.8,41.3,39323,"gp_mid",10.34,43.19,"315",44.55,1
+"84736",123096,"col","Wemmel",4.383333,50.900002,"Neder-over-Heembeek",NA,"",2,"Lutetian","",47.8,41.3,39323,"gp_mid",10.5,43.2,"315",44.55,1
+"84744",123107,"col","Calcaire grosse",1.883333,49.25,"Chaumont-en-Vexin",NA,"",3,"Lutetian","",47.8,41.3,39323,"gp_mid",8.17,41.66,"305",44.55,1
+"84745",123108,"col","Brussel",4.55,50.916668,"Nederokkerzeel",NA,"",1,"Lutetian","",47.8,41.3,39323,"gp_mid",10.64,43.21,"315",44.55,1
+"84746",123109,"col","Calcaire grosse",1.883333,48.799999,"Villiers-Neauphle",NA,"",2,"Lutetian","",47.8,41.3,39323,"gp_mid",8.13,41.22,"305",44.55,1
+"85697",124263,"col","",3.933333,49.133331,"Courtagnon",NA,"",2,"Lutetian","",47.8,41.3,40043,"gp_mid",9.95,41.46,"315",44.55,1
+"85853",124457,"col","Brussels",4.444722,50.597778,"Loupoigne",NA,"",3,"Lutetian","",47.8,41.3,40171,"gp_mid",10.52,42.9,"315",44.55,1
+"85855",124459,"col","Brussels",4.478611,50.915001,"Melsbroeck",NA,"Melsbroek",4,"Lutetian","",47.8,41.3,29875,"gp_mid",10.58,43.21,"315",44.55,1
+"85857",124461,"col","Brussels Sand",4.340278,50.830002,"Saint-Gilles",NA,"Saint-Gilles-lez-Bruxelles; Saint Gilles, St. Gilles",6,"Lutetian","",47.8,41.3,29875,"gp_mid",10.45,43.13,"315",44.55,1
+"86044",124685,"col","Brussels",4.440556,50.608334,"Vieux-Genappe",NA,"",1,"Lutetian","",47.8,41.3,40313,"gp_mid",10.52,42.91,"315",44.55,1
+"86045",124686,"col","Brussels",4.388889,50.832222,"Etterbeek",NA,"Etterbeck",2,"Lutetian","",47.8,41.3,29875,"gp_mid",10.5,43.13,"315",44.55,1
+"86375",125075,"col","Kuldana",42.690556,33.783333,"H-GSP 229",NA,"",1,"Lutetian","",47.8,41.3,52763,"gp_mid",42.64,17.87,"503",44.55,1
+"86376",163051,"col","Kuldana",72.188889,33.616669,"H-GSP 56",NA,"",1,"Lutetian","",47.8,41.3,52763,"gp_mid",74.41,11.44,"501",44.55,1
+"86381",125084,"col","Kuldana",72.199997,33.599998,"H-GSP 9611",NA,"Thatta North",2,"Lutetian","",47.8,41.3,52763,"gp_mid",74.41,11.43,"501",44.55,1
+"87931",127283,"col","",10.991667,45.438057,"Albanello quarry",NA,"",11,"Lutetian","",47.8,41.3,41427,"gp_mid",17.55,35.01,"307",44.55,1
+"88665",187904,"col","Uzunçarşidere",32.733334,40.083332,"AK-33 at Memlik",NA,"",1,"Lutetian","",47.8,41.3,63066,"gp_mid",35.24,32.04,"510",44.55,1
+"88677",128434,"col","Csolnok Marl",18.33,47.34,"Csákberény 89 borehole",NA,"",1,"Lutetian","",47.8,41.3,41949,"gp_mid",24.13,34.73,"308",44.55,1
+"91760",132588,"col","",11.953611,51.321945,"Neumark NW under a coal  IVa= zone V ",NA,"",2,"Lutetian","",47.8,41.3,42651,"gp_mid",17.05,43.36,"305",44.55,1
+"91761",132589,"col","",11.953611,51.321945,"Neumark W zone I",NA,"",1,"Lutetian","",47.8,41.3,42651,"gp_mid",17.05,43.36,"305",44.55,1
+"97135",139195,"col","",11.3185,45.529999,"Cava Main di Arzignano (MSNV collection)",NA,"",2,"Lutetian","",47.8,41.3,47470,"gp_mid",17.85,35,"307",44.55,1
+"101585",144537,"col","",11.21,45.59528,"Monte Purga, Vestenanova di Bolca",NA,"Monte Bolca",10,"Lutetian","",47.8,41.3,46758,"gp_mid",17.8,35.09,"307",44.55,1
+"101949",145128,"col","",11.3185,45.529999,"Cava Main di Arzignano (Museo Civico G. Zannato collection)",NA,"",25,"Lutetian","",47.8,41.3,47477,"gp_mid",17.85,35,"307",44.55,1
+"103054",146999,"col","",11.266,45.535999,"Cava Lovara, Chiampo",NA,"",34,"Lutetian","",47.8,41.3,47470,"gp_mid",17.82,35.02,"307",44.55,1
+"105056",149173,"col","",15.463889,-27.377222,"Black Crow",NA,"Sperrgebiet",27,"Lutetian","",47.8,41.3,47755,"gp_mid",10.29,-38.35,"701",44.55,1
+"105057",149174,"col","",15.433333,-27.4,"Steffenkop",NA,"",0,"Lutetian","",47.8,41.3,47755,"gp_mid",10.25,-38.37,"701",44.55,1
+"106170",151252,"col","",4.75,45.866669,"Lissieu, Lutetian",NA,"",22,"Lutetian","",47.8,41.3,49420,"gp_mid",10.4,38.16,"305",44.55,1
+"107793",152680,"col","",11.28,45.665001,"Novale (Padova collection)",NA,"",1,"Lutetian","",47.8,41.3,49214,"gp_mid",17.89,35.13,"307",44.55,1
+"107803",152648,"col","",11.2,45.595001,"Monte Bolca (De Zigno collection)",NA,"",1,"Lutetian","",47.8,41.3,49214,"gp_mid",17.79,35.09,"307",44.55,1
+"107804",152649,"col","",11.2,45.595001,"Monte Bolca (Massalongo collection)",NA,"",4,"Lutetian","",47.8,41.3,49198,"gp_mid",17.79,35.09,"307",44.55,1
+"107805",152650,"col","",11.2,45.595001,"Monte Bolca (Parolini collection)",NA,"",1,"Lutetian","",47.8,41.3,49198,"gp_mid",17.79,35.09,"307",44.55,1
+"107806",152651,"col","",11.2,45.595001,"Monte Bolca (Padova collection)",NA,"",1,"Lutetian","",47.8,41.3,49199,"gp_mid",17.79,35.09,"307",44.55,1
+"109908",155693,"col","",11.953611,51.321945,"Geiseltal (Halle collection)",NA,"",109,"Lutetian","",47.8,41.3,50866,"gp_mid",17.05,43.36,"305",44.55,1
+"110932",157549,"col","Gallensis Limestone",9.44,47.290001,"Obere Leugangen north",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.63,39.41,"305",44.55,1
+"110933",157550,"col","Gallensis Limestone",9.46,47.290001,"Gfell, Brulisau",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.64,39.41,"305",44.55,1
+"110934",157551,"col","Gallensis Limestone",9.46,47.369999,"Schluecht-Tobeli north",NA,"",2,"Lutetian","",47.8,41.3,51824,"gp_mid",14.65,39.49,"305",44.55,1
+"110937",157554,"col","Gallensis Limestone",9.46,47.369999,"SW of Blosers",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.65,39.49,"305",44.55,1
+"110939",157556,"col","Gallensis Limestone",9.46,47.310001,"Aulenbachtobel southeast",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.64,39.43,"305",44.55,1
+"110940",157557,"col","Gallensis Limestone",9.462,47.311001,"Aulenbachbrucke",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.65,39.43,"305",44.55,1
+"110941",157558,"col","Gallensis Greensand",9.39,47.27,"Chlus-Hollflatschen south side",NA,"",2,"Lutetian","",47.8,41.3,51824,"gp_mid",14.58,39.39,"305",44.55,1
+"110942",157559,"col","Gallensis Greensand",9.39,47.27,"Chlus-Hollflatschen north side",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.58,39.39,"305",44.55,1
+"110943",157560,"col","Gallensis Greensand",9.46,47.32,"Aebiskraut (=Abischrut)",NA,"",2,"Lutetian","",47.8,41.3,51824,"gp_mid",14.65,39.44,"305",44.55,1
+"110944",157561,"col","Gallensis Greensand",9.49,47.330002,"Langwald",NA,"",2,"Lutetian","",47.8,41.3,51824,"gp_mid",14.67,39.45,"305",44.55,1
+"110945",157562,"col","Gallensis Greensand",9.537,47.327,"Schörgischnorren",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.71,39.44,"305",44.55,1
+"113941",161767,"col","Szoc Limestone",18.33,47.130001,"Urhida-1 borehole",NA,"",1,"Lutetian","",47.8,41.3,52691,"gp_mid",24.03,34.53,"308",44.55,1
+"113943",161769,"col","Szoc Limestone",18.6,47.720001,"Mogyorsobanya-87 borehole",NA,"",2,"Lutetian","",47.8,41.3,52691,"gp_mid",24.52,35.01,"308",44.55,1
+"113945",161771,"col","Szoc Limestone",17.540001,47.16,"Magyarpolany-40 borehole",NA,"",1,"Lutetian","",47.8,41.3,52691,"gp_mid",23.45,34.77,"308",44.55,1
+"114810",163052,"col","Kuldana",72.188889,33.616669,"H-GSP 9208",NA,"",1,"Lutetian","",47.8,41.3,52763,"gp_mid",74.41,11.44,"501",44.55,1
+"115493",164552,"col","",8.78,47.029999,"Surbrunnen/Gschwand",NA,"",2,"Lutetian","",47.8,41.3,51824,"gp_mid",14.03,39.17,"305",44.55,1
+"115494",164553,"col","",8.93,47.34,"Aebiskraut/Eggli",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.18,39.48,"305",44.55,1
+"115495",164554,"col","",9.36,47,"Schwendi",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",14.54,39.12,"305",44.55,1
+"115496",164555,"col","",8.5,46.950001,"Schoneck",NA,"",1,"Lutetian","",47.8,41.3,51824,"gp_mid",13.78,39.1,"305",44.55,1
+"116429",165979,"col","",-0.868,50.759998,"Bracklesham Bay",NA,"",3,"Lutetian","",47.8,41.3,54241,"gp_mid",5.94,43.31,"315",44.55,1
+"117082",167224,"col","",1.777778,49.009445,"Guitrancourt",NA,"",2,"Lutetian","",47.8,41.3,54545,"gp_mid",8.06,41.43,"305",44.55,1
+"117084",167226,"col","",3.354722,49.509445,"Jumencourt",NA,"",1,"Lutetian","",47.8,41.3,54545,"gp_mid",9.48,41.86,"315",44.55,1
+"117289",167484,"col","",18.285,47.231998,"Iszkaszentgyörgy",NA,"",1,"Lutetian","",47.8,41.3,54658,"gp_mid",24.05,34.64,"308",44.55,1
+"117290",167485,"col","",18.285,47.231998,"Kincsesbánya, near Iszkaszentgyörgy",NA,"",1,"Lutetian","",47.8,41.3,54658,"gp_mid",24.05,34.64,"308",44.55,1
+"117291",167486,"col","",13.94,45.279999,"Grdoselo forest track",NA,"",3,"Lutetian","",47.8,41.3,54659,"gp_mid",19.77,34.02,"307",44.55,1
+"117453",167763,"col","Brussel",4.453056,50.855278,"Van Pachtenbeke sandpit",NA,"",1,"Lutetian","",47.8,41.3,54805,"gp_mid",10.55,43.15,"315",44.55,1
+"117462",167775,"col","Brussels",4.370833,50.825001,"Ixelles",NA,"""cimetière de Burtin""; Elsene",1,"Lutetian","",47.8,41.3,54805,"gp_mid",10.48,43.13,"315",44.55,1
+"117463",167776,"col","Brussels",4.323611,50.813889,"Forest, Sables de Bruxelles",NA,"Vorst",1,"Lutetian","",47.8,41.3,54805,"gp_mid",10.44,43.12,"315",44.55,1
+"117465",167778,"col","Brussels",4.4875,50.851391,"Wezembeek-Oppem",NA,"",1,"Lutetian","",47.8,41.3,54805,"gp_mid",10.58,43.15,"315",44.55,1
+"117849",168601,"col","Kattachi",130.48111,33.012501,"Kattachi, Omuta City",NA,"",14,"Lutetian","",47.8,41.3,61664,"gp_mid",126.42,39.55,"610",44.55,1
+"119946",171515,"col","",11.235,45.525002,"Monte Serea, San Giovanni Ilarione",NA,"",2,"Lutetian","",47.8,41.3,55775,"gp_mid",17.79,35.02,"307",44.55,1
+"119947",171516,"col","",11.235,45.525002,"San Giovanni Ilarione",NA,"",4,"Lutetian","",47.8,41.3,55776,"gp_mid",17.79,35.02,"307",44.55,1
+"119948",171517,"col","",11.235,45.525002,"Monte Arzano",NA,"",1,"Lutetian","",47.8,41.3,55776,"gp_mid",17.79,35.02,"307",44.55,1
+"119949",171518,"col","",11.27,45.52,"Ciupio",NA,"",1,"Lutetian","",47.8,41.3,55776,"gp_mid",17.81,35,"307",44.55,1
+"119951",171519,"col","",11.255,45.535,"Bosco del Prete",NA,"",1,"Lutetian","",47.8,41.3,55776,"gp_mid",17.81,35.02,"307",44.55,1
+"119953",171522,"col","Calcaire de Fresville",1.71,49.119999,"Les Garennes, Chaussy",NA,"",12,"Lutetian","",47.8,41.3,55777,"gp_mid",8.01,41.54,"305",44.55,1
+"119954",171523,"col","",1.78,49.25,"Mont-de-Magny, Gisors (Eure)",NA,"",1,"Lutetian","",47.8,41.3,55777,"gp_mid",8.08,41.67,"305",44.55,1
+"119955",171524,"col","",1.88,49.264999,"Chaumont-en-Vexin (Oise)",NA,"",1,"Lutetian","",47.8,41.3,55777,"gp_mid",8.17,41.68,"305",44.55,1
+"119956",171525,"col","",1.74,49.200001,"Parnes, Oise (Deshayes collection)",NA,"",20,"Lutetian","",47.8,41.3,61542,"gp_mid",8.04,41.62,"305",44.55,1
+"119957",171526,"col","",1.934,48.848,"Grignon (RSNB collection)",NA,"",166,"Lutetian","",47.8,41.3,58437,"gp_mid",8.18,41.26,"305",44.55,1
+"119958",171527,"col","",3.945,49.145,"Courtagnon (Deshayes collection)",NA,"",4,"Lutetian","",47.8,41.3,61542,"gp_mid",9.96,41.47,"315",44.55,1
+"119959",171528,"col","",1.88,49.264999,"Chaumont (Deshayes collection)",NA,"",5,"Lutetian","",47.8,41.3,61542,"gp_mid",8.17,41.68,"305",44.55,1
+"119961",171530,"col","",3.33,49.375,"Soissons (Deshayes collection)",NA,"",4,"Lutetian","",47.8,41.3,61542,"gp_mid",9.45,41.72,"315",44.55,1
+"119962",171531,"col","",1.6,48.794998,"Houdan (Deshayes collection)",NA,"",4,"Lutetian","",47.8,41.3,61542,"gp_mid",7.88,41.22,"305",44.55,1
+"119963",171532,"col","",1.57,49.209999,"Fontenay",NA,"Fontenay-en-Vexin",37,"Lutetian","",47.8,41.3,55779,"gp_mid",7.9,41.64,"305",44.55,1
+"119964",171533,"col","",2.25,49.325001,"Mouchy (Deshayes collection)",NA,"",22,"Lutetian","",47.8,41.3,61542,"gp_mid",8.5,41.72,"315",44.55,1
+"119965",171534,"col","",2.465,49.330002,"Liancourt (Deshayes collection)",NA,"",2,"Lutetian","",47.8,41.3,55779,"gp_mid",8.69,41.72,"315",44.55,1
+"119966",171535,"col","",3.875,49.075001,"Damery",NA,"",42,"Lutetian","",47.8,41.3,55779,"gp_mid",9.89,41.4,"315",44.55,1
+"119967",171536,"col","",3.53,48.869999,"Montmirel (Deshayes collection)",NA,"",1,"Lutetian","",47.8,41.3,55779,"gp_mid",9.57,41.21,"305",44.55,1
+"119969",171538,"col","",3.09,49.240002,"Villers-Cotterêts (Deshayes collection)",NA,"",1,"Lutetian","",47.8,41.3,55779,"gp_mid",9.22,41.6,"315",44.55,1
+"119970",171539,"col","",2.83,49.415001,"Compiègne",NA,"",1,"Lutetian","",47.8,41.3,55779,"gp_mid",9.01,41.79,"315",44.55,1
+"119971",171540,"col","",3,49.580002,"Noyon",NA,"",1,"Lutetian","",47.8,41.3,55779,"gp_mid",9.18,41.94,"315",44.55,1
+"119972",171541,"col","",2.21,48.82,"Sèvres",NA,"",1,"Lutetian","",47.8,41.3,55779,"gp_mid",8.42,41.22,"305",44.55,1
+"120938",184468,"col","",2.238889,48.884998,"Hill of La Défense (Puteaux)",NA,"",30,"Lutetian","",47.8,41.3,61813,"gp_mid",8.45,41.28,"305",44.55,1
+"122654",176657,"col","Chiampo Marble",11.283333,45.549999,"Cava Boschetto di Nogarole Vicentino, Vicenza",NA,"",41,"Lutetian","",47.8,41.3,58193,"gp_mid",17.84,35.03,"307",44.55,1
+"122753",176770,"col","Szoc Limestone",18.533333,47.116669,"Fejér",NA,"",1,"Lutetian","",47.8,41.3,58315,"gp_mid",24.18,34.47,"308",44.55,1
+"122912",176938,"col","",13.014722,47.926945,"St. Pankraz Schwarzerzsch. level",NA,"",2,"Lutetian","",47.8,41.3,58397,"gp_mid",17.79,39.95,"305",44.55,1
+"122938",176971,"col","Chiampo",11.283333,45.483334,"Roncà",NA,"",1,"Lutetian","",47.8,41.3,58418,"gp_mid",17.8,34.96,"307",44.55,1
+"123269",177494,"col","",5.6,44.23,"Eygalayes",NA,"Egalayes",13,"Lutetian","",47.8,41.3,58573,"gp_mid",11.03,36.49,"305",44.55,1
+"123340",177665,"col","Marne Euganee",11.291667,45.554169,"Cava Albanello di Nogarole Vicentino",NA,"",16,"Lutetian","",47.8,41.3,58769,"gp_mid",17.84,35.03,"307",44.55,1
+"123344",177670,"col","Chiampo",11.233333,45.525002,"de Croce Grande, San Giovanni Ilarione",NA,"",8,"Lutetian","",47.8,41.3,57958,"gp_mid",17.78,35.02,"307",44.55,1
+"123390",177970,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Unlithified Sample 1",NA,"",91,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123391",177971,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Unlithified Sample 2",NA,"",59,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123392",177972,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Unlithified Sample 3",NA,"",73,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123393",177973,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Lithified Sample 1",NA,"",10,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123394",177974,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Lithified Sample 2",NA,"",21,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123395",177975,"col","Banc à verrins",1.936944,48.847221,"Falunière of Grignon Lithified Sample 3",NA,"",31,"Lutetian","",47.8,41.3,58859,"gp_mid",8.18,41.26,"305",44.55,1
+"123475",178055,"col","",1.56,48.82,"Saint-Lubin-de-la-Haye",NA,"Saint Lubin de la Haye",8,"Lutetian","",47.8,41.3,15831,"gp_mid",7.85,41.25,"305",44.55,1
+"123493",178081,"col","Banc à verrins",1.936944,48.847221,"Parc de l'Institut national agronomique",NA,"",1,"Lutetian","",47.8,41.3,25129,"gp_mid",8.18,41.26,"305",44.55,1
+"123495",178083,"col","",1.81,49.259998,"Chambors",NA,"",60,"Lutetian","",47.8,41.3,25129,"gp_mid",8.11,41.68,"305",44.55,1
+"123496",178084,"col","",1.81,49.259998,"Trie-Château",NA,"",1,"Lutetian","",47.8,41.3,25129,"gp_mid",8.11,41.68,"305",44.55,1
+"123497",178085,"col","Faluns de la Touraine",1.230556,47.400002,"Vallon de Charenton, Pontlevoy",NA,"",120,"Lutetian","",47.8,41.3,25129,"gp_mid",7.43,39.85,"305",44.55,1
+"123500",178088,"col","",1.533333,48.950001,"Bréval",NA,"",9,"Lutetian","",47.8,41.3,58437,"gp_mid",7.84,41.38,"305",44.55,1
+"123506",178106,"col","Landauer Mergel",8.033333,49.212502,"Temporary exposure at the road B10 between Birkweiler and Albersweiler",NA,"",1,"Lutetian","",47.8,41.3,58919,"gp_mid",13.52,41.38,"305",44.55,1
+"123518",178119,"col","",1.75,49.200001,"Les Bôves, Parnes",NA,"Ferme des Bôves; Les Boves; Boves",23,"Lutetian","",47.8,41.3,58437,"gp_mid",8.05,41.62,"305",44.55,1
+"123523",178124,"col","",1.6,48.783333,"Thionville sur Opton",NA,"Thionville-sur-Opton",15,"Lutetian","",47.8,41.3,58936,"gp_mid",7.88,41.21,"305",44.55,1
+"123540",178141,"col","",11.953611,51.321945,"Geiseltal, Ce II, Grube ""Cecilie""",13322,"",2,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123541",178142,"col","",11.953611,51.321945,"Geiseltal, Ce IV, Grube ""Cecilie""",NA,"",2,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123542",178143,"col","",11.953611,51.321945,"Geiseltal VII",NA,"",1,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123543",178144,"col","",11.953611,51.321945,"Geiseltal XXXVIII",NA,"",1,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123544",178145,"col","",11.953611,51.321945,"Geiseltal XXII",NA,"",1,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123545",178146,"col","",11.953611,51.321945,"Geiseltal VI",NA,"",1,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123546",178147,"col","",11.953611,51.321945,"Geiseltal XVIII",NA,"",1,"Lutetian","",47.8,41.3,58591,"gp_mid",17.05,43.36,"305",44.55,1
+"123556",178158,"col","",2.266667,49.341667,"Trye-Chateau",NA,"",5,"Lutetian","",47.8,41.3,58437,"gp_mid",8.52,41.74,"315",44.55,1
+"123594",178203,"col","Orizzonte di Ronca",11.283333,45.483334,"Roncà",NA,"",8,"Lutetian","",47.8,41.3,58437,"gp_mid",17.8,34.96,"307",44.55,1
+"124243",179005,"col","Calcaire grosse",1.76,49.279999,"Boisgeloup, Gisors",NA,"",1,"Lutetian","",47.8,41.3,58318,"gp_mid",8.07,41.7,"305",44.55,1
+"124408",179205,"col","",1.61,49.209999,"Requiécourt, Cahaignes",NA,"Ferme des Bôves; Les Boves; Boves",1,"Lutetian","",47.8,41.3,57817,"gp_mid",7.93,41.64,"305",44.55,1
+"124439",179236,"col","",11.953611,51.321945,"Geiseltal general (for specimens with non-specific locality data)",NA,"",2,"Lutetian","",47.8,41.3,59290,"gp_mid",17.05,43.36,"305",44.55,1
+"124628",179572,"col","",2.093889,48.898888,"Saint-Germain-en-Laye",NA,"",1,"Lutetian","",47.8,41.3,58692,"gp_mid",8.32,41.3,"305",44.55,1
+"124951",179909,"col","",130.490005,33.049999,"Manda, Miike Coal-field (613 feet depth)",NA,"",1,"Lutetian","",47.8,41.3,59679,"gp_mid",126.42,39.59,"610",44.55,1
+"124952",179910,"col","",130.490005,33.049999,"Manda, Miike Coal-field (625 feet depth)",NA,"",1,"Lutetian","",47.8,41.3,59679,"gp_mid",126.42,39.59,"610",44.55,1
+"124953",179911,"col","",130.490005,33.049999,"Manda, Miike Coal-field (650 feet depth)",NA,"",1,"Lutetian","",47.8,41.3,59679,"gp_mid",126.42,39.59,"610",44.55,1
+"124954",179912,"col","",130.490005,33.049999,"Manda, Miike Coal-field (842 feet depth)",NA,"",1,"Lutetian","",47.8,41.3,59679,"gp_mid",126.42,39.59,"610",44.55,1
+"125000",179960,"col","",11.8,51.299999,"Mücheln",NA,"Mucheln",1,"Lutetian","",47.8,41.3,59713,"gp_mid",16.91,43.35,"305",44.55,1
+"125185",180458,"col","Lillebælt Clay",9.808,55.599998,"SE coast of Trelde Næs (CHC collection)",NA,"",1,"Lutetian","",47.8,41.3,58642,"gp_mid",15.51,47.7,"302",44.55,1
+"125186",180459,"col","Lillebælt Clay",9.808,55.599998,"SE coast of Trelde Næs (OBK collection)",NA,"",1,"Lutetian","",47.8,41.3,58642,"gp_mid",15.51,47.7,"302",44.55,1
+"125187",180460,"col","Lillebælt Clay",9.808,55.599998,"SE coast of Trelde Næs (GPF collection)",NA,"",2,"Lutetian","",47.8,41.3,58642,"gp_mid",15.51,47.7,"302",44.55,1
+"125248",180524,"col","Subathu",75.5,32.5,"West Babbian Gala Locality",NA,"WBGL",1,"Lutetian","",47.8,41.3,59899,"gp_mid",76.81,9.61,"501",44.55,1
+"125249",180525,"col","Subathu",75.5,32.5,"Triyath-Barakh Road (TBRL)",NA,"Reasi Inlier",3,"Lutetian","",47.8,41.3,59899,"gp_mid",76.81,9.61,"501",44.55,1
+"125251",180526,"col","Subathu",75.5,32.5,"Tattapani (TTPL)",NA,"",1,"Lutetian","",47.8,41.3,59899,"gp_mid",76.81,9.61,"501",44.55,1
+"125260",180536,"col","Subathu",75.5,32.5,"Aiji Village",NA,"Metka-Mohgala Road",2,"Lutetian","",47.8,41.3,24577,"gp_mid",76.81,9.61,"501",44.55,1
+"125295",180571,"col","Kuldana",72.333336,33.633331,"H-GSP Locality 223",NA,"500 m northwest of Jhalar railroad station; Kala Chitta Hills",2,"Lutetian","",47.8,41.3,59920,"gp_mid",74.53,11.43,"501",44.55,1
+"125296",180572,"col","Subathu",74.373611,33.241669,"Sindkhatuti and Jigni",NA,"",1,"Lutetian","",47.8,41.3,59922,"gp_mid",76.09,10.58,"501",44.55,1
+"125408",180693,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 9203",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,53438,"gp_mid",74.86,11.49,"501",44.55,1
+"125409",180694,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 66",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,53438,"gp_mid",74.86,11.49,"501",44.55,1
+"125410",180695,"col","Kuldana",72.683334,33.783333,"H-GSP Locality 9606",NA,"Ganda Kas",1,"Lutetian","",47.8,41.3,53438,"gp_mid",74.86,11.49,"501",44.55,1
+"127167",183734,"col","",1.91,49.235001,"Le Vivray, Liancourt-Saint-Pierre (Morlet collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.2,41.65,"305",44.55,1
+"127168",183735,"col","",1.74,49.200001,"Ferme de l'Aulnaie, Parnes (Sarazin collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.04,41.62,"305",44.55,1
+"127169",183736,"col","",2.28,49.349998,"Saint-Félix, Oise (Morlet collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.53,41.75,"315",44.55,1
+"127170",183737,"col","",1.63,49.200001,"Requiécourt (Oise) (Ledon collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",7.95,41.63,"305",44.55,1
+"127171",183738,"col","",1.92,48.849998,"Coteau de la Laverie, Thiverval-Grignon (Morlet collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.17,41.26,"305",44.55,1
+"127172",183739,"col","",1.86,48.880001,"Montainville, Yvelines (Morlet collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.12,41.3,"305",44.55,1
+"127173",183740,"col","",1.875,48.855,"Beynes, Yvelines (Lhomme collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.13,41.27,"305",44.55,1
+"127174",183741,"col","",1.305,49.005001,"Caillouet-Orgeville, Eure (Ledon collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",7.65,41.45,"305",44.55,1
+"127234",183801,"col","",1.74,49.200001,"Parnes, Oise (Morlot collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.04,41.62,"305",44.55,1
+"127235",183802,"col","",1.81,49.259998,"Chambors, Oise (1965-11 collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.11,41.68,"305",44.55,1
+"127236",183803,"col","",2.37,49.209999,"Précy-sur-Oise (Cossmann collection)",NA,"",1,"Lutetian","",47.8,41.3,61368,"gp_mid",8.59,41.6,"315",44.55,1
+"127295",183864,"col","Kohat",71.900002,33.605,"Fossil Bed F.2257, Panoba, Kohat",NA,"",5,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127296",183865,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2341, Shekhan Nala, Kohat",NA,"",5,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127297",183866,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2342, Shekhan Nala, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127354",183923,"col","Kohat",71.059998,33.450001,"Fossil Bed F.2114, Sirki Paila, Kohat",NA,"",3,"Lutetian","",47.8,41.3,599,"gp_mid",73.44,11.56,"501",44.55,1
+"127360",183929,"col","Kohat",71.900002,33.605,"Fossil Bed F.2295, Panoba, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127365",183934,"col","Kohat",71.900002,33.605,"Fossil Bed F.2270, Panoba, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127366",183935,"col","Kohat",71.830002,33.584999,"Fossil Bed F.2183, Tarkhobi, Kohat",NA,"",3,"Lutetian","",47.8,41.3,599,"gp_mid",74.11,11.5,"501",44.55,1
+"127378",183953,"col","Kohat",71.900002,33.605,"Fossil Bed F.2254, Panoba, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127379",183954,"col","Kohat",71.900002,33.605,"Fossil Bed F.2255, Panoba, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127380",183955,"col","Kohat",71.900002,33.605,"Fossil Bed F.2256, Panoba, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127381",183956,"col","Kohat",71.900002,33.605,"Fossil Bed F.2271, Panoba, Kohat",NA,"",2,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127382",183957,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2334, Shekhan Nala, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127383",183958,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2336, Shekhan Nala, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127384",183959,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2338, Shekhan Nala, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127385",183960,"col","Kohat",71.514999,33.595001,"Fossil Bed F.2339, Shekhan Nala, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.85,11.58,"501",44.55,1
+"127388",183963,"col","Kohat",71.900002,33.605,"Fossil Bed F.2275, Panoba, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127389",183964,"col","Kohat",71.059998,33.450001,"Fossil Bed F.2109, Sirki Paila, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.44,11.56,"501",44.55,1
+"127400",183977,"col","Uzunçarşidere",32.676388,40.112499,"East Orhaniye locality 1",NA,"",1,"Lutetian","",47.8,41.3,61450,"gp_mid",35.19,32.07,"510",44.55,1
+"127453",184032,"col","Kohat",71.059998,33.450001,"Fossil Bed F.2113, Sirki Paila, Kohat",NA,"",3,"Lutetian","",47.8,41.3,599,"gp_mid",73.44,11.56,"501",44.55,1
+"127479",184058,"col","Kohat",71.900002,33.605,"Fossil Bed F.2253, Panoba, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",74.17,11.5,"501",44.55,1
+"127480",184059,"col","Kohat",71.059998,33.450001,"Fossil Bed F.2107, Sirki Paila, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",73.44,11.56,"501",44.55,1
+"127481",184060,"col","Kohat",71.830002,33.584999,"Fossil Bed F.2184, Tarkhobi, Kohat",NA,"",1,"Lutetian","",47.8,41.3,599,"gp_mid",74.11,11.5,"501",44.55,1
+"127518",184107,"col","",1.934,48.848,"Grignon (Lamarck collection)",NA,"",147,"Lutetian","",47.8,41.3,61514,"gp_mid",8.18,41.26,"305",44.55,1
+"127519",184108,"col","",1.6,48.794998,"Houdan (Defrance collection)",NA,"",8,"Lutetian","",47.8,41.3,61514,"gp_mid",7.88,41.22,"305",44.55,1
+"127520",184109,"col","",1.74,49.200001,"Parnes, Oise (Defrance collection)",NA,"",11,"Lutetian","",47.8,41.3,61514,"gp_mid",8.04,41.62,"305",44.55,1
+"127521",184110,"col","",1.934,48.848,"Grignon (Defrance collection)",NA,"",151,"Lutetian","",47.8,41.3,61515,"gp_mid",8.18,41.26,"305",44.55,1
+"127522",184111,"col","",2.325,49.025002,"Aumont, near Montmorency",NA,"",2,"Lutetian","",47.8,41.3,61515,"gp_mid",8.54,41.42,"305",44.55,1
+"127523",184112,"col","",3.945,49.145,"Courtagnon (Lamarck collection)",NA,"",26,"Lutetian","",47.8,41.3,61515,"gp_mid",9.96,41.47,"315",44.55,1
+"127524",184113,"col","",2.325,49.025002,"Paris area (unspecified)",NA,"",1,"Lutetian","",47.8,41.3,61515,"gp_mid",8.54,41.42,"305",44.55,1
+"127525",184114,"col","",3.945,49.145,"Courtagnon (Montfort collection)",NA,"",1,"Lutetian","",47.8,41.3,61515,"gp_mid",9.96,41.47,"315",44.55,1
+"127526",184115,"col","",3.09,49.240002,"Paris area, towards Villers-Coterets (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,19290,"gp_mid",9.22,41.6,"315",44.55,1
+"127527",184116,"col","",1.88,49.264999,"Chaumont (Lamarck collection)",NA,"",6,"Lutetian","",47.8,41.3,19290,"gp_mid",8.17,41.68,"305",44.55,1
+"127528",184117,"col","",2.09,49.43,"Beauvais (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,19290,"gp_mid",8.37,41.83,"315",44.55,1
+"127533",184132,"col","",1.74,49.200001,"Parnes, Oise (de Jussieu collection)",NA,"",2,"Lutetian","",47.8,41.3,61527,"gp_mid",8.04,41.62,"305",44.55,1
+"127534",184133,"col","",3.53,48.869999,"Montmiral, near Brie (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,61527,"gp_mid",9.57,41.21,"305",44.55,1
+"127535",184134,"col","",1.74,49.200001,"Parnes, Oise (Lamarck collection)",NA,"",2,"Lutetian","",47.8,41.3,61528,"gp_mid",8.04,41.62,"305",44.55,1
+"127536",184135,"col","",2.073,48.904999,"Saint-Germain-en-Laye (Lamarck collection)",NA,"",2,"Lutetian","",47.8,41.3,61529,"gp_mid",8.31,41.31,"305",44.55,1
+"127537",184136,"col","",1.934,48.848,"Grignon (Richard collection)",NA,"",2,"Lutetian","",47.8,41.3,61529,"gp_mid",8.18,41.26,"305",44.55,1
+"127538",184137,"col","",1.88,49.264999,"Chaumont (Defrance collection)",NA,"",3,"Lutetian","",47.8,41.3,61529,"gp_mid",8.17,41.68,"305",44.55,1
+"127539",184138,"col","",3.945,49.145,"Courtagnon (Defrance collection)",NA,"",1,"Lutetian","",47.8,41.3,61530,"gp_mid",9.96,41.47,"315",44.55,1
+"127541",184140,"col","",1.6,48.794998,"Houdan (Lamarck collection)",NA,"",2,"Lutetian","",47.8,41.3,61531,"gp_mid",7.88,41.22,"305",44.55,1
+"127543",184142,"col","",1.9,48.799999,"Pontchartrain (Lamarck collection)",NA,"",3,"Lutetian","",47.8,41.3,61532,"gp_mid",8.15,41.22,"305",44.55,1
+"127544",184143,"col","",1.9,48.799999,"Pontchartrain (Defrance collection)",NA,"",9,"Lutetian","",47.8,41.3,61532,"gp_mid",8.15,41.22,"305",44.55,1
+"127546",184145,"col","",1.875,48.855,"Beynes (Defrance collection)",NA,"",8,"Lutetian","",47.8,41.3,61532,"gp_mid",8.13,41.27,"305",44.55,1
+"127547",184146,"col","",1.93,48.849998,"Field near Grignon (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,61532,"gp_mid",8.18,41.26,"305",44.55,1
+"127548",184147,"col","",2.33,48.834999,"Paris quarry stones",NA,"",2,"Lutetian","",47.8,41.3,61532,"gp_mid",8.52,41.23,"305",44.55,1
+"127549",184148,"col","",2.48,48.834999,"Nogent-sur-Marne (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,61532,"gp_mid",8.66,41.22,"305",44.55,1
+"127550",184149,"col","",1.62,48.794998,"Maulette (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,61532,"gp_mid",7.9,41.22,"305",44.55,1
+"127551",184150,"col","",1.62,48.794998,"Maulette (Defrance collection)",NA,"",1,"Lutetian","",47.8,41.3,61532,"gp_mid",7.9,41.22,"305",44.55,1
+"127552",184151,"col","",2.073,48.904999,"Saint-Germain-en-Laye (Brongniart collection)",NA,"",1,"Lutetian","",47.8,41.3,61533,"gp_mid",8.31,41.31,"305",44.55,1
+"127553",184152,"col","",1.934,48.848,"Grignon (Brongniart collection)",NA,"",2,"Lutetian","",47.8,41.3,61533,"gp_mid",8.18,41.26,"305",44.55,1
+"127554",184153,"col","",3.945,49.145,"Courtagnon (Brongniart collection)",NA,"",2,"Lutetian","",47.8,41.3,61533,"gp_mid",9.96,41.47,"315",44.55,1
+"127555",184154,"col","",2.505,49.044998,"Louvres (Defrance collection)",NA,"",2,"Lutetian","",47.8,41.3,19294,"gp_mid",8.7,41.43,"305",44.55,1
+"127556",184155,"col","",1.9,48.799999,"Ben, near Pontchartrain (Lamarck collection)",NA,"",2,"Lutetian","",47.8,41.3,19294,"gp_mid",8.15,41.22,"305",44.55,1
+"127557",184156,"col","",1.93,48.849998,"Paris area (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,19294,"gp_mid",8.18,41.26,"305",44.55,1
+"127558",184157,"col","",2.3,48.695,"Longjumeaux (Defrance collection)",NA,"",1,"Lutetian","",47.8,41.3,19294,"gp_mid",8.49,41.09,"305",44.55,1
+"127559",184158,"col","",2.29,49.115002,"Presles (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,19293,"gp_mid",8.52,41.51,"305",44.55,1
+"127561",184160,"col","",1.895,48.82,"Villiers (Defrance collection)",NA,"",1,"Lutetian","",47.8,41.3,61536,"gp_mid",8.14,41.24,"305",44.55,1
+"127565",184164,"col","",-1.465,49.424999,"Hauteville (Defrance collection)",NA,"",6,"Lutetian","",47.8,41.3,61541,"gp_mid",5.27,42.01,"305",44.55,1
+"127566",184165,"col","",-1.465,49.424999,"Hauteville (Lamarck collection)",NA,"",1,"Lutetian","",47.8,41.3,13365,"gp_mid",5.27,42.01,"305",44.55,1
+"127981",184812,"col","",1.875,48.855,"Beynes (Schtrock collection)",NA,"",1,"Lutetian","",47.8,41.3,61800,"gp_mid",8.13,41.27,"305",44.55,1
+"127982",184813,"col","",1.895,48.82,"Villiers-St-Frédéric (Merle collection)",NA,"",1,"Lutetian","",47.8,41.3,61800,"gp_mid",8.14,41.24,"305",44.55,1
+"127983",184814,"col","",1.934,48.848,"Grignon (Merle collection)",NA,"",1,"Lutetian","",47.8,41.3,61800,"gp_mid",8.18,41.26,"305",44.55,1
+"127984",184815,"col","",1.934,48.848,"Grignon (Deshayes collection)",NA,"",27,"Lutetian","",47.8,41.3,61542,"gp_mid",8.18,41.26,"305",44.55,1
+"127985",184816,"col","",1.74,49.200001,"Parnes, Oise (Duclos collection)",NA,"",1,"Lutetian","",47.8,41.3,61542,"gp_mid",8.04,41.62,"305",44.55,1
+"127988",184819,"col","",1.934,48.848,"Grignon (Lambotin collection)",NA,"",2,"Lutetian","",47.8,41.3,61542,"gp_mid",8.18,41.26,"305",44.55,1
+"127990",184821,"col","",1.934,48.848,"Grignon (Duchatel collection)",NA,"",2,"Lutetian","",47.8,41.3,61542,"gp_mid",8.18,41.26,"305",44.55,1
+"127991",184822,"col","",1.85,48.91,"Maulle (Deshayes collection)",NA,"",3,"Lutetian","",47.8,41.3,61542,"gp_mid",8.11,41.33,"305",44.55,1
+"127992",184823,"col","",3.53,48.869999,"Montmirail (Deshayes collection)",NA,"",1,"Lutetian","",47.8,41.3,61542,"gp_mid",9.57,41.21,"305",44.55,1
+"127993",184824,"col","",-1.465,49.424999,"Hauteville, near Valogne (Deshayes collection)",NA,"",7,"Lutetian","",47.8,41.3,61542,"gp_mid",5.27,42.01,"305",44.55,1
+"127996",184827,"col","",2.16,48.439999,"Étampes (Deshayes collection)",NA,"",1,"Lutetian","",47.8,41.3,61542,"gp_mid",8.34,40.84,"305",44.55,1
+"127998",184829,"col","",1.85,48.838001,"Ferme de l'Orme (Deshayes collection)",NA,"",2,"Lutetian","",47.8,41.3,61542,"gp_mid",8.11,41.26,"305",44.55,1
+"128002",184833,"col","",3.33,49.375,"Soissons (Defrance collection)",NA,"",1,"Lutetian","",47.8,41.3,61542,"gp_mid",9.45,41.72,"315",44.55,1
+"128005",184836,"col","",1.62,48.794998,"Maulette, near Houdan (Deshayes collection)",NA,"",1,"Lutetian","",47.8,41.3,61542,"gp_mid",7.9,41.22,"305",44.55,1
+"128036",184968,"col","",11.276,45.566002,"Cava Albanello di Nogarole Vicentino (Museo Civico G. Zannato collection)",NA,"",4,"Lutetian","",47.8,41.3,47481,"gp_mid",17.84,35.04,"307",44.55,1
+"128425",185552,"col","",11.953611,51.321945,"Geiseltal, Ce I, Grube ""Cecilie""",NA,"",1,"Lutetian","",47.8,41.3,62212,"gp_mid",17.05,43.36,"305",44.55,1
+"129631",187560,"col","",3.233751,6.821629,"Oshosun",NA,"",15,"Lutetian","",47.8,41.3,34745,"gp_mid",3.58,-2.69,"714",44.55,1
+"129633",187571,"col","Kressenberg",12.724883,47.826271,"Kressenberg (Kressenberg Subformation)",NA,"Kressenberg bei Neukirchen, Kressenberg Schwarzerzschichten",2,"Lutetian","",47.8,41.3,62957,"gp_mid",17.53,39.85,"305",44.55,1
+"129635",187573,"col","",12.615833,47.816387,"Bad Adelholzen",NA,"Abfüllanlage Bad Adelholzener Alpenquellen GmbH",3,"Lutetian","",47.8,41.3,18796,"gp_mid",17.44,39.84,"305",44.55,1
+"130012",188445,"col","",4.470997,50.885487,"Saventhem",NA,"",1,"Lutetian","",47.8,41.3,29875,"gp_mid",10.57,43.18,"315",44.55,1
+"130014",188451,"col","",4.374648,50.854774,"Saint-Josse-ten-Noode, Brussels",NA,"St. Josse-ten-Noode, Bruxelles",1,"Lutetian","",47.8,41.3,29875,"gp_mid",10.49,43.16,"315",44.55,1
+"130225",188954,"col","",7.845062,52.487862,"Osteroden sand pit",NA,"",80,"Lutetian","",47.8,41.3,63443,"gp_mid",13.61,44.65,"315",44.55,1
+"130914",190270,"col","Szoc Limestone",17.33,47.040001,"Gyepukajan, Hobaj Hill",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.23,34.72,"308",44.55,1
+"130915",190271,"col","Szoc Limestone",17.32,46.990002,"Csabrendek, Kozmatag bauxite mine (Assilina spira marl)",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.2,34.67,"308",44.55,1
+"130916",190272,"col","Szoc Limestone",17.32,46.990002,"Csabrendek, Kozmatag bauxite mine (Nummulites laevigatus limestone)",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.2,34.67,"308",44.55,1
+"130918",190274,"col","Szoc Limestone",17.35,46.990002,"Nagytarkany, Ceseteberek quarry (Assilina spira marl)",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.22,34.66,"308",44.55,1
+"130922",190278,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nagytarkay-9 bauxite lens (Assilina spira marl)",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.23,34.67,"308",44.55,1
+"130923",190279,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nagytarkay-9 bauxite lens (N. laevigatus limestone)",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.23,34.67,"308",44.55,1
+"130924",190280,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nagytarkay-9 bauxite lens (Lutetian marl)",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.23,34.67,"308",44.55,1
+"130928",190294,"col","Szoc Limestone",17.502001,47.006001,"Szőc, Szár Hill",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.34,34.64,"308",44.55,1
+"130929",190295,"col","Szoc Limestone",17.530001,47.012001,"Szőc, Malom valley",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.37,34.64,"308",44.55,1
+"130930",190296,"col","Szoc Limestone",17.530001,47.012001,"Szőc (GMHGI collection)",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.37,34.64,"308",44.55,1
+"130931",190297,"col","Szoc Limestone",17.52,47.032001,"Halimba (Lutetian limestone)",NA,"",5,"Lutetian","",47.8,41.3,63995,"gp_mid",23.37,34.66,"308",44.55,1
+"130935",190301,"col","Szoc Limestone",17.604,47.084,"Ajka, Köleskepe groove",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.46,34.68,"308",44.55,1
+"130938",190304,"col","Szoc Limestone",17.66,47.099998,"Úrkút, Open-air manganese mine",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.51,34.68,"308",44.55,1
+"130940",190306,"col","Szoc Limestone",17.620001,47.117001,"Kislőd, Csojjányos valley, Öreg Hill quarry (N. laevigatus marly limestone)",NA,"",2,"Lutetian","",47.8,41.3,63995,"gp_mid",23.49,34.71,"308",44.55,1
+"130941",190307,"col","Szoc Limestone",17.620001,47.117001,"Kislőd, Csojjányos valley, Öreg Hill quarry (Lutetian limestone)",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.49,34.71,"308",44.55,1
+"130942",190308,"col","Szoc Limestone",17.806999,47.195,"Hárskút",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.67,34.73,"308",44.55,1
+"130943",190309,"col","Szoc Limestone",17.6,47.235001,"Bakonyjákó",NA,"",1,"Lutetian","",47.8,41.3,63995,"gp_mid",23.53,34.82,"308",44.55,1
+"131352",190865,"col","Selsey Sand",-0.805,50.734001,"Medmerry Farm, Selsey, bed Fisher xvii",NA,"",2,"Lutetian","",47.8,41.3,64169,"gp_mid",5.99,43.28,"315",44.55,1
+"131356",190869,"col","",39.709999,-10,"South of Lindi",NA,"",1,"Lutetian","",47.8,41.3,64169,"gp_mid",39.03,-23.35,"701",44.55,1
+"131359",190872,"col","Selsey Sand",-0.805,50.734001,"Selsey, bed Fisher 21",NA,"",4,"Lutetian","",47.8,41.3,64170,"gp_mid",5.99,43.28,"315",44.55,1
+"131478",191166,"col","",18.190001,47.310001,"Balinka village",NA,"",1,"Lutetian","",47.8,41.3,64464,"gp_mid",24.01,34.74,"308",44.55,1
+"131479",191167,"col","",17.940001,47.299999,"Dudar-218 borehole",NA,"",1,"Lutetian","",47.8,41.3,64464,"gp_mid",23.82,34.79,"308",44.55,1
+"132472",193606,"col","Upper Variegated Shale",23.463888,46.799999,"Andrásháza",NA,"Siebenbürgen",1,"Lutetian","",47.8,41.3,45360,"gp_mid",27.8,32.92,"308",44.55,1
+"133010",195188,"col","Uzunçarşidere",32.740002,40.093056,"ORH type locality",NA,"3.2 km north of Memlik village",2,"Lutetian","",47.8,41.3,66423,"gp_mid",35.25,32.05,"510",44.55,1
+"133967",196804,"col","",11.21,45.59528,"Pesciara and Monte Postale (Discoaster sublodoensis zone)",NA,"Monte Bolca",1,"Lutetian","",47.8,41.3,67021,"gp_mid",17.8,35.09,"307",44.55,1
+"140073",207104,"col","",-0.223889,38.549721,"L’Arginent",NA,"",10,"Lutetian","",47.8,41.3,71298,"gp_mid",5.78,31.28,"304",44.55,1
+"140313",207553,"col","",11.308411,45.621674,"Grolla",NA,"Grola",68,"Lutetian","",47.8,41.3,71560,"gp_mid",17.89,35.08,"307",44.55,1
+"140314",207554,"col","",11.271488,45.544708,"Zanconato quarry",NA,"Valle di Chiampo",2,"Lutetian","",47.8,41.3,71561,"gp_mid",17.82,35.02,"307",44.55,1
+"140315",207555,"col","",11.259472,45.559013,"Cava Porto",NA,"Chiampo",0,"Lutetian","",47.8,41.3,71561,"gp_mid",17.82,35.04,"307",44.55,1
+"140316",207556,"col","",11.239474,45.577282,"Cava Braggi di Vestenanova",NA,"Chiampo",46,"Lutetian","",47.8,41.3,71561,"gp_mid",17.82,35.06,"307",44.55,1
+"140317",207557,"col","",11.269085,45.583771,"Cava Bertocchi di San Pietro Mussolino",NA,"Chiampo",2,"Lutetian","",47.8,41.3,71561,"gp_mid",17.84,35.06,"307",44.55,1
+"140431",207773,"col","",19.018078,47.507805,"Kis-Sväbhegy",NA,"",26,"Lutetian","",47.8,41.3,71666,"gp_mid",24.73,34.7,"308",44.55,1
+"140625",208032,"col","",11.21,45.578609,"Vegroni (Monte Bolca)",NA,"",2,"Lutetian","",47.8,41.3,71885,"gp_mid",17.79,35.07,"307",44.55,1
+"141316",209100,"col","Dammam",50.825001,25.225,"Umm Bab NE, Midra Shales 10",NA,"",2,"Lutetian","",47.8,41.3,72184,"gp_mid",48.6,8.41,"503",44.55,1
+"141317",209101,"col","Dammam",50.849998,25.485001,"Zekrit, Umm Bab",NA,"",12,"Lutetian","",47.8,41.3,72184,"gp_mid",48.65,8.66,"503",44.55,1
+"141318",209102,"col","Dammam",51.43,25.275,"Doha racecourse",NA,"",2,"Lutetian","",47.8,41.3,72184,"gp_mid",49.15,8.4,"503",44.55,1
+"141319",209103,"col","Dammam",50.799999,25.25,"Al Subaigib, Umm Bab 11",NA,"",2,"Lutetian","",47.8,41.3,72184,"gp_mid",48.58,8.44,"503",44.55,1
+"141320",209104,"col","Dammam",50.84,25.51,"Ras Abarug W, Umm Bab 22",NA,"",8,"Lutetian","",47.8,41.3,72184,"gp_mid",48.65,8.69,"503",44.55,1
+"141321",209105,"col","Dammam",50.915001,25.285,"Usailah, Umm Bab 24",NA,"",2,"Lutetian","",47.8,41.3,72184,"gp_mid",48.69,8.46,"503",44.55,1
+"141322",209106,"col","Dammam",50.84,25.51,"Ras Abarug W, Umm Bab 17",NA,"",6,"Lutetian","",47.8,41.3,72184,"gp_mid",48.65,8.69,"503",44.55,1
+"141323",209107,"col","Dammam",50.860001,25.52,"Ras Abarug, Abarug 16",NA,"",1,"Lutetian","",47.8,41.3,72184,"gp_mid",48.67,8.7,"503",44.55,1
+"141325",209109,"col","Dammam",50.84,25.51,"Ras Abarug W, Umm Bab 17 or 22",NA,"",1,"Lutetian","",47.8,41.3,72184,"gp_mid",48.65,8.69,"503",44.55,1
+"141326",209110,"col","Dammam",50.860001,25.52,"Ras Abarug, Abarug 30",NA,"",1,"Lutetian","",47.8,41.3,72184,"gp_mid",48.67,8.7,"503",44.55,1
+"141518",209368,"col","Tallahatta",-86.669586,31.376537,"Pigeon Creek",NA,"",11,"Lutetian","",47.8,41.3,72247,"gp_mid",-66.93,34.78,"109",44.55,1
+"141723",209582,"col","Nanjemoy",-77.28389,37.767223,"Mill Pond Creek, Nanjemoy Fm.",NA,"",0,"Lutetian","",47.8,41.3,72294,"gp_mid",-55.63,39.15,"109",44.55,1
+"141724",209583,"col","Nanjemoy",-77.416664,37.768333,"Bleak Hill Farm, Etna Mill",NA,"",1,"Lutetian","",47.8,41.3,72294,"gp_mid",-55.77,39.18,"109",44.55,1
+"141725",209584,"col","Nanjemoy",-77.133331,38.316666,"Machodoc Creek",NA,"",1,"Lutetian","",47.8,41.3,72294,"gp_mid",-55.31,39.66,"109",44.55,1
+"141879",209805,"col","Dammam",50.509998,26.15,"Cliff north-west of Rifaa",NA,"",2,"Lutetian","",47.8,41.3,26552,"gp_mid",48.42,9.36,"503",44.55,1
+"141880",209806,"col","Dammam",50.580002,26.035,"ESE of Jebel Dukhan",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.47,9.24,"503",44.55,1
+"141881",209807,"col","Dammam",50.575001,25.98,"Cliff between Jan and Ain el Qar",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.46,9.19,"503",44.55,1
+"141882",209808,"col","Dammam",50.544998,26.129999,"Rifaa",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.45,9.34,"503",44.55,1
+"141883",209809,"col","Dammam",50.490002,26.135,"3 miles west of Rifaa",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.4,9.35,"503",44.55,1
+"141884",209810,"col","Dammam",50.535,26.174999,"3 miles north of Rifaa",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.45,9.38,"503",44.55,1
+"141885",209811,"col","Dammam",50.549999,25.950001,"Plateau in the south of the island",NA,"",1,"Lutetian","",47.8,41.3,26552,"gp_mid",48.44,9.16,"503",44.55,1
+"142753",211009,"col","",34.600834,45.05722,"Prolom",NA,"",48,"Lutetian","",47.8,41.3,72875,"gp_mid",36.74,37.05,"302",44.55,1
+"143550",212249,"col","Uzunçarşidere",32.739166,40.096668,"Rejection Ravine",NA,"North of Memlik village",1,"Lutetian","",47.8,41.3,73292,"gp_mid",35.25,32.06,"510",44.55,1

@@ -1,0 +1,241 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"12903",24305,"col","Jabal Wasa",55.866669,24.733334,"Jabal Wasa north",NA,"Reef 202",32,"Carnian","",237,228,6869,"gp_mid",52.84,-14.41,"503",232.5,1
+"12907",24309,"col","Misfah",57.666668,22.916668,"Birkat al Mawz",NA,"Reef 201",26,"Carnian","",237,228,6869,"gp_mid",54.02,-16.58,"503",232.5,1
+"13165",24808,"col","",9,48.5,"Baden-Wurttemberg",NA,"",23,"Carnian","",237,228,6929,"gp_mid",25.68,28.04,"305",232.5,1
+"13458",25404,"col","Hanwang",104.400002,31.633333,"Jushui, Sichuan, China",NA,"",29,"Carnian","",237,228,7116,"gp_mid",109.88,7.8,"611",232.5,1
+"13461",25407,"col","Hanwang",104.400002,31.633333,"Jushui base, Sichuan, China",NA,"",7,"Carnian","",237,228,7116,"gp_mid",109.88,7.8,"611",232.5,1
+"14604",28614,"col","Blackstone",152.907898,-27.607546,"Rylance No. 5 Opencut Colliery",NA,"Dinmore tracksite",1,"Carnian","",237,228,7895,"gp_mid",121.12,-67.57,"801",232.5,1
+"15362",29514,"col","Shanxianling",129.600006,43.5,"Tiangiaoling",NA,"PGAP 2207",6,"Carnian","",237,228,8292,"gp_mid",138.9,31.18,"628",232.5,1
+"15486",29638,"col","Zhijiachong",113.599998,28.200001,"Liuyang",NA,"PGAP 2161",25,"Carnian","",237,228,8308,"gp_mid",118.03,4.69,"611",232.5,1
+"15556",29708,"col","",112.599998,37.799999,"Tai Yuan",NA,"PGAP 2231",13,"Carnian","",237,228,8311,"gp_mid",120.55,23.16,"604",232.5,1
+"15629",29781,"col","Daken",117.599998,25.5,"Daken",NA,"PGAP 2171",34,"Carnian","",237,228,8314,"gp_mid",121.83,2.31,"611",232.5,1
+"15729",29881,"col","Jiuligang",112.199997,31,"Jinmen",NA,"PGAP 2150",36,"Carnian","",237,228,8316,"gp_mid",116.62,7.4,"611",232.5,1
+"15754",29906,"col","",113,37,"Yu She",NA,"PGAP 2220",4,"Carnian","",237,228,8311,"gp_mid",120.37,22.32,"604",232.5,1
+"15781",29933,"col","",112.300003,39,"Ning Wu",NA,"PGAP 2234",3,"Carnian","",237,228,8311,"gp_mid",121.05,24.3,"604",232.5,1
+"15782",29934,"col","",110.699997,37,"Shi Lou",NA,"PGAP 2233",6,"Carnian","",237,228,8311,"gp_mid",118.69,23.32,"604",232.5,1
+"15793",29945,"col","",109.199997,35.200001,"Tongchuan",NA,"PGAP 2187",2,"Carnian","",237,228,8311,"gp_mid",116.52,22.48,"604",232.5,1
+"16138",30290,"col","",110.199997,1.3,"Krusin",NA,"PGAP 2277",14,"Carnian","",237,228,7943,"gp_mid",115.86,-0.8,"620",232.5,1
+"16392",30548,"col","",42.5,57.299999,"Upper Volga",NA,"PGAP 2292",3,"Carnian","",237,228,8169,"gp_mid",43.59,44.44,"302",232.5,1
+"17203",31425,"col","Mohilla",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic dolomite 1490-1496m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17205",31426,"col","Mohilla",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic dolomite/gypsum1514-1532m",NA,"",10,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17206",31427,"col","Mohilla",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic gypsum1540m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17207",31428,"col","Mohilla",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic dolomite 1576m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17208",31429,"col","Mohilla",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic dolomite 1595m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17209",31430,"col","Saharonim",34.833332,31.666668,"Israel Zuk Tamrur boreholes Late Triassic dolomite 1612m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.8,-0.07,"508",232.5,1
+"17254",31476,"col","Mohilla",34.700001,31.6,"Israel Zohar 8 borehole Late Triassic dolomite 1893-1899m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.67,-0.09,"508",232.5,1
+"17257",31479,"col","Mohilla",34.700001,31.6,"Israel Zohar 8 borehole Late Triassic dolomite 1932-1935m",NA,"",5,"Carnian","",237,228,8492,"gp_mid",38.67,-0.09,"508",232.5,1
+"17258",31480,"col","Mohilla",34.700001,31.6,"Israel Zohar 8 borehole Late Triassic dolomite 1950m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.67,-0.09,"508",232.5,1
+"17259",31481,"col","Saharonim",34.700001,31.6,"Israel Zohar 8 borehole Late Triassic dolomite/limestone 1986m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.67,-0.09,"508",232.5,1
+"17298",31521,"col","Mohilla",34.583332,31.666668,"Israel Pleshet 1 borehole Late Triassic dolomite 4203m",NA,"",13,"Carnian","",237,228,8492,"gp_mid",38.6,0.01,"508",232.5,1
+"17299",31522,"col","Mohilla Fomation",34.583332,31.666668,"Israel Pleshet 1 borehole Late Triassic dolomite 4233m",NA,"",18,"Carnian","",237,228,8492,"gp_mid",38.6,0.01,"508",232.5,1
+"17300",31523,"col","Saharonim",34.583332,31.666668,"Israel Pleshet 1 borehole Late Triassic dolomite 4270m",NA,"",14,"Carnian","",237,228,8492,"gp_mid",38.6,0.01,"508",232.5,1
+"17301",31524,"col","Saharonim",34.583332,31.666668,"Israel Pleshet 1 borehole Late Triassic dolomite 4293m",NA,"",3,"Carnian","",237,228,8492,"gp_mid",38.6,0.01,"508",232.5,1
+"17959",32243,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic chalk 4868m",NA,"",10,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17960",32244,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite/shale 4898m",NA,"",13,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17961",32245,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 4922m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17962",32246,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 4958m",NA,"",11,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17963",32247,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 4973m",NA,"",10,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17964",32248,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 4986m",NA,"",12,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17965",32249,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 5006m",NA,"",7,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17966",32250,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 5032m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17967",32251,"col","Mohilla",34.666668,31.583332,"Israel Helez Deep borehole Late Triassic dolomite 5060m",NA,"",11,"Carnian","",237,228,8492,"gp_mid",38.63,-0.1,"508",232.5,1
+"17981",32265,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic dolomite 3133m",NA,"",5,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"17982",32266,"col","Erez",34.262501,31.555555,"Israel Devora 2A borehole Late Triassic dolomite 3162m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",38.31,0.01,"508",232.5,1
+"17983",32267,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic dolomite/anhydrite 3182m",NA,"",5,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"17984",32268,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic anhydrite 3230-3245m",NA,"",10,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"17985",32269,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic anhydrite 3264m",NA,"",4,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"17986",32270,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic anhydrite 3307m",NA,"",10,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"17987",32271,"col","Mohilla",35.262501,32.555557,"Israel Devora 2A borehole Late Triassic anhydrite 3338m",NA,"",6,"Carnian","",237,228,8492,"gp_mid",39.47,0.61,"508",232.5,1
+"18219",32529,"col","",44,42.833332,"NW Caucasus, Leba-Belaya",NA,"PIN 2609/12",1,"Carnian","",237,228,8770,"gp_mid",54.1,32.48,"402",232.5,1
+"19014",33431,"col","",-141.729996,65.195,"Locality 9385, south bank of Yukon River",NA,"Locality 8849",3,"Julian","",235,232,8858,"gp_mid",-40.72,50.45,"101",233.5,1
+"19015",33432,"col","",-146.25,69.5,"Locality 10304 (30B), Canning River",NA,"",3,"Carnian","",237,228,8858,"gp_mid",-33.35,56.1,"103",232.5,1
+"19807",34416,"col","Stuttgart",9.300833,49.197777,"Eberstadt, Heilbronn",NA,"",62,"Carnian","",237,228,9062,"gp_mid",25.66,28.77,"305",232.5,1
+"24993",41683,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29177 (= collection 1)",NA,"",7,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"24996",41686,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29178 (= collection 2)",NA,"",1,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"24997",41687,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29179 (= collection 3)",NA,"",2,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"24999",41689,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29180 (= collection 4)",NA,"",2,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25000",41690,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29181 (= collection 5)",NA,"",1,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25001",41691,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29182 (= collection 6)",NA,"",4,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25002",41692,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29183 (= collection 7)",NA,"",1,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25003",41693,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29183A (= collection 8)",NA,"",14,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25004",41694,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29184 (= collection 9)",NA,"",2,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"25005",41695,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29185 (= collection 10)",NA,"",2,"Carnian","",237,228,11163,"gp_mid",38.37,-1.05,"508",232.5,1
+"26663",43799,"col","Toad",-124.370003,58.34,"GSC 79383, Tuchodi Bluff, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.19,40.3,"101",233.5,1
+"26688",43824,"col","Grey Beds",-130.416672,54.75,"Pardonet/Brown Hill - Carnian",NA,"",1,"Carnian","",237,228,11546,"gp_mid",-54.3,31.73,"127",232.5,1
+"26715",43851,"col","Schei Point",-95.519997,77.25,"GSC 30353, Table Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-7.04,52.22,"106",233.5,1
+"26721",43857,"col","Toad",-124.440002,58.57,"GSC 36399, Tetsa River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.1,40.52,"101",233.5,1
+"26879",44150,"col","Toad",-124.360001,58.459999,"GSC 40084, Chischa River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.11,40.4,"101",233.5,1
+"26901",44192,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic Locality 29777",NA,"",2,"Carnian","",237,228,11608,"gp_mid",38.37,-1.05,"508",232.5,1
+"26902",44193,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic Locality 29778",NA,"",3,"Carnian","",237,228,11608,"gp_mid",38.37,-1.05,"508",232.5,1
+"26903",44194,"col","Sa'haronim",34.816666,30.6,"Makhtesh Ramon, USGS Mesozoic Locality 29779",NA,"",1,"Carnian","",237,228,11608,"gp_mid",38.37,-1.05,"508",232.5,1
+"31547",49417,"col","Misfah",57.833332,22.783333,"Al Aqil - lower part",NA,"Reef 2916",21,"Julian","",235,232,13207,"gp_mid",54.13,-16.97,"503",233.5,1
+"31800",49799,"col","Blaa Mountain",-94.633331,80.51667,"Griesbach Creek section 160 11 (GSC 64727)",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.65,54.79,"106",233.5,1
+"31807",49806,"col","Schei Point",-84.916664,78.98333,"Hat Island (GSC 30357)",NA,"",1,"Julian","",235,232,11541,"gp_mid",-2.52,52.59,"106",233.5,1
+"31808",49807,"col","Schei Point",-84.916664,78.98333,"Hat Island, talus fom GSC 30357 (GSC 30359)",NA,"",1,"Julian","",235,232,11541,"gp_mid",-2.52,52.59,"106",233.5,1
+"35500",53997,"col","Liminangcong",120.183334,12.766667,"Busuanga Island, BU770802-75",NA,"",63,"Carnian","",237,228,14582,"gp_mid",127.04,-1.83,"621",232.5,1
+"36908",56875,"col","Ludington",-125.040001,59.049999,"GSC 79387, southeast of Mount Rothenberg",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.17,41.09,"101",233.5,1
+"37045",57030,"col","",42,43,"Carnian deposits Northwestern Caucasus",NA,"",3,"Carnian","",237,228,15385,"gp_mid",52.48,31.94,"511",232.5,1
+"55894",85167,"col","Xiaowa",105.416664,25.9,"Guanling, Middle Xiaowa Formation",NA,"",7,"Carnian","",237,228,28658,"gp_mid",110.84,2.07,"611",232.5,1
+"64062",96087,"col","Haliw",57.799999,22.783333,"Hamadiyin I",NA,"",1,"Julian","",235,232,32622,"gp_mid",54.1,-16.96,"503",233.5,1
+"65154",97849,"col","Upper Raibl Beds",12.358333,47.755554,"Kampenwand bei Aschau",NA,"",2,"Carnian","",237,228,33814,"gp_mid",28.35,28.02,"305",232.5,1
+"65175",97870,"col","Stuttgart",9.173333,48.805,"Feuerbacher Heide",NA,"Feuerbacher Haide",4,"Carnian","",237,228,43878,"gp_mid",25.7,28.37,"305",232.5,1
+"65178",97873,"col","Xiaowa",107.26667,26.633333,"XinpuXiang",NA,"",1,"Carnian","",237,228,33833,"gp_mid",112.49,2.84,"611",232.5,1
+"65205",97906,"col","Xiaowa",105.616669,25.883333,"Xinpu Thalattosaur Locality",NA,"Guanling Area",5,"Carnian","",237,228,33841,"gp_mid",111.02,2.06,"611",232.5,1
+"65794",98565,"col","Blaa Mountain",-89.269997,80.925003,"GSC 32220, Otto Fiord, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-2.02,54.65,"106",233.5,1
+"65795",98566,"col","Blaa Mountain",-88.879997,80.800003,"GSC 32369, Nansen Sound, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-2.04,54.51,"106",233.5,1
+"66136",98908,"col","Xiaowa",105.616669,25.866667,"Xinpu Ichthyosaur locality",NA,"",2,"Carnian","",237,228,34073,"gp_mid",111.02,2.04,"611",232.5,1
+"69073",102997,"col","Xiaowa",105.428329,25.883888,"Xiaowa Village, Xinpu Township",NA,"",2,"Carnian","",237,228,34828,"gp_mid",110.85,2.06,"611",232.5,1
+"71323",106458,"col","Stuttgart",9.387778,48.855831,"Hanweiler",NA,"",1,"Carnian","",237,228,27868,"gp_mid",25.84,28.46,"305",232.5,1
+"71324",106459,"col","Stuttgart",9.264444,49.133888,"Jägerhaus quarry, Wartenberg, Heilbronn",NA,"",2,"Carnian","",237,228,28828,"gp_mid",25.65,28.7,"305",232.5,1
+"71325",106460,"col","Stuttgart",8.939444,48.516109,"Wendelsheim",NA,"",1,"Carnian","",237,228,28828,"gp_mid",25.63,28.04,"305",232.5,1
+"71326",106461,"col","Weser",9.7,48.983334,"NW of Fichtenberg",NA,"",1,"Carnian","",237,228,27868,"gp_mid",26.01,28.64,"305",232.5,1
+"71327",106462,"col","Weser",9.196111,48.765835,"Sonnenberg",NA,"",6,"Carnian","",237,228,27868,"gp_mid",25.73,28.33,"305",232.5,1
+"71328",106463,"col","Weser",9.3,49.033333,"Amalienhof vineyard, Söhlbach-Beilstein, Helfenberg",NA,"",1,"Carnian","",237,228,27868,"gp_mid",25.71,28.61,"305",232.5,1
+"71567",106997,"col","Weser",9.567,48.877701,"Geissgurgelbach",NA,"",2,"Carnian","",237,228,35678,"gp_mid",25.96,28.51,"305",232.5,1
+"79003",115919,"col","Lettenkohle",10.943,50.956001,"Underpass between A71 & Eisenacher Str.",NA,"",4,"Carnian","",237,228,53521,"gp_mid",26.19,30.76,"305",232.5,1
+"79807",117086,"col","",106.633057,25.613611,"Guandao PUG-135",NA,"",2,"Carnian","",237,228,36240,"gp_mid",111.94,1.81,"611",232.5,1
+"79808",117087,"col","",106.633057,25.613611,"Guandao PUG-137",NA,"",4,"Carnian","",237,228,36240,"gp_mid",111.94,1.81,"611",232.5,1
+"79809",117088,"col","",106.633057,25.613611,"Guandao PUG-139",NA,"",3,"Carnian","",237,228,36240,"gp_mid",111.94,1.81,"611",232.5,1
+"79810",117089,"col","",106.633057,25.613611,"Guandao PUG-143",NA,"",7,"Carnian","",237,228,36240,"gp_mid",111.94,1.81,"611",232.5,1
+"79811",117090,"col","",106.633057,25.613611,"Guandao PUG-145",NA,"",5,"Carnian","",237,228,36240,"gp_mid",111.94,1.81,"611",232.5,1
+"83504",121316,"col","Zhuganpo",105.455002,25.889999,"Zhuganpo Village TZ-03-60",NA,"",4,"Carnian","",237,228,38718,"gp_mid",110.88,2.06,"611",232.5,1
+"83505",121317,"col","Zhuganpo",105.455002,25.889999,"Zhuganpo Village TZ-03-43",NA,"",1,"Carnian","",237,228,38718,"gp_mid",110.88,2.06,"611",232.5,1
+"83506",121318,"col","Zhuganpo",105.455002,25.889999,"Zhuganpo Village TZ-03-48",NA,"",2,"Carnian","",237,228,38718,"gp_mid",110.88,2.06,"611",232.5,1
+"83507",121319,"col","Zhuganpo",105.455002,25.889999,"Zhuganpo Village TZ-03-49",NA,"",1,"Carnian","",237,228,38718,"gp_mid",110.88,2.06,"611",232.5,1
+"84226",122246,"col","Mount Crosby",152.788406,-27.538601,"Roadside between Por. 172 and Por. 92, Par. Chuwar",NA,"Mount Crosby",7,"Carnian","",237,228,38918,"gp_mid",120.96,-67.46,"801",232.5,1
+"84227",122247,"col","Mount Crosby",152.779007,-27.551001,"Railway cutting, Por. 202, Par. Chuwar",NA,"Mount Crosby",2,"Carnian","",237,228,38918,"gp_mid",120.92,-67.46,"801",232.5,1
+"84228",122248,"col","Mount Crosby",152.766006,-27.549,"Gully, Par. 171 , Par. Chuwar",NA,"Mount Crosby",2,"Carnian","",237,228,38918,"gp_mid",120.9,-67.46,"801",232.5,1
+"88466",128034,"col","",136.5,66.599998,"Mad'yacha Creek, Adycha River basin",NA,"",1,"Carnian","",237,228,41832,"gp_mid",70.73,84.55,"401",232.5,1
+"88469",128037,"col","",130.925003,65.900002,"Dulgolakh River, Verkhoyan",NA,"",1,"Carnian","",237,228,41832,"gp_mid",76.51,82.3,"401",232.5,1
+"88545",128151,"col","",74.860001,37.619999,"Shindy River (Carnian)",NA,"",1,"Carnian","",237,228,28915,"gp_mid",84.03,42.05,"601",232.5,1
+"89716",130126,"col","",58.700001,20.32,"Sample I-618, Masirah Island",NA,"",5,"Carnian","",237,228,42207,"gp_mid",54.34,-19.33,"503",232.5,1
+"90170",130623,"col","Sapadere",32.417999,36.424,"96-UKT-550, Sugozu Measured Section II, Alakircay Nappe",NA,"",22,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90171",130624,"col","Sapadere",32.417999,36.424,"96-UKT-551, Sugozu Measured Section II, Alakircay Nappe",NA,"",29,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90172",130625,"col","Sapadere",32.417999,36.424,"96-UKT-552, Sugozu Measured Section II, Alakircay Nappe",NA,"",20,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90173",130626,"col","Sapadere",32.417999,36.424,"96-UKT-553, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90174",130627,"col","Sapadere",32.417999,36.424,"96-UKT-555, Sugozu Measured Section II, Alakircay Nappe",NA,"",10,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90175",130628,"col","Sapadere",32.417999,36.424,"96-UKT-556, Sugozu Measured Section II, Alakircay Nappe",NA,"",11,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90176",130629,"col","Sapadere",32.417999,36.424,"96-UKT-558, Sugozu Measured Section II, Alakircay Nappe",NA,"",20,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90177",130630,"col","Sapadere",32.417999,36.424,"96-UKT-559, Sugozu Measured Section II, Alakircay Nappe",NA,"",17,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90178",130631,"col","Sapadere",32.417999,36.424,"96-UKT-560, Sugozu Measured Section II, Alakircay Nappe",NA,"",12,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90179",130632,"col","Sapadere",32.417999,36.424,"96-UKT-562, Sugozu Measured Section II, Alakircay Nappe",NA,"",16,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90180",130633,"col","Sapadere",32.417999,36.424,"96-UKT-563, Sugozu Measured Section II, Alakircay Nappe",NA,"",15,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90181",130634,"col","Sapadere",32.417999,36.424,"96-UKT-564, Sugozu Measured Section II, Alakircay Nappe",NA,"",11,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90182",130635,"col","Sapadere",32.417999,36.424,"96-UKT-566, Sugozu Measured Section II, Alakircay Nappe",NA,"",16,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90183",130636,"col","Sapadere",32.417999,36.424,"96-UKT-567/94-UKT--43, Sugozu Measured Section II, Alakircay Nappe",NA,"",16,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90184",130637,"col","Sapadere",32.417999,36.424,"96-UKT-569, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90185",130638,"col","Sapadere",32.417999,36.424,"96-UKT-571, Sugozu Measured Section II, Alakircay Nappe",NA,"",17,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90186",130639,"col","Sapadere",32.417999,36.424,"96-UKT-572, Sugozu Measured Section II, Alakircay Nappe",NA,"",16,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90187",130640,"col","Sapadere",32.417999,36.424,"96-UKT-574, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90188",130641,"col","Sapadere",32.417999,36.424,"96-UKT-575, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90189",130642,"col","Sapadere",32.417999,36.424,"96-UKT-576, Sugozu Measured Section II, Alakircay Nappe",NA,"",10,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90190",130643,"col","Sapadere",32.417999,36.424,"96-UKT-577, Sugozu Measured Section II, Alakircay Nappe",NA,"",7,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90191",130644,"col","Sapadere",32.417999,36.424,"96-UKT-579, Sugozu Measured Section II, Alakircay Nappe",NA,"",11,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90192",130645,"col","Sapadere",32.417999,36.424,"96-UKT-580, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90193",130646,"col","Sapadere",32.417999,36.424,"96-UKT-582, Sugozu Measured Section II, Alakircay Nappe",NA,"",11,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90194",130647,"col","Sapadere",32.417999,36.424,"96-UKT-583, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90195",130648,"col","Sapadere",32.417999,36.424,"96-UKT-584, Sugozu Measured Section II, Alakircay Nappe",NA,"",13,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,1
+"90219",130679,"col","Karadere",30.426001,36.578999,"96-UKT-654-a, Yaylakuzdere measured section I, Alakircay Nappe",NA,"",1,"Carnian","",237,228,42261,"gp_mid",37.34,3.82,"504",232.5,1
+"92125",133088,"col","Pardonet",-125.316666,59.083332,"Spike Mountain, south Sentinel Range (lower part)",NA,"",4,"Julian","",235,232,11644,"gp_mid",-36.32,41.19,"101",233.5,1
+"95237",137158,"col","Blaa Mountain",-87.800003,80.654999,"GSC 28427, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-1.91,54.3,"106",233.5,1
+"95243",137164,"col","Blaa Mountain",-88.449997,80.739998,"GSC 28439, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-1.99,54.42,"106",233.5,1
+"95244",137165,"col","Blaa Mountain",-86.135002,80.544998,"GSC 28469, Blaa Mountain, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-1.6,54.07,"106",233.5,1
+"95245",137166,"col","Blaa Mountain",-87.800003,80.654999,"GSC 28569, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-1.91,54.3,"106",233.5,1
+"95306",137243,"col","Ludington",-125.349998,59.09,"GSC 42308, Ewe Mountain",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.33,41.2,"101",233.5,1
+"95307",137244,"col","Ludington",-125.332001,59.084999,"GSC 42311, Ewe Mountain",NA,"",3,"Julian","",235,232,11541,"gp_mid",-36.33,41.19,"101",233.5,1
+"95317",137254,"col","Toad",-125.349998,59.27,"GSC 42333, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.22,41.36,"101",233.5,1
+"95414",137380,"col","Toad",-125.349998,59.27,"GSC 42334, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.22,41.36,"101",233.5,1
+"95415",137381,"col","Toad",-125.349998,59.27,"GSC 42335, Liard River",NA,"",4,"Julian","",235,232,11541,"gp_mid",-36.22,41.36,"101",233.5,1
+"95423",137389,"col","Liard",-125.275002,59.279999,"GSC 42350, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"95424",137390,"col","Liard",-125.275002,59.279999,"Liard River, 30 miles below Devil's Portage",NA,"",1,"Julian","",235,232,34004,"gp_mid",-36.17,41.35,"101",233.5,1
+"95425",137391,"col","Liard",-125.275002,59.279999,"GSC 42351, Liard River",NA,"",4,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"95426",137392,"col","Liard",-125.275002,59.279999,"GSC 42352, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"95427",137393,"col","Liard",-125.275002,59.279999,"GSC 42354, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"95705",137702,"col","Blaa Mountain",-94.474998,80.485001,"GSC 47535, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.65,54.75,"106",233.5,1
+"95788",137785,"col","Blaa Mountain",-94.489998,80.519997,"GSC 47565, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.62,54.78,"106",233.5,1
+"95789",137786,"col","Blaa Mountain",-89.230003,80.93,"GSC 47567, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-2,54.65,"106",233.5,1
+"95995",137997,"col","Blaa Mountain",-94.544998,80.532997,"GSC 64787, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.62,54.8,"106",233.5,1
+"95996",137998,"col","Blaa Mountain",-94.489998,80.525002,"GSC 64795, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.61,54.79,"106",233.5,1
+"96237",138252,"col","Grabfeld",9.085,48.530277,"Lustnau Gipskeuper near Tübingen",NA,"",1,"Carnian","",237,228,44389,"gp_mid",25.73,28.09,"305",232.5,1
+"96559",138603,"col","Ludington",-125.440002,59.084999,"GSC 68209, Mount McLearn",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.39,41.22,"101",233.5,1
+"96561",138605,"col","Ludington",-125.400002,59.075001,"GSC 68215, Mount McLearn",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.37,41.2,"101",233.5,1
+"96562",138606,"col","Ludington",-125.400002,59.075001,"GSC 68217, Mount McLearn",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.37,41.2,"101",233.5,1
+"96566",138610,"col","Toad",-125.379997,59.27,"GSC 68229, Boiler Canyon, Liard River",NA,"",3,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96567",138611,"col","Toad",-125.379997,59.27,"GSC 68230, Boiler Canyon, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96568",138612,"col","Toad",-125.379997,59.27,"GSC 68231, Boiler Canyon, Liard River",NA,"",3,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96569",138613,"col","Toad",-125.379997,59.27,"GSC 68232, Boiler Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96570",138614,"col","Toad",-125.379997,59.27,"GSC 68233, Boiler Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96581",138625,"col","Toad",-125.349998,59.264999,"GSC 68260, Middle Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96582",138626,"col","Toad",-125.349998,59.264999,"GSC 68261, Middle Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96583",138627,"col","Toad",-125.349998,59.264999,"GSC 68263, Middle Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96584",138628,"col","Toad",-125.349998,59.264999,"GSC 68264, Middle Canyon, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96585",138629,"col","Toad",-125.349998,59.264999,"GSC 68265, Middle Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96586",138630,"col","Toad",-125.349998,59.264999,"GSC 68266, Middle Canyon, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96587",138631,"col","Toad",-125.349998,59.264999,"GSC 68267, Middle Canyon, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96588",138632,"col","Toad",-125.349998,59.264999,"GSC 68269, Middle Canyon, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96590",138634,"col","Toad",-125.349998,59.264999,"GSC 68272, Middle Canyon, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.23,41.35,"101",233.5,1
+"96592",138636,"col","Toad",-124.370003,58.34,"GSC 68278, Tuchodi Bluff, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.19,40.3,"101",233.5,1
+"96593",138637,"col","Toad",-124.370003,58.34,"GSC 68279, Tuchodi Bluff, Liard River",NA,"",4,"Julian","",235,232,11541,"gp_mid",-36.19,40.3,"101",233.5,1
+"96594",138638,"col","Toad",-124.370003,58.34,"GSC 68280, Tuchodi Bluff, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.19,40.3,"101",233.5,1
+"96984",139044,"col","Ludington",-125.330002,59.080002,"GSC 68361, Ewe Mountain",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.33,41.19,"101",233.5,1
+"96985",139045,"col","Toad",-125.379997,59.27,"GSC 68363, Boiler Canyon",NA,"",3,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"96986",139046,"col","Toad",-125.379997,59.27,"GSC 68364, Boiler Canyon",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.24,41.37,"101",233.5,1
+"97349",139414,"col","",30.34,36.790001,"Saklibeli (Tollmann 88/115)",NA,"",1,"Julian","",235,232,44827,"gp_mid",37.48,3.91,"504",233.5,1
+"99179",141652,"col","Liard",-125.275002,59.279999,"GSC 89783, Liard River",NA,"",2,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"99180",141653,"col","Liard",-125.275002,59.279999,"GSC 89784, Liard River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-36.17,41.35,"101",233.5,1
+"99286",141772,"col","Toad",-126.339996,59.5,"Liard River, about 25 miles below Devil's Portage",NA,"",1,"Julian","",235,232,34004,"gp_mid",-36.67,41.8,"101",233.5,1
+"99675",142197,"col","Toad",-123.019997,57.264999,"Sikanni Chief River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-35.97,39.02,"101",233.5,1
+"100122",142852,"col","Blackstone",152.891937,-27.630945,"Rhondda Colliery, Ipswich",NA,"Dinmore, Rhonda Colliery",1,"Carnian","",237,228,46360,"gp_mid",121.06,-67.58,"801",232.5,1
+"101170",144005,"col","Babuk",40.490002,44.029999,"Tkhach River, Proarcestes-Phloioceras beds",NA,"",1,"Julian","",235,232,34220,"gp_mid",51.08,32.2,"302",233.5,1
+"101458",144378,"col","",-141.729996,65.195,"USGS 9384, south bank of Yukon River",NA,"",5,"Julian","",235,232,8858,"gp_mid",-40.72,50.45,"101",233.5,1
+"107336",152036,"col","Sanqiao",106.669998,26.584999,"Sanqiao, KK63, Guiyang",NA,"",2,"Julian","",235,232,48616,"gp_mid",111.47,1.29,"611",233.5,1
+"108805",154214,"col","",8.567,50.162998,"Scheuermann quarry, Steinbach",NA,"",1,"Carnian","",237,228,50045,"gp_mid",24.81,29.54,"315",232.5,1
+"108806",154215,"col","",10.076,49.174,"Schöllmann quarry, Sattelweiler",NA,"",1,"Carnian","",237,228,50045,"gp_mid",26.22,28.9,"305",232.5,1
+"108807",154216,"col","",10.076,49.174,"Barenhalde quarry, Sattelweiler",NA,"",1,"Carnian","",237,228,50045,"gp_mid",26.22,28.9,"305",232.5,1
+"108808",154217,"col","",10.076,49.174,"Wilhelmsgluck between Schwäbisch Hall and Gaildorf quarry",NA,"",1,"Carnian","",237,228,50045,"gp_mid",26.22,28.9,"305",232.5,1
+"108810",154219,"col","",9.7,49.122002,"quarry east of Gottwollshausen",NA,"",1,"Carnian","",237,228,50045,"gp_mid",25.97,28.77,"305",232.5,1
+"108811",154220,"col","",8.841,48.518002,"quarry east of Gottwollshausen",NA,"",1,"Carnian","",237,228,50045,"gp_mid",25.56,28.03,"305",232.5,1
+"109042",154498,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Kelber",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109043",154499,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. MfN Berlin",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109044",154500,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. MfN Stuttgart",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109045",154501,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. NRM Stockholm",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109046",154502,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Bayerische Staatssammlung Munich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109047",154503,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Utrecht University",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109048",154504,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Naturalis Leiden",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109049",154505,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Tübingen University",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109050",154506,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Goldfuß-Museum Bonn",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109051",154507,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. ETH Zürich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109052",154508,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. NHM London",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109053",154509,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. BGL Munich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109054",154510,"col","Stuttgart",9.140556,48.789444,"Stuttgart, coll. Innsbruck University",NA,"",1,"Carnian","",237,228,50222,"gp_mid",25.68,28.34,"305",232.5,1
+"109732",155366,"col","Hongweikeng",113.620003,24.700001,"KHG 383, Niugudun, Qujiang County",NA,"",1,"Carnian","",237,228,50682,"gp_mid",118.3,1.2,"611",232.5,1
+"110393",156626,"col","Mount Crosby",152.779999,-27.549999,"Portion 205, Parish of Chuwar",NA,"Mount Crosby",2,"Carnian","",237,228,51352,"gp_mid",120.93,-67.46,"801",232.5,1
+"114369",162418,"col","Shublik",-145.205551,69.529167,"USGS Loc. 33132-33143 [Limestone Mbr, Shublik Fm]",NA,"",6,"Carnian","",237,228,52904,"gp_mid",-33.66,55.77,"103",232.5,1
+"119000",170269,"col","",28.860001,45.035,"Lung Hill, Agighiol, Dobrogea (Carnian)",NA,"",3,"Carnian","",237,228,55541,"gp_mid",41.56,29.64,"302",232.5,1
+"119001",170270,"col","",28.860001,45.035,"Pietros Hill, Agighiol, Dobrogea",NA,"",1,"Carnian","",237,228,55541,"gp_mid",41.56,29.64,"302",232.5,1
+"120711",173353,"col","Blackstone",153.038757,-27.433254,"Petrie's Quarry tracks",NA,"Albion",1,"Carnian","",237,228,56365,"gp_mid",121.6,-67.46,"801",232.5,1
+"126030",181723,"col","Xiaowa",105.432777,25.888056,"Osteocrinus from Xiaowa village",NA,"",1,"Carnian","",237,228,60418,"gp_mid",110.86,2.06,"611",232.5,1
+"128132",185126,"col","",-5.42,36.746944,"Boyar section, level 92-A-40",NA,"",12,"Carnian","",237,228,62110,"gp_mid",14.65,16.77,"304",232.5,1
+"129887",187948,"col","Lettenkohle",9.481793,49.207527,"Neuenstein tracksite",NA,"Hohenlohe",1,"Carnian","",237,228,69415,"gp_mid",25.78,28.81,"305",232.5,1
+"132009",192319,"col","Stuttgart",8.533333,52.016666,"Cyclotosaurus buechneri type locality",NA,"Bielefeld, district Sieker, North Rhine-Westphalia",1,"Carnian","",237,228,65069,"gp_mid",24.14,31.31,"315",232.5,1
+"133314",195751,"col","Falang",105.422096,25.867914,"Baiyuncun of Xinpuxiang",NA,"",1,"Carnian","",237,228,66624,"gp_mid",110.85,2.04,"611",232.5,1
+"135938",200906,"col","Hongweikeng",113.104164,25.294443,"Luojiadu, Lechang",NA,"Luojiaducun",1,"Carnian","",237,228,47190,"gp_mid",117.8,1.76,"611",232.5,1
+"135964",200936,"col","Sanqiao",106.681114,26.584444,"Erqiao, Guiyang",NA,"",1,"Carnian","",237,228,47190,"gp_mid",111.96,2.78,"611",232.5,1
+"136113",201139,"col","Yangmeishan",113.122498,25.468056,"Yangmeishan, Yizhang",NA,"Yangmeishanzhen",1,"Carnian","",237,228,47190,"gp_mid",117.8,1.93,"611",232.5,1
+"136127",201158,"col","Hanwang",105.230003,32.195,"Maantang, Jiangyou (Hangwang Fm)",NA,"",2,"Carnian","",237,228,47190,"gp_mid",110.59,8.37,"611",232.5,1
+"136439",201943,"col","",173.114105,-41.41069,"Mount Heslington",NA,"",15,"Carnian","",237,228,69156,"gp_mid",82.35,-80.15,"806",232.5,1
+"136443",201947,"col","",173.130417,-41.407169,"Entrance to Wairoa Gorge",NA,"",2,"Julian","",235,232,69156,"gp_mid",81.22,-80.52,"806",233.5,1
+"136453",201959,"col","",-5.42,36.746944,"Boyar section, level 92-A-22",NA,"",10,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136454",201960,"col","",-5.42,36.746944,"Boyar section, level 92-A-32",NA,"",5,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136455",201961,"col","",-5.42,36.746944,"Boyar section, level 92-A-33",NA,"",5,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136456",201962,"col","",-5.42,36.746944,"Boyar section, level 92-A-35",NA,"",4,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136457",201963,"col","",-5.42,36.746944,"Boyar section, level 92-A-36",NA,"",3,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136458",201964,"col","",-5.42,36.746944,"Boyar section, level 92-A-38",NA,"",6,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136459",201965,"col","",-5.42,36.746944,"Boyar section, level 92-A-39",NA,"",2,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136460",201966,"col","",-5.42,36.746944,"Boyar section, level 92-A-41",NA,"",5,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136461",201967,"col","",-5.42,36.746944,"Boyar section, level 92-A-42",NA,"",8,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"136462",201968,"col","",-5.42,36.746944,"Boyar section, level 92-A-43",NA,"",3,"Carnian","",237,228,69173,"gp_mid",14.65,16.77,"304",232.5,1
+"139940",206777,"col","Zhuganpo",105.344444,25.647223,"Lamacun, Xinpu, Guanling",NA,"",3,"Carnian","",237,228,71113,"gp_mid",110.78,1.82,"611",232.5,1
+"140297",207533,"col","Lettenkohle",11.074722,50.947224,"Erfurt area (PROXY)",NA,"",2,"Carnian","",237,228,71512,"gp_mid",26.28,30.78,"305",232.5,1
+"142092",210059,"col","Falang",108.262001,28.703501,"Huangtutang",NA,"",1,"Carnian","",237,228,72415,"gp_mid",113.3,4.94,"611",232.5,1
+"143923",212833,"col","",151.880005,-26.309999,"QML 1307, near Wondai",NA,"",1,"Carnian","",237,228,73487,"gp_mid",120.56,-65.99,"801",232.5,1

@@ -1,0 +1,275 @@
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
+"1581",3494,"col","Sables a Nummulites variolarius",2.5,49.25,"Saint-Vast-les-Mello, Barisseuse",NA,"",343,"Bartonian","",41.3,38,201,"gp_mid",8.04,42.54,"315",39.65,1
+"1596",3517,"col","Moodys Branch",-84.863892,30.708611,"AHo-1 (Moodys Branch)",NA,"",2,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,1
+"1600",3525,"col","Moodys Branch",-84.863892,30.708611,"GEa-5 (Moodys Branch)",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,1
+"1601",3526,"col","Moodys Branch",-84.863892,30.708611,"GEa-6 (Moodys Branch)",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,1
+"1602",3527,"col","Moodys Branch",-83.416664,32.683334,"GTw-1 (Moodys Branch)",NA,"",1,"Bartonian","",41.3,38,124,"gp_mid",-65.82,35.55,"109",39.65,1
+"1603",3528,"col","Moodys Branch",-83.556389,32.704166,"GTw-2 (Moodys Branch)",NA,"",5,"Bartonian","",41.3,38,124,"gp_mid",-65.95,35.6,"109",39.65,1
+"1701",3717,"col","",6.833333,52.150002,"Buurse",NA,"",16,"Bartonian","",41.3,38,233,"gp_mid",12.1,45.26,"315",39.65,1
+"1702",3718,"col","",6.8,52.200001,"Boekelo",NA,"",23,"Bartonian","",41.3,38,233,"gp_mid",12.08,45.31,"315",39.65,1
+"1703",3719,"col","",2.2,49.016666,"Ezanville, Beauchamp (France)",NA,"",3,"Bartonian","",41.3,38,234,"gp_mid",7.75,42.32,"305",39.65,1
+"1704",3720,"col","",2.2,49.016666,"Beauchamp, France",NA,"",8,"Bartonian","",41.3,38,234,"gp_mid",7.75,42.32,"305",39.65,1
+"1705",3721,"col","",2.166667,49.066666,"Guepelle, France",NA,"",12,"Bartonian","",41.3,38,234,"gp_mid",7.72,42.37,"305",39.65,1
+"3236",7321,"col","Crystal River Limestone",-85.226944,30.774166,"Jackson County, Florida #15",NA,"FJ-15",19,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,1
+"3255",7329,"col","Crystal River Limestone",-85.226944,30.774166,"Jackson County, Florida #4",NA,"FJ-4",16,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,1
+"3256",7330,"col","Crystal River",-85.226944,30.774166,"Jackson County #6",NA,"FJ-6",44,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,1
+"3260",7332,"col","Bumpnose",-85.226944,30.774166,"Jackson County,Florida #9",NA,"FJ-9",26,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,1
+"3301",8024,"col","Barton Clay",-1.666667,50.716667,"Barton-on-Sea, England",NA,"",9,"Bartonian","",41.3,38,532,"gp_mid",4.52,44.21,"315",39.65,1
+"4883",12847,"col","Calcaire de Saint-Ouen",3.35,49.133331,"Grisolles",NA,"",43,"Bartonian","",41.3,38,12522,"gp_mid",8.78,42.39,"315",39.65,1
+"12797",24109,"col","",-2.616667,50.983334,"Highcliffs sands/Cliff End Beds, near Mudeford",NA,"",56,"Bartonian","",41.3,38,6818,"gp_mid",3.71,44.53,"315",39.65,1
+"14165",27778,"col","",-1.666667,50.716667,"Barton Cliffs",NA,"",30,"Bartonian","",41.3,38,7622,"gp_mid",4.52,44.21,"315",39.65,1
+"17361",31584,"col","",3.7,49.216667,"Arcis le Ponsart",NA,"",8,"Bartonian","",41.3,38,8517,"gp_mid",9.09,42.46,"315",39.65,1
+"17494",31718,"col","",7.766667,47.316666,"Egerkingen, Huppersand fissure",NA,"Egerkingen, Egerkingen Old Collection",28,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,1
+"17495",31719,"col","",7.766667,47.316666,"Egerkingen, gamma fissure",NA,"Egerkingen",19,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,1
+"17496",31720,"col","",7.766667,47.316666,"Egerkingen, alpha fissure",NA,"Egerkingen",43,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,1
+"17497",31721,"col","",7.766667,47.316666,"Egerkingen, beta fissure",NA,"Egerkingen",27,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,1
+"17498",31722,"col","",7.766667,47.316666,"Egerkingen, Gray Marls fissure",NA,"Egerkingen",13,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,1
+"17519",31741,"col","",4.75,45.866669,"Lissieu, Bartonian",NA,"",24,"Bartonian","",41.3,38,13346,"gp_mid",9.75,39.07,"305",39.65,1
+"17520",31742,"col","",7.25,47,"Mormont Eclepens",NA,"Eclepens Gare",36,"Bartonian","",41.3,38,8517,"gp_mid",12.06,40.1,"305",39.65,1
+"18515",32915,"col","Barton Clay",-1.664722,50.735832,"Barton Cliff",NA,"Chewton Bunny",7,"Bartonian","",41.3,38,8824,"gp_mid",4.52,44.23,"315",39.65,1
+"23094",39014,"col","Creechbarrow Limestone",-2.12,50.651001,"Creechbarrow Hill",NA,"",99,"Bartonian","",41.3,38,10516,"gp_mid",4.11,44.17,"315",39.65,1
+"23712",39892,"col","Barton Beds",-1.592778,50.724998,"Hordle Cliff, Stratum 17, Hampshire",NA,"Hordwell",13,"Bartonian","",41.3,38,10789,"gp_mid",4.58,44.21,"315",39.65,1
+"24113",40512,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Bed 16) Isle of Wight",NA,"",15,"Bartonian","",41.3,38,10907,"gp_mid",5.02,44.13,"315",39.65,1
+"24122",40523,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Bed 11) Isle of Wight",NA,"",26,"Bartonian","",41.3,38,10907,"gp_mid",5.02,44.13,"315",39.65,1
+"24123",40530,"col","Barton Beds",-1.083333,50.666668,"Whitecliff Bay, Barton Beds (Beds 12-14) Isle of Wight",NA,"",19,"Bartonian","",41.3,38,10907,"gp_mid",5.02,44.13,"315",39.65,1
+"24559",41104,"col","Pondaung",94.699997,21.75,"Mindezu, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11063,"gp_mid",98.03,9.65,"617",39.65,1
+"24560",41108,"col","Pondaung",94.650002,21.766666,"Thadut, Pondaung Sandstone",NA,"",2,"Bartonian","",41.3,38,11063,"gp_mid",97.98,9.63,"617",39.65,1
+"24561",41110,"col","Pondaung",94.758331,21.700001,"Pangan 1, Pondaung Sandstone",NA,"",5,"Bartonian","",41.3,38,11075,"gp_mid",98.1,9.64,"617",39.65,1
+"24562",41111,"col","Pondaung",94.566666,21.950001,"Mogaung 1, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11063,"gp_mid",97.8,9.72,"617",39.65,1
+"24577",41143,"col","Pondaung",94.666664,21.75,"Paukkaung, Pondaung Sandstone",NA,"Pauk-kaing",2,"Bartonian","",41.3,38,11070,"gp_mid",98,9.63,"617",39.65,1
+"24578",41150,"col","Pondaung",94.758331,21.700001,"Pangan 2, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11075,"gp_mid",98.1,9.64,"617",39.65,1
+"24579",41158,"col","Pondaung",94.849998,21.616667,"Myaing 1, Pondaung Sandstone",NA,"",3,"Bartonian","",41.3,38,11063,"gp_mid",98.22,9.64,"617",39.65,1
+"24580",41163,"col","Pondaung",94.849998,21.616667,"Myaing 2, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11063,"gp_mid",98.22,9.64,"617",39.65,1
+"24581",41175,"col","Pondaung",94.849998,21.616667,"Myaing 3, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11075,"gp_mid",98.22,9.64,"617",39.65,1
+"24582",41177,"col","Pondaung",94.683334,21.716667,"Bahin 1, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11063,"gp_mid",98.04,9.61,"617",39.65,1
+"24584",41179,"col","Pondaung",94.599998,21.766666,"Sinzwe, Pondaung Sandstone",NA,"",3,"Bartonian","",41.3,38,11063,"gp_mid",97.95,9.6,"617",39.65,1
+"24585",41180,"col","Pondaung",94.816666,21.674999,"Than-u-daw, Pondaung Sandstone",NA,"Than-udaw\r\nAMNH A8",7,"Bartonian","",41.3,38,11075,"gp_mid",98.16,9.66,"617",39.65,1
+"24595",41304,"col","Pondaung",94.504166,21.950001,"Guyat 1, Pondaung Sandstone",NA,"AMNH A13",1,"Bartonian","",41.3,38,11084,"gp_mid",97.76,9.68,"617",39.65,1
+"24600",41195,"col","Pondaung",94.566666,21.883333,"Konywa, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11063,"gp_mid",97.84,9.67,"617",39.65,1
+"24604",41207,"col","Pondaung",94.833336,21.666668,"Pakokku District, Pondaung Sandstone",NA,"",14,"Bartonian","",41.3,38,11075,"gp_mid",98.18,9.66,"617",39.65,1
+"24634",41264,"col","Pondaung",94.849998,21.616667,"Myaing 4, Pondaung Sandstone",NA,"AMNH A7",3,"Bartonian","",41.3,38,11084,"gp_mid",98.22,9.64,"617",39.65,1
+"24648",41280,"col","Pondaung",94.683334,21.716667,"Bahin 2, Pondaung Sandstone",NA,"AMNH A10",1,"Bartonian","",41.3,38,11084,"gp_mid",98.04,9.61,"617",39.65,1
+"24649",41281,"col","Pondaung",94.683334,21.716667,"Bahin 3, Pondaung Sandstone",NA,"AMNH A11",2,"Bartonian","",41.3,38,11084,"gp_mid",98.04,9.61,"617",39.65,1
+"24650",41282,"col","Pondaung",94.849998,21.616667,"Myaing 5, Pondaung Sandstone",NA,"AMNH A12",1,"Bartonian","",41.3,38,11084,"gp_mid",98.22,9.64,"617",39.65,1
+"24651",41283,"col","Pondaung",94.566666,21.950001,"Mogaung 2, Pondaung Sandstone",NA,"Lema Kyitchaung\r\nAMNH A14",6,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24652",41285,"col","Pondaung",94.566666,21.950001,"Mogaung 3, Pondaung Sandstone",NA,"AMNH A15",2,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24653",41286,"col","Pondaung",94.566666,21.950001,"Mogaung 4, Pondaung Sandstone",NA,"AMNH A16",1,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24654",41287,"col","Pondaung",94.566666,21.950001,"Mogaung 5, Pondaung Sandstone",NA,"AMNH A17",3,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24655",41288,"col","Pondaung",94.566666,21.950001,"Mogaung 6, Pondaung Sandstone",NA,"AMNH A18",1,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24656",41290,"col","Pondaung",94.566666,21.950001,"Mogaung 7, Pondaung Sandstone",NA,"AMNH A19",1,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24657",41291,"col","Pondaung",94.566666,21.950001,"Mogaung 8, Pondaung Sandstone",NA,"AMNH A22",1,"Bartonian","",41.3,38,11084,"gp_mid",97.8,9.72,"617",39.65,1
+"24662",41307,"col","Pondaung",94.574997,21.904167,"Koniwa, Pondaung Sandstone",NA,"AMNH A21",7,"Bartonian","",41.3,38,11084,"gp_mid",97.84,9.69,"617",39.65,1
+"24670",41315,"col","Pondaung",94.849998,21.616667,"Myaing 6, Pondaung Sandstone",NA,"AMNH A29",1,"Bartonian","",41.3,38,11084,"gp_mid",98.22,9.64,"617",39.65,1
+"24671",41316,"col","Pondaung",94.849998,21.616667,"Myaing 7, Pondaung Sandstone",NA,"AMNH A32",1,"Bartonian","",41.3,38,11084,"gp_mid",98.22,9.64,"617",39.65,1
+"24672",41317,"col","Pondaung",94.849998,21.616667,"Myaing 8, Pondaung Sandstone",NA,"AMNH A33",1,"Bartonian","",41.3,38,11084,"gp_mid",98.22,9.64,"617",39.65,1
+"24675",41320,"col","Pondaung",94.533333,21.924999,"Legan, Pondaung Sandstone",NA,"AMNH A31\r\nUCMP V83106",5,"Bartonian","",41.3,38,11084,"gp_mid",97.79,9.68,"617",39.65,1
+"24676",41321,"col","Pondaung",94.5,21.5,"Edgbay, Pondaung Sandstone",NA,"AMNH A34",1,"Bartonian","",41.3,38,11084,"gp_mid",98.05,9.33,"617",39.65,1
+"24678",41323,"col","Pondaung",94.541664,21.841667,"Yegaw, Pondaung Sandstone",NA,"AMNH A35",1,"Bartonian","",41.3,38,11084,"gp_mid",97.85,9.62,"617",39.65,1
+"24686",41331,"col","Pondaung",94.683334,21.75,"Bahin 4, Pondaung Sandstone",NA,"Primate Resort\r\nYarshe Kyitchaung\r\nUCMP V83116\r\nBh1",23,"Bartonian","",41.3,38,11100,"gp_mid",98.02,9.64,"617",39.65,1
+"24688",41333,"col","Pondaung",94.636665,21.736944,"Yarshe, Pondaung Sandstone",NA,"Bh1 (of Kyoto University)",4,"Bartonian","",41.3,38,11107,"gp_mid",97.99,9.6,"617",39.65,1
+"24691",41336,"col","Pondaung",94.642502,21.753611,"Pk1, Pondaung Sandstone",NA,"Sabapontaung (Sabapondaung) kyitchang; Paukkaung kyitchaung 1",3,"Bartonian","",41.3,38,11107,"gp_mid",97.98,9.61,"617",39.65,1
+"24736",41393,"col","Pondaung",94.653893,21.754444,"Pk2, Pondaung Sandstone",NA,"Paukkaung kyitchaung 2",12,"Bartonian","",41.3,38,11107,"gp_mid",97.99,9.62,"617",39.65,1
+"24787",41449,"col","Pondaung",94.666664,21.75,"UCMP V83108, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"24789",41455,"col","Pondaung",94.849998,21.616667,"UCMP V6204, Pondaung Sandstone",NA,"",4,"Bartonian","",41.3,38,11108,"gp_mid",98.22,9.64,"617",39.65,1
+"24792",41456,"col","Pondaung",94.533333,21.950001,"Mogaung Northwest",NA,"Pondaung; Thandaung kyitchaung; Than Daung Kyitchaung; Tdg; UCMP V78090",19,"Bartonian","",41.3,38,11108,"gp_mid",97.78,9.7,"617",39.65,1
+"24793",41457,"col","Pondaung",94.583336,21.916668,"UCMP V83111, Pondaung Sandstone",41393,"",1,"Bartonian","",41.3,38,11108,"gp_mid",97.83,9.7,"617",39.65,1
+"24794",41458,"col","Pondaung",94.666664,21.75,"UCMP V83113, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"24795",41459,"col","Pondaung",94.666664,21.75,"UCMP V83143, Pondaung Sandstone",NA,"",2,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"24796",41460,"col","Pondaung",94.533333,21.950001,"UCMP V96001, Pondaung Sandstone",NA,"",4,"Bartonian","",41.3,38,11108,"gp_mid",97.78,9.7,"617",39.65,1
+"24797",41461,"col","Pondaung",94.533333,21.950001,"UCMP V96002, Pondaung Sandstone",NA,"",4,"Bartonian","",41.3,38,11108,"gp_mid",97.78,9.7,"617",39.65,1
+"24798",41462,"col","Pondaung",94.533333,21.950001,"UCMP V96008, Pondaung Sandstone",NA,"",3,"Bartonian","",41.3,38,11108,"gp_mid",97.78,9.7,"617",39.65,1
+"24799",41463,"col","Pondaung",94.533333,21.950001,"UCMP V96009, Pondaung Sandstone",NA,"",5,"Bartonian","",41.3,38,11108,"gp_mid",97.78,9.7,"617",39.65,1
+"24800",41464,"col","Pondaung",94.666664,21.75,"UCMP V98109, Pondaung Sandstone",NA,"",2,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"24801",41465,"col","Pondaung",94.666664,21.75,"UCMP V96019, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"24802",41466,"col","Pondaung",94.666664,21.75,"UCMP V99498, Pondaung Sandstone",NA,"",1,"Bartonian","",41.3,38,11108,"gp_mid",98,9.63,"617",39.65,1
+"25641",42444,"col","",-1.133333,50.799999,"Gosport, Bracklesham Beds, Hampshire",NA,"",3,"Bartonian","",41.3,38,11292,"gp_mid",5,44.27,"315",39.65,1
+"25648",42451,"col","",-1.2,50.799999,"Lee-on-the-Solent, Upper Bracklesham Beds",NA,"",5,"Bartonian","",41.3,38,11292,"gp_mid",4.94,44.27,"315",39.65,1
+"25800",42636,"col","Barton Clay",-1.691667,50.738888,"Cliffend, Lower Barton Beds, A3, Hampshire",NA,"",297,"Bartonian","",41.3,38,11344,"gp_mid",4.5,44.23,"315",39.65,1
+"25801",42639,"col","Barton Clay",-1.691667,50.738888,"Cliffend, Lower Barton Beds, B, Hampshire",NA,"",107,"Bartonian","",41.3,38,11344,"gp_mid",4.5,44.23,"315",39.65,1
+"25803",42641,"col","Barton Clay",-1.691667,50.738888,"Cliffend, Middle Barton Beds, D, Hampshire",NA,"",64,"Bartonian","",41.3,38,11344,"gp_mid",4.5,44.23,"315",39.65,1
+"25810",42648,"col","Becton",-1.691667,50.738888,"Cliffend, Upper Barton Beds, J, Hampshire",NA,"",49,"Bartonian","",41.3,38,11344,"gp_mid",4.5,44.23,"315",39.65,1
+"28422",45817,"col","",13.014722,47.926945,"St. Pankraz",NA,"",3,"Bartonian","",41.3,38,12165,"gp_mid",17.24,40.84,"305",39.65,1
+"30552",48159,"col","Orizzonte di Roncà",11.289167,45.8125,"Monte Duello",NA,"Monte Zuello",15,"Bartonian","",41.3,38,36621,"gp_mid",17.37,36.45,"307",39.65,1
+"31343",49152,"col","Shorym",51.650002,44.566666,"Ussak",NA,"",2,"Bartonian","",41.3,38,12996,"gp_mid",51.72,37.91,"402",39.65,1
+"31721",49689,"col","Vic-Manlleu",10.745278,43.674721,"Mas Vilageliu",NA,"",1,"Bartonian","",41.3,38,58204,"gp_mid",15.99,34.58,"307",39.65,1
+"31759",49749,"col","",22.577499,51.242222,"Siemien section (2.60-3.30 m), Poland",NA,"2.60-3.30",9,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,1
+"31760",49751,"col","",22.577499,51.242222,"Siemien section (3.30-3.90 m), Poland",NA,"3.30-3.90",19,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,1
+"31761",49750,"col","",22.577499,51.242222,"Upper Eocene of Siemien-Luszawa region",NA,"",30,"Bartonian","",41.3,38,13352,"gp_mid",25.75,43.99,"302",39.65,1
+"31762",49752,"col","",22.577499,51.242222,"Siemien section (4.50-4.70 m), Poland",NA,"4.50-4.70",9,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,1
+"31763",49753,"col","",22.577499,51.242222,"Siemien section (4.70-4.90 m), Poland",NA,"4.70-4.90",2,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,1
+"37917",57925,"col","Marianna",-85.216393,30.773333,"Chipola River, Ocala Fm.",NA,"Marianna",8,"Bartonian","",41.3,38,15585,"gp_mid",-68.11,33.99,"109",39.65,1
+"39803",59977,"col","Leticia",-66.439445,-54.451942,"Punta Torcida",NA,"",1,"Bartonian","",41.3,38,17244,"gp_mid",-60.42,-55.24,"291",39.65,1
+"43418",65159,"col","",15.418056,-27.252777,"Silica North",NA,"Sperrgebiet",21,"Bartonian","",41.3,38,47755,"gp_mid",10.98,-37.04,"701",39.65,1
+"49027",73638,"col","Guépelle",2.366667,49.033333,"Ophuiroidea, Sablière d'Ezanville, Bois Bleu, Auversien",NA,"",1,"Bartonian","",41.3,38,24697,"gp_mid",7.9,42.33,"305",39.65,1
+"49028",73639,"col","Guépelle",2.4,49.016666,"Ophuiroidea, Sablière du Plessis-Gassot, Auversien",NA,"",2,"Bartonian","",41.3,38,24697,"gp_mid",7.93,42.31,"305",39.65,1
+"50012",75076,"col","Pondaung",94.642502,21.755556,"Pk5",NA,"Ayoedawpon taung; Paukkaung kyitchaung 5",1,"Bartonian","",41.3,38,25236,"gp_mid",97.98,9.62,"617",39.65,1
+"50013",75077,"col","Pondaung",94.812775,21.708889,"PGN2",NA,"Taungnigyin; Pangan 2",2,"Bartonian","",41.3,38,25236,"gp_mid",98.14,9.68,"617",39.65,1
+"51439",78056,"col","Pondaung",94.533333,21.950001,"Kyaukmagyi Kyitchaung",NA,"Kmi; Kyauk Magyi",2,"Bartonian","",41.3,38,26188,"gp_mid",97.78,9.7,"617",39.65,1
+"51440",78057,"col","Pondaung",94.849998,21.766666,"Thamingyauk Kyitchaung",NA,"Tmk",3,"Bartonian","",41.3,38,26188,"gp_mid",98.12,9.75,"617",39.65,1
+"51840",78567,"col","",0.483333,49.133331,"Baron",NA,"",362,"Bartonian","",41.3,38,26411,"gp_mid",6.24,42.52,"305",39.65,1
+"52228",79225,"col","",1.816667,49.266666,"Acropora, Paris Basin I",NA,"",3,"Bartonian","",41.3,38,26581,"gp_mid",7.43,42.59,"305",39.65,1
+"52332",79434,"col","Barton",-1.666667,50.716667,"Barton",NA,"",1,"Bartonian","",41.3,38,26581,"gp_mid",4.52,44.21,"315",39.65,1
+"52427",79675,"col","",9.403,35.577999,"Oued Kouki",NA,"",1,"Bartonian","",41.3,38,26771,"gp_mid",13.77,25.99,"714",39.65,1
+"53136",81227,"col","Okinoshima",129.550003,32.866669,"Loc. 135 and Loc. 145 [Okinoshima Fm]",NA,"",11,"Bartonian","",41.3,38,27378,"gp_mid",125.83,37.74,"610",39.65,1
+"53138",81229,"col","Okinoshima",129.550003,32.866669,"Loc. 138 [Okinoshima Fm]",NA,"",5,"Bartonian","",41.3,38,27378,"gp_mid",125.83,37.74,"610",39.65,1
+"53139",81230,"col","Okinoshima",129.550003,32.866669,"Loc. 139 and Loc. 146 [Okinoshima Fm]",NA,"",4,"Bartonian","",41.3,38,27378,"gp_mid",125.83,37.74,"610",39.65,1
+"53144",81235,"col","Okinoshima",129.550003,32.866669,"Loc. 147 [Okinoshima Fm]",NA,"",4,"Bartonian","",41.3,38,27378,"gp_mid",125.83,37.74,"610",39.65,1
+"53162",81264,"col","Gosport Sand",-83.416664,32.683334,"GTw-1 Gosport",NA,"",8,"Bartonian","",41.3,38,124,"gp_mid",-65.82,35.55,"109",39.65,1
+"54710",83522,"col","Pondaung",94.622498,21.75111,"Nyaungpinle",NA,"",2,"Bartonian","",41.3,38,26186,"gp_mid",97.97,9.6,"617",39.65,1
+"55787",85003,"col","Borova",18.383333,48.666668,"Skacany",NA,"",1,"Bartonian","",41.3,38,28529,"gp_mid",24.26,37.43,"308",39.65,1
+"59255",90035,"col","Pondaung",94.72361,21.734444,"Ganle kyitchaung",NA,"",1,"Bartonian","",41.3,38,30171,"gp_mid",98.05,9.65,"617",39.65,1
+"59633",90640,"col","McBean",-85.033333,31.6,"PRI 2217",NA,"",12,"Bartonian","",41.3,38,11845,"gp_mid",-67.72,34.77,"109",39.65,1
+"59876",91109,"col","Castle Hayne",-77.992775,35.384998,"M 154",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-59.65,37.25,"109",39.65,1
+"60266",91584,"col","Pondaung",94.683334,21.716667,"Bahin (Pondaung Fossil Expedition Team collection)",NA,"",1,"Bartonian","",41.3,38,25252,"gp_mid",98.04,9.61,"617",39.65,1
+"60812",92152,"col","Moodys Branch",-84.575554,30.903889,"M 324",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-67.43,34.01,"109",39.65,1
+"60849",92190,"col","Castle Hayne",-79.009499,35.310619,"M 362",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-60.69,37.35,"109",39.65,1
+"60856",92197,"col","McBean",-81.719444,33.560555,"M 368",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-63.88,36.12,"109",39.65,1
+"60922",92265,"col","McBean",-81.974724,33.470833,"M 64",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.16,36.07,"109",39.65,1
+"65863",98636,"col","Moodys Branch",-85.047218,31.609167,"M 701",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-67.74,34.78,"109",39.65,1
+"65868",98641,"col","McBean",-82.198059,33.450558,"M 459",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.39,36.09,"109",39.65,1
+"66209",98985,"col","Gosport Sand",-78.45639,35.650833,"M 781",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-60.04,37.59,"109",39.65,1
+"68249",101813,"col","Capusu",23.450001,46.683334,"Savadisla",NA,"",8,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,1
+"68250",101814,"col","Capusu",23.433332,46.733334,"Lona",NA,"",5,"Bartonian","",41.3,38,34618,"gp_mid",27.45,34.49,"308",39.65,1
+"68251",101815,"col","Inucu",23.200001,46.849998,"Leghia",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.31,34.65,"308",39.65,1
+"68252",101816,"col","",23.233334,47.166668,"Jac",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.46,34.95,"308",39.65,1
+"68253",101817,"col","Capusu",23.016666,46.766666,"Calatele",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.13,34.61,"308",39.65,1
+"68256",101820,"col","",23.266666,47.216667,"Prodanesti",NA,"",1,"Bartonian","",41.3,38,34618,"gp_mid",27.5,34.99,"308",39.65,1
+"68259",101823,"col","Inucu",23.083332,46.766666,"Manastireni",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.18,34.6,"308",39.65,1
+"68260",101824,"col","Inucu",23.033333,46.783333,"Valeni",NA,"",4,"Bartonian","",41.3,38,34618,"gp_mid",27.15,34.63,"308",39.65,1
+"68262",101826,"col","Inucu",23.450001,46.683334,"Savadisla",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,1
+"68279",101872,"col","Inucu",23.483334,46.733334,"Floresti",NA,"",1,"Bartonian","",41.3,38,34618,"gp_mid",27.49,34.48,"308",39.65,1
+"68281",101874,"col","Capusu",23.516666,46.549999,"Iara",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.45,34.3,"308",39.65,1
+"68285",101878,"col","Capusu",23.466667,46.633331,"Lita de Sus",NA,"",9,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.39,"308",39.65,1
+"68286",101879,"col","Inucu",23.200001,46.849998,"Leghia",NA,"",16,"Bartonian","",41.3,38,34618,"gp_mid",27.31,34.65,"308",39.65,1
+"68287",101880,"col","Inucu",23.5,46.716667,"Tauti",NA,"",1,"Bartonian","",41.3,38,34618,"gp_mid",27.49,34.46,"308",39.65,1
+"68289",101882,"col","Capusu",23.083332,46.766666,"Manastireni",NA,"",5,"Bartonian","",41.3,38,34618,"gp_mid",27.18,34.6,"308",39.65,1
+"68290",101883,"col","",23.049999,47.166668,"Aghires",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.31,34.99,"308",39.65,1
+"68291",101884,"col","Inucu",23.299999,46.783333,"Capusul Mare",NA,"",4,"Bartonian","",41.3,38,34618,"gp_mid",27.36,34.57,"308",39.65,1
+"68292",101885,"col","Inucu",23.433332,46.733334,"Lona",NA,"",8,"Bartonian","",41.3,38,34618,"gp_mid",27.45,34.49,"308",39.65,1
+"68293",101886,"col","Inucu",23.450001,46.700001,"Vlaha",NA,"",5,"Bartonian","",41.3,38,34618,"gp_mid",27.45,34.46,"308",39.65,1
+"68294",101887,"col","Inucu",23.466667,46.583332,"Baisoara",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.42,34.34,"308",39.65,1
+"68295",101888,"col","Inucu",23.25,46.849998,"Inucu",NA,"",1,"Bartonian","",41.3,38,34618,"gp_mid",27.35,34.64,"308",39.65,1
+"68296",101889,"col","Inucu",23.233334,46.833332,"Dumbrava",NA,"",1,"Bartonian","",41.3,38,34618,"gp_mid",27.33,34.63,"308",39.65,1
+"68297",101890,"col","Inucu",23.033333,46.783333,"Valeni",NA,"",4,"Bartonian","",41.3,38,34618,"gp_mid",27.15,34.63,"308",39.65,1
+"68298",101891,"col","Capusu",23.083332,46.766666,"Manastireni",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.18,34.6,"308",39.65,1
+"68299",101892,"col","Inucu",23.466667,46.633331,"Lita de Sus",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.39,"308",39.65,1
+"68300",101893,"col","Capusu",23.450001,46.683334,"Savadisla",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,1
+"68352",101958,"col","Capusu",23.299999,46.783333,"Capusul Mare",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.36,34.57,"308",39.65,1
+"68353",101959,"col","Capusu",23.033333,46.783333,"Valeni",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.15,34.63,"308",39.65,1
+"68354",101960,"col","Inucu",23.450001,46.683334,"Savadisla",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,1
+"69074",103018,"col","Okinoshima",129.833328,32.783333,"TCF 1, Iojima Coal Mine",NA,"",5,"Bartonian","",41.3,38,34846,"gp_mid",126.15,37.72,"610",39.65,1
+"69075",103019,"col","Okinoshima",129.833328,32.783333,"TCF 2, Iojima Coal Mine",NA,"",4,"Bartonian","",41.3,38,34846,"gp_mid",126.15,37.72,"610",39.65,1
+"71526",106915,"col","McBean",-84.23278,32.072498,"M 61",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-66.8,35.1,"109",39.65,1
+"71568",106999,"col","",-77.581665,35.262779,"HAR 5",NA,"",1,"Bartonian","",41.3,38,35561,"gp_mid",-59.27,37.05,"109",39.65,1
+"72032",107512,"col","Piney Point",-77.093056,37.605556,"Pamunkey River-near Putneys Mill",NA,"",22,"Bartonian","",41.3,38,35783,"gp_mid",-58.13,39.25,"109",39.65,1
+"76887",113115,"col","Shorym",51.486942,43.793888,"Karagaly",NA,"",2,"Bartonian","",41.3,38,36745,"gp_mid",51.64,37.13,"402",39.65,1
+"76888",113116,"col","Shorym",51.754723,43.804722,"Kuyulus",NA,"",3,"Bartonian","",41.3,38,36745,"gp_mid",51.88,37.16,"402",39.65,1
+"76889",113117,"col","Shorym",51.951668,43.853611,"Uzunbas",NA,"",1,"Bartonian","",41.3,38,36745,"gp_mid",52.06,37.22,"402",39.65,1
+"78126",114539,"col","",15.416667,-27.266666,"Silica South",NA,"Sperrgebiet",6,"Bartonian","",41.3,38,47755,"gp_mid",10.98,-37.05,"701",39.65,1
+"81881",119416,"col","Castle Hayne",-78.050003,35.233334,"USGS 21849 Dudley",NA,"",7,"Bartonian","",41.3,38,38295,"gp_mid",-59.75,37.11,"109",39.65,1
+"85734",124308,"col","Promina",16.116667,43.950001,"Culjina, Mt. Promina",NA,"",43,"Bartonian","",41.3,38,40069,"gp_mid",20.5,33.52,"307",39.65,1
+"85735",124309,"col","Promina",16.066668,43.950001,"Djapo, Mt. Promina",NA,"",35,"Bartonian","",41.3,38,40069,"gp_mid",20.46,33.53,"307",39.65,1
+"85784",124371,"col","Promina",16.066668,43.933334,"Cveljo, Mt. Promina",NA,"",29,"Bartonian","",41.3,38,40069,"gp_mid",20.45,33.51,"307",39.65,1
+"85785",124372,"col","Promina",16.1,43.933334,"Gluvaca I, Mt. Promina",NA,"",20,"Bartonian","",41.3,38,40069,"gp_mid",20.48,33.5,"307",39.65,1
+"85786",124373,"col","Promina",16.1,43.933334,"Gluvaca II, Mt. Promina",NA,"",11,"Bartonian","",41.3,38,40069,"gp_mid",20.48,33.5,"307",39.65,1
+"91591",132381,"col","Kiev",33.133331,49.083332,"Nagornoye",NA,"Nagirne, Nagorno, Nagornoe",5,"Bartonian","",41.3,38,42656,"gp_mid",34.99,41.86,"302",39.65,1
+"91603",132393,"col","Kiev",39.648609,48.451668,"Beloskelevatoye",NA,"Beloskelevatoe",2,"Bartonian","",41.3,38,42656,"gp_mid",40.75,41.35,"302",39.65,1
+"98697",141002,"col","Kiev",32.952499,49.058613,"Velykaya Andrusovka",NA,"",1,"Bartonian","",41.3,38,45798,"gp_mid",34.83,41.83,"302",39.65,1
+"101586",144538,"col","",11.283333,45.483334,"Roncà",NA,"Ronca",2,"Bartonian","",41.3,38,46758,"gp_mid",17.21,36.14,"307",39.65,1
+"101589",144540,"col","",11.25,45.483334,"Montecchia di Crosara",NA,"",1,"Bartonian","",41.3,38,46758,"gp_mid",17.19,36.15,"307",39.65,1
+"104349",148394,"col","",-0.041111,47.548058,"Pontigne 1",NA,"les Buissonneaux",0,"Bartonian","",41.3,38,47649,"gp_mid",5.62,40.97,"305",39.65,1
+"105190",149315,"col","Buntfeldschuch",15.56,-27.575832,"Buntfeldschuh",NA,"",0,"Bartonian","",41.3,38,47778,"gp_mid",11.08,-37.38,"701",39.65,1
+"107095",151676,"col","Pondaung",94.653893,21.74889,"Pk12",NA,"Paukkaung kyitchaung 12",2,"Bartonian","",41.3,38,25236,"gp_mid",98,9.62,"617",39.65,1
+"113936",161762,"col","Szoc Limestone",17.549999,47.099998,"Ajka",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",22.94,36.15,"308",39.65,1
+"113937",161763,"col","Szoc Limestone",17.799999,47.220001,"Penzesgyor (Ree-hegy)",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.19,36.2,"308",39.65,1
+"113938",161764,"col","Szoc Limestone",17.809999,47.18,"Harskut (Hkt/c borehole)",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.18,36.16,"308",39.65,1
+"113939",161765,"col","Szoc Limestone",17.940001,47.299999,"Dudar-218 borehole",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",23.33,36.24,"308",39.65,1
+"113940",161766,"col","Padrag Marl",18.190001,47.310001,"Balinka-224 borehole",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.53,36.2,"308",39.65,1
+"113946",161772,"col","Padrag Marl",18.190001,47.310001,"Balinka-239 borehole",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.53,36.2,"308",39.65,1
+"113947",161773,"col","Padrag Marl",18.66,47.720001,"Tokod (Padrag Marl)",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",24.07,36.48,"308",39.65,1
+"114072",161927,"col","",-1.1375,43.6875,"Miretrain Quarry - Sample C3",NA,"",4,"Bartonian","",41.3,38,52746,"gp_mid",4.26,37.17,"305",39.65,1
+"114073",161928,"col","",-1.1375,43.6875,"Miretrain Quarry - Sample C4",NA,"",4,"Bartonian","",41.3,38,52746,"gp_mid",4.26,37.17,"305",39.65,1
+"114074",161929,"col","",-1.1375,43.6875,"Miretrain Quarry - Sample C5",NA,"",1,"Bartonian","",41.3,38,52746,"gp_mid",4.26,37.17,"305",39.65,1
+"114075",161930,"col","",-1.1375,43.6875,"Miretrain Quarry - Sample C6a",NA,"",5,"Bartonian","",41.3,38,52746,"gp_mid",4.26,37.17,"305",39.65,1
+"114076",161931,"col","",-1.1375,43.6875,"Miretrain Quarry - Sample C6b",NA,"",2,"Bartonian","",41.3,38,52746,"gp_mid",4.26,37.17,"305",39.65,1
+"115851",165176,"col","",15.622301,-27.385286,"Eocliff",NA,"Sperrgebiet",25,"Bartonian","",41.3,38,54011,"gp_mid",11.19,-37.2,"701",39.65,1
+"120846",173640,"col","",9.8,35,"Djebel el Kébar",NA,"KEB-1; Kébar 1",2,"Bartonian","",41.3,38,56632,"gp_mid",14.03,25.37,"714",39.65,1
+"122643",176638,"col","Orizzonte di Ronca",11.233333,45.525002,"de Croce Grande, San Giovanni Ilarione",NA,"",1,"Bartonian","",41.3,38,57958,"gp_mid",17.19,36.19,"307",39.65,1
+"122752",176769,"col","Orizzonte di Ronca",11.283333,45.483334,"Roncà",NA,"",8,"Bartonian","",41.3,38,58315,"gp_mid",17.21,36.14,"307",39.65,1
+"122992",177023,"col","Pondaung",94.653893,21.754444,"Saba Pondaung",NA,"PK4; Spg; Paukkaung kyitchaung 4",1,"Bartonian","",41.3,38,58456,"gp_mid",97.99,9.62,"617",39.65,1
+"123002",177033,"col","Pondaung",94.820274,21.653334,"Mta, near Minthagya Village",NA,"Myaing; Pondaung",1,"Bartonian","",41.3,38,58463,"gp_mid",98.18,9.65,"617",39.65,1
+"123003",177034,"col","Pondaung",94.65361,21.754168,"South of Pk2, near Paukkaung Village",NA,"Pondaung; Paukkaung kyitchaung",3,"Bartonian","",41.3,38,58463,"gp_mid",97.99,9.62,"617",39.65,1
+"123025",180197,"col","",15.622301,-27.385286,"Eoridge",NA,"",10,"Bartonian","",41.3,38,59813,"gp_mid",11.19,-37.2,"701",39.65,1
+"123034",177068,"col","Sables de Cresnes",2.0382,49.184101,"Le Quoniam near Haravilliers (Pacaud collection)",NA,"",15,"Bartonian","",41.3,38,58495,"gp_mid",7.62,42.5,"305",39.65,1
+"123291",177581,"col","",3.614444,49.263332,"Chéry-Chartreuve",NA,"Chéry Chartreuve",37,"Bartonian","",41.3,38,58591,"gp_mid",9.02,42.51,"315",39.65,1
+"123292",177582,"col","",3.388056,49.1525,"Rocourt-Saint-Martin",NA,"RSM",23,"Bartonian","",41.3,38,58591,"gp_mid",8.81,42.4,"315",39.65,1
+"123312",177603,"col","Trucco",10.816667,45.533333,"Monte Duello",NA,"",30,"Bartonian","",41.3,38,58743,"gp_mid",16.86,36.3,"307",39.65,1
+"123341",177666,"col","Calcari Nummulitici",11.25,45.516666,"San Giovanni Ilarione",NA,"",2,"Bartonian","",41.3,38,58769,"gp_mid",17.2,36.18,"307",39.65,1
+"123470",178049,"col","",1.583333,47.233334,"La Close",NA,"",2,"Bartonian","",41.3,38,58897,"gp_mid",7.03,40.57,"305",39.65,1
+"123494",178082,"col","Cresnes",1.97,49.220001,"Monneville",NA,"",29,"Bartonian","",41.3,38,25129,"gp_mid",7.57,42.54,"305",39.65,1
+"123503",178103,"col","",2.16,49.080002,"Bois-le-Roi, Auvers-sur-Oise",NA,"",2,"Bartonian","",41.3,38,58766,"gp_mid",7.72,42.39,"305",39.65,1
+"123554",178155,"col","Sables de Cresnes",2.016667,49.200001,"Cresnes, Neuville-Bosq",NA,"",21,"Bartonian","",41.3,38,26566,"gp_mid",7.6,42.51,"305",39.65,1
+"123753",178456,"col","Orizzonte di Ronca",10.983333,45.416668,"de San Pietro, San Giovanni Ilarione",NA,"",1,"Bartonian","",41.3,38,57958,"gp_mid",16.94,36.15,"307",39.65,1
+"124358",179128,"col","Sables Moyens",3.11,49.040001,"Vendrest",NA,"",6,"Bartonian","",41.3,38,58837,"gp_mid",8.56,42.3,"315",39.65,1
+"124360",179130,"col","",2.18,46.099998,"Valmondois",NA,"",67,"Bartonian","",41.3,38,59286,"gp_mid",7.46,39.41,"305",39.65,1
+"124919",179876,"col","Okinoshima",129.776794,32.691799,"EE1037, Aze, Okinoshima Island",NA,"",1,"Bartonian","",41.3,38,59677,"gp_mid",126.11,37.62,"610",39.65,1
+"124920",179877,"col","Okinoshima",129.776596,32.691601,"EE1036, Aze, Okinoshima Island",NA,"",1,"Bartonian","",41.3,38,59677,"gp_mid",126.11,37.62,"610",39.65,1
+"124921",179878,"col","Okinoshima",129.776001,32.691799,"EE1039, Aze, Okinoshima Island",NA,"",1,"Bartonian","",41.3,38,59677,"gp_mid",126.11,37.62,"610",39.65,1
+"124923",179880,"col","Okinoshima",129.775803,32.691898,"EE1035, Aze, Okinoshima Island",NA,"",1,"Bartonian","",41.3,38,59677,"gp_mid",126.11,37.62,"610",39.65,1
+"124924",179881,"col","Okinoshima",129.775406,32.691399,"EE1038, Aze, Okinoshima Island",NA,"",1,"Bartonian","",41.3,38,59677,"gp_mid",126.11,37.62,"610",39.65,1
+"124935",179893,"col","",130.490005,33.049999,"Manda, Miike Coal-field (240 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124936",179894,"col","",130.490005,33.049999,"Manda, Miike Coal-field (277 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124937",179895,"col","",130.490005,33.049999,"Manda, Miike Coal-field (280 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124938",179896,"col","",130.490005,33.049999,"Manda, Miike Coal-field (300 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124939",179897,"col","",130.490005,33.049999,"Manda, Miike Coal-field (358 feet depth)",NA,"",2,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124940",179898,"col","",130.490005,33.049999,"Manda, Miike Coal-field (384 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124941",179899,"col","",130.490005,33.049999,"Manda, Miike Coal-field (393 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124942",179900,"col","",130.490005,33.049999,"Manda, Miike Coal-field (400 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124943",179901,"col","",130.490005,33.049999,"Manda, Miike Coal-field (401 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124944",179902,"col","",130.490005,33.049999,"Manda, Miike Coal-field (403 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124945",179903,"col","",130.490005,33.049999,"Manda, Miike Coal-field (405 feet depth)",NA,"",3,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124946",179904,"col","",130.490005,33.049999,"Manda, Miike Coal-field (484 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124947",179905,"col","",130.490005,33.049999,"Manda, Miike Coal-field (489 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124948",179906,"col","",130.490005,33.049999,"Manda, Miike Coal-field (538 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124949",179907,"col","",130.490005,33.049999,"Manda, Miike Coal-field (608 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124950",179908,"col","",130.490005,33.049999,"Manda, Miike Coal-field (610 feet depth)",NA,"",1,"Bartonian","",41.3,38,59679,"gp_mid",126.75,38.1,"610",39.65,1
+"124957",179915,"col","Okinoshima",129.774994,32.689999,"Southern coast of Oki-no-shima off Nagasaki",NA,"",1,"Bartonian","",41.3,38,59682,"gp_mid",126.11,37.62,"610",39.65,1
+"125124",180397,"col","Pondaung",94.590279,21.823334,"Kd2, Kyudaw",NA,"Near Thidon Village, Bahin area",3,"Bartonian","",41.3,38,25249,"gp_mid",97.9,9.63,"617",39.65,1
+"125125",180398,"col","Pondaung",94.590279,21.823334,"PA1, near Sinzwe Village",NA,"Bahin",1,"Bartonian","",41.3,38,25249,"gp_mid",97.9,9.63,"617",39.65,1
+"126373",182385,"col","",7.3925,47.316113,"La Verrerie de Roches fissures",NA,"",13,"Bartonian","",41.3,38,60673,"gp_mid",12.21,40.41,"305",39.65,1
+"126455",182607,"col","",6.5025,46.664165,"Les Alleveys",NA,"",28,"Bartonian","",41.3,38,60780,"gp_mid",11.37,39.79,"305",39.65,1
+"126639",182806,"col","",7.766667,47.316666,"Egerkingen and Oberbuchsiten (General locality)",NA,"Egerkingen",8,"Bartonian","",41.3,38,60954,"gp_mid",12.54,40.4,"305",39.65,1
+"126811",183158,"col","",6.603611,46.7775,"Chamblon",NA,"",2,"Bartonian","",41.3,38,60954,"gp_mid",11.47,39.9,"305",39.65,1
+"127371",183940,"col","Sables de Cresnes",2.0382,49.184101,"Le Quoniam near Haravilliers (Pons collection)",NA,"",1,"Bartonian","",41.3,38,58880,"gp_mid",7.62,42.5,"305",39.65,1
+"127540",184139,"col","",2.955,49.154999,"Betz, near Crépy (Defrance collection)",NA,"",4,"Bartonian","",41.3,38,19292,"gp_mid",8.43,42.43,"315",39.65,1
+"127542",184141,"col","",2.955,49.154999,"Betz, near Crépy (Lamarck collection)",NA,"",3,"Bartonian","",41.3,38,61532,"gp_mid",8.43,42.43,"315",39.65,1
+"127545",184144,"col","",2.89,49.23,"Crépy en Valois (Defrance collection)",NA,"",3,"Bartonian","",41.3,38,61532,"gp_mid",8.38,42.5,"315",39.65,1
+"127560",184159,"col","",2.89,49.23,"Crépy-en-Vallois (Lamarck collection)",NA,"",1,"Bartonian","",41.3,38,61536,"gp_mid",8.38,42.5,"315",39.65,1
+"127563",184162,"col","",3.325,48.965,"Nogeant l'Artault (Lamarck collection)",NA,"",1,"Bartonian","",41.3,38,61536,"gp_mid",8.74,42.22,"315",39.65,1
+"127568",184167,"col","",3.388056,49.1525,"Rocourt niveau argile à coquille",NA,"RNC",2,"Bartonian","",41.3,38,61550,"gp_mid",8.81,42.4,"315",39.65,1
+"127577",184176,"col","",2.0725,49.191387,"Berville",NA,"",1,"Bartonian","",41.3,38,61562,"gp_mid",7.65,42.5,"305",39.65,1
+"127588",184187,"col","Castrais",2.240833,46.605278,"La Badayre",NA,"La Badaïré; Castres commune",2,"Bartonian","",41.3,38,61562,"gp_mid",7.56,39.92,"305",39.65,1
+"127611",184213,"col","Castrais",2.240833,46.605278,"Molinier",NA,"Castres",1,"Bartonian","",41.3,38,61562,"gp_mid",7.56,39.92,"305",39.65,1
+"127986",184817,"col","",2.19,49.095001,"Valmondois (Lambotin collection)",NA,"",1,"Bartonian","",41.3,38,61542,"gp_mid",7.75,42.4,"305",39.65,1
+"127987",184818,"col","",2.19,49.095001,"Valmondois (Deshayes collection)",NA,"",10,"Bartonian","",41.3,38,61542,"gp_mid",7.75,42.4,"305",39.65,1
+"127989",184820,"col","",2.6,49.209999,"La Chapelle, near Senlis",NA,"",6,"Bartonian","",41.3,38,61542,"gp_mid",8.12,42.5,"315",39.65,1
+"127994",184825,"col","",2.19,49.014999,"Beauchamp (Deshayes collection)",NA,"",2,"Bartonian","",41.3,38,61542,"gp_mid",7.74,42.32,"305",39.65,1
+"127995",184826,"col","",3.045,49,"Tancrou (Deshayes collection)",NA,"",2,"Bartonian","",41.3,38,61542,"gp_mid",8.49,42.27,"315",39.65,1
+"128003",184834,"col","",1.71,48.955002,"Aufreville, near Mantes (Deshayes collection)",NA,"",1,"Bartonian","",41.3,38,61542,"gp_mid",7.31,42.28,"305",39.65,1
+"128004",184835,"col","",2.09,49.099998,"Livillier (Deshayes collection)",NA,"",1,"Bartonian","",41.3,38,61542,"gp_mid",7.66,42.41,"305",39.65,1
+"128853",186445,"col","Shorym Svita",53.3125,44.214443,"western Ustyurt",NA,"",0,"Bartonian","",41.3,38,59519,"gp_mid",53.25,37.65,"402",39.65,1
+"130919",190275,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nyires farm",NA,"",1,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,1
+"130920",190276,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nagytarkay-9 bauxite lens (N. millecaput marly limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,1
+"130921",190277,"col","Szoc Limestone",17.365,46.994999,"Nagytarkany, Nagytarkay-9 bauxite lens (N. millecaput limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,1
+"131357",190870,"col","Barton Clay",-1.67,50.735001,"Barton, Chama-bed horizon H (D. Curry collection)",NA,"",1,"Bartonian","",41.3,38,64169,"gp_mid",4.52,44.23,"315",39.65,1
+"131358",190871,"col","",3.155,49.145,"Montmarlet (Aisne)",NA,"",1,"Bartonian","",41.3,38,64169,"gp_mid",8.61,42.41,"315",39.65,1
+"131395",190930,"col","Barton Clay",-1.67,50.735001,"Barton (Edwards collection)",NA,"",1,"Bartonian","",41.3,38,64216,"gp_mid",4.52,44.23,"315",39.65,1
+"138603",205057,"col","",129.780899,32.693996,"Okinoshima",NA,"OKN-1",3,"Bartonian","",41.3,38,70369,"gp_mid",126.12,37.62,"610",39.65,1
+"138779",205247,"col","Iojima",129.833328,32.783333,"Iojima",NA,"",3,"Bartonian","",41.3,38,61666,"gp_mid",126.15,37.72,"610",39.65,1
+"138824",205299,"col","Sables a Pugilina",6.095301,48.86586,"Loisy",NA,"",1,"Bartonian","",41.3,38,70433,"gp_mid",11.18,42.01,"315",39.65,1
+"139824",206558,"col","Drazinda",65.780296,28.0896,"Drug Tehsil",NA,"",2,"Bartonian","",41.3,38,70997,"gp_mid",66.31,22.37,"506",39.65,1
+"140442",207786,"col","",11.25,45.416668,"Soave",NA,"",16,"Bartonian","",41.3,38,71693,"gp_mid",17.16,36.09,"307",39.65,1
+"142802",211071,"col","Gehlberg",11.003807,52.138939,"Alversdorf",NA,"",2,"Bartonian","",41.3,38,72902,"gp_mid",15.72,45.11,"315",39.65,1
+"142806",211080,"col","Gehlberg",10.994194,52.156002,"Tagebau Treue, Bartonian",NA,"Treue 3, Nordwand",1,"Bartonian","",41.3,38,72902,"gp_mid",15.72,45.12,"315",39.65,1
+"143846",212696,"col","McBean",-82.198059,33.450558,"Fiske property",NA,"Grovetown",10,"Bartonian","",41.3,38,72443,"gp_mid",-64.39,36.09,"109",39.65,1
+"143847",212697,"col","McBean",-82.198059,33.450558,"Phinizy Gully",NA,"Grovetown",11,"Bartonian","",41.3,38,72443,"gp_mid",-64.39,36.09,"109",39.65,1
