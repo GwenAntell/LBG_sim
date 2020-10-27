@@ -8,7 +8,7 @@ To cite the paper:
 > Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. 2020. Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. (TBC).
 
 <p align="center">
-  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/paper_workflow.png" alt="" width="500"/>
+  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/paper_workflow.png" alt="" width="400"/>
 </p>
 
 -------
