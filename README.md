@@ -34,7 +34,7 @@ This script simulates the stage-level flat-, unimodal- and bimodal-type latitudi
 This script runs the analyses.
 
 <p align="center">
-  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/simulation_workflow.png" alt="" width="500"/>
+  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/simulation_workflow.png" alt="" width="700"/>
 </p>
 
 -------
