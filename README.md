@@ -11,10 +11,6 @@ To cite the paper:
   <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/paper_workflow.png" alt="" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/results/GIF/spatial_sampling.gif" alt="" width="400"/>
-</p>
-
 -------
 
 ## Data
@@ -54,7 +50,35 @@ This folder contains the data related to simulated/sampled/sampling-standardised
 * **./results/compiled_LBGs/**
 This folder contains the data related to all simulated/sampled/sampling-standardised latitudinal biodiversity gradients. The folder also includes stage-level plots.
 
+* **./results/SSC/**
+This folder contains results related to spatial sampling coverage.
+
+* **./results/MST/**
+This folder contains results related to summed minimum-spanning tree length.
+
 * **./results/GIF/**
 This folder contains plots of all stage-level sampling grids.
+
+<p align="center">
+  <img src="https://github.com/LewisAJones/LBG_sim/blob/master/results/GIF/spatial_sampling.gif" alt="" width="600"/>
+</p>
+
+* **./results/frequency_dist/**
+This folder contains results from Kolmogorov–Smirnov two-sample tests between simulated and empirical range size and occurrence frequency distributions.
+
+* **./results/SLD/**
+This folder contains total displacement results between pair-wise combinations of diversity curves.
+
+* **./results/corr_test/**
+This folder contains results from Pearson's correlation coefficient tests between pair-wise combinations of diversity curves.
+
+* **./results/KS_test/**
+This folder contains results from Kolmogorov–Smirnov two-sample tests between pair-wise combinations of diversity curves.
+
+* **./results/max_lat/**
+This folder contains results related to the palaeolatitudinal bin with peak richness.
+
+* **./results/Global/**
+This folder contains results related to global sampled richness.
 
 -------
