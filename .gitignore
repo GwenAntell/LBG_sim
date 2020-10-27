@@ -29,7 +29,7 @@
 *.Rproj.user
 *.gitattributes
 *.Rhistory
-.RData
+*.RData
 *.Ruserdata
 *.DS_Store
   data/DEMs/*
