@@ -17,6 +17,9 @@ source("./R/figures/combine_sampling_plots.R") #combine spatial sampling plots
 rm(list=ls())
 source("./R/figures/global_sampling_plot.R") #global sampling plot
 rm(list=ls())
+source("./R/figures/GIF.R") #generate GIF and spatial sampling grid plots 
+rm(list=ls())
+
 
 #frequency distributions
 source("./R/subscripts/range_freq_dist.R") #range frequency distribution analyses

@@ -7,7 +7,8 @@ dir.create("./data/raw_data/binned_collections/masked/")
 
 for(i in 1:nrow(time_bins)){
   name <- tolower(as.character(time_bins$name[i]))
-  tmp <- subset(collections, mid_ma > time_bins$min_age[i] & mid_ma < time_bins$max_age[i])
+  tmp <- subset(collections, max_ma <= time_bins$max_age[i] & min_ma >= time_bins$min_age[i])
+  
   write.csv(tmp, paste("./data/raw_data/binned_collections/", name, ".csv", sep = ""))
   
   mask <- raster::raster(paste("./data/shallow_marine_grids/", name, ".asc", sep = ""))

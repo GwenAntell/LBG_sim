@@ -25,7 +25,7 @@ p$par.settings$layout.heights[
      'key.axis.padding',
      'main.key.padding'
   ) ] <- 1
-p
+print(p)
 dev.off()
 
 png("./figures/unimodal_type_plot.png", width = 200, height = 100, units = "mm", res = 600)
@@ -39,7 +39,7 @@ p$par.settings$layout.heights[
      'key.axis.padding',
      'main.key.padding'
   ) ] <- 1
-p
+print(p)
 dev.off()
 
 png("./figures/bimodal_type_plot.png", width = 200, height = 100, units = "mm", res = 600)
@@ -53,7 +53,7 @@ p$par.settings$layout.heights[
      'key.axis.padding',
      'main.key.padding'
   ) ] <- 1
-p
+print(p)
 dev.off()
 
 p <- c("./figures/flat_type_plot.png", "./figures/unimodal_type_plot.png", "./figures/bimodal_type_plot.png")
