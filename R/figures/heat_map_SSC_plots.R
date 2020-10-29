@@ -28,7 +28,7 @@ ssc_plot <- ggplot() +
   geom_tile(data = stages, aes(x = mid_age, y = 95, width = duration, height = 10), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 95, label = abbr), color = "black", size = 4) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 30)) +
-  scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 3)) +
+  scale_x_reverse(expand=c(0,0), breaks = seq(0, 298.900, 50), limits = c(298.900, 2.588)) +
   coord_fixed(ratio = 0.8) +
   labs(x = "Time (Ma)", y = expression(bold(paste("Palaeolatitude (",degree,")")))) +
   theme(

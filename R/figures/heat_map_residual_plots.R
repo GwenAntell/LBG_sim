@@ -255,5 +255,5 @@ p <- ggarrange(FlatSimSamp, UnimodalSimSamp,  BimodalSimSamp, FlatSimRare, Unimo
                ncol=3, nrow=2, widths = c(1,1,1,1,1,1), common.legend = TRUE, font.label = list(size = 12), legend="bottom", labels = "auto", align = "v", label.x = 0.15)
 
 p
-ggsave("./figures/heat_map_residual.png", plot = p, width = 300, height = 160, units = "mm", dpi = 300)
+ggsave("./figures/heat_map_residual.png", plot = p, width = 300, height = 160, units = "mm", dpi = 600)
 #ggsave("./figures/heat_map_residual.pdf", plot = p, width = 14.9606, height = 8.26772, useDingbats = FALSE)

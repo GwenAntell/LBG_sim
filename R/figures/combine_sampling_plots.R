@@ -11,7 +11,7 @@ plots <- lapply(p,function(x){
   plot
 })
 
-g <- ggarrange(plots[[1]], plots[[2]], labels = "auto", nrow = 1, ncol = 2, font.label = list(size = 14))
+g <- ggarrange(plots[[1]], plots[[2]], labels = "auto", nrow = 2, ncol = 1, font.label = list(size = 18))
 
-ggsave("./figures/sampling_plot.png",g,width = 280, height = 100, units = "mm", dpi = 600)
+ggsave("./figures/sampling_plot.png",g,width = 200, height = 280, units = "mm", dpi = 600)
 
