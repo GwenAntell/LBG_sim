@@ -56,7 +56,7 @@ for(i in 1:nrow(periods)){
 }
 #---------------------------------
 #layout
-png("./figures/linear_models_MST.png", height = 220, width = 220, unit = "mm", res = 900)
+png("./figures/linear_models_MST.png", height = 220, width = 220, unit = "mm", res = 600)
 
 m <- matrix(c(1,2,3,4,5,6,7,8,9,10,10,10),nrow = 4,ncol = 3,byrow = TRUE)
 layout(mat = m,heights = c(0.8, 0.8, 0.8, 0.1))
