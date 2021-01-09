@@ -1,28 +1,46 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"20473",35263,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 1a-b",NA,"",112,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,1
-"20474",35264,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 1c",NA,"",103,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,1
-"20475",35265,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 2",NA,"",130,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,1
-"20476",35266,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 3",NA,"",146,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,1
-"20477",35267,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 4, Selandian, Denmark",NA,"",125,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,1
-"33117",51500,"col","Lellinge Greensand",10.466667,55.483334,"Klintebjerg",NA,"",61,"Selandian","",61.6,59.2,13698,"gp_mid",17.38,44.7,"302",60.4,1
-"49788",74643,"col","",11.065556,52.280556,"Walbeck",NA,"",24,"Selandian","",61.6,59.2,25122,"gp_mid",17.65,41.48,"315",60.4,1
-"53007",80977,"col","Hornerstown",-74.75,39.93,"Vincentown (Bryan collection, Hornerstown Fm)",NA,"",1,"Selandian","",61.6,59.2,27244,"gp_mid",-43.33,40.03,"109",60.4,1
-"60816",92156,"col","Porters Creek",-84.309166,32.238335,"M 328",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-55.86,35.47,"109",60.4,1
-"61002",92371,"col","Naheola",-85.047218,31.609167,"PRI 2219",NA,"",5,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",60.4,1
-"65866",98639,"col","Porters Creek",-85.047218,31.609167,"M 887",NA,"",0,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",60.4,1
-"92189",133217,"col","",-6.683333,32.650002,"Sidi Chennane quarries, bed IIa",NA,"Lahimia selloumi type",11,"Selandian","",61.6,59.2,42871,"gp_mid",0.64,21.45,"707",60.4,1
-"108142",153343,"col","Fort Gaines",-85.239998,31.51,"Roadcut (SW Section) in Henry County",NA,"",1,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",60.4,1
-"108143",153344,"col","Clayton",-85.239998,31.51,"NW1/4 Section 12 in Henry County",NA,"",2,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",60.4,1
-"112368",159792,"col","",12.566667,55.666943,"Vestre Gasværk",NA,"",32,"Selandian","",61.6,59.2,52128,"gp_mid",19.06,44.83,"302",60.4,1
-"112369",159793,"col","Lellinge Greensand",12.597222,55.711388,"Sundkrogen [Lellinge Greensand]",NA,"",36,"Selandian","",61.6,59.2,52128,"gp_mid",19.09,44.87,"302",60.4,1
-"112370",159794,"col","",12.653889,55.649723,"Kongedyb",NA,"",22,"Selandian","",61.6,59.2,52128,"gp_mid",19.13,44.81,"302",60.4,1
-"112371",159795,"col","Lellinge Greensand",12.621389,55.63139,"Gemmas Allé [Lellinge Greensand]",NA,"",14,"Selandian","",61.6,59.2,52128,"gp_mid",19.11,44.79,"302",60.4,1
-"112828",160393,"col","Lellinge Greensand",12.609444,55.629444,"Gemmas Allé (conglomerate)",NA,"Amager; Tårnby Torv",2,"Selandian","",61.6,59.2,52305,"gp_mid",19.1,44.79,"302",60.4,1
-"117285",167480,"col","Syzran",46.985001,51.849998,"Upstream of Voskresenskoe",NA,"",1,"Selandian","",61.6,59.2,54655,"gp_mid",47.04,41.78,"302",60.4,1
-"124500",179310,"col","Kivinje",39.677223,-10.020556,"Petruny MS Thesis TDP Site 27",NA,"",45,"Selandian","",61.6,59.2,59257,"gp_mid",38.62,-27.81,"701",60.4,1
-"127318",183887,"col","Khadro",70.120003,29.950001,"Fossil Bed F.1836, Rakhi Nala",NA,"",2,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",60.4,1
-"127355",183924,"col","Khadro",70.120003,29.950001,"Fossil Bed F.1838, Rakhi Nala",NA,"",1,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",60.4,1
-"130010",188443,"col","Tienen",4.074795,50.330662,"Grand-Reng",NA,"",1,"Selandian","",61.6,59.2,29875,"gp_mid",11.75,39.8,"315",60.4,1
-"133947",196766,"col","Kerteminde Marl",10.35,55.560001,"Gundstrup gravel pit",NA,"",3,"Selandian","",61.6,59.2,67001,"gp_mid",17.29,44.78,"302",60.4,1
-"142754",211012,"col","Lellinge Greensand",12.598268,55.683025,"Larsens Plads",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.09,44.84,"302",60.4,1
-"142755",211014,"col","Lellinge Greensand",12.56754,55.660275,"Copenhagen South Harbour",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.06,44.82,"302",60.4,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"20473",35263,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 1a-b",NA,"",112,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"20474",35264,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 1c",NA,"",103,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"20475",35265,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 2",NA,"",130,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"20476",35266,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 3",NA,"",146,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"20477",35267,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 4, Selandian, Denmark",NA,"",125,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"33117",51500,"col","Lellinge Greensand",10.47,55.48,"Klintebjerg",NA,"",61,"Selandian","",61.6,59.2,13698,"gp_mid",17.38,44.7,"302",60.4,"selandian",7918,10.0375,49.4083,18,1
+"45793",68431,"col","Heers",5,50.71,"Maret",NA,"",7,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",60.4,"selandian",11112,3.5622,44.2895,18,1
+"45794",68432,"col","Hannut",5,50.71,"Maret (Tuffeau de Lincent)",NA,"",2,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",60.4,"selandian",11112,3.5622,44.2895,18,1
+"46174",68822,"col","Waipara Greensand",172.6,-43.07,"Waipara River M34/f453",NA,"",5,"Selandian","",61.6,59.2,19864,"gp_mid",-151.52,-48.23,"807",60.4,"selandian",11215,-155.5366,-57.3365,18,1
+"52286",79300,"col","",14,45.73,"Dolenja vas West, Bed 22",NA,"Dolenja vas, Bed 22",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",60.4,"selandian",12995,18.5265,34.2836,18,1
+"52287",79301,"col","",14,45.73,"Dolenja vas West, Bed 23",NA,"Dolenja vas, Bed 23",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",60.4,"selandian",12995,18.5265,34.2836,18,1
+"53603",82060,"col","Landana",12.13,-5.22,"Bed 4, Landana Section",NA,"",4,"Selandian","",61.6,59.2,27671,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18,1
+"53604",195086,"col","Landana",12.13,-5.23,"Landana Section (layer 1)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"56351",85839,"col","Waipara Greensand",172.53,-43.03,"Waipara River M34/fl138",NA,"",3,"Selandian","",61.6,59.2,19864,"gp_mid",-151.59,-48.2,"807",60.4,"selandian",14420,-155.5366,-57.3365,18,1
+"56583",86259,"col","Porters Creek",-87.43,31.02,"PRI Matthews Landing 1",NA,"",1,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",60.4,"selandian",14549,-65.966,32.25,18,1
+"56584",86262,"col","Porters Creek",-87.43,31.02,"PRI Matthews Landing 2",NA,"",4,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",60.4,"selandian",14549,-65.966,32.25,18,1
+"63895",95909,"col","Mead Hill",174.07,-41.92,"P30/f461 Woodside Creek",NA,"",55,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",60.4,"selandian",16927,-155.5366,-57.3365,18,1
+"63896",95910,"col","Mead Hill",174.07,-41.92,"P30/f376 Woodside Creek",NA,"",39,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",60.4,"selandian",16927,-155.5366,-57.3365,18,1
+"77410",113759,"col","Landana",12.19,-5.55,"Landana cliffs (layer 8)",NA,"Congosaurus bequaerti type locality",2,"Selandian","",61.6,59.2,54617,"gp_mid",9.66,-19.82,"701",60.4,"selandian",21731,4.954,-13.9326,18,1
+"82103",119661,"col","Kauru",170.75,-45.06,"J41/f220",NA,"Raupo Creek; Five Forks",3,"Selandian","",61.6,59.2,38383,"gp_mid",-153.68,-50.17,"807",60.4,"selandian",22897,-155.886,-59.8298,18,1
+"92189",133217,"col","",-6.68,32.65,"Sidi Chennane quarries, bed IIa",NA,"Lahimia selloumi type",11,"Selandian","",61.6,59.2,42871,"gp_mid",0.64,21.45,"707",60.4,"selandian",25576,-6.9563,25.926,18,1
+"98820",141255,"col","",-66.94,-45.05,"Las Violetas",NA,"",0,"Selandian","",61.6,59.2,45812,"gp_mid",-56.44,-47.04,"291",60.4,"selandian",27398,-53.5642,-47.8186,18,1
+"112368",159792,"col","",12.57,55.67,"Vestre Gasværk",NA,"",32,"Selandian","",61.6,59.2,52128,"gp_mid",19.06,44.83,"302",60.4,"selandian",30151,10.0375,49.4083,18,1
+"112369",159793,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen [Lellinge Greensand]",NA,"",36,"Selandian","",61.6,59.2,52128,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18,1
+"112370",159794,"col","",12.65,55.65,"Kongedyb",NA,"",22,"Selandian","",61.6,59.2,52128,"gp_mid",19.13,44.81,"302",60.4,"selandian",30152,10.0375,49.4083,18,1
+"112371",159795,"col","Lellinge Greensand",12.62,55.63,"Gemmas Allé [Lellinge Greensand]",NA,"",14,"Selandian","",61.6,59.2,52128,"gp_mid",19.11,44.79,"302",60.4,"selandian",30153,10.0375,49.4083,18,1
+"112828",160393,"col","Lellinge Greensand",12.61,55.63,"Gemmas Allé (conglomerate)",NA,"Amager; Tårnby Torv",2,"Selandian","",61.6,59.2,52305,"gp_mid",19.1,44.79,"302",60.4,"selandian",30319,10.0375,49.4083,18,1
+"114277",162251,"col","Getkilna",163.78,60.92,"Unspecified localities [Getkilna Fm]",NA,"",9,"Selandian","",61.6,59.2,52858,"gp_mid",151.88,70.92,"405",60.4,"selandian",30656,162.4745,69.3781,18,1
+"116883",166826,"col","Landana",12.13,-5.22,"Landana Cliffs (lower part)",NA,"",2,"Selandian","",61.6,59.2,54493,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18,1
+"117285",167480,"col","Syzran",46.99,51.85,"Upstream of Voskresenskoe",NA,"",1,"Selandian","",61.6,59.2,54655,"gp_mid",47.04,41.78,"302",60.4,"selandian",31483,43.9558,48.7272,18,1
+"125126",180400,"col","Manantial",-72.68,11.11,"UCMP C-14091, Manantial",NA,"",32,"Selandian","",61.6,59.2,59868,"gp_mid",-51.94,9.19,"203",60.4,"selandian",33179,-56.3682,6.4061,18,1
+"130010",188443,"col","Tienen",4.07,50.33,"Grand-Reng",NA,"",1,"Selandian","",61.6,59.2,29875,"gp_mid",11.75,39.8,"315",60.4,"selandian",34364,3.5622,44.2895,18,1
+"132969",195087,"col","Landana",12.13,-5.23,"Landana Section (layer 2)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132970",195088,"col","Landana",12.13,-5.23,"Landana Section (layer 3)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132971",195089,"col","Landana",12.13,-5.23,"Landana Section (layer 5)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132972",195090,"col","Landana",12.13,-5.23,"Landana Section (layer 6)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132973",195091,"col","Landana",12.13,-5.23,"Landana Section (layer 11)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132974",195092,"col","Landana",12.13,-5.23,"Landana Section (layer 12)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132975",195093,"col","Landana",12.13,-5.23,"Landana Section (layer 14)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"132976",195094,"col","Landana",12.13,-5.23,"Landana Section (layers 1-18)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18,1
+"133947",196766,"col","Kerteminde Marl",10.35,55.56,"Gundstrup gravel pit",NA,"",3,"Selandian","",61.6,59.2,67001,"gp_mid",17.29,44.78,"302",60.4,"selandian",35177,10.0375,49.4083,18,1
+"137784",203526,"col","Landana",12.13,-5.22,"PaleoAngola locality Landana 1",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18,1
+"137785",203527,"col","Landana",12.13,-5.22,"PaleoAngola locality Landana 1 (1-2 m higher)",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18,1
+"142754",211012,"col","Lellinge Greensand",12.6,55.68,"Larsens Plads",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.09,44.84,"302",60.4,"selandian",37464,10.0375,49.4083,18,1
+"142755",211014,"col","Lellinge Greensand",12.57,55.66,"Copenhagen South Harbour",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.06,44.82,"302",60.4,"selandian",37465,10.0375,49.4083,18,1

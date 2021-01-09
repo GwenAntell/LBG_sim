@@ -1,54 +1,281 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"14529",28479,"col","",45.174999,59.783333,"Vakhnevo locality",NA,"Vachnevo, Vahnevo, Wachnjewo; Sharzhenga River, Sharjenga River, Fluss Scharschenga; Yug River Basin",9,"Olenekian","",251.2,247.2,7854,"gp_mid",48.59,44.05,"302",249.2,1
-"21703",37036,"col","Sludka",48.575001,60.416668,"Korzhinskoye",NA,"Korzha, Korzhinskii; Luza River",1,"Olenekian","",251.2,247.2,9808,"gp_mid",50.18,45.47,"302",249.2,1
-"21705",37038,"col","Kzylsaiskaya",52.656387,52.34639,"Markovka II, level 1",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,1
-"22729",38528,"col","",19.633333,50.133331,"Czatkowice 1 quarry",NA,"",15,"Olenekian","",251.2,247.2,10334,"gp_mid",36.5,29.56,"305",249.2,1
-"26875",44131,"col","",69,34,"Surch-Ab River, Pakhtia Province, Collection S1136A",NA,"",3,"Olenekian","",251.2,247.2,11170,"gp_mid",66.05,-26.05,"506",249.2,1
-"26886",44172,"col","",69,34,"Surch-Ab River, Pakhtia Province, Collection S1136B",NA,"",1,"Olenekian","",251.2,247.2,11170,"gp_mid",66.05,-26.05,"506",249.2,1
-"56162",85454,"col","Yarenskian",49.558334,62.058334,"Zheshart",NA,"Vychegda River, Vichegda River, Zheshard",7,"Olenekian","",251.2,247.2,28843,"gp_mid",49.48,47.11,"302",249.2,1
-"61600",93201,"col","Kzylsaiskaya",52.656387,52.34639,"Markovka II, level 2",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,1
-"61601",93202,"col","Kzylsaiskaya",52.656387,52.34639,"Markovka II, level 3",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,1
-"61602",93203,"col","Kzylsaiskaya",52.656387,52.34639,"Markovka II, level 4",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,1
-"62009",93775,"col","",45.5,59.716667,"Kudrino village",NA,"Yug River Basin",2,"Olenekian","",251.2,247.2,31479,"gp_mid",48.84,44.08,"302",249.2,1
-"63181",95169,"col","",169.766663,-46.400002,"H46/f342, Willsher Bay, Otago",NA,"",6,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,1
-"63182",95170,"col","",169.766663,-46.400002,"H46/f265, Willsher Bay, Otago",NA,"",10,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,1
-"63183",95171,"col","",169.766663,-46.400002,"H46/f343, Willsher Bay, Otago",NA,"",7,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,1
-"63184",95172,"col","",169.766663,-46.400002,"H46/f344, Willsher Bay, Otago",NA,"",9,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,1
-"63657",95659,"col","Qinglong",117.544998,30.455,"Dalongshan Section Bed 6, Panjiaqiao, Guichi",NA,"",2,"Olenekian","",251.2,247.2,32482,"gp_mid",116.94,-6.3,"611",249.2,1
-"63658",95660,"col","Qinglong",117.544998,30.455,"Dalongshan Section Bed 7, Panjiaqiao, Guichi",NA,"",1,"Olenekian","",251.2,247.2,32482,"gp_mid",116.94,-6.3,"611",249.2,1
-"65277",97989,"col","Beisi",108.26667,23.166668,"Fupingtun, Dengliu",NA,"",1,"Olenekian","",251.2,247.2,33873,"gp_mid",109.9,-14.88,"611",249.2,1
-"70150",105043,"col","Rybinsk",39.044998,58.021,"Tikhvinskoe (PIN collection 4048)",NA,"",7,"Olenekian","",251.2,247.2,35141,"gp_mid",45.95,41,"302",249.2,1
-"70203",105105,"col","Yongningzhen",105.300003,26.09,"Langdai County, Yongningzhen Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",106.83,-12.26,"611",249.2,1
-"70209",105111,"col","Yongningzhen",105.099998,26.030001,"Qinglong County, Yongningzhen Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",106.65,-12.34,"611",249.2,1
-"72655",108195,"col","",106.870003,26.514999,"Gujiao, Longli County",NA,"",1,"Olenekian","",251.2,247.2,32416,"gp_mid",108.22,-11.7,"611",249.2,1
-"78325",114768,"col","",11.056,50.724998,"Singen",NA,"",6,"Olenekian","",251.2,247.2,37195,"gp_mid",30.28,28.76,"305",249.2,1
-"78326",114769,"col","",11.446,50.108002,"Kulmbach",NA,"",1,"Olenekian","",251.2,247.2,37197,"gp_mid",30.71,28.22,"305",249.2,1
-"78329",114772,"col","",11.801,51.541,"Gödewitz near Salzmünde",NA,"",2,"Olenekian","",251.2,247.2,50652,"gp_mid",30.59,29.66,"315",249.2,1
-"80821",118149,"col","",8.6,48.583332,"Altensteig",NA,"",1,"Olenekian","",251.2,247.2,38050,"gp_mid",29.03,26.34,"305",249.2,1
-"80822",118150,"col","",8.683333,48.683334,"Bad Teinach",NA,"",1,"Olenekian","",251.2,247.2,38050,"gp_mid",29.07,26.45,"305",249.2,1
-"89860",130301,"col","",175.005005,-36.789001,"Horizon R10/f177/2.4, WHK1 Section, Waiheke Island",NA,"",4,"Olenekian","",251.2,247.2,42231,"gp_mid",140.15,-86.29,"806",249.2,1
-"89861",130302,"col","",175.005005,-36.789001,"Horizon R10/f177/3.8, WHK1 Section, Waiheke Island",NA,"",3,"Olenekian","",251.2,247.2,42231,"gp_mid",140.15,-86.29,"806",249.2,1
-"89862",130303,"col","",175.005005,-36.789001,"Horizon R10/f177/4.1, WHK1 Section, Waiheke Island",NA,"",1,"Olenekian","",251.2,247.2,42231,"gp_mid",140.15,-86.29,"806",249.2,1
-"89871",130313,"col","Dalmon",76.059998,32.849998,"Dalmon Formation, Chamba District",NA,"",1,"Olenekian","",251.2,247.2,42236,"gp_mid",54.4,-36.34,"501",249.2,1
-"93184",134516,"col","",10.016667,50.816666,"Vacha",NA,"",1,"Olenekian","",251.2,247.2,43249,"gp_mid",29.52,28.71,"305",249.2,1
-"97970",140081,"col","Luolou",107.040001,24.549999,"Kangdong, Fengshan",NA,"",1,"Olenekian","",251.2,247.2,45219,"gp_mid",108.59,-13.64,"611",249.2,1
-"100458",143196,"col","Staritskaya",51.769169,52.805,"Mechet' II (Locality 180)",NA,"Mechet II",2,"Olenekian","",251.2,247.2,46397,"gp_mid",57.53,39.82,"302",249.2,1
-"109683",155297,"col","",11.8,51.580002,"Trebitz, on left bank of Saale opposite Wettin",NA,"",1,"Olenekian","",251.2,247.2,50652,"gp_mid",30.58,29.7,"315",249.2,1
-"130633",189566,"col","Yarenskian",45.966667,61.897499,"Yarenga River, PIN 1584",NA,"",2,"Olenekian","",251.2,247.2,57795,"gp_mid",47.53,46.07,"302",249.2,1
-"130830",190071,"col","Gamskaya",48.909721,60.565277,"Lyapomoz, PIN 4833",NA,"",1,"Olenekian","",251.2,247.2,63910,"gp_mid",50.27,45.68,"302",249.2,1
-"131937",192167,"col","Vetluga Series",45.153713,57.181122,"Zubovskoye, Vetluga River",NA,"",1,"Olenekian","",251.2,247.2,28828,"gp_mid",50.33,41.78,"302",249.2,1
-"131939",192169,"col","Kzylsaiskaya",51.343613,52.711945,"Korneevka II (Locality 193)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.29,39.61,"302",249.2,1
-"133316",195786,"col","Kamennyi Yar",51.69611,52.807499,"Kamennyi Dol gully (upper)",NA,"",6,"Olenekian","",251.2,247.2,66639,"gp_mid",57.47,39.8,"302",249.2,1
-"133323",195797,"col","Mechet'",51.779167,52.797222,"Mechet' I (lower) (Locality 179)",NA,"Novaya Tavolzhanka, Mechet I",7,"Olenekian","",251.2,247.2,28844,"gp_mid",57.54,39.82,"302",249.2,1
-"133391",195872,"col","Kzylsaiskaya",52.714722,52.362221,"Kamenny I (Locality 103)",NA,"",3,"Olenekian","",251.2,247.2,28844,"gp_mid",58.46,39.72,"302",249.2,1
-"133497",196029,"col","Kzylsaiskaya",52.411667,52.359722,"Malaya Pogromka I (Locality 117)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.25,39.63,"302",249.2,1
-"133498",196030,"col","Kzylsaiskaya",52.332779,52.351112,"Pavelev Yar (Locality 120)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.2,39.6,"302",249.2,1
-"133504",196036,"col","Kzylsaiskaya",52.22028,52.24139,"Vasil'evka III (Locality 136)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.2,39.47,"302",249.2,1
-"133509",196041,"col","Kzylsaiskaya",51.927223,52.49778,"Rodionovka IV (upper) (Locality 149)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",57.83,39.6,"302",249.2,1
-"133511",196043,"col","Kzylsaiskaya",52.00861,52.624168,"Surykovo I (Locality 160)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.81,39.74,"302",249.2,1
-"133542",196081,"col","Kzylsaiskaya",51.644722,52.763611,"Ternovoe (Locality 186)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.47,39.75,"302",249.2,1
-"133544",196083,"col","Kzylsaiskaya",51.330002,52.718334,"Korneevka I (Locality 192)",NA,"",3,"Olenekian","",251.2,247.2,28844,"gp_mid",57.28,39.61,"302",249.2,1
-"133545",196084,"col","Kzylsaiskaya",51.315277,52.496666,"Alekseevka II (Locality 195)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",57.41,39.42,"302",249.2,1
-"134512",197697,"col","Rybinsk",44.569721,58.701111,"Unzha River Basin",NA,"",1,"Olenekian","",251.2,247.2,30410,"gp_mid",48.96,42.96,"302",249.2,1
-"137297",202947,"col","",135.622772,44.551388,"River Rudnaya at Dalnegorsk (Sample P-166)",NA,"",1,"Olenekian","",251.2,247.2,69522,"gp_mid",145.3,21.71,"628",249.2,1
-"144082",213031,"col","",169.796387,-46.415279,"Between Kaka Point and Nugget Point",NA,"",1,"Olenekian","",251.2,247.2,36275,"gp_mid",-24.57,-88.86,"807",249.2,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"13961",27343,"col","Lipovskaya",43.67,49.26,"Lipovskaya gully (Donskaya Luka)",NA,"Lipovaya Balka",28,"Olenekian","",251.2,247.2,7550,"gp_mid",53.92,34.33,"302",249.2,"olenekian",2710,41.0099,41.1651,48,1
+"14529",28479,"col","",45.17,59.78,"Vakhnevo locality",NA,"Vachnevo, Vahnevo, Wachnjewo; Sharzhenga River, Sharjenga River, Fluss Scharschenga; Yug River Basin",9,"Olenekian","",251.2,247.2,7854,"gp_mid",48.59,44.05,"302",249.2,"olenekian",2837,29.6875,47.012,48,1
+"17148",31368,"col","Vikinghøgda",23,78,"Lusitaniadalen Member, Vikinghøgda Formation, Svalbard Lower Triassic",NA,"",7,"Olenekian","",251.2,247.2,8474,"gp_mid",24.13,56.04,"311",249.2,"olenekian",3479,1.2485,49.1374,48,1
+"17149",31369,"col","Vikinghøgda",23,78,"Vendomdalen Member, Vikinghøgda Formation, Svalbard Lower Triassic",NA,"",19,"Olenekian","",251.2,247.2,8474,"gp_mid",24.13,56.04,"311",249.2,"olenekian",3479,1.2485,49.1374,48,1
+"18191",32501,"col","Feihsienkuan",120.83,31.63,"Ophiuroids, Middle Triassic, Gulin, Sichuan",NA,"",1,"Olenekian","",251.2,247.2,8764,"gp_mid",117.88,4.04,"604",249.2,"olenekian",3647,123.2148,30.7037,48,1
+"19872",124642,"col","Ulakhan-Krest",127.82,71.74,"Ol`khovyi Creek Exp. K-1  (Ulakhan-Krest Formation 1)",NA,"",2,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.79,"401",249.2,"olenekian",3960,-11.4414,72.1931,48,1
+"21703",37036,"col","Sludka",48.58,60.42,"Korzhinskoye",NA,"Korzha, Korzhinskii; Luza River",1,"Olenekian","",251.2,247.2,9808,"gp_mid",50.18,45.47,"302",249.2,"olenekian",4423,31.1073,48.6263,48,1
+"21705",37038,"col","Kzylsaiskaya",52.66,52.35,"Markovka II, level 1",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,"olenekian",4425,42.1659,46.4143,48,1
+"26875",44131,"col","",69,34,"Surch-Ab River, Pakhtia Province, Collection S1136A",NA,"",3,"Olenekian","",251.2,247.2,11170,"gp_mid",66.05,-26.05,"506",249.2,"olenekian",5945,69.2571,42.2871,48,1
+"26886",44172,"col","",69,34,"Surch-Ab River, Pakhtia Province, Collection S1136B",NA,"",1,"Olenekian","",251.2,247.2,11170,"gp_mid",66.05,-26.05,"506",249.2,"olenekian",5945,69.2571,42.2871,48,1
+"27003",44301,"col","Thaynes",-111.54,43.41,"AMNH B8251",NA,"",3,"Olenekian","",251.2,247.2,11472,"gp_mid",-31.28,26.65,"101",249.2,"olenekian",6001,-42.7734,18.2941,48,1
+"27005",44303,"col","Thaynes",-112.8,44.68,"AMNH B8834, Hidden Pasture",NA,"",1,"Olenekian","",251.2,247.2,11472,"gp_mid",-35.46,29.41,"127",249.2,"olenekian",6002,-41.6253,20.5475,48,1
+"27496",44754,"col","Bac Thuy",106.5,21.75,"Lower Bac Thuy Formation, An Chau Basin, NE Vietnam",NA,"",4,"Olenekian","",251.2,247.2,11693,"gp_mid",108.39,-16.48,"611",249.2,"olenekian",6168,120.3735,7.1586,48,1
+"27497",44755,"col","Bac Thuy",106.5,21.75,"Upper Bac Thuy Formation, An Chau Basin, NE Vietnam",NA,"",3,"Olenekian","",251.2,247.2,11693,"gp_mid",108.39,-16.48,"611",249.2,"olenekian",6168,120.3735,7.1586,48,1
+"27502",44760,"col","Pa Khom",103.9,21.33,"Son La Section, Locality 275, Son La Province",NA,"",3,"Olenekian","",251.2,247.2,30057,"gp_mid",102.74,-17.18,"615",249.2,"olenekian",6172,120.3735,7.1586,48,1
+"27503",44761,"col","Pa Khom",103.9,21.33,"Son La Section, Locality 276, Son La Province",NA,"",2,"Olenekian","",251.2,247.2,30057,"gp_mid",102.74,-17.18,"615",249.2,"olenekian",6172,120.3735,7.1586,48,1
+"27505",44762,"col","Tan Lac",104,21.5,"Tan Lac Formation, Song Da Basin, NW Vietnam",NA,"",4,"Olenekian","",251.2,247.2,11693,"gp_mid",102.78,-16.99,"615",249.2,"olenekian",6173,120.3735,7.1586,48,1
+"27561",44818,"col","Gua Musang",102,4.92,"Middle Gua Musang Formation, Gua Musang, Central Malaysia",NA,"",4,"Olenekian","",251.2,247.2,11693,"gp_mid",103.94,-20.48,"619",249.2,"olenekian",6204,118.9883,-12.499,48,1
+"28492",45912,"col","",129.75,70.5,"Nonammonoid cephalopods of the Western Verkhoyansk Range, Kharaulakhsk Mountains",NA,"",3,"Olenekian","",251.2,247.2,12227,"gp_mid",55.14,76.81,"401",249.2,"olenekian",6536,-14.4968,74.8292,48,1
+"28496",45916,"col","",132,65,"Nonammonoid cephalopods of Verkhoyansk Range, Basin of Syngynakh River",NA,"",1,"Olenekian","",251.2,247.2,12227,"gp_mid",80.17,78.55,"401",249.2,"olenekian",6537,-12.3826,79.8084,48,1
+"29046",46532,"col","",46.5,45.25,"Eastern Ciscaucasia, Carbonate/Clastic carbonate Formation",NA,"",12,"Olenekian","",251.2,247.2,12411,"gp_mid",58.04,31.53,"302",249.2,"olenekian",6756,45.8928,37.8746,48,1
+"36838",56709,"col","Ceratiten-schichten",71.77,32.53,"Chhidru",NA,"",1,"Olenekian","",251.2,247.2,15291,"gp_mid",52.47,-33.07,"501",249.2,"olenekian",8911,70.4362,-24.0581,48,1
+"41315",61721,"col","Thaynes",-111.43,42.22,"USGS 7631 green, Paris",NA,"",1,"Olenekian","",251.2,247.2,12032,"gp_mid",-31.7,25.53,"101",249.2,"olenekian",9971,-42.7734,18.2941,48,1
+"41320",61722,"col","Thaynes",-111.61,43.1,"USGS 7813 green, Crane Creek",NA,"",2,"Olenekian","",251.2,247.2,12032,"gp_mid",-31.47,26.38,"101",249.2,"olenekian",9974,-42.7734,18.2941,48,1
+"48587",72312,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level CH252, section G, Chios",NA,"",6,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48589",72314,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level CH253, section G, Chios",NA,"",2,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48590",72315,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level CH258n, section G, Chios",NA,"",6,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48594",72319,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level 182b, Parthenis section, Chios",NA,"",4,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48598",72323,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 1",NA,"",0,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48599",72324,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 2",NA,"",3,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48600",72325,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 4 (lower part)",NA,"",6,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48601",72326,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 5",NA,"",4,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48602",72327,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 7",NA,"",7,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48603",72328,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 8",NA,"",12,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48604",72329,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 9 (lower part)",NA,"",23,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48605",72330,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 10",NA,"",2,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48606",72331,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 11",NA,"",16,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48607",72332,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 12",NA,"",14,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48609",72334,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 14",NA,"",2,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48610",72335,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 15",NA,"",4,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48611",72336,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 16",NA,"",9,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48612",72337,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 17 (lower part)",NA,"",21,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48613",72338,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 19",NA,"",4,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48614",72339,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 20",NA,"",3,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48615",72340,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 22",NA,"",2,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48670",72418,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 1",NA,"",5,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48671",72419,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 4 (upper part)",NA,"",7,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48674",72422,"col","Tartalinskaya",51.4,44.36,"Dolnapa Section  Bed 9 (upper part)",NA,"",22,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48676",72424,"col","Karadzhatykskaya",51.4,44.36,"Dolnapa Section  Bed 17 (upper part)",NA,"",10,"Olenekian","",251.2,247.2,24527,"gp_mid",65.31,32.08,"402",249.2,"olenekian",11928,50.4677,41.8484,48,1
+"48707",73170,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level 182, Parthenis section, Chios",NA,"",1,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48708",73171,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level 183, Parthenis section, Chios",NA,"",10,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48711",73174,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level 184, Parthenis section, Chios",NA,"",8,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48713",73176,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level 185, Parthenis section, Chios",NA,"",2,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48717",73180,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 6a-c, Section A, Chios",NA,"",0,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48718",73181,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 6a-c, Section A, Chios",NA,"",8,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48719",73182,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 8, Section A, Chios",NA,"",3,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48720",73186,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 9, Section A, Chios",NA,"",6,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48721",73187,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 11, Section A, Chios",NA,"",8,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48723",73189,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 12, Section A, Chios",NA,"",6,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48724",73190,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 13, Section A, Chios",NA,"",3,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48725",73191,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 14, Section A, Chios",NA,"",1,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48726",73192,"col","Marmarotrapeza",26,38.42,"Ammonoidea, level  CH 23, Section A, Chios",NA,"",1,"Olenekian","",251.2,247.2,24529,"gp_mid",44.81,23.14,"510",249.2,"olenekian",11922,24.1117,3.9533,48,1
+"48732",73212,"col","Mikin",78.02,31.97,"Muth MO4 Bed 13B",NA,"",4,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48733",73213,"col","Mikin",78.02,31.97,"Muth MO4 Bed 14A",NA,"",5,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48735",73216,"col","Mikin",78.02,31.97,"Muth MO4 Bed 14B",NA,"",4,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48736",73217,"col","Mikin",78.02,31.97,"Muth MO4 Bed 14C",NA,"",3,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48737",73218,"col","Mikin",78.02,31.97,"Muth MO4 Bed 15A",NA,"",10,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48738",73219,"col","Mikin",78.02,31.97,"Muth MO4 Bed 15C",NA,"",4,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48739",73220,"col","Mikin",78.02,31.97,"Muth MO4 Bed 16C",NA,"",6,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48745",73226,"col","Mikin",78.02,31.97,"Muth MO3 Bed 16B",NA,"",2,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48746",73227,"col","Mikin",78.03,31.96,"Muth MO3 Bed 17",NA,"",2,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.22,"501",249.2,"olenekian",11950,75.4801,-28.4805,48,1
+"48751",73232,"col","",45.63,38.95,"Dzhul'fa Gorge, Nakhichevan",NA,"",2,"Olenekian","",251.2,247.2,24597,"gp_mid",57.18,9.71,"512",249.2,"olenekian",11952,55.3486,1.5634,48,1
+"48757",73238,"col","Mikin",78.02,31.97,"Muth MO6 Bed 15A",NA,"",3,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48758",73239,"col","Mikin",78.02,31.97,"Muth MO6 Bed 16C",NA,"",2,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48759",73240,"col","Mikin",78.02,31.97,"Muth MO6 Bed 15B",NA,"",1,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48761",73242,"col","Mikin",78.02,31.97,"Muth MO6 Bed 16A",NA,"",5,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48762",73243,"col","",45.23,39.6,"Dara-Demi Gorge, Nakhichevan",NA,"",2,"Olenekian","",251.2,247.2,24597,"gp_mid",57,10.4,"512",249.2,"olenekian",11954,55.3486,1.5634,48,1
+"48763",73244,"col","Mikin",78.02,31.97,"Muth MO4 Bed 16B",NA,"",6,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48764",73245,"col","Mikin",78.02,31.97,"Mud MO5 Bed 13B",NA,"",4,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48765",73246,"col","Mikin",78.02,31.97,"Mud MO5 Bed 13C",NA,"",2,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48766",73247,"col","Mikin",78.02,31.97,"Mud MO5 Bed 15A",NA,"",1,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48767",73248,"col","Mikin",78.02,31.97,"Mud MO5 Bed 15B",NA,"",0,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48769",73250,"col","Mikin",78.02,31.97,"Mud MO5 Bed 16B",NA,"",1,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"48770",73251,"col","Mikin",78.02,31.97,"Muth MO4 Bed 15B",NA,"",6,"Olenekian","",251.2,247.2,24526,"gp_mid",54.2,-38.21,"501",249.2,"olenekian",11947,75.4801,-28.4805,48,1
+"56162",85454,"col","Yarenskian",49.56,62.06,"Zheshart",NA,"Vychegda River, Vichegda River, Zheshard",7,"Olenekian","",251.2,247.2,28843,"gp_mid",49.48,47.11,"302",249.2,"olenekian",14373,27.7337,49.8078,48,1
+"59232",90008,"col","Lang Son",106.64,21.76,"Con Sang Section, Locality T2024, Lang Son Province",NA,"",2,"Olenekian","",251.2,247.2,30057,"gp_mid",108.52,-16.45,"611",249.2,"olenekian",15441,120.3735,7.1586,48,1
+"61516",93104,"col","",50.18,59.5,"Okunevo (Fedorovka River)",NA,"Vyatka River Basin",5,"Olenekian","",251.2,247.2,31386,"gp_mid",51.84,45.11,"302",249.2,"olenekian",16236,31.1073,48.6263,48,1
+"61600",93201,"col","Kzylsaiskaya",52.66,52.35,"Markovka II, level 2",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,"olenekian",4425,42.1659,46.4143,48,1
+"61601",93202,"col","Kzylsaiskaya",52.66,52.35,"Markovka II, level 3",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,"olenekian",4425,42.1659,46.4143,48,1
+"61602",93203,"col","Kzylsaiskaya",52.66,52.35,"Markovka II, level 4",NA,"Locality 102 (Tverdokhlebov et al., 2003); Soroka River",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.43,39.69,"302",249.2,"olenekian",4425,42.1659,46.4143,48,1
+"61604",93205,"col","Petropavlovka",55.24,50.81,"Kzyl Sai ravine",NA,"Kzyl Say, Kzyl-Sai, Kyzyl Sai, Kyzyl-Say Gorge",11,"Olenekian","",251.2,247.2,28844,"gp_mid",61.23,39.16,"302",249.2,"olenekian",16269,47.1091,46.9132,48,1
+"61681",93382,"col","Pizhmomezenskoi",48.78,64.56,"Mezenskaya Pizhma and Lower Syamzhen'ga",NA,"Pizhma-Mezenskaya, Pizhmo-Mezen' River; Lower Syamzhenga; Nizhnyaya Syamzhenga-III, Nizhnyaya Syamzhenga-IV, Nizhnyaya Syamzhenga-VIII, Nizhnyaya Syamzhenga-X, Nizhyaya Syamzhenga-XII, Pizhma-I; Mezen' River Basin",1,"Olenekian","",251.2,247.2,31491,"gp_mid",46.96,48.98,"302",249.2,"olenekian",16303,24.1989,50.8865,48,1
+"61684",93385,"col","Pizhmomezenskoi",48.05,64.56,"Vybor River localities",NA,"Vybor-II, Vybor-2; Mezen' River Basin",1,"Olenekian","",251.2,247.2,31491,"gp_mid",46.56,48.81,"302",249.2,"olenekian",16304,24.1989,50.8865,48,1
+"62009",93775,"col","",45.5,59.72,"Kudrino village",NA,"Yug River Basin",2,"Olenekian","",251.2,247.2,31479,"gp_mid",48.84,44.08,"302",249.2,"olenekian",16426,29.6875,47.012,48,1
+"62889",94877,"col","Thaynes",-111.43,43.41,"AMNH B7858, Conant Valley",NA,"",1,"Olenekian","",251.2,247.2,11472,"gp_mid",-31.2,26.63,"101",249.2,"olenekian",16601,-42.7734,18.2941,48,1
+"62892",94880,"col","Thaynes",-111.54,43.41,"AMNH B8830",NA,"",1,"Olenekian","",251.2,247.2,11472,"gp_mid",-31.28,26.65,"101",249.2,"olenekian",6001,-42.7734,18.2941,48,1
+"62893",94881,"col","Thaynes",-111.53,41.09,"AMNH B8840",NA,"",1,"Olenekian","",251.2,247.2,11472,"gp_mid",-32.24,24.5,"101",249.2,"olenekian",16602,-43.8921,16.0341,48,1
+"63181",95169,"col","",169.77,-46.4,"H46/f342, Willsher Bay, Otago",NA,"",6,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,"olenekian",16695,138.7965,-79.5985,48,1
+"63182",95170,"col","",169.77,-46.4,"H46/f265, Willsher Bay, Otago",NA,"",10,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,"olenekian",16695,138.7965,-79.5985,48,1
+"63183",95171,"col","",169.77,-46.4,"H46/f343, Willsher Bay, Otago",NA,"",7,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,"olenekian",16695,138.7965,-79.5985,48,1
+"63184",95172,"col","",169.77,-46.4,"H46/f344, Willsher Bay, Otago",NA,"",9,"Olenekian","",251.2,247.2,32413,"gp_mid",-25.17,-88.88,"807",249.2,"olenekian",16695,138.7965,-79.5985,48,1
+"63657",95659,"col","Qinglong",117.54,30.45,"Dalongshan Section Bed 6, Panjiaqiao, Guichi",NA,"",2,"Olenekian","",251.2,247.2,32482,"gp_mid",116.94,-6.3,"611",249.2,"olenekian",16846,129.6842,15.7996,48,1
+"63658",95660,"col","Qinglong",117.54,30.45,"Dalongshan Section Bed 7, Panjiaqiao, Guichi",NA,"",1,"Olenekian","",251.2,247.2,32482,"gp_mid",116.94,-6.3,"611",249.2,"olenekian",16846,129.6842,15.7996,48,1
+"65277",97989,"col","Beisi",108.27,23.17,"Fupingtun, Dengliu",NA,"",1,"Olenekian","",251.2,247.2,33873,"gp_mid",109.9,-14.88,"611",249.2,"olenekian",17344,123.8489,7.5065,48,1
+"70150",105043,"col","Rybinsk",39.04,58.02,"Tikhvinskoe (PIN collection 4048)",NA,"",7,"Olenekian","",251.2,247.2,35141,"gp_mid",45.95,41,"302",249.2,"olenekian",19369,29.4489,42.3944,48,1
+"70203",105105,"col","Yongningzhen",105.3,26.09,"Langdai County, Yongningzhen Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",106.83,-12.26,"611",249.2,"olenekian",19396,120.1408,9.648,48,1
+"70205",105107,"col","Tongjiezi",103.75,29.55,"Leshan County, Tongjiezi Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",105.16,-8.92,"611",249.2,"olenekian",19397,119.6641,14.6262,48,1
+"70206",105108,"col","Yongningzhen",103.75,29.55,"Leshan County, Yongningzhen Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",105.16,-8.92,"611",249.2,"olenekian",19397,119.6641,14.6262,48,1
+"70209",105111,"col","Yongningzhen",105.1,26.03,"Qinglong County, Yongningzhen Fm",NA,"",1,"Olenekian","",251.2,247.2,35163,"gp_mid",106.65,-12.34,"611",249.2,"olenekian",19399,120.1408,9.648,48,1
+"70465",105387,"col","Thaynes",-110.9,42.72,"Swift Creek Canyon, Lincoln County",NA,"",1,"Olenekian","",251.2,247.2,27437,"gp_mid",-31.09,25.85,"101",249.2,"olenekian",19506,-42.7734,18.2941,48,1
+"70468",105390,"col","Thaynes",-112.14,44.9,"Hogback Mountain, Thaynes Fm, Snowcrest Range",NA,"",1,"Olenekian","",251.2,247.2,27437,"gp_mid",-35.02,29.75,"127",249.2,"olenekian",19509,-41.6253,20.5475,48,1
+"70484",105406,"col","Thaynes",-111.23,40.75,"Mahogany Hills, Weber River, Summit County",NA,"",1,"Olenekian","",251.2,247.2,27437,"gp_mid",-32.14,24.1,"101",249.2,"olenekian",19519,-43.8921,16.0341,48,1
+"72655",108195,"col","",106.87,26.51,"Gujiao, Longli County",NA,"",1,"Olenekian","",251.2,247.2,32416,"gp_mid",108.22,-11.7,"611",249.2,"olenekian",20343,119.9047,12.1372,48,1
+"73135",108749,"col","Thaynes",-110.91,42.09,"USGS 7306i green, Cokeville Butte",NA,"",2,"Olenekian","",251.2,247.2,12032,"gp_mid",-31.36,25.26,"101",249.2,"olenekian",20458,-42.7734,18.2941,48,1
+"73139",108753,"col","Thaynes",-111.26,43.33,"USGS 7485 green, Montpelier Canyon",NA,"",1,"Olenekian","",251.2,247.2,12032,"gp_mid",-31.11,26.5,"101",249.2,"olenekian",20460,-42.7734,18.2941,48,1
+"73984",109729,"col","Thaynes",-112.08,43.1,"USGS 1304a-PC, Yandell Springs",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.82,26.52,"101",249.2,"olenekian",20680,-42.7734,18.2941,48,1
+"73985",109730,"col","Thaynes",-112.06,43.02,"USGS 1315-PC, Yandell Springs",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.84,26.44,"101",249.2,"olenekian",20681,-42.7734,18.2941,48,1
+"73989",109734,"col","Thaynes",-110.84,41.92,"USGS 3769 green, Waterloo Mountain",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.37,25.09,"101",249.2,"olenekian",20683,-42.7734,18.2941,48,1
+"73990",109735,"col","Thaynes",-111.26,42.11,"USGS 5013, Bear Lake Hot Springs",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.61,25.37,"101",249.2,"olenekian",20684,-42.7734,18.2941,48,1
+"73992",109737,"col","",-111.24,42.32,"USGS 7313 green, Montpelier",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.51,25.56,"101",249.2,"olenekian",20685,-42.7734,18.2941,48,1
+"73993",109738,"col","Thaynes",-111.26,43.33,"USGS 7376 green, Montpelier Canyon",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.11,26.5,"101",249.2,"olenekian",20460,-42.7734,18.2941,48,1
+"73995",109740,"col","Thaynes",-111.26,43.32,"USGS 7395 green, Montpelier Canyon",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.11,26.5,"101",249.2,"olenekian",20686,-42.7734,18.2941,48,1
+"73996",109741,"col","Thaynes",-111.26,43.33,"USGS 7397 green, Montpelier Canyon",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.11,26.5,"101",249.2,"olenekian",20460,-42.7734,18.2941,48,1
+"74000",109745,"col","Thaynes",-111.25,42.12,"USGS 7435 green, Bear Lake",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.6,25.38,"101",249.2,"olenekian",20687,-42.7734,18.2941,48,1
+"74001",109746,"col","Thaynes",-111.03,42.3,"USGS 7444 green, Sublette Range",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.36,25.48,"101",249.2,"olenekian",20688,-42.7734,18.2941,48,1
+"74002",109747,"col","Thaynes",-111.03,42.3,"USGS 7466 green, Raymond Canyon",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.36,25.48,"101",249.2,"olenekian",20688,-42.7734,18.2941,48,1
+"74003",109748,"col","Thaynes",-111.01,42.28,"USGS 7470 green, Sublette Range",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.36,25.46,"101",249.2,"olenekian",20689,-42.7734,18.2941,48,1
+"74004",109749,"col","Thaynes",-111.3,41.6,"USGS 7478 green, Woodruff Branch Hollow",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.85,24.91,"101",249.2,"olenekian",20690,-42.7734,18.2941,48,1
+"74008",109753,"col","Moenkopi",-113.28,37.15,"USGS 7787 green, 6 miles SW of Virgin City",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-35.19,21.34,"101",249.2,"olenekian",20692,-45.272,13.1136,48,1
+"74009",109754,"col","Thaynes",-111.24,42.82,"USGS 7825 green, Caribou County",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.3,26.02,"101",249.2,"olenekian",20693,-42.7734,18.2941,48,1
+"74013",109758,"col","Moenkopi",-115.5,35.43,"USGS 7897 green, Kokoweef Peak",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-37.66,20.42,"101",249.2,"olenekian",20695,-49.0611,11.8087,48,1
+"74014",109759,"col","Thaynes",-111.26,42.85,"USGS 823-PC, Caribou County",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.31,26.06,"101",249.2,"olenekian",20696,-42.7734,18.2941,48,1
+"74015",109760,"col","Thaynes",-111.25,42.9,"USGS 826-PC, Caribou County",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-31.28,26.1,"101",249.2,"olenekian",20697,-42.7734,18.2941,48,1
+"74023",109768,"col","Moenkopi",-112.54,36.9,"USGS 961 green, Fredonia",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-34.7,20.9,"101",249.2,"olenekian",20701,-45.272,13.1136,48,1
+"74024",109769,"col","",-113.69,39.41,"USGS M-108, Confusion Range",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-34.6,23.56,"101",249.2,"olenekian",20702,-43.8921,16.0341,48,1
+"74026",109771,"col","Moenkopi",-113.25,37.25,"USNM 9343, Kane County",NA,"",1,"Olenekian","",251.2,247.2,29015,"gp_mid",-35.13,21.43,"101",249.2,"olenekian",20703,-45.272,13.1136,48,1
+"78957",115801,"col","Thaynes",-111.47,43.43,"AMNH B8828, Conant Valley",NA,"",1,"Olenekian","",251.2,247.2,11472,"gp_mid",-31.23,26.65,"101",249.2,"olenekian",22097,-42.7734,18.2941,48,1
+"81764",119278,"col","Maresongduo",102.95,33.95,"Saierlangshan, Maresongduo Formation",NA,"",1,"Olenekian","",251.2,247.2,11701,"gp_mid",108.21,17.8,"602",249.2,"olenekian",22807,105.9186,39.1467,48,1
+"83217",120984,"col","Thaynes",-111.45,42.92,"John Gray's Lake (locality 1), Unit C",NA,"",1,"Olenekian","",251.2,247.2,38631,"gp_mid",-31.42,26.17,"101",249.2,"olenekian",23209,-42.7734,18.2941,48,1
+"83220",120987,"col","Thaynes",-111.71,42.92,"Reservoir Mountain (locality 3)",NA,"",2,"Olenekian","",251.2,247.2,38631,"gp_mid",-31.62,26.25,"101",249.2,"olenekian",23210,-42.7734,18.2941,48,1
+"85111",123523,"col","",118.34,31.74,"Simashan, Hexian County",NA,"",1,"Olenekian","",251.2,247.2,39726,"gp_mid",116.41,5.58,"604",249.2,"olenekian",23833,123.2148,30.7037,48,1
+"85297",123718,"col","Jialingjiang",108.52,31.36,"Wenquan, Kaixian County",NA,"",1,"Olenekian","",251.2,247.2,39785,"gp_mid",109.11,-6.72,"611",249.2,"olenekian",23924,122.712,17.4449,48,1
+"85909",124534,"col","Ystanakh",127.24,71.81,"Taas-Aryy Island (Ystanakh 3)",NA,"",2,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"85910",124535,"col","Ystanakh",127.24,71.81,"Taas-Aryy Island (Ystanakh 4 (3m))",NA,"",1,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"85911",124536,"col","Ystanakh",127.24,71.81,"Taas-Aryy Island (Ystanakh 4 (27m))",NA,"",9,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"85914",124541,"col","Pastakh",127.24,71.81,"Taas-Aryy Island (Pastakh Formation 8 (11m))",NA,"",6,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"85915",124542,"col","Pastakh",127.24,71.81,"Taas-Aryy Island (Pastakh Formation 8 (14m))",NA,"",7,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"85916",124543,"col","Pastakh",127.24,71.81,"Taas-Aryy Island (Pastakh Formation 9)",NA,"",7,"Olenekian","",251.2,247.2,39845,"gp_mid",51.22,75.59,"401",249.2,"olenekian",24090,-11.4414,72.1931,48,1
+"86467",125198,"col","Zulla",56.95,23.2,"Al Ayn Section (5), BC769",NA,"",4,"Olenekian","",251.2,247.2,40646,"gp_mid",52.93,-20.88,"503",249.2,"olenekian",24272,49.3186,-23.0153,48,1
+"89871",130313,"col","Dalmon",76.06,32.85,"Dalmon Formation, Chamba District",NA,"",1,"Olenekian","",251.2,247.2,42236,"gp_mid",54.4,-36.34,"501",249.2,"olenekian",25061,66.0733,-30.6646,48,1
+"96845",138904,"col","Hidegkut",17.61,46.88,"Köveskal Borehole Kk-9, Sample 10",NA,"",8,"Olenekian","",251.2,247.2,26197,"gp_mid",38.38,10.69,"308",249.2,"olenekian",27015,28.164,27.5327,48,1
+"96846",138905,"col","Hidegkut",17.61,46.88,"Köveskal Borehole Kk-9, Sample 11",NA,"",7,"Olenekian","",251.2,247.2,26197,"gp_mid",38.38,10.69,"308",249.2,"olenekian",27015,28.164,27.5327,48,1
+"96847",138906,"col","Hidegkut",17.61,46.88,"Köveskal Borehole Kk-9, Sample 12",NA,"",7,"Olenekian","",251.2,247.2,26197,"gp_mid",38.38,10.69,"308",249.2,"olenekian",27015,28.164,27.5327,48,1
+"96848",138907,"col","Hidegkut",17.61,46.88,"Köveskal Borehole Kk-9, Sample 13",NA,"",7,"Olenekian","",251.2,247.2,26197,"gp_mid",38.38,10.69,"308",249.2,"olenekian",27015,28.164,27.5327,48,1
+"97970",140081,"col","Luolou",107.04,24.55,"Kangdong, Fengshan",NA,"",1,"Olenekian","",251.2,247.2,45219,"gp_mid",108.59,-13.64,"611",249.2,"olenekian",27267,123.5722,9.9915,48,1
+"100035",142647,"col","Thaynes",-111.54,41.06,"Weber Canyon, upper Coal-Measures limestone, Wasatch Range",NA,"",1,"Olenekian","",251.2,247.2,16190,"gp_mid",-32.26,24.48,"101",249.2,"olenekian",27569,-43.8921,16.0341,48,1
+"100458",143196,"col","Staritskaya",51.77,52.8,"Mechet' II (Locality 180)",NA,"Mechet II",2,"Olenekian","",251.2,247.2,46397,"gp_mid",57.53,39.82,"302",249.2,"olenekian",27608,42.1659,46.4143,48,1
+"106093",150469,"col","Yingshuiquan",86.8,33.6,"76Z64, northwest of Banshichu, Shuanghu",NA,"",2,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106099",150475,"col","Yingshuiquan",86.8,33.6,"76Z436, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106101",150477,"col","Yingshuiquan",86.8,33.6,"76Z63, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106104",150480,"col","Yingshuiquan",86.8,33.6,"76Z46, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106105",150481,"col","Yingshuiquan",86.8,33.6,"76Z66, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106106",150482,"col","Yingshuiquan",86.8,33.6,"76Z43c, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106107",150483,"col","Yingshuiquan",86.8,33.6,"76Z42, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106108",150484,"col","Yingshuiquan",86.8,33.6,"76Z43, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106109",150485,"col","Yingshuiquan",86.8,33.6,"76Z65, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106110",150486,"col","Yingshuiquan",86.8,33.6,"76Z36, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106111",150487,"col","Yingshuiquan",86.8,33.6,"76Z51, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106112",150488,"col","Yingshuiquan",86.8,33.6,"76Z44, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106113",150489,"col","Yingshuiquan",86.8,33.6,"76Z40, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106114",150490,"col","Yingshuiquan",86.8,33.6,"76Z45, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106115",150491,"col","Yingshuiquan",86.8,33.6,"76Z46, Banshichu northwest, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106116",150492,"col","Yingshuiquan",86.8,33.6,"76Z69, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"106131",150512,"col","Yingshuiquan",86.8,33.6,"76Z49, Banshichu, Shuanghu",NA,"",1,"Olenekian","",251.2,247.2,48137,"gp_mid",73.55,-4.19,"612",249.2,"olenekian",28481,89.7663,7.1776,48,1
+"130633",189566,"col","Yarenskian",45.97,61.9,"Yarenga River, PIN 1584",NA,"",2,"Olenekian","",251.2,247.2,57795,"gp_mid",47.53,46.07,"302",249.2,"olenekian",34431,26.4894,48.2805,48,1
+"130830",190071,"col","Gamskaya",48.91,60.57,"Lyapomoz, PIN 4833",NA,"",1,"Olenekian","",251.2,247.2,63910,"gp_mid",50.27,45.68,"302",249.2,"olenekian",34465,31.1073,48.6263,48,1
+"131937",192167,"col","Vetluga Series",45.15,57.18,"Zubovskoye, Vetluga River",NA,"",1,"Olenekian","",251.2,247.2,28828,"gp_mid",50.33,41.78,"302",249.2,"olenekian",34720,32.7324,45.6586,48,1
+"131938",192168,"col","Kzylsaiskaya Svita",53.11,52.31,"Sukhushka II (Locality 90)",NA,"SW of Spasskoe village, Sukhushka ravine",3,"Olenekian","",251.2,247.2,28844,"gp_mid",58.76,39.8,"302",249.2,"olenekian",34721,42.1659,46.4143,48,1
+"131939",192169,"col","Kzylsaiskaya",51.34,52.71,"Korneevka II (Locality 193)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.29,39.61,"302",249.2,"olenekian",34722,42.1659,46.4143,48,1
+"133017",195201,"col","Jialingjiang",111.57,31.16,"Quarry near Minfeng",NA,"",1,"Olenekian","",251.2,247.2,66440,"gp_mid",111.73,-6.56,"611",249.2,"olenekian",34991,126.345,15.3524,48,1
+"133316",195786,"col","Kamennyi Yar",51.7,52.81,"Kamennyi Dol gully (upper)",NA,"",6,"Olenekian","",251.2,247.2,66639,"gp_mid",57.47,39.8,"302",249.2,"olenekian",35040,42.1659,46.4143,48,1
+"133323",195797,"col","Mechet'",51.78,52.8,"Mechet' I (lower) (Locality 179)",NA,"Novaya Tavolzhanka, Mechet I",7,"Olenekian","",251.2,247.2,28844,"gp_mid",57.54,39.82,"302",249.2,"olenekian",35045,42.1659,46.4143,48,1
+"133355",195829,"col","Gostevskaya",54.31,51.3,"Sukhodolny III (Locality 48)",NA,"",3,"Olenekian","",251.2,247.2,28844,"gp_mid",60.26,39.29,"302",249.2,"olenekian",35056,42.1659,46.4143,48,1
+"133357",195831,"col","Kzylsaiskaya",53.86,51.59,"Nizhneozernoe II (Locality 50)",NA,"",4,"Olenekian","",251.2,247.2,28844,"gp_mid",59.75,39.4,"302",249.2,"olenekian",35057,42.1659,46.4143,48,1
+"133358",195832,"col","Kzylsaiskaya",53.8,51.61,"Zazhuviny (Locality 52)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",59.7,39.4,"302",249.2,"olenekian",35058,42.1659,46.4143,48,1
+"133363",195837,"col","Kzylsaiskaya",53.64,51.89,"Kulagino II (Locality 58)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",59.41,39.59,"302",249.2,"olenekian",35060,42.1659,46.4143,48,1
+"133364",195838,"col","Kzylsaiskaya",53.34,52.22,"Myrolyubovka III (Locality 67)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",58.99,39.79,"302",249.2,"olenekian",35061,42.1659,46.4143,48,1
+"133365",195839,"col","Kzylsaiskaya",53.33,52.22,"Vetlyanka I (Locality 68)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.97,39.79,"302",249.2,"olenekian",35062,42.1659,46.4143,48,1
+"133367",195841,"col","Kzylsaiskaya",53.23,52.2,"Matveevka IV (Locality 75)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.92,39.74,"302",249.2,"olenekian",35063,42.1659,46.4143,48,1
+"133368",195842,"col","Kzylsaiskaya",53,52.08,"Novo-Georgievka (Locality 80)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.84,39.57,"302",249.2,"olenekian",35064,42.1659,46.4143,48,1
+"133369",195843,"col","Gostevskaya",53.14,52.22,"Pokrovka I (Locality 81)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",58.85,39.73,"302",249.2,"olenekian",35065,42.1659,46.4143,48,1
+"133372",195849,"col","Kzylsaiskaya",53.09,52.29,"Kamenny Yar I (Locality 85)",NA,"",4,"Olenekian","",251.2,247.2,28844,"gp_mid",58.77,39.78,"302",249.2,"olenekian",35066,42.1659,46.4143,48,1
+"133374",195851,"col","Kzylsaiskaya",53.08,52.3,"Kamenny Yar III (upper) (Locality 87)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",58.75,39.78,"302",249.2,"olenekian",35067,42.1659,46.4143,48,1
+"133391",195872,"col","Kzylsaiskaya",52.71,52.36,"Kamenny I (Locality 103)",NA,"",3,"Olenekian","",251.2,247.2,28844,"gp_mid",58.46,39.72,"302",249.2,"olenekian",35072,42.1659,46.4143,48,1
+"133497",196029,"col","Kzylsaiskaya",52.41,52.36,"Malaya Pogromka I (Locality 117)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.25,39.63,"302",249.2,"olenekian",35101,42.1659,46.4143,48,1
+"133498",196030,"col","Kzylsaiskaya",52.33,52.35,"Pavelev Yar (Locality 120)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.2,39.6,"302",249.2,"olenekian",35102,42.1659,46.4143,48,1
+"133504",196036,"col","Kzylsaiskaya",52.22,52.24,"Vasil'evka III (Locality 136)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",58.2,39.47,"302",249.2,"olenekian",35105,42.1659,46.4143,48,1
+"133509",196041,"col","Kzylsaiskaya",51.93,52.5,"Rodionovka IV (upper) (Locality 149)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",57.83,39.6,"302",249.2,"olenekian",35106,42.1659,46.4143,48,1
+"133511",196043,"col","Kzylsaiskaya",52.01,52.62,"Surykovo I (Locality 160)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.81,39.74,"302",249.2,"olenekian",35107,42.1659,46.4143,48,1
+"133542",196081,"col","Kzylsaiskaya",51.64,52.76,"Ternovoe (Locality 186)",NA,"",2,"Olenekian","",251.2,247.2,28844,"gp_mid",57.47,39.75,"302",249.2,"olenekian",35116,42.1659,46.4143,48,1
+"133544",196083,"col","Kzylsaiskaya",51.33,52.72,"Korneevka I (Locality 192)",NA,"",3,"Olenekian","",251.2,247.2,28844,"gp_mid",57.28,39.61,"302",249.2,"olenekian",35117,42.1659,46.4143,48,1
+"133545",196084,"col","Kzylsaiskaya",51.32,52.5,"Alekseevka II (Locality 195)",NA,"",1,"Olenekian","",251.2,247.2,28844,"gp_mid",57.41,39.42,"302",249.2,"olenekian",35118,42.1659,46.4143,48,1
+"134512",197697,"col","Rybinsk",44.57,58.7,"Unzha River Basin",NA,"",1,"Olenekian","",251.2,247.2,30410,"gp_mid",48.96,42.96,"302",249.2,"olenekian",35355,32.7324,45.6586,48,1
+"134768",198267,"col","Tamba Kurkur",83.73,28.77,"North of Thini Gaon",NA,"",1,"Olenekian","",251.2,247.2,67551,"gp_mid",53.09,-44.01,"501",249.2,"olenekian",35402,76.4679,-32.4553,48,1
+"135958",200930,"col","Danggongla",79.8,31.48,"Manzhongronggou, Zanda",NA,"",1,"Olenekian","",251.2,247.2,47190,"gp_mid",54.42,-39.79,"501",249.2,"olenekian",35679,75.4801,-28.4805,48,1
+"136705",202266,"col","Werfen",11.81,46.44,"Contrin Valley (Upper Werfen/Campiler)",NA,"Contrinthal",5,"Olenekian","",251.2,247.2,69318,"gp_mid",36.12,14.03,"307",249.2,"olenekian",35854,23.7064,24.4334,48,1
+"136770",202334,"col","Werfen",14.89,47.54,"Eisenerz",NA,"",2,"Olenekian","",251.2,247.2,69328,"gp_mid",38.09,12.63,"307",249.2,"olenekian",35880,25.9474,25.9518,48,1
+"137545",203238,"col","",13.52,46.53,"Achomitzer Berg",NA,"Karnischen Alpen, Carnic Alps",5,"Olenekian","",251.2,247.2,69698,"gp_mid",36.73,13.02,"307",249.2,"olenekian",35996,25.9474,25.9518,48,1
+"138553",204991,"col","Werfen",11.71,46.59,"Between Val Anna and Seceda",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.24,14.16,"307",249.2,"olenekian",36269,23.7064,24.4334,48,1
+"138554",204992,"col","Werfen",11.56,46.48,"Weißlahnbad",NA,"Weisslahnbad, Lavina Bianca",3,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,14.21,"307",249.2,"olenekian",36270,23.7064,24.4334,48,1
+"138559",205011,"col","Werfen",11.7,46.49,"Val Duron, Campitello (Upper Werfen)",NA,"Durontal",7,"Olenekian","",251.2,247.2,70360,"gp_mid",36.14,14.13,"307",249.2,"olenekian",36271,23.7064,24.4334,48,1
+"138560",205012,"col","Werfen",11.63,46.42,"Col de Ciampac (Upper Werfen)",NA,"Ciampaz",3,"Olenekian","",251.2,247.2,70360,"gp_mid",36.05,14.14,"307",249.2,"olenekian",36272,23.7064,24.4334,48,1
+"138561",205013,"col","Werfen",11.74,46.53,"Northeast side of the Sassolungo",NA,"Langkofel",2,"Olenekian","",251.2,247.2,70360,"gp_mid",36.18,14.12,"307",249.2,"olenekian",36273,23.7064,24.4334,48,1
+"138562",205014,"col","Werfen",11.72,46.58,"Gran Roa, north of Gardena Pass (Upper Werfen)",NA,"Sëurasas, Grödner Tal",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.22,14.15,"307",249.2,"olenekian",36274,23.7064,24.4334,48,1
+"138564",205016,"col","Werfen",11.77,46.46,"Sass di Saliceng, above Canazei and Alba",NA,"Greppatal, Monte Greppa",4,"Olenekian","",251.2,247.2,70360,"gp_mid",36.13,14.07,"307",249.2,"olenekian",36275,23.7064,24.4334,48,1
+"138565",205017,"col","Werfen",11.71,46.47,"West side of Val di Fassa, between Cerpei and Campestrin",NA,"",4,"Olenekian","",251.2,247.2,70360,"gp_mid",36.12,14.11,"307",249.2,"olenekian",36276,23.7064,24.4334,48,1
+"138566",205018,"col","Werfen",11.69,46.42,"East side of Val di Fassa, above Pozza",NA,"",6,"Olenekian","",251.2,247.2,70360,"gp_mid",36.07,14.1,"307",249.2,"olenekian",36277,23.7064,24.4334,48,1
+"138567",205019,"col","Werfen",12,46.33,"Col de Lares (Werfen Fm.)",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,13.87,"307",249.2,"olenekian",36278,23.7064,24.4334,48,1
+"138568",205020,"col","Werfen",11.68,46.45,"Above Monzon, Val di Fassa",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.09,14.12,"307",249.2,"olenekian",36279,23.7064,24.4334,48,1
+"138569",205021,"col","Werfen",11.75,46.49,"South side of Col Rodella, Campitello (Werfen Fm.)",NA,"",5,"Olenekian","",251.2,247.2,70360,"gp_mid",36.15,14.09,"307",249.2,"olenekian",36280,23.7064,24.4334,48,1
+"138570",205022,"col","Werfen",11.69,46.46,"Sojaltal and Vajolettal, above Mazzin (Werfen Fm.)",NA,"West side of Val di Fassa",4,"Olenekian","",251.2,247.2,70360,"gp_mid",36.11,14.12,"307",249.2,"olenekian",36281,23.7064,24.4334,48,1
+"138571",205023,"col","Werfen",11.79,46.42,"South side of Val Nicolo",NA,"Passo San Nicolo",5,"Olenekian","",251.2,247.2,70360,"gp_mid",36.1,14.04,"307",249.2,"olenekian",36282,23.7064,24.4334,48,1
+"138572",205024,"col","Werfen",11.83,46.39,"Fuciade (Werfen Fm.)",NA,"Fuchiade",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,14,"307",249.2,"olenekian",36283,23.7064,24.4334,48,1
+"138573",205025,"col","Werfen",11.9,46.61,"Pedratsches (Werfen Fm.)",NA,"Pedraces, Pedrazes, Badia Abtei",4,"Olenekian","",251.2,247.2,70360,"gp_mid",36.3,14.05,"307",249.2,"olenekian",36284,23.7064,24.4334,48,1
+"138574",205026,"col","Werfen",11.72,46.42,"South side of Buffaure (Werfen Fm.)",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,14.08,"307",249.2,"olenekian",36285,23.7064,24.4334,48,1
+"138575",205027,"col","Werfen",11.79,46.43,"North side of Val Nicolo",NA,"Passo San Nicolo",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.1,14.04,"307",249.2,"olenekian",36286,23.7064,24.4334,48,1
+"138576",205028,"col","Werfen",11.71,46.39,"Punta Vallaccia",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.05,14.08,"307",249.2,"olenekian",36287,23.7064,24.4334,48,1
+"138577",205029,"col","Werfen",11.71,46.43,"East side of Val di Fassa, above Pera",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,14.09,"307",249.2,"olenekian",36288,23.7064,24.4334,48,1
+"138578",205030,"col","Werfen",11.81,46.41,"Punta dell'Uomo (Werfen Fm.)",NA,"",1,"Olenekian","",251.2,247.2,70360,"gp_mid",36.09,14.02,"307",249.2,"olenekian",36289,23.7064,24.4334,48,1
+"138579",205031,"col","Werfen",11.87,46.5,"Arabba",NA,"",2,"Olenekian","",251.2,247.2,70360,"gp_mid",36.19,14.02,"307",249.2,"olenekian",36290,23.7064,24.4334,48,1
+"138616",205070,"col","Werfen",11.58,46.53,"Bad Ratzes, west of Seiser Alm (Werfen Fm.)",NA,"Punta di Razes, Razzes",2,"Olenekian","",251.2,247.2,70360,"gp_mid",36.14,14.21,"307",249.2,"olenekian",36313,23.7064,24.4334,48,1
+"138624",205078,"col","Werfen",11.87,46.64,"Campill Valley (Werfen Fm.)",NA,"Campiltal, Longiarù",2,"Olenekian","",251.2,247.2,70360,"gp_mid",36.33,14.09,"307",249.2,"olenekian",36321,23.7064,24.4334,48,1
+"138637",205091,"col","Werfen",11.83,46.39,"Fuciade (Werfen Fm.)",NA,"Fuchiade",0,"Olenekian","",251.2,247.2,70360,"gp_mid",36.08,14,"307",249.2,"olenekian",36283,23.7064,24.4334,48,1
+"142901",211340,"col","Alam",53.69,32.99,"South of Anarak, Nakhlak (first ammonoid zone)",NA,"",14,"Olenekian","",251.2,247.2,73009,"gp_mid",64.91,2.45,"505",249.2,"olenekian",37495,61.2486,-6.0506,48,1
+"143196",211740,"col","Werfen",14.03,46,"Idrija Hills",NA,"Idria",3,"Olenekian","",251.2,247.2,73139,"gp_mid",36.41,12.46,"307",249.2,"olenekian",37546,20.2956,11.4335,48,1
+"143197",211741,"col","Werfen",16.47,43.7,"Muć",NA,"Much",77,"Olenekian","",251.2,247.2,73139,"gp_mid",35.15,9.86,"307",249.2,"olenekian",37547,19.0615,9.2481,48,1
+"143198",211742,"col","Werfen",13.83,46.38,"Abanza, Triglav",NA,"Terglou",2,"Olenekian","",251.2,247.2,73139,"gp_mid",36.69,12.75,"307",249.2,"olenekian",37548,25.9474,25.9518,48,1
+"143200",211744,"col","",17.97,47.07,"Sz. Király-Szabadja",NA,"",3,"Olenekian","",251.2,247.2,73139,"gp_mid",38.67,10.57,"308",249.2,"olenekian",37550,28.164,27.5327,48,1
+"143201",211745,"col","",12.64,46.79,"Gorlizza, Assling",NA,"",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.7,13.67,"307",249.2,"olenekian",37551,23.7064,24.4334,48,1
+"143202",211746,"col","",12.76,46.59,"Monte Cadino, Forne Avoltri",NA,"",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.55,13.51,"307",249.2,"olenekian",37552,23.7064,24.4334,48,1
+"143203",211748,"col","Werfen",18.1,43.51,"Crvani Creek near Glavatičevo",NA,"",17,"Olenekian","",251.2,247.2,73139,"gp_mid",35.57,8.74,"307",249.2,"olenekian",37553,21.5333,7.9558,48,1
+"143204",211749,"col","",14.06,46,"Gore, Idrija",NA,"Isgora",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.42,12.45,"307",249.2,"olenekian",37554,20.2956,11.4335,48,1
+"143206",211754,"col","",16.18,44.14,"Plavno",NA,"Vrello Zrmanja",3,"Olenekian","",251.2,247.2,73139,"gp_mid",35.44,10.25,"307",249.2,"olenekian",37556,20.2956,11.4335,48,1
+"143207",212707,"col","Werfen",16.08,44.12,"Zrmanja Valley, Zadar/Šibenik-Knin border",NA,"",4,"Olenekian","",251.2,247.2,73456,"gp_mid",35.39,10.31,"307",249.2,"olenekian",37557,20.2956,11.4335,48,1
+"143208",211755,"col","",11.88,46.74,"Grones in Abteythale",NA,"",4,"Olenekian","",251.2,247.2,73139,"gp_mid",36.42,14.12,"307",249.2,"olenekian",37558,23.7064,24.4334,48,1
+"143209",211756,"col","",11.23,46.48,"Weißenbach, Eppan an der Weinstraße",NA,"White River, Weissbach",2,"Olenekian","",251.2,247.2,73139,"gp_mid",35.99,14.42,"307",249.2,"olenekian",37559,23.7064,24.4334,48,1
+"143260",211851,"col","Werfen",13.96,46,"Razpotje, Idrija",NA,"Raszpotje, Idria",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.39,12.5,"307",249.2,"olenekian",37597,20.2956,11.4335,48,1
+"143261",211852,"col","",13.93,46.04,"Kanomlja Valley, Idrija",NA,"Kanomla, Idria",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.42,12.54,"307",249.2,"olenekian",37598,20.2956,11.4335,48,1
+"143262",211853,"col","Werfen",16.03,47.79,"Unterhöflein",NA,"",1,"Olenekian","",251.2,247.2,73139,"gp_mid",38.68,12.07,"307",249.2,"olenekian",37599,25.9474,25.9518,48,1
+"143263",211854,"col","Werfen",13.83,46.38,"Konšca, Triglav",NA,"Terglou",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.69,12.75,"307",249.2,"olenekian",37548,25.9474,25.9518,48,1
+"143270",211894,"col","",11.97,46.35,"Cencenighe Agordino",NA,"",4,"Olenekian","",251.2,247.2,73139,"gp_mid",36.09,13.9,"307",249.2,"olenekian",37601,23.7064,24.4334,48,1
+"143271",211895,"col","",46.85,48.14,"Bogdo Mountain, Astrakan",NA,"",4,"Olenekian","",251.2,247.2,73139,"gp_mid",56.8,34.24,"302",249.2,"olenekian",37602,43.5092,39.5454,48,1
+"143272",211896,"col","Werfen",11.88,46.5,"St. Johann, Arabba, Buchenstein",NA,"Livinallongo del Col di Lana",2,"Olenekian","",251.2,247.2,73139,"gp_mid",36.2,14.02,"307",249.2,"olenekian",37603,23.7064,24.4334,48,1
+"143273",211897,"col","Werfen",16.3,44.17,"Mračaj Valley, below Derala Ridge (grey marl)",NA,"Rastello di Grab",9,"Olenekian","",251.2,247.2,73139,"gp_mid",35.51,10.19,"307",249.2,"olenekian",37604,20.2956,11.4335,48,1
+"143634",212347,"col","Werfen",10.15,46.01,"Schilpario, Val di Scalve",NA,"",1,"Olenekian","",251.2,247.2,73139,"gp_mid",35.22,14.89,"307",249.2,"olenekian",37695,17.9531,12.7693,48,1
+"143635",212348,"col","Werfen",11.24,46.41,"Mendelstraße, Kaltern, Etschthale",NA,"Mendelstrasse",1,"Olenekian","",251.2,247.2,73139,"gp_mid",35.93,14.38,"307",249.2,"olenekian",37696,23.7064,24.4334,48,1
+"143636",212349,"col","",12.01,46.42,"Between Caprile and Alleghe, Cordevole-thal",NA,"",1,"Olenekian","",251.2,247.2,73139,"gp_mid",36.17,13.9,"307",249.2,"olenekian",37697,23.7064,24.4334,48,1
+"143773",212547,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, ""Posidonomya limestone""",NA,"",3,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143775",212549,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 1 (P-shale)",NA,"",4,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143776",212550,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 2 (P-shale)",NA,"",2,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143777",212551,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 3 (P-shale)",NA,"",1,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143778",212552,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 4 (P-shale)",NA,"",1,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143779",212553,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 9 (P-shale)",NA,"",1,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143780",212554,"col","Vikinghogda",15.56,78.48,"Kapp Thordsen, Spitsbergen 10 (P-shale)",NA,"",1,"Olenekian","",251.2,247.2,73414,"gp_mid",21.32,55.82,"309",249.2,"olenekian",37718,-0.1441,47.8035,48,1
+"143853",212706,"col","Werfen",16.51,43.66,"Quarry SW of Neorić",NA,"",10,"Olenekian","",251.2,247.2,73456,"gp_mid",35.13,9.82,"307",249.2,"olenekian",37740,19.0615,9.2481,48,1
+"143856",212710,"col","Werfen",16.07,44.2,"Road to Zrmanja Spring (grey marl)",NA,"",19,"Olenekian","",251.2,247.2,73456,"gp_mid",35.46,10.35,"307",249.2,"olenekian",37742,20.2956,11.4335,48,1
+"143857",212711,"col","Werfen",16.23,44.11,"Golubić, Knin",NA,"Doznica Valley",11,"Olenekian","",251.2,247.2,73456,"gp_mid",35.43,10.21,"307",249.2,"olenekian",37743,20.2956,11.4335,48,1
+"143861",212715,"col","Werfen",16.33,44.17,"Tavanj Saddle",NA,"Between Mračaj and Grahovo",10,"Olenekian","",251.2,247.2,73456,"gp_mid",35.53,10.18,"307",249.2,"olenekian",37746,20.2956,11.4335,48,1
+"143862",212718,"col","Werfen",16.38,44.19,"Knezević, Grahovo",NA,"Kesići",6,"Olenekian","",251.2,247.2,73456,"gp_mid",35.56,10.15,"307",249.2,"olenekian",37747,20.2956,11.4335,48,1
+"143865",212722,"col","Werfen",16.3,44.22,"Gozd Vrh",NA,"",4,"Olenekian","",251.2,247.2,73456,"gp_mid",35.55,10.22,"307",249.2,"olenekian",37750,20.2956,11.4335,48,1
+"143867",212726,"col","Werfen",16.89,43.47,"Katuni",NA,"",2,"Olenekian","",251.2,247.2,73456,"gp_mid",35.09,9.48,"307",249.2,"olenekian",37752,21.5333,7.9558,48,1
+"143888",212785,"col","Tvillingodden",14.98,77.62,"Van Keulenfjorden, Olenekian, Horizon 1",NA,"",5,"Olenekian","",251.2,247.2,73480,"gp_mid",21.71,54.98,"309",249.2,"olenekian",37759,-0.1441,47.8035,48,1
+"143889",212786,"col","Tvillingodden",14.98,77.62,"Van Keulenfjorden, Olenekian, Horizon 2",NA,"",6,"Olenekian","",251.2,247.2,73480,"gp_mid",21.71,54.98,"309",249.2,"olenekian",37759,-0.1441,47.8035,48,1
+"143890",212787,"col","Tvillingodden",14.98,77.62,"Van Keulenfjorden, Olenekian, Horizon 3",NA,"",6,"Olenekian","",251.2,247.2,73480,"gp_mid",21.71,54.98,"309",249.2,"olenekian",37759,-0.1441,47.8035,48,1
+"143957",212890,"col","Kongressfjellet",21.96,78.53,"Barentsøya, Triassic, Lower Division",NA,"",18,"Olenekian","",251.2,247.2,73515,"gp_mid",23.35,56.41,"311",249.2,"olenekian",37783,1.2485,49.1374,48,1
+"143958",212891,"col","Kongressfjellet",21.96,78.53,"Barentsøya, Triassic, Lower Division",NA,"",3,"Olenekian","",251.2,247.2,73515,"gp_mid",23.35,56.41,"311",249.2,"olenekian",37783,1.2485,49.1374,48,1
+"143997",212935,"col","Vikinghogda",16.56,78.29,"Sassenfjorden, Mountain side",NA,"",9,"Olenekian","",251.2,247.2,73524,"gp_mid",21.79,55.72,"309",249.2,"olenekian",37795,-0.1441,47.8035,48,1
+"144029",212967,"col","Tvillingodden",13.87,78.1,"Festningen, Cliff exposure",NA,"",9,"Olenekian","",251.2,247.2,73524,"gp_mid",21.02,55.33,"309",249.2,"olenekian",37811,-0.1441,47.8035,48,1
+"144082",213031,"col","",169.8,-46.42,"Between Kaka Point and Nugget Point",NA,"",1,"Olenekian","",251.2,247.2,36275,"gp_mid",-24.57,-88.86,"807",249.2,"olenekian",37829,138.7965,-79.5985,48,1
+"144351",213508,"col","",126.4,-8.93,"Bibiluto, SE of Viqueque",NA,"",1,"Olenekian","",251.2,247.2,73695,"gp_mid",102.66,-44.89,"680",249.2,"olenekian",37864,115.429,-34.0585,48,1

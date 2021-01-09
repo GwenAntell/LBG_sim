@@ -1,390 +1,342 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"5342",13907,"col","Vorohué",-57.549999,-38,"15 km N Mar del Plata",NA,"",1,"Late Pliocene","",3.6,2.588,6166,"gp_mid",-57.07,-37.9,"202",3.094,1
-"12134",75996,"col","Atsuga",143.352493,44.352501,"Monbetsu",NA,"",1,"Late Pliocene","",3.6,2.588,12148,"gp_mid",142.65,44.25,"609",3.094,1
-"14277",28039,"col","Tangahoe",174.28334,-39.583332,"Hawera",NA,"",23,"Waipipian","",3.6,3,7498,"gp_mid",175.45,-40.6,"806",3.3,1
-"17818",32039,"col","Tamiami",-82.211502,26.983999,"Construction site near El Jobean quarry",NA,"",4,"Piacenzian","",3.6,2.588,8605,"gp_mid",-81.11,27.48,"109",3.094,1
-"17862",32109,"col","",2.816667,42.75,"Lo Fournas 13, near Baixas",NA,"",13,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,1
-"17863",32110,"col","",2.816667,42.75,"Pla de la Ville, near Baixas",NA,"",11,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,1
-"17864",32112,"col","",2.816667,42.75,"Lo Fournas 4, near Baixas",NA,"",11,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,1
-"19691",34254,"col","Meyer Desert",-170,-85,"Oliver Bluffs, Transantarctic Mntns.",NA,"",1,"Late Pliocene","",3.6,2.588,9000,"gp_mid",-165.9,-84.67,"802",3.094,1
-"19792",34397,"col","",4.283333,44.116669,"Seynes",NA,"",6,"Late Pliocene","",3.6,2.588,19698,"gp_mid",4.69,43.61,"305",3.094,1
-"19862",34496,"col","Kameyama",136.416702,34.799999,"Kitakoyama boulder",NA,"T. miensis type site",11,"Late Pliocene","",3.6,2.588,9104,"gp_mid",135.82,34.65,"610",3.094,1
-"19911",34589,"col","",23.733334,37.983334,"Tourkovounia 1",NA,"TRK; Tourkobounia 1",19,"Villanyian","",3.2,2.588,9135,"gp_mid",24.03,37.17,"308",2.894,1
-"19912",34590,"col","",24,38.5,"Limni 6",NA,"LMN",12,"Villanyian","",3.2,2.588,9135,"gp_mid",24.3,37.68,"307",2.894,1
-"19914",34592,"col","",23.733334,37.983334,"Tourkovounia 3-5",NA,"TRV; Tourkobounia 3-5",23,"Villanyian","",3.2,2.588,9135,"gp_mid",24.03,37.17,"308",2.894,1
-"19931",34616,"col","",26.958889,36.745277,"Kardanena",NA,"KRM",3,"Villanyian","",3.2,2.588,9135,"gp_mid",27.12,36.14,"504",2.894,1
-"20180",34929,"col","",-0.15,39.849998,"Casablanca 1",NA,"Almenara 1",42,"Villanyian","",3.2,2.588,10965,"gp_mid",0.26,39.37,"304",2.894,1
-"20181",34930,"col","",-0.15,39.849998,"Casablanca 4",NA,"Almenara 4\r\nCasablanca B",7,"Villanyian","",3.2,2.588,9381,"gp_mid",0.26,39.37,"304",2.894,1
-"20182",34931,"col","",-0.15,39.849998,"Casablanca 6",NA,"Almenara 6",1,"Villanyian","",3.2,2.588,9381,"gp_mid",0.26,39.37,"304",2.894,1
-"20252",35028,"col","Nashua",-81.671112,29.518333,"Nashua Formation",NA,"",6,"Late Pliocene","",3.6,2.588,9411,"gp_mid",-80.53,30,"109",3.094,1
-"20725",35686,"col","Onoke",175.46666,-41.216667,"New Zealand N166/522",NA,"Wairarapa N166/522",1,"Late Pliocene","",3.6,2.588,9626,"gp_mid",176.74,-42.19,"806",3.094,1
-"20726",35687,"col","Onoke",174.71666,-41.25,"New Zealand N165/515",NA,"Wairarapa N165/515",2,"Late Pliocene","",3.6,2.588,9626,"gp_mid",175.99,-42.25,"806",3.094,1
-"20734",35695,"col","Onoke",175.71666,-41.400002,"New Zealand N162/717",NA,"Wairarapa N162/717",1,"Late Pliocene","",3.6,2.588,9626,"gp_mid",177.01,-42.36,"806",3.094,1
-"20737",35698,"col","Onoke",175.516663,-41.5,"New Zealand N165/520",NA,"Wairarapa N165/520",1,"Late Pliocene","",3.6,2.588,9626,"gp_mid",176.81,-42.47,"806",3.094,1
-"21715",37049,"col","",2.766667,42.849998,"Mas Genegals, near Vingrau, Pyrenees Orientales",NA,"",10,"MN 16","",3.2,2.588,9928,"gp_mid",3.19,42.35,"304",2.894,1
-"24902",41568,"col","Mare",-64,10,"Locality E, Venezuela - Weisbord (1964)",NA,"Locality E",8,"Late Pliocene","",3.6,2.588,11132,"gp_mid",-63.12,10.14,"201",3.094,1
-"24959",41650,"col","Ulian",122.491669,11.0875,"SKGS-73, Philippines - Tshuto (1969)",NA,"SKGS-73",16,"Late Pliocene","",3.6,2.588,11152,"gp_mid",123.15,10.51,"659",3.094,1
-"24974",41664,"col","Ulian",122.479164,11.033333,"SKGS-72, Philippines - Tshuto (1969)",NA,"SKGS-72",23,"Late Pliocene","",3.6,2.588,11152,"gp_mid",123.14,10.46,"659",3.094,1
-"27955",45332,"col","",114,-8,"Locality M.6 sheet 99B, W. of Sempol",NA,"",4,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,1
-"27956",45333,"col","",112.706108,-7.440833,"Locality M.251, sheet 93b, Soloriver N.W. of Padasmalang",NA,"",2,"Late Pliocene","",3.6,2.588,11360,"gp_mid",113.38,-7.7,"620",3.094,1
-"27960",45337,"col","",110,-8,"m.257, sheet 93b, Soloriver near Sonde",NA,"",3,"Late Pliocene","",3.6,2.588,11360,"gp_mid",110.69,-8.31,"620",3.094,1
-"27961",45338,"col","",114,-8,"M.258, sheet 93b, Soloriver near Sonde",NA,"",1,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,1
-"27962",45339,"col","Kalibeng",114,-8,"M.260, sheet 93b, Soloriver near Bangoenredjo Kidoel",NA,"Reef 3589",18,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,1
-"27963",45340,"col","Kalibeng",114,-8,"M.250, sheet 93b, Soloriver near Gadjah",NA,"Reef 3589",1,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,1
-"31288",49096,"col","",3.685,43.461109,"Balaruc II, Herault",NA,"",23,"Late Pliocene","",3.6,2.588,19698,"gp_mid",4.09,42.96,"305",3.094,1
-"33446",51880,"col","Canoa",-80.269722,0.202778,"Zone H - Canoa Formation",NA,"Loripes Zone",51,"Piacenzian","",3.6,2.588,13814,"gp_mid",-79.46,0.46,"201",3.094,1
-"33576",52018,"col","Tsunozu",132.216446,35.25798,"Tsunozu",NA,"",2,"Late Pliocene","",3.6,2.588,13708,"gp_mid",131.63,35.09,"610",3.094,1
-"33619",52062,"col","",11.851389,45.031666,"Ca-Lunga",NA,"Ca Lunga",2,"Piacenzian","",3.6,2.588,12278,"gp_mid",12.39,44.31,"307",3.094,1
-"35344",53828,"col","Kasumi",139.256104,35.724167,"Akigawa River",NA,"",2,"Late Pliocene","",3.6,2.588,28532,"gp_mid",138.65,35.59,"610",3.094,1
-"36067",55658,"col","Dainenji",141.035553,37.621387,"Odaka",NA,"",1,"Piacenzian","",3.6,2.588,15029,"gp_mid",140.41,37.5,"610",3.094,1
-"36206",55829,"col","Red Crag",1.289722,51.865002,"Walton-on-the-Naze",NA,"",15,"Piacenzian","",3.6,2.588,15082,"gp_mid",1.84,51.38,"315",3.094,1
-"38815",58893,"col","Chowan RIver",-76.647224,35.283611,"Section 2 (Chowan River Fm) - Lee Creek Mine",NA,"B 25359",35,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,1
-"38816",58894,"col","Chowan RIver",-76.647224,35.283611,"Section 4 (Chowan River Fm) - Lee Creek Mine",NA,"B 25363",36,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,1
-"38817",58895,"col","Chowan RIver",-76.647224,35.283611,"Section 5 (Chowan River Fm) - Lee Creek Mine",NA,"B 25366",98,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,1
-"39207",59310,"col","Duplin",-79.114166,34.496944,"Fairmont - Duplin Formation",NA,"",47,"Late Pliocene","",3.6,2.588,16984,"gp_mid",-77.86,34.95,"109",3.094,1
-"39208",59311,"col","Duplin",-79.114166,34.496944,"Clarkton - Duplin Formation",NA,"",3,"Late Pliocene","",3.6,2.588,16984,"gp_mid",-77.86,34.95,"109",3.094,1
-"39310",59420,"col","Agueguexquite",-94.338058,18.093889,"Cuenca Salina del Istmo del Tehuantepec [Agueguexquite Fm]",NA,"",24,"Late Pliocene","",3.6,2.588,17059,"gp_mid",-93.42,18.74,"205",3.094,1
-"40336",60660,"col","Yorktown",-77.207497,37.514442,"USGS Loc. 26417 - Warren Brothers pits [Yorktown Fm]",NA,"",12,"Late Pliocene","",3.6,2.588,17420,"gp_mid",-75.88,37.94,"109",3.094,1
-"40343",60667,"col","Yorktown",-77.251114,37.29361,"USGS Loc. 26407 - James River [Yorktown Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,17420,"gp_mid",-75.93,37.72,"109",3.094,1
-"40582",60934,"col","Raysor",-80.148331,33.327499,"Cross (Loc. 9) - Raysor Marl (Ward and Huddlestun (1988) coll.)",NA,"",1,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,1
-"40587",60938,"col","Raysor",-80.148331,33.327499,"Cross (Loc. 16) - Raysor and lower Goose Creek Lmst",NA,"",3,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,1
-"40589",60941,"col","Raysor",-80.148331,33.327499,"Cross (Loc. 20) - Raysor Marl (Campbell et al. 1975 coll.)",NA,"",6,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,1
-"40590",60942,"col","Raysor",-80.148331,33.327499,"Cross (Loc. 28) - Raysor Marl (Mercenaria level)",NA,"",5,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,1
-"40920",61293,"col","Yorktown",-76.385559,37.095554,"Langley Core, VA - 6.49-6.55 m (Yorktown Fm)",NA,"21.3-21.5 ft",28,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,1
-"40921",61294,"col","Yorktown",-76.385559,37.095554,"Langley Core, VA - 7.25-7.28 m (Yorktown Fm)",NA,"23.8-23.9 ft",9,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,1
-"40922",61295,"col","Yorktown",-76.385559,37.095554,"Langley Core, VA - 8.41-8.47 m (Yorktown Fm)",NA,"27.6-27.8 ft",8,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,1
-"40923",61296,"col","Yorktown",-76.385559,37.095554,"Langley Core, VA - 12.86-12.95 m (Yorktown Fm)",NA,"42.2-42.5 ft",13,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,1
-"40957",61336,"col","Escudo de Veraguas",-81.549469,9.08995,"PPP# 168 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17621; 87-09-01",69,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.8,9.44,"230",3.094,1
-"40958",61337,"col","Escudo de Veraguas",-81.54982,9.08891,"PPP# 170 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17622; 87-09-03",45,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.8,9.44,"230",3.094,1
-"40960",61340,"col","Cayo Agua",-82.053474,9.179499,"PPP# 197 - Cayo Agua [Cayo Agua Fm]",NA,"NMB# 17630; 87-29-03",72,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"40961",61341,"col","Cayo Agua",-82.053101,9.180076,"PPP# 198 - Cayo Agua [Cayo Agua Fm]",NA,"NMB# 17632; 87-29-04",43,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"40963",61343,"col","Shark Hole Point",-81.748947,9.043482,"PPP# 376 Bruno Bluff [Shark Hole Fm]",NA,"NMB Loc. 17850; 88-32-01",58,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81,9.39,"230",3.094,1
-"40964",61344,"col","Shark Hole Point",-81.748947,9.043482,"PPP# 379 - Bruno Bluff [Shark Hole Fm]",NA,"NMB Loc. 17851",125,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81,9.39,"230",3.094,1
-"44595",66793,"col","Penita",-82.970482,8.23153,"Quebrada Penitas [Penita Fm]",NA,"",27,"Late Pliocene","",3.6,2.588,17423,"gp_mid",-82.42,8.71,"204",3.094,1
-"44783",67072,"col","Tamiami",-81.731941,26.674999,"Buckingham [Buckingham Mbr, Tamiami Fm]",NA,"Station A",16,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.64,27.16,"109",3.094,1
-"44784",67073,"col","Tamiami",-81.731941,26.674999,"USGS Loc. 4996 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"USGS Loc.4997; Location B",3,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.64,27.16,"109",3.094,1
-"44785",67074,"col","Tamiami",-81.610001,26.715555,"USGS Loc. 11742 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"Location C",9,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.51,27.2,"109",3.094,1
-"44786",67075,"col","Tamiami",-81.610001,26.715555,"USGS Loc. 14078 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"Location D",6,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.51,27.2,"109",3.094,1
-"44787",67076,"col","Tamiami",-81.610001,26.715555,"USGS Loc. 14184 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"Location E",8,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.51,27.2,"109",3.094,1
-"44788",67077,"col","Tamiami",-81.712219,26.718889,"USGS Loc. 14075 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"",15,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.62,27.2,"109",3.094,1
-"44789",67078,"col","Tamiami",-81.712219,26.718889,"USGS Loc. 14190 - Caloosahatchee River [Buckingham Mbr, Tamiami Fm]",NA,"USGS Loc. 14194",4,"Late Pliocene","",3.6,2.588,19112,"gp_mid",-80.62,27.2,"109",3.094,1
-"46375",69042,"col","Yorktown",-76.693611,37.20639,"PRI Loc. 1634 (sample 27, replicate A) [Mogarts Mbr, Yorktown Fm]",NA,"",0,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,1
-"46376",69044,"col","Tamiami",-80.30806,25.666945,"PRI Loc. 1957 (sample 33) - Pinecrest Mbr, Tamiami Fm",NA,"Olsson Loc. 1094",33,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-79.22,26.13,"109",3.094,1
-"46410",69086,"col","Bear Bluff",-78.508614,34.287777,"YPM bulk sample [Bear Bluff Fm]",NA,"YPM-2; Acc.# 7717",14,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-77.26,34.73,"109",3.094,1
-"47926",71304,"col","Vorohué",-57.716667,-38.033333,"Arroyo Loberia",NA,"",29,"Late Pliocene","",3.6,2.588,24008,"gp_mid",-57.24,-37.93,"202",3.094,1
-"48093",71621,"col","Yorktown",-76.770554,37.171665,"Cobham Wharf, Mollusk Zone 5",NA,"",4,"Late Pliocene","",3.6,2.588,16985,"gp_mid",-75.45,37.59,"109",3.094,1
-"48342",72016,"col","Byoritsu",120.816666,24.549999,"Hills west of Miao-li",NA,"",4,"Late Pliocene","",3.6,2.588,24352,"gp_mid",120.58,24.5,"611",3.094,1
-"48668",72414,"col","",23.483334,37.733334,"Pecten reghiensis assemblage zone, Aegina Island",NA,"",88,"Piacenzian","",3.6,2.588,24517,"gp_mid",23.78,36.92,"307",3.094,1
-"48669",72415,"col","",24.516666,36.766666,"Chlamys inaequicostalis assemblage zone, Milos Island",NA,"",17,"Piacenzian","",3.6,2.588,24517,"gp_mid",24.79,35.94,"307",3.094,1
-"48990",73585,"col","Ortovero Clay",8.233333,44.099998,"Rio Torsero, Level 4, Liguria",NA,"",1,"Piacenzian","",3.6,2.588,24673,"gp_mid",8.79,43.41,"307",3.094,1
-"49803",74658,"col","",177.527496,-38.830276,"Te Reinga Falls",NA,"",6,"Waipipian","",3.6,3,29598,"gp_mid",178.7,-39.74,"806",3.3,1
-"50356",75731,"col","",144.083328,47.616669,"Sea of Okhotsk",NA,"",1,"Late Pliocene","",3.6,2.588,25590,"gp_mid",143.34,47.52,"609",3.094,1
-"50573",76010,"col","Tomioka",139.916672,39.216667,"Ohe, Tomioka Fm.",NA,"",1,"Piacenzian","",3.6,2.588,12148,"gp_mid",139.28,39.09,"610",3.094,1
-"50574",76011,"col","",140.963058,37.408611,"Okuma",NA,"",1,"Late Pliocene","",3.6,2.588,12148,"gp_mid",140.34,37.29,"610",3.094,1
-"50577",76014,"col","",140.600006,36.316666,"Oarai",NA,"",1,"Piacenzian","",3.6,2.588,12148,"gp_mid",139.99,36.19,"610",3.094,1
-"50580",76027,"col","Nakatsu",141.216705,38.966702,"Aikawa, Nakatsu Fm.",NA,"",6,"Piacenzian","",3.6,2.588,12148,"gp_mid",140.58,38.85,"610",3.094,1
-"50591",76039,"col","Tamari",138.016663,34.766666,"Kakegawa",NA,"",2,"Late Pliocene","",3.6,2.588,70357,"gp_mid",137.42,34.63,"610",3.094,1
-"50702",76531,"col","",25.414167,39.220001,"Nakhichevan",NA,"",1,"Late Pliocene","",3.6,2.588,24838,"gp_mid",25.6,38.62,"510",3.094,1
-"50704",76533,"col","",37.627499,47.121666,"Maryupol, Pliocene",NA,"Zhdanov, Mariupol', Samara Ravine, gravel quarry of Azovstal",7,"Late Pliocene","",3.6,2.588,24838,"gp_mid",37.72,46.5,"302",3.094,1
-"50706",76535,"col","",36.809444,46.748611,"Berdyansk",NA,"",1,"Late Pliocene","",3.6,2.588,24838,"gp_mid",36.91,46.12,"302",3.094,1
-"51227",77591,"col","Raysor",-80.176941,33.333332,"Cross Quarry, Raysor Formation",NA,"",1,"Piacenzian","",3.6,2.588,26222,"gp_mid",-78.95,33.8,"109",3.094,1
-"51238",77605,"col","Tamiami",-82.349998,26.950001,"Myakka River",NA,"",0,"Piacenzian","",3.6,2.588,26222,"gp_mid",-81.25,27.44,"109",3.094,1
-"51252",77631,"col","Red Crag",0.636389,51.796665,"Essex",NA,"",0,"Piacenzian","",3.6,2.588,26222,"gp_mid",1.19,51.31,"315",3.094,1
-"51263",77713,"col","Agueguexquite",-95.083336,17.583332,"Loc. 9995 [Agueguexquite Fm]",NA,"",13,"Late Pliocene","",3.6,2.588,26246,"gp_mid",-94.17,18.24,"104",3.094,1
-"51264",77714,"col","Agueguexquite",-95.083336,17.583332,"Loc. 23737 [Agueguexquite Fm]",NA,"",29,"Late Pliocene","",3.6,2.588,26246,"gp_mid",-94.17,18.24,"104",3.094,1
-"51265",77715,"col","Agueguexquite",-95.083336,17.583332,"Loc. 10172 [Agueguexquite Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26246,"gp_mid",-94.17,18.24,"104",3.094,1
-"51275",77745,"col","Red Crag",1.251389,52.047779,"Foxhall Hall",NA,"Fox Hall",2,"Piacenzian","",3.6,2.588,13652,"gp_mid",1.81,51.56,"315",3.094,1
-"51276",77753,"col","Red Crag",1.313056,52.094166,"Woodbridge",NA,"",8,"Late Pliocene","",3.6,2.588,26261,"gp_mid",1.87,51.61,"315",3.094,1
-"51597",78260,"col","Yorktown",-76.50972,37.233891,"Station 2244a [Moore House Mbr, Yorktown Fm]",NA,"",13,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51598",78261,"col","Yorktown",-76.50972,37.233891,"Station 2244b [Moore House Mbr, Yorktown Fm]",NA,"",43,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51599",78262,"col","Yorktown",-76.50972,37.233891,"Station 2245 [Moore House Mbr, Yorktown Fm]",NA,"",50,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51601",78264,"col","Yorktown",-76.50972,37.233891,"Station 2246 [Moore House Mbr, Yorktown Fm]",NA,"",41,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51602",78265,"col","Yorktown",-76.50972,37.233891,"Station 2247a [Moore House Mbr, Yorktown Fm]",NA,"",50,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51603",78266,"col","Yorktown",-76.50972,37.233891,"Station 2247b [Moore House Mbr, Yorktown Fm]",NA,"",55,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51604",78267,"col","Yorktown",-76.50972,37.233891,"Station 2247c [Moore House Mbr, Yorktown Fm]",NA,"",29,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51605",78268,"col","Yorktown",-76.50972,37.233891,"Station 2248 [Moore House Mbr, Yorktown Fm]",NA,"",20,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51606",78269,"col","Yorktown",-76.50972,37.233891,"Station 2249a [Moore House Mbr, Yorktown Fm]",NA,"",59,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51607",78270,"col","Yorktown",-76.50972,37.233891,"Station 2249b [Moore House Mbr, Yorktown Fm]",NA,"",37,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,1
-"51608",78271,"col","Yorktown",-76.504723,37.245834,"Station 2251 [Moore House Mbr, Yorktown Fm]",NA,"",24,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.66,"109",3.094,1
-"51609",78272,"col","Yorktown",-76.570557,37.26889,"Station 2250 [Rushmere Mbr, Yorktown Fm]",NA,"",23,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.24,37.68,"109",3.094,1
-"51610",78273,"col","Yorktown",-76.570557,37.26889,"Station 2250 [Sunken Meadow Mbr, Yorktown Fm]",NA,"",12,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.24,37.68,"109",3.094,1
-"52204",79201,"col","",-74.75,-43.616669,"Loc. 1 - Guafo Island",NA,"",13,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52205",79202,"col","",-74.75,-43.616669,"Loc. 2 - Guafo Island",NA,"Loc.  031083",13,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52206",79203,"col","",-74.75,-43.616669,"Loc. 3 - Guafo Island",NA,"Loc.  290884.1",7,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52207",79204,"col","",-74.75,-43.616669,"Loc. 4 - Guafo Island",NA,"Loc.  290884.2",17,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52208",79205,"col","",-74.75,-43.616669,"Loc. 5 - Guafo Island",NA,"Loc.  031083.2",9,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52209",79206,"col","",-74.75,-43.616669,"Loc. 6 - Guafo Island",NA,"Loc.  300884.1",12,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52210",79207,"col","",-74.75,-43.616669,"Loc. 7 - Guafo Island",NA,"Loc.  300884.3",16,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52211",79208,"col","",-74.75,-43.616669,"Loc. 8 - Guafo Island",NA,"Loc.  021083.2",14,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52212",79209,"col","",-74.75,-43.616669,"Loc. 9 - Guafo Island",NA,"Loc.  021083.3",10,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52213",79210,"col","",-74.75,-43.616669,"Loc. 10 - Guafo Island",NA,"Loc.  021083",6,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52214",79211,"col","",-74.75,-43.616669,"Loc. 11 - Guafo Island",NA,"Loc.  280884.2",9,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52215",79212,"col","",-74.75,-43.616669,"Loc. 12 - Guafo Island",NA,"Loc.  280884.1",8,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52216",79213,"col","",-74.75,-43.616669,"Loc. 13 - Guafo Island",NA,"Loc.  021083.1",15,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52217",79214,"col","",-74.75,-43.616669,"Loc. 14 - Guafo Island",NA,"Loc.  290884.3",2,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52218",79215,"col","",-74.75,-43.616669,"Loc. 15 - Guafo Island",NA,"Loc.  290884.4",3,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,1
-"52231",79245,"col","Yorktown",-76.576668,37.017502,"PRI Loc. 1611 [Yorktown Fm]",NA,"",29,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.25,37.43,"109",3.094,1
-"52232",79246,"col","Yorktown",-76.693611,37.20639,"PRI Loc. 1634 (sample 27, replicate B) [Mogarts Mbr, Yorktown Fm]",NA,"",22,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,1
-"52233",79247,"col","Yorktown",-76.693611,37.20639,"PRI Loc. 1634 (sample 25, replicate A) [Mogarts Mbr, Yorktown Fm]",NA,"",23,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,1
-"52446",79708,"col","Bear Bluff",-81.438332,26.761667,"YPM bulk sample [Bear Bluff Fm]",NA,"Acc.# 7717",14,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-80.34,27.24,"109",3.094,1
-"52447",79709,"col","Yorktown",-76.634445,37.063057,"TU 77 - Burwell Bay [Yorktown Fm]",NA,"",49,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.31,37.48,"109",3.094,1
-"52448",79710,"col","Araya",-64.182503,10.818889,"Araya Formation, Cubagua Island",NA,"",115,"Late Pliocene","",3.6,2.588,26791,"gp_mid",-63.55,11.04,"234",3.094,1
-"52465",79761,"col","Tamiami",-80.30806,25.666945,"Pinecrest [Pinecrest Mbr, Tamiami Fm]",NA,"",35,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-79.22,26.13,"109",3.094,1
-"52466",79762,"col","Tamiami",-81.128334,26.012222,"Seminole Indian Reservation [Pinecrest Mbr, Tamiami Fm]",NA,"",10,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.04,26.49,"109",3.094,1
-"52467",79764,"col","Tamiami",-81.128334,26.012222,"Fisheating Creek [Pinecrest Mbr, Tamiami Fm]",NA,"",7,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.04,26.49,"109",3.094,1
-"52468",79765,"col","Tamiami",-81.407501,28.291945,"Kissimmee [Pinecrest Mbr, Tamiami Fm]",NA,"",19,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.28,28.77,"109",3.094,1
-"52469",79766,"col","Tamiami",-81.407501,28.291945,"Acline [Pinecrest Mbr, Tamiami Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.28,28.77,"109",3.094,1
-"52470",79771,"col","Escudo de Veraguas",-81.575699,9.103718,"PPP# 177 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17625",33,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.83,9.45,"230",3.094,1
-"52471",79772,"col","Escudo de Veraguas",-81.549004,9.099852,"PPP# 180 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17628",57,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.8,9.45,"230",3.094,1
-"52473",79774,"col","Cayo Agua",-82.044815,9.174926,"PPP# 200 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17634",41,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"52485",79794,"col","Escudo de Veraguas",-81.569214,9.104626,"PPP# 358 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17832",111,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.82,9.45,"230",3.094,1
-"52489",79797,"col","Tamiami",-81.516388,26.73361,"Ft Denaud [Pinecrest Mbr, Tamiami Fm]",NA,"",20,"Late Pliocene","",3.6,2.588,25514,"gp_mid",-80.42,27.22,"109",3.094,1
-"52528",79958,"col","Tamiami",-81.766388,26.138332,"Golden Gate Mbr, Tamiami Fm",NA,"",83,"Late Pliocene","",3.6,2.588,26813,"gp_mid",-80.68,26.63,"109",3.094,1
-"52530",79960,"col","Tamiami",-81.303329,25.901388,"Buckingham Member, Tamiami Formation (unspecified localities)",NA,"",118,"Late Pliocene","",3.6,2.588,26813,"gp_mid",-80.22,26.38,"109",3.094,1
-"52544",79983,"col","Cayo Agua",-82.026527,9.154894,"PPP# 294 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17809",80,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.51,"230",3.094,1
-"52550",79988,"col","Escudo de Veraguas",-81.567101,9.103913,"PPP# 359 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17833",65,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.82,9.45,"230",3.094,1
-"52551",79989,"col","Escudo de Veraguas",-81.564293,9.103775,"PPP# 361 - Escudo de Veraguas [Escudo de Veraguas Fm]",NA,"NMB Loc. 17834",110,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.81,9.45,"230",3.094,1
-"52560",79998,"col","Cayo Agua",-82.026253,9.154761,"PPP# 295 - Cayo Agua - [Cayo Agua Fm)",NA,"NMB Loc. 17810",92,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.51,"230",3.094,1
-"52561",79999,"col","Cayo Agua",-82.026054,9.154657,"PPP# 296 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17811",104,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.51,"230",3.094,1
-"52562",80000,"col","Cayo Agua",-82.02565,9.154618,"PPP# 297 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17812",36,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.51,"230",3.094,1
-"52579",80036,"col","Yorktown",-76.634445,37.063057,"TU 856 [Rushmere Mbr, Yorktown Fm]",NA,"",37,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.31,37.48,"109",3.094,1
-"52581",80038,"col","Yorktown",-76.743889,37.148056,"TU 858 [Yorktown Fm]",NA,"",38,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.42,37.56,"109",3.094,1
-"52583",80040,"col","Yorktown",-76.955276,37.232224,"TU 859 [Yorktown Fm]",NA,"",38,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.63,37.65,"109",3.094,1
-"55293",84316,"col","",175.130005,-41.388058,"Lake Ferry",NA,"",1,"Late Pliocene","",3.6,2.588,28258,"gp_mid",176.41,-42.37,"806",3.094,1
-"55596",84758,"col","Red Crag",1.333333,52.049999,"Shottisham, Suffolk [Red Crag]",NA,"",2,"Late Pliocene","",3.6,2.588,29100,"gp_mid",1.89,51.56,"315",3.094,1
-"55597",84759,"col","Red Crag",1.533333,52.75,"Sutton, Suffolk [Red Crag]",NA,"",145,"Late Pliocene","",3.6,2.588,28450,"gp_mid",2.1,52.26,"315",3.094,1
-"55598",84761,"col","Red Crag",1.45,52.099998,"Butley, Suffolk [Red Crag]",NA,"",12,"Late Pliocene","",3.6,2.588,28443,"gp_mid",2.01,51.61,"315",3.094,1
-"55601",84764,"col","Red Crag",1.283333,51.849998,"Walton-on-the-Naze, Suffolk [Red Crag]",NA,"",119,"Late Pliocene","",3.6,2.588,28443,"gp_mid",1.84,51.36,"315",3.094,1
-"55632",84796,"col","Red Crag",1.316667,52.033333,"Newbourn, Suffolk [Red Crag]",NA,"",13,"Late Pliocene","",3.6,2.588,28450,"gp_mid",1.87,51.55,"315",3.094,1
-"55633",84797,"col","Red Crag",1,52,"Brightwell, Suffolk [Red Crag]",NA,"",2,"Late Pliocene","",3.6,2.588,28450,"gp_mid",1.56,51.51,"315",3.094,1
-"55634",84798,"col","Red Crag",1.433333,52.016666,"Bawdsey, Suffolk [Red Crag]",NA,"",32,"Late Pliocene","",3.6,2.588,28450,"gp_mid",1.99,51.53,"315",3.094,1
-"55653",84819,"col","Red Crag",1.35,51.966667,"Felixstowe, Suffolk [Red Crag]",NA,"",137,"Late Pliocene","",3.6,2.588,28450,"gp_mid",1.9,51.48,"315",3.094,1
-"55885",85153,"col","Red Crag",1.252778,51.969444,"Shotley",NA,"",1,"Piacenzian","",3.6,2.588,14624,"gp_mid",1.81,51.48,"315",3.094,1
-"55886",85154,"col","Red Crag",1.2275,52.057777,"Blackheath",NA,"",1,"Piacenzian","",3.6,2.588,12787,"gp_mid",1.78,51.57,"315",3.094,1
-"57816",87884,"col","Tangahoe",174.252777,-39.611942,"Waihi Beach",NA,"",6,"Waipipian","",3.6,3,29543,"gp_mid",175.42,-40.63,"806",3.3,1
-"57823",87896,"col","",176.916382,-39.491669,"Napier",NA,"",3,"Late Pliocene","",3.6,2.588,29544,"gp_mid",178.11,-40.42,"806",3.094,1
-"58837",89089,"col","",177.433334,-39.066666,"GS 1215, N115 Wairoa River",NA,"",1,"Late Pliocene","",3.6,2.588,29819,"gp_mid",178.61,-39.98,"806",3.094,1
-"59179",89861,"col","Shiroiwa",138.828613,37.337502,"Nagaoka, south",NA,"",18,"Late Pliocene","",3.6,2.588,30098,"gp_mid",138.21,37.2,"610",3.094,1
-"60565",91901,"col","Cayo Agua",-82.033333,9.167778,"PPP# 326 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17822",22,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.52,"230",3.094,1
-"60566",91902,"col","Cayo Agua",-82.053055,9.178889,"PPP# 63 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18401",72,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"60574",91910,"col","Cayo Agua",-82.029999,9.165833,"PPP# 311 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17817",12,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.52,"230",3.094,1
-"60982",92344,"col","Tamiami",-80.854446,27.142778,"TU 729 - Kissimmee Canal [Pinecrest Fm]",NA,"",13,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.75,27.62,"109",3.094,1
-"60999",92361,"col","Tamiami",-81.483055,26.133612,"TU 796 - Alligator Alley [Pinecrest Fm]",NA,"",5,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,1
-"61000",92362,"col","Tamiami",-81.483055,26.133612,"TU 797 - Alligator Alley [Pinecrest Fm]",NA,"",10,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,1
-"61001",92363,"col","Tamiami",-81.483055,26.133612,"TU 933 - Alligator Alley [Pinecrest Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,1
-"61011",92380,"col","Tamiami",-81.483055,26.133612,"TU 1177 - Mule Pen Quarry [Pinecrest Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,1
-"61057",92441,"col","Tamiami",-82.014999,26.885,"TU 200 - Acline [Pinecrest Fm]",NA,"",6,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.92,27.38,"109",3.094,1
-"61058",92442,"col","Tamiami",-81.025833,27.302221,"TU 730 - Kissimmee Canal [Pinecrest Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.92,27.78,"109",3.094,1
-"61059",92443,"col","Tamiami",-81.056946,27.362223,"TU 932 - Kissimmee River [Pinecrest Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.95,27.84,"109",3.094,1
-"61065",92449,"col","Agueguexquite",-94.416664,18.15,"TU 638 - Coatzacoalcos [Agueguexquite Fm]",NA,"",15,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-93.5,18.8,"205",3.094,1
-"61112",92516,"col","Tamiami",-81.144165,27.104168,"TU 522 - Harney Pond Canal [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.04,27.58,"109",3.094,1
-"61113",92518,"col","Tamiami",-80.533058,25.616943,"TU 525 - ""Forty-mile Bend"" [Pinecrest Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.45,26.09,"109",3.094,1
-"61114",92519,"col","Tamiami",-81.103333,27.176945,"TU 528 - Indian Prairie Canal [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80,27.65,"109",3.094,1
-"61115",92520,"col","Tamiami",-81.166389,26.958611,"TU 521 - Lake Okeechobee [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.06,27.44,"109",3.094,1
-"61159",92583,"col","",106.599998,-6.333333,"Cilegong, Java",NA,"",2,"Late Pliocene","",3.6,2.588,31196,"gp_mid",107.25,-6.72,"620",3.094,1
-"61209",92658,"col","Tamiami",-80.854446,27.142778,"TU 728 - Kissimmee Canal [Pinecrest Fm]",NA,"",7,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.75,27.62,"109",3.094,1
-"61210",92659,"col","Tamiami",-80.854446,27.142778,"TU 736 - Kissimmee River [Pinecrest Fm]",NA,"",5,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.75,27.62,"109",3.094,1
-"61211",92660,"col","Tamiami",-80.621391,26.129723,"TU 740 - Miami Canal [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,1
-"61212",92661,"col","Tamiami",-80.621391,26.129723,"TU 741 - Miami Canal [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,1
-"61213",92662,"col","Tamiami",-80.621391,26.129723,"TU 742 - Miami Canal [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,1
-"61214",92663,"col","Tamiami",-82.146111,27.012777,"TU 756 - Port Charlotte Development [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-81.05,27.5,"109",3.094,1
-"61215",92664,"col","Tamiami",-80.854446,27.142778,"TU 769 - Kissimmee Canal [Pinecrest Fm]",NA,"",7,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.75,27.62,"109",3.094,1
-"61216",92665,"col","Tamiami",-82.146111,27.012777,"TU 979 - Port Charlotte Development [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-81.05,27.5,"109",3.094,1
-"61217",92666,"col","Tamiami",-82.146111,27.012777,"TU 981 - Port Charlotte Development [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-81.05,27.5,"109",3.094,1
-"61218",92667,"col","Tamiami",-82.146111,27.012777,"TU 982 - Port Charlotte Development [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-81.05,27.5,"109",3.094,1
-"61219",92668,"col","Tamiami",-82.146111,27.012777,"TU 985 - Port Charlotte Development [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-81.05,27.5,"109",3.094,1
-"61304",92779,"col","Agueguexquite",-94.416664,18.15,"TU 1046 - Coatzacoalcos [Agueguexquite Fm]",NA,"",9,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-93.5,18.8,"205",3.094,1
-"61808",93543,"col","Wanlanae",120.01667,-4.383611,"Lakibong",NA,"FVL-5",6,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,1
-"61810",93545,"col","Wanlanae",120.01667,-4.383611,"Lakibong",NA,"FVL-6",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,1
-"61811",93546,"col","Walanae",120,-4.270833,"Sompe",NA,"FVL-25, Sompoh, Sompo",7,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.38,"683",3.094,1
-"61813",93548,"col","Walanae",120,-4.385556,"Sare Batue",NA,"FVL3/4",5,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.49,"683",3.094,1
-"61828",93567,"col","Walane",120.091393,-4.265833,"Bulu Barere",NA,"FVL-28",4,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.7,-4.37,"683",3.094,1
-"61868",93612,"col","Mao",-71.166664,19.549999,"NMB Loc. 15833 - Rio Gurabo [Mao Fm]",NA,"",35,"Piacenzian","",3.6,2.588,25313,"gp_mid",-70.42,19.85,"252",3.094,1
-"61877",93622,"col","Walanae",120.04583,-4.385833,"Lepangen",NA,"FVL-1a",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.66,-4.49,"683",3.094,1
-"61878",93623,"col","Walanae",120.036392,-4.368056,"FVL-11",NA,"",6,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.47,"683",3.094,1
-"61879",93624,"col","Walanae",120.03611,-4.330556,"Ciangkange",NA,"FVL-22",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.44,"683",3.094,1
-"61880",93625,"col","Walanae",120,-4.3675,"Batuasange",NA,"FVL-9",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,1
-"61881",93626,"col","Walanae",120,-4.358889,"Paroto",NA,"FVL-14",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.46,"683",3.094,1
-"61882",93627,"col","Walanae",120.050552,-4.387222,"Palangiseng",NA,"FVL-2",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.67,-4.49,"683",3.094,1
-"61883",93628,"col","Walanae",120.019997,-4.389722,"Tinco",NA,"FVL-7",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,1
-"61884",93629,"col","Walanae",120,-4.362222,"Malare",NA,"FVL-19",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,1
-"61885",93630,"col","Walanae",120,-4.362222,"Malare",NA,"FVL-15",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,1
-"61886",93631,"col","Walane",120.026947,-4.367222,"Bulu Cepo",NA,"FVL-10",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.64,-4.47,"683",3.094,1
-"61887",93632,"col","Walane",120.026947,-4.367222,"Bulu Cepo",NA,"FVL-13",3,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.64,-4.47,"683",3.094,1
-"61888",93633,"col","Walanae",120.016113,-4.359722,"FVL-16 & FVL-17",NA,"",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.46,"683",3.094,1
-"61889",93634,"col","Walanae",120.036392,-4.368056,"FVL-12",NA,"",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.47,"683",3.094,1
-"61890",93635,"col","Walanae",120.016945,-4.181944,"Celeko",NA,"FVL-27",4,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.29,"683",3.094,1
-"64208",96440,"col","Agueguexquite",-94.416664,18.15,"Agueguexquite Formation (unspecified localities)",NA,"",18,"Late Pliocene","",3.6,2.588,13235,"gp_mid",-93.5,18.8,"205",3.094,1
-"64269",96537,"col","Chowan River",-76.663887,34.718334,"Chowan River Formation",NA,"",1,"Late Pliocene","",3.6,2.588,31112,"gp_mid",-75.39,35.13,"109",3.094,1
-"64337",96669,"col","Kalibeng",111.316666,-7.366667,"Bangun, SDE-3A",NA,"",30,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,1
-"64338",96670,"col","Kalibeng",111.316666,-7.366667,"Bangun, SDE-3B",NA,"",68,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,1
-"64339",96671,"col","Kalibeng",111.316666,-7.366667,"Bangun, SDE-3C",NA,"",52,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,1
-"64407",96759,"col","Shagra",34.799999,25.25,"Marsa Alam, Shagra Formation",NA,"",21,"Late Pliocene","",3.6,2.588,33008,"gp_mid",34.9,24.37,"715",3.094,1
-"65036",97627,"col","Yakataga",-142.43222,60.061111,"Cape Yakataga",NA,"",2,"Piacenzian","",3.6,2.588,16892,"gp_mid",-141.82,60.98,"126",3.094,1
-"65056",97677,"col","Ware",-71.283607,11.914167,"Puerto Libre and Puerto López, La Guajira (pg. 155) [Ware Fm]",NA,"",22,"Late Pliocene","",3.6,2.588,33368,"gp_mid",-70.39,12.11,"203",3.094,1
-"67251",100408,"col","Nashua",-81.089783,28.560266,"F & W Mine",NA,"",2,"Piacenzian","",3.6,2.588,2613,"gp_mid",-79.96,29.04,"109",3.094,1
-"67619",101021,"col","",138.809448,37.285831,"Nobe River",NA,"",25,"Piacenzian","",3.6,2.588,34517,"gp_mid",138.19,37.15,"610",3.094,1
-"68302",101907,"col","Daineji",141.035278,37.371387,"Oragahama",NA,"",40,"Piacenzian","",3.6,2.588,34654,"gp_mid",140.41,37.25,"610",3.094,1
-"68423",102043,"col","Shiranuka",143.866669,42.849998,"Chokubetsu",NA,"",1,"Late Pliocene","",3.6,2.588,34678,"gp_mid",143.18,42.75,"609",3.094,1
-"73918",109651,"col","",124.466667,-9.816667,"Nikiniki",NA,"Reef 2944",19,"Late Pliocene","",3.6,2.588,36229,"gp_mid",124.17,-11.87,"680",3.094,1
-"75210",111010,"col","Araya",-64.182503,10.818889,"Punta Colorada, Cubagua Island",NA,"",34,"Late Pliocene","",3.6,2.588,36423,"gp_mid",-63.55,11.04,"234",3.094,1
-"75211",111011,"col","Araya",-64.296669,10.633056,"Cerro Barrigon, Araya Peninsula [Araya Fm]",NA,"",51,"Late Pliocene","",3.6,2.588,36423,"gp_mid",-63.41,10.78,"201",3.094,1
-"79205",116344,"col","",3.0575,51.581669,"Urk",NA,"Put van Domburg, Put van Oostkapelle",1,"Late Pliocene","",3.6,2.588,26222,"gp_mid",3.59,51.08,"315",3.094,1
-"80880",118257,"col","",18.366667,-33.916668,"Avontuur A 50m complex 1",NA,"",48,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,1
-"80922",118306,"col","",18.366667,-33.916668,"Koingnaas/Swartlintjies 50m Complex",NA,"",44,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,1
-"80928",118317,"col","",18.366667,-33.916668,"Avontuur A  50m complex 2",NA,"",57,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,1
-"80929",118318,"col","",18.366667,-33.916668,"Avontuur A 50m complex 3",NA,"",48,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,1
-"80930",118319,"col","",18.366667,-33.916668,"Avontuur A 50m complex 4",NA,"",20,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,1
-"84328",122392,"col","",17,-30.083332,"Swartlintjiesrivier Loc 2",NA,"",6,"Late Pliocene","",3.6,2.588,38997,"gp_mid",16.72,-30.85,"701",3.094,1
-"84329",122393,"col","",17.083332,-31,"Strandfontein Loc 3",NA,"",4,"Late Pliocene","",3.6,2.588,38997,"gp_mid",16.79,-31.77,"701",3.094,1
-"85113",123525,"col","San Andres",-57.668056,-38.181389,"Santa Isabel",NA,"",5,"Late Pliocene","",3.6,2.588,65015,"gp_mid",-57.19,-38.08,"202",3.094,1
-"85115",123527,"col","San Andres",-57.653332,-38.181389,"Punta San Andres",NA,"",10,"Late Pliocene","",3.6,2.588,39737,"gp_mid",-57.18,-38.08,"202",3.094,1
-"85907",124532,"col","",-74.48333,20.333332,"Baracoa, station 3476",NA,"",3,"Late Pliocene","",3.6,2.588,12754,"gp_mid",-73.47,20.72,"206",3.094,1
-"86037",136335,"col","Penita",-82.970482,8.23153,"Quebrada Penitas [Penita Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,30037,"gp_mid",-82.42,8.71,"204",3.094,1
-"86131",124784,"col","Salayar",120.433334,-6.183333,"Benteng West, ISS1.4, Salayar Island",NA,"",13,"Late Pliocene","",3.6,2.588,40384,"gp_mid",121.09,-6.28,"683",3.094,1
-"88167",127698,"col","Takanabe",131.490005,32.066666,"Hirata Cliff",NA,"MYZ-9",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.93,31.89,"610",3.094,1
-"88168",127699,"col","Takanabe",131.491669,32.112499,"Mouke Cliff",NA,"MYZ-11",3,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.93,31.94,"610",3.094,1
-"88170",127700,"col","Takanabe",131.462494,32.131943,"Makinouchi",NA,"MYZ-12",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.9,31.96,"610",3.094,1
-"88171",127701,"col","Takanabe",131.469437,32.666668,"Nakao",NA,"MYZ-13",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.9,32.49,"610",3.094,1
-"88178",127713,"col","Soga",138.03334,34.72361,"Hyugadani",NA,"KKG-5",4,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.44,34.59,"610",3.094,1
-"88180",127712,"col","Hljikata Silt",138.020004,34.741669,"Kamiitazawa Cliff",NA,"KKG-10",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.42,34.6,"610",3.094,1
-"88182",127711,"col","Ten-no",138.050003,34.815277,"Ishigami",NA,"KKG-4",3,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.45,34.68,"610",3.094,1
-"90685",131209,"col","Mare",-63.523609,10.611667,"NMB Loc. 12898 - Quebrada Mare Abajo [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90686",131210,"col","Mare",-63.523609,10.611667,"NMB Loc. 17512 - Quebrada Mare Abajo [Mare Fm]",NA,"GS-1-CB",359,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90687",131211,"col","Mare",-63.523609,10.611667,"NMB Loc. 13347 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90688",131212,"col","Mare",-63.523609,10.611667,"NMB Loc. 13348 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90689",131213,"col","Mare",-63.523609,10.611667,"NMB Loc. 13349 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90690",131214,"col","Mare",-63.523609,10.611667,"NMB Loc. 13357 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90691",131215,"col","Mare",-63.523609,10.611667,"NMB Loc. 13358 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90692",131216,"col","Mare",-63.523609,10.611667,"UCVG Loc. 3618 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90693",131217,"col","Mare",-64.107224,10.635278,"NMB Loc. 17513 - Punta Gorda [Mare Fm]",NA,"",113,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.22,10.78,"201",3.094,1
-"90694",131218,"col","Mare",-64.107224,10.635278,"NMB Loc. 17514 - Punta Gorda [Mare Fm]",NA,"",135,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.22,10.78,"201",3.094,1
-"90703",131237,"col","Araya",-64,10.616667,"NMB Loc. 17541 - Araya Peninsula [Araya Fm]",NA,"GS-006-ARY",81,"Late Pliocene","",3.6,2.588,42393,"gp_mid",-63.11,10.76,"201",3.094,1
-"90725",131263,"col","Araya",-64,10.616667,"UCVG Loc. 4030 - Araya Peninsula [Araya Fm]",NA,"GS-006-ARY",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.11,10.76,"201",3.094,1
-"90730",131270,"col","Playa Grande",-63.523609,10.611667,"NMB Loc. 17607 - Quebrada Las Pailas [Maiquetia Mbr, Playa Grande Fm]",NA,"GS-31-CB",3,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90740",131285,"col","Mare",-63.523609,10.611667,"USGS Loc. 18253 - Cabo Blanco [Mare Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90763",131310,"col","Mare",-63.523609,10.611667,"UCVG 704 - Quebrada Mare Abajo [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,1
-"90784",131337,"col","Agueguexquite",-94.25,17.966667,"Acalapa, Minatitlan [Agueguexquite Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-93.33,18.61,"205",3.094,1
-"90785",131338,"col","Agueguexquite",-94.416664,18.15,"Paraje Solo [Agueguexquite Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-93.5,18.8,"205",3.094,1
-"90796",131363,"col","Mare",-64.107224,10.635278,"NMB Loc. 17515 - Punta Gorda [Mare Fm]",NA,"GS-009-CB",111,"Late Pliocene","",3.6,2.588,42393,"gp_mid",-63.22,10.78,"201",3.094,1
-"93306",134663,"col","Cayo Agua",-82.033333,9.15,"Water Cay [Cayo Agua Fm]",NA,"",54,"Piacenzian","",3.6,2.588,43229,"gp_mid",-81.28,9.5,"230",3.094,1
-"93374",134767,"col","Agueguexquite",-94.437225,18.142221,"IGM Loc. 3679 - El Tepache [Agueguexquite Fm]",NA,"",43,"Late Pliocene","",3.6,2.588,43283,"gp_mid",-93.52,18.79,"205",3.094,1
-"93375",134768,"col","Agueguexquite",-94.320557,18.074167,"IGM Loc. 3680 - Nuevo Teapa [Agueguexquite Fm]",NA,"",70,"Late Pliocene","",3.6,2.588,43283,"gp_mid",-93.4,18.72,"205",3.094,1
-"93376",134769,"col","Agueguexquite",-94.437225,18.142221,"IGM Loc. 3681 - Coatzacoalcos [Agueguexquite Fm]",NA,"",54,"Late Pliocene","",3.6,2.588,43283,"gp_mid",-93.52,18.79,"205",3.094,1
-"94061",135545,"col","Calcarenite di Gravina",16.266666,41.23111,"Small valley a little below the Church of Our Lady of Andria",NA,"",1,"Piacenzian","",3.6,2.588,43368,"gp_mid",16.69,40.47,"307",3.094,1
-"94064",135548,"col","Calcarenite di Gravina",16.266666,41.23111,"Near Church of St. Maria de Andria",NA,"",1,"Piacenzian","",3.6,2.588,43372,"gp_mid",16.69,40.47,"307",3.094,1
-"94292",135824,"col","Cayo Agua",-82.032677,9.167992,"PPP# 2238 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18735",3,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.52,"230",3.094,1
-"94293",135825,"col","Cayo Agua",-82.032677,9.167992,"PPP# 2239 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18736",3,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.52,"230",3.094,1
-"94294",135826,"col","Cayo Agua",-82.034721,9.168858,"PPP# 2234 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18731",2,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.29,9.52,"230",3.094,1
-"94295",135827,"col","Cayo Agua",-82.051025,9.180004,"PPP# 2223 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18720",3,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"94323",135855,"col","Cayo Agua",-82.044815,9.174926,"PPP# 2224 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18721",1,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.3,9.53,"230",3.094,1
-"94330",135862,"col","Cayo Agua",-82.030586,9.167513,"PPP# 476 - Nispero Point [Cayo Agua Fm]",NA,"NMB Loc. 17813",1,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.28,9.52,"230",3.094,1
-"94331",135863,"col","Cayo Agua",-82.042137,9.174326,"PPP# 1203 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18374; 93-13-01",3,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.29,9.53,"230",3.094,1
-"94332",135864,"col","Cayo Agua",-82.017456,9.146287,"PPP# 2236 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18733",4,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.27,9.5,"230",3.094,1
-"94344",135876,"col","Escudo de Veraguas",-81.552155,9.090323,"PPP# 2187 - Escudo de Veraguas Island [Escudo de Veraguas Fm]",NA,"NMB Loc. 18686",77,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.8,9.44,"230",3.094,1
-"94352",135884,"col","Cayo Agua",-82.035034,9.168993,"PPP# 2232 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18730",3,"Piacenzian","",3.6,2.588,17667,"gp_mid",-81.29,9.52,"230",3.094,1
-"94353",135885,"col","Escudo de Veraguas",-81.575218,9.10423,"PPP# 2172 - Escudo de Veraguas Island [Escudo de Veraguas Fm]",NA,"NMB Loc. 18671; 95-05-11; mislabelled as PPP# 2127 in Landau et al (2012)",93,"Piacenzian","",3.6,2.588,17667,"gp_mid",-80.83,9.45,"230",3.094,1
-"94644",136315,"col","Cayo Agua",-82.045822,9.177201,"PPP# 2222 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18719",4,"Piacenzian","",3.6,2.588,30037,"gp_mid",-81.3,9.53,"230",3.094,1
-"94729",136461,"col","Cayo Agua",-82.011879,9.14257,"PPP# 1188 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18373; 93-11-07",7,"Piacenzian","",3.6,2.588,30037,"gp_mid",-81.26,9.49,"230",3.094,1
-"94750",136522,"col","Cayo Agua",-82.017456,9.146287,"PPP# 2237 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 18734",4,"Piacenzian","",3.6,2.588,30037,"gp_mid",-81.27,9.5,"230",3.094,1
-"94753",136540,"col","Cayo Agua",-82.015076,9.147674,"PPP# 345 - Cayo Agua [Cayo Agua Fm]",NA,"NMB Loc. 17830",3,"Piacenzian","",3.6,2.588,30037,"gp_mid",-81.27,9.5,"230",3.094,1
-"95085",136994,"col","Ware",-71.324165,11.851667,"STRI Loc. 290045 - Estacion de Policia [""Ware"" Fm]",NA,"",44,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.43,12.05,"203",3.094,1
-"102222",145683,"col","",13.426389,43.322498,"Villa Potenza",NA,"",15,"Piacenzian","",3.6,2.588,47116,"gp_mid",13.91,42.59,"307",3.094,1
-"107690",152481,"col","Red Crag",0.636389,51.796665,"Essex (Dovercourt)",NA,"",1,"Late Pliocene","",3.6,2.588,52569,"gp_mid",1.19,51.31,"315",3.094,1
-"107691",152482,"col","Red Crag",1.35,51.966667,"Suffolk (Felixstowe)",NA,"",1,"Late Pliocene","",3.6,2.588,52569,"gp_mid",1.9,51.48,"315",3.094,1
-"107692",152483,"col","Red Crag",1.313056,52.094166,"Suffolk (Woodbridge)",NA,"",1,"Late Pliocene","",3.6,2.588,52569,"gp_mid",1.87,51.61,"315",3.094,1
-"107693",152484,"col","Red Crag",1.357724,52.046249,"Suffolk (Sutton)",NA,"",2,"Late Pliocene","",3.6,2.588,52569,"gp_mid",1.91,51.56,"315",3.094,1
-"108499",153831,"col","Toukoushan",120.679169,24.395279,"Yuanli",NA,"",1,"Piacenzian","",3.6,2.588,49904,"gp_mid",120.45,24.35,"611",3.094,1
-"110279",156719,"col","Ware",-71.277161,11.96408,"STRI Loc. 290680 - N of Puerto Lopez [""Ware"" Fm]",NA,"STRI Loc. 360174; STRI Sample 37202",16,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.38,12.16,"203",3.094,1
-"110723",157271,"col","Ware",-71.302528,11.89271,"STRI Loc. 290629 - Puerto Lopez [Ware Fm]",NA,"STRI Sample 36991, 36999",11,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.41,12.09,"203",3.094,1
-"110724",157273,"col","Ware",-71.30616,11.8903,"STRI Loc. 290627 - Puerto Lopez [Ware Fm]",NA,"STRI Sample 36989, 36990",11,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.41,12.09,"203",3.094,1
-"111179",157967,"col","Ware",-71.407745,11.8196,"STRI Loc. 290080 - Castilletes [""Ware"" Fm]",NA,"STRI Loc. 290466; STRI Sample 11063, 13564",19,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.52,12.02,"203",3.094,1
-"111180",157968,"col","Ware",-71.415802,11.819946,"STRI Loc. 290081 - Bahia Cocinetas [""Ware"" Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.52,12.02,"203",3.094,1
-"111181",157969,"col","Ware",-71.34552,11.855308,"STRI Loc. 290607 - NW of Estacion de Policia [""Ware"" Fm]",NA,"STRI Sample 36972, 36973, 36974, 36978",27,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.45,12.05,"203",3.094,1
-"111859",159142,"col","Ware",-71.379021,11.812548,"STRI Loc. 290678 - Flor de Guajira [""Ware"" Fm]",NA,"",12,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.49,12.01,"203",3.094,1
-"112605",160140,"col","Togo",130.356995,31.886,"Kasayama, Inobo, Torimaru village (Togo)",NA,"",6,"Piacenzian","",3.6,2.588,52279,"gp_mid",129.8,31.71,"610",3.094,1
-"112659",160218,"col","Tamiami",-82.01722,26.878889,"UNCW Loc. Z-925 - Handgen (=Lomax King) Quarry [Tamiami Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-80.92,27.37,"109",3.094,1
-"112784",160344,"col","Yorktown",-76.371391,36.758057,"UNCW Loc. Z-609 - Deep Creek [Yorktown Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-75.05,37.17,"109",3.094,1
-"112787",160347,"col","Yorktown",-76.779167,35.373611,"UNCW Loc. Z-805 - Lee Creek Mine [Yorktown Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-75.49,35.79,"109",3.094,1
-"112789",160349,"col","Yorktown",-77.32917,35.613056,"UNCW Loc. Z-822 - Greens Mill Run [Yorktown Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-76.04,36.04,"109",3.094,1
-"112888",160453,"col","Yorktown",-77.14389,35.149445,"UNCW Loc. Z-1 - Martin Marietta New Bern quarry [Yorktown Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,52323,"gp_mid",-75.87,35.57,"109",3.094,1
-"116269",165803,"col","",2.030833,41.408611,"Riera de Bonet",NA,"",1,"Piacenzian","",3.6,2.588,54208,"gp_mid",2.44,40.91,"304",3.094,1
-"116706",166508,"col","Ware",-71.323891,11.851111,"Ware Vertebrates",NA,"STRI 470062",32,"Piacenzian","",3.6,2.588,54378,"gp_mid",-70.43,12.05,"203",3.094,1
-"117442",167736,"col","",1.941389,41.292221,"Cova Bonica, Massif of Garraf",NA,"Sot de l’Infern",15,"MN 16","",3.2,2.588,54784,"gp_mid",2.35,40.8,"304",2.894,1
-"117640",168020,"col","",28.568056,45.522221,"Kotlovina, middle layer",NA,"Kotlovyna",7,"MN 16","",3.2,2.588,54848,"gp_mid",28.75,44.91,"302",2.894,1
-"117641",168021,"col","",28.568056,45.522221,"Kotlovina, upper layer",NA,"Kotlovyna",5,"MN 16","",3.2,2.588,54848,"gp_mid",28.75,44.91,"302",2.894,1
-"118784",170023,"col"," Ananai",133.96666,33.433334,"Tonohama,  Ananai Fm",NA,"",18,"Piacenzian","",3.6,2.588,55496,"gp_mid",133.39,33.27,"610",3.094,1
-"120934",174153,"col","",148.023041,-37.873138,"Lakes Entrance",NA,"",1,"Piacenzian","",3.6,2.588,56777,"gp_mid",148.6,-39.6,"801",3.094,1
-"121932",175682,"col","Taihape Mudstone",175.72084,-39.677776,"Ridge Road North",NA,"",1,"Waipipian","",3.6,3,57494,"gp_mid",176.91,-40.64,"806",3.3,1
-"122185",176027,"col","Roe Calcarenite",127.57917,-31.965834,"spoil from foundation holes, Hampton Microwave Repeater Tower, Roe Plains",NA,"",1,"Late Pliocene","",3.6,2.588,57740,"gp_mid",127.53,-34,"801",3.094,1
-"122186",176028,"col","Roe Calcarenite",127.57917,-31.98889,"PL 3166. Roe Plains, 2.5 km north of Hampton Microwave Repeater Tower",NA,"",3,"Late Pliocene","",3.6,2.588,57935,"gp_mid",127.53,-34.02,"801",3.094,1
-"122187",176029,"col","Roe Calcarenite",127.57917,-31.965834,"PL3172. Hampton Microwave Repeater Tower, Roe Plains",NA,"",2,"Late Pliocene","",3.6,2.588,57740,"gp_mid",127.53,-34,"801",3.094,1
-"122419",176341,"col","Greta",173.081345,-43.047009,"Motunau Beach",NA,"",1,"Piacenzian","",3.6,2.588,57975,"gp_mid",175.93,-43.88,"807",3.094,1
-"124343",179111,"col","",11.45,45.299999,"Astigiana",NA,"",1,"Piacenzian","",3.6,2.588,59230,"gp_mid",11.99,44.58,"307",3.094,1
-"124527",179337,"col","Tamiami",-81.01667,28.233334,"Brighton facies, Slough Ditch, about five miles east of Brighton",NA,"",2,"Late Pliocene","",3.6,2.588,26836,"gp_mid",-79.89,28.71,"109",3.094,1
-"124668",179615,"col","Isla Solarte",-82.199997,9.316667,"North shore of Nancy's Cay (Isla Solarte)",NA,"",1,"Piacenzian","",3.6,2.588,59259,"gp_mid",-81.45,9.67,"230",3.094,1
-"125247",180523,"col","Petane",176.807785,-39.308887,"Waipunga",NA,"",1,"Piacenzian","",3.6,2.588,59898,"gp_mid",177.99,-40.24,"806",3.094,1
-"125762",181317,"col","Nashua",-81.258011,28.293711,"Mead Pit",NA,"",1,"Piacenzian","",3.6,2.588,2613,"gp_mid",-80.13,28.77,"109",3.094,1
-"129325",187020,"col","",-154.699997,56.516666,"northwest side of Tugidak Island",NA,"",6,"Late Pliocene","",3.6,2.588,62716,"gp_mid",-154.37,57.4,"126",3.094,1
-"129345",187079,"col","",-146.333328,59.416668,"Extreme southeast tip of Middleton Island, USGS M1753",NA,"",1,"Late Pliocene","",3.6,2.588,62716,"gp_mid",-145.82,60.33,"126",3.094,1
-"129377",187118,"col","",17.583332,40.733334,"Ostuni",NA,"Stuni",1,"Late Pliocene","",3.6,2.588,62181,"gp_mid",17.98,39.96,"307",3.094,1
-"129660",187604,"col","Argille di Ortovera",8.214,44.088001,"Rio Torsero, Ceriale",NA,"",2,"Piacenzian","",3.6,2.588,62991,"gp_mid",8.77,43.4,"307",3.094,1
-"130240",188973,"col","",130.470001,31.73,"Iriki-toge",NA,"",1,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.91,31.55,"610",3.094,1
-"130241",188974,"col","Shiake",130.414993,31.709999,"Shiake",NA,"",2,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.86,31.53,"610",3.094,1
-"130242",188975,"col","Nagano",130.589996,31.91,"Nagano",NA,"",1,"Piacenzian","",3.6,2.588,63459,"gp_mid",130.03,31.73,"610",3.094,1
-"130243",188976,"col","Nagano",130.339996,31.875,"Togo",NA,"",21,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.78,31.69,"610",3.094,1
-"131670",191759,"col","Irene",-60.611549,-38.601082,"Cascada de la Ruta Level #2",NA,"0.27 km upstream from RN3",2,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.48,"202",3.094,1
-"131671",191760,"col","Irene",-60.611549,-38.601082,"Cascada de la Ruta Level #3",NA,"0.27 km upstream from RN3",3,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.48,"202",3.094,1
-"131672",191761,"col","Irene",-60.611549,-38.601082,"Cascada de la Ruta Level #4",NA,"0.27 km upstream from RN3",2,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.48,"202",3.094,1
-"131673",191762,"col","Irene",-60.611549,-38.601082,"Cascada de la Ruta Level #5",NA,"0.27 km upstream from RN3",1,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.48,"202",3.094,1
-"131674",191763,"col","Irene",-60.610973,-38.618477,"Cascada del Pampaterio Level #1",NA,"Ca.1.75 km downstream from RN3",2,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131675",191764,"col","Irene",-60.607407,-38.626652,"Cascada Grande Upstream waterfall ""Green 1""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",7,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131676",191765,"col","Irene",-60.607407,-38.626652,"Cascada Grande Upstream waterfall ""Sabulitic Banks""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",7,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131677",191766,"col","Irene",-60.607407,-38.626652,"Cascada Grande Upstream waterfall ""Green 2""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",7,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131678",191767,"col","Irene",-60.607407,-38.626652,"Cascada Grande Donwstream waterfall ""Level 1""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",3,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131679",191768,"col","Irene",-60.607407,-38.626652,"Cascada Grande Donwstream waterfall ""Level 2""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",9,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131680",191769,"col","Irene",-60.607407,-38.626652,"Cascada Grande Donwstream waterfall ""Level 3""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",11,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131681",191770,"col","Irene",-60.607407,-38.626652,"Cascada Grande Donwstream waterfall ""Level 4""",NA,"Cifuentes or de Aldaya, 2.85 km downstream from RN3",7,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.13,-38.5,"202",3.094,1
-"131682",191771,"col","Irene",-60.595654,-38.673187,"El Paso ""Level 1""",NA,"Ca. 0.73 km upstream from the mouth of the Indio Rico",2,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.12,-38.55,"202",3.094,1
-"131683",191772,"col","Irene",-60.595654,-38.673187,"El Paso ""Sabulitic banks""",NA,"Ca. 0.73 km upstream from the mouth of the Indio Rico",2,"Late Pliocene","",3.6,2.588,64699,"gp_mid",-60.12,-38.55,"202",3.094,1
-"132459",193557,"col","",2.783056,41.826111,"Camp dels Ninots, Can Argilera Sector",NA,"",7,"Late Pliocene","",3.6,2.588,65759,"gp_mid",3.19,41.32,"304",3.094,1
-"132460",193558,"col","",2.783056,41.826111,"Camp dels Ninots, Butano Sector",NA,"",5,"Late Pliocene","",3.6,2.588,65759,"gp_mid",3.19,41.32,"304",3.094,1
-"133589",204247,"col","",175.760574,-41.090858,"Westmere Downs",NA,"T27/f46",2,"Waipipian","",3.6,3,61724,"gp_mid",177.03,-42.05,"806",3.3,1
-"134224",197244,"col","",174.214996,-39.59528,"Ohawe Beach, Waipipian",NA,"",2,"Waipipian","",3.6,3,2019,"gp_mid",175.38,-40.61,"806",3.3,1
-"134225",197245,"col","",174.217087,-39.592793,"Waihi Beach, Waipipian",NA,"",2,"Waipipian","",3.6,3,2019,"gp_mid",175.38,-40.61,"806",3.3,1
-"134987",198693,"col","San Andres",-57.696667,-38.199444,"Playa Santa Isabel y Punta San Andrés",NA,"",3,"Late Pliocene","",3.6,2.588,67707,"gp_mid",-57.22,-38.1,"202",3.094,1
-"135061",198826,"col","Vorohué",-57.839722,-38.267502,"Baliza Chica",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.36,-38.17,"202",3.094,1
-"135064",198830,"col","Vorohué",-57.779167,-38.237221,"Arroyo las Brusquitas",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.3,-38.14,"202",3.094,1
-"135065",198832,"col","Vorohué",-57.753887,-38.235832,"Terrazas del Marquesado",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.28,-38.13,"202",3.094,1
-"135066",198833,"col","Vorohué",-57.729721,-38.215832,"Punta Vorohue",NA,"",3,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.25,-38.12,"202",3.094,1
-"135067",198834,"col","Vorohué",-57.698055,-38.210556,"Arroyo Chapadmalal",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.22,-38.11,"202",3.094,1
-"135068",198835,"col","Vorohué",-57.677502,-38.200279,"Playa Santa Isabel",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.2,-38.1,"202",3.094,1
-"135069",198836,"col","San Andres",-57.677502,-38.200279,"Playa Santa Isabel",NA,"",3,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.2,-38.1,"202",3.094,1
-"135070",198837,"col","San Andres",-57.667221,-38.19389,"Baliza San Andres",NA,"",2,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,1
-"135071",198838,"col","Vorohué",-57.663612,-38.191666,"Punta San Andres",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,1
-"135072",198839,"col","San Andres",-57.663612,-38.191666,"Punta San Andres",NA,"",2,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,1
-"135074",198843,"col","Vorohué",-57.654446,-38.183613,"Arroyo Seco",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.18,-38.08,"202",3.094,1
-"135077",198847,"col","Vorohué",-57.638611,-38.172779,"Arroyo Loberia",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.16,-38.07,"202",3.094,1
-"135119",198943,"col","Vorohué",-57.733334,-38.233334,"Playa Terrazas del Marquesado",NA,"",1,"Late Pliocene","",3.6,2.588,67786,"gp_mid",-57.26,-38.13,"202",3.094,1
-"135123",199155,"col","Barranca de los Lobos",-57.698055,-38.118889,"Barranca Parodi (Zone of  Platygonus scagliai)",NA,"beds from paleosol 7 to paleosol 9 of Zarate, 1989",15,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,1
-"135125",199157,"col","Vorohué",-57.698055,-38.118889,"Barranca Parodi (Zone of  Akodon (Akodon) lorenzinii)",NA,"beds from paleosol 9 to paleosol 11 of Zarate, 1989",12,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,1
-"135127",199160,"col","San Andres",-57.698055,-38.118889,"Punta San Andres (Zone of Paractenomys chapadmalensis)",NA,"beds from paleosol 11 to paleosol 13 of Zarate, 1989",14,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,1
-"136633",202183,"col","",172.778519,-43.106941,"Lower Waipara River",NA,"",1,"Late Pliocene","",3.6,2.588,44711,"gp_mid",175.63,-43.94,"807",3.094,1
-"136691",202249,"col","",176.818405,-39.917301,"N141/f494 - Te Aute",NA,"",1,"Waipipian","",3.6,3,63895,"gp_mid",178.04,-40.85,"806",3.3,1
-"136692",202250,"col","",175.79097,-41.057224,"Westmere Trig",NA,"",1,"Waipipian","",3.6,3,63895,"gp_mid",177.06,-42.02,"806",3.3,1
-"136856",202449,"col","Dainichi Sand",137.920837,34.808334,"Kamiiida",NA,"KKG-2",4,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.33,34.67,"610",3.094,1
-"136857",202450,"col","Dainichi Sand",137.920837,34.808334,"Goudaijimashita",NA,"KKG-3",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.33,34.67,"610",3.094,1
-"136858",202451,"col","Dainichi Sand",138.003616,34.804169,"Gomyo",NA,"KKG-11",5,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.41,34.67,"610",3.094,1
-"136863",202456,"col","Hljikata Silt",137.97583,34.787224,"leshiro Cliff",NA,"KKG-12",0,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.38,34.65,"610",3.094,1
-"136864",202457,"col","Tamari",138.037506,34.772221,"Kinjo",NA,"TMN-1",2,"Late Pliocene","",3.6,2.588,41705,"gp_mid",137.44,34.64,"610",3.094,1
-"136923",202527,"col","Barranca de los Lobos",-57.616112,-38.150833,"Barranca de los Lobos",NA,"",1,"Late Pliocene","",3.6,2.588,69394,"gp_mid",-57.14,-38.05,"202",3.094,1
-"138103",204286,"col","",176.627533,-39.80658,"Te Aute",NA,"",1,"Waipipian","",3.6,3,61708,"gp_mid",177.84,-40.74,"806",3.3,1
-"138104",204287,"col","",177.305893,-38.957199,"Mangawhero Stream",NA,"W19/f7462",1,"Waipipian","",3.6,3,61708,"gp_mid",178.48,-39.87,"806",3.3,1
-"138105",204288,"col","",177.207306,-39.02457,"Waihua River",NA,"W19/f8480",1,"Waipipian","",3.6,3,61708,"gp_mid",178.38,-39.94,"806",3.3,1
-"138530",204968,"col","",140.516663,42.799999,"Rankoshi",NA,"",1,"Late Pliocene","",3.6,2.588,70357,"gp_mid",139.84,42.68,"610",3.094,1
-"138621",205075,"col","",23.836666,40.791668,"Rema Aslan",NA,"",5,"Villanyian","",3.2,2.588,70368,"gp_mid",24.16,39.97,"308",2.894,1
-"139885",206623,"col","Vorohué",-57.629444,-38.155277,"Atlantic coastal cliffs of Partido General Alvarado",NA,"",2,"Late Pliocene","",3.6,2.588,23953,"gp_mid",-57.15,-38.06,"202",3.094,1
-"139890",206723,"col","San Andres",-57.533611,-38,"Atlantic coastal cliffs of Partido General Pueyrredon & General Alvarado",NA,"",1,"Late Pliocene","",3.6,2.588,23953,"gp_mid",-57.05,-37.9,"202",3.094,1
-"142197",210177,"col","Vorohué",-57.761665,-38.240002,"Las Antenas Militares",NA,"",1,"Late Pliocene","",3.6,2.588,72511,"gp_mid",-57.29,-38.14,"202",3.094,1
-"142265",210258,"col","",16.996944,39.130833,"Virica",NA,"",25,"Piacenzian","",3.6,2.588,72530,"gp_mid",17.38,38.36,"307",3.094,1
-"143937",212870,"col","San Gregorio",-70.235558,11.297778,"Urumaco, NE",NA,"Urumaco",1,"Late Pliocene","",3.6,2.588,73502,"gp_mid",-69.35,11.49,"203",3.094,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"5342",13907,"col","Vorohué",-57.55,-38,"15 km N Mar del Plata",NA,"",1,"Late Pliocene","",3.6,2.588,6166,"gp_mid",-57.07,-37.9,"202",3.094,"piacenzian",1617,-55.8087,-37.4455,3,1
+"12134",75996,"col","Atsuga",143.35,44.35,"Monbetsu",NA,"",1,"Late Pliocene","",3.6,2.588,12148,"gp_mid",142.65,44.25,"609",3.094,"piacenzian",2223,142.1256,45.0536,3,1
+"17862",32109,"col","",2.82,42.75,"Lo Fournas 13, near Baixas",NA,"",13,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,"piacenzian",3604,3.6409,42.3598,3,1
+"17863",32110,"col","",2.82,42.75,"Pla de la Ville, near Baixas",NA,"",11,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,"piacenzian",3604,3.6409,42.3598,3,1
+"17864",32112,"col","",2.82,42.75,"Lo Fournas 4, near Baixas",NA,"",11,"Piacenzian","",3.6,2.588,8635,"gp_mid",3.24,42.25,"304",3.094,"piacenzian",3604,3.6409,42.3598,3,1
+"19931",34616,"col","",26.96,36.75,"Kardanena",NA,"KRM",3,"Villanyian","",3.2,2.588,9135,"gp_mid",27.12,36.14,"504",2.894,"piacenzian",3977,26.1778,36.9983,3,1
+"20148",34877,"col","Riukiu Limestone",130,28.33,"Kikai-shima, Ryukyu Islands, Japan",NA,"Reef 2051",21,"Late Pliocene","",3.6,2.588,9353,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",4027,132.2076,26.7147,3,1
+"20149",34878,"col","Riukiu Limestone",125.33,24.75,"Miyako-jima, Ryukyu Islands, Japan",NA,"Reef 3285",22,"Late Pliocene","",3.6,2.588,9353,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",4028,123.2207,25.296,3,1
+"20150",34879,"col","Riukiu Limestone",123,24.45,"Yonakuni-jima, Ryukyu Islands, Japan",NA,"Reef 3286",15,"Late Pliocene","",3.6,2.588,9353,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",4029,123.2207,25.296,3,1
+"20151",34880,"col","Riukiu Limestone",124.17,24.42,"Ishigaki-jima, Ryukyu Islands, Japan",NA,"Reef 3287",5,"Late Pliocene","",3.6,2.588,9353,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",4030,123.2207,25.296,3,1
+"20152",34881,"col","Riukiu Limestone",123.75,24.05,"Hateruma-jima, Ryukyu Islands, Japan",NA,"Reef 3288",4,"Late Pliocene","",3.6,2.588,9353,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",4031,123.2207,25.296,3,1
+"20180",34929,"col","",-0.15,39.85,"Casablanca 1",NA,"Almenara 1",42,"Villanyian","",3.2,2.588,10965,"gp_mid",0.26,39.37,"304",2.894,"piacenzian",4041,-0.1085,39.866,3,1
+"20181",34930,"col","",-0.15,39.85,"Casablanca 4",NA,"Almenara 4\r\nCasablanca B",7,"Villanyian","",3.2,2.588,9381,"gp_mid",0.26,39.37,"304",2.894,"piacenzian",4041,-0.1085,39.866,3,1
+"20182",34931,"col","",-0.15,39.85,"Casablanca 6",NA,"Almenara 6",1,"Villanyian","",3.2,2.588,9381,"gp_mid",0.26,39.37,"304",2.894,"piacenzian",4041,-0.1085,39.866,3,1
+"20252",35028,"col","Nashua",-81.67,29.52,"Nashua Formation",NA,"",6,"Late Pliocene","",3.6,2.588,9411,"gp_mid",-80.53,30,"109",3.094,"piacenzian",4057,-81.923,30.2311,3,1
+"20253",35029,"col","Jackson Bluff",-84.64,30.39,"Jackson Bluff Formation (unspecified localities)",NA,"",5,"Late Pliocene","",3.6,2.588,9411,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"20725",35686,"col","Onoke",175.47,-41.22,"New Zealand N166/522",NA,"Wairarapa N166/522",1,"Late Pliocene","",3.6,2.588,9626,"gp_mid",176.74,-42.19,"806",3.094,"piacenzian",4146,177.6381,-40.764,3,1
+"20726",35687,"col","Onoke",174.72,-41.25,"New Zealand N165/515",NA,"Wairarapa N165/515",2,"Late Pliocene","",3.6,2.588,9626,"gp_mid",175.99,-42.25,"806",3.094,"piacenzian",4147,177.6381,-40.764,3,1
+"21715",37049,"col","",2.77,42.85,"Mas Genegals, near Vingrau, Pyrenees Orientales",NA,"",10,"MN 16","",3.2,2.588,9928,"gp_mid",3.19,42.35,"304",2.894,"piacenzian",4429,3.6409,42.3598,3,1
+"24902",41568,"col","Mare",-64,10,"Locality E, Venezuela - Weisbord (1964)",NA,"Locality E",8,"Late Pliocene","",3.6,2.588,11132,"gp_mid",-63.12,10.14,"201",3.094,"piacenzian",5323,-63.2695,10.0597,3,1
+"24927",41594,"col","Nagura Gravel",124.23,24.43,"USGS M-279d, Ryukyu - Foster (1965)",NA,"USGS M-279d",15,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24928",41595,"col","Nagura Gravel",124.23,24.43,"USGS M-279c, Ryukyu - Foster (1965)",NA,"USGS M-279c",11,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24929",41596,"col","Nagura Gravel",124.23,24.43,"USGS M-279b, Ryukyu - Foster (1965)",NA,"USGS M-279b",4,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24930",41597,"col","Nagura Gravel",124.23,24.43,"USGS M-278c, Ryukyu - Foster (1965)",NA,"USGS M-278c",10,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24931",41598,"col","Nagura Gravel",124.23,24.43,"USGS M-278b, Ryukyu - Foster (1965)",NA,"USGS M-278b",19,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24932",41599,"col","Nagura Gravel",124.23,24.43,"USGS M-278a, Ryukyu - Foster (1965)",NA,"USGS M-278a",9,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24933",41600,"col","Nagura Gravel",124.23,24.43,"USGS M-277c, Ryukyu - Foster (1965)",NA,"USGS M-277c",31,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24934",41601,"col","Nagura Gravel",124.23,24.43,"USGS M-277a, Ryukyu - Foster (1965)",NA,"USGS M-277a",16,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24935",41602,"col","Nagura Gravel",124.23,24.43,"USGS M-143, Ryukyu - Foster (1965)",NA,"USGS M-143",7,"Late Pliocene","",3.6,2.588,11144,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5327,123.2207,25.296,3,1
+"24959",41650,"col","Ulian",122.49,11.09,"SKGS-73, Philippines - Tshuto (1969)",NA,"SKGS-73",16,"Late Pliocene","",3.6,2.588,11152,"gp_mid",123.15,10.51,"659",3.094,"piacenzian",5337,123.7364,10.2077,3,1
+"24974",41664,"col","Ulian",122.48,11.03,"SKGS-72, Philippines - Tshuto (1969)",NA,"SKGS-72",23,"Late Pliocene","",3.6,2.588,11152,"gp_mid",123.14,10.46,"659",3.094,"piacenzian",5345,123.7364,10.2077,3,1
+"25538",42291,"col","",127.78,26.45,"USGS 17554 - Naha Limestone, Ryukyu Group, Okinawa",NA,"WF 294",3,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5531,126.9311,27.8554,3,1
+"25539",42292,"col","",128.13,26.72,"USGS 17561 - Naha Limestone, Ryukyu Group, Okinawa",NA,"GC 32",2,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5532,126.9311,27.8554,3,1
+"25540",42293,"col","",127.78,26.38,"USGS 17540 - Naha Limestone, Ryukyu Group, Okinawa",NA,"WF 259",3,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5533,126.9311,27.8554,3,1
+"25541",42294,"col","",127.78,26.45,"USGS 17541 - Naha Limestone, Ryukyu Group, Okinawa",NA,"WF 293",5,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5531,126.9311,27.8554,3,1
+"25542",42295,"col","",127.88,26.37,"USGS 17571 - Naha Limestone, Ryukyu Group, Okinawa",NA,"DF 137",2,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5534,126.9311,27.8554,3,1
+"25543",42296,"col","",127.72,26.38,"USGS 17537 - Naha Limestone, Ryukyu Group, Okinawa",NA,"WF 267",3,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5535,126.9311,27.8554,3,1
+"25544",42299,"col","",127.95,26.7,"USGS 17574 - Naha Limestone, Ryukyu Group, Okinawa",NA,"DF 154",2,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5536,126.9311,27.8554,3,1
+"25549",42312,"col","",127.78,26.45,"USGS 17564 - Naha Limestone, Ryukyu Group, Okinawa",NA,"DF 126",1,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5531,126.9311,27.8554,3,1
+"25597",42383,"col","",127.78,26.45,"Naha Limestone, Ryukyu Group, Okinawa",NA,"",10,"Late Pliocene","",3.6,2.588,7337,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",5531,126.9311,27.8554,3,1
+"27955",45332,"col","",114,-8,"Locality M.6 sheet 99B, W. of Sempol",NA,"",4,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,"piacenzian",6290,112.4407,-7.5574,3,1
+"27956",45333,"col","",112.71,-7.44,"Locality M.251, sheet 93b, Soloriver N.W. of Padasmalang",NA,"",2,"Late Pliocene","",3.6,2.588,11360,"gp_mid",113.38,-7.7,"620",3.094,"piacenzian",6291,112.4407,-7.5574,3,1
+"27957",45334,"col","",110.67,-7.23,"M.252, sheet 93B, Soloriver N.W. of Padasamalang",NA,"",7,"Late Pliocene","",3.6,2.588,11360,"gp_mid",111.34,-7.53,"620",3.094,"piacenzian",6292,112.4407,-7.5574,3,1
+"27958",45335,"col","",110.67,-7.25,"M.253, sheet 93b, Soloriver N.W. of Padasamalang",NA,"Reef 3589",11,"Late Pliocene","",3.6,2.588,11360,"gp_mid",111.34,-7.55,"620",3.094,"piacenzian",6293,112.4407,-7.5574,3,1
+"27959",45336,"col","Kalibeng",110.67,-7.25,"M.254, sheet 93b, Soloriver N.W. of Padasamalang",NA,"Reef 3589",1,"Late Pliocene","",3.6,2.588,11360,"gp_mid",111.34,-7.55,"620",3.094,"piacenzian",6293,112.4407,-7.5574,3,1
+"27961",45338,"col","",114,-8,"M.258, sheet 93b, Soloriver near Sonde",NA,"",1,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,"piacenzian",6290,112.4407,-7.5574,3,1
+"27962",45339,"col","Kalibeng",114,-8,"M.260, sheet 93b, Soloriver near Bangoenredjo Kidoel",NA,"Reef 3589",18,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,"piacenzian",6290,112.4407,-7.5574,3,1
+"27963",45340,"col","Kalibeng",114,-8,"M.250, sheet 93b, Soloriver near Gadjah",NA,"Reef 3589",1,"Late Pliocene","",3.6,2.588,11360,"gp_mid",114.69,-8.23,"620",3.094,"piacenzian",6290,112.4407,-7.5574,3,1
+"31288",49096,"col","",3.68,43.46,"Balaruc II, Herault",NA,"",23,"Late Pliocene","",3.6,2.588,19698,"gp_mid",4.09,42.96,"305",3.094,"piacenzian",7413,3.6409,42.3598,3,1
+"33119",51506,"col","Finikia",25.27,35.3,"Skythia section, list A",NA,"~Sample V1",4,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33120",51507,"col","Finikia",25.27,35.3,"Skythia section, list B",NA,"~Sample V1",5,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33121",51508,"col","Finikia",25.27,35.3,"Skythia section, list C",NA,"~Sample V1-V2",6,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33122",51509,"col","Finikia",25.27,35.3,"Skythia section, list D",NA,"~Sample V2",9,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33123",51510,"col","Finikia",25.27,35.3,"Skythia section, list E",NA,"~Sample V2-V3",5,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33124",51511,"col","Finikia",25.27,35.3,"Skythia section, list F",NA,"~Sample V3",7,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33125",51512,"col","Finikia",25.27,35.3,"Skythia section, list G",NA,"~Sample V4",5,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33126",51513,"col","Finikia",25.27,35.3,"Skythia section, list H",NA,"~Sample V9",6,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33127",51514,"col","Finikia",25.27,35.3,"Skythia section, list I",NA,"~Sample V10",7,"Piacenzian","",3.6,2.588,13699,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",7919,26.144,34.6163,3,1
+"33792",52229,"col","",-115.73,30.07,"El Rosario Arriba",NA,"UCMP V6225",3,"Late Pliocene","",3.6,2.588,6029,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",8100,-114.9267,29.6616,3,1
+"33794",52231,"col","Sarumaru",138.07,36.67,"Do-ai",NA,"UCMP V70112",2,"Late Pliocene","",3.6,2.588,6029,"gp_mid",137.46,36.53,"610",3.094,"piacenzian",8102,138.2874,37.6388,3,1
+"38815",58893,"col","Chowan RIver",-76.65,35.28,"Section 2 (Chowan River Fm) - Lee Creek Mine",NA,"B 25359",35,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,"piacenzian",9376,-74.3638,35.1864,3,1
+"38816",58894,"col","Chowan RIver",-76.65,35.28,"Section 4 (Chowan River Fm) - Lee Creek Mine",NA,"B 25363",36,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,"piacenzian",9376,-74.3638,35.1864,3,1
+"38817",58895,"col","Chowan RIver",-76.65,35.28,"Section 5 (Chowan River Fm) - Lee Creek Mine",NA,"B 25366",98,"Late Pliocene","",3.6,2.588,16700,"gp_mid",-75.36,35.7,"109",3.094,"piacenzian",9376,-74.3638,35.1864,3,1
+"38977",59065,"col","",-124.12,41.04,"Little River Rock, east",NA,"UCMP V-6724",1,"Piacenzian","",3.6,2.588,16773,"gp_mid",-122.78,41.71,"129",3.094,"piacenzian",9419,-123.2882,40.3502,3,1
+"39374",59484,"col","Jackson Bluff",-84.57,30.43,"USGS Loc. 3421 - Harveys Creek [Jackson Bluff Fm]",NA,"FGS Station 1/946",189,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.42,30.95,"109",3.094,"piacenzian",9509,-85.6821,30.2519,3,1
+"39375",59485,"col","Jackson Bluff",-84.64,30.39,"USGS Loc. 3422 - Jackson Bluff [Jackson Bluff Fm]",NA,"FGS Station 1/963",65,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"39376",59486,"col","Jackson Bluff",-84.64,30.39,"USGS Loc. 11732 - Jackson Bluff [Jackson Bluff Fm]",NA,"",73,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"39377",59487,"col","Jackson Bluff",-84.64,30.39,"USGS Loc. 3423 - Jackson Bluff [Jackson Bluff Fm]",NA,"FGS Station 1/967",85,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"39378",59488,"col","Jackson Bluff",-84.57,30.43,"FGS Station 1/965 - Harveys Creek [Jackson Bluff Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.42,30.95,"109",3.094,"piacenzian",9509,-85.6821,30.2519,3,1
+"39379",59489,"col","Jackson Bluff",-84.53,30.97,"USGS Loc. 4993 - Holland [Jackson Bluff Fm]",NA,"",14,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.38,31.5,"109",3.094,"piacenzian",9510,-85.6821,30.2519,3,1
+"39380",59490,"col","Jackson Bluff",-84.57,30.43,"FGS Station 1/964 - Harveys Creek [Jackson Bluff Fm]",NA,"",16,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.42,30.95,"109",3.094,"piacenzian",9509,-85.6821,30.2519,3,1
+"39381",59491,"col","Jackson Bluff",-84.63,30.39,"FGS Station 1/966 - Double Branch [Jackson Bluff]",NA,"",27,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.48,30.91,"109",3.094,"piacenzian",9511,-85.6821,30.2519,3,1
+"40582",60934,"col","Raysor",-80.15,33.33,"Cross (Loc. 9) - Raysor Marl (Ward and Huddlestun (1988) coll.)",NA,"",1,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,"piacenzian",9804,-78.1444,32.7092,3,1
+"40587",60938,"col","Raysor",-80.15,33.33,"Cross (Loc. 16) - Raysor and lower Goose Creek Lmst",NA,"",3,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,"piacenzian",9804,-78.1444,32.7092,3,1
+"40589",60941,"col","Raysor",-80.15,33.33,"Cross (Loc. 20) - Raysor Marl (Campbell et al. 1975 coll.)",NA,"",6,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,"piacenzian",9804,-78.1444,32.7092,3,1
+"40590",60942,"col","Raysor",-80.15,33.33,"Cross (Loc. 28) - Raysor Marl (Mercenaria level)",NA,"",5,"Late Pliocene","",3.6,2.588,17558,"gp_mid",-78.92,33.79,"109",3.094,"piacenzian",9804,-78.1444,32.7092,3,1
+"40791",61155,"col","Jackson Bluff",-84.66,29.85,"USGS Loc. 7474 - Rock Creek [Jackson Bluff Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,17060,"gp_mid",-83.53,30.38,"109",3.094,"piacenzian",9850,-85.6821,30.2519,3,1
+"40920",61293,"col","Yorktown",-76.39,37.1,"Langley Core, VA - 6.49-6.55 m (Yorktown Fm)",NA,"21.3-21.5 ft",28,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,"piacenzian",9885,-74.34,37.6864,3,1
+"40921",61294,"col","Yorktown",-76.39,37.1,"Langley Core, VA - 7.25-7.28 m (Yorktown Fm)",NA,"23.8-23.9 ft",9,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,"piacenzian",9885,-74.34,37.6864,3,1
+"40922",61295,"col","Yorktown",-76.39,37.1,"Langley Core, VA - 8.41-8.47 m (Yorktown Fm)",NA,"27.6-27.8 ft",8,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,"piacenzian",9885,-74.34,37.6864,3,1
+"40923",61296,"col","Yorktown",-76.39,37.1,"Langley Core, VA - 12.86-12.95 m (Yorktown Fm)",NA,"42.2-42.5 ft",13,"Late Pliocene","",3.6,2.588,17631,"gp_mid",-75.06,37.51,"109",3.094,"piacenzian",9885,-74.34,37.6864,3,1
+"42456",63702,"col","Cameron Inlet",148.11,-39.97,"PL 1264 - Cameron Inlet Fm, Flinders Island",NA,"",7,"Late Pliocene","",3.6,2.588,18298,"gp_mid",148.77,-41.7,"801",3.094,"piacenzian",10228,146.1977,-41.6612,3,1
+"42457",63703,"col","Cameron Inlet",148.11,-39.97,"PL 1265 - Cameron Inlet Fm, Flinders Island",NA,"",4,"Late Pliocene","",3.6,2.588,18298,"gp_mid",148.77,-41.7,"801",3.094,"piacenzian",10228,146.1977,-41.6612,3,1
+"42458",63704,"col","Cameron Inlet",148.11,-39.97,"PL 1268 - Cameron Inlet Fm, Flinders Island",NA,"",4,"Late Pliocene","",3.6,2.588,18298,"gp_mid",148.77,-41.7,"801",3.094,"piacenzian",10228,146.1977,-41.6612,3,1
+"46166",68812,"col","",2.57,39.67,"Cova de Canet",NA,"",4,"Late Pliocene","",3.6,2.588,19858,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",11208,3.634,39.8598,3,1
+"46330",68982,"col","Jackson Bluff",-84.64,30.39,"PRI bulk sample, replicate A [Jackson Bluff Fm]",NA,"",0,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"46375",69042,"col","Yorktown",-76.69,37.21,"PRI Loc. 1634 (sample 27, replicate A) [Mogarts Mbr, Yorktown Fm]",NA,"",0,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,"piacenzian",11279,-74.34,37.6864,3,1
+"46376",69044,"col","Tamiami",-80.31,25.67,"PRI Loc. 1957 (sample 33) - Pinecrest Mbr, Tamiami Fm",NA,"Olsson Loc. 1094",33,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-79.22,26.13,"109",3.094,"piacenzian",11280,-78.2026,25.2094,3,1
+"47804",71135,"col","Matanzas",-81.57,23.05,"Yumuri River, Matanzas",NA,"",5,"Late Pliocene","",3.6,2.588,12754,"gp_mid",-80.53,23.53,"206",3.094,"piacenzian",11688,-81.9762,22.7312,3,1
+"47926",71304,"col","Vorohué",-57.72,-38.03,"Arroyo Loberia",NA,"",29,"Late Pliocene","",3.6,2.588,24008,"gp_mid",-57.24,-37.93,"202",3.094,"piacenzian",11717,-55.8087,-37.4455,3,1
+"48093",71621,"col","Yorktown",-76.77,37.17,"Cobham Wharf, Mollusk Zone 5",NA,"",4,"Late Pliocene","",3.6,2.588,16985,"gp_mid",-75.45,37.59,"109",3.094,"piacenzian",11742,-74.34,37.6864,3,1
+"48342",72016,"col","Byoritsu",120.82,24.55,"Hills west of Miao-li",NA,"",4,"Late Pliocene","",3.6,2.588,24352,"gp_mid",120.58,24.5,"611",3.094,"piacenzian",11840,119.4631,25.235,3,1
+"48669",72415,"col","",24.52,36.77,"Chlamys inaequicostalis assemblage zone, Milos Island",NA,"",17,"Piacenzian","",3.6,2.588,24517,"gp_mid",24.79,35.94,"307",3.094,"piacenzian",11932,26.1778,36.9983,3,1
+"49035",73646,"col","",-79.11,24.65,"Unda Well, 167.9-180.8 m, Great Bahama Bank",NA,"",4,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49036",73647,"col","",-79.11,24.65,"Unda Well, 155.8-162.5 m, Great Bahama Bank",NA,"Reef 705",3,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49037",73648,"col","",-79.11,24.65,"Unda Well, 104.2-108.2 m, Great Bahama Bank",NA,"Reef 705",13,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49038",73649,"col","",-79.11,24.65,"Unda Well, 90.2-104.2 m, Great Bahama Bank",NA,"Reef 705",15,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49039",73650,"col","",-79.11,24.65,"Unda Well, 82.9-90.2 m, Great Bahama Bank",NA,"Reef 705",3,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49040",73651,"col","",-79.11,24.65,"Unda Well, 78.9-82.9 m, Great Bahama Bank",NA,"Reef 705",11,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49041",73652,"col","",-79.11,24.65,"Unda Well, 71.9-78.9 m, Great Bahama Bank",NA,"Reef 705",7,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49042",73653,"col","",-79.11,24.65,"Unda Well, 63.7-71.9 m, Great Bahama Bank",NA,"Reef 705",4,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12040,-78.2026,25.2094,3,1
+"49043",73658,"col","",-79.18,24.6,"Clino Well, 184.7-197.5 m, Great Bahama Bank",NA,"Reef 705",9,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12041,-78.2026,25.2094,3,1
+"49044",73659,"col","",-79.18,24.6,"Clino Well, 158.5-165.3 m, Great Bahama Bank",NA,"Reef 705",8,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12041,-78.2026,25.2094,3,1
+"49045",73660,"col","",-79.18,24.6,"Clino Well, 156.7-158.5 m, Great Bahama Bank",NA,"Reef 705",3,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12041,-78.2026,25.2094,3,1
+"49046",73661,"col","",-79.18,24.6,"Clino Well, 140.5-147.5 m, Great Bahama Bank",NA,"Reef 705",9,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12041,-78.2026,25.2094,3,1
+"49047",73662,"col","",-79.18,24.6,"Clino Well, 135.6-140.5 m, Great Bahama Bank",NA,"Reef 705",5,"Late Pliocene","",3.6,2.588,24698,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",12041,-78.2026,25.2094,3,1
+"49803",74658,"col","",177.53,-38.83,"Te Reinga Falls",NA,"",6,"Waipipian","",3.6,3,29598,"gp_mid",178.7,-39.74,"806",3.3,"piacenzian",12180,177.6381,-40.764,3,1
+"50356",75731,"col","",144.08,47.62,"Sea of Okhotsk",NA,"",1,"Late Pliocene","",3.6,2.588,25590,"gp_mid",143.34,47.52,"609",3.094,"piacenzian",12340,142.1031,47.5536,3,1
+"50577",76014,"col","",140.6,36.32,"Oarai",NA,"",1,"Piacenzian","",3.6,2.588,12148,"gp_mid",139.99,36.19,"610",3.094,"piacenzian",12458,138.2874,37.6388,3,1
+"50704",76533,"col","",37.63,47.12,"Maryupol, Pliocene",NA,"Zhdanov, Mariupol', Samara Ravine, gravel quarry of Azovstal",7,"Late Pliocene","",3.6,2.588,24838,"gp_mid",37.72,46.5,"302",3.094,"piacenzian",12527,37.3136,47.3374,3,1
+"50705",76534,"col","",37.67,47.08,"Lyapino",NA,"",3,"Late Pliocene","",3.6,2.588,24838,"gp_mid",37.76,46.46,"302",3.094,"piacenzian",12528,37.3136,47.3374,3,1
+"50706",76535,"col","",36.81,46.75,"Berdyansk",NA,"",1,"Late Pliocene","",3.6,2.588,24838,"gp_mid",36.91,46.12,"302",3.094,"piacenzian",12529,37.3136,47.3374,3,1
+"50866",76983,"col","Lillo",4.28,51.25,"Antwerp area - unspecified [Oorderen Mbr, Kattendijk Fm]",NA,"",20,"Piacenzian","",3.6,2.588,25971,"gp_mid",4.79,50.74,"315",3.094,"piacenzian",12571,3.6808,52.3663,3,1
+"51209",77498,"col","Lillo",4.23,51.25,"Vrasene Dok",NA,"Vrasene Dock",1,"Piacenzian","",3.6,2.588,26798,"gp_mid",4.74,50.75,"315",3.094,"piacenzian",12675,3.6808,52.3663,3,1
+"51227",77591,"col","Raysor",-80.18,33.33,"Cross Quarry, Raysor Formation",NA,"",1,"Piacenzian","",3.6,2.588,26222,"gp_mid",-78.95,33.8,"109",3.094,"piacenzian",12688,-78.1444,32.7092,3,1
+"51597",78260,"col","Yorktown",-76.51,37.23,"Station 2244a [Moore House Mbr, Yorktown Fm]",NA,"",13,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51598",78261,"col","Yorktown",-76.51,37.23,"Station 2244b [Moore House Mbr, Yorktown Fm]",NA,"",43,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51599",78262,"col","Yorktown",-76.51,37.23,"Station 2245 [Moore House Mbr, Yorktown Fm]",NA,"",50,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51601",78264,"col","Yorktown",-76.51,37.23,"Station 2246 [Moore House Mbr, Yorktown Fm]",NA,"",41,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51602",78265,"col","Yorktown",-76.51,37.23,"Station 2247a [Moore House Mbr, Yorktown Fm]",NA,"",50,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51603",78266,"col","Yorktown",-76.51,37.23,"Station 2247b [Moore House Mbr, Yorktown Fm]",NA,"",55,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51604",78267,"col","Yorktown",-76.51,37.23,"Station 2247c [Moore House Mbr, Yorktown Fm]",NA,"",29,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51605",78268,"col","Yorktown",-76.51,37.23,"Station 2248 [Moore House Mbr, Yorktown Fm]",NA,"",20,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51606",78269,"col","Yorktown",-76.51,37.23,"Station 2249a [Moore House Mbr, Yorktown Fm]",NA,"",59,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51607",78270,"col","Yorktown",-76.51,37.23,"Station 2249b [Moore House Mbr, Yorktown Fm]",NA,"",37,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.65,"109",3.094,"piacenzian",12824,-74.34,37.6864,3,1
+"51608",78271,"col","Yorktown",-76.5,37.25,"Station 2251 [Moore House Mbr, Yorktown Fm]",NA,"",24,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.18,37.66,"109",3.094,"piacenzian",12825,-74.34,37.6864,3,1
+"51609",78272,"col","Yorktown",-76.57,37.27,"Station 2250 [Rushmere Mbr, Yorktown Fm]",NA,"",23,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.24,37.68,"109",3.094,"piacenzian",12826,-74.34,37.6864,3,1
+"51610",78273,"col","Yorktown",-76.57,37.27,"Station 2250 [Sunken Meadow Mbr, Yorktown Fm]",NA,"",12,"Late Pliocene","",3.6,2.588,26351,"gp_mid",-75.24,37.68,"109",3.094,"piacenzian",12826,-74.34,37.6864,3,1
+"52204",79201,"col","",-74.75,-43.62,"Loc. 1 - Guafo Island",NA,"",13,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52205",79202,"col","",-74.75,-43.62,"Loc. 2 - Guafo Island",NA,"Loc.  031083",13,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52206",79203,"col","",-74.75,-43.62,"Loc. 3 - Guafo Island",NA,"Loc.  290884.1",7,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52207",79204,"col","",-74.75,-43.62,"Loc. 4 - Guafo Island",NA,"Loc.  290884.2",17,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52208",79205,"col","",-74.75,-43.62,"Loc. 5 - Guafo Island",NA,"Loc.  031083.2",9,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52209",79206,"col","",-74.75,-43.62,"Loc. 6 - Guafo Island",NA,"Loc.  300884.1",12,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52210",79207,"col","",-74.75,-43.62,"Loc. 7 - Guafo Island",NA,"Loc.  300884.3",16,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52211",79208,"col","",-74.75,-43.62,"Loc. 8 - Guafo Island",NA,"Loc.  021083.2",14,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52212",79209,"col","",-74.75,-43.62,"Loc. 9 - Guafo Island",NA,"Loc.  021083.3",10,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52213",79210,"col","",-74.75,-43.62,"Loc. 10 - Guafo Island",NA,"Loc.  021083",6,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52214",79211,"col","",-74.75,-43.62,"Loc. 11 - Guafo Island",NA,"Loc.  280884.2",9,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52215",79212,"col","",-74.75,-43.62,"Loc. 12 - Guafo Island",NA,"Loc.  280884.1",8,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52216",79213,"col","",-74.75,-43.62,"Loc. 13 - Guafo Island",NA,"Loc.  021083.1",15,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52217",79214,"col","",-74.75,-43.62,"Loc. 14 - Guafo Island",NA,"Loc.  290884.3",2,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52218",79215,"col","",-74.75,-43.62,"Loc. 15 - Guafo Island",NA,"Loc.  290884.4",3,"Late Pliocene","",3.6,2.588,26577,"gp_mid",-74.3,-43.4,"291",3.094,"piacenzian",12971,-74.547,-42.4346,3,1
+"52231",79245,"col","Yorktown",-76.58,37.02,"PRI Loc. 1611 [Yorktown Fm]",NA,"",29,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.25,37.43,"109",3.094,"piacenzian",12984,-74.34,37.6864,3,1
+"52232",79246,"col","Yorktown",-76.69,37.21,"PRI Loc. 1634 (sample 27, replicate B) [Mogarts Mbr, Yorktown Fm]",NA,"",22,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,"piacenzian",11279,-74.34,37.6864,3,1
+"52233",79247,"col","Yorktown",-76.69,37.21,"PRI Loc. 1634 (sample 25, replicate A) [Mogarts Mbr, Yorktown Fm]",NA,"",23,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-75.37,37.62,"109",3.094,"piacenzian",11279,-74.34,37.6864,3,1
+"52447",79709,"col","Yorktown",-76.63,37.06,"TU 77 - Burwell Bay [Yorktown Fm]",NA,"",49,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.31,37.48,"109",3.094,"piacenzian",13048,-74.34,37.6864,3,1
+"52448",79710,"col","Araya",-64.18,10.82,"Araya Formation, Cubagua Island",NA,"",115,"Late Pliocene","",3.6,2.588,26791,"gp_mid",-63.55,11.04,"234",3.094,"piacenzian",13049,-63.2695,10.0597,3,1
+"52465",79761,"col","Tamiami",-80.31,25.67,"Pinecrest [Pinecrest Mbr, Tamiami Fm]",NA,"",35,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-79.22,26.13,"109",3.094,"piacenzian",11280,-78.2026,25.2094,3,1
+"52466",79762,"col","Tamiami",-81.13,26.01,"Seminole Indian Reservation [Pinecrest Mbr, Tamiami Fm]",NA,"",10,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.04,26.49,"109",3.094,"piacenzian",13058,-81.9592,25.2312,3,1
+"52467",79764,"col","Tamiami",-81.13,26.01,"Fisheating Creek [Pinecrest Mbr, Tamiami Fm]",NA,"",7,"Late Pliocene","",3.6,2.588,19826,"gp_mid",-80.04,26.49,"109",3.094,"piacenzian",13058,-81.9592,25.2312,3,1
+"52528",79958,"col","Tamiami",-81.77,26.14,"Golden Gate Mbr, Tamiami Fm",NA,"",83,"Late Pliocene","",3.6,2.588,26813,"gp_mid",-80.68,26.63,"109",3.094,"piacenzian",13084,-81.9592,25.2312,3,1
+"52530",79960,"col","Tamiami",-81.3,25.9,"Buckingham Member, Tamiami Formation (unspecified localities)",NA,"",118,"Late Pliocene","",3.6,2.588,26813,"gp_mid",-80.22,26.38,"109",3.094,"piacenzian",13086,-81.9592,25.2312,3,1
+"52578",80029,"col","Jackson Bluff",-84.98,30.43,"MCZ C. Jones Loc. 32 [Jackson Bluff Fm]",NA,"",14,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-83.83,30.96,"109",3.094,"piacenzian",13102,-85.6821,30.2519,3,1
+"52579",80036,"col","Yorktown",-76.63,37.06,"TU 856 [Rushmere Mbr, Yorktown Fm]",NA,"",37,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.31,37.48,"109",3.094,"piacenzian",13048,-74.34,37.6864,3,1
+"52580",80037,"col","Jackson Bluff",-84.64,30.39,"MCZ C. Jones Loc. 42 [Jackson Bluff Fm]",NA,"",49,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"52581",80038,"col","Yorktown",-76.74,37.15,"TU 858 [Yorktown Fm]",NA,"",38,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-75.42,37.56,"109",3.094,"piacenzian",13103,-74.34,37.6864,3,1
+"52582",80039,"col","Jackson Bluff",-84.64,30.39,"MCZ C. Jones Loc. 42a [Jackson Bluff Fm]",NA,"",28,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"52584",80044,"col","Jackson Bluff",-84.64,30.39,"MCZ C. Jones Loc. 45 [Jackson Bluff Fm]",NA,"",28,"Late Pliocene","",3.6,2.588,19909,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"55241",84232,"col","Lillo",4.22,51.28,"Verrebroek dock",NA,"Liefkenshoektunnel",6,"Piacenzian","",3.6,2.588,43040,"gp_mid",4.73,50.77,"315",3.094,"piacenzian",14028,3.6808,52.3663,3,1
+"56958",86803,"col","Lillo",4.28,51.25,"Antwep area - Basal crag [Oorderen Mbr, Lillo Fm]",NA,"",85,"Piacenzian","",3.6,2.588,29222,"gp_mid",4.79,50.74,"315",3.094,"piacenzian",12571,3.6808,52.3663,3,1
+"56959",86804,"col","Lillo",4.28,51.25,"Antwerp area - Atrina bed [Oorderen Mbr, Lillo Fm]",NA,"",82,"Piacenzian","",3.6,2.588,29222,"gp_mid",4.79,50.74,"315",3.094,"piacenzian",12571,3.6808,52.3663,3,1
+"56960",86805,"col","Lillo",4.28,51.25,"Antwerp area - Cultellus bed [Oorderen Mbr, Lillo Fm]",NA,"",90,"Piacenzian","",3.6,2.588,29222,"gp_mid",4.79,50.74,"315",3.094,"piacenzian",12571,3.6808,52.3663,3,1
+"56961",86806,"col","Lillo",4.28,51.25,"Antwerp area - Angulus benedeni bed [Oorderen Mbr, Lillo Fm]",NA,"",43,"Piacenzian","",3.6,2.588,29222,"gp_mid",4.79,50.74,"315",3.094,"piacenzian",12571,3.6808,52.3663,3,1
+"57823",87896,"col","",176.92,-39.49,"Napier",NA,"",3,"Late Pliocene","",3.6,2.588,29544,"gp_mid",178.11,-40.42,"806",3.094,"piacenzian",14968,177.6381,-40.764,3,1
+"58837",89089,"col","",177.43,-39.07,"GS 1215, N115 Wairoa River",NA,"",1,"Late Pliocene","",3.6,2.588,29819,"gp_mid",178.61,-39.98,"806",3.094,"piacenzian",15299,177.6381,-40.764,3,1
+"59037",89446,"col","Oosterhout",5.73,51.7,"Langenboom, Oosterhout Formation, Unit C",NA,"",3,"Piacenzian","",3.6,2.588,29366,"gp_mid",6.23,51.18,"315",3.094,"piacenzian",15371,7.4192,52.3605,3,1
+"59179",89861,"col","Shiroiwa",138.83,37.34,"Nagaoka, south",NA,"",18,"Late Pliocene","",3.6,2.588,30098,"gp_mid",138.21,37.2,"610",3.094,"piacenzian",15413,138.2874,37.6388,3,1
+"60999",92361,"col","Tamiami",-81.48,26.13,"TU 796 - Alligator Alley [Pinecrest Fm]",NA,"",5,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,"piacenzian",16092,-81.9592,25.2312,3,1
+"61000",92362,"col","Tamiami",-81.48,26.13,"TU 797 - Alligator Alley [Pinecrest Fm]",NA,"",10,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,"piacenzian",16092,-81.9592,25.2312,3,1
+"61001",92363,"col","Tamiami",-81.48,26.13,"TU 933 - Alligator Alley [Pinecrest Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,"piacenzian",16092,-81.9592,25.2312,3,1
+"61011",92380,"col","Tamiami",-81.48,26.13,"TU 1177 - Mule Pen Quarry [Pinecrest Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-80.4,26.62,"109",3.094,"piacenzian",16092,-81.9592,25.2312,3,1
+"61056",92440,"col","Jackson Bluff",-84.64,30.39,"TU 60 - Jackson Bluff [Jackson Bluff Fm]",NA,"",8,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-83.5,30.91,"109",3.094,"piacenzian",4058,-85.6821,30.2519,3,1
+"61109",92510,"col","Jackson Bluff",-84.99,30.47,"TU 72 - Alum Bluff [Jackson Bluff Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-83.84,31,"109",3.094,"piacenzian",16123,-85.6821,30.2519,3,1
+"61113",92518,"col","Tamiami",-80.53,25.62,"TU 525 - ""Forty-mile Bend"" [Pinecrest Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.45,26.09,"109",3.094,"piacenzian",16125,-78.2026,25.2094,3,1
+"61156",92576,"col","Jackson Bluff",-85.17,30.42,"TU 73 - ""Dripping Springs"" [Jackson Bluff Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-84.02,30.95,"109",3.094,"piacenzian",16131,-85.6821,30.2519,3,1
+"61159",92583,"col","",106.6,-6.33,"Cilegong, Java",NA,"",2,"Late Pliocene","",3.6,2.588,31196,"gp_mid",107.25,-6.72,"620",3.094,"piacenzian",16132,104.9394,-7.617,3,1
+"61211",92660,"col","Tamiami",-80.62,26.13,"TU 740 - Miami Canal [Pinecrest Fm]",NA,"",2,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,"piacenzian",16147,-78.2026,25.2094,3,1
+"61212",92661,"col","Tamiami",-80.62,26.13,"TU 741 - Miami Canal [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,"piacenzian",16147,-78.2026,25.2094,3,1
+"61213",92662,"col","Tamiami",-80.62,26.13,"TU 742 - Miami Canal [Pinecrest Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,31182,"gp_mid",-79.53,26.6,"109",3.094,"piacenzian",16147,-78.2026,25.2094,3,1
+"61808",93543,"col","Wanlanae",120.02,-4.38,"Lakibong",NA,"FVL-5",6,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,"piacenzian",16345,119.9516,-4.8642,3,1
+"61810",93545,"col","Wanlanae",120.02,-4.38,"Lakibong",NA,"FVL-6",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,"piacenzian",16345,119.9516,-4.8642,3,1
+"61811",93546,"col","Walanae",120,-4.27,"Sompe",NA,"FVL-25, Sompoh, Sompo",7,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.38,"683",3.094,"piacenzian",16347,119.9516,-4.8642,3,1
+"61813",93548,"col","Walanae",120,-4.39,"Sare Batue",NA,"FVL3/4",5,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.49,"683",3.094,"piacenzian",16349,119.9516,-4.8642,3,1
+"61828",93567,"col","Walane",120.09,-4.27,"Bulu Barere",NA,"FVL-28",4,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.7,-4.37,"683",3.094,"piacenzian",16359,119.9516,-4.8642,3,1
+"61868",93612,"col","Mao",-71.17,19.55,"NMB Loc. 15833 - Rio Gurabo [Mao Fm]",NA,"",35,"Piacenzian","",3.6,2.588,25313,"gp_mid",-70.42,19.85,"252",3.094,"piacenzian",16380,-71.5305,20.138,3,1
+"61877",93622,"col","Walanae",120.05,-4.39,"Lepangen",NA,"FVL-1a",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.66,-4.49,"683",3.094,"piacenzian",16385,119.9516,-4.8642,3,1
+"61878",93623,"col","Walanae",120.04,-4.37,"FVL-11",NA,"",6,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.47,"683",3.094,"piacenzian",16386,119.9516,-4.8642,3,1
+"61879",93624,"col","Walanae",120.04,-4.33,"Ciangkange",NA,"FVL-22",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.44,"683",3.094,"piacenzian",16387,119.9516,-4.8642,3,1
+"61880",93625,"col","Walanae",120,-4.37,"Batuasange",NA,"FVL-9",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,"piacenzian",16388,119.9516,-4.8642,3,1
+"61881",93626,"col","Walanae",120,-4.36,"Paroto",NA,"FVL-14",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.46,"683",3.094,"piacenzian",16389,119.9516,-4.8642,3,1
+"61882",93627,"col","Walanae",120.05,-4.39,"Palangiseng",NA,"FVL-2",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.67,-4.49,"683",3.094,"piacenzian",16385,119.9516,-4.8642,3,1
+"61883",93628,"col","Walanae",120.02,-4.39,"Tinco",NA,"FVL-7",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.49,"683",3.094,"piacenzian",16390,119.9516,-4.8642,3,1
+"61884",93629,"col","Walanae",120,-4.36,"Malare",NA,"FVL-19",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,"piacenzian",16389,119.9516,-4.8642,3,1
+"61885",93630,"col","Walanae",120,-4.36,"Malare",NA,"FVL-15",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.61,-4.47,"683",3.094,"piacenzian",16389,119.9516,-4.8642,3,1
+"61886",93631,"col","Walane",120.03,-4.37,"Bulu Cepo",NA,"FVL-10",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.64,-4.47,"683",3.094,"piacenzian",16391,119.9516,-4.8642,3,1
+"61887",93632,"col","Walane",120.03,-4.37,"Bulu Cepo",NA,"FVL-13",3,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.64,-4.47,"683",3.094,"piacenzian",16391,119.9516,-4.8642,3,1
+"61888",93633,"col","Walanae",120.02,-4.36,"FVL-16 & FVL-17",NA,"",2,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.46,"683",3.094,"piacenzian",16392,119.9516,-4.8642,3,1
+"61889",93634,"col","Walanae",120.04,-4.37,"FVL-12",NA,"",1,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.65,-4.47,"683",3.094,"piacenzian",16386,119.9516,-4.8642,3,1
+"61890",93635,"col","Walanae",120.02,-4.18,"Celeko",NA,"FVL-27",4,"Late Pliocene","",3.6,2.588,31625,"gp_mid",120.63,-4.29,"683",3.094,"piacenzian",16393,119.9516,-4.8642,3,1
+"62823",94809,"col","Jackson Bluff",-86.17,30.63,"Loc. 25 - Permenter's Farm [Jackson Bluff Fm]",NA,"",23,"Late Pliocene","",3.6,2.588,32333,"gp_mid",-85.02,31.17,"109",3.094,"piacenzian",16583,-85.6821,30.2519,3,1
+"64269",96537,"col","Chowan River",-76.66,34.72,"Chowan River Formation",NA,"",1,"Late Pliocene","",3.6,2.588,31112,"gp_mid",-75.39,35.13,"109",3.094,"piacenzian",17046,-74.3638,35.1864,3,1
+"64337",96669,"col","Kalibeng",111.32,-7.37,"Bangun, SDE-3A",NA,"",30,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,"piacenzian",17061,112.4407,-7.5574,3,1
+"64338",96670,"col","Kalibeng",111.32,-7.37,"Bangun, SDE-3B",NA,"",68,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,"piacenzian",17061,112.4407,-7.5574,3,1
+"64339",96671,"col","Kalibeng",111.32,-7.37,"Bangun, SDE-3C",NA,"",52,"Late Pliocene","",3.6,2.588,32842,"gp_mid",111.99,-7.65,"620",3.094,"piacenzian",17061,112.4407,-7.5574,3,1
+"64360",96696,"col","",131.3,25.95,"Kita-Daito-Jima",NA,"",16,"Late Pliocene","",3.6,2.588,32969,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",17069,132.3074,24.2163,3,1
+"65036",97627,"col","Yakataga",-142.43,60.06,"Cape Yakataga",NA,"",2,"Piacenzian","",3.6,2.588,16892,"gp_mid",-141.82,60.98,"126",3.094,"piacenzian",17254,-141.9907,60.3914,3,1
+"65056",97677,"col","Ware",-71.28,11.91,"Puerto Libre and Puerto López, La Guajira (pg. 155) [Ware Fm]",NA,"",22,"Late Pliocene","",3.6,2.588,33368,"gp_mid",-70.39,12.11,"203",3.094,"piacenzian",17260,-71.5085,12.3716,3,1
+"65065",97688,"col","Tubará",-75,10.75,"HB-708 [Tubará  Fm]",NA,"",4,"Late Pliocene","",3.6,2.588,33369,"gp_mid",-74.12,10.97,"203",3.094,"piacenzian",17262,-74.9907,10.0101,3,1
+"67619",101021,"col","",138.81,37.29,"Nobe River",NA,"",25,"Piacenzian","",3.6,2.588,34517,"gp_mid",138.19,37.15,"610",3.094,"piacenzian",18210,138.2874,37.6388,3,1
+"74371",110133,"col","Sarumaru",138.07,36.67,"Do-ai",NA,"Shigarami, UCMP V-70112, Togakushi",1,"Late Pliocene","",3.6,2.588,36307,"gp_mid",137.46,36.53,"610",3.094,"piacenzian",8102,138.2874,37.6388,3,1
+"75096",123124,"col","",110.83,-7.45,"Sangiran",NA,"",1,"Late Pliocene","",3.6,2.588,39380,"gp_mid",111.51,-7.75,"620",3.094,"piacenzian",21069,112.4407,-7.5574,3,1
+"75210",111010,"col","Araya",-64.18,10.82,"Punta Colorada, Cubagua Island",NA,"",34,"Late Pliocene","",3.6,2.588,36423,"gp_mid",-63.55,11.04,"234",3.094,"piacenzian",13049,-63.2695,10.0597,3,1
+"75211",111011,"col","Araya",-64.3,10.63,"Cerro Barrigon, Araya Peninsula [Araya Fm]",NA,"",51,"Late Pliocene","",3.6,2.588,36423,"gp_mid",-63.41,10.78,"201",3.094,"piacenzian",21100,-63.2695,10.0597,3,1
+"79205",116344,"col","",3.06,51.58,"Urk",NA,"Put van Domburg, Put van Oostkapelle",1,"Late Pliocene","",3.6,2.588,26222,"gp_mid",3.59,51.08,"315",3.094,"piacenzian",22200,3.6808,52.3663,3,1
+"80880",118257,"col","",18.37,-33.92,"Avontuur A 50m complex 1",NA,"",48,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,"piacenzian",22636,18.2984,-35.3537,3,1
+"80922",118306,"col","",18.37,-33.92,"Koingnaas/Swartlintjies 50m Complex",NA,"",44,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,"piacenzian",22636,18.2984,-35.3537,3,1
+"80928",118317,"col","",18.37,-33.92,"Avontuur A  50m complex 2",NA,"",57,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,"piacenzian",22636,18.2984,-35.3537,3,1
+"80929",118318,"col","",18.37,-33.92,"Avontuur A 50m complex 3",NA,"",48,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,"piacenzian",22636,18.2984,-35.3537,3,1
+"80930",118319,"col","",18.37,-33.92,"Avontuur A 50m complex 4",NA,"",20,"Late Pliocene","",3.6,2.588,38091,"gp_mid",18.05,-34.69,"701",3.094,"piacenzian",22636,18.2984,-35.3537,3,1
+"85113",123525,"col","San Andres",-57.67,-38.18,"Santa Isabel",NA,"",5,"Late Pliocene","",3.6,2.588,65015,"gp_mid",-57.19,-38.08,"202",3.094,"piacenzian",23835,-55.8087,-37.4455,3,1
+"85115",123527,"col","San Andres",-57.65,-38.18,"Punta San Andres",NA,"",10,"Late Pliocene","",3.6,2.588,39737,"gp_mid",-57.18,-38.08,"202",3.094,"piacenzian",23837,-55.8087,-37.4455,3,1
+"85127",123549,"col","Jackson Bluff",-84.63,30.38,"Jackson Bluff [Jackson Bluff Fm]",NA,"",30,"Late Pliocene","",3.6,2.588,39743,"gp_mid",-83.49,30.91,"109",3.094,"piacenzian",23840,-85.6821,30.2519,3,1
+"86131",124784,"col","Salayar",120.43,-6.18,"Benteng West, ISS1.4, Salayar Island",NA,"",13,"Late Pliocene","",3.6,2.588,40384,"gp_mid",121.09,-6.28,"683",3.094,"piacenzian",24142,119.9516,-4.8642,3,1
+"88004",127452,"col","Oya",130.17,32.63,"Kazusa, Nagasaki",NA,"",2,"Late Pliocene","",3.6,2.588,42272,"gp_mid",129.61,32.45,"610",3.094,"piacenzian",24571,130.9253,32.4973,3,1
+"88167",127698,"col","Takanabe",131.49,32.07,"Hirata Cliff",NA,"MYZ-9",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.93,31.89,"610",3.094,"piacenzian",24619,130.9253,32.4973,3,1
+"88168",127699,"col","Takanabe",131.49,32.11,"Mouke Cliff",NA,"MYZ-11",3,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.93,31.94,"610",3.094,"piacenzian",24620,130.9253,32.4973,3,1
+"88170",127700,"col","Takanabe",131.46,32.13,"Makinouchi",NA,"MYZ-12",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.9,31.96,"610",3.094,"piacenzian",24621,130.9253,32.4973,3,1
+"88171",127701,"col","Takanabe",131.47,32.67,"Nakao",NA,"MYZ-13",1,"Late Pliocene","",3.6,2.588,41705,"gp_mid",130.9,32.49,"610",3.094,"piacenzian",24622,130.9253,32.4973,3,1
+"90685",131209,"col","Mare",-63.52,10.61,"NMB Loc. 12898 - Quebrada Mare Abajo [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90686",131210,"col","Mare",-63.52,10.61,"NMB Loc. 17512 - Quebrada Mare Abajo [Mare Fm]",NA,"GS-1-CB",359,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90687",131211,"col","Mare",-63.52,10.61,"NMB Loc. 13347 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90688",131212,"col","Mare",-63.52,10.61,"NMB Loc. 13348 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90689",131213,"col","Mare",-63.52,10.61,"NMB Loc. 13349 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90690",131214,"col","Mare",-63.52,10.61,"NMB Loc. 13357 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90691",131215,"col","Mare",-63.52,10.61,"NMB Loc. 13358 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90692",131216,"col","Mare",-63.52,10.61,"UCVG Loc. 3618 - Cabo Blanco [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90693",131217,"col","Mare",-64.11,10.64,"NMB Loc. 17513 - Punta Gorda [Mare Fm]",NA,"",113,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.22,10.78,"201",3.094,"piacenzian",25195,-63.2695,10.0597,3,1
+"90694",131218,"col","Mare",-64.11,10.64,"NMB Loc. 17514 - Punta Gorda [Mare Fm]",NA,"",135,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.22,10.78,"201",3.094,"piacenzian",25195,-63.2695,10.0597,3,1
+"90703",131237,"col","Araya",-64,10.62,"NMB Loc. 17541 - Araya Peninsula [Araya Fm]",NA,"GS-006-ARY",81,"Late Pliocene","",3.6,2.588,42393,"gp_mid",-63.11,10.76,"201",3.094,"piacenzian",25198,-63.2695,10.0597,3,1
+"90725",131263,"col","Araya",-64,10.62,"UCVG Loc. 4030 - Araya Peninsula [Araya Fm]",NA,"GS-006-ARY",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-63.11,10.76,"201",3.094,"piacenzian",25198,-63.2695,10.0597,3,1
+"90730",131270,"col","Playa Grande",-63.52,10.61,"NMB Loc. 17607 - Quebrada Las Pailas [Maiquetia Mbr, Playa Grande Fm]",NA,"GS-31-CB",3,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90740",131285,"col","Mare",-63.52,10.61,"USGS Loc. 18253 - Cabo Blanco [Mare Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90763",131310,"col","Mare",-63.52,10.61,"UCVG 704 - Quebrada Mare Abajo [Mare Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,26828,"gp_mid",-62.64,10.75,"201",3.094,"piacenzian",25194,-63.2695,10.0597,3,1
+"90796",131363,"col","Mare",-64.11,10.64,"NMB Loc. 17515 - Punta Gorda [Mare Fm]",NA,"GS-009-CB",111,"Late Pliocene","",3.6,2.588,42393,"gp_mid",-63.22,10.78,"201",3.094,"piacenzian",25195,-63.2695,10.0597,3,1
+"94061",135545,"col","Calcarenite di Gravina",16.27,41.23,"Small valley a little below the Church of Our Lady of Andria",NA,"",1,"Piacenzian","",3.6,2.588,43368,"gp_mid",16.69,40.47,"307",3.094,"piacenzian",26230,15.054,39.6591,3,1
+"94064",135548,"col","Calcarenite di Gravina",16.27,41.23,"Near Church of St. Maria de Andria",NA,"",1,"Piacenzian","",3.6,2.588,43372,"gp_mid",16.69,40.47,"307",3.094,"piacenzian",26230,15.054,39.6591,3,1
+"95085",136994,"col","Ware",-71.32,11.85,"STRI Loc. 290045 - Estacion de Policia [""Ware"" Fm]",NA,"",44,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.43,12.05,"203",3.094,"piacenzian",26552,-71.5085,12.3716,3,1
+"102222",145683,"col","",13.43,43.32,"Villa Potenza",NA,"",15,"Piacenzian","",3.6,2.588,47116,"gp_mid",13.91,42.59,"307",3.094,"piacenzian",27919,15.12,42.1586,3,1
+"108495",153827,"col","Liuchungchi",120.46,23.12,"Yujing",NA,"",2,"Piacenzian","",3.6,2.588,49844,"gp_mid",120.27,23.07,"611",3.094,"piacenzian",29109,121.2303,21.3706,3,1
+"108499",153831,"col","Toukoushan",120.68,24.4,"Yuanli",NA,"",1,"Piacenzian","",3.6,2.588,49904,"gp_mid",120.45,24.35,"611",3.094,"piacenzian",29113,119.4631,25.235,3,1
+"110279",156719,"col","Ware",-71.28,11.96,"STRI Loc. 290680 - N of Puerto Lopez [""Ware"" Fm]",NA,"STRI Loc. 360174; STRI Sample 37202",16,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.38,12.16,"203",3.094,"piacenzian",29496,-71.5085,12.3716,3,1
+"110723",157271,"col","Ware",-71.3,11.89,"STRI Loc. 290629 - Puerto Lopez [Ware Fm]",NA,"STRI Sample 36991, 36999",11,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.41,12.09,"203",3.094,"piacenzian",29628,-71.5085,12.3716,3,1
+"110724",157273,"col","Ware",-71.31,11.89,"STRI Loc. 290627 - Puerto Lopez [Ware Fm]",NA,"STRI Sample 36989, 36990",11,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.41,12.09,"203",3.094,"piacenzian",29629,-71.5085,12.3716,3,1
+"111179",157967,"col","Ware",-71.41,11.82,"STRI Loc. 290080 - Castilletes [""Ware"" Fm]",NA,"STRI Loc. 290466; STRI Sample 11063, 13564",19,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.52,12.02,"203",3.094,"piacenzian",29725,-71.5085,12.3716,3,1
+"111180",157968,"col","Ware",-71.42,11.82,"STRI Loc. 290081 - Bahia Cocinetas [""Ware"" Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.52,12.02,"203",3.094,"piacenzian",29726,-71.5085,12.3716,3,1
+"111181",157969,"col","Ware",-71.35,11.86,"STRI Loc. 290607 - NW of Estacion de Policia [""Ware"" Fm]",NA,"STRI Sample 36972, 36973, 36974, 36978",27,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.45,12.05,"203",3.094,"piacenzian",29727,-71.5085,12.3716,3,1
+"111859",159142,"col","Ware",-71.38,11.81,"STRI Loc. 290678 - Flor de Guajira [""Ware"" Fm]",NA,"",12,"Late Pliocene","",3.6,2.588,43760,"gp_mid",-70.49,12.01,"203",3.094,"piacenzian",29961,-71.5085,12.3716,3,1
+"112605",160140,"col","Togo",130.36,31.89,"Kasayama, Inobo, Torimaru village (Togo)",NA,"",6,"Piacenzian","",3.6,2.588,52279,"gp_mid",129.8,31.71,"610",3.094,"piacenzian",30222,130.9253,32.4973,3,1
+"112784",160344,"col","Yorktown",-76.37,36.76,"UNCW Loc. Z-609 - Deep Creek [Yorktown Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-75.05,37.17,"109",3.094,"piacenzian",30303,-74.34,37.6864,3,1
+"112787",160347,"col","Yorktown",-76.78,35.37,"UNCW Loc. Z-805 - Lee Creek Mine [Yorktown Fm]",NA,"",3,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-75.49,35.79,"109",3.094,"piacenzian",30304,-74.3638,35.1864,3,1
+"112794",160354,"col","Jackson Bluff",-84.66,30.38,"UNCW Loc. Z-853 - Jackson Bluff [Jackson Bluff Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-83.52,30.9,"109",3.094,"piacenzian",30308,-85.6821,30.2519,3,1
+"112795",160355,"col","Jackson Bluff",-84.65,30.39,"UNCW Loc. Z-953 - Jackson Bluff [Jackson Bluff Fm]",NA,"",1,"Late Pliocene","",3.6,2.588,52284,"gp_mid",-83.51,30.91,"109",3.094,"piacenzian",30309,-85.6821,30.2519,3,1
+"115178",163820,"col","",-99.14,19.91,"Tequixquiac",NA,"",12,"Late Pliocene","",3.6,2.588,53461,"gp_mid",-98.22,20.61,"104",3.094,"piacenzian",30827,-97.0184,20.3076,3,1
+"116220",165738,"col","Tsubusagawa",131.35,33.4,"Locality 2, Ajimu Basin, Oita Prefecture",NA,"",18,"Piacenzian","",3.6,2.588,54178,"gp_mid",130.77,33.23,"610",3.094,"piacenzian",31084,130.9253,32.4973,3,1
+"116224",165742,"col","Tsubusagawa",131.35,33.41,"Locality 3, Ajimu Basin, Oita Prefecture",NA,"",12,"Piacenzian","",3.6,2.588,54178,"gp_mid",130.78,33.23,"610",3.094,"piacenzian",31085,130.9253,32.4973,3,1
+"116269",165803,"col","",2.03,41.41,"Riera de Bonet",NA,"",1,"Piacenzian","",3.6,2.588,54208,"gp_mid",2.44,40.91,"304",3.094,"piacenzian",31110,3.6409,42.3598,3,1
+"116706",166508,"col","Ware",-71.32,11.85,"Ware Vertebrates",NA,"STRI 470062",32,"Piacenzian","",3.6,2.588,54378,"gp_mid",-70.43,12.05,"203",3.094,"piacenzian",26552,-71.5085,12.3716,3,1
+"117442",167736,"col","",1.94,41.29,"Cova Bonica, Massif of Garraf",NA,"Sot de l’Infern",15,"MN 16","",3.2,2.588,54784,"gp_mid",2.35,40.8,"304",2.894,"piacenzian",31506,3.6409,42.3598,3,1
+"117640",168020,"col","",28.57,45.52,"Kotlovina, middle layer",NA,"Kotlovyna",7,"MN 16","",3.2,2.588,54848,"gp_mid",28.75,44.91,"302",2.894,"piacenzian",31564,29.8344,44.8392,3,1
+"117641",168021,"col","",28.57,45.52,"Kotlovina, upper layer",NA,"Kotlovyna",5,"MN 16","",3.2,2.588,54848,"gp_mid",28.75,44.91,"302",2.894,"piacenzian",31564,29.8344,44.8392,3,1
+"118784",170023,"col"," Ananai",133.97,33.43,"Tonohama,  Ananai Fm",NA,"",18,"Piacenzian","",3.6,2.588,55496,"gp_mid",133.39,33.27,"610",3.094,"piacenzian",31697,134.6757,32.5689,3,1
+"121695",175395,"col","Sabbie di Altavilla",13.53,38.03,"Altavilla Milicia, Altavilla s.s. section",NA,"",7,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32289,14.9626,37.1637,3,1
+"121800",175548,"col","Sabbie di Altavilla",13.55,38.05,"Altavilla Milicia, Orto1",NA,"",4,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32301,14.9626,37.1637,3,1
+"121801",175549,"col","Sabbie di Altavilla",13.55,38.05,"Altavilla Milicia, Orto2",NA,"",9,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32301,14.9626,37.1637,3,1
+"121802",175550,"col","Sabbie di Altavilla",13.55,38.05,"Altavilla Milicia, KYLA1",NA,"",2,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32301,14.9626,37.1637,3,1
+"121803",175551,"col","Sabbie di Altavilla",13.55,38.05,"Altavilla Milicia, KYLA3",NA,"",3,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32301,14.9626,37.1637,3,1
+"121804",175552,"col","Sabbie di Altavilla",13.55,38.05,"Altavilla Milicia, KYLA3a",NA,"",11,"Late Pliocene","",3.6,2.588,57345,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32301,14.9626,37.1637,3,1
+"121932",175682,"col","Taihape Mudstone",175.72,-39.68,"Ridge Road North",NA,"",1,"Waipipian","",3.6,3,57494,"gp_mid",176.91,-40.64,"806",3.3,"piacenzian",32317,177.6381,-40.764,3,1
+"122185",176027,"col","Roe Calcarenite",127.58,-31.97,"spoil from foundation holes, Hampton Microwave Repeater Tower, Roe Plains",NA,"",1,"Late Pliocene","",3.6,2.588,57740,"gp_mid",127.53,-34,"801",3.094,"piacenzian",32365,126.9584,-34.2503,3,1
+"122186",176028,"col","Roe Calcarenite",127.58,-31.99,"PL 3166. Roe Plains, 2.5 km north of Hampton Microwave Repeater Tower",NA,"",3,"Late Pliocene","",3.6,2.588,57935,"gp_mid",127.53,-34.02,"801",3.094,"piacenzian",32366,126.9584,-34.2503,3,1
+"122187",176029,"col","Roe Calcarenite",127.58,-31.97,"PL3172. Hampton Microwave Repeater Tower, Roe Plains",NA,"",2,"Late Pliocene","",3.6,2.588,57740,"gp_mid",127.53,-34,"801",3.094,"piacenzian",32365,126.9584,-34.2503,3,1
+"123758",178466,"col","",13.47,38.08,"Ficarazzi",NA,"",1,"Piacenzian","",3.6,2.588,59041,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",32792,14.9626,37.1637,3,1
+"124285",179048,"col","Lillo",4.3,51.27,"Kallo, Atrina Beds",NA,"",76,"Piacenzian","",3.6,2.588,25971,"gp_mid",4.81,50.76,"315",3.094,"piacenzian",32941,3.6808,52.3663,3,1
+"124311",179079,"col","Lillo",4.3,51.27,"Kallo, Cultellus bed",NA,"",73,"Piacenzian","",3.6,2.588,25971,"gp_mid",4.81,50.76,"315",3.094,"piacenzian",32941,3.6808,52.3663,3,1
+"125247",180523,"col","Petane",176.81,-39.31,"Waipunga",NA,"",1,"Piacenzian","",3.6,2.588,59898,"gp_mid",177.99,-40.24,"806",3.094,"piacenzian",33218,177.6381,-40.764,3,1
+"125407",180691,"col","Tsubusagawa",131.28,33.38,"Fukami River bank and floor, Ajimu-machi, Usa City",NA,"Upstream of Shiromaru-bashi Bridge; Ajimu fauna; Oita Prefecture",2,"Late Pliocene","",3.6,2.588,59998,"gp_mid",130.7,33.21,"610",3.094,"piacenzian",33246,130.9253,32.4973,3,1
+"127697",184445,"col","Lillo",4.33,51.28,"first Kruisschans lock",NA,"",2,"Piacenzian","",3.6,2.588,61797,"gp_mid",4.84,50.77,"315",3.094,"piacenzian",33762,3.6808,52.3663,3,1
+"129325",187020,"col","",-154.7,56.52,"northwest side of Tugidak Island",NA,"",6,"Late Pliocene","",3.6,2.588,62716,"gp_mid",-154.37,57.4,"126",3.094,"piacenzian",34227,-153.3954,57.9172,3,1
+"129340",187069,"col","Yakataga",-141.1,60.05,"Chaix Hills, Bering Glacier quad., Malaspina district, USGS M1875",NA,"",2,"Late Pliocene","",3.6,2.588,62716,"gp_mid",-140.45,60.97,"126",3.094,"piacenzian",34233,-141.9907,60.3914,3,1
+"129345",187079,"col","",-146.33,59.42,"Extreme southeast tip of Middleton Island, USGS M1753",NA,"",1,"Late Pliocene","",3.6,2.588,62716,"gp_mid",-145.82,60.33,"126",3.094,"piacenzian",34236,-145.7863,60.4017,3,1
+"129377",187118,"col","",17.58,40.73,"Ostuni",NA,"Stuni",1,"Late Pliocene","",3.6,2.588,62181,"gp_mid",17.98,39.96,"307",3.094,"piacenzian",34242,18.7832,39.6036,3,1
+"130240",188973,"col","",130.47,31.73,"Iriki-toge",NA,"",1,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.91,31.55,"610",3.094,"piacenzian",34389,130.9253,32.4973,3,1
+"130241",188974,"col","Shiake",130.41,31.71,"Shiake",NA,"",2,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.86,31.53,"610",3.094,"piacenzian",34390,130.9253,32.4973,3,1
+"130242",188975,"col","Nagano",130.59,31.91,"Nagano",NA,"",1,"Piacenzian","",3.6,2.588,63459,"gp_mid",130.03,31.73,"610",3.094,"piacenzian",34391,130.9253,32.4973,3,1
+"130243",188976,"col","Nagano",130.34,31.88,"Togo",NA,"",21,"Piacenzian","",3.6,2.588,63459,"gp_mid",129.78,31.69,"610",3.094,"piacenzian",34392,130.9253,32.4973,3,1
+"131348",190856,"col","Capo Mannu dune complex",8.4,40.03,"Capo Mannu D4",NA,"",4,"Piacenzian","",3.6,2.588,64161,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",34580,7.3805,39.8605,3,1
+"132459",193557,"col","",2.78,41.83,"Camp dels Ninots, Can Argilera Sector",NA,"",7,"Late Pliocene","",3.6,2.588,65759,"gp_mid",3.19,41.32,"304",3.094,"piacenzian",34851,3.6409,42.3598,3,1
+"132460",193558,"col","",2.78,41.83,"Camp dels Ninots, Butano Sector",NA,"",5,"Late Pliocene","",3.6,2.588,65759,"gp_mid",3.19,41.32,"304",3.094,"piacenzian",34851,3.6409,42.3598,3,1
+"132484",193667,"col","Tsubusagawa",131.35,33.53,"Ajimu-machi and Innai-machi, Usa City",NA,"Oita Prefecture",1,"Late Pliocene","",3.6,2.588,65770,"gp_mid",130.78,33.36,"610",3.094,"piacenzian",34856,130.9253,32.4973,3,1
+"133589",204247,"col","",175.76,-41.09,"Westmere Downs",NA,"T27/f46",2,"Waipipian","",3.6,3,61724,"gp_mid",177.03,-42.05,"806",3.3,"piacenzian",35124,177.6381,-40.764,3,1
+"134232",197268,"col","Lillo",4.41,51.25,"America dock",NA,"",1,"Piacenzian","",3.6,2.588,67112,"gp_mid",4.91,50.74,"315",3.094,"piacenzian",35262,3.6808,52.3663,3,1
+"134987",198693,"col","San Andres",-57.7,-38.2,"Playa Santa Isabel y Punta San Andrés",NA,"",3,"Late Pliocene","",3.6,2.588,67707,"gp_mid",-57.22,-38.1,"202",3.094,"piacenzian",35436,-55.8087,-37.4455,3,1
+"135061",198826,"col","Vorohué",-57.84,-38.27,"Baliza Chica",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.36,-38.17,"202",3.094,"piacenzian",35466,-55.8087,-37.4455,3,1
+"135064",198830,"col","Vorohué",-57.78,-38.24,"Arroyo las Brusquitas",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.3,-38.14,"202",3.094,"piacenzian",35467,-55.8087,-37.4455,3,1
+"135065",198832,"col","Vorohué",-57.75,-38.24,"Terrazas del Marquesado",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.28,-38.13,"202",3.094,"piacenzian",35468,-55.8087,-37.4455,3,1
+"135066",198833,"col","Vorohué",-57.73,-38.22,"Punta Vorohue",NA,"",3,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.25,-38.12,"202",3.094,"piacenzian",35469,-55.8087,-37.4455,3,1
+"135067",198834,"col","Vorohué",-57.7,-38.21,"Arroyo Chapadmalal",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.22,-38.11,"202",3.094,"piacenzian",35470,-55.8087,-37.4455,3,1
+"135068",198835,"col","Vorohué",-57.68,-38.2,"Playa Santa Isabel",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.2,-38.1,"202",3.094,"piacenzian",35471,-55.8087,-37.4455,3,1
+"135069",198836,"col","San Andres",-57.68,-38.2,"Playa Santa Isabel",NA,"",3,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.2,-38.1,"202",3.094,"piacenzian",35471,-55.8087,-37.4455,3,1
+"135070",198837,"col","San Andres",-57.67,-38.19,"Baliza San Andres",NA,"",2,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,"piacenzian",35472,-55.8087,-37.4455,3,1
+"135071",198838,"col","Vorohué",-57.66,-38.19,"Punta San Andres",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,"piacenzian",35473,-55.8087,-37.4455,3,1
+"135072",198839,"col","San Andres",-57.66,-38.19,"Punta San Andres",NA,"",2,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.19,-38.09,"202",3.094,"piacenzian",35473,-55.8087,-37.4455,3,1
+"135074",198843,"col","Vorohué",-57.65,-38.18,"Arroyo Seco",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.18,-38.08,"202",3.094,"piacenzian",23837,-55.8087,-37.4455,3,1
+"135077",198847,"col","Vorohué",-57.64,-38.17,"Arroyo Loberia",NA,"",1,"Late Pliocene","",3.6,2.588,67738,"gp_mid",-57.16,-38.07,"202",3.094,"piacenzian",35474,-55.8087,-37.4455,3,1
+"135119",198943,"col","Vorohué",-57.73,-38.23,"Playa Terrazas del Marquesado",NA,"",1,"Late Pliocene","",3.6,2.588,67786,"gp_mid",-57.26,-38.13,"202",3.094,"piacenzian",35479,-55.8087,-37.4455,3,1
+"135123",199155,"col","Barranca de los Lobos",-57.7,-38.12,"Barranca Parodi (Zone of  Platygonus scagliai)",NA,"beds from paleosol 7 to paleosol 9 of Zarate, 1989",15,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,"piacenzian",35480,-55.8087,-37.4455,3,1
+"135125",199157,"col","Vorohué",-57.7,-38.12,"Barranca Parodi (Zone of  Akodon (Akodon) lorenzinii)",NA,"beds from paleosol 9 to paleosol 11 of Zarate, 1989",12,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,"piacenzian",35480,-55.8087,-37.4455,3,1
+"135127",199160,"col","San Andres",-57.7,-38.12,"Punta San Andres (Zone of Paractenomys chapadmalensis)",NA,"beds from paleosol 11 to paleosol 13 of Zarate, 1989",14,"Late Pliocene","",3.6,2.588,67787,"gp_mid",-57.22,-38.02,"202",3.094,"piacenzian",35480,-55.8087,-37.4455,3,1
+"136691",202249,"col","",176.82,-39.92,"N141/f494 - Te Aute",NA,"",1,"Waipipian","",3.6,3,63895,"gp_mid",178.04,-40.85,"806",3.3,"piacenzian",35849,177.6381,-40.764,3,1
+"136692",202250,"col","",175.79,-41.06,"Westmere Trig",NA,"",1,"Waipipian","",3.6,3,63895,"gp_mid",177.06,-42.02,"806",3.3,"piacenzian",35850,177.6381,-40.764,3,1
+"136923",202527,"col","Barranca de los Lobos",-57.62,-38.15,"Barranca de los Lobos",NA,"",1,"Late Pliocene","",3.6,2.588,69394,"gp_mid",-57.14,-38.05,"202",3.094,"piacenzian",35915,-55.8087,-37.4455,3,1
+"138103",204286,"col","",176.63,-39.81,"Te Aute",NA,"",1,"Waipipian","",3.6,3,61708,"gp_mid",177.84,-40.74,"806",3.3,"piacenzian",36163,177.6381,-40.764,3,1
+"138104",204287,"col","",177.31,-38.96,"Mangawhero Stream",NA,"W19/f7462",1,"Waipipian","",3.6,3,61708,"gp_mid",178.48,-39.87,"806",3.3,"piacenzian",36164,177.6381,-40.764,3,1
+"138105",204288,"col","",177.21,-39.02,"Waihua River",NA,"W19/f8480",1,"Waipipian","",3.6,3,61708,"gp_mid",178.38,-39.94,"806",3.3,"piacenzian",36165,177.6381,-40.764,3,1
+"138623",205077,"col","",28.06,36.27,"Archipolis",NA,"",3,"Villanyian","",3.2,2.588,70368,"gp_mid",28.22,35.65,"504",2.894,"piacenzian",36320,26.1778,36.9983,3,1
+"139650",206339,"col","",28.26,45.56,"Chishmikioy",NA,"",1,"MN 16","",3.2,2.588,70878,"gp_mid",28.45,44.94,"302",2.894,"piacenzian",36715,29.8344,44.8392,3,1
+"139885",206623,"col","Vorohué",-57.63,-38.16,"Atlantic coastal cliffs of Partido General Alvarado",NA,"",2,"Late Pliocene","",3.6,2.588,23953,"gp_mid",-57.15,-38.06,"202",3.094,"piacenzian",36801,-55.8087,-37.4455,3,1
+"139890",206723,"col","San Andres",-57.53,-38,"Atlantic coastal cliffs of Partido General Pueyrredon & General Alvarado",NA,"",1,"Late Pliocene","",3.6,2.588,23953,"gp_mid",-57.05,-37.9,"202",3.094,"piacenzian",36804,-55.8087,-37.4455,3,1
+"140172",207303,"col","",25.21,35.33,"Amnissos",NA,"",30,"Piacenzian","",3.6,2.588,71412,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",36899,26.144,34.6163,3,1
+"140173",207304,"col","",24.97,35.08,"Roufas",NA,"",4,"Piacenzian","",3.6,2.588,71412,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",36900,26.144,34.6163,3,1
+"140207",207357,"col","",25.06,35.27,"Voutes",NA,"",50,"Piacenzian","",3.6,2.588,71430,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",36912,26.144,34.6163,3,1
+"140208",207358,"col","",25.19,35.31,"Prassas",NA,"",5,"Piacenzian","",3.6,2.588,71430,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",36913,26.144,34.6163,3,1
+"140209",207359,"col","",25.25,35.32,"Gournes",NA,"",17,"Piacenzian","",3.6,2.588,71430,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",36914,26.144,34.6163,3,1
+"140556",207949,"col","Lillo",4.26,51.28,"Deurganckdok, Oorderen Sands Member",NA,"Deurganckdock",1,"Piacenzian","",3.6,2.588,71818,"gp_mid",4.77,50.78,"315",3.094,"piacenzian",37034,3.6808,52.3663,3,1
+"141157",208876,"col","",120,23.6,"Penghu Channel",NA,"",1,"Late Pliocene","",3.6,2.588,72094,"gp_mid",119.79,23.53,"611",3.094,"piacenzian",37134,121.2303,21.3706,3,1
+"141341",209138,"col","",75.58,-52.93,"Kerguelen Plateau trawl sample",NA,"",3,"Piacenzian","",3.6,2.588,72193,"gp_mid",NA,NA,"coordinates not computable using this model",3.094,"piacenzian",37196,74.7165,-52.6271,3,1
+"141858",209757,"col","Lillo",4.26,51.28,"Kieldrecht Lock",NA,"Deurganckdoksluis",1,"Piacenzian","",3.6,2.588,72357,"gp_mid",4.77,50.78,"315",3.094,"piacenzian",37034,3.6808,52.3663,3,1
+"142197",210177,"col","Vorohué",-57.76,-38.24,"Las Antenas Militares",NA,"",1,"Late Pliocene","",3.6,2.588,72511,"gp_mid",-57.29,-38.14,"202",3.094,"piacenzian",37318,-55.8087,-37.4455,3,1
+"142265",210258,"col","",17,39.13,"Virica",NA,"",25,"Piacenzian","",3.6,2.588,72530,"gp_mid",17.38,38.36,"307",3.094,"piacenzian",37356,18.7832,39.6036,3,1
+"143937",212870,"col","San Gregorio",-70.24,11.3,"Urumaco, NE",NA,"Urumaco",1,"Late Pliocene","",3.6,2.588,73502,"gp_mid",-69.35,11.49,"203",3.094,"piacenzian",37778,-71.5085,12.3716,3,1

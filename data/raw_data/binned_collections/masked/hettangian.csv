@@ -1,97 +1,139 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"14854",28929,"col","",8,48,"Engstlatt 14",NA,"",9,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,1
-"14855",28930,"col","",8,48,"Engstlatt 15",NA,"",4,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,1
-"14856",28931,"col","",8,48,"Engstlatt 16",NA,"",10,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,1
-"16761",30919,"col","Lower Gring Suite",70.300003,38.200001,"Gring",NA,"PGAP 633",38,"Hettangian","",201.3,199.3,8267,"gp_mid",79.61,51.46,"402",200.3,1
-"16762",30920,"col","Upper Tashkutan Suite",67.900002,38.5,"Guliob",NA,"PGAP 635",42,"Hettangian","",201.3,199.3,8267,"gp_mid",76.76,50.81,"402",200.3,1
-"16763",30921,"col","Upper Tashkutan Suite",67.400002,38.599998,"Oksu",NA,"PGAP 636",22,"Hettangian","",201.3,199.3,8267,"gp_mid",76.14,50.71,"402",200.3,1
-"16764",30922,"col","Upper Tashkutan Suite",69.300003,38.700001,"Saied",NA,"PGAP 634",8,"Hettangian","",201.3,199.3,8267,"gp_mid",78.12,51.52,"402",200.3,1
-"16775",30933,"col","Ravat Suite",68.5,39.200001,"Pasrud Stream",NA,"PGAP 637",21,"Hettangian","",201.3,199.3,8268,"gp_mid",76.86,51.65,"402",200.3,1
-"17086",31306,"col","",3.366667,43.983334,"Sauclieres tracksite (level I)",NA,"Causse du Larzac, Aveyron, Grands Causses",1,"Hettangian","",201.3,199.3,8442,"gp_mid",17.23,31.06,"305",200.3,1
-"17087",31307,"col","",3.366667,43.983334,"Sauclieres tracksite (level IV)",NA,"Causse du Larzac, Aveyron, Grands Causses",2,"Hettangian","",201.3,199.3,8442,"gp_mid",17.23,31.06,"305",200.3,1
-"17088",31308,"col","",3.366667,43.983334,"Sauclieres tracksite (level V)",NA,"Causse du Larzac, Aveyron, Grands Causses",5,"Hettangian","",201.3,199.3,8442,"gp_mid",17.23,31.06,"305",200.3,1
-"17693",31914,"col","",-8.466667,40.5,"Hettangian, Sangalhos, Portugal",NA,"",7,"Hettangian","",201.3,199.3,8562,"gp_mid",8.36,27.96,"304",200.3,1
-"18930",33356,"col","Sutton",-3.505,51.449001,"Sutton Stone, Southerndown, Ogmore-by-Sea, South Wales",NA,"",8,"Hettangian","",201.3,199.3,8862,"gp_mid",8.38,35.81,"315",200.3,1
-"19059",33490,"col","",-4.1,52.817001,"Mochras Borehole 1, near Llanbedr, North Wales",NA,"",3,"Hettangian","",201.3,199.3,8883,"gp_mid",7.24,36.89,"315",200.3,1
-"19070",33502,"col","",9.95,52.317001,"Sample X/1 (99608), Mittelland canal, Sehnde, Lower Saxony",NA,"",4,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19071",33503,"col","",9.95,52.317001,"Sample X/2 (99609), Mittelland canal, Sehnde, Lower Saxony",NA,"",4,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19073",33505,"col","",9.95,52.317001,"Sample X/5 (99611), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19074",33506,"col","",9.95,52.317001,"Sample X/6 (99612), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19075",33507,"col","",9.95,52.317001,"Sample X/9 (99613), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19076",33508,"col","",9.95,52.317001,"Sample X/10 (99614), Mittelland canal, Sehnde, Lower Saxony",NA,"",7,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19077",33509,"col","",9.95,52.317001,"Sample X/11 (99615), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19078",33510,"col","",9.95,52.317001,"Sample X/14 (99618), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19079",33511,"col","",9.95,52.317001,"Sample X/15 (99619), Mittelland canal, Sehnde, Lower Saxony",NA,"",1,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19080",33512,"col","",9.95,52.317001,"Sample X/16 (99620), Mittelland canal, Senhde, Lower Saxony",NA,"",9,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19089",33521,"col","",9.95,52.317001,"Sample X/37 (99631), Mittelland canal, Sehnde, Lower Saxony",NA,"",2,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19090",33522,"col","",9.95,52.317001,"Sample X/38 (99632), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19091",33523,"col","",9.95,52.317001,"Sample X/39 (99633), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19092",33524,"col","",9.95,52.317001,"Sample X/40 (99634), Mittelland canal, Sehnde, Lower Saxony",NA,"",11,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,1
-"19099",33555,"col","Ronne",15,55.169167,"Ronne Formation, Munkerup Member",NA,"Munkerup Clay",1,"Hettangian","",201.3,199.3,8923,"gp_mid",18.56,44.48,"302",200.3,1
-"22879",38735,"col","",8.833333,48.283333,"Engstlatt-Junction 1",NA,"",2,"Hettangian","",201.3,199.3,7918,"gp_mid",18.93,36.61,"305",200.3,1
-"22880",38736,"col","",8.583333,48.083332,"Mühlhausen 1",NA,"",6,"Hettangian","",201.3,199.3,7918,"gp_mid",18.87,36.36,"305",200.3,1
-"25447",42190,"col","",-0.333333,53.116669,"Martin, Lincolnshire",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.64,38.17,"315",200.3,1
-"25449",42192,"col","",-2.5,51.400002,"Willsbridge, Somerset",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.11,36.04,"315",200.3,1
-"25457",42200,"col","",-2.2,51.900002,"Down Yatherly, Gloucestershire",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.04,36.57,"315",200.3,1
-"28039",45424,"col","Sutton",-3.505,51.449001,"Sutton Stone, Southerndown, South Wales",33356,"",1,"Hettangian","",201.3,199.3,11832,"gp_mid",8.38,35.81,"315",200.3,1
-"31112",48852,"col","",0.95,45.383301,"la Gironnette, Corgnac-sur-L'Isle",NA,"",2,"Hettangian","",201.3,199.3,13020,"gp_mid",14.71,31.59,"305",200.3,1
-"33535",51977,"col","Höganäs",13,56.049999,"Billesholm mine dinosaur",NA,"",1,"Hettangian","",201.3,199.3,13894,"gp_mid",16.55,44.59,"302",200.3,1
-"33536",51978,"col","Höganäs",12.56667,56.200001,"Höganäs mine dinosaur",NA,"",1,"Hettangian","",201.3,199.3,13894,"gp_mid",16.15,44.58,"302",200.3,1
-"35913",55480,"col","",3.0833,44.099998,"Peyre tracksite, Millau",NA,"",1,"Hettangian","",201.3,199.3,14965,"gp_mid",16.96,31.08,"305",200.3,1
-"38544",58621,"col","",5.4167,43.650002,"La Cride tracksite",NA,"",1,"Hettangian","",201.3,199.3,16648,"gp_mid",18.96,31.41,"305",200.3,1
-"38545",58622,"col","",3.95,44.083302,"Corbès tracksite",NA,"Anduze",2,"Hettangian","",201.3,199.3,16648,"gp_mid",17.62,31.34,"305",200.3,1
-"47492",70802,"col","",-1.6632,46.435001,"Pointe du Veillon tracksite, F2",NA,"Veillon Point",2,"Hettangian","",201.3,199.3,71060,"gp_mid",12.25,31.78,"305",200.3,1
-"51953",78715,"col","",4.36,44.633057,"Asteroidea, Schlotheimia angulata bed, Mercuer, Ardèche",NA,"",1,"Hettangian","",201.3,199.3,17626,"gp_mid",17.65,31.96,"305",200.3,1
-"60379",91706,"col","",-2.629722,51.601944,"Aust Cliff, Dimorphodon",NA,"",1,"Hettangian","",201.3,199.3,30914,"gp_mid",8.91,36.19,"315",200.3,1
-"61650",93290,"col","",9.910278,51.514999,"Aschenberg, Göttingen",NA,"",6,"Hettangian","",201.3,199.3,31559,"gp_mid",17.68,39.77,"315",200.3,1
-"62845",94833,"col","Kirchstein",11.5,47.666668,"Mt. Kirchstein, sample L1",NA,"",70,"Hettangian","",201.3,199.3,32345,"gp_mid",21.26,36.94,"305",200.3,1
-"69100",103080,"col","Waterloo Mudstone",-5.965,54.638332,"Carr's Glen, Cave Hill",NA,"",1,"Hettangian","",201.3,199.3,34849,"gp_mid",5,38.06,"313",200.3,1
-"69101",103081,"col","Waterloo",-5.739167,54.813332,"Barney's Point, Magheramorne",NA,"",1,"Hettangian","",201.3,199.3,34849,"gp_mid",5.05,38.27,"313",200.3,1
-"70185",105080,"col","Blue Lias",-2.966667,50.700001,"South-east corner of Pinhay Bay",NA,"",1,"Hettangian","",201.3,199.3,35153,"gp_mid",9.15,35.28,"315",200.3,1
-"78587",115224,"col","White Lias",-2.963,50.978001,"Bere",NA,"",1,"Hettangian","",201.3,199.3,37317,"gp_mid",9.01,35.53,"315",200.3,1
-"80716",118017,"col","",11.541,50.006001,"Sandpit Küfner",NA,"",2,"Hettangian","",201.3,199.3,37958,"gp_mid",19.82,38.98,"305",200.3,1
-"92075",133035,"col","",-0.64,53.790001,"Hotham (Brodie collection)",NA,"",1,"Hettangian","",201.3,199.3,35209,"gp_mid",9.04,38.68,"315",200.3,1
-"95246",137167,"col","",8.97,51.810001,"Egge, South Grevenhagen",NA,"",1,"Hettangian","",201.3,199.3,43855,"gp_mid",16.84,39.73,"315",200.3,1
-"97519",139588,"col","",-5.690139,54.801132,"The Gobbins, Islandmagee",NA,"",2,"Hettangian","",201.3,199.3,23520,"gp_mid",5.09,38.27,"313",200.3,1
-"99497",142009,"col","Fjerritslev",10.005278,56.562778,"Gassum 1 well, core sample 1",NA,"",12,"Hettangian","",201.3,199.3,46122,"gp_mid",14.21,44.11,"302",200.3,1
-"99498",142010,"col","Fjerritslev",10.005278,56.562778,"Gassum 1 well, core sample 2",NA,"",6,"Hettangian","",201.3,199.3,46122,"gp_mid",14.21,44.11,"302",200.3,1
-"99499",142011,"col","Fjerritslev",10.005278,56.562778,"Gassum 1 well, core sample 3",NA,"",13,"Hettangian","",201.3,199.3,46122,"gp_mid",14.21,44.11,"302",200.3,1
-"99500",142012,"col","Fjerritslev",10.005278,56.562778,"Gassum 1 well, core sample 4",NA,"",15,"Hettangian","",201.3,199.3,46122,"gp_mid",14.21,44.11,"302",200.3,1
-"100075",142744,"col","Blue Lias",-1.86,52.360001,"Southam Cement Works",NA,"Marine reptile locality",5,"Hettangian","",201.3,199.3,46325,"gp_mid",9.02,37.07,"315",200.3,1
-"105194",149321,"col","Blue Lias",-2.15,52.029999,"Brockeridge Commons (bed 14)",NA,"",8,"Hettangian","",201.3,199.3,32796,"gp_mid",9.01,36.7,"315",200.3,1
-"105409",149757,"col","Luxembourg Sandstone",6.047,49.743999,"Brouch",NA,"",3,"Hettangian","",201.3,199.3,47969,"gp_mid",16.06,37.03,"315",200.3,1
-"105410",149758,"col","Luxembourg Sandstone",6.015,49.630001,"Mamer (Kaatzefiels)",NA,"",1,"Hettangian","",201.3,199.3,47969,"gp_mid",16.1,36.92,"315",200.3,1
-"105415",149763,"col","Luxembourg Sandstone",6.098,49.647999,"Bridel quarry (Birgerkreiz)",NA,"",1,"Hettangian","",201.3,199.3,47969,"gp_mid",16.15,36.96,"315",200.3,1
-"105633",149978,"col","",2.986344,44.216125,"Saint-Léons tracksite",NA,"Saint Leons, Lévezou, Grands Causses",1,"Hettangian","",201.3,199.3,48040,"gp_mid",16.83,31.16,"305",200.3,1
-"108453",153782,"col","Blue Lias",-2.931428,50.724804,"near the church, Lyme Regis",NA,"",1,"Hettangian","",201.3,199.3,49835,"gp_mid",9.16,35.31,"315",200.3,1
-"108454",153783,"col","Blue Lias",-2.922005,50.732658,"along path, Lyme Regis-Charmouth",NA,"",1,"Hettangian","",201.3,199.3,49835,"gp_mid",9.17,35.32,"315",200.3,1
-"109714",155338,"col","Guanyintan",113.449997,27.35,"KHG 181, Meitian, Yuanzhu, Lanshan County",NA,"",13,"Hettangian","",201.3,199.3,50682,"gp_mid",132.95,41.21,"611",200.3,1
-"111836",159117,"col","",-0.672,53.821999,"North Cliffe, pit ex",NA,"",1,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.7,"315",200.3,1
-"111837",159118,"col","",-0.667,53.813,"South Cliffe, pit b",NA,"",7,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.69,"315",200.3,1
-"111840",159121,"col","",-0.667,53.813,"South Cliffe",NA,"",1,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.69,"315",200.3,1
-"112027",159360,"col","",-2.172,51.867001,"Churchdown (Chosen) Hill, near Gloucester",NA,"",1,"Hettangian","",201.3,199.3,52103,"gp_mid",9.08,36.55,"315",200.3,1
-"122212",176060,"col","Blue Lias",-3.169722,51.406387,"Lavernock Point ",NA,"",8,"Hettangian","",201.3,199.3,57761,"gp_mid",8.64,35.86,"315",200.3,1
-"131475",191140,"col","Bamberg",11.085229,50.287254,"Kipfendorf, Coburg",NA,"",1,"Hettangian","",201.3,199.3,64450,"gp_mid",19.31,39.08,"305",200.3,1
-"133428",195948,"col","",-3.05,54.880001,"Great Orton Borehole",NA,"",1,"Hettangian","",201.3,199.3,66694,"gp_mid",6.79,39.01,"315",200.3,1
-"135956",200925,"col","Scunthorpe Mudstone",-1.195747,52.816532,"Wahlisaurus-type locality",NA,"Normanton Hills, near Normanton on Soar",1,"Hettangian","",201.3,199.3,68785,"gp_mid",9.22,37.66,"315",200.3,1
-"136194",201405,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 1",NA,"",4,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136196",201407,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 2",NA,"",1,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136197",201408,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 3",NA,"",2,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136198",201409,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 4",NA,"",3,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136199",201410,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 6",NA,"",7,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136200",201411,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 5",NA,"",3,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,1
-"136334",201832,"col","Gijón",-5.179444,43.475277,"Caravia Alta (upper)",NA,"",5,"Hettangian","",201.3,199.3,69071,"gp_mid",11.87,30.29,"304",200.3,1
-"138007",204158,"col","Lower",-1.88,51.805,"Stowell Park borehole (S. angulata Zone, S. angulata Subzone, 1874-1931ft)",NA,"",11,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,1
-"138008",204159,"col","Lower",-1.88,51.805,"Stowell Park borehole (S. angulata Zone, L. laqueus Subzone, 1931-1972ft)",NA,"",16,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,1
-"138009",204160,"col","Lower",-1.88,51.805,"Stowell Park borehole (P. planorbis Zone, C. johnstoni Subzone, 1972-1990ft)",NA,"",4,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,1
-"138010",204161,"col","Lower",-1.88,51.805,"Stowell Park borehole (P. planorbis Zone, P. planorbis Subzone, 1990-2026ft)",NA,"",9,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,1
-"138011",204162,"col","Lower",-1.88,51.805,"Stowell Park borehole (pre-planorbis Beds, 2026-2047ft)",NA,"",6,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,1
-"139126",205683,"col","",124.569725,-9.844722,"Tooi area (towards Poetain)",NA,"Toi",1,"Hettangian","",201.3,199.3,70502,"gp_mid",94.82,-23.95,"680",200.3,1
-"139839",206574,"col","",-3,50.985558,"West Hatch near Taunton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.98,35.53,"315",200.3,1
-"139840",206575,"col","",-3.548333,51.209999,"Selworthy near Minehead",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.48,35.58,"315",200.3,1
-"139841",206576,"col","",-3.047778,50.985832,"Thurlbear near Taunton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.94,35.52,"315",200.3,1
-"139842",206577,"col","",-2,52.123055,"Craycombe near Pershore",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.06,36.82,"315",200.3,1
-"139843",206578,"col","",-2.966389,50.712776,"Pinhay Bay, near Lyme Regis",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.15,35.29,"315",200.3,1
-"139844",206579,"col","",-1.848056,52.148888,"Bickmarsh, east of Cleeve Prior",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.15,36.89,"315",200.3,1
-"139845",206580,"col","",-0.803056,54.05722,"Leavening near Malton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.77,38.87,"315",200.3,1
-"139846",206581,"col","",-2.554167,52.965557,"Geological Survey borehole, Wilkesley",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.21,37.43,"315",200.3,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"14854",28929,"col","",8,48,"Engstlatt 14",NA,"",9,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,"hettangian",2887,19.5293,39.4497,42,1
+"14855",28930,"col","",8,48,"Engstlatt 15",NA,"",4,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,"hettangian",2887,19.5293,39.4497,42,1
+"14856",28931,"col","",8,48,"Engstlatt 16",NA,"",10,"Hettangian","",201.3,199.3,7918,"gp_mid",18.49,36.1,"305",200.3,"hettangian",2887,19.5293,39.4497,42,1
+"14912",29038,"col","Sedrina",9,45,"Brumano (M. Albenza)",NA,"",3,"Hettangian","",201.3,199.3,7637,"gp_mid",26.12,29.31,"307",200.3,"hettangian",2907,7.5,45,42,1
+"14924",29051,"col","Sedrina",9,45,"Val Adrara T12",NA,"",2,"Hettangian","",201.3,199.3,7637,"gp_mid",26.12,29.31,"307",200.3,"hettangian",2907,7.5,45,42,1
+"14926",29053,"col","Kendlbach",13,46,"Mittenwald",NA,"",3,"Hettangian","",201.3,199.3,7634,"gp_mid",29.12,27.9,"307",200.3,"hettangian",2908,22.1854,27.5923,42,1
+"15227",29379,"col","",-70.7,-40.4,"Alicura",NA,"PGAP 510",19,"Hettangian","",201.3,199.3,7959,"gp_mid",-12.41,-47.58,"291",200.3,"hettangian",2942,-13.2525,-50.6287,42,1
+"16761",30919,"col","Lower Gring Suite",70.3,38.2,"Gring",NA,"PGAP 633",38,"Hettangian","",201.3,199.3,8267,"gp_mid",79.61,51.46,"402",200.3,"hettangian",3390,90.2086,57.2837,42,1
+"17799",32020,"col","",8.45,47.7,"Asteroidea, Hettangian, Hallau",NA,"",1,"Hettangian","",201.3,199.3,8591,"gp_mid",19,35.98,"305",200.3,"hettangian",3594,19.5293,39.4497,42,1
+"18907",33326,"col","",-69.83,-34.83,"Arroyo Malo, Atuel River, Mendoza, Argentina",NA,"",1,"Hettangian","",201.3,199.3,8859,"gp_mid",-14.69,-42.21,"291",200.3,"hettangian",3779,-17.1268,-46.3366,42,1
+"18930",33356,"col","Sutton",-3.5,51.45,"Sutton Stone, Southerndown, Ogmore-by-Sea, South Wales",NA,"",8,"Hettangian","",201.3,199.3,8862,"gp_mid",8.38,35.81,"315",200.3,"hettangian",3785,8.2379,38.2972,42,1
+"18960",33383,"col","Kingak",-137.75,68.33,"Bonnet Lake, Richardson Mountains, Yukon Territory, Canada",NA,"GSC 38800; GSC 39366",9,"Hettangian","",201.3,199.3,8866,"gp_mid",-50.38,46.34,"101",200.3,"hettangian",3789,-56.4383,45.4118,42,1
+"19059",33490,"col","",-4.1,52.82,"Mochras Borehole 1, near Llanbedr, North Wales",NA,"",3,"Hettangian","",201.3,199.3,8883,"gp_mid",7.24,36.89,"315",200.3,"hettangian",3812,8.2379,38.2972,42,1
+"19070",33502,"col","",9.95,52.32,"Sample X/1 (99608), Mittelland canal, Sehnde, Lower Saxony",NA,"",4,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19071",33503,"col","",9.95,52.32,"Sample X/2 (99609), Mittelland canal, Sehnde, Lower Saxony",NA,"",4,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19073",33505,"col","",9.95,52.32,"Sample X/5 (99611), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19074",33506,"col","",9.95,52.32,"Sample X/6 (99612), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19075",33507,"col","",9.95,52.32,"Sample X/9 (99613), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19076",33508,"col","",9.95,52.32,"Sample X/10 (99614), Mittelland canal, Sehnde, Lower Saxony",NA,"",7,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19077",33509,"col","",9.95,52.32,"Sample X/11 (99615), Mittelland canal, Sehnde, Lower Saxony",NA,"",3,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19078",33510,"col","",9.95,52.32,"Sample X/14 (99618), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19079",33511,"col","",9.95,52.32,"Sample X/15 (99619), Mittelland canal, Sehnde, Lower Saxony",NA,"",1,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19080",33512,"col","",9.95,52.32,"Sample X/16 (99620), Mittelland canal, Senhde, Lower Saxony",NA,"",9,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19089",33521,"col","",9.95,52.32,"Sample X/37 (99631), Mittelland canal, Sehnde, Lower Saxony",NA,"",2,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19090",33522,"col","",9.95,52.32,"Sample X/38 (99632), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19091",33523,"col","",9.95,52.32,"Sample X/39 (99633), Mittelland canal, Sehnde, Lower Saxony",NA,"",10,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19092",33524,"col","",9.95,52.32,"Sample X/40 (99634), Mittelland canal, Sehnde, Lower Saxony",NA,"",11,"Hettangian","",201.3,199.3,8907,"gp_mid",17.18,40.48,"315",200.3,"hettangian",3817,16.9632,44.6641,42,1
+"19640",34182,"col","Kingak",-137.77,68.32,"GSC 38800, Kingak Fm, near Bonnet Lake, northern Yukon",33383,"",4,"Hettangian","",201.3,199.3,8997,"gp_mid",-50.4,46.32,"101",200.3,"hettangian",3896,-56.4383,45.4118,42,1
+"19644",34181,"col","Kingak",-137.7,68.3,"GSC 39366, Kingak Fm, near Bonnet Lake, northern Yukon",33383,"",4,"Hettangian","",201.3,199.3,8997,"gp_mid",-50.37,46.3,"101",200.3,"hettangian",3899,-56.4383,45.4118,42,1
+"19650",34189,"col","Kingak",-137.97,68.16,"GSC 85526, Kingak Fm, Bonnet Lake, northern Yukon",NA,"",3,"Hettangian","",201.3,199.3,8997,"gp_mid",-50.58,46.21,"101",200.3,"hettangian",3904,-56.4383,45.4118,42,1
+"19651",34190,"col","",-138.08,68.17,"GSC 85527, Kingak Fm, Bonnet Lake area, northern Yukon",NA,"",1,"Hettangian","",201.3,199.3,8997,"gp_mid",-50.63,46.23,"101",200.3,"hettangian",3905,-56.4383,45.4118,42,1
+"21624",36939,"col","",-69.9,-34.83,"B14-Arroyo Malo (1), Mendoza",NA,"",1,"Hettangian","",201.3,199.3,9861,"gp_mid",-14.76,-42.23,"291",200.3,"hettangian",4392,-17.1268,-46.3366,42,1
+"22516",38170,"col","Sedrina Limestone",10,46,"Lombardian Alps, Sedrina Limestone Formation",NA,"",30,"Hettangian","",201.3,199.3,10252,"gp_mid",27.52,29.45,"307",200.3,"hettangian",4684,22.1854,27.5923,42,1
+"22879",38735,"col","",8.83,48.28,"Engstlatt-Junction 1",NA,"",2,"Hettangian","",201.3,199.3,7918,"gp_mid",18.93,36.61,"305",200.3,"hettangian",4760,19.5293,39.4497,42,1
+"22880",38736,"col","",8.58,48.08,"Mühlhausen 1",NA,"",6,"Hettangian","",201.3,199.3,7918,"gp_mid",18.87,36.36,"305",200.3,"hettangian",4761,19.5293,39.4497,42,1
+"23192",39303,"col","",162,64,"Basin Omolon, Uljagan",NA,"",12,"Hettangian","",201.3,199.3,10583,"gp_mid",-121.54,64.91,"405",200.3,"hettangian",4867,-99.5871,55.2286,42,1
+"23200",39311,"col","",162,64,"Basin Gizhigi, Malaja Turomtcha",NA,"",6,"Hettangian","",201.3,199.3,10583,"gp_mid",-121.54,64.91,"405",200.3,"hettangian",4867,-99.5871,55.2286,42,1
+"23204",39316,"col","",162,64,"Basin Bolschoi Anjui",NA,"",8,"Hettangian","",201.3,199.3,10583,"gp_mid",-121.54,64.91,"405",200.3,"hettangian",4867,-99.5871,55.2286,42,1
+"23205",39317,"col","",162,64,"Basin Bolschoi Anjui, Vurguveem",39316,"",3,"Hettangian","",201.3,199.3,10583,"gp_mid",-121.54,64.91,"405",200.3,"hettangian",4867,-99.5871,55.2286,42,1
+"25447",42190,"col","",-0.33,53.12,"Martin, Lincolnshire",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.64,38.17,"315",200.3,"hettangian",5487,10.4256,39.8221,42,1
+"25449",42192,"col","",-2.5,51.4,"Willsbridge, Somerset",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.11,36.04,"315",200.3,"hettangian",5488,8.2379,38.2972,42,1
+"25457",42200,"col","",-2.2,51.9,"Down Yatherly, Gloucestershire",NA,"",1,"Hettangian","",201.3,199.3,11186,"gp_mid",9.04,36.57,"315",200.3,"hettangian",5490,8.2379,38.2972,42,1
+"28039",45424,"col","Sutton",-3.5,51.45,"Sutton Stone, Southerndown, South Wales",33356,"",1,"Hettangian","",201.3,199.3,11832,"gp_mid",8.38,35.81,"315",200.3,"hettangian",3785,8.2379,38.2972,42,1
+"32073",50228,"col","Kalyan",156.5,61.67,"Phylloceratids (Ammnonoidea) from Viliga River, Siberia",NA,"",1,"Hettangian","",201.3,199.3,13492,"gp_mid",-122.47,68.31,"405",200.3,"hettangian",7665,-106.5826,56.4206,42,1
+"32469",50818,"col","Arroyo Malo",-69.87,-34.8,"Alumbre Creek, Hettangian, Atuel River",NA,"",1,"Hettangian","",201.3,199.3,13577,"gp_mid",-14.74,-42.19,"291",200.3,"hettangian",7755,-17.1268,-46.3366,42,1
+"32470",50819,"col","El Cholo",-69.87,-34.8,"Alumbre Creek, Hettangian 2, Atuel River",NA,"",9,"Hettangian","",201.3,199.3,13577,"gp_mid",-14.74,-42.19,"291",200.3,"hettangian",7755,-17.1268,-46.3366,42,1
+"33535",51977,"col","Höganäs",13,56.05,"Billesholm mine dinosaur",NA,"",1,"Hettangian","",201.3,199.3,13894,"gp_mid",16.55,44.59,"302",200.3,"hettangian",8001,14.298,46.3399,42,1
+"33536",51978,"col","Höganäs",12.57,56.2,"Höganäs mine dinosaur",NA,"",1,"Hettangian","",201.3,199.3,13894,"gp_mid",16.15,44.58,"302",200.3,"hettangian",8002,14.298,46.3399,42,1
+"34716",53202,"col","",-122.97,51.08,"GSC loc. C-157663 - Taseko Lakes",NA,"",2,"Hettangian","",201.3,199.3,14361,"gp_mid",-54.16,22.62,"127",200.3,"hettangian",8430,-55.5624,-6.1185,42,1
+"34988",53472,"col","",-123.02,51.08,"GSC loc. 62403 - Taseko Lakes",NA,"",4,"Hettangian","",201.3,199.3,14361,"gp_mid",-54.19,22.6,"127",200.3,"hettangian",8515,-55.5624,-6.1185,42,1
+"38458",58536,"col","",-70.58,-25.9,"Quebrada Cachina, Antofagasta",NA,"",17,"Hettangian","",201.3,199.3,9156,"gp_mid",-19.61,-34.12,"291",200.3,"hettangian",9280,-23.5377,-37.4093,42,1
+"38461",58539,"col","",-70.08,-23.62,"Cuevitas, Antofagasta",NA,"",8,"Hettangian","",201.3,199.3,9156,"gp_mid",-19.86,-32.89,"201",200.3,"hettangian",9282,-24.9378,-34.8097,42,1
+"47492",70802,"col","",-1.66,46.44,"Pointe du Veillon tracksite, F2",NA,"Veillon Point",2,"Hettangian","",201.3,199.3,71060,"gp_mid",12.25,31.78,"305",200.3,"hettangian",11599,14.8024,36.0298,42,1
+"55796",85016,"col","",168.51,-45.99,"McF E26, south branch Taylors Stream (E45/f070)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.33,-68.83,"807",200.3,"hettangian",14228,79.3087,-74.5511,42,1
+"57132",87048,"col","",19.31,49.82,"Csövar section, Bed 124, ammonite",NA,"",1,"Hettangian","",201.3,199.3,29290,"gp_mid",25.54,41.42,"305",200.3,"hettangian",14773,24.0417,46.5411,42,1
+"58433",88587,"col","Monte Zugna",11,45.83,"Chizzola tracksite",NA,"ALCH, Ala",3,"Hettangian","",201.3,199.3,19851,"gp_mid",27.9,28.81,"307",200.3,"hettangian",15175,22.1854,27.5923,42,1
+"58434",88588,"col","Monte Zugna",11.34,45.98,"Pizzo di Levico tracksite",NA,"Pizzo Levico",1,"Hettangian","",201.3,199.3,65914,"gp_mid",28.21,28.74,"307",200.3,"hettangian",15176,22.1854,27.5923,42,1
+"58435",88589,"col","Monte Zugna",10.97,45.73,"Sega di Ala trackstie",NA,"Monte Lessino",1,"Hettangian","",201.3,199.3,29718,"gp_mid",27.8,28.76,"307",200.3,"hettangian",15177,22.1854,27.5923,42,1
+"60379",91706,"col","",-2.63,51.6,"Aust Cliff, Dimorphodon",NA,"",1,"Hettangian","",201.3,199.3,30914,"gp_mid",8.91,36.19,"315",200.3,"hettangian",15874,8.2379,38.2972,42,1
+"61650",93290,"col","",9.91,51.51,"Aschenberg, Göttingen",NA,"",6,"Hettangian","",201.3,199.3,31559,"gp_mid",17.68,39.77,"315",200.3,"hettangian",16285,16.9632,44.6641,42,1
+"64034",96059,"col","",133.25,46.83,"Hongqiling Nongchang",NA,"",14,"Hettangian","",201.3,199.3,32602,"gp_mid",168.02,59.72,"628",200.3,"hettangian",17001,-174.9124,37.3687,42,1
+"69100",103080,"col","Waterloo Mudstone",-5.96,54.64,"Carr's Glen, Cave Hill",NA,"",1,"Hettangian","",201.3,199.3,34849,"gp_mid",5,38.06,"313",200.3,"hettangian",18868,3.9609,38.7668,42,1
+"69101",103081,"col","Waterloo",-5.74,54.81,"Barney's Point, Magheramorne",NA,"",1,"Hettangian","",201.3,199.3,34849,"gp_mid",5.05,38.27,"313",200.3,"hettangian",18869,3.9609,38.7668,42,1
+"70185",105080,"col","Blue Lias",-2.97,50.7,"South-east corner of Pinhay Bay",NA,"",1,"Hettangian","",201.3,199.3,35153,"gp_mid",9.15,35.28,"315",200.3,"hettangian",19386,10.4603,36.2945,42,1
+"78587",115224,"col","White Lias",-2.96,50.98,"Bere",NA,"",1,"Hettangian","",201.3,199.3,37317,"gp_mid",9.01,35.53,"315",200.3,"hettangian",22018,10.4603,36.2945,42,1
+"80716",118017,"col","",11.54,50.01,"Sandpit Küfner",NA,"",2,"Hettangian","",201.3,199.3,37958,"gp_mid",19.82,38.98,"305",200.3,"hettangian",22595,19.49,42.9649,42,1
+"86636",125465,"col","Mecsek Coal",18.32,46.16,"Pécsbánya coal pit ",NA,"",23,"Hettangian","",201.3,199.3,40736,"gp_mid",32.13,25.37,"308",200.3,"hettangian",24327,22.9395,29.2726,42,1
+"92075",133035,"col","",-0.64,53.79,"Hotham (Brodie collection)",NA,"",1,"Hettangian","",201.3,199.3,35209,"gp_mid",9.04,38.68,"315",200.3,"hettangian",25554,8.1569,41.6374,42,1
+"93660",135091,"col","",168.47,-45.99,"GS 5903, Otapiri Stream (E45/f9568)",NA,"",1,"Hettangian","",201.3,199.3,43142,"gp_mid",80.4,-68.82,"807",200.3,"hettangian",26039,79.3087,-74.5511,42,1
+"93661",135092,"col","",168.47,-45.99,"JDC 1380, Otapiri Stream (E45/f9568)",NA,"",2,"Hettangian","",201.3,199.3,43142,"gp_mid",80.4,-68.82,"807",200.3,"hettangian",26039,79.3087,-74.5511,42,1
+"93662",135093,"col","",168.47,-45.99,"McF E48, Otapiri Stream (E45/f9568)",NA,"",1,"Hettangian","",201.3,199.3,43142,"gp_mid",80.4,-68.82,"807",200.3,"hettangian",26039,79.3087,-74.5511,42,1
+"93729",135160,"col","",168.78,-46.05,"JDC 2479, Otamita Valley (F45/f8011)",NA,"",2,"Hettangian","",201.3,199.3,43142,"gp_mid",79.79,-68.86,"807",200.3,"hettangian",26072,79.3087,-74.5511,42,1
+"93748",135179,"col","",168.69,-46.03,"GS 7626, Otamita Valley (F45/f8777)",NA,"",1,"Hettangian","",201.3,199.3,43142,"gp_mid",79.96,-68.85,"807",200.3,"hettangian",26081,79.3087,-74.5511,42,1
+"93755",135186,"col","",168.72,-46.04,"GS 7775, Gordon Stream (F45/f8862)",NA,"",1,"Hettangian","",201.3,199.3,43142,"gp_mid",79.9,-68.85,"807",200.3,"hettangian",26084,79.3087,-74.5511,42,1
+"93756",135187,"col","",168.72,-46.04,"JDC 1533, Gordon Stream (F45/f8893)",NA,"",1,"Hettangian","",201.3,199.3,43142,"gp_mid",79.91,-68.85,"807",200.3,"hettangian",26084,79.3087,-74.5511,42,1
+"93884",135315,"col","",168.48,-45.98,"McF E28, Taylors Stream, south bank (E45/f072)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.39,-68.84,"807",200.3,"hettangian",26149,79.3087,-74.5511,42,1
+"93885",135316,"col","",168.49,-45.98,"McF E40, Taylors Stream (E45/f080)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.37,-68.83,"807",200.3,"hettangian",26150,79.3087,-74.5511,42,1
+"93886",135317,"col","",168.47,-45.98,"JDC 3896, Otapiri Valley (E45/f121)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.41,-68.83,"807",200.3,"hettangian",26151,79.3087,-74.5511,42,1
+"93887",135318,"col","",168.48,-45.98,"JDC 3927, Taylors Stream (E45/f142)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.39,-68.84,"807",200.3,"hettangian",26149,79.3087,-74.5511,42,1
+"93888",135319,"col","",168.46,-45.95,"JDC 3948, Otapiri Downs (E45/f152)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.47,-68.86,"807",200.3,"hettangian",26152,79.3087,-74.5511,42,1
+"93889",135320,"col","",168.46,-45.97,"JDC 3949, Otapiri Downs (E45/f153)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.44,-68.83,"807",200.3,"hettangian",26153,79.3087,-74.5511,42,1
+"93890",135321,"col","",168.51,-45.99,"JDC 3951, Taylors Stream (E45/f155)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.33,-68.83,"807",200.3,"hettangian",14228,79.3087,-74.5511,42,1
+"93891",135322,"col","",168.4,-45.96,"JDC 4282, Tributary of Bastion Burn (E45/f276)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.55,-68.83,"807",200.3,"hettangian",26154,79.3087,-74.5511,42,1
+"93894",135325,"col","",168.51,-45.99,"JDC 4058, tributary of Taylors Stream (E45/f360)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.32,-68.83,"807",200.3,"hettangian",14228,79.3087,-74.5511,42,1
+"93895",135326,"col","",168.5,-45.99,"JDC 735, Taylors Stream (E45/f9552)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.34,-68.83,"807",200.3,"hettangian",26157,79.3087,-74.5511,42,1
+"93896",135327,"col","",168.49,-45.98,"JDC 1287, NW bank of Taylors Stream (E45/f9613)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.38,-68.83,"807",200.3,"hettangian",26150,79.3087,-74.5511,42,1
+"93897",135328,"col","",168.49,-45.98,"McF E39, NW bank of Taylors Stream (E45/f9613)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.38,-68.83,"807",200.3,"hettangian",26150,79.3087,-74.5511,42,1
+"93898",135329,"col","",168.49,-45.98,"JDC 1288, NW bank of Taylors Stream (E45/f9614)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.38,-68.83,"807",200.3,"hettangian",26150,79.3087,-74.5511,42,1
+"93899",135330,"col","",168.5,-45.99,"JDC 1289, Quarry north of Lora Road (E45/f9615)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.34,-68.83,"807",200.3,"hettangian",26157,79.3087,-74.5511,42,1
+"93900",135331,"col","",168.51,-45.99,"JDC 1291, south bank of Taylors Stream (E45/f9617)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.33,-68.83,"807",200.3,"hettangian",14228,79.3087,-74.5511,42,1
+"93902",135333,"col","",168.48,-45.97,"JDC 1976, Taylors Stream (E45/f9895)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.4,-68.84,"807",200.3,"hettangian",26158,79.3087,-74.5511,42,1
+"93904",135335,"col","",168.65,-46.02,"McF E7, Ruhtra Quarry, Otamita Valley Road (F45/f072A)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.04,-68.84,"807",200.3,"hettangian",26159,79.3087,-74.5511,42,1
+"93906",135337,"col","",168.65,-46.02,"McF C11, Otamita Valley Road (F45/f132)",NA,"",1,"Hettangian","",201.3,199.3,28535,"gp_mid",80.04,-68.85,"807",200.3,"hettangian",26159,79.3087,-74.5511,42,1
+"95246",137167,"col","",8.97,51.81,"Egge, South Grevenhagen",NA,"",1,"Hettangian","",201.3,199.3,43855,"gp_mid",16.84,39.73,"315",200.3,"hettangian",26602,14.7852,43.0079,42,1
+"95842",137842,"col","",168.75,-46.04,"GS 6616, Otamita Valley (F45/f8683)",NA,"S169/f683",1,"Hettangian","",201.3,199.3,44089,"gp_mid",79.86,-68.86,"807",200.3,"hettangian",26776,79.3087,-74.5511,42,1
+"95843",137843,"col","",168.48,-46,"GS 6597, Flag Hill",NA,"",1,"Hettangian","",201.3,199.3,44089,"gp_mid",80.36,-68.81,"807",200.3,"hettangian",26777,79.3087,-74.5511,42,1
+"97519",139588,"col","",-5.69,54.8,"The Gobbins, Islandmagee",NA,"",2,"Hettangian","",201.3,199.3,23520,"gp_mid",5.09,38.27,"313",200.3,"hettangian",27183,3.9609,38.7668,42,1
+"100075",142744,"col","Blue Lias",-1.86,52.36,"Southam Cement Works",NA,"Marine reptile locality",5,"Hettangian","",201.3,199.3,46325,"gp_mid",9.02,37.07,"315",200.3,"hettangian",27578,10.4256,39.8221,42,1
+"105194",149321,"col","Blue Lias",-2.15,52.03,"Brockeridge Commons (bed 14)",NA,"",8,"Hettangian","",201.3,199.3,32796,"gp_mid",9.01,36.7,"315",200.3,"hettangian",28282,8.2379,38.2972,42,1
+"105265",149424,"col","",6.38,48.96,"Tragny-Béchy TGV excavation",NA,"",2,"Hettangian","",201.3,199.3,47871,"gp_mid",16.75,36.44,"315",200.3,"hettangian",28306,17.1675,41.239,42,1
+"105409",149757,"col","Luxembourg Sandstone",6.05,49.74,"Brouch",NA,"",3,"Hettangian","",201.3,199.3,47969,"gp_mid",16.06,37.03,"315",200.3,"hettangian",28351,17.1675,41.239,42,1
+"105410",149758,"col","Luxembourg Sandstone",6.02,49.63,"Mamer (Kaatzefiels)",NA,"",1,"Hettangian","",201.3,199.3,47969,"gp_mid",16.1,36.92,"315",200.3,"hettangian",28352,17.1675,41.239,42,1
+"105415",149763,"col","Luxembourg Sandstone",6.1,49.65,"Bridel quarry (Birgerkreiz)",NA,"",1,"Hettangian","",201.3,199.3,47969,"gp_mid",16.15,36.96,"315",200.3,"hettangian",28353,17.1675,41.239,42,1
+"108453",153782,"col","Blue Lias",-2.93,50.72,"near the church, Lyme Regis",NA,"",1,"Hettangian","",201.3,199.3,49835,"gp_mid",9.16,35.31,"315",200.3,"hettangian",29105,10.4603,36.2945,42,1
+"108454",153783,"col","Blue Lias",-2.92,50.73,"along path, Lyme Regis-Charmouth",NA,"",1,"Hettangian","",201.3,199.3,49835,"gp_mid",9.17,35.32,"315",200.3,"hettangian",29106,10.4603,36.2945,42,1
+"110920",157528,"col","Last Creek",-123.01,51.1,"GSC 62357, Taseko Lakes",NA,"",1,"Hettangian","",201.3,199.3,51806,"gp_mid",-54.19,22.62,"127",200.3,"hettangian",29644,-55.5624,-6.1185,42,1
+"111836",159117,"col","",-0.67,53.82,"North Cliffe, pit ex",NA,"",1,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.7,"315",200.3,"hettangian",29950,8.1569,41.6374,42,1
+"111837",159118,"col","",-0.67,53.81,"South Cliffe, pit b",NA,"",7,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.69,"315",200.3,"hettangian",29951,8.1569,41.6374,42,1
+"111840",159121,"col","",-0.67,53.81,"South Cliffe",NA,"",1,"Hettangian","",201.3,199.3,52059,"gp_mid",9,38.69,"315",200.3,"hettangian",29951,8.1569,41.6374,42,1
+"112027",159360,"col","",-2.17,51.87,"Churchdown (Chosen) Hill, near Gloucester",NA,"",1,"Hettangian","",201.3,199.3,52103,"gp_mid",9.08,36.55,"315",200.3,"hettangian",30018,8.2379,38.2972,42,1
+"122212",176060,"col","Blue Lias",-3.17,51.41,"Lavernock Point ",NA,"",8,"Hettangian","",201.3,199.3,57761,"gp_mid",8.64,35.86,"315",200.3,"hettangian",32368,8.2379,38.2972,42,1
+"131475",191140,"col","Bamberg",11.09,50.29,"Kipfendorf, Coburg",NA,"",1,"Hettangian","",201.3,199.3,64450,"gp_mid",19.31,39.08,"305",200.3,"hettangian",34621,19.49,42.9649,42,1
+"133428",195948,"col","",-3.05,54.88,"Great Orton Borehole",NA,"",1,"Hettangian","",201.3,199.3,66694,"gp_mid",6.79,39.01,"315",200.3,"hettangian",35081,6.0502,40.1898,42,1
+"135956",200925,"col","Scunthorpe Mudstone",-1.2,52.82,"Wahlisaurus-type locality",NA,"Normanton Hills, near Normanton on Soar",1,"Hettangian","",201.3,199.3,68785,"gp_mid",9.22,37.66,"315",200.3,"hettangian",35678,10.4256,39.8221,42,1
+"136194",201405,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 1",NA,"",4,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136196",201407,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 2",NA,"",1,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136197",201408,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 3",NA,"",2,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136198",201409,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 4",NA,"",3,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136199",201410,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 6",NA,"",7,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136200",201411,"col","",-5.8,57.25,"Ob Lusa, Coral Bed 5",NA,"",3,"Hettangian","",201.3,199.3,68930,"gp_mid",3.63,40.45,"303",200.3,"hettangian",35728,1.819,40.6471,42,1
+"136334",201832,"col","Gijón",-5.18,43.48,"Caravia Alta (upper)",NA,"",5,"Hettangian","",201.3,199.3,69071,"gp_mid",11.87,30.29,"304",200.3,"hettangian",35762,12.9696,29.841,42,1
+"138007",204158,"col","Lower",-1.88,51.8,"Stowell Park borehole (S. angulata Zone, S. angulata Subzone, 1874-1931ft)",NA,"",11,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,"hettangian",36143,8.2379,38.2972,42,1
+"138008",204159,"col","Lower",-1.88,51.8,"Stowell Park borehole (S. angulata Zone, L. laqueus Subzone, 1931-1972ft)",NA,"",16,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,"hettangian",36143,8.2379,38.2972,42,1
+"138009",204160,"col","Lower",-1.88,51.8,"Stowell Park borehole (P. planorbis Zone, C. johnstoni Subzone, 1972-1990ft)",NA,"",4,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,"hettangian",36143,8.2379,38.2972,42,1
+"138010",204161,"col","Lower",-1.88,51.8,"Stowell Park borehole (P. planorbis Zone, P. planorbis Subzone, 1990-2026ft)",NA,"",9,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,"hettangian",36143,8.2379,38.2972,42,1
+"138011",204162,"col","Lower",-1.88,51.8,"Stowell Park borehole (pre-planorbis Beds, 2026-2047ft)",NA,"",6,"Hettangian","",201.3,199.3,69925,"gp_mid",9.32,36.57,"315",200.3,"hettangian",36143,8.2379,38.2972,42,1
+"139126",205683,"col","",124.57,-9.84,"Tooi area (towards Poetain)",NA,"Toi",1,"Hettangian","",201.3,199.3,70502,"gp_mid",94.82,-23.95,"680",200.3,"hettangian",36575,98.5108,-21.7019,42,1
+"139839",206574,"col","",-3,50.99,"West Hatch near Taunton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.98,35.53,"315",200.3,"hettangian",36782,10.4603,36.2945,42,1
+"139840",206575,"col","",-3.55,51.21,"Selworthy near Minehead",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.48,35.58,"315",200.3,"hettangian",36783,10.4603,36.2945,42,1
+"139841",206576,"col","",-3.05,50.99,"Thurlbear near Taunton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.94,35.52,"315",200.3,"hettangian",36784,10.4603,36.2945,42,1
+"139842",206577,"col","",-2,52.12,"Craycombe near Pershore",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.06,36.82,"315",200.3,"hettangian",36785,8.2379,38.2972,42,1
+"139843",206578,"col","",-2.97,50.71,"Pinhay Bay, near Lyme Regis",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.15,35.29,"315",200.3,"hettangian",36786,10.4603,36.2945,42,1
+"139844",206579,"col","",-1.85,52.15,"Bickmarsh, east of Cleeve Prior",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",9.15,36.89,"315",200.3,"hettangian",36787,10.4256,39.8221,42,1
+"139845",206580,"col","",-0.8,54.06,"Leavening near Malton",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.77,38.87,"315",200.3,"hettangian",36788,8.1569,41.6374,42,1
+"139846",206581,"col","",-2.55,52.97,"Geological Survey borehole, Wilkesley",NA,"",1,"Hettangian","",201.3,199.3,71006,"gp_mid",8.21,37.43,"315",200.3,"hettangian",36789,8.2379,38.2972,42,1
+"142087",210054,"col","",-70.44,-24.84,"Cerro Yumbes, Profil 1, a2",NA,"",1,"Hettangian","",201.3,199.3,72468,"gp_mid",-19.89,-33.08,"291",200.3,"hettangian",37301,-23.5377,-37.4093,42,1
+"145116",214312,"col","",63.57,34.12,"Site 581, Nalbandon River valley",NA,"",1,"Hettangian","",201.3,199.3,73888,"gp_mid",NA,NA,"coordinates not computable using this model",200.3,"hettangian",37944,81.4503,58.111,42,1
+"145117",214313,"col","",63.58,34.12,"Site 585, Nalbandon River valley",NA,"",5,"Hettangian","",201.3,199.3,73888,"gp_mid",NA,NA,"coordinates not computable using this model",200.3,"hettangian",37945,81.4503,58.111,42,1

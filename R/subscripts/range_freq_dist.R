@@ -11,7 +11,7 @@ ras <- raster(res = res, val = 1)
 
 #ANTHOZOA#
 
-data <- read.csv("F:\\OneDrive - Imperial College London/Spatial sampling paper/Data/obis_raw_data/Anthozoa.csv", sep =",")
+data <- read.csv("./data/raw_data/OBIS/Anthozoa.csv", sep =",")
 data <- subset(data, !is.na(speciesid)) #remove data not identified to species level
 data <- cbind.data.frame(as.numeric(data$decimalLongitude), as.numeric(data$decimalLatitude), data$speciesid)
 colnames(data) <- c("x", "y", "id")
@@ -37,7 +37,7 @@ title("c", adj = 0, cex.main = 1.75)
 
 #PORIFERA#
 
-data <- read.csv("F:\\OneDrive - Imperial College London/Spatial sampling paper/Data/obis_raw_data/Porifera.csv", sep =",")
+data <- read.csv("./data/raw_data/OBIS/Porifera.csv", sep =",")
 data <- subset(data, !is.na(speciesid)) #remove data not identified to species level
 data <- cbind.data.frame(as.numeric(data$decimalLongitude), as.numeric(data$decimalLatitude), data$speciesid)
 colnames(data) <- c("x", "y", "id")
@@ -57,7 +57,7 @@ title("f", adj = 0, cex.main = 1.75)
 
 #BIVALVIA#
 
-data <- read.csv("F:\\OneDrive - Imperial College London/Spatial sampling paper/Data/obis_raw_data/Bivalvia.csv", sep =",")
+data <- read.csv("./data/raw_data/OBIS/Bivalvia.csv", sep =",")
 data <- subset(data, !is.na(speciesid)) #remove data not identified to species level
 data <- cbind.data.frame(as.numeric(data$decimalLongitude), as.numeric(data$decimalLatitude), data$speciesid)
 colnames(data) <- c("x", "y", "id")
@@ -77,7 +77,7 @@ title("i", adj = 0, cex.main = 1.75)
 
 #BRACHIOPODA#
 
-data <- read.csv("F:\\OneDrive - Imperial College London/Spatial sampling paper/Data/obis_raw_data/Brachiopoda.csv", sep =",")
+data <- read.csv("./data/raw_data/OBIS/Brachiopoda.csv", sep =",")
 data <- subset(data, !is.na(speciesid)) #remove data not identified to species level
 data <- cbind.data.frame(as.numeric(data$decimalLongitude), as.numeric(data$decimalLatitude), data$speciesid)
 colnames(data) <- c("x", "y", "id")
@@ -97,7 +97,7 @@ title("l", adj = 0, cex.main = 1.75)
 
 #ECHINOIDEA#
 
-data <- read.csv("F:\\OneDrive - Imperial College London/Spatial sampling paper/Data/obis_raw_data/Echinoidea.csv", sep =",")
+data <- read.csv("./data/raw_data/OBIS/Echinoidea.csv", sep =",")
 data <- subset(data, !is.na(speciesid)) #remove data not identified to species level
 data <- cbind.data.frame(as.numeric(data$decimalLongitude), as.numeric(data$decimalLatitude), data$speciesid)
 colnames(data) <- c("x", "y", "id")

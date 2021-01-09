@@ -1,599 +1,448 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"1229",2558,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-5",NA,"",12,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1230",2559,"col","Shuara",48.566944,14.266389,"Al Ma'abir III-6",NA,"",1,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1231",2560,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-7",NA,"",7,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1232",2562,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-8",NA,"",20,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1233",2563,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-9",NA,"",3,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1234",2564,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-10",NA,"",1,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1235",2565,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-11",NA,"",2,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1236",2566,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-12",NA,"",11,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1237",2567,"col","Shuqra",48.566944,14.266389,"Al Ma'abir III-13",NA,"",24,"Callovian","",166.1,163.5,74,"gp_mid",43.33,-16.56,"503",164.8,1
-"1258",2587,"col","Shuqra",48.472778,14.301667,"Jebel Billum III-1",NA,"",3,"Callovian","",166.1,163.5,74,"gp_mid",43.26,-16.49,"503",164.8,1
-"1259",2588,"col","Shuqra",48.472778,14.301667,"Jebel Billum III-2",NA,"",2,"Callovian","",166.1,163.5,74,"gp_mid",43.26,-16.49,"503",164.8,1
-"1260",2589,"col","Shuqra",48.472778,14.301667,"Jebel Billum III-3",NA,"",29,"Callovian","",166.1,163.5,74,"gp_mid",43.26,-16.49,"503",164.8,1
-"1261",2590,"col","Shuqra",48.472778,14.301667,"Jebel Billum III-4",NA,"",1,"Callovian","",166.1,163.5,74,"gp_mid",43.26,-16.49,"503",164.8,1
-"1262",2591,"col","Shuqra",48.472778,14.301667,"Jebel Billum III-5",NA,"",18,"Callovian","",166.1,163.5,74,"gp_mid",43.26,-16.49,"503",164.8,1
-"1269",2598,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-7",NA,"",1,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1270",2599,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-8",NA,"",7,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1271",2600,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-9",NA,"",20,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1272",2601,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-10",NA,"",19,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1273",2602,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-11",NA,"",2,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1274",2603,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-12",NA,"",24,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1275",2604,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-13",NA,"",30,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1276",2605,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-14",NA,"",32,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1277",2609,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-17",NA,"",3,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1278",2608,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-18",NA,"",28,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1279",2606,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-15",NA,"",6,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1280",2607,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-16",NA,"",28,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"1281",2610,"col","Shuqra",48.446667,14.316667,"Jebel Billum IV-19",NA,"",20,"Callovian","",166.1,163.5,74,"gp_mid",43.24,-16.46,"503",164.8,1
-"2493",5226,"col","Kingak Shale",-148.116669,68.966667,"Ivishak River (USGS Mes. loc. 22745)",NA,"",1,"Callovian","",166.1,163.5,313,"gp_mid",-38.98,65.72,"103",164.8,1
-"2494",5227,"col","Kingak Shale",-148.083328,68.966667,"Ivishak River (USGS Mes. loc. 22764)",NA,"",2,"Callovian","",166.1,163.5,313,"gp_mid",-38.99,65.71,"103",164.8,1
-"2501",5234,"col","Kingak Shale",-146,69,"Canning River (USGS Mes. loc. 21024)",NA,"",1,"Callovian","",166.1,163.5,313,"gp_mid",-39.85,65.05,"103",164.8,1
-"2552",5443,"col","Kingak Shale",-146.133331,69.416664,"Canning River (USGS Mesozoic Loc. 24033)",NA,"",2,"Callovian","",166.1,163.5,313,"gp_mid",-38.95,64.88,"103",164.8,1
-"12173",74518,"col","",-3.029449,42.324837,"Valgañón, Escaray",NA,"Ezcaray",1,"Callovian","",166.1,163.5,25015,"gp_mid",18.94,26.9,"304",164.8,1
-"12745",24047,"col","Chari",69.966667,23.299999,"Habo Dome, Bhuj, Kachchh, India",NA,"Reef 526",12,"Callovian","",166.1,163.5,6805,"gp_mid",45.29,-27.58,"501",164.8,1
-"12962",24395,"col","",0.3,46.599998,"Poitiers (Vienne, France)",NA,"",8,"Callovian","",166.1,163.5,6888,"gp_mid",21,30.5,"305",164.8,1
-"12963",24396,"col","",4.5,47.900002,"Etrochey (Cote-d'Or)",NA,"",9,"Callovian","",166.1,163.5,6888,"gp_mid",24.09,32.2,"305",164.8,1
-"16802",30960,"col","Upper Kamala Suite",34.900002,48.599998,"Kamenka",NA,"PGAP 565",13,"Callovian","",166.1,163.5,7972,"gp_mid",47.79,37.67,"302",164.8,1
-"16821",30979,"col","Macoita",-72.5,10.5,"Sierra de Perija (2)",NA,"PGAP 818",2,"Callovian","",166.1,163.5,8000,"gp_mid",-31.05,4.89,"203",164.8,1
-"20626",35471,"col","Mughanniyya",35.633331,32.166668,"Deir-Alla 2 B4",NA,"",7,"Callovian","",166.1,163.5,9529,"gp_mid",40.05,4.64,"503",164.8,1
-"20652",35548,"col","Mughanniyya",35.766666,32.183334,"King Talal dam T5",NA,"",15,"Callovian","",166.1,163.5,9529,"gp_mid",40.16,4.6,"503",164.8,1
-"20656",35552,"col","Mughanniyya",35.633331,32.166668,"Deir-Alla 2 B3",NA,"",5,"Callovian","",166.1,163.5,9529,"gp_mid",40.05,4.64,"503",164.8,1
-"20658",35554,"col","Mughanniyya",35.766666,32.183334,"King Talal dam T3",NA,"",1,"Callovian","",166.1,163.5,9529,"gp_mid",40.16,4.6,"503",164.8,1
-"20703",35664,"col","Mughanniyya",35.633331,32.166668,"Deir-Alla 2 B5",NA,"",4,"Callovian","",166.1,163.5,9529,"gp_mid",40.05,4.64,"503",164.8,1
-"20704",35665,"col","Mughanniyya",35.633331,32.166668,"Deir-Alla 2 B1",NA,"",1,"Callovian","",166.1,163.5,9529,"gp_mid",40.05,4.64,"503",164.8,1
-"20705",35666,"col","Mughanniyya",35.766666,32.183334,"King Talal dam T2",NA,"",11,"Callovian","",166.1,163.5,9529,"gp_mid",40.16,4.6,"503",164.8,1
-"20706",35667,"col","Mughanniyya",35.766666,32.183334,"King Talal dam T1",NA,"",11,"Callovian","",166.1,163.5,9529,"gp_mid",40.16,4.6,"503",164.8,1
-"20738",35699,"col","Mughanniyya",35.633331,32.099998,"Wadi Nimr R10",NA,"",11,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.58,"503",164.8,1
-"20739",35700,"col","Mughanniyya",35.633331,32.099998,"Wadi Nimr R11",NA,"",30,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.58,"503",164.8,1
-"20740",35701,"col","Mughanniyya",35.633331,32.099998,"Wadi Nimr R12",NA,"",15,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.58,"503",164.8,1
-"20768",35742,"col","Mughanniyya",35.616669,32.116669,"Arda A25",NA,"",10,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.6,"503",164.8,1
-"20769",35743,"col","Mughanniyya",35.616669,32.116669,"Arda A26",NA,"",7,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.6,"503",164.8,1
-"20774",35748,"col","Mughanniyya",35.700001,32.200001,"Tal el Dhahab S7",NA,"",21,"Callovian","",166.1,163.5,9529,"gp_mid",40.12,4.64,"503",164.8,1
-"21028",36212,"col","Chelva",-1,41,"Association 5",NA,"Myoconcha (M.) rathieriana-Plagiostoma fuersichi association",18,"Callovian","",166.1,163.5,9710,"gp_mid",19.76,25.03,"304",164.8,1
-"21108",36319,"col","",39.406113,-9.361111,"Cox - 39 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,1
-"21109",36320,"col","",39.406944,-9.363056,"Cox - 40 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,1
-"21114",36325,"col","",39.422222,-9.366667,"Cox - 45 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,1
-"21133",36344,"col","",39.419445,-9.36,"Cox - 64 (S.E. Tanganyika)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,1
-"21135",36346,"col","",39.422501,-9.367222,"Cox - 66 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,1
-"21136",36347,"col","",39.406944,-9.362222,"Cox - 67 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,1
-"21137",36348,"col","",39.408054,-9.362778,"Cox - 68 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,1
-"21138",36349,"col","",39.407223,-9.363333,"Cox - 69 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,1
-"21139",36350,"col","",39.437778,-9.426667,"Cox - 70 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.57,"701",164.8,1
-"21142",36353,"col","",39.412498,-9.356944,"Cox - 73 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.37,-34.5,"701",164.8,1
-"21144",36355,"col","",39.393055,-9.294444,"Cox - 75 (S.E. Tanganyika)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.44,"701",164.8,1
-"21145",36356,"col","",39.386391,-9.289722,"Cox - 76 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.37,-34.43,"701",164.8,1
-"21151",36362,"col","",39.41111,-9.392222,"Cox - 82 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.35,-34.53,"701",164.8,1
-"21191",36408,"col","",38.318611,-6.8125,"Cox - 98 (E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-31.73,"701",164.8,1
-"21192",36409,"col","",38.333332,-6.816667,"Cox - 99 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.4,-31.74,"701",164.8,1
-"21193",36410,"col","",38.337502,-6.816667,"Cox - 100 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.4,-31.75,"701",164.8,1
-"21194",36411,"col","",38.366669,-6.816667,"Cox - 101 (E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.43,-31.76,"701",164.8,1
-"21195",36412,"col","",38.349998,-6.816667,"Cox - 102 (E. Tanganyika)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",30.41,-31.75,"701",164.8,1
-"21196",36413,"col","",38.333332,-6.5,"Cox - 103 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.54,-31.45,"701",164.8,1
-"21198",36415,"col","",38.363056,-6.368611,"Cox - 105 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.64,-31.34,"701",164.8,1
-"21199",36416,"col","",38.333332,-6.5,"Cox - 106 (E. Tanganyika)",NA,"",7,"Callovian","",166.1,163.5,9748,"gp_mid",30.54,-31.45,"701",164.8,1
-"21200",36417,"col","",38.391666,-6.329167,"Cox - 107 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.68,-31.32,"701",164.8,1
-"21201",36418,"col","",38.393612,-6.291667,"Cox - 108 (E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.7,-31.28,"701",164.8,1
-"21208",36430,"col","",38.652779,-5.754167,"Cox - 115 (N.E. Tanganyika)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",31.22,-30.89,"701",164.8,1
-"21212",36434,"col","",39.050835,-5.077222,"Cox - 119 (N.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.08,-29.76,"709",164.8,1
-"21213",36435,"col","",39.056946,-5.061667,"Cox - 120 (N.E. Tanganyika)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",30.09,-29.75,"709",164.8,1
-"21219",36444,"col","",39.733334,-3.616667,"Cox - 126 (Coastal District)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",31.39,-28.62,"709",164.8,1
-"21235",36461,"col","",41.016666,4.05,"Cox - 133 (N.E. Kenya)",NA,"",11,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.78,"709",164.8,1
-"21236",36462,"col","",41.016666,4.05,"Cox - 134 (N.E. Kenya)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.78,"709",164.8,1
-"21237",36463,"col","",41.025002,4.05,"Cox - 135 (N.E. Kenya)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",35.48,-21.78,"709",164.8,1
-"21238",36464,"col","",41.033333,3.966667,"Cox - 136 (N.E. Kenya)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",35.46,-21.87,"709",164.8,1
-"21239",36465,"col","",41.033333,3.983333,"Cox - 137 (N.E. Kenya)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.85,"709",164.8,1
-"21240",36466,"col","",41.083332,3.983333,"Cox - 138 (N.E. Kenya)",NA,"",8,"Callovian","",166.1,163.5,9748,"gp_mid",35.52,-21.87,"709",164.8,1
-"21241",36467,"col","",41,3.883333,"Cox - 139 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.4,-21.93,"709",164.8,1
-"21242",36468,"col","",41.033333,3.9,"Cox - 140 (N.E. Kenya)",NA,"",23,"Callovian","",166.1,163.5,9748,"gp_mid",35.44,-21.93,"709",164.8,1
-"21243",36469,"col","",41.066666,3.933333,"Cox - 141 (N.E. Kenya)",NA,"",8,"Callovian","",166.1,163.5,9748,"gp_mid",35.48,-21.91,"709",164.8,1
-"21244",36470,"col","",41.033333,3.866667,"Cox - 142 (N.E. Kenya)",NA,"",7,"Callovian","",166.1,163.5,9748,"gp_mid",35.43,-21.96,"709",164.8,1
-"21245",36471,"col","",41.099998,3.983333,"Cox - 143 (N.E. Kenya)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",35.53,-21.87,"709",164.8,1
-"21246",36472,"col","",41.083332,3.983333,"Cox - 144 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.52,-21.87,"709",164.8,1
-"21247",36473,"col","",41.150002,3.966667,"Cox - 145 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.58,-21.9,"709",164.8,1
-"21297",36530,"col","""Lower Sundance""",-108,44,"Gryphaea nebrascensis ASSEMBLAGE",NA,"",2,"Callovian","",166.1,163.5,9775,"gp_mid",-35.51,31.79,"101",164.8,1
-"21298",36531,"col","Sundance",-108,44,"Meleagrinella curta ASSEMBLAGE",NA,"",6,"Callovian","",166.1,163.5,9775,"gp_mid",-35.51,31.79,"101",164.8,1
-"21403",36661,"col","Tataouine",10.35,32.566666,"Kef ed Derharhra",NA,"Reef 3317",14,"Callovian","",166.1,163.5,9823,"gp_mid",21.73,15.26,"715",164.8,1
-"22339",37950,"col","Oxford Clay",-1,52,"deposit-feeder Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",13,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"22340",37951,"col","Oxford Clay",-1,52,"Grammatodon-rich Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",11,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"22341",37952,"col","Oxford Clay",-1,52,"Foraminifera-rich Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"22345",37956,"col","Oxford Clay",-1,52,"Meleagrinella shell bed biofacies, Lower Oxford Clay, Central England",NA,"",7,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"22346",37957,"col","Oxford Clay",-1,52,"Blocky claystone biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"22347",37958,"col","Oxford Clay",-1,52,"Calcareous clay biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,1
-"25572",42336,"col","",-1.283333,51.766666,"Wolvercote, Oxfordshire",NA,"",1,"Callovian","",166.1,163.5,11186,"gp_mid",18.98,35.49,"315",164.8,1
-"28154",45538,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7, Atash Mb.1)",NA,"",25,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28155",45539,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7, Atash Mb.2a)",NA,"",34,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28156",45540,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7 Atash Mb.2b)",NA,"",11,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28157",45541,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7 Atash Mb.3)",NA,"",32,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28163",45547,"col","Dhruma",46.584442,24.886944,"Shaqra Group (upper Dhruma D7 Hisyan Mb.1a)",NA,"",30,"Callovian","",166.1,163.5,11728,"gp_mid",45.68,-6.02,"503",164.8,1
-"28164",45548,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7 Hisyan Mb.2)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28165",45549,"col","Dhruma",46.584442,24.231388,"Shaqra Group (upper Dhruma D7 Hisyan Mb.3)",NA,"",10,"Callovian","",166.1,163.5,11728,"gp_mid",45.43,-6.63,"503",164.8,1
-"28166",45550,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T1,1)",NA,"",10,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28167",45551,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T1,2a)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28168",45552,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T1,2b)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28170",45554,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T2a)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28171",45555,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T2b)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28172",45556,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T2c)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28173",45557,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T3,1)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"28174",45558,"col","Tuwaiq Mt.Lst.",46.405556,24.525,"Shaqra Group (Tuwaiq Mt.Lst.T3,3)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.39,-6.29,"503",164.8,1
-"29122",46623,"col","Tuwaiq Mt.Lst.",46.533333,24.299999,"Shaqra Group (Tuwaiq Mt. Lst.)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.41,-6.55,"503",164.8,1
-"29123",46624,"col","Tuwaiq Mt.Lst.",46.533333,24.299999,"Shaqra Group (Tuwaiq Mt. Lst.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",45.41,-6.55,"503",164.8,1
-"29124",46625,"col","Tuwaiq Mt.Lst.",46.533333,24.299999,"Shaqra Group (Tuwaiq Mt. Lst.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.41,-6.55,"503",164.8,1
-"30239",47842,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt.Lst.,T1,2)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30244",47846,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",8,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30245",47847,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30246",47848,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30247",47849,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30248",47850,"col","Tuwaiq Mt.Lst.",46.533333,23.9,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.26,-6.91,"503",164.8,1
-"30249",47851,"col","Tuwaiq Mt.Lst.",46,23.549999,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",10,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.05,"503",164.8,1
-"30250",47852,"col","Tuwaiq Mt.Lst.",46,23.549999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.05,"503",164.8,1
-"30251",47853,"col","Tuwaiq Mt.Lst.",46,23.549999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.05,"503",164.8,1
-"30252",47854,"col","Tuwaiq Mt.Lst.",46,23.549999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.05,"503",164.8,1
-"30253",47855,"col","Tuwaiq Mt.Lst.",46,23.549999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.05,"503",164.8,1
-"30254",47856,"col","Tuwaiq Mt.Lst.",46.333332,23.083332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30256",47857,"col","Tuwaiq Mt.Lst.",46.333332,23.083332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30257",47858,"col","Tuwaiq Mt.Lst.",46.333332,23.083332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30258",47859,"col","Tuwaiq Mt.Lst.",46.333332,23.083332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30259",47860,"col","Tuwaiq Mt.Lst.",46.333332,23.083332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30260",47861,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T1)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30261",47862,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30262",47863,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30263",47864,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30264",47865,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30265",47866,"col","Tuwaiq Mt.Lst.",46.333332,22.833332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-7.83,"503",164.8,1
-"30266",47867,"col","Tuwaiq Mt.Lst.",46.5,22.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",8,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-8.09,"503",164.8,1
-"30267",47868,"col","Tuwaiq Mt.Lst.",46.5,22.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-8.09,"503",164.8,1
-"30268",47870,"col","Tuwaiq Mt.Lst.",46.5,22.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-8.09,"503",164.8,1
-"30269",47871,"col","Tuwaiq Mt.Lst.",46.5,22.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-8.09,"503",164.8,1
-"30270",47873,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",15,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30271",47875,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",30,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30272",47876,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30273",47877,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30274",47878,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30275",47879,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30276",47880,"col","Tuwaiq Mt.Lst.",46.416668,22.433332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.59,-8.23,"503",164.8,1
-"30277",47881,"col","Tuwaiq Mt.Lst.",45.666668,21.883333,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",43.73,-8.46,"503",164.8,1
-"30278",47882,"col","Tuwaiq Mt.Lst.",45.5,21.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3)",NA,"",14,"Callovian","",166.1,163.5,11728,"gp_mid",43.48,-8.65,"503",164.8,1
-"30279",47883,"col","Tuwaiq Mt.Lst.",45.5,21.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",43.48,-8.65,"503",164.8,1
-"30280",47884,"col","Tuwaiq Mt.Lst.",45.5,21.616667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",43.48,-8.65,"503",164.8,1
-"30281",47885,"col","Tuwaiq Mt.Lst.",45.166668,20.25,"Shaqra Group (Tuwaiq Mt. Lst.,T3)",NA,"",16,"Callovian","",166.1,163.5,11728,"gp_mid",42.64,-9.78,"503",164.8,1
-"30282",47886,"col","Tuwaiq Mt.Lst.",45.166668,19.5,"Shaqra Group (Tuwaiq Mt. Lst.,T3)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",42.34,-10.47,"503",164.8,1
-"30283",47887,"col","Tuwaiq Mt.Lst.",45.5,18.166668,"Shaqra Group (Tuwaiq Mt. Lst.,T3)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",42.09,-11.82,"503",164.8,1
-"30284",47888,"col","Tuwaiq Mt.Lst.",46.083332,24.75,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30285",47889,"col","Tuwaiq Mt.Lst.",46.083332,24.75,"Shaqra Group (Tuwaiq Mt. Lst.,T2,lower part)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30286",47890,"col","Tuwaiq Mt.Lst.",46.083332,24.75,"Shaqra Group (Tuwaiq Mt. Lst.,T2,upper part)",NA,"",22,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30287",47891,"col","Tuwaiq Mt.Lst.",46.083332,24.75,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",8,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30288",47892,"col","Tuwaiq Mt.Lst.",46.083332,24.75,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30290",47894,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",14,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30291",47895,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T2,middle part)",NA,"",28,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30292",47896,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T2,upper part)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30293",47897,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30294",47898,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2 )",NA,"",11,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30295",47899,"col","Tuwaiq Mt.Lst.",45.666668,25.049999,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",11,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30296",47900,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",18,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30297",47901,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30298",47902,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",32,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30299",47903,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30302",47906,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30305",47909,"col","Tuwaiq Mt.Lst.",45.5,25.366667,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30306",47910,"col","Tuwaiq Mt.Lst.",45,25.566668,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2,base)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.62,-4.84,"503",164.8,1
-"30307",47911,"col","Tuwaiq Mt.Lst.",45,25.566668,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.62,-4.84,"503",164.8,1
-"30308",47912,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",25,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30311",47915,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",15,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30312",47916,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,1)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30313",47917,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30314",47918,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30315",47919,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30316",47920,"col","Tuwaiq Mt.Lst.",45.25,25.783333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,5)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30392",47995,"col","Tuwaiq Mt.Lst.",45,26.033333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.8,-4.41,"503",164.8,1
-"30394",47997,"col","Tuwaiq Mt.Lst.",45,26.033333,"Shaqra Group (Tuwaiq Mt. Lst.,T3,4)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.8,-4.41,"503",164.8,1
-"30396",47999,"col","Tuwaiq Mt.Lst.",44.833332,26.200001,"Shaqra Group (Tuwaiq Mt. Lst.,T1,2)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-4.2,"503",164.8,1
-"30398",48001,"col","Tuwaiq Mt.Lst.",44.833332,26.200001,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-4.2,"503",164.8,1
-"30399",48002,"col","Tuwaiq Mt.Lst.",45,26.333332,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,1
-"30402",48005,"col","Tuwaiq Mt.Lst.",45,26.333332,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,1
-"30403",48006,"col","Tuwaiq Mt.Lst.",45,26.333332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,1
-"30404",48007,"col","Tuwaiq Mt.Lst.",45,26.333332,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,1
-"30870",48495,"col","Dhruma",46,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Callovian","",166.1,163.5,11728,"gp_mid",44.83,-6.67,"503",164.8,1
-"30871",48496,"col","Dhruma",46,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.83,-6.67,"503",164.8,1
-"30872",48497,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.66,-7.07,"503",164.8,1
-"30873",48498,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.66,-7.07,"503",164.8,1
-"30874",48499,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30875",48500,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.77,-7.6,"503",164.8,1
-"30876",48501,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.1,-8.01,"503",164.8,1
-"30877",48502,"col","Dhruma",46,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.83,-6.67,"503",164.8,1
-"30880",48505,"col","Dhruma",46,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",44.83,-6.67,"503",164.8,1
-"30881",48506,"col","Dhruma",46,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",26,"Callovian","",166.1,163.5,11728,"gp_mid",44.83,-6.67,"503",164.8,1
-"30893",48518,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.66,-7.07,"503",164.8,1
-"30894",48519,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",27,"Callovian","",166.1,163.5,11728,"gp_mid",44.66,-7.07,"503",164.8,1
-"30895",48520,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",9,"Callovian","",166.1,163.5,11728,"gp_mid",44.66,-7.07,"503",164.8,1
-"30899",48524,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",28,"Callovian","",166.1,163.5,11728,"gp_mid",45.1,-8.01,"503",164.8,1
-"30900",48525,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",27,"Callovian","",166.1,163.5,11728,"gp_mid",45.1,-8.01,"503",164.8,1
-"30901",48526,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.1,-8.01,"503",164.8,1
-"30902",48527,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",45.1,-8.01,"503",164.8,1
-"30903",48528,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.3,-7.91,"503",164.8,1
-"30904",48529,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.3,-7.91,"503",164.8,1
-"30905",48530,"col","Dhruma",46,22.450001,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.24,-8.06,"503",164.8,1
-"30906",48531,"col","Dhruma",46.833332,22.166668,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.85,-8.62,"503",164.8,1
-"30907",48532,"col","Dhruma",46.833332,22.166668,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.85,-8.62,"503",164.8,1
-"30908",48533,"col","Dhruma",46.833332,22.166668,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Callovian","",166.1,163.5,11728,"gp_mid",44.85,-8.62,"503",164.8,1
-"30909",48534,"col","Dhruma",46.833332,22.166668,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.85,-8.62,"503",164.8,1
-"30910",48535,"col","Dhruma",46,22.049999,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.08,-8.43,"503",164.8,1
-"30911",48536,"col","Dhruma",46,22.049999,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.08,-8.43,"503",164.8,1
-"30912",48537,"col","Dhruma",45.833332,21.883333,"Shaqra Group (Dhruma Fm.)",NA,"",32,"Callovian","",166.1,163.5,11728,"gp_mid",43.87,-8.53,"503",164.8,1
-"30913",48538,"col","Dhruma",45.833332,21.883333,"Shaqra Group (Dhruma Fm.)",NA,"",29,"Callovian","",166.1,163.5,11728,"gp_mid",43.87,-8.53,"503",164.8,1
-"30926",48560,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30927",48561,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30929",48563,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",35,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30930",48564,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",57,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30934",48568,"col","Dhruma",45,25.700001,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.67,-4.72,"503",164.8,1
-"30935",48569,"col","Dhruma",44.833332,26.200001,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-4.2,"503",164.8,1
-"30946",48582,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30947",48583,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30948",48584,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",45.21,-5.97,"503",164.8,1
-"30949",48585,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",60,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30950",48586,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",55,"Callovian","",166.1,163.5,11728,"gp_mid",44.97,-5.55,"503",164.8,1
-"30951",48588,"col","Dhruma",45.5,25.366667,"Shaqra Group (Dhruma Fm.)",NA,"",49,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30952",48589,"col","Dhruma",45.5,25.366667,"Shaqra Group (Dhruma Fm.)",NA,"",47,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30953",48590,"col","Dhruma",45.5,25.366667,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Callovian","",166.1,163.5,11728,"gp_mid",44.96,-5.2,"503",164.8,1
-"30955",48593,"col","Dhruma",45.666668,25.700001,"Shaqra Group (Dhruma Fm.)",NA,"",54,"Callovian","",166.1,163.5,11728,"gp_mid",45.23,-4.95,"503",164.8,1
-"30956",48594,"col","Dhruma",45.666668,25.700001,"Shaqra Group (Dhruma Fm.)",NA,"",55,"Callovian","",166.1,163.5,11728,"gp_mid",45.23,-4.95,"503",164.8,1
-"30957",48595,"col","Dhruma",45.666668,25.700001,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",45.23,-4.95,"503",164.8,1
-"30958",48596,"col","Dhruma",45.25,25.783333,"Shaqra Group (Dhruma Fm.)",NA,"",51,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30959",48597,"col","Dhruma",45.25,25.783333,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.91,-4.73,"503",164.8,1
-"30960",48598,"col","Dhruma",45,25.966667,"Shaqra Group (Dhruma Fm.)",NA,"",48,"Callovian","",166.1,163.5,11728,"gp_mid",44.78,-4.47,"503",164.8,1
-"30961",48599,"col","Dhruma",44.833332,26.200001,"Shaqra Group (Dhruma Fm.)",NA,"",52,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-4.2,"503",164.8,1
-"30962",48600,"col","Dhruma",44.833332,26.200001,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",44.73,-4.2,"503",164.8,1
-"30964",48602,"col","Dhruma",44.833332,26.283333,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.76,-4.12,"503",164.8,1
-"30965",48603,"col","Dhruma",44.833332,26.283333,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.76,-4.12,"503",164.8,1
-"30966",48604,"col","Dhruma",44.833332,26.333332,"Shaqra Group (Dhruma Fm.)",NA,"",70,"Callovian","",166.1,163.5,11728,"gp_mid",44.78,-4.07,"503",164.8,1
-"30967",48605,"col","Dhruma",44.833332,26.333332,"Shaqra Group (Dhruma Fm.)",NA,"",53,"Callovian","",166.1,163.5,11728,"gp_mid",44.78,-4.07,"503",164.8,1
-"31138",48881,"col","Tuwaiq Mt.Lst.",46.533333,24.299999,"Shaqra Group (Tuwaiq Mt. Lst.)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",45.41,-6.55,"503",164.8,1
-"31139",48882,"col","Tuwaiq Mt.Lst.",46.533333,24.299999,"Shaqra Group (Tuwaiq Mt. Lst.)",NA,"",2,"Callovian","",166.1,163.5,11728,"gp_mid",45.41,-6.55,"503",164.8,1
-"32391",50737,"col","Unit 1",-120.166664,35.049999,"Section 1, SM-105, Stanley Mountain, California",NA,"",115,"Callovian","",166.1,163.5,13552,"gp_mid",-47.65,25.03,"105",164.8,1
-"32392",50738,"col","Unit 1",-120.166664,35.049999,"Section 1, NSF 973, Stanley Mountain, California",NA,"",64,"Callovian","",166.1,163.5,13552,"gp_mid",-47.65,25.03,"105",164.8,1
-"32393",50739,"col","Unit 1",-120.166664,35.049999,"Section 1, SA-29, Stanley Mountain, California",NA,"",6,"Callovian","",166.1,163.5,13552,"gp_mid",-47.65,25.03,"105",164.8,1
-"32993",51368,"col","Kalur Chert",20.049999,42.016666,"Al 202, Lumi i Zi, Albania",NA,"",3,"Callovian","",166.1,163.5,13660,"gp_mid",33.78,15.72,"307",164.8,1
-"32994",51369,"col","Kalur Chert",20.049999,42.016666,"Al 203, Lumi i Zi, Albania",NA,"",4,"Callovian","",166.1,163.5,13660,"gp_mid",33.78,15.72,"307",164.8,1
-"34168",52636,"col","Oxford Clay",-2.459167,50.613888,"Weymouth stegosaur (BMNH)",NA,"",1,"Callovian","",166.1,163.5,14142,"gp_mid",18.27,34.26,"315",164.8,1
-"34409",61467,"col","Gadhada",70.5,23.5,"Kachchh 940122-1",NA,"",30,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"35229",53711,"col","Sokolica Radiolarite",20.916668,49.25,"Sarisske Jastrabie, SJP 1",NA,"",1,"Callovian","",166.1,163.5,14483,"gp_mid",36.57,35.72,"305",164.8,1
-"37910",57920,"col","",13.65,53.116669,"Geschiebe from Milmersdorf, Brandenburg",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.89,38.41,"315",164.8,1
-"38113",58184,"col","Balabansai",70.900002,40.233055,"Kamyshbashi",NA,"Kamysh-bashi",4,"Callovian","",166.1,163.5,16510,"gp_mid",82.06,39.01,"402",164.8,1
-"38133",58203,"col","",13.783333,52.966667,"Geschiebe from Althüttendorf, Brandenburg",NA,"",16,"Callovian","",166.1,163.5,15699,"gp_mid",30.03,38.28,"315",164.8,1
-"38144",58214,"col","",13.6,53.316666,"Geschiebe from Arendsee-Weggun, Brandenburg",NA,"",3,"Callovian","",166.1,163.5,15704,"gp_mid",29.8,38.6,"315",164.8,1
-"38148",58218,"col","",13.8,53.966667,"Geschiebe from Bauer-Wehrland, Mecklenburg-Vorpommern",NA,"",14,"Callovian","",166.1,163.5,15698,"gp_mid",29.76,39.26,"315",164.8,1
-"38150",58220,"col","",14,52.833332,"Geschiebe from Bralitz, Brandenburg",NA,"",10,"Callovian","",166.1,163.5,16523,"gp_mid",30.23,38.18,"315",164.8,1
-"38156",58226,"col","",13.683333,54.283333,"Geschiebe from Gager, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.58,39.55,"315",164.8,1
-"38157",58227,"col","",13.733333,54.316666,"Geschiebe from Göhren Do 69, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15700,"gp_mid",29.61,39.59,"315",164.8,1
-"38158",58228,"col","",13.633333,54.349998,"Geschiebe from Granitzer Ort, Mecklenburg-Vorpommern",NA,"",7,"Callovian","",166.1,163.5,15704,"gp_mid",29.53,39.61,"315",164.8,1
-"38159",58229,"col","",13.916667,54.233334,"Geschiebe from the isle Greifswalder Oie, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,16522,"gp_mid",29.77,39.53,"302",164.8,1
-"38165",58235,"col","",13.7,54.299999,"Geschiebe from Groß Zicker, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,16522,"gp_mid",29.59,39.57,"315",164.8,1
-"38174",58244,"col","",14.2,53.933334,"Bore Heringsdorf 4/63, Mecklenburg-Vorpommern",NA,"",7,"Callovian","",166.1,163.5,15698,"gp_mid",30.07,39.28,"315",164.8,1
-"38181",58251,"col","",13.733333,54.033333,"Geschiebe from Hohendorf near Wolgast, Mecklenburg-Vorpommern",NA,"",15,"Callovian","",166.1,163.5,15698,"gp_mid",29.69,39.31,"315",164.8,1
-"38186",58256,"col","",14.15,52.849998,"Geschiebe from Hohensaaten, Brandenburg",NA,"",9,"Callovian","",166.1,163.5,15700,"gp_mid",30.34,38.22,"315",164.8,1
-"38187",58257,"col","",13.333333,53.816666,"Geschiebe from Jarmen, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.46,39.05,"315",164.8,1
-"38189",58259,"col","",13.8,54.150002,"Bore Karlshagen 1/62, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.44,"315",164.8,1
-"38224",58293,"col","",14.966667,53.783333,"Bore Kleby 1/37, Western Pomerania",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",30.68,39.23,"315",164.8,1
-"38226",58295,"col","",13.708333,54.283333,"Geschiebe from Klein Zicker, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15699,"gp_mid",29.6,39.55,"315",164.8,1
-"38227",58296,"col","",14.25,53.333332,"Geschiebe from Krackow, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",30.28,38.7,"315",164.8,1
-"38230",58303,"col","",13.616667,54.150002,"Bore Lubmin 2/63, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15698,"gp_mid",29.57,39.41,"315",164.8,1
-"38233",58306,"col","",13.583333,54.5,"Geschiebe from Mukran, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15699,"gp_mid",29.45,39.75,"302",164.8,1
-"38234",58307,"col","",14.033333,53.933334,"Geschiebe from Neppermin (Usedom), Mecklenburg-Vorpommern",NA,"",5,"Callovian","",166.1,163.5,16523,"gp_mid",29.94,39.26,"315",164.8,1
-"38235",58308,"col","",10.8,54.116669,"Geschiebe from Neustadt, Schleswig-Holstein",NA,"",1,"Callovian","",166.1,163.5,16511,"gp_mid",27.5,39.03,"315",164.8,1
-"38255",58328,"col","",11.766667,52.316666,"Bore Rogätz 11/62, Saxony-Anhalt",NA,"",2,"Callovian","",166.1,163.5,15700,"gp_mid",28.69,37.38,"315",164.8,1
-"38260",58333,"col","",13.716667,53.933334,"Bore Rubkow 2/64, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15700,"gp_mid",29.71,39.21,"315",164.8,1
-"38268",58342,"col","",11.433333,54.033333,"Geschiebe from Schwarzen Busch, isle of Poel, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15700,"gp_mid",27.99,39.02,"315",164.8,1
-"38271",58345,"col","",13.9,53.866669,"Bore Usedom 1/60, Mecklenburg-Vorpommern",NA,"",15,"Callovian","",166.1,163.5,15698,"gp_mid",29.86,39.17,"315",164.8,1
-"38274",58348,"col","",13.9,53.866669,"Bore Usedom 2/61, Mecklenburg-Vorpommern",NA,"",3,"Callovian","",166.1,163.5,15699,"gp_mid",29.86,39.17,"315",164.8,1
-"38277",58351,"col","",12.183333,53.383331,"Geschiebe from Wangelin, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15699,"gp_mid",28.72,38.48,"315",164.8,1
-"38283",58358,"col","",13.766667,54.049999,"Bore Wolgast 1/63, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.33,"315",164.8,1
-"38298",58373,"col","",13.766667,54.049999,"Bore Wolgast 2/63, Mecklenburg-Vorpommern",NA,"",6,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.33,"315",164.8,1
-"38300",58375,"col","",13.766667,54.049999,"Bore Wolgast 3/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15700,"gp_mid",29.71,39.33,"315",164.8,1
-"38306",58381,"col","",13.633333,54.116669,"Bore Wusterhusen 1/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.59,39.38,"315",164.8,1
-"38316",58391,"col","",10.533333,54.150002,"Geschiebe from Kreuzfeld, Schleswig-Holstein",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",27.29,39.03,"315",164.8,1
-"38317",58392,"col","",11.983333,53.583332,"Geschiebe from Techentin, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,16520,"gp_mid",28.52,38.65,"315",164.8,1
-"38318",58393,"col","",13.6,54.133331,"Geschiebe from Vierow near Lubmin, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,16522,"gp_mid",29.56,39.39,"315",164.8,1
-"38324",58399,"col","",13.933333,52.833332,"Bore Liepe 1/64, Brandenburg",NA,"",8,"Callovian","",166.1,163.5,15699,"gp_mid",30.18,38.17,"315",164.8,1
-"38328",58403,"col","",14.05,54.033333,"Bore Ückeritz 1/64, Mecklenburg-Vorpommern",NA,"",3,"Callovian","",166.1,163.5,15700,"gp_mid",29.93,39.36,"315",164.8,1
-"38331",58406,"col","",14.05,54.033333,"Bore Ückeritz 1/1A/64, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15698,"gp_mid",29.93,39.36,"315",164.8,1
-"38340",58415,"col","",14.05,54.033333,"Bore Ückeritz 1A/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.93,39.36,"315",164.8,1
-"39890",60171,"col","Aïssa",-1.072222,32.739723,"Rouis El Djir, High Atlas",NA,"Géant des Ksour",3,"Callovian","",166.1,163.5,71059,"gp_mid",10.59,20.22,"707",164.8,1
-"40389",61794,"col","Chari",70.5,23.5,"Kachchh Jr 25",NA,"",12,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"40972",61795,"col","Chari",70.5,23.5,"Kachchh Jr 15b",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41120",61521,"col","Chari",70.5,23.5,"Kachchh H 14",NA,"",24,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41123",61524,"col","Chari",70.5,23.5,"Kachchh L31 A",NA,"",29,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41127",61528,"col","Chari",70.5,23.5,"Kachchh F7",NA,"",21,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41129",61530,"col","Chari",70.5,23.5,"Kachchh F8",NA,"",23,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41132",61533,"col","Chari",70.5,23.5,"Kachchh H 29",NA,"",20,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41136",61537,"col","Chari",70.5,23.5,"Kachchh Jr 75",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41139",61540,"col","Chari",70.5,23.5,"Kachchh 950120-2",NA,"",20,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41141",61542,"col","Chari",70.5,23.5,"Kachchh L 38",NA,"",35,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41155",61556,"col","Chari",70.5,23.5,"Kachchh L 39",NA,"",13,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41254",61660,"col","Chari",70.5,23.5,"Kachchh Ja 28g",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41255",61661,"col","Chari",70.5,23.5,"Kachchh L 37",NA,"",16,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41267",61674,"col","Chari",70.5,23.5,"Kachchh L 35b",NA,"",24,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41414",61873,"col","Chari",70.5,23.5,"Kachchh Ja 26",NA,"",27,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41421",61880,"col","Chari",70.5,23.5,"Kachchh 950120-5",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41425",61884,"col","Chari",70.5,23.5,"Kachchh C 16",NA,"",12,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41426",61885,"col","Chari",70.5,23.5,"Kachchh K 35",NA,"",33,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41427",61886,"col","Chari",70.5,23.5,"Kachchh L 22",NA,"",24,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41580",62050,"col","Chari",70.5,23.5,"Kachchh L 24",NA,"",18,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41581",62053,"col","Chari",70.5,23.5,"Kachchh Jara A",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41582",62055,"col","Chari",70.5,23.5,"Kachchh C 12a",NA,"",12,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41583",62056,"col","Chari",70.5,23.5,"Kachchh C 12c",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41584",62058,"col","Chari",70.5,23.5,"Kachchh 940110-1",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41594",62151,"col","Chari",70.5,23.5,"Kachchh J 32b",NA,"",6,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41595",62153,"col","Chari",70.5,23.5,"Kachchh 940110/7",NA,"",6,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"41998",62765,"col","Chari",70.5,23.5,"Kachchh P 14",NA,"",12,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42271",63075,"col","Chari",70.5,23.5,"Kachchh K 24b",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42275",63079,"col","Chari",70.5,23.5,"Kachchh K 25b",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42276",63080,"col","Chari",70.5,23.5,"Kachchh K 22d",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42350",63231,"col","Chari",70.5,23.5,"Kachchh L 6",NA,"",10,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42351",63236,"col","Chari",70.5,23.5,"Kachchh L 14",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42352",63240,"col","Chari",70.5,23.5,"Kachchh H 4",NA,"",23,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42353",63242,"col","Chari",70.5,23.5,"Kachchh L 5 Top",NA,"",16,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"42354",63251,"col","Chari",70.5,23.5,"Kachchh L 7",NA,"",13,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44823",67120,"col","Ornatenton",9.249444,48.5,"Sample 86A, Achalm near Reutlingen",NA,"",1,"Callovian","",166.1,163.5,19143,"gp_mid",27.68,33.33,"305",164.8,1
-"44969",67391,"col","Chari",70.5,23.5,"Kachchh Jr 77",NA,"",14,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44970",67392,"col","Chari",70.5,23.5,"Kachchh Jn 5",NA,"",18,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44971",67393,"col","Chari",70.5,23.5,"Kachchh 940106/2",NA,"",13,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44972",67394,"col","Chari",70.5,23.5,"Kachchh H N+S",NA,"",13,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44973",67395,"col","Chari",70.5,23.5,"Kachchh 950113-1",NA,"",10,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44974",67396,"col","Chari",70.5,23.5,"Kachchh H h2",NA,"",6,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44977",67399,"col","Chari",70.5,23.5,"Kachchh J 49",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44978",67400,"col","Chari",70.5,23.5,"Kachchh J 45a",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"44979",67401,"col","Chari",70.5,23.5,"Kachchh L 16",NA,"",29,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45124",67547,"col","Chari",70.5,23.5,"Kachchh L 33",NA,"",20,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45125",67548,"col","Chari",70.5,23.5,"Kachchh L 25",NA,"",34,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45133",67556,"col","Chari",70.5,23.5,"Kachchh L 28",NA,"",18,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45134",67557,"col","Chari",70.5,23.5,"Kachchh 950119 a",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45135",67558,"col","Chari",70.5,23.5,"Kachchh L 19",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45137",67560,"col","Chari",70.5,23.5,"Kachchh J 32a",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45138",67561,"col","Chari",70.5,23.5,"Kachchh 940110-5",NA,"",11,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45141",67564,"col","Chari",70.5,23.5,"Kachchh 940110-6",NA,"",10,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45144",67567,"col","Chari",70.5,23.5,"Kachchh D 14",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45145",67568,"col","Chari",70.5,23.5,"Kachchh Jn 4b",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45148",67571,"col","Chari",70.5,23.5,"Kachchh K 36a",NA,"",25,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45154",67577,"col","Chari",70.5,23.5,"Kachchh H 40",NA,"",22,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45155",67578,"col","Chari",70.5,23.5,"Kachchh J 30",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45156",67579,"col","Chari",70.5,23.5,"Kachchh L 31",NA,"",18,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45157",67580,"col","Chari",70.5,23.5,"Kachchh L 29",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45160",67583,"col","Chari",70.5,23.5,"Kachchh 940111",NA,"",12,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45161",67584,"col","Chari",70.5,23.5,"Kachchh Jr 19a",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45162",67585,"col","Chari",70.5,23.5,"Kachchh HW 14",NA,"",11,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45181",67604,"col","Chari",70.5,23.5,"Kachchh Jr 50",NA,"",11,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45197",67622,"col","Chari",70.5,23.5,"Kachchh H 9",NA,"",38,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45198",67623,"col","Chari",70.5,23.5,"Kachchh J 30b",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45199",67624,"col","Chari",70.5,23.5,"Kachchh H 13",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45204",67629,"col","Chari",70.5,23.5,"Kachchh Ha 11",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45205",67630,"col","Chari",70.5,23.5,"Kachchh L 15b",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45429",67993,"col","",6.079355,47.111912,"Puits-de-la-Brême",NA,"Puits-de-la-Breme, Doubs",1,"Callovian","",166.1,163.5,19461,"gp_mid",25.48,31.59,"305",164.8,1
-"45430",67994,"col","",6.096119,47.638393,"Haute-Saône",NA,"",1,"Callovian","",166.1,163.5,19451,"gp_mid",25.39,32.11,"305",164.8,1
-"45486",68078,"col","Chari",70.5,23.5,"Kachchh Hb I",NA,"",34,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45487",68079,"col","Chari",70.5,23.5,"Kachchh H 30",NA,"",18,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45495",68089,"col","Gadhada",70.5,23.5,"Kachchh 940123-1",NA,"",16,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45497",68091,"col","Gadhada",70.5,23.5,"Kachchh ca. 2 m above 940123-1",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45499",68093,"col","Gadhada",70.5,23.5,"Kachchh 940123-2",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45500",68094,"col","Washtawa",70.5,23.5,"Kachchh W 2",NA,"",4,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45501",68095,"col","Washtawa",70.5,23.5,"Kachchh W 3",NA,"",10,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45666",68283,"col","Chari",70.5,23.5,"Kachchh K 36c",NA,"",15,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45761",68393,"col","Chari",70.5,23.5,"Kachchh H 32",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45762",68394,"col","Chari",70.5,23.5,"Kachchh L 15a",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45763",68395,"col","Chari",70.5,23.5,"Kachchh L 17",NA,"",11,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45771",68403,"col","Chari",70.5,23.5,"Kachchh L 25",NA,"",3,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45772",68404,"col","Chari",70.5,23.5,"Kachchh L 27b",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45773",68405,"col","Chari",70.5,23.5,"Kachchh L 21",NA,"",7,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45774",68406,"col","Chari",70.5,23.5,"Kachchh L 35a",NA,"",6,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45775",68407,"col","Chari",70.5,23.5,"Kachchh J 47",NA,"",14,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45777",68409,"col","Chari",70.5,23.5,"Kachchh J 55",NA,"",3,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45779",68411,"col","Chari",70.5,23.5,"Kachchh J 57",NA,"",6,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45780",68412,"col","Chari",70.5,23.5,"Kachchh J 53",NA,"",5,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45860",68499,"col","Chari",70.5,23.5,"Kachchh J 45",NA,"",11,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45861",68500,"col","Chari",70.5,23.5,"Kachchh J 66",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45862",68501,"col","Chari",70.5,23.5,"Kachchh J 46",NA,"",8,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45912",68551,"col","Chari",70.5,23.5,"Kachchh H 41",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45915",68554,"col","Chari",70.5,23.5,"Kachchh Jr 23",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45916",68555,"col","Chari",70.5,23.5,"Kachchh Ja 14",NA,"",9,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45917",68556,"col","Gadhada",70.5,23.5,"Kachchh 950109-5",NA,"",14,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45953",68593,"col","Chari",70.5,23.5,"Kachchh H 11",NA,"",19,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"45956",68596,"col","Chari",70.5,23.5,"Kachchh K 27a",NA,"",17,"Callovian","",166.1,163.5,17728,"gp_mid",45.68,-27.98,"501",164.8,1
-"46007",68653,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 2, Kutch",NA,"",35,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46011",68657,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 2, Kutch",NA,"",83,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46013",68659,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 3, Kutch",NA,"",1,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46014",68660,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 3, Kutch",NA,"",10,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46015",68661,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 4, Kutch",NA,"",1,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46017",68662,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 4, Kutch",NA,"",12,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46018",68663,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 5, Kutch",NA,"",13,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46019",68664,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 5, Kutch",NA,"",12,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46020",68665,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 7, Kutch",NA,"",18,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46022",68667,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 7, Kutch",NA,"",26,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46024",68669,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 11, Kutch",NA,"",4,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46025",68670,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 11, Kutch",NA,"",3,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46027",68672,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 12, Kutch",NA,"",2,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46028",68673,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 13, Kutch",NA,"",7,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46030",68675,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Eastern Unit, Bed 14, Kutch",NA,"",1,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46031",68676,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 14, Kutch",NA,"",1,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"46032",68677,"col","Habo beds",69.80278,23.198055,"Habo (=Chari) beds east of Ler, Central Unit, Bed 16, Kutch",NA,"",1,"Callovian","",166.1,163.5,19806,"gp_mid",45.12,-27.47,"501",164.8,1
-"51561",78220,"col","",-2.7,42.616669,"Montoria, Alava",NA,"",4,"Callovian","",166.1,163.5,26346,"gp_mid",19.33,27.05,"304",164.8,1
-"54814",83637,"col","Mughanniyya",35.616669,32.200001,"Corals, Mughanniyya Formation, Deir-Alla",NA,"",15,"Callovian","",166.1,163.5,28053,"gp_mid",40.05,4.68,"503",164.8,1
-"54815",83639,"col","Mughanniyya",35.616669,32.200001,"Corals, Mughanniyya Formation, Tal el Dhahab",NA,"",13,"Callovian","",166.1,163.5,28053,"gp_mid",40.05,4.68,"503",164.8,1
-"56766",86478,"col","",44.299999,-23.683332,"Besavoa",NA,"Reef 463",2,"Callovian","",166.1,163.5,29108,"gp_mid",30.06,-33.34,"702",164.8,1
-"56780",86491,"col","",44.400002,-23.683332,"Lazariva",NA,"Reef 463",1,"Callovian","",166.1,163.5,29108,"gp_mid",30.15,-33.39,"702",164.8,1
-"56871",86669,"col","",6.5,46.816666,"Sainte Croix",NA,"",3,"Callovian","",166.1,163.5,29177,"gp_mid",25.87,31.35,"305",164.8,1
-"61784",93492,"col","",42.116669,9.266667,"Mt. Hakim, lower level",NA,"",11,"Callovian","",166.1,163.5,31622,"gp_mid",38.24,-17.13,"709",164.8,1
-"61796",93530,"col","",42.099998,8.583333,"Gobelli",NA,"",7,"Callovian","",166.1,163.5,31622,"gp_mid",38.01,-17.78,"709",164.8,1
-"61798",93532,"col","",42.333332,9.416667,"Grande Ilalami",NA,"",5,"Callovian","",166.1,163.5,31622,"gp_mid",38.5,-17.05,"709",164.8,1
-"62558",94494,"col","",38.25,10.016667,"Goha Tsion, unit 1",NA,"",17,"Callovian","",166.1,163.5,32146,"gp_mid",36.28,-15.77,"715",164.8,1
-"62618",94589,"col","",38.183334,9.883333,"Hatchamie",NA,"",4,"Callovian","",166.1,163.5,32204,"gp_mid",36.17,-15.88,"715",164.8,1
-"62620",94591,"col","",38.349998,9.95,"Golgie",NA,"",8,"Callovian","",166.1,163.5,32204,"gp_mid",36.35,-15.87,"715",164.8,1
-"62621",94592,"col","",38.799999,9.966667,"Zega Wedem River",NA,"",4,"Callovian","",166.1,163.5,32204,"gp_mid",36.79,-16,"715",164.8,1
-"62639",94621,"col","""Macrocephalen Oolith""",9.816667,48.75,"Stuifen, Macrocephalen Oolith",NA,"",3,"Callovian","",166.1,163.5,32227,"gp_mid",28.06,33.64,"305",164.8,1
-"62643",94625,"col","""Macrocephalen Oolith""",10.35,48.866669,"Oberdorf, Macrocephalen Oolith",NA,"",1,"Callovian","",166.1,163.5,32227,"gp_mid",28.45,33.82,"305",164.8,1
-"62644",94626,"col","""Macrocephalen Oolith""",9.25,48.483334,"Ehningen, Macrocephalen Oolith",NA,"",6,"Callovian","",166.1,163.5,32227,"gp_mid",27.68,33.31,"305",164.8,1
-"62677",94659,"col","""Macrocephalen Oolith""",10.35,48.849998,"Bopfingen, Macrocephalen Oolith",NA,"",4,"Callovian","",166.1,163.5,32227,"gp_mid",28.46,33.81,"305",164.8,1
-"62679",94661,"col","""Macrocephalen Oolith""",8.85,48.266666,"Balingen, Macrocephalen Oolith",NA,"",1,"Callovian","",166.1,163.5,32227,"gp_mid",27.42,33.05,"305",164.8,1
-"62680",94662,"col","""Macrocephalen Oolith""",8.566667,47.816666,"Randen, Macrocephalen Oolith",NA,"",2,"Callovian","",166.1,163.5,32227,"gp_mid",27.29,32.57,"305",164.8,1
-"62681",94663,"col","""Macrocephalen Oolith""",8.633333,47.916668,"Geisingen, Macrocephalen Oolith",NA,"",2,"Callovian","",166.1,163.5,32227,"gp_mid",27.32,32.68,"305",164.8,1
-"65457",98195,"col","",44.333332,-23.733334,"Isovoky",NA,"",2,"Callovian","",166.1,163.5,8015,"gp_mid",30.06,-33.4,"702",164.8,1
-"65684",98448,"col","Oxford Clay",-0.246712,52.551422,"Hicks and Gardner No. 2 brick pit, Fletton",NA,"Woodston Lodge, Peterborough",1,"Callovian","",166.1,163.5,46171,"gp_mid",19.63,36.35,"315",164.8,1
-"65907",98680,"col","Tuwaiq Mountain",44.799721,26.358889,"Zilfi, S154",NA,"",20,"Callovian","",166.1,163.5,34048,"gp_mid",44.77,-4.04,"503",164.8,1
-"65908",98681,"col","Tuwaiq Mountain",44.333332,27.416668,"Ajibba, S296",NA,"",8,"Callovian","",166.1,163.5,34048,"gp_mid",44.8,-2.9,"503",164.8,1
-"65909",98682,"col","Tuwaiq Mountain",46.083332,24.85,"Hassaiyan Well, S459",NA,"",7,"Callovian","",166.1,163.5,34048,"gp_mid",45.24,-5.88,"503",164.8,1
-"65910",98683,"col","Dhruma",46.083332,24.799999,"Khashm el Hassau, S736",NA,"",2,"Callovian","",166.1,163.5,34048,"gp_mid",45.22,-5.93,"503",164.8,1
-"65949",98721,"col","Tuwaiq Mountain",45.895557,24.727222,"Jebel Qaradan, S1146",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.04,-5.93,"503",164.8,1
-"65950",98722,"col","Dhruma",46.029446,24.840834,"Khashm Hassiya, S1148",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.2,-5.87,"503",164.8,1
-"65951",98723,"col","Dhruma",45.955555,22.038055,"Jebel esh Shi'ib, S1257",NA,"",5,"Callovian","",166.1,163.5,34048,"gp_mid",44.04,-8.43,"503",164.8,1
-"65952",98724,"col","Dhruma",45.901669,25.010834,"Wadi Atj, S1295",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.15,-5.67,"503",164.8,1
-"65953",98725,"col","Dhruma",46.018333,24.866667,"Khashm Hassiya, S1296",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.2,-5.84,"503",164.8,1
-"65979",98751,"col","Dhruma",45.976665,25.92,"Ash Shib, S1444",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.57,-4.86,"503",164.8,1
-"65983",98755,"col","Dhruma",46.035,24.841667,"Jebel Balaidiyah, S1445",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.2,-5.87,"503",164.8,1
-"65986",98758,"col","Tuwaiq Mountain",45.976665,24.92,"Jebel Balaidiyah, S1446",NA,"",1,"Callovian","",166.1,163.5,34048,"gp_mid",45.18,-5.78,"503",164.8,1
-"65987",98759,"col","Dhruma",45.281944,19.914722,"Wadi el Fau, S1453",NA,"",1,"Callovian","",166.1,163.5,34048,"gp_mid",42.61,-10.13,"503",164.8,1
-"65988",98760,"col","Tuwaiq Mountain",45.893333,25.083332,"Khashm Hisan, S1460",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.18,-5.6,"503",164.8,1
-"65989",98761,"col","Dhruma",45.893333,25.035,"Khashm at Turab, S1462",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.16,-5.64,"503",164.8,1
-"65990",98762,"col","Dhruma",45.893333,25.035,"Khashm at Turab, S1463",NA,"",2,"Callovian","",166.1,163.5,34048,"gp_mid",45.16,-5.64,"503",164.8,1
-"65991",98763,"col","Tuwaiq Mountain",45.783333,24.833332,"Barra Graben, S1467",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",44.99,-5.79,"503",164.8,1
-"65992",98764,"col","Dhruma",45.783333,24.833332,"Barra Graben, S1469",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",44.99,-5.79,"503",164.8,1
-"65993",98765,"col","Tuwaiq Mountain",45.753334,24.998333,"Jebel Urayd, S1476",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.02,-5.63,"503",164.8,1
-"66026",98797,"col","Dhruma",45.764999,25.318333,"Jebel Bukarat, S1613",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.16,-5.34,"503",164.8,1
-"66027",98798,"col","Dhruma",45.764999,25.318333,"Jebel Bukarat, S1615",NA,"",2,"Callovian","",166.1,163.5,34048,"gp_mid",45.16,-5.34,"503",164.8,1
-"66028",98799,"col","Tuwaiq Mountain",45.218334,25.701668,"Khashm Furaythan, S1674",NA,"",2,"Callovian","",166.1,163.5,34048,"gp_mid",44.85,-4.79,"503",164.8,1
-"66029",98800,"col","Tuwaiq Mountain",45.218334,25.701668,"Khashm Furaythan, S1675",NA,"",1,"Callovian","",166.1,163.5,34048,"gp_mid",44.85,-4.79,"503",164.8,1
-"66031",98802,"col","Tuwaiq Mountain",45.383331,25.383333,"Khashm Hayal, S1702",NA,"",9,"Callovian","",166.1,163.5,34048,"gp_mid",44.87,-5.14,"503",164.8,1
-"66046",98817,"col","Tuwaiq Mountain",45.683334,25.036667,"Al Qarainan, S1715",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",44.98,-5.57,"503",164.8,1
-"66047",98818,"col","Dhruma",45.625,25.387501,"Al Qumaah, S1742",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.07,-5.22,"503",164.8,1
-"66072",98843,"col","Dhruma",46.316666,24.200001,"KK9, Khashm Mishraq, Atash Member",NA,"",13,"Callovian","",166.1,163.5,34048,"gp_mid",45.19,-6.56,"503",164.8,1
-"66304",99080,"col","Tuwaiq Mountain",44.799999,26.283333,"Zilfi, S293",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",44.74,-4.11,"503",164.8,1
-"66306",99083,"col","Tuwaiq Mountain",45.696667,21.777779,"Khashm esh Shajara, S1309",NA,"",1,"Callovian","",166.1,163.5,34048,"gp_mid",43.71,-8.57,"503",164.8,1
-"66307",99084,"col","Tuwaiq Mountain",46.119999,24.860001,"Haisiyan Pass, S1458",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.28,-5.88,"503",164.8,1
-"66326",99103,"col","Dhruma",46.116669,24.6,"Jebel edh Dhuanah, S1471",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",45.18,-6.12,"503",164.8,1
-"66332",99109,"col","Dhruma",46.016666,24.833332,"S1478",NA,"",5,"Callovian","",166.1,163.5,34048,"gp_mid",45.18,-5.87,"503",164.8,1
-"66564",99486,"col","",33.450001,30.716667,"sample 489, Gebel Ingbashi, north of Bir Maghara",NA,"",42,"Callovian","",166.1,163.5,32098,"gp_mid",38.6,5.27,"508",164.8,1
-"66786",99800,"col","Zohar",33.383331,30.700001,"Jabal al-Magharah, unit 76",NA,"",1,"Callovian","",166.1,163.5,34047,"gp_mid",38.55,5.28,"508",164.8,1
-"66787",99801,"col","Zohar",33.383331,30.700001,"Jabal al-Magharah, unit 82",NA,"",4,"Callovian","",166.1,163.5,34047,"gp_mid",38.55,5.28,"508",164.8,1
-"66830",99857,"col","",39.533333,-3.966667,"Mombasa, loc. 19",NA,"",3,"Callovian","",166.1,163.5,34336,"gp_mid",31.04,-28.88,"709",164.8,1
-"66838",99865,"col","Miritini Shale",39.683334,-3.533333,"Ganzi Hill, loc. 47",NA,"",2,"Callovian","",166.1,163.5,34336,"gp_mid",31.36,-28.53,"709",164.8,1
-"67188",100306,"col","Zohar",33.450001,30.716667,"Jabal al-Magharah, lower unit 77",NA,"",1,"Callovian","",166.1,163.5,34436,"gp_mid",38.6,5.27,"508",164.8,1
-"67366",100518,"col","Oxford Clay",-1.2075,51.731388,"Cowley Field",NA,"",1,"Callovian","",166.1,163.5,23773,"gp_mid",19.04,35.46,"315",164.8,1
-"67367",100519,"col","Oxford Clay",-0.700833,51.831944,"Long Marston",NA,"Long-Marston clay pits",2,"Callovian","",166.1,163.5,23773,"gp_mid",19.41,35.6,"315",164.8,1
-"71532",106921,"col","",0.322222,46.645,"Migné-les-Lourdines",NA,"",4,"Callovian","",166.1,163.5,35670,"gp_mid",21.02,30.55,"305",164.8,1
-"76370",112572,"col","",0.583333,40.966667,"Terracuques de Llebra Rasquera",NA,"",4,"Callovian","",166.1,163.5,36657,"gp_mid",20.92,24.47,"304",164.8,1
-"76840",113067,"col","",19.366667,50.150002,"Balin",NA,"",7,"Callovian","",166.1,163.5,36718,"gp_mid",35.1,36.34,"305",164.8,1
-"76870",113098,"col","",19.533333,50.299999,"Pomorzany",NA,"",2,"Callovian","",166.1,163.5,36718,"gp_mid",35.18,36.52,"305",164.8,1
-"82005",119563,"col","Oxford Clay",-0.242778,52.40361,"Huntingdonshire marine reptiles",NA,"",1,"Callovian","",166.1,163.5,34515,"gp_mid",19.66,36.21,"315",164.8,1
-"82111",119669,"col","Oxford Clay",-0.243611,52.570278,"Peterborough area, Porter Collection",NA,"",3,"Callovian","",166.1,163.5,14179,"gp_mid",19.63,36.37,"315",164.8,1
-"82112",119670,"col","Oxford Clay",-0.264722,52.220001,"Eynesbury, near St. Neots",NA,"Enysbury, St Neots, Saint Neots",1,"Callovian","",166.1,163.5,14179,"gp_mid",19.67,36.02,"315",164.8,1
-"84119",122096,"col","Dealul Zanei",21.85,45.066666,"Ponor Quarry, Anina",NA,"",1,"Callovian","",166.1,163.5,38873,"gp_mid",37.23,15.65,"308",164.8,1
-"84121",122098,"col","Dealul Zanei",21.85,45.066666,"Colonia Ceha Quarry, Anina",NA,"",6,"Callovian","",166.1,163.5,38873,"gp_mid",37.23,15.65,"308",164.8,1
-"86247",124924,"col","",17.450001,52.099998,"Polish lowland (Callovian) ",NA,"",6,"Callovian","",166.1,163.5,40441,"gp_mid",33.04,37.95,"315",164.8,1
-"90201",130656,"col","Oxford Clay",-2.06,51.5,"Christian Malford",NA,"",10,"Callovian","",166.1,163.5,42278,"gp_mid",18.44,35.17,"315",164.8,1
-"90698",131230,"col","Hiccles Cove",-113.5,76.151108,"Cape Grassy, Melville Island plesiosaur",NA,"Borealonectes type site",1,"Callovian","",166.1,163.5,42394,"gp_mid",-13.73,62.27,"106",164.8,1
-"91382",132063,"col","Oxford Clay",-0.367222,52.56028,"Near Water Newton (near Peterborough)",NA,"",0,"Callovian","",166.1,163.5,42555,"gp_mid",19.54,36.35,"315",164.8,1
-"92214",133245,"col","",70.900002,27.066668,"Ferruginous shale, Pohra section, Jaisalmer",NA,"",9,"Callovian","",166.1,163.5,41676,"gp_mid",49.6,-27.09,"501",164.8,1
-"92215",133246,"col","",70.900002,27.066668,"Hard Limestone, Pohra section, Jaisalmer",NA,"",5,"Callovian","",166.1,163.5,41676,"gp_mid",49.6,-27.09,"501",164.8,1
-"92216",133247,"col","",70.900002,27.066668,"Ferruginous marl, Pohra section, Jaisalmer",NA,"",9,"Callovian","",166.1,163.5,41676,"gp_mid",49.6,-27.09,"501",164.8,1
-"92217",133248,"col","",70.900002,27.066668,"Sandy limestone, Pohra section, Jaisalmer",NA,"",7,"Callovian","",166.1,163.5,41676,"gp_mid",49.6,-27.09,"501",164.8,1
-"92409",133586,"col","Oxford Clay",-0.524167,52.116943,"Green End, Kempston, near Bedford",NA,"",1,"Callovian","",166.1,163.5,14155,"gp_mid",19.5,35.9,"315",164.8,1
-"92410",133587,"col","Oxford Clay",-0.515,52.070278,"Marston Pit, Stewartby",NA,"",1,"Callovian","",166.1,163.5,36273,"gp_mid",19.51,35.86,"315",164.8,1
-"93919",135360,"col","",33.380001,30.700001,"Gebel Maghara",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",38.54,5.28,"508",164.8,1
-"93936",135385,"col","",-0.245,47.185001,"Le Chalet, at U.S. Army Depot",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.49,31.04,"305",164.8,1
-"93937",135386,"col","Zohar",34.970001,30.940001,"Northwest of Hamahtesh Hagadol",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",39.89,4.95,"508",164.8,1
-"93943",135392,"col","",5.53,45.775002,"Vercra, near Marchamp, Ain",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",25.29,30.21,"305",164.8,1
-"93944",135393,"col","",5.45,46.279999,"Cuvergnat, Aromas (USNM)",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",25.14,30.7,"305",164.8,1
-"93976",135456,"col","Tuwaiq Mountain",45.386665,20.415001,"Khashm el Amur, S800",NA,"",1,"Callovian","",166.1,163.5,34048,"gp_mid",42.9,-9.71,"503",164.8,1
-"94040",135524,"col","",34.974998,30.940001,"Maktesh Hathira (Kurnub or Hagadol)",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",39.9,4.95,"508",164.8,1
-"94042",135526,"col","",19.385,50.169998,"Balin, near Cracow",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",35.1,36.37,"305",164.8,1
-"94053",135537,"col","",34.974998,30.940001,"Maktesh, Kurnub",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",39.9,4.95,"508",164.8,1
-"94059",135543,"col","",0.33,48.32,"Pizieux, Sarthe",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.76,32.21,"305",164.8,1
-"94068",135552,"col","",0.185,48.145,"Montbizot, Sarthe",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.68,32.02,"305",164.8,1
-"94069",135553,"col","",-0.5,46.330002,"Deux, Deux-Sèvres",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.41,30.17,"305",164.8,1
-"94493",136099,"col","Dhruma",45.625,25.387501,"Wadi Atj, S1235",NA,"",3,"Callovian","",166.1,163.5,34048,"gp_mid",45.07,-5.22,"503",164.8,1
-"95261",137185,"col","",-0.5,52.07,"Rookery Pit, London Brick Company, Stewartby",NA,"",6,"Callovian","",166.1,163.5,43855,"gp_mid",19.52,35.86,"315",164.8,1
-"97423",139487,"col","",-108.638054,48.03278,"USGS Mesozoic loc. 10729",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-34.65,35.78,"101",164.8,1
-"98021",140157,"col","",25.609722,45.657223,"Tichilestilor Valley",NA,"",1,"Callovian","",166.1,163.5,30006,"gp_mid",38.86,13.46,"308",164.8,1
-"98436",140699,"col","Oxford Clay",-1.287778,51.782223,"Summertown, Wolvercote (OUM) (unspecific horizon of the Oxford Clay Formation",NA,"",1,"Callovian","",166.1,163.5,31216,"gp_mid",18.98,35.51,"315",164.8,1
-"98899",141342,"col","Dhruma",45.226665,25.501667,"Bed No. 363, Jurayfah",NA,"",4,"Callovian","",166.1,163.5,45917,"gp_mid",44.78,-4.98,"503",164.8,1
-"98902",141345,"col","Tuwaiq",45.383331,25.383333,"Bed No. 524, Khashm Aba al Hayyal",NA,"",2,"Callovian","",166.1,163.5,45917,"gp_mid",44.87,-5.14,"503",164.8,1
-"99349",141861,"col","Oxford Clay",-0.118333,52.549999,"Whittlesea, near Peterborough",NA,"Whittlesey",2,"Callovian","",166.1,163.5,33960,"gp_mid",19.73,36.36,"315",164.8,1
-"99362",141874,"col","Oxford Clay",-0.243611,52.570278,"Peterborough area, Sharp Collection",NA,"",1,"Callovian","",166.1,163.5,33960,"gp_mid",19.63,36.37,"315",164.8,1
-"99966",142567,"col","",-0.620278,40.976944,"Oliete section, bed 107",NA,"",3,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,1
-"99967",142568,"col","",-0.620278,40.976944,"Oliete section, bed 108 A",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,1
-"99968",142569,"col","",-0.620278,40.976944,"Oliete section, bed 108 B",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,1
-"99969",142570,"col","",-0.620278,40.976944,"Oliete section, bed 108 C",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,1
-"100064",142714,"col","",48.849998,51.75,"near Saratov (PROXY)",NA,"Khudiakovia calloviensis type",1,"Callovian","",166.1,163.5,46314,"gp_mid",57.38,43.74,"302",164.8,1
-"108353",153659,"col","Mughanniyya",35.667,32.178001,"Tal el Dhahab S10",NA,"",6,"Callovian","",166.1,163.5,49726,"gp_mid",40.08,4.64,"503",164.8,1
-"108355",153661,"col","Mughanniyya",35.676998,32.178001,"Tal el Dhahab S20",NA,"",1,"Callovian","",166.1,163.5,49726,"gp_mid",40.09,4.63,"503",164.8,1
-"108356",153662,"col","Mughanniyya",35.73,32.162998,"Arda (=Al Aridah) section Mughanniyya Fm. (indet. bed)",NA,"",2,"Callovian","",166.1,163.5,49726,"gp_mid",40.12,4.6,"503",164.8,1
-"108357",153663,"col","Hamam",35.73,32.162998,"Arda (=Al Aridah) section, Bed 27",NA,"",3,"Callovian","",166.1,163.5,49726,"gp_mid",40.12,4.6,"503",164.8,1
-"109309",154814,"col","",-0.33,49.880001,"Bavant, Calvados",NA,"",1,"Callovian","",166.1,163.5,50380,"gp_mid",20.01,33.7,"305",164.8,1
-"111162",157922,"col","",18.969999,50.41,"Kozlowagora=Kozlowa Gora",NA,"",1,"Callovian","",166.1,163.5,51918,"gp_mid",34.71,36.53,"305",164.8,1
-"111254",158150,"col","Vilser Kalk",10.62,47.540001,"Legam bei Vils",NA,"",1,"Callovian","",166.1,163.5,51918,"gp_mid",28.96,32.56,"305",164.8,1
-"112588",160095,"col","",69.068001,23.677,"Jumara (USNM)",NA,"",1,"Callovian","",166.1,163.5,33914,"gp_mid",45.39,-26.68,"501",164.8,1
-"114833",163131,"col","Cornbrash",-1.373333,51.825001,"Hanborough Railway Station",NA,"",1,"Callovian","",166.1,163.5,53120,"gp_mid",18.9,35.54,"315",164.8,1
-"115097",163706,"col","Staffin Bay",-6.235072,57.647057,"Digg Headland Bed 1",NA,"",3,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115098",163707,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland 2",NA,"",5,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115099",163708,"col","Staffin Shale",-6.235,57.646999,"Digg School Bed 3",NA,"",1,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115100",163709,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Bed 4a",NA,"",2,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115101",163710,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Bed 4b",NA,"",2,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115102",163711,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Bed 5b",NA,"",3,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115103",163712,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Bed 5c",NA,"",3,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115104",163713,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 6-8",NA,"",7,"Callovian","",166.1,163.5,53387,"gp_mid",14.48,40.99,"303",164.8,1
-"115114",163723,"col","Staffin Bay",-6.110049,57.193478,"Rudha na h'Airigh Baine 1",NA,"",2,"Callovian","",166.1,163.5,53387,"gp_mid",14.63,40.55,"303",164.8,1
-"115123",163733,"col","",-6.072355,57.182117,"Rudha na h'Airigh Baine 2",NA,"",1,"Callovian","",166.1,163.5,53387,"gp_mid",14.66,40.54,"303",164.8,1
-"117109",167260,"col","Twin Creek Limestone",-111.285004,43.700832,"USGS Mesozoic Loc. 28584 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.29,32.17,"101",164.8,1
-"117110",167261,"col","Twin Creek Limestone",-111.275276,43.627499,"USGS Mesozoic Loc. 28587 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,1
-"117111",167262,"col","Twin Creek Limestone",-111.275276,43.627499,"USGS Mesozoic Loc. 28588 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,1
-"117115",167276,"col","Twin Creek Limestone",-111.275276,43.627499,"USGS Mesozoic Loc. 28589 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,1
-"117116",167277,"col","Twin Creek Limestone",-111.275276,43.627499,"USGS Mesozoic Loc. 28590 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,1
-"117117",167278,"col","Twin Creek Limestone",-111.275276,43.627499,"USGS Mesozoic Loc. 28591 - Twin Creek Limestone",NA,"",6,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,1
-"117118",167279,"col","Twin Creek Limestone",-111.301109,43.270832,"USGS Mesozoic Loc. 17982 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.45,31.76,"101",164.8,1
-"117119",167280,"col","Twin Creek Limestone",-111.110832,43.18111,"USGS Mesozoic Loc. 18182 - Twin Creek Limestone",NA,"",7,"Callovian","",166.1,163.5,54548,"gp_mid",-38.32,31.63,"101",164.8,1
-"117120",167281,"col","Twin Creek Limestone",-111.137497,42.354168,"USGS Mesozoic Loc. 6359 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.62,30.85,"101",164.8,1
-"117121",167282,"col","Twin Creek Limestone",-111.131386,42.349724,"USGS Mesozoic Loc. 6360 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.62,30.84,"101",164.8,1
-"117122",167283,"col","Twin Creek Limestone",-110.586113,43.34,"USGS Mesozoic Loc. 3831 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.84,31.68,"101",164.8,1
-"117123",167284,"col","Twin Creek Limestone",-110.784721,43.249443,"USGS Mesozoic Loc. 27727 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,1
-"117124",167285,"col","Twin Creek Limestone",-110.784721,43.249443,"USGS Mesozoic Loc. 27728 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,1
-"117125",167286,"col","Twin Creek Limestone",-110.784721,43.249443,"USGS Mesozoic Loc. 28862 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,1
-"117126",167287,"col","Twin Creek Limestone",-110.649445,43.216946,"USGS Mesozoic Loc. 3830 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-37.93,31.57,"101",164.8,1
-"117127",167288,"col","Twin Creek Limestone",-110.639725,43.217499,"USGS Mesozoic Loc. 3834 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.92,31.57,"101",164.8,1
-"117128",167289,"col","Twin Creek Limestone",-110.575279,43.138889,"USGS Mesozoic Loc. 3808 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.9,31.48,"101",164.8,1
-"117129",167290,"col","Twin Creek Limestone",-110.570557,42.983055,"USGS Mesozoic Loc. 16031 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-37.94,31.33,"101",164.8,1
-"117130",167291,"col","Twin Creek Limestone",-110.50222,42.912224,"USGS Mesozoic Loc. 3839 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.91,31.25,"101",164.8,1
-"117131",167292,"col","Twin Creek Limestone",-110.888611,42.610558,"USGS Mesozoic Loc. 12016 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.33,31.04,"101",164.8,1
-"117132",167293,"col","Twin Creek Limestone",-110.5075,42.511391,"USGS Mesozoic Loc. 17319 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.05,30.86,"101",164.8,1
-"117133",167294,"col","Twin Creek Limestone",-110.5075,42.511391,"USGS Mesozoic Loc. 20960 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.05,30.86,"101",164.8,1
-"117151",167318,"col","Twin Creek Limestone",-110.572502,42.443333,"USGS Mesozoic Loc. 17294 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.12,30.81,"101",164.8,1
-"117152",167319,"col","Twin Creek Limestone",-110.511108,42.330555,"USGS Mesozoic Loc. 20983 - Twin Creek Limestone",NA,"",7,"Callovian","",166.1,163.5,54548,"gp_mid",-38.11,30.69,"101",164.8,1
-"117153",167320,"col","Twin Creek Limestone",-110.84333,42.166668,"USGS Mesozoic Loc. 20347 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,1
-"117154",167321,"col","Twin Creek Limestone",-110.84333,42.166668,"USGS Mesozoic Loc. 20348 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,1
-"117155",167322,"col","Twin Creek Limestone",-110.84333,42.166668,"USGS Mesozoic Loc. 28481 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,1
-"117156",167323,"col","Twin Creek Limestone",-110.864723,41.93861,"USGS Mesozoic Loc. 20991 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.53,30.39,"101",164.8,1
-"117157",167324,"col","Twin Creek Limestone",-111.542221,41.066387,"USGS Mesozoic Loc. 2906 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.38,29.7,"101",164.8,1
-"117158",167325,"col","Twin Creek Limestone",-111.536667,41.059444,"USGS Mesozoic Loc. 28643 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-39.37,29.69,"101",164.8,1
-"117159",167326,"col","Twin Creek Limestone",-111.390556,40.071667,"USGS Mesozoic Loc. 17683 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.57,28.71,"101",164.8,1
-"117160",167327,"col","Twin Creek Limestone",-111.500832,39.997501,"USGS Mesozoic Loc. 17064 - Twin Creek Limestone",NA,"",5,"Callovian","",166.1,163.5,54548,"gp_mid",-39.69,28.66,"101",164.8,1
-"117161",167328,"col","Twin Creek Limestone",-111.059998,42.72139,"USGS Mesozoic Loc. 9309 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.43,31.18,"101",164.8,1
-"117162",167329,"col","Twin Creek Limestone",-111.157501,42.535278,"USGS Mesozoic Loc. 9315 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.58,31.02,"101",164.8,1
-"117163",167330,"col","Twin Creek Limestone",-111.023056,42.668888,"USGS Mesozoic Loc. 12034 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.42,31.12,"101",164.8,1
-"117164",167331,"col","Twin Creek Limestone",-110.845276,42.166668,"USGS Mesozoic Loc. 20346 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,1
-"117165",167332,"col","Twin Creek Limestone",-111.390282,40.06472,"USGS Mesozoic Loc. 17678 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.57,28.7,"101",164.8,1
-"117852",168700,"col","",4.788,46.318001,"Les Perserons",NA,"",5,"Callovian","",166.1,163.5,53744,"gp_mid",24.61,30.67,"305",164.8,1
-"119403",170919,"col","",69.639999,23.302999,"Jooria (Buckman)",NA,"",3,"Callovian","",166.1,163.5,52872,"gp_mid",45.18,-27.29,"501",164.8,1
-"119484",171048,"col","",69.639999,23.302999,"Jooria, Athelta (Buckman)",NA,"",1,"Callovian","",166.1,163.5,52872,"gp_mid",45.18,-27.29,"501",164.8,1
-"119567",171130,"col","Chari",69.639999,23.302999,"Keera Hill",NA,"",2,"Callovian","",166.1,163.5,52872,"gp_mid",45.18,-27.29,"501",164.8,1
-"119673",171238,"col","",33.25,30.629999,"Gebel Aroussieh (Callovian)",NA,"",6,"Callovian","",166.1,163.5,36012,"gp_mid",38.41,5.26,"508",164.8,1
-"119871",171440,"col","",69.639999,23.302999,"Jooria (GSI)",NA,"",1,"Callovian","",166.1,163.5,52872,"gp_mid",45.18,-27.29,"501",164.8,1
-"120615",172983,"col","",-110.531113,43.638058,"Unit 17, Lower Slide Lake",NA,"",2,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,1
-"120616",172984,"col","",-110.531113,43.638058,"Unit 19, Lower Slide Lake",NA,"",8,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,1
-"120617",172985,"col","",-110.531113,43.638058,"Unit 20, Lower Slide Lake",NA,"",2,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,1
-"120618",172986,"col","",-110.531113,43.638058,"Unit 22, Lower Slide Lake",NA,"",6,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,1
-"123361",177723,"col","",-0.15,47.130001,"Montreuil-Bellay",NA,"",1,"Callovian","",166.1,163.5,31413,"gp_mid",20.57,30.99,"305",164.8,1
-"126716",182912,"col","Lower Oxford Clay",-1.737222,51.695,"Coln Quarry, Lechlade",NA,"",2,"Callovian","",166.1,163.5,61021,"gp_mid",18.65,35.39,"315",164.8,1
-"128815",186252,"col","Lower Oxford Clay",-0.52,52.07,"Stewartby quarry, Stewartby Brickworks",NA,"",0,"Callovian","",166.1,163.5,62465,"gp_mid",19.51,35.85,"315",164.8,1
-"135467",199916,"col","Oxford Clay",-0.241701,52.552071,"London Road (Woodston/Fletton pit)",NA,"",2,"Callovian","",166.1,163.5,67988,"gp_mid",19.64,36.36,"315",164.8,1
-"143357",212005,"col","Agardhfjellet",13.913611,78.098892,"Fossilniveau 2",NA,"",2,"Callovian","",166.1,163.5,73254,"gp_mid",18.45,62.39,"309",164.8,1
-"143359",212007,"col","Agardhfjellet",13.913611,78.098892,"Fossilniveau 3",NA,"",7,"Callovian","",166.1,163.5,73254,"gp_mid",18.45,62.39,"309",164.8,1
-"143724",212494,"col","Janusfjellet",18.693333,78.056389,"Agardhbukta, Myklegardfjellet SW, 80m",NA,"",1,"Callovian","",166.1,163.5,73410,"gp_mid",20.45,62.75,"311",164.8,1
-"143900",212797,"col","Agardfjellet",15.014167,77.622498,"Van Keulenfjorden, Callovian",NA,"",4,"Callovian","",166.1,163.5,73480,"gp_mid",19.29,62.04,"309",164.8,1
-"144005",212943,"col","",16.561943,78.287781,"Sassenfjorden, Mountain side",NA,"",5,"Callovian","",166.1,163.5,73524,"gp_mid",19.37,62.78,"309",164.8,1
-"144036",212974,"col","Agardfjellet",13.895556,78.09861,"Festningen, Cliff exposure",NA,"",5,"Callovian","",166.1,163.5,73524,"gp_mid",18.44,62.39,"309",164.8,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"2493",5226,"col","Kingak Shale",-148.12,68.97,"Ivishak River (USGS Mes. loc. 22745)",NA,"",1,"Callovian","",166.1,163.5,313,"gp_mid",-38.98,65.72,"103",164.8,"callovian",913,-41.9156,62.3953,35,1
+"2494",5227,"col","Kingak Shale",-148.08,68.97,"Ivishak River (USGS Mes. loc. 22764)",NA,"",2,"Callovian","",166.1,163.5,313,"gp_mid",-38.99,65.71,"103",164.8,"callovian",914,-41.9156,62.3953,35,1
+"2501",5234,"col","Kingak Shale",-146,69,"Canning River (USGS Mes. loc. 21024)",NA,"",1,"Callovian","",166.1,163.5,313,"gp_mid",-39.85,65.05,"103",164.8,"callovian",915,-41.9156,62.3953,35,1
+"2552",5443,"col","Kingak Shale",-146.13,69.42,"Canning River (USGS Mesozoic Loc. 24033)",NA,"",2,"Callovian","",166.1,163.5,313,"gp_mid",-38.95,64.88,"103",164.8,"callovian",953,-41.9156,62.3953,35,1
+"12173",74518,"col","",-3.03,42.32,"Valgañón, Escaray",NA,"Ezcaray",1,"Callovian","",166.1,163.5,25015,"gp_mid",18.94,26.9,"304",164.8,"callovian",2238,16.7564,24.5072,35,1
+"12962",24395,"col","",0.3,46.6,"Poitiers (Vienne, France)",NA,"",8,"Callovian","",166.1,163.5,6888,"gp_mid",21,30.5,"305",164.8,"callovian",2425,21.0097,30.005,35,1
+"12963",24396,"col","",4.5,47.9,"Etrochey (Cote-d'Or)",NA,"",9,"Callovian","",166.1,163.5,6888,"gp_mid",24.09,32.2,"305",164.8,"callovian",2426,23.7218,30.9828,35,1
+"15957",30109,"col","",43.2,42.5,"Tsesi",NA,"PGAP 532",63,"Callovian","",166.1,163.5,8074,"gp_mid",56.95,33.73,"511",164.8,"callovian",3137,58.0043,40.2636,35,1
+"15959",30111,"col","",40.3,43.2,"Bzibi River, Abkhazia",NA,"PGAP 426",35,"Callovian","",166.1,163.5,8246,"gp_mid",54.26,33.72,"511",164.8,"callovian",3138,41.25,42.5,35,1
+"15960",30112,"col","",43.5,42.5,"Tskhmori",NA,"PGAP 424",21,"Callovian","",166.1,163.5,8246,"gp_mid",57.2,33.8,"511",164.8,"callovian",3139,58.0043,40.2636,35,1
+"15961",30113,"col","",43.8,42.4,"Kemulta",NA,"PGAP 425",11,"Callovian","",166.1,163.5,8246,"gp_mid",57.49,33.78,"511",164.8,"callovian",3140,58.0043,40.2636,35,1
+"16680",30838,"col","",40.4,43.2,"Bzyb' River",NA,"PGAP 800",43,"Callovian","",166.1,163.5,8142,"gp_mid",54.34,33.74,"511",164.8,"callovian",3367,41.25,42.5,35,1
+"17795",32016,"col","",13.35,52.48,"Echinoderms, Callovian, eratic blocks, NE Germany",NA,"",32,"Callovian","",166.1,163.5,8588,"gp_mid",29.84,37.75,"315",164.8,"callovian",3593,28.9788,38.6178,35,1
+"20768",35742,"col","Mughanniyya",35.62,32.12,"Arda A25",NA,"",10,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.6,"503",164.8,"callovian",4158,34.2701,4.8848,35,1
+"20769",35743,"col","Mughanniyya",35.62,32.12,"Arda A26",NA,"",7,"Callovian","",166.1,163.5,9529,"gp_mid",40.02,4.6,"503",164.8,"callovian",4158,34.2701,4.8848,35,1
+"21028",36212,"col","Chelva",-1,41,"Association 5",NA,"Myoconcha (M.) rathieriana-Plagiostoma fuersichi association",18,"Callovian","",166.1,163.5,9710,"gp_mid",19.76,25.03,"304",164.8,"callovian",4177,17.7206,20.8462,35,1
+"21108",36319,"col","",39.41,-9.36,"Cox - 39 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21109",36320,"col","",39.41,-9.36,"Cox - 40 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21114",36325,"col","",39.42,-9.37,"Cox - 45 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,"callovian",4192,27.7529,-37.7859,35,1
+"21133",36344,"col","",39.42,-9.36,"Cox - 64 (S.E. Tanganyika)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,"callovian",4196,27.7529,-37.7859,35,1
+"21135",36346,"col","",39.42,-9.37,"Cox - 66 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.51,"701",164.8,"callovian",4192,27.7529,-37.7859,35,1
+"21136",36347,"col","",39.41,-9.36,"Cox - 67 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21137",36348,"col","",39.41,-9.36,"Cox - 68 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21138",36349,"col","",39.41,-9.36,"Cox - 69 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21139",36350,"col","",39.44,-9.43,"Cox - 70 (S.E. Tanganyika)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",30.36,-34.57,"701",164.8,"callovian",4197,27.7529,-37.7859,35,1
+"21142",36353,"col","",39.41,-9.36,"Cox - 73 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.37,-34.5,"701",164.8,"callovian",4191,27.7529,-37.7859,35,1
+"21144",36355,"col","",39.39,-9.29,"Cox - 75 (S.E. Tanganyika)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",30.38,-34.44,"701",164.8,"callovian",4198,27.7529,-37.7859,35,1
+"21145",36356,"col","",39.39,-9.29,"Cox - 76 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.37,-34.43,"701",164.8,"callovian",4198,27.7529,-37.7859,35,1
+"21151",36362,"col","",39.41,-9.39,"Cox - 82 (S.E. Tanganyika)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",30.35,-34.53,"701",164.8,"callovian",4200,27.7529,-37.7859,35,1
+"21219",36444,"col","",39.73,-3.62,"Cox - 126 (Coastal District)",NA,"",1,"Callovian","",166.1,163.5,9748,"gp_mid",31.39,-28.62,"709",164.8,"callovian",4244,30.5553,-30.6518,35,1
+"21235",36461,"col","",41.02,4.05,"Cox - 133 (N.E. Kenya)",NA,"",11,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.78,"709",164.8,"callovian",4248,32.9696,-23.4658,35,1
+"21236",36462,"col","",41.02,4.05,"Cox - 134 (N.E. Kenya)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.78,"709",164.8,"callovian",4248,32.9696,-23.4658,35,1
+"21237",36463,"col","",41.03,4.05,"Cox - 135 (N.E. Kenya)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",35.48,-21.78,"709",164.8,"callovian",4249,32.9696,-23.4658,35,1
+"21238",36464,"col","",41.03,3.97,"Cox - 136 (N.E. Kenya)",NA,"",3,"Callovian","",166.1,163.5,9748,"gp_mid",35.46,-21.87,"709",164.8,"callovian",4250,32.9696,-23.4658,35,1
+"21239",36465,"col","",41.03,3.98,"Cox - 137 (N.E. Kenya)",NA,"",4,"Callovian","",166.1,163.5,9748,"gp_mid",35.47,-21.85,"709",164.8,"callovian",4251,32.9696,-23.4658,35,1
+"21240",36466,"col","",41.08,3.98,"Cox - 138 (N.E. Kenya)",NA,"",8,"Callovian","",166.1,163.5,9748,"gp_mid",35.52,-21.87,"709",164.8,"callovian",4252,32.9696,-23.4658,35,1
+"21241",36467,"col","",41,3.88,"Cox - 139 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.4,-21.93,"709",164.8,"callovian",4253,32.9696,-23.4658,35,1
+"21242",36468,"col","",41.03,3.9,"Cox - 140 (N.E. Kenya)",NA,"",23,"Callovian","",166.1,163.5,9748,"gp_mid",35.44,-21.93,"709",164.8,"callovian",4254,32.9696,-23.4658,35,1
+"21243",36469,"col","",41.07,3.93,"Cox - 141 (N.E. Kenya)",NA,"",8,"Callovian","",166.1,163.5,9748,"gp_mid",35.48,-21.91,"709",164.8,"callovian",4255,32.9696,-23.4658,35,1
+"21244",36470,"col","",41.03,3.87,"Cox - 142 (N.E. Kenya)",NA,"",7,"Callovian","",166.1,163.5,9748,"gp_mid",35.43,-21.96,"709",164.8,"callovian",4256,32.9696,-23.4658,35,1
+"21245",36471,"col","",41.1,3.98,"Cox - 143 (N.E. Kenya)",NA,"",2,"Callovian","",166.1,163.5,9748,"gp_mid",35.53,-21.87,"709",164.8,"callovian",4257,32.9696,-23.4658,35,1
+"21246",36472,"col","",41.08,3.98,"Cox - 144 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.52,-21.87,"709",164.8,"callovian",4252,32.9696,-23.4658,35,1
+"21247",36473,"col","",41.15,3.97,"Cox - 145 (N.E. Kenya)",NA,"",5,"Callovian","",166.1,163.5,9748,"gp_mid",35.58,-21.9,"709",164.8,"callovian",4258,32.9696,-23.4658,35,1
+"21297",36530,"col","""Lower Sundance""",-108,44,"Gryphaea nebrascensis ASSEMBLAGE",NA,"",2,"Callovian","",166.1,163.5,9775,"gp_mid",-35.51,31.79,"101",164.8,"callovian",4283,-40.728,31.0669,35,1
+"21298",36531,"col","Sundance",-108,44,"Meleagrinella curta ASSEMBLAGE",NA,"",6,"Callovian","",166.1,163.5,9775,"gp_mid",-35.51,31.79,"101",164.8,"callovian",4283,-40.728,31.0669,35,1
+"22296",37884,"col","Xiali",92,33.33,"Tanggula Mountains, Yanshiping Section, Xiali Formation",NA,"",2,"Callovian","",166.1,163.5,10105,"gp_mid",101.77,24.71,"612",164.8,"callovian",4585,108.6023,45.7904,35,1
+"22332",37927,"col","Xiali",92,33.33,"Tanggula Mountains, Y 216-1, Xiali Formation",NA,"",1,"Callovian","",166.1,163.5,10105,"gp_mid",101.77,24.71,"612",164.8,"callovian",4585,108.6023,45.7904,35,1
+"22339",37950,"col","Oxford Clay",-1,52,"deposit-feeder Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",13,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22340",37951,"col","Oxford Clay",-1,52,"Grammatodon-rich Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",11,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22341",37952,"col","Oxford Clay",-1,52,"Foraminifera-rich Bituminous shale biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22345",37956,"col","Oxford Clay",-1,52,"Meleagrinella shell bed biofacies, Lower Oxford Clay, Central England",NA,"",7,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22346",37957,"col","Oxford Clay",-1,52,"Blocky claystone biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22347",37958,"col","Oxford Clay",-1,52,"Calcareous clay biofacies, Lower Oxford Clay, Central England",NA,"",10,"Callovian","",166.1,163.5,10108,"gp_mid",19.16,35.75,"315",164.8,"callovian",4600,18.6954,34.7211,35,1
+"22685",38483,"col","Upper Cornbrush",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Upper Cornbrush",NA,"",9,"Callovian","",166.1,163.5,10298,"gp_mid",19.4,37.29,"315",164.8,"callovian",4703,18.6954,34.7211,35,1
+"22686",38484,"col","Kellaways Beds",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Kellaways Beds",NA,"",1,"Callovian","",166.1,163.5,10298,"gp_mid",19.4,37.29,"315",164.8,"callovian",4703,18.6954,34.7211,35,1
+"22687",38485,"col","Kellaways Clay",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Kellaways Clay",NA,"",18,"Callovian","",166.1,163.5,10298,"gp_mid",19.4,37.29,"315",164.8,"callovian",4703,18.6954,34.7211,35,1
+"22688",38486,"col","Kellaways Sand",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Kellaways Sand",NA,"",4,"Callovian","",166.1,163.5,10298,"gp_mid",19.4,37.29,"315",164.8,"callovian",4703,18.6954,34.7211,35,1
+"22689",38487,"col","",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Lower Oxford Clay",NA,"",6,"Callovian","",166.1,163.5,10298,"gp_mid",19.4,37.29,"315",164.8,"callovian",4703,18.6954,34.7211,35,1
+"23886",40166,"col","Mitarai",136.93,36.03,"Makito Area, Mitarai Formation, Honshu",NA,"",12,"Callovian","",166.1,163.5,10664,"gp_mid",151.47,50.61,"610",164.8,"callovian",4999,138.75,35,35,1
+"24748",41405,"col","Kamar-e-Mahdi",56.67,33.33,"45 km SW Tabas along Tabas-Yazd road, Iran",NA,"Reef 3335",7,"Callovian","",166.1,163.5,11049,"gp_mid",72.16,28.53,"505",164.8,"callovian",5275,72.6434,36.2674,35,1
+"25572",42336,"col","",-1.28,51.77,"Wolvercote, Oxfordshire",NA,"",1,"Callovian","",166.1,163.5,11186,"gp_mid",18.98,35.49,"315",164.8,"callovian",5555,18.6954,34.7211,35,1
+"29574",47163,"col","",9.52,45.76,"Burligo, Bu 20",NA,"",125,"Callovian","",166.1,163.5,12583,"gp_mid",35.07,24.09,"307",164.8,"callovian",6981,34.0123,19.9165,35,1
+"29575",47164,"col","",9.52,45.76,"Burligo, Bu 22",NA,"",97,"Callovian","",166.1,163.5,12583,"gp_mid",35.07,24.09,"307",164.8,"callovian",6981,34.0123,19.9165,35,1
+"30399",48002,"col","Tuwaiq Mt.Lst.",45,26.33,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",1,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,"callovian",7110,41.631,-5.4886,35,1
+"30402",48005,"col","Tuwaiq Mt.Lst.",45,26.33,"Shaqra Group (Tuwaiq Mt. Lst.,T2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,"callovian",7110,41.631,-5.4886,35,1
+"30403",48006,"col","Tuwaiq Mt.Lst.",45,26.33,"Shaqra Group (Tuwaiq Mt. Lst.,T3,2)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,"callovian",7110,41.631,-5.4886,35,1
+"30404",48007,"col","Tuwaiq Mt.Lst.",45,26.33,"Shaqra Group (Tuwaiq Mt. Lst.,T3,3)",NA,"",3,"Callovian","",166.1,163.5,11728,"gp_mid",44.92,-4.13,"503",164.8,"callovian",7110,41.631,-5.4886,35,1
+"30964",48602,"col","Dhruma",44.83,26.28,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Callovian","",166.1,163.5,11728,"gp_mid",44.76,-4.12,"503",164.8,"callovian",7310,41.631,-5.4886,35,1
+"30965",48603,"col","Dhruma",44.83,26.28,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Callovian","",166.1,163.5,11728,"gp_mid",44.76,-4.12,"503",164.8,"callovian",7310,41.631,-5.4886,35,1
+"30966",48604,"col","Dhruma",44.83,26.33,"Shaqra Group (Dhruma Fm.)",NA,"",70,"Callovian","",166.1,163.5,11728,"gp_mid",44.78,-4.07,"503",164.8,"callovian",7311,41.631,-5.4886,35,1
+"30967",48605,"col","Dhruma",44.83,26.33,"Shaqra Group (Dhruma Fm.)",NA,"",53,"Callovian","",166.1,163.5,11728,"gp_mid",44.78,-4.07,"503",164.8,"callovian",7311,41.631,-5.4886,35,1
+"32993",51368,"col","Kalur Chert",20.05,42.02,"Al 202, Lumi i Zi, Albania",NA,"",3,"Callovian","",166.1,163.5,13660,"gp_mid",33.78,15.72,"307",164.8,"callovian",7879,39.1571,16.4974,35,1
+"32994",51369,"col","Kalur Chert",20.05,42.02,"Al 203, Lumi i Zi, Albania",NA,"",4,"Callovian","",166.1,163.5,13660,"gp_mid",33.78,15.72,"307",164.8,"callovian",7879,39.1571,16.4974,35,1
+"34168",52636,"col","Oxford Clay",-2.46,50.61,"Weymouth stegosaur (BMNH)",NA,"",1,"Callovian","",166.1,163.5,14142,"gp_mid",18.27,34.26,"315",164.8,"callovian",8266,17.267,31.4213,35,1
+"35229",53711,"col","Sokolica Radiolarite",20.92,49.25,"Sarisske Jastrabie, SJP 1",NA,"",1,"Callovian","",166.1,163.5,14483,"gp_mid",36.57,35.72,"305",164.8,"callovian",8574,35.78,38.6858,35,1
+"37910",57920,"col","",13.65,53.12,"Geschiebe from Milmersdorf, Brandenburg",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.89,38.41,"315",164.8,"callovian",9137,28.9788,38.6178,35,1
+"38133",58203,"col","",13.78,52.97,"Geschiebe from Althüttendorf, Brandenburg",NA,"",16,"Callovian","",166.1,163.5,15699,"gp_mid",30.03,38.28,"315",164.8,"callovian",9176,28.9788,38.6178,35,1
+"38144",58214,"col","",13.6,53.32,"Geschiebe from Arendsee-Weggun, Brandenburg",NA,"",3,"Callovian","",166.1,163.5,15704,"gp_mid",29.8,38.6,"315",164.8,"callovian",9178,28.9788,38.6178,35,1
+"38148",58218,"col","",13.8,53.97,"Geschiebe from Bauer-Wehrland, Mecklenburg-Vorpommern",NA,"",14,"Callovian","",166.1,163.5,15698,"gp_mid",29.76,39.26,"315",164.8,"callovian",9180,27.4257,40.8154,35,1
+"38150",58220,"col","",14,52.83,"Geschiebe from Bralitz, Brandenburg",NA,"",10,"Callovian","",166.1,163.5,16523,"gp_mid",30.23,38.18,"315",164.8,"callovian",9181,28.9788,38.6178,35,1
+"38156",58226,"col","",13.68,54.28,"Geschiebe from Gager, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.58,39.55,"315",164.8,"callovian",9182,27.4257,40.8154,35,1
+"38157",58227,"col","",13.73,54.32,"Geschiebe from Göhren Do 69, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15700,"gp_mid",29.61,39.59,"315",164.8,"callovian",9183,27.4257,40.8154,35,1
+"38158",58228,"col","",13.63,54.35,"Geschiebe from Granitzer Ort, Mecklenburg-Vorpommern",NA,"",7,"Callovian","",166.1,163.5,15704,"gp_mid",29.53,39.61,"315",164.8,"callovian",9184,27.4257,40.8154,35,1
+"38159",58229,"col","",13.92,54.23,"Geschiebe from the isle Greifswalder Oie, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,16522,"gp_mid",29.77,39.53,"302",164.8,"callovian",9185,27.4257,40.8154,35,1
+"38164",58234,"col","",10.55,53.53,"Geschiebe from Groß Pampau, Schleswig-Holstein",NA,"",1,"Callovian","",166.1,163.5,16522,"gp_mid",27.47,38.42,"315",164.8,"callovian",9187,26.4042,37.5666,35,1
+"38165",58235,"col","",13.7,54.3,"Geschiebe from Groß Zicker, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,16522,"gp_mid",29.59,39.57,"315",164.8,"callovian",9188,27.4257,40.8154,35,1
+"38174",58244,"col","",14.2,53.93,"Bore Heringsdorf 4/63, Mecklenburg-Vorpommern",NA,"",7,"Callovian","",166.1,163.5,15698,"gp_mid",30.07,39.28,"315",164.8,"callovian",9191,27.4257,40.8154,35,1
+"38181",58251,"col","",13.73,54.03,"Geschiebe from Hohendorf near Wolgast, Mecklenburg-Vorpommern",NA,"",15,"Callovian","",166.1,163.5,15698,"gp_mid",29.69,39.31,"315",164.8,"callovian",9192,27.4257,40.8154,35,1
+"38186",58256,"col","",14.15,52.85,"Geschiebe from Hohensaaten, Brandenburg",NA,"",9,"Callovian","",166.1,163.5,15700,"gp_mid",30.34,38.22,"315",164.8,"callovian",9195,28.9788,38.6178,35,1
+"38187",58257,"col","",13.33,53.82,"Geschiebe from Jarmen, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",29.46,39.05,"315",164.8,"callovian",9196,27.4257,40.8154,35,1
+"38189",58259,"col","",13.8,54.15,"Bore Karlshagen 1/62, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.44,"315",164.8,"callovian",9197,27.4257,40.8154,35,1
+"38224",58293,"col","",14.97,53.78,"Bore Kleby 1/37, Western Pomerania",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",30.68,39.23,"315",164.8,"callovian",9199,27.4257,40.8154,35,1
+"38226",58295,"col","",13.71,54.28,"Geschiebe from Klein Zicker, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15699,"gp_mid",29.6,39.55,"315",164.8,"callovian",9200,27.4257,40.8154,35,1
+"38227",58296,"col","",14.25,53.33,"Geschiebe from Krackow, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15704,"gp_mid",30.28,38.7,"315",164.8,"callovian",9201,28.9788,38.6178,35,1
+"38230",58303,"col","",13.62,54.15,"Bore Lubmin 2/63, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15698,"gp_mid",29.57,39.41,"315",164.8,"callovian",9203,27.4257,40.8154,35,1
+"38233",58306,"col","",13.58,54.5,"Geschiebe from Mukran, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15699,"gp_mid",29.45,39.75,"302",164.8,"callovian",9204,27.4257,40.8154,35,1
+"38234",58307,"col","",14.03,53.93,"Geschiebe from Neppermin (Usedom), Mecklenburg-Vorpommern",NA,"",5,"Callovian","",166.1,163.5,16523,"gp_mid",29.94,39.26,"315",164.8,"callovian",9205,27.4257,40.8154,35,1
+"38255",58328,"col","",11.77,52.32,"Bore Rogätz 11/62, Saxony-Anhalt",NA,"",2,"Callovian","",166.1,163.5,15700,"gp_mid",28.69,37.38,"315",164.8,"callovian",9212,26.4042,37.5666,35,1
+"38260",58333,"col","",13.72,53.93,"Bore Rubkow 2/64, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15700,"gp_mid",29.71,39.21,"315",164.8,"callovian",9213,27.4257,40.8154,35,1
+"38271",58345,"col","",13.9,53.87,"Bore Usedom 1/60, Mecklenburg-Vorpommern",NA,"",15,"Callovian","",166.1,163.5,15698,"gp_mid",29.86,39.17,"315",164.8,"callovian",9217,27.4257,40.8154,35,1
+"38274",58348,"col","",13.9,53.87,"Bore Usedom 2/61, Mecklenburg-Vorpommern",NA,"",3,"Callovian","",166.1,163.5,15699,"gp_mid",29.86,39.17,"315",164.8,"callovian",9217,27.4257,40.8154,35,1
+"38277",58351,"col","",12.18,53.38,"Geschiebe from Wangelin, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,15699,"gp_mid",28.72,38.48,"315",164.8,"callovian",9218,26.4042,37.5666,35,1
+"38283",58358,"col","",13.77,54.05,"Bore Wolgast 1/63, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.33,"315",164.8,"callovian",9221,27.4257,40.8154,35,1
+"38298",58373,"col","",13.77,54.05,"Bore Wolgast 2/63, Mecklenburg-Vorpommern",NA,"",6,"Callovian","",166.1,163.5,15698,"gp_mid",29.71,39.33,"315",164.8,"callovian",9221,27.4257,40.8154,35,1
+"38300",58375,"col","",13.77,54.05,"Bore Wolgast 3/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15700,"gp_mid",29.71,39.33,"315",164.8,"callovian",9221,27.4257,40.8154,35,1
+"38306",58381,"col","",13.63,54.12,"Bore Wusterhusen 1/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.59,39.38,"315",164.8,"callovian",9226,27.4257,40.8154,35,1
+"38317",58392,"col","",11.98,53.58,"Geschiebe from Techentin, Mecklenburg-Vorpommern",NA,"",2,"Callovian","",166.1,163.5,16520,"gp_mid",28.52,38.65,"315",164.8,"callovian",9231,26.4042,37.5666,35,1
+"38318",58393,"col","",13.6,54.13,"Geschiebe from Vierow near Lubmin, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,16522,"gp_mid",29.56,39.39,"315",164.8,"callovian",9232,27.4257,40.8154,35,1
+"38324",58399,"col","",13.93,52.83,"Bore Liepe 1/64, Brandenburg",NA,"",8,"Callovian","",166.1,163.5,15699,"gp_mid",30.18,38.17,"315",164.8,"callovian",9233,28.9788,38.6178,35,1
+"38328",58403,"col","",14.05,54.03,"Bore Ückeritz 1/64, Mecklenburg-Vorpommern",NA,"",3,"Callovian","",166.1,163.5,15700,"gp_mid",29.93,39.36,"315",164.8,"callovian",9235,27.4257,40.8154,35,1
+"38331",58406,"col","",14.05,54.03,"Bore Ückeritz 1/1A/64, Mecklenburg-Vorpommern",NA,"",1,"Callovian","",166.1,163.5,15698,"gp_mid",29.93,39.36,"315",164.8,"callovian",9235,27.4257,40.8154,35,1
+"38340",58415,"col","",14.05,54.03,"Bore Ückeritz 1A/64, Mecklenburg-Vorpommern",NA,"",4,"Callovian","",166.1,163.5,15698,"gp_mid",29.93,39.36,"315",164.8,"callovian",9235,27.4257,40.8154,35,1
+"38668",58743,"col","",-69.55,-21.75,"Quillagua, Antofagasta",NA,"",1,"Callovian","",166.1,163.5,9156,"gp_mid",-24.85,-25.91,"201",164.8,"callovian",9350,-32.3713,-30.2512,35,1
+"38669",58744,"col","",-69.68,-27.15,"Quebrada Paipote, Atacama",NA,"",1,"Callovian","",166.1,163.5,9156,"gp_mid",-24.19,-30.19,"291",164.8,"callovian",9351,-31.6391,-35.5501,35,1
+"38670",58745,"col","",-69.42,-27.18,"Quebrada El Bolito, Atacama",NA,"",1,"Callovian","",166.1,163.5,9156,"gp_mid",-23.91,-30.19,"291",164.8,"callovian",9352,-31.6391,-35.5501,35,1
+"39890",60171,"col","Aïssa",-1.07,32.74,"Rouis El Djir, High Atlas",NA,"Géant des Ksour",3,"Callovian","",166.1,163.5,71059,"gp_mid",10.59,20.22,"707",164.8,"callovian",9622,7.9481,16.6016,35,1
+"44823",67120,"col","Ornatenton",9.25,48.5,"Sample 86A, Achalm near Reutlingen",NA,"",1,"Callovian","",166.1,163.5,19143,"gp_mid",27.68,33.33,"305",164.8,"callovian",10837,26.4345,32.0162,35,1
+"45420",67979,"col","Qal'eh Dokhtar",57.3,33.87,"Boshrouyeh, coral-sponge patch reef, Qal'eh Dokhtar Siltstone Member",NA,"Reef 494",12,"Callovian","",166.1,163.5,19437,"gp_mid",72.53,29.21,"505",164.8,"callovian",11011,74.8501,38.0443,35,1
+"45429",67993,"col","",6.08,47.11,"Puits-de-la-Brême",NA,"Puits-de-la-Breme, Doubs",1,"Callovian","",166.1,163.5,19461,"gp_mid",25.48,31.59,"305",164.8,"callovian",11013,26.4345,32.0162,35,1
+"45430",67994,"col","",6.1,47.64,"Haute-Saône",NA,"",1,"Callovian","",166.1,163.5,19451,"gp_mid",25.39,32.11,"305",164.8,"callovian",11014,26.4345,32.0162,35,1
+"46222",68872,"col","Tuxedni",-152.64,60.16,"USGS Mesozoic 3014, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.36,58.67,"125",164.8,"callovian",11235,-59.5723,51.8654,35,1
+"46223",158654,"col","Chinitna",-152.64,60.16,"USGS Mesozoic 12074, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.36,58.67,"125",164.8,"callovian",11235,-59.5723,51.8654,35,1
+"46224",68873,"col","Tuxedni",-153.23,59.88,"USGS Mesozoic loc. 20748, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.08,58.85,"125",164.8,"callovian",11236,-59.5723,51.8654,35,1
+"46225",68874,"col","Tuxedni",-153.24,59.88,"USGS Mesozoic loc. 11042, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.08,58.85,"125",164.8,"callovian",11237,-59.5723,51.8654,35,1
+"46230",68879,"col","Tuxedni",-152.64,60.16,"USGS Mesozoic 21272, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.36,58.67,"125",164.8,"callovian",11235,-59.5723,51.8654,35,1
+"46231",158655,"col","Chinitna",-152.64,60.16,"USGS Mesozoic 2992, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.36,58.67,"125",164.8,"callovian",11235,-59.5723,51.8654,35,1
+"46232",68880,"col","Tuxedni",-153.12,59.81,"USGS Mesozoic loc. 21311, Iniskin Peninsula, Cook Inlet",NA,"",3,"Callovian","",166.1,163.5,19843,"gp_mid",-78.16,58.77,"125",164.8,"callovian",11242,-59.5723,51.8654,35,1
+"46233",68881,"col","Tuxedni",-153.12,59.81,"USGS Mesozoic loc. 21312, Iniskin Peninsula, Cook Inlet",NA,"",4,"Callovian","",166.1,163.5,19843,"gp_mid",-78.16,58.77,"125",164.8,"callovian",11242,-59.5723,51.8654,35,1
+"46249",68896,"col","Tuxedni",-153.26,59.77,"USGS Mesozoic loc. 21319, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.28,58.82,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"46250",68897,"col","Tuxedni",-153.24,59.71,"USGS Mesozoic 21320, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.38,58.8,"125",164.8,"callovian",11250,-59.5723,51.8654,35,1
+"46251",68898,"col","Tuxedni",-153.12,59.81,"USGS Mesozoic loc. 22436, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.16,58.77,"125",164.8,"callovian",11242,-59.5723,51.8654,35,1
+"46252",68899,"col","Tuxedni",-153.33,59.72,"USGS Mesozoic loc. 22536, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.4,58.84,"125",164.8,"callovian",11251,-59.5723,51.8654,35,1
+"46253",68900,"col","Tuxedni",-153.15,59.72,"USGS Mesozoic loc. 22549, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.32,58.76,"125",164.8,"callovian",11252,-59.5723,51.8654,35,1
+"46254",68901,"col","Tuxedni",-153.33,59.72,"USGS Mesozoic loc. 22553, Iniskin Peninsula, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-78.4,58.84,"125",164.8,"callovian",11251,-59.5723,51.8654,35,1
+"46260",68911,"col","Tuxedni",-152.62,60.2,"USGS Mesozoic loc. 22686, Chisik Island, Cook Inlet",NA,"",2,"Callovian","",166.1,163.5,19843,"gp_mid",-77.29,58.67,"125",164.8,"callovian",11255,-59.5723,51.8654,35,1
+"46261",68912,"col","Tuxedni",-152.9,59.95,"USGS Mesozoic loc. 22699, Lake Hickerson, Tuxedni Bay, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-77.83,58.72,"125",164.8,"callovian",11256,-59.5723,51.8654,35,1
+"46262",68913,"col","Tuxedni",-152.9,59.95,"USGS Mesozoic loc. 22700, Lake Hickerson, Tuxedni Bay, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-77.83,58.72,"125",164.8,"callovian",11256,-59.5723,51.8654,35,1
+"46333",68985,"col","Tuxedni",-152.72,60.12,"USGS Mesozoic loc. 22713, Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-77.47,58.69,"125",164.8,"callovian",11266,-59.5723,51.8654,35,1
+"46336",68988,"col","Tuxedni",-152.72,60.12,"USGS Mesozoic loc. 22714, Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",1,"Callovian","",166.1,163.5,19843,"gp_mid",-77.47,58.69,"125",164.8,"callovian",11266,-59.5723,51.8654,35,1
+"50974",77131,"col","",130.62,32.28,"Koguchi, Kuma 14, sample S 12",NA,"",6,"Callovian","",166.1,163.5,26108,"gp_mid",145.05,45.8,"610",164.8,"callovian",12617,157.465,45.0358,35,1
+"51561",78220,"col","",-2.7,42.62,"Montoria, Alava",NA,"",4,"Callovian","",166.1,163.5,26346,"gp_mid",19.33,27.05,"304",164.8,"callovian",12791,16.7564,24.5072,35,1
+"54814",83637,"col","Mughanniyya",35.62,32.2,"Corals, Mughanniyya Formation, Deir-Alla",NA,"",15,"Callovian","",166.1,163.5,28053,"gp_mid",40.05,4.68,"503",164.8,"callovian",13888,34.2701,4.8848,35,1
+"54815",83639,"col","Mughanniyya",35.62,32.2,"Corals, Mughanniyya Formation, Tal el Dhahab",NA,"",13,"Callovian","",166.1,163.5,28053,"gp_mid",40.05,4.68,"503",164.8,"callovian",13888,34.2701,4.8848,35,1
+"56449",85937,"col","",40.28,43.5,"Akh-Ag Mountains, Abkhaziya",NA,"",18,"Callovian","",166.1,163.5,28990,"gp_mid",54.13,34,"511",164.8,"callovian",14483,41.25,42.5,35,1
+"56871",86669,"col","",6.5,46.82,"Sainte Croix",NA,"",3,"Callovian","",166.1,163.5,29177,"gp_mid",25.87,31.35,"305",164.8,"callovian",14653,26.4345,32.0162,35,1
+"59144",89639,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS 2",NA,"",18,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59145",89640,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS 7",NA,"",18,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59146",89641,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS 8",NA,"",26,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59147",89642,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS 9",NA,"",23,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59148",89643,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS A",NA,"",26,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59149",89644,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS D",NA,"",7,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59150",89645,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS E",NA,"",6,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"59151",89646,"col","Calcare Selcifero di Fonzaso",11.75,46.02,"Ponte Serra, PS 11",NA,"",16,"Callovian","",166.1,163.5,30059,"gp_mid",35.78,22.65,"307",164.8,"callovian",15404,34.0123,19.9165,35,1
+"61428",92996,"col","Bihen Limestone",45.12,10.25,"Daghani, bed 224",NA,"",5,"Callovian","",166.1,163.5,31424,"gp_mid",41.5,-17.02,"709",164.8,"callovian",16204,38.2147,-19.5899,35,1
+"61429",92997,"col","Bihen Limestone",45.12,10.25,"Daghani, bed 226",NA,"",7,"Callovian","",166.1,163.5,31424,"gp_mid",41.5,-17.02,"709",164.8,"callovian",16204,38.2147,-19.5899,35,1
+"61430",92998,"col","Bihen Limestone",45.12,10.25,"Daghani, bed 227",NA,"",23,"Callovian","",166.1,163.5,31424,"gp_mid",41.5,-17.02,"709",164.8,"callovian",16204,38.2147,-19.5899,35,1
+"61431",92999,"col","Bihen Limestone",45.12,10.25,"Daghani, bed 228",NA,"",1,"Callovian","",166.1,163.5,31424,"gp_mid",41.5,-17.02,"709",164.8,"callovian",16204,38.2147,-19.5899,35,1
+"61454",93022,"col","",47.38,10.43,"Gharab Gareh Hill",NA,"",1,"Callovian","",166.1,163.5,31423,"gp_mid",43.8,-17.42,"709",164.8,"callovian",16210,42.0483,-20.4034,35,1
+"61727",93482,"col","",42.62,9.45,"Mt. Guresu, level 2",NA,"",14,"Callovian","",166.1,163.5,31622,"gp_mid",38.79,-17.1,"709",164.8,"callovian",16312,34.433,-18.6557,35,1
+"61773",93477,"col","",42.42,9.53,"Mt. Ualinsi, lower level",NA,"",7,"Callovian","",166.1,163.5,31622,"gp_mid",38.62,-16.96,"709",164.8,"callovian",16324,34.433,-18.6557,35,1
+"61778",93481,"col","",42.62,9.45,"Mt. Guresu, level 1",NA,"",5,"Callovian","",166.1,163.5,31622,"gp_mid",38.79,-17.1,"709",164.8,"callovian",16312,34.433,-18.6557,35,1
+"61782",93490,"col","",42.68,9.35,"Marda Pass",NA,"",10,"Callovian","",166.1,163.5,31622,"gp_mid",38.82,-17.22,"709",164.8,"callovian",16327,34.433,-18.6557,35,1
+"61784",93492,"col","",42.12,9.27,"Mt. Hakim, lower level",NA,"",11,"Callovian","",166.1,163.5,31622,"gp_mid",38.24,-17.13,"709",164.8,"callovian",16329,34.433,-18.6557,35,1
+"61795",93529,"col","",42.7,9.33,"Gama Pass",NA,"",3,"Callovian","",166.1,163.5,31622,"gp_mid",38.84,-17.24,"709",164.8,"callovian",16336,34.433,-18.6557,35,1
+"61796",93530,"col","",42.1,8.58,"Gobelli",NA,"",7,"Callovian","",166.1,163.5,31622,"gp_mid",38.01,-17.78,"709",164.8,"callovian",16337,33.7132,-21.0623,35,1
+"61798",93532,"col","",42.33,9.42,"Grande Ilalami",NA,"",5,"Callovian","",166.1,163.5,31622,"gp_mid",38.5,-17.05,"709",164.8,"callovian",16338,34.433,-18.6557,35,1
+"62558",94494,"col","",38.25,10.02,"Goha Tsion, unit 1",NA,"",17,"Callovian","",166.1,163.5,32146,"gp_mid",36.28,-15.77,"715",164.8,"callovian",16509,30.7071,-17.6066,35,1
+"62618",94589,"col","",38.18,9.88,"Hatchamie",NA,"",4,"Callovian","",166.1,163.5,32204,"gp_mid",36.17,-15.88,"715",164.8,"callovian",16525,30.7071,-17.6066,35,1
+"62620",94591,"col","",38.35,9.95,"Golgie",NA,"",8,"Callovian","",166.1,163.5,32204,"gp_mid",36.35,-15.87,"715",164.8,"callovian",16527,30.7071,-17.6066,35,1
+"62621",94592,"col","",38.8,9.97,"Zega Wedem River",NA,"",4,"Callovian","",166.1,163.5,32204,"gp_mid",36.79,-16,"715",164.8,"callovian",16528,30.7071,-17.6066,35,1
+"62644",94626,"col","""Macrocephalen Oolith""",9.25,48.48,"Ehningen, Macrocephalen Oolith",NA,"",6,"Callovian","",166.1,163.5,32227,"gp_mid",27.68,33.31,"305",164.8,"callovian",16543,26.4345,32.0162,35,1
+"62679",94661,"col","""Macrocephalen Oolith""",8.85,48.27,"Balingen, Macrocephalen Oolith",NA,"",1,"Callovian","",166.1,163.5,32227,"gp_mid",27.42,33.05,"305",164.8,"callovian",16554,26.4345,32.0162,35,1
+"62680",94662,"col","""Macrocephalen Oolith""",8.57,47.82,"Randen, Macrocephalen Oolith",NA,"",2,"Callovian","",166.1,163.5,32227,"gp_mid",27.29,32.57,"305",164.8,"callovian",16555,26.4345,32.0162,35,1
+"62681",94663,"col","""Macrocephalen Oolith""",8.63,47.92,"Geisingen, Macrocephalen Oolith",NA,"",2,"Callovian","",166.1,163.5,32227,"gp_mid",27.32,32.68,"305",164.8,"callovian",16556,26.4345,32.0162,35,1
+"65684",98448,"col","Oxford Clay",-0.25,52.55,"Hicks and Gardner No. 2 brick pit, Fletton",NA,"Woodston Lodge, Peterborough",1,"Callovian","",166.1,163.5,46171,"gp_mid",19.63,36.35,"315",164.8,"callovian",17507,18.6954,34.7211,35,1
+"65907",98680,"col","Tuwaiq Mountain",44.8,26.36,"Zilfi, S154",NA,"",20,"Callovian","",166.1,163.5,34048,"gp_mid",44.77,-4.04,"503",164.8,"callovian",17598,41.631,-5.4886,35,1
+"65908",98681,"col","Tuwaiq Mountain",44.33,27.42,"Ajibba, S296",NA,"",8,"Callovian","",166.1,163.5,34048,"gp_mid",44.8,-2.9,"503",164.8,"callovian",17599,41.631,-5.4886,35,1
+"66304",99080,"col","Tuwaiq Mountain",44.8,26.28,"Zilfi, S293",NA,"",4,"Callovian","",166.1,163.5,34048,"gp_mid",44.74,-4.11,"503",164.8,"callovian",17761,41.631,-5.4886,35,1
+"66564",99486,"col","",33.45,30.72,"sample 489, Gebel Ingbashi, north of Bir Maghara",NA,"",42,"Callovian","",166.1,163.5,32098,"gp_mid",38.6,5.27,"508",164.8,"callovian",17844,33.774,1.0528,35,1
+"66786",99800,"col","Zohar",33.38,30.7,"Jabal al-Magharah, unit 76",NA,"",1,"Callovian","",166.1,163.5,34047,"gp_mid",38.55,5.28,"508",164.8,"callovian",17910,33.774,1.0528,35,1
+"66787",99801,"col","Zohar",33.38,30.7,"Jabal al-Magharah, unit 82",NA,"",4,"Callovian","",166.1,163.5,34047,"gp_mid",38.55,5.28,"508",164.8,"callovian",17910,33.774,1.0528,35,1
+"66830",99857,"col","",39.53,-3.97,"Mombasa, loc. 19",NA,"",3,"Callovian","",166.1,163.5,34336,"gp_mid",31.04,-28.88,"709",164.8,"callovian",17930,29.6728,-33.0367,35,1
+"66838",99865,"col","Miritini Shale",39.68,-3.53,"Ganzi Hill, loc. 47",NA,"",2,"Callovian","",166.1,163.5,34336,"gp_mid",31.36,-28.53,"709",164.8,"callovian",17937,30.5553,-30.6518,35,1
+"67188",100306,"col","Zohar",33.45,30.72,"Jabal al-Magharah, lower unit 77",NA,"",1,"Callovian","",166.1,163.5,34436,"gp_mid",38.6,5.27,"508",164.8,"callovian",17844,33.774,1.0528,35,1
+"67211",100368,"col","Sa Wer",43.06,10.16,"Sa Warabis, 195-203",NA,"",8,"Callovian","",166.1,163.5,34459,"gp_mid",39.44,-16.55,"709",164.8,"callovian",18060,34.433,-18.6557,35,1
+"67221",100378,"col","Sa Wer",42.8,10.34,"Gerigoan, 140",NA,"",2,"Callovian","",166.1,163.5,34459,"gp_mid",39.24,-16.3,"709",164.8,"callovian",18063,34.433,-18.6557,35,1
+"67222",100379,"col","Sa Wer",42.8,10.34,"Gerigoan, 141",NA,"",8,"Callovian","",166.1,163.5,34459,"gp_mid",39.24,-16.3,"709",164.8,"callovian",18063,34.433,-18.6557,35,1
+"67223",100380,"col","Sa Wer",42.8,10.34,"Gerigoan, 142",NA,"",3,"Callovian","",166.1,163.5,34459,"gp_mid",39.24,-16.3,"709",164.8,"callovian",18063,34.433,-18.6557,35,1
+"67224",100381,"col","Sa Wer",42.8,10.34,"Gerigoan, 148",NA,"",1,"Callovian","",166.1,163.5,34459,"gp_mid",39.24,-16.3,"709",164.8,"callovian",18063,34.433,-18.6557,35,1
+"67229",100386,"col","Sa Wer",43,10.56,"Gelwanajan, 89-96",NA,"",6,"Callovian","",166.1,163.5,34459,"gp_mid",39.5,-16.15,"709",164.8,"callovian",18066,34.433,-18.6557,35,1
+"67230",100387,"col","Sa Wer",43,10.56,"Gelwanajan, 100",NA,"",5,"Callovian","",166.1,163.5,34459,"gp_mid",39.5,-16.15,"709",164.8,"callovian",18066,34.433,-18.6557,35,1
+"67231",100388,"col","Sa Wer",43,10.56,"Gelwanajan, 103",NA,"",3,"Callovian","",166.1,163.5,34459,"gp_mid",39.5,-16.15,"709",164.8,"callovian",18066,34.433,-18.6557,35,1
+"67366",100518,"col","Oxford Clay",-1.21,51.73,"Cowley Field",NA,"",1,"Callovian","",166.1,163.5,23773,"gp_mid",19.04,35.46,"315",164.8,"callovian",18098,18.6954,34.7211,35,1
+"67367",100519,"col","Oxford Clay",-0.7,51.83,"Long Marston",NA,"Long-Marston clay pits",2,"Callovian","",166.1,163.5,23773,"gp_mid",19.41,35.6,"315",164.8,"callovian",18099,18.6954,34.7211,35,1
+"71532",106921,"col","",0.32,46.65,"Migné-les-Lourdines",NA,"",4,"Callovian","",166.1,163.5,35670,"gp_mid",21.02,30.55,"305",164.8,"callovian",19916,21.0097,30.005,35,1
+"76370",112572,"col","",0.58,40.97,"Terracuques de Llebra Rasquera",NA,"",4,"Callovian","",166.1,163.5,36657,"gp_mid",20.92,24.47,"304",164.8,"callovian",21359,17.7206,20.8462,35,1
+"76840",113067,"col","",19.37,50.15,"Balin",NA,"",7,"Callovian","",166.1,163.5,36718,"gp_mid",35.1,36.34,"305",164.8,"callovian",21482,33.0908,37.6139,35,1
+"76870",113098,"col","",19.53,50.3,"Pomorzany",NA,"",2,"Callovian","",166.1,163.5,36718,"gp_mid",35.18,36.52,"305",164.8,"callovian",21503,33.0908,37.6139,35,1
+"82005",119563,"col","Oxford Clay",-0.24,52.4,"Huntingdonshire marine reptiles",NA,"",1,"Callovian","",166.1,163.5,34515,"gp_mid",19.66,36.21,"315",164.8,"callovian",22874,18.6954,34.7211,35,1
+"82111",119669,"col","Oxford Clay",-0.24,52.57,"Peterborough area, Porter Collection",NA,"",3,"Callovian","",166.1,163.5,14179,"gp_mid",19.63,36.37,"315",164.8,"callovian",22899,18.6954,34.7211,35,1
+"82112",119670,"col","Oxford Clay",-0.26,52.22,"Eynesbury, near St. Neots",NA,"Enysbury, St Neots, Saint Neots",1,"Callovian","",166.1,163.5,14179,"gp_mid",19.67,36.02,"315",164.8,"callovian",22900,18.6954,34.7211,35,1
+"84119",122096,"col","Dealul Zanei",21.85,45.07,"Ponor Quarry, Anina",NA,"",1,"Callovian","",166.1,163.5,38873,"gp_mid",37.23,15.65,"308",164.8,"callovian",23519,36.1455,33.0458,35,1
+"84121",122098,"col","Dealul Zanei",21.85,45.07,"Colonia Ceha Quarry, Anina",NA,"",6,"Callovian","",166.1,163.5,38873,"gp_mid",37.23,15.65,"308",164.8,"callovian",23519,36.1455,33.0458,35,1
+"86247",124924,"col","",17.45,52.1,"Polish lowland (Callovian) ",NA,"",6,"Callovian","",166.1,163.5,40441,"gp_mid",33.04,37.95,"315",164.8,"callovian",24186,31.5593,39.7171,35,1
+"87743",126962,"col","",-132.01,53.25,"GSC loc. 6363",NA,"",2,"Callovian","",166.1,163.5,40842,"gp_mid",-70.16,45.18,"128",164.8,"callovian",24522,-60.0571,39.301,35,1
+"91382",132063,"col","Oxford Clay",-0.37,52.56,"Near Water Newton (near Peterborough)",NA,"",0,"Callovian","",166.1,163.5,42555,"gp_mid",19.54,36.35,"315",164.8,"callovian",25372,18.6954,34.7211,35,1
+"92409",133586,"col","Oxford Clay",-0.52,52.12,"Green End, Kempston, near Bedford",NA,"",1,"Callovian","",166.1,163.5,14155,"gp_mid",19.5,35.9,"315",164.8,"callovian",25619,18.6954,34.7211,35,1
+"92410",133587,"col","Oxford Clay",-0.52,52.07,"Marston Pit, Stewartby",NA,"",1,"Callovian","",166.1,163.5,36273,"gp_mid",19.51,35.86,"315",164.8,"callovian",25620,18.6954,34.7211,35,1
+"92583",133847,"col","",174.82,-37.39,"AU 7440, Opuatia Stream (R13/f037)",NA,"",1,"Callovian","",166.1,163.5,43142,"gp_mid",97.29,-79.17,"806",164.8,"callovian",25676,-156.9673,-82.9262,35,1
+"92586",133850,"col","",174.82,-37.36,"AU 630, Klondyke Rd Quarry (R13/f079)",NA,"",3,"Callovian","",166.1,163.5,43142,"gp_mid",97.42,-79.16,"806",164.8,"callovian",25678,-156.9673,-82.9262,35,1
+"92635",133899,"col","",174.91,-37.5,"AU 276, Maire Stream (R13/f6687)",NA,"",2,"Callovian","",166.1,163.5,43142,"gp_mid",96.8,-79.26,"806",164.8,"callovian",25685,-156.9673,-82.9262,35,1
+"92644",133908,"col","",174.82,-37.36,"GS 10250, Klondyke Road (R13/f6912)",NA,"",1,"Callovian","",166.1,163.5,43142,"gp_mid",97.43,-79.16,"806",164.8,"callovian",25678,-156.9673,-82.9262,35,1
+"92657",133921,"col","",175.02,-37.84,"AU 482, Waitetuna River (R14/f073)",NA,"",3,"Callovian","",166.1,163.5,43142,"gp_mid",95.07,-79.4,"806",164.8,"callovian",25692,-156.9673,-82.9262,35,1
+"92659",133923,"col","",175.02,-37.83,"GS 7571, Waitetuna Road (R14/f8531)",NA,"",1,"Callovian","",166.1,163.5,43142,"gp_mid",95.09,-79.4,"806",164.8,"callovian",25693,-156.9673,-82.9262,35,1
+"92660",133924,"col","",175.02,-37.84,"GS 7572, Waitetuna Road (R14/f8532)",NA,"",2,"Callovian","",166.1,163.5,43142,"gp_mid",95.07,-79.4,"806",164.8,"callovian",25692,-156.9673,-82.9262,35,1
+"92672",133936,"col","",175.02,-37.91,"GS 13304, Harakaretu Stream (R15/f039)",NA,"",2,"Callovian","",166.1,163.5,43142,"gp_mid",94.67,-79.41,"806",164.8,"callovian",25700,-156.9673,-82.9262,35,1
+"92673",133937,"col","",174.78,-38.12,"AU 9187, Oraka Bay (R15/f047)",NA,"",1,"Callovian","",166.1,163.5,43142,"gp_mid",93.39,-79.26,"806",164.8,"callovian",25701,-156.9673,-82.9262,35,1
+"93047",134361,"col","",174.81,-38.53,"AU 9335, upper Awakino Valley (R17/f363)",NA,"",1,"Callovian","",166.1,163.5,43142,"gp_mid",91.21,-79.33,"806",164.8,"callovian",25801,-156.9673,-82.9262,35,1
+"93919",135360,"col","",33.38,30.7,"Gebel Maghara",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",38.54,5.28,"508",164.8,"callovian",17910,33.774,1.0528,35,1
+"93936",135385,"col","",-0.24,47.19,"Le Chalet, at U.S. Army Depot",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.49,31.04,"305",164.8,"callovian",26167,21.0097,30.005,35,1
+"93937",135386,"col","Zohar",34.97,30.94,"Northwest of Hamahtesh Hagadol",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",39.89,4.95,"508",164.8,"callovian",26168,33.774,1.0528,35,1
+"93943",135392,"col","",5.53,45.78,"Vercra, near Marchamp, Ain",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",25.29,30.21,"305",164.8,"callovian",26174,24.8531,28.6834,35,1
+"93944",135393,"col","",5.45,46.28,"Cuvergnat, Aromas (USNM)",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",25.14,30.7,"305",164.8,"callovian",26175,23.7218,30.9828,35,1
+"94040",135524,"col","",34.97,30.94,"Maktesh Hathira (Kurnub or Hagadol)",NA,"",2,"Callovian","",166.1,163.5,43337,"gp_mid",39.9,4.95,"508",164.8,"callovian",26168,33.774,1.0528,35,1
+"94042",135526,"col","",19.39,50.17,"Balin, near Cracow",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",35.1,36.37,"305",164.8,"callovian",26218,33.0908,37.6139,35,1
+"94053",135537,"col","",34.97,30.94,"Maktesh, Kurnub",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",39.9,4.95,"508",164.8,"callovian",26168,33.774,1.0528,35,1
+"94059",135543,"col","",0.33,48.32,"Pizieux, Sarthe",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.76,32.21,"305",164.8,"callovian",26228,21.0097,30.005,35,1
+"94068",135552,"col","",0.18,48.15,"Montbizot, Sarthe",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.68,32.02,"305",164.8,"callovian",26234,21.0097,30.005,35,1
+"94069",135553,"col","",-0.5,46.33,"Deux, Deux-Sèvres",NA,"",1,"Callovian","",166.1,163.5,43337,"gp_mid",20.41,30.17,"305",164.8,"callovian",26235,21.0097,30.005,35,1
+"94121",135606,"col","",111.9,74.95,"Chernokhrebetnaya River, north-eastern Taimyr (Callovian)",NA,"",1,"Callovian","",166.1,163.5,43373,"gp_mid",62.37,77.45,"401",164.8,"callovian",26277,8.9626,79.6594,35,1
+"95261",137185,"col","",-0.5,52.07,"Rookery Pit, London Brick Company, Stewartby",NA,"",6,"Callovian","",166.1,163.5,43855,"gp_mid",19.52,35.86,"315",164.8,"callovian",26609,18.6954,34.7211,35,1
+"97151",139211,"col","",-126.72,54.56,"GSC loc. 87542",NA,"",3,"Callovian","",166.1,163.5,40842,"gp_mid",-56.38,43.15,"127",164.8,"callovian",27096,-49.5019,41.1305,35,1
+"97167",139227,"col","Billhook",-121.91,49.5,"GSC loc. 89433, 89461",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-46.87,37.86,"129",164.8,"callovian",27102,-58.5046,34.1335,35,1
+"97168",139228,"col","Billhook",-121.96,49.52,"GSC loc. 89456, 89457",NA,"",2,"Callovian","",166.1,163.5,40842,"gp_mid",-46.9,37.89,"129",164.8,"callovian",27103,-58.5046,34.1335,35,1
+"97423",139487,"col","",-108.64,48.03,"USGS Mesozoic loc. 10729",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-34.65,35.78,"101",164.8,"callovian",27153,-39.7868,33.4368,35,1
+"97427",139491,"col","",-153.38,59.73,"USGS Mesozoic loc. 11057",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-78.39,58.87,"125",164.8,"callovian",27154,-59.5723,51.8654,35,1
+"97484",139552,"col","Chinitna",-153.38,59.67,"USGS Mesozoic loc. 20726",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-78.5,58.84,"125",164.8,"callovian",27173,-59.5723,51.8654,35,1
+"97513",139582,"col","Chinitna",-153.25,59.7,"USGS Mesozoic loc. 20734",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-78.4,58.8,"125",164.8,"callovian",27180,-59.5723,51.8654,35,1
+"97516",139585,"col","Chinitna",-153.39,59.69,"USGS Mesozoic loc. 20765",NA,"",3,"Callovian","",166.1,163.5,40842,"gp_mid",-78.47,58.86,"125",164.8,"callovian",27181,-59.5723,51.8654,35,1
+"97520",139589,"col","Bowser",-153.35,59.72,"USGS Mesozoic loc. 22550",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-78.4,58.85,"125",164.8,"callovian",27184,-59.5723,51.8654,35,1
+"97665",139742,"col","",-152.59,60.14,"CAS 33378",NA,"",1,"Callovian","",166.1,163.5,40842,"gp_mid",-77.38,58.64,"125",164.8,"callovian",27202,-59.5723,51.8654,35,1
+"97805",139897,"col","Billhook",-121.96,49.53,"Crickmay loc. 21, 22",NA,"",2,"Callovian","",166.1,163.5,40842,"gp_mid",-46.9,37.89,"129",164.8,"callovian",27226,-58.5046,34.1335,35,1
+"98021",140157,"col","",25.61,45.66,"Tichilestilor Valley",NA,"",1,"Callovian","",166.1,163.5,30006,"gp_mid",38.86,13.46,"308",164.8,"callovian",27282,41.5725,35.5888,35,1
+"98436",140699,"col","Oxford Clay",-1.29,51.78,"Summertown, Wolvercote (OUM) (unspecific horizon of the Oxford Clay Formation",NA,"",1,"Callovian","",166.1,163.5,31216,"gp_mid",18.98,35.51,"315",164.8,"callovian",27344,18.6954,34.7211,35,1
+"99349",141861,"col","Oxford Clay",-0.12,52.55,"Whittlesea, near Peterborough",NA,"Whittlesey",2,"Callovian","",166.1,163.5,33960,"gp_mid",19.73,36.36,"315",164.8,"callovian",27458,18.6954,34.7211,35,1
+"99362",141874,"col","Oxford Clay",-0.24,52.57,"Peterborough area, Sharp Collection",NA,"",1,"Callovian","",166.1,163.5,33960,"gp_mid",19.63,36.37,"315",164.8,"callovian",22899,18.6954,34.7211,35,1
+"99966",142567,"col","",-0.62,40.98,"Oliete section, bed 107",NA,"",3,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,"callovian",27554,17.7206,20.8462,35,1
+"99967",142568,"col","",-0.62,40.98,"Oliete section, bed 108 A",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,"callovian",27554,17.7206,20.8462,35,1
+"99968",142569,"col","",-0.62,40.98,"Oliete section, bed 108 B",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,"callovian",27554,17.7206,20.8462,35,1
+"99969",142570,"col","",-0.62,40.98,"Oliete section, bed 108 C",NA,"",1,"Callovian","",166.1,163.5,46294,"gp_mid",20.03,24.88,"304",164.8,"callovian",27554,17.7206,20.8462,35,1
+"100064",142714,"col","",48.85,51.75,"near Saratov (PROXY)",NA,"Khudiakovia calloviensis type",1,"Callovian","",166.1,163.5,46314,"gp_mid",57.38,43.74,"302",164.8,"callovian",27574,52.852,49.9198,35,1
+"104792",148892,"col","Oxford Clay",-0.23,53.54,"Farcet borrow pit (bed 7)",NA,"",2,"Callovian","",166.1,163.5,47746,"gp_mid",19.48,37.33,"315",164.8,"callovian",28209,18.6954,34.7211,35,1
+"105122",149242,"col","Oxford Clay",-0.23,53.54,"Farcet borrow pit (bed 9)",NA,"",1,"Callovian","",166.1,163.5,47746,"gp_mid",19.48,37.33,"315",164.8,"callovian",28209,18.6954,34.7211,35,1
+"105123",149243,"col","Oxford Clay",-0.23,53.54,"Farcet borrow pit (bed 12)",NA,"",1,"Callovian","",166.1,163.5,47746,"gp_mid",19.48,37.33,"315",164.8,"callovian",28209,18.6954,34.7211,35,1
+"109309",154814,"col","",-0.33,49.88,"Bavant, Calvados",NA,"",1,"Callovian","",166.1,163.5,50380,"gp_mid",20.01,33.7,"305",164.8,"callovian",29282,19.9014,32.3182,35,1
+"110967",157586,"col","",11.09,45.63,"Covolo di Camposilvano",NA,"",1,"Callovian","",166.1,163.5,51834,"gp_mid",35.24,22.99,"307",164.8,"callovian",29655,34.0123,19.9165,35,1
+"111162",157922,"col","",18.97,50.41,"Kozlowagora=Kozlowa Gora",NA,"",1,"Callovian","",166.1,163.5,51918,"gp_mid",34.71,36.53,"305",164.8,"callovian",29719,33.0908,37.6139,35,1
+"111254",158150,"col","Vilser Kalk",10.62,47.54,"Legam bei Vils",NA,"",1,"Callovian","",166.1,163.5,51918,"gp_mid",28.96,32.56,"305",164.8,"callovian",29740,11.25,47.5,35,1
+"111555",158646,"col","Chinitna",-152.6,60.18,"USGS Mesozoic 3016, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.32,58.65,"125",164.8,"callovian",29864,-59.5723,51.8654,35,1
+"111556",158648,"col","Chinitna",-152.6,60.18,"USGS Mesozoic 21291, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.32,58.65,"125",164.8,"callovian",29864,-59.5723,51.8654,35,1
+"111557",158649,"col","Chinitna",-152.63,60.17,"USGS Mesozoic 21287, Chisik Island",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-77.34,58.67,"125",164.8,"callovian",29865,-59.5723,51.8654,35,1
+"111558",158650,"col","Chinitna",-152.64,60.17,"USGS Mesozoic 3015, Chisik Island",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-77.35,58.67,"125",164.8,"callovian",29866,-59.5723,51.8654,35,1
+"111559",158651,"col","Chinitna",-152.64,60.17,"USGS Mesozoic 21286, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.35,58.67,"125",164.8,"callovian",29866,-59.5723,51.8654,35,1
+"111560",158652,"col","Chinitna",-152.64,60.17,"USGS Mesozoic 21273, Chisik Island",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-77.35,58.67,"125",164.8,"callovian",29866,-59.5723,51.8654,35,1
+"111561",158653,"col","Chinitna",-152.64,60.17,"USGS Mesozoic 10250, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.36,58.67,"125",164.8,"callovian",29866,-59.5723,51.8654,35,1
+"111562",158656,"col","Chinitna",-152.6,60.12,"USGS Mesozoic 2991, Chisik Island",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-77.42,58.64,"125",164.8,"callovian",29867,-59.5723,51.8654,35,1
+"111563",158657,"col","Chinitna",-152.6,60.12,"USGS Mesozoic 21290, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.42,58.64,"125",164.8,"callovian",29867,-59.5723,51.8654,35,1
+"111564",158658,"col","Chinitna",-152.59,60.12,"USGS Mesozoic 2990, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.42,58.63,"125",164.8,"callovian",29868,-59.5723,51.8654,35,1
+"111565",158659,"col","Chinitna",-152.59,60.12,"USGS Mesozoic 22554, Chisik Island",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.42,58.63,"125",164.8,"callovian",29868,-59.5723,51.8654,35,1
+"111566",158660,"col","Chinitna",-152.72,60.1,"USGS Mesozoic 21288, Bear Creek",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.51,58.68,"125",164.8,"callovian",29869,-59.5723,51.8654,35,1
+"111567",158661,"col","Chinitna",-153.07,59.89,"USGS Mesozoic 21338, Chinitna Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.99,58.78,"125",164.8,"callovian",29870,-59.5723,51.8654,35,1
+"111568",158662,"col","Chinitna",-153.07,59.89,"USGS Mesozoic 21781, Chinitna Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78,58.78,"125",164.8,"callovian",29870,-59.5723,51.8654,35,1
+"111569",158663,"col","Chinitna",-153.07,59.89,"USGS Mesozoic 21337, Chinitna Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78,58.78,"125",164.8,"callovian",29870,-59.5723,51.8654,35,1
+"111570",158664,"col","Chinitna",-153.03,59.89,"USGS Mesozoic 3018, Chinitna Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-77.98,58.76,"125",164.8,"callovian",29871,-59.5723,51.8654,35,1
+"111571",158665,"col","Chinitna",-153.03,59.89,"USGS Mesozoic 3019, Chinitna Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-77.99,58.76,"125",164.8,"callovian",29871,-59.5723,51.8654,35,1
+"111572",158666,"col","Chinitna",-153.03,59.89,"USGS Mesozoic 3020, Chinitna Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-77.99,58.75,"125",164.8,"callovian",29871,-59.5723,51.8654,35,1
+"111573",158667,"col","Chinitna",-153.03,59.89,"USGS Mesozoic 21344, Chinitna Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-77.98,58.76,"125",164.8,"callovian",29871,-59.5723,51.8654,35,1
+"111574",158668,"col","Chinitna",-153.02,59.89,"USGS Mesozoic 21343, Chinitna Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.99,58.75,"125",164.8,"callovian",29872,-59.5723,51.8654,35,1
+"111575",158669,"col","Chinitna",-152.99,59.88,"USGS Mesozoic 21342, Chinitna Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-77.98,58.74,"125",164.8,"callovian",29873,-59.5723,51.8654,35,1
+"111576",158670,"col","Chinitna",-153.03,59.83,"USGS Mesozoic 21774, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.09,58.74,"125",164.8,"callovian",29874,-59.5723,51.8654,35,1
+"111577",158671,"col","Chinitna",-153.03,59.83,"USGS Mesozoic 10978, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.09,58.74,"125",164.8,"callovian",29874,-59.5723,51.8654,35,1
+"111578",158672,"col","Chinitna",-153.03,59.83,"USGS Mesozoic 21777, Iniskin Peninsula",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-78.09,58.74,"125",164.8,"callovian",29874,-59.5723,51.8654,35,1
+"111579",158673,"col","Chinitna",-153.02,59.83,"USGS Mesozoic 21347, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.08,58.74,"125",164.8,"callovian",29875,-59.5723,51.8654,35,1
+"111580",158674,"col","Chinitna",-153.02,59.83,"USGS Mesozoic 21776, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.08,58.74,"125",164.8,"callovian",29875,-59.5723,51.8654,35,1
+"111581",158675,"col","Chinitna",-153.02,59.83,"USGS Mesozoic 21778, Iniskin Peninsula",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-78.08,58.73,"125",164.8,"callovian",29875,-59.5723,51.8654,35,1
+"111582",158676,"col","Chinitna",-153.02,59.83,"USGS Mesozoic 10997, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.08,58.73,"125",164.8,"callovian",29875,-59.5723,51.8654,35,1
+"111583",158677,"col","Chinitna",-153.02,59.83,"USGS Mesozoic 21346, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.08,58.73,"125",164.8,"callovian",29875,-59.5723,51.8654,35,1
+"111584",158678,"col","Chinitna",-153.06,59.82,"USGS Mesozoic 22421, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.13,58.75,"125",164.8,"callovian",29876,-59.5723,51.8654,35,1
+"111585",158682,"col","Chinitna",-153.06,59.81,"USGS Mesozoic 21348, Iniskin Peninsula",NA,"",7,"Callovian","",166.1,163.5,52006,"gp_mid",-78.13,58.75,"125",164.8,"callovian",29877,-59.5723,51.8654,35,1
+"111586",158965,"col","Chinitna",-153.03,59.89,"USGS Mesozoic 21345, Chinitna Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-77.98,58.76,"125",164.8,"callovian",29871,-59.5723,51.8654,35,1
+"111587",158696,"col","Chinitna",-153.06,59.8,"USGS Mesozoic 21340, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.74,"125",164.8,"callovian",29878,-59.5723,51.8654,35,1
+"111588",158691,"col","Chinitna",-153.08,59.81,"USGS Mesozoic 22438, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.75,"125",164.8,"callovian",29879,-59.5723,51.8654,35,1
+"111589",158692,"col","Chinitna",-153.08,59.81,"USGS Mesozoic 22437, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.75,"125",164.8,"callovian",29879,-59.5723,51.8654,35,1
+"111590",158693,"col","Chinitna",-153.07,59.8,"USGS Mesozoic 21341, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.75,"125",164.8,"callovian",29880,-59.5723,51.8654,35,1
+"111592",158697,"col","Chinitna",-153.06,59.8,"USGS Mesozoic 22556, Iniskin Peninsula",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.74,"125",164.8,"callovian",29878,-59.5723,51.8654,35,1
+"111593",158698,"col","Chinitna",-153.06,59.8,"USGS Mesozoic 21339, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.15,58.74,"125",164.8,"callovian",29878,-59.5723,51.8654,35,1
+"111594",158699,"col","Chinitna",-153.26,59.77,"USGS Mesozoic 21322, Iniskin Peninsula",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.83,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"111595",158700,"col","Chinitna",-153.26,59.77,"USGS Mesozoic 21324, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"111596",158701,"col","Chinitna",-153.26,59.77,"USGS Mesozoic 21331, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"111597",158702,"col","Chinitna",-153.26,59.77,"USGS Mesozoic 21321, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"111598",158703,"col","Chinitna",-153.26,59.77,"USGS Mesozoic 21326, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",11249,-59.5723,51.8654,35,1
+"111599",158704,"col","Chinitna",-153.26,59.76,"USGS Mesozoic 21329, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",29881,-59.5723,51.8654,35,1
+"111600",158705,"col","Chinitna",-153.26,59.76,"USGS Mesozoic 21328, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",29881,-59.5723,51.8654,35,1
+"111601",158706,"col","Chinitna",-153.26,59.76,"USGS Mesozoic 21332, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",29881,-59.5723,51.8654,35,1
+"111602",158707,"col","Chinitna",-153.19,59.73,"USGS Mesozoic 22442, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.33,58.78,"125",164.8,"callovian",29882,-59.5723,51.8654,35,1
+"111603",158708,"col","Chinitna",-153.22,59.72,"USGS Mesozoic 11041, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.36,58.79,"125",164.8,"callovian",29883,-59.5723,51.8654,35,1
+"111604",158709,"col","Chinitna",-153.21,59.71,"USGS Mesozoic 10982, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.36,58.78,"125",164.8,"callovian",29884,-59.5723,51.8654,35,1
+"111605",158710,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 21333, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.38,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111606",158711,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 21334, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.38,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111608",158880,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 11047, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.37,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111609",158881,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 10986, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.38,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111610",158882,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 21349, Iniskin Peninsula",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-78.38,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111611",158883,"col","Chinitna",-153.23,59.71,"USGS Mesozoic 20761, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.38,58.79,"125",164.8,"callovian",29885,-59.5723,51.8654,35,1
+"111612",158884,"col","Chinitna",-153.26,59.71,"USGS Mesozoic 20753, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.39,58.8,"125",164.8,"callovian",29886,-59.5723,51.8654,35,1
+"111613",158885,"col","Chinitna",-153.26,59.71,"USGS Mesozoic 20762, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.39,58.8,"125",164.8,"callovian",29886,-59.5723,51.8654,35,1
+"111614",158886,"col","Chinitna",-153.23,59.7,"USGS Mesozoic 11052, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.39,58.79,"125",164.8,"callovian",29887,-59.5723,51.8654,35,1
+"111615",158887,"col","Chinitna",-153.22,59.7,"USGS Mesozoic 11049, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.39,58.78,"125",164.8,"callovian",29888,-59.5723,51.8654,35,1
+"111616",158888,"col","Chinitna",-153.26,59.69,"USGS Mesozoic 22427, Iniskin Peninsula",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-78.42,58.8,"125",164.8,"callovian",29889,-59.5723,51.8654,35,1
+"111617",158889,"col","Chinitna",-153.27,59.69,"USGS Mesozoic 22425, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.43,58.8,"125",164.8,"callovian",29890,-59.5723,51.8654,35,1
+"111618",158890,"col","Chinitna",-153.27,59.69,"USGS Mesozoic 22430, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.43,58.8,"125",164.8,"callovian",29890,-59.5723,51.8654,35,1
+"111619",158891,"col","Chinitna",-153.27,59.68,"USGS Mesozoic 20760, Iniskin Peninsula",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.44,58.8,"125",164.8,"callovian",29891,-59.5723,51.8654,35,1
+"111620",158892,"col","Chinitna",-153.28,59.67,"USGS Mesozoic 11052a, Oil Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.47,58.8,"125",164.8,"callovian",29892,-59.5723,51.8654,35,1
+"111621",158893,"col","Chinitna",-153.28,59.67,"USGS Mesozoic 3042, Oil Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.47,58.8,"125",164.8,"callovian",29892,-59.5723,51.8654,35,1
+"111622",158894,"col","Chinitna",-153.28,59.67,"USGS Mesozoic 20759, Oil Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.47,58.8,"125",164.8,"callovian",29892,-59.5723,51.8654,35,1
+"111623",158895,"col","Chinitna",-153.28,59.67,"USGS Mesozoic 2941, Oil Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.47,58.8,"125",164.8,"callovian",29892,-59.5723,51.8654,35,1
+"111624",158896,"col","Chinitna",-153.32,59.66,"USGS Mesozoic 20757, Oil Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.49,58.81,"125",164.8,"callovian",29893,-59.5723,51.8654,35,1
+"111625",158897,"col","Chinitna",-153.32,59.66,"USGS Mesozoic 22429, Oil Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.49,58.81,"125",164.8,"callovian",29893,-59.5723,51.8654,35,1
+"111626",158898,"col","Chinitna",-153.33,59.66,"USGS Mesozoic 22451, Oil Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.82,"125",164.8,"callovian",29894,-59.5723,51.8654,35,1
+"111627",158899,"col","Chinitna",-153.33,59.66,"USGS Mesozoic 22452, Oil Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.82,"125",164.8,"callovian",29894,-59.5723,51.8654,35,1
+"111628",158900,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 22446, Iniskin Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111629",158901,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 2920, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111630",158902,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 20755, Iniskin Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111631",158903,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 22448, Iniskin Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-78.5,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111632",158904,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 22428, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111633",158905,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 22431, Iniskin Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111634",158906,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 10989, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111635",158907,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 22433, Iniskin Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111636",158908,"col","Chinitna",-153.39,59.67,"USGS Mesozoic 3028, Iniskin Bay",NA,"",11,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29895,-59.5723,51.8654,35,1
+"111637",158909,"col","Chinitna",-153.39,59.66,"USGS Mesozoic 22422, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29896,-59.5723,51.8654,35,1
+"111638",158910,"col","Chinitna",-153.39,59.66,"USGS Mesozoic 22432, Iniskin Bay",NA,"",6,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29896,-59.5723,51.8654,35,1
+"111639",158911,"col","Chinitna",-153.38,59.67,"USGS Mesozoic 22419, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",27173,-59.5723,51.8654,35,1
+"111640",158912,"col","Chinitna",-153.38,59.66,"USGS Mesozoic 22411, Iniskin Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.85,"125",164.8,"callovian",29897,-59.5723,51.8654,35,1
+"111641",158913,"col","Chinitna",-153.38,59.66,"USGS Mesozoic 22415, Mount Pomeroy",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.51,58.84,"125",164.8,"callovian",29897,-59.5723,51.8654,35,1
+"111642",158914,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 22434, Iniskin Bay",NA,"",5,"Callovian","",166.1,163.5,52006,"gp_mid",-78.52,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111643",158915,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 20763, Iniskin Bay",NA,"",9,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111644",158916,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 3029, Iniskin Bay",NA,"",14,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111645",158917,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 10990, Iniskin Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111646",158918,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 10991, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111647",158919,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 10992, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111648",158920,"col","Chinitna",-153.4,59.66,"USGS Mesozoic 2921, Iniskin Bay",NA,"",10,"Callovian","",166.1,163.5,52006,"gp_mid",-78.53,58.85,"125",164.8,"callovian",29898,-59.5723,51.8654,35,1
+"111649",158921,"col","Chinitna",-153.41,59.65,"USGS Mesozoic 22435, Iniskin Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-78.54,58.85,"125",164.8,"callovian",29899,-59.5723,51.8654,35,1
+"111650",158922,"col","Chinitna",-153.41,59.65,"USGS Mesozoic 3030, Iniskin Bay",NA,"",5,"Callovian","",166.1,163.5,52006,"gp_mid",-78.54,58.86,"125",164.8,"callovian",29899,-59.5723,51.8654,35,1
+"111651",158923,"col","Chinitna",-153.41,59.65,"USGS Mesozoic 11060, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.54,58.86,"125",164.8,"callovian",29899,-59.5723,51.8654,35,1
+"111660",158932,"col","Shelikof",-155.73,57.69,"USGS Mesozoic 12385, Oil Creek",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-82.96,59.26,"125",164.8,"callovian",29906,-64.0959,53.6129,35,1
+"111661",158933,"col","Shelikof",-155.68,57.67,"USGS Mesozoic 12387, Puale Bay",NA,"",5,"Callovian","",166.1,163.5,52006,"gp_mid",-82.96,59.23,"125",164.8,"callovian",29907,-64.0959,53.6129,35,1
+"111662",158934,"col","Shelikof",-155.65,57.67,"USGS Mesozoic 3117, Puale Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-82.95,59.22,"125",164.8,"callovian",29908,-64.0959,53.6129,35,1
+"111663",158935,"col","Shelikof",-155.65,57.67,"USGS Mesozoic 10822, Puale Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-82.95,59.22,"125",164.8,"callovian",29908,-64.0959,53.6129,35,1
+"111665",158937,"col","Shelikof",-155.7,57.66,"USGS Mesozoic 3113, Oil Creek",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-83,59.24,"125",164.8,"callovian",29909,-64.0959,53.6129,35,1
+"111666",158938,"col","Shelikof",-155.7,57.65,"USGS Mesozoic 2943, Dry Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.02,59.23,"125",164.8,"callovian",29910,-64.0959,53.6129,35,1
+"111667",158939,"col","Shelikof",-156.02,57.58,"USGS Mesozoic 12380, Kanatak Creek",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.26,59.37,"125",164.8,"callovian",29911,-64.0959,53.6129,35,1
+"111668",158940,"col","Shelikof",-156.22,57.44,"USGS Mesozoic 10803, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.59,59.41,"125",164.8,"callovian",29912,-64.0959,53.6129,35,1
+"111669",158941,"col","Shelikof",-156.36,57.43,"USGS Mesozoic 19902, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.68,59.48,"125",164.8,"callovian",29913,-64.0959,53.6129,35,1
+"111670",158942,"col","Shelikof",-156.37,57.43,"USGS Mesozoic 19911, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.68,59.48,"125",164.8,"callovian",29914,-64.0959,53.6129,35,1
+"111671",158943,"col","Shelikof",-156.45,57.39,"USGS Mesozoic 21357, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.78,59.51,"125",164.8,"callovian",29915,-64.0959,53.6129,35,1
+"111672",158944,"col","Shelikof",-156.45,57.39,"USGS Mesozoic 21356, Wide Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-83.78,59.5,"125",164.8,"callovian",29915,-64.0959,53.6129,35,1
+"111673",158945,"col","Shelikof",-156.44,57.39,"USGS Mesozoic 19744, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.79,59.5,"125",164.8,"callovian",29916,-64.0959,53.6129,35,1
+"111674",158946,"col","Shelikof",-156.44,57.39,"USGS Mesozoic 21355, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.79,59.5,"125",164.8,"callovian",29916,-64.0959,53.6129,35,1
+"111675",158947,"col","Shelikof",-156.49,57.37,"USGS Mesozoic 19781, Wide Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-83.84,59.52,"125",164.8,"callovian",29917,-64.0959,53.6129,35,1
+"111676",158948,"col","Shelikof",-156.5,57.37,"USGS Mesozoic 21360, Wide Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-83.84,59.53,"125",164.8,"callovian",29918,-64.0959,53.6129,35,1
+"111677",158949,"col","Shelikof",-156.49,57.37,"USGS Mesozoic 21359, Wide Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-83.84,59.52,"125",164.8,"callovian",29917,-64.0959,53.6129,35,1
+"111680",158951,"col","Shelikof",-156.49,57.37,"USGS Mesozoic 21358, Wide Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-83.84,59.52,"125",164.8,"callovian",29917,-64.0959,53.6129,35,1
+"111681",158952,"col","Shelikof",-156.61,57.34,"USGS Mesozoic 10813, Wide Bay",NA,"",2,"Callovian","",166.1,163.5,52006,"gp_mid",-83.95,59.57,"125",164.8,"callovian",29921,-64.0959,53.6129,35,1
+"111682",158953,"col","Shelikof",-156.61,57.34,"USGS Mesozoic 10812, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.95,59.57,"125",164.8,"callovian",29921,-64.0959,53.6129,35,1
+"111683",158954,"col","Shelikof",-156.58,57.31,"USGS Mesozoic 19793, Wide Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-83.98,59.54,"125",164.8,"callovian",29922,-64.0959,53.6129,35,1
+"111684",158955,"col","Shelikof",-156.66,57.26,"USGS Mesozoic 12408, Wide Bay",NA,"",3,"Callovian","",166.1,163.5,52006,"gp_mid",-84.11,59.56,"125",164.8,"callovian",29923,-64.0959,53.6129,35,1
+"111685",158956,"col","Shelikof",-156.53,57.27,"USGS Mesozoic 19873, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-84.03,59.5,"125",164.8,"callovian",29924,-64.0959,53.6129,35,1
+"111686",158957,"col","Shelikof",-156.45,57.28,"USGS Mesozoic 19896, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.98,59.46,"125",164.8,"callovian",29925,-64.0959,53.6129,35,1
+"111687",158958,"col","Shelikof",-156.36,57.32,"USGS Mesozoic 21362, Wide Bay",NA,"",4,"Callovian","",166.1,163.5,52006,"gp_mid",-83.88,59.44,"125",164.8,"callovian",29926,-64.0959,53.6129,35,1
+"111688",158959,"col","Chinitna",-153.41,59.65,"USGS Mesozoic 2707, Iniskin Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.54,58.86,"125",164.8,"callovian",29899,-59.5723,51.8654,35,1
+"111689",158960,"col","Shelikof",-156.48,57.35,"USGS Mesozoic 10814, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.88,59.5,"125",164.8,"callovian",29927,-64.0959,53.6129,35,1
+"111690",158961,"col","Shelikof",-156.48,57.35,"USGS Mesozoic 22132, Wide Bay",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-83.88,59.5,"125",164.8,"callovian",29927,-64.0959,53.6129,35,1
+"111714",158992,"col","Chinitna",-153.26,59.76,"USGS Mesozoic 21330, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.29,58.82,"125",164.8,"callovian",29881,-59.5723,51.8654,35,1
+"111715",158993,"col","Chinitna",-153.36,59.71,"USGS Mesozoic 22559, Iniskin Peninsula",NA,"",1,"Callovian","",166.1,163.5,52006,"gp_mid",-78.42,58.85,"125",164.8,"callovian",29930,-59.5723,51.8654,35,1
+"112367",159791,"col","Bihen Limestone",45.12,10.25,"Daghani, Bed 227 (USNM)",NA,"",1,"Callovian","",166.1,163.5,33914,"gp_mid",41.5,-17.02,"709",164.8,"callovian",16204,38.2147,-19.5899,35,1
+"112588",160095,"col","",69.07,23.68,"Jumara (USNM)",NA,"",1,"Callovian","",166.1,163.5,33914,"gp_mid",45.39,-26.68,"501",164.8,"callovian",30213,45.9435,-26.5747,35,1
+"112591",160099,"col","",-22.92,72.35,"Lycett Bjerg, Locality 120",NA,"",2,"Callovian","",166.1,163.5,52244,"gp_mid",19.04,50.07,"102",164.8,"callovian",30214,11.5668,48.5891,35,1
+"112592",160100,"col","",-22.92,72.35,"Lycett Bjerg, Locality 137",NA,"",3,"Callovian","",166.1,163.5,52244,"gp_mid",19.04,50.07,"102",164.8,"callovian",30214,11.5668,48.5891,35,1
+"113688",161482,"col","Bihin Limestone",45.13,10.17,"Bihendula (Bihin Limestone mudstone series)",NA,"",4,"Callovian","",166.1,163.5,52567,"gp_mid",41.49,-17.1,"709",164.8,"callovian",30484,38.2147,-19.5899,35,1
+"113689",161483,"col","Bihin Limestone",45.34,10.15,"Jirbah Hills (Bihin Limestone mudstone series)",NA,"",2,"Callovian","",166.1,163.5,52567,"gp_mid",41.69,-17.17,"709",164.8,"callovian",30485,38.2147,-19.5899,35,1
+"114833",163131,"col","Cornbrash",-1.37,51.83,"Hanborough Railway Station",NA,"",1,"Callovian","",166.1,163.5,53120,"gp_mid",18.9,35.54,"315",164.8,"callovian",30762,18.6954,34.7211,35,1
+"115526",164640,"col","Yakoun",-132.07,53.19,"East side of Maude Island",NA,"",2,"Callovian","",166.1,163.5,53761,"gp_mid",-70.24,45.15,"128",164.8,"callovian",30907,-60.0571,39.301,35,1
+"117109",167260,"col","Twin Creek Limestone",-111.29,43.7,"USGS Mesozoic Loc. 28584 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.29,32.17,"101",164.8,"callovian",31419,-44.6263,29.5636,35,1
+"117110",167261,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28587 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,"callovian",31420,-44.6263,29.5636,35,1
+"117111",167262,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28588 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,"callovian",31420,-44.6263,29.5636,35,1
+"117115",167276,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28589 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,"callovian",31420,-44.6263,29.5636,35,1
+"117116",167277,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28590 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,"callovian",31420,-44.6263,29.5636,35,1
+"117117",167278,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28591 - Twin Creek Limestone",NA,"",6,"Callovian","",166.1,163.5,54548,"gp_mid",-38.3,32.09,"101",164.8,"callovian",31420,-44.6263,29.5636,35,1
+"117118",167279,"col","Twin Creek Limestone",-111.3,43.27,"USGS Mesozoic Loc. 17982 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.45,31.76,"101",164.8,"callovian",31422,-44.6263,29.5636,35,1
+"117119",167280,"col","Twin Creek Limestone",-111.11,43.18,"USGS Mesozoic Loc. 18182 - Twin Creek Limestone",NA,"",7,"Callovian","",166.1,163.5,54548,"gp_mid",-38.32,31.63,"101",164.8,"callovian",31423,-44.6263,29.5636,35,1
+"117120",167281,"col","Twin Creek Limestone",-111.14,42.35,"USGS Mesozoic Loc. 6359 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.62,30.85,"101",164.8,"callovian",31424,-44.6263,29.5636,35,1
+"117121",167282,"col","Twin Creek Limestone",-111.13,42.35,"USGS Mesozoic Loc. 6360 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.62,30.84,"101",164.8,"callovian",31425,-44.6263,29.5636,35,1
+"117122",167283,"col","Twin Creek Limestone",-110.59,43.34,"USGS Mesozoic Loc. 3831 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.84,31.68,"101",164.8,"callovian",31426,-41.6233,28.6905,35,1
+"117123",167284,"col","Twin Creek Limestone",-110.78,43.25,"USGS Mesozoic Loc. 27727 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,"callovian",31427,-44.6263,29.5636,35,1
+"117124",167285,"col","Twin Creek Limestone",-110.78,43.25,"USGS Mesozoic Loc. 27728 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,"callovian",31427,-44.6263,29.5636,35,1
+"117125",167286,"col","Twin Creek Limestone",-110.78,43.25,"USGS Mesozoic Loc. 28862 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.03,31.63,"101",164.8,"callovian",31427,-44.6263,29.5636,35,1
+"117126",167287,"col","Twin Creek Limestone",-110.65,43.22,"USGS Mesozoic Loc. 3830 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-37.93,31.57,"101",164.8,"callovian",31428,-44.6263,29.5636,35,1
+"117127",167288,"col","Twin Creek Limestone",-110.64,43.22,"USGS Mesozoic Loc. 3834 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.92,31.57,"101",164.8,"callovian",31429,-44.6263,29.5636,35,1
+"117128",167289,"col","Twin Creek Limestone",-110.58,43.14,"USGS Mesozoic Loc. 3808 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.9,31.48,"101",164.8,"callovian",31430,-41.6233,28.6905,35,1
+"117129",167290,"col","Twin Creek Limestone",-110.57,42.98,"USGS Mesozoic Loc. 16031 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-37.94,31.33,"101",164.8,"callovian",31431,-41.6233,28.6905,35,1
+"117130",167291,"col","Twin Creek Limestone",-110.5,42.91,"USGS Mesozoic Loc. 3839 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-37.91,31.25,"101",164.8,"callovian",31432,-41.6233,28.6905,35,1
+"117131",167292,"col","Twin Creek Limestone",-110.89,42.61,"USGS Mesozoic Loc. 12016 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.33,31.04,"101",164.8,"callovian",31433,-44.6263,29.5636,35,1
+"117132",167293,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 17319 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.05,30.86,"101",164.8,"callovian",31434,-41.6233,28.6905,35,1
+"117133",167294,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 20960 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.05,30.86,"101",164.8,"callovian",31434,-41.6233,28.6905,35,1
+"117151",167318,"col","Twin Creek Limestone",-110.57,42.44,"USGS Mesozoic Loc. 17294 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.12,30.81,"101",164.8,"callovian",31440,-41.6233,28.6905,35,1
+"117152",167319,"col","Twin Creek Limestone",-110.51,42.33,"USGS Mesozoic Loc. 20983 - Twin Creek Limestone",NA,"",7,"Callovian","",166.1,163.5,54548,"gp_mid",-38.11,30.69,"101",164.8,"callovian",31441,-41.6233,28.6905,35,1
+"117153",167320,"col","Twin Creek Limestone",-110.84,42.17,"USGS Mesozoic Loc. 20347 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,"callovian",31442,-44.6263,29.5636,35,1
+"117154",167321,"col","Twin Creek Limestone",-110.84,42.17,"USGS Mesozoic Loc. 20348 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,"callovian",31442,-44.6263,29.5636,35,1
+"117155",167322,"col","Twin Creek Limestone",-110.84,42.17,"USGS Mesozoic Loc. 28481 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,"callovian",31442,-44.6263,29.5636,35,1
+"117156",167323,"col","Twin Creek Limestone",-110.86,41.94,"USGS Mesozoic Loc. 20991 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.53,30.39,"101",164.8,"callovian",31443,-44.6263,29.5636,35,1
+"117157",167324,"col","Twin Creek Limestone",-111.54,41.07,"USGS Mesozoic Loc. 2906 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.38,29.7,"101",164.8,"callovian",31444,-45.5384,27.1959,35,1
+"117158",167325,"col","Twin Creek Limestone",-111.54,41.06,"USGS Mesozoic Loc. 28643 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-39.37,29.69,"101",164.8,"callovian",31445,-45.5384,27.1959,35,1
+"117159",167326,"col","Twin Creek Limestone",-111.39,40.07,"USGS Mesozoic Loc. 17683 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.57,28.71,"101",164.8,"callovian",31446,-45.5384,27.1959,35,1
+"117160",167327,"col","Twin Creek Limestone",-111.5,40,"USGS Mesozoic Loc. 17064 - Twin Creek Limestone",NA,"",5,"Callovian","",166.1,163.5,54548,"gp_mid",-39.69,28.66,"101",164.8,"callovian",31447,-45.5384,27.1959,35,1
+"117161",167328,"col","Twin Creek Limestone",-111.06,42.72,"USGS Mesozoic Loc. 9309 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.43,31.18,"101",164.8,"callovian",31448,-44.6263,29.5636,35,1
+"117162",167329,"col","Twin Creek Limestone",-111.16,42.54,"USGS Mesozoic Loc. 9315 - Twin Creek Limestone",NA,"",2,"Callovian","",166.1,163.5,54548,"gp_mid",-38.58,31.02,"101",164.8,"callovian",31449,-44.6263,29.5636,35,1
+"117163",167330,"col","Twin Creek Limestone",-111.02,42.67,"USGS Mesozoic Loc. 12034 - Twin Creek Limestone",NA,"",3,"Callovian","",166.1,163.5,54548,"gp_mid",-38.42,31.12,"101",164.8,"callovian",31450,-44.6263,29.5636,35,1
+"117164",167331,"col","Twin Creek Limestone",-110.85,42.17,"USGS Mesozoic Loc. 20346 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-38.44,30.6,"101",164.8,"callovian",31451,-44.6263,29.5636,35,1
+"117165",167332,"col","Twin Creek Limestone",-111.39,40.06,"USGS Mesozoic Loc. 17678 - Twin Creek Limestone",NA,"",1,"Callovian","",166.1,163.5,54548,"gp_mid",-39.57,28.7,"101",164.8,"callovian",31452,-45.5384,27.1959,35,1
+"117852",168700,"col","",4.79,46.32,"Les Perserons",NA,"",5,"Callovian","",166.1,163.5,53744,"gp_mid",24.61,30.67,"305",164.8,"callovian",31594,23.7218,30.9828,35,1
+"118094",169186,"col","Kef El Hassine",9.7,35.1,"KEK.38, Khechem El Kelb, Jebel Sidi Khalif",NA,"",1,"Callovian","",166.1,163.5,55260,"gp_mid",22.9,18.24,"714",164.8,"callovian",31626,17.8714,15.0231,35,1
+"119673",171238,"col","",33.25,30.63,"Gebel Aroussieh (Callovian)",NA,"",6,"Callovian","",166.1,163.5,36012,"gp_mid",38.41,5.26,"508",164.8,"callovian",31860,33.774,1.0528,35,1
+"120615",172983,"col","",-110.53,43.64,"Unit 17, Lower Slide Lake",NA,"",2,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,"callovian",32060,-41.6233,28.6905,35,1
+"120616",172984,"col","",-110.53,43.64,"Unit 19, Lower Slide Lake",NA,"",8,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,"callovian",32060,-41.6233,28.6905,35,1
+"120617",172985,"col","",-110.53,43.64,"Unit 20, Lower Slide Lake",NA,"",2,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,"callovian",32060,-41.6233,28.6905,35,1
+"120618",172986,"col","",-110.53,43.64,"Unit 22, Lower Slide Lake",NA,"",6,"Callovian","",166.1,163.5,56245,"gp_mid",-41.56,33.39,"127",164.8,"callovian",32060,-41.6233,28.6905,35,1
+"123361",177723,"col","",-0.15,47.13,"Montreuil-Bellay",NA,"",1,"Callovian","",166.1,163.5,31413,"gp_mid",20.57,30.99,"305",164.8,"callovian",32664,21.0097,30.005,35,1
+"126716",182912,"col","Lower Oxford Clay",-1.74,51.7,"Coln Quarry, Lechlade",NA,"",2,"Callovian","",166.1,163.5,61021,"gp_mid",18.65,35.39,"315",164.8,"callovian",33533,18.6954,34.7211,35,1
+"128815",186252,"col","Lower Oxford Clay",-0.52,52.07,"Stewartby quarry, Stewartby Brickworks",NA,"",0,"Callovian","",166.1,163.5,62465,"gp_mid",19.51,35.85,"315",164.8,"callovian",25620,18.6954,34.7211,35,1
+"132226",192819,"col","Logtown Ridge",-120.89,38.53,"USGS Mesozoic Loc. 22175",NA,"",1,"Callovian","",166.1,163.5,65453,"gp_mid",-49.28,27.06,"130",164.8,"callovian",34789,-52.3148,26.5939,35,1
+"133755",196494,"col","",45.58,40.85,"Chinari, Shamshadinsky region",NA,"",3,"Callovian","",166.1,163.5,66822,"gp_mid",59.59,32.75,"511",164.8,"callovian",35140,63.3775,20.9916,35,1
+"135467",199916,"col","Oxford Clay",-0.24,52.55,"London Road (Woodston/Fletton pit)",NA,"",2,"Callovian","",166.1,163.5,67988,"gp_mid",19.64,36.36,"315",164.8,"callovian",35531,18.6954,34.7211,35,1
+"143357",212005,"col","Agardhfjellet",13.91,78.1,"Fossilniveau 2",NA,"",2,"Callovian","",166.1,163.5,73254,"gp_mid",18.45,62.39,"309",164.8,"callovian",37629,6.3459,59.0195,35,1
+"143359",212007,"col","Agardhfjellet",13.91,78.1,"Fossilniveau 3",NA,"",7,"Callovian","",166.1,163.5,73254,"gp_mid",18.45,62.39,"309",164.8,"callovian",37629,6.3459,59.0195,35,1
+"143724",212494,"col","Janusfjellet",18.69,78.06,"Agardhbukta, Myklegardfjellet SW, 80m",NA,"",1,"Callovian","",166.1,163.5,73410,"gp_mid",20.45,62.75,"311",164.8,"callovian",37712,7.4364,59.6101,35,1
+"143900",212797,"col","Agardfjellet",15.01,77.62,"Van Keulenfjorden, Callovian",NA,"",4,"Callovian","",166.1,163.5,73480,"gp_mid",19.29,62.04,"309",164.8,"callovian",37766,6.3459,59.0195,35,1
+"144005",212943,"col","",16.56,78.29,"Sassenfjorden, Mountain side",NA,"",5,"Callovian","",166.1,163.5,73524,"gp_mid",19.37,62.78,"309",164.8,"callovian",37802,6.3459,59.0195,35,1
+"144036",212974,"col","Agardfjellet",13.9,78.1,"Festningen, Cliff exposure",NA,"",5,"Callovian","",166.1,163.5,73524,"gp_mid",18.44,62.39,"309",164.8,"callovian",37813,6.3459,59.0195,35,1

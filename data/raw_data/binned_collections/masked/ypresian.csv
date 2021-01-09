@@ -1,311 +1,757 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"3673",8677,"col","Shekhan",71.389999,33.48,"Fossil Bed F.2104, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,1
-"5019",13187,"col","Nanjemoy",-76.486115,37.540558,"Woodstock",NA,"",2,"Ypresian","",56,47.8,4382,"gp_mid",-51.1,38.37,"109",51.9,1
-"6654",15595,"col","Nanjemoy",-77.400002,38.299999,"Fisher/Sullivan Site",NA,"",123,"Wasatchian","",55.8,50.3,2961,"gp_mid",-51.06,39.32,"109",53.05,1
-"11321",21244,"col","Oldhaven",0.083333,50.783333,"Oldhaven Beds",NA,"Bishopstone, Upnor",17,"Ypresian","",56,47.8,6504,"gp_mid",7.56,41.99,"315",51.9,1
-"11323",21246,"col","London Clay",-2.266667,51.783333,"London Clay Basement Beds - Harefield",NA,"",7,"Ypresian","",56,47.8,6504,"gp_mid",5.7,43.12,"315",51.9,1
-"12222",22809,"col","London Clay",-3.466667,50.633331,"The London Clay Flora - Kenton",NA,"",1,"Ypresian","",56,47.8,6528,"gp_mid",4.53,42.05,"315",51.9,1
-"14563",28546,"col","",3.716667,48.716667,"Sézanne",NA,"Sezanne; Sézanne-Broyes",10,"Ypresian","",56,47.8,7882,"gp_mid",10.45,39.76,"305",51.9,1
-"14952",29080,"col","Mirador",-72.616669,7.7,"Regadera UFP 53, Catatumbo, Colombia",NA,"",26,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.16,6.18,"203",52.2,1
-"15010",29142,"col","Mirador",-72.616669,7.7,"Regadera UFP 56, Catatumbo area, Colombia",NA,"",20,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.16,6.18,"203",52.2,1
-"15011",29143,"col","Mirador",-72.616669,7.7,"Regadera UFP 57, Catatumbo area, Colombia",NA,"",23,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.16,6.18,"203",52.2,1
-"15012",29144,"col","Mirador",-72.616669,7.7,"Regadera UFP 58, Catatumbo area, Colombia",NA,"",13,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.16,6.18,"203",52.2,1
-"15013",29145,"col","La Paz",-73.333336,7.333333,"Uribe UFP 74, Magdalena Valley, Colombia",NA,"",8,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.91,5.89,"203",52.2,1
-"15015",29147,"col","La Paz",-73.333336,7.333333,"Uribe UFP 75, Magdalena Valley, Colombia",NA,"",1,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.91,5.89,"203",52.2,1
-"15019",29151,"col","La Paz",-73.333336,7.333333,"Uribe UFP 76, Magdalena Valley, Colombia",NA,"",20,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.91,5.89,"203",52.2,1
-"15021",29153,"col","La Paz",-73.333336,7.333333,"Uribe UFP 79, Magdalena Valley, Colombia",NA,"",8,"Early Eocene","",55.8,48.6,7828,"gp_mid",-55.91,5.89,"203",52.2,1
-"16973",31160,"col","Subathu",77.01667,30.966667,"Subathu locality A mammal",NA,"",3,"Early Eocene","",55.8,48.6,8384,"gp_mid",76.8,1.44,"501",52.2,1
-"17047",31267,"col","Subathu",76.98333,30.983334,"Muddy Boots Locality",NA,"GBLH, MBL",27,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,1
-"17048",31268,"col","Subathu",76.98333,30.983334,"Water Mill",NA,"GSLH, WML",1,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,1
-"17049",31269,"col","Subathu",76.98333,30.983334,"Kuthar Bridge",NA,"OBLH, KBL",3,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,1
-"17081",31301,"col","Subathu",75.5,32.5,"Sair West OBL",NA,"OBLH, SWL",2,"Ypresian","",56,47.8,8420,"gp_mid",75.98,3.27,"501",51.9,1
-"17082",31302,"col","Subathu",75.5,32.5,"East Babbian Gala OBLH",NA,"OBLH, EBGL",2,"Ypresian","",56,47.8,8420,"gp_mid",75.98,3.27,"501",51.9,1
-"17083",31303,"col","Subathu",74.375,33.241669,"Sindkhatuti Oyster Bed",NA,"OBLH, SKL; Sindkhatudi",2,"Ypresian","",56,47.8,8420,"gp_mid",75.28,4.25,"501",51.9,1
-"20345",35132,"col","",-6.63106,32.864765,"Sidi Daoui",NA,"Phosphates Ypresiens ",7,"Ypresian","",56,47.8,9459,"gp_mid",0,23.23,"707",51.9,1
-"20644",35533,"col","Lignites de Soissonais",4,49.049999,"UCMP V6167, Mutigny quarry",NA,"",47,"Ypresian","",56,47.8,9599,"gp_mid",10.73,40.08,"315",51.9,1
-"20645",35535,"col","Lignites de Soissonais",4.0333,49.083302,"UCMP V6168, Avenay quarry",NA,"Avenay-Val-d’Or",44,"Ypresian","",56,47.8,9599,"gp_mid",10.76,40.11,"315",51.9,1
-"20646",35537,"col","Lignites de Soissonais",3.9167,49.150002,"Carrière de Pourcy",NA,"Pourcy quarry",13,"Ypresian","",56,47.8,9599,"gp_mid",10.66,40.18,"315",51.9,1
-"20647",35538,"col","Lignites de Soissonais",5.75,43.616699,"Rians",NA,"",36,"Early Eocene","",55.8,48.6,9599,"gp_mid",11.82,34.58,"305",52.2,1
-"20648",35539,"col","",3.9667,48.966702,"Carrière ""Grauves""",NA,"Grauves quarry, Cuis",23,"Ypresian","",56,47.8,9599,"gp_mid",10.69,40,"315",51.9,1
-"20649",35540,"col","",3.9667,49,"Carrière de Cuis",NA,"Cuis quarry",18,"Ypresian","",56,47.8,9599,"gp_mid",10.69,40.03,"315",51.9,1
-"25177",41902,"col","Dungul",23.433332,31.616667,"Garra-Dungul (Dungul Formation), Egypt -Tawadros (2001)",NA,"Dungul Formation, Garra-Dungul",7,"Ypresian","",56,47.8,11199,"gp_mid",26.35,17.31,"715",51.9,1
-"25657",42459,"col","Umm al-Rua’us",50.114166,26.425833,"Umm al-Rua’us Formation, Saudi Arabia - Abbass (1972)",NA,"",71,"Ypresian","",56,47.8,11298,"gp_mid",48.11,7.57,"503",51.9,1
-"25959",42873,"col","",74.76667,34.183334,"Unit 11, Bund Vera (Ranikot Series), India - Nuttall (1932)",NA,"",14,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25965",42879,"col","",74.76667,34.183334,"Unit 2, Bund Vera (Ranikot Series), India - Nuttall (1932)",NA,"",6,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25966",42880,"col","",74.76667,34.183334,"Unit 4, Bund Vera (Ranikot Series), India - Nuttall (1932)",NA,"",3,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25967",42881,"col","",74.76667,34.183334,"Unit 6, Bund Vera (Ranikot Series), India - Nuttall (1932)",NA,"",1,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25968",42882,"col","",74.76667,34.183334,"Unit 9, Bund Vera (Ranikot Series), India - Nuttall (1932)",NA,"",2,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25969",42883,"col","",74.76667,34.183334,"Unit 8, Jerruck (Ranikot Series), India - Nuttall (1932)",NA,"",16,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"25972",42885,"col","",74.76667,34.183334,"Unit 5 Jerruck (Ranikot Series), India - Nuttall (1932)",NA,"",3,"Early Eocene","",55.8,48.6,11382,"gp_mid",75.87,5.06,"501",52.2,1
-"28199",45584,"col","Subathu",76.976669,30.981667,"Kuthar Nala",NA,"Subathu Formation type locality",2,"Ypresian","",56,47.8,11985,"gp_mid",76.77,1.47,"501",51.9,1
-"28203",45588,"col","Subathu",74.483002,33.208,"Babbian Gala East",NA,"",7,"Ypresian","",56,47.8,12021,"gp_mid",75.36,4.19,"501",51.9,1
-"28405",45802,"col","",11.28,54.434444,"Katharinenhof",NA,"",2,"Early Eocene","",55.8,48.6,12298,"gp_mid",17.25,45.2,"315",52.2,1
-"31275",49051,"col","",69,41.716667,"Zhylga 1b",NA,"Dzhylga",4,"Ypresian","",56,47.8,12996,"gp_mid",67.85,34.96,"402",51.9,1
-"31325",49136,"col","Bukhara",70.633331,40.116669,"Isfara River",NA,"",1,"Ypresian","",56,47.8,12996,"gp_mid",69.61,33.56,"402",51.9,1
-"33431",51856,"col","Mami Khel",71.138885,33.250557,"Barbora Banda I",NA,"HGSP 300; Banda Daud Shah fauna",7,"Early Eocene","",55.8,48.6,13803,"gp_mid",72.7,5.08,"501",52.2,1
-"35744",55249,"col","",-7.1,32.516666,"Djemaïa",NA,"",1,"Ypresian","",56,47.8,14719,"gp_mid",-0.5,22.99,"707",51.9,1
-"35745",55250,"col","",-6.906667,32.889999,"Bou Jniba- Khouribga",NA,"",2,"Ypresian","",56,47.8,14719,"gp_mid",-0.23,23.31,"707",51.9,1
-"39000",59088,"col","",152,-26,"Tingamarra Local Fauna - Boat Mountain deposit",NA,"Murgon; Main quarry, Tingamarra Station",18,"Ypresian","",56,47.8,19345,"gp_mid",163.51,-44.25,"801",51.9,1
-"40442",60768,"col","Nanjemoy",-77.191391,37.666389,"Pamunkey River - old Newcastle Bridge",NA,"USGS Locality 26405",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.74,38.65,"109",52.2,1
-"40520",60846,"col","Nanjemoy",-77.182503,37.672501,"Pamunkey River - 0.85 below the Rte. 360 bridge",NA,"USGS Locality 26404",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.72,38.66,"109",52.2,1
-"40523",60849,"col","Nanjemoy",-77.195274,37.642223,"Pamunkey River - northeast of Farmers Shop Corner",NA,"USGS Locality 26393",2,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.75,38.63,"109",52.2,1
-"40533",60859,"col","Nanjemoy",-77.246666,37.697498,"Pamunkey River - at Hanovertown",NA,"USGS Locality 26380",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.78,38.7,"109",52.2,1
-"40534",60860,"col","Nanjemoy",-77.228615,37.716667,"Pamunkey River - at Dabneys Millpond",NA,"USGS Locality 26379",2,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.75,38.71,"109",52.2,1
-"40535",60861,"col","Nanjemoy",-77.228615,37.716667,"Pamunkey River - above Dabneys Millpond",NA,"USGS Locality 26378",2,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.75,38.71,"109",52.2,1
-"40536",60862,"col","Nanjemoy",-77.246666,37.697498,"Pamunkey River - below Hanovertown",NA,"USGS Locality 26377",2,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.78,38.7,"109",52.2,1
-"40538",60864,"col","Nanjemoy",-77.34861,37.934444,"Mattaponi River - east of Rts. 601 & 663 intersection",NA,"USGS Locality 26376",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.79,38.95,"109",52.2,1
-"40539",60865,"col","Nanjemoy",-77.34861,37.934444,"Mattaponi River - northeast of Rts. 601 and 663 intersection",NA,"USGS Locality 26375",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.79,38.95,"109",52.2,1
-"40540",60866,"col","Nanjemoy",-77.301109,37.906387,"Mattaponi River - east of Reedy Mill",NA,"USGS Locality 26374",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.75,38.91,"109",52.2,1
-"40545",60871,"col","Nanjemoy",-77.33139,37.768055,"Pamunkey River - 0.65 mile above Normans Bridge",NA,"USGS Locality 26367",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.83,38.78,"109",52.2,1
-"40565",60906,"col","Nanjemoy",-76.84417,38.02639,"Potomac River - 1.7 miles southeast of Windmill Point",NA,"USGS Locality 26363",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.26,38.92,"109",52.2,1
-"45578",68174,"col","Argiles d'lignite du Soissonnais",2.65,49.349998,"Le Quesnoy (QNY2)",NA,"",85,"Ypresian","",56,47.8,19606,"gp_mid",9.6,40.44,"315",51.9,1
-"45802",68440,"col","",3.413889,49.540279,"Prémontré",NA,"Anizy-Le-Château",62,"MP 10","",55.8,48.6,47934,"gp_mid",10.27,40.59,"315",52.2,1
-"48335",71984,"col","",1.256944,33.099724,"El Kohol",NA,"Brezina",24,"Ypresian","",56,47.8,43794,"gp_mid",7.04,21.95,"714",51.9,1
-"48871",73387,"col","",3.933333,48.983334,"Monthelon",NA,"",11,"Ypresian","",56,47.8,24638,"gp_mid",10.66,40.01,"315",51.9,1
-"50242",75473,"col","",13.883333,45.866669,"Vipava Valley",NA,"Reef 3635",11,"Early Eocene","",55.8,48.6,25467,"gp_mid",20.71,32.78,"307",52.2,1
-"50295",75597,"col","Yoncali",34.5,39.483334,"Cankiri Decapods",NA,"",1,"Early Eocene","",55.8,48.6,25529,"gp_mid",37.22,29.53,"504",52.2,1
-"50872",76990,"col","",-5.581111,31.538889,"Tinerhir, bryozoan-corallinacean mud mound",NA,"Reef 831",10,"Ypresian","",56,47.8,26046,"gp_mid",0.59,21.73,"714",51.9,1
-"50873",76991,"col","",-5.581111,31.538889,"Tinerhir, oyster boundstone",NA,"Reef 832",4,"Ypresian","",56,47.8,26046,"gp_mid",0.59,21.73,"714",51.9,1
-"50954",77111,"col","Jdeir",12.583333,33.916668,"Gabes-Tripoli Basin, Nummulites Bank, offshore Libya",NA,"",16,"Ypresian","",56,47.8,26107,"gp_mid",17.16,20.92,"715",51.9,1
-"50960",77117,"col","",-7.1,31.299999,"Western High Atlas, oyster biostromes",NA,"Reef 826",3,"Ypresian","",56,47.8,26109,"gp_mid",-0.82,21.81,"714",51.9,1
-"51157",77391,"col","",13.866667,45.849998,"Uhanje, Trstelj",NA,"Reef 3637",5,"Ypresian","",56,47.8,26198,"gp_mid",20.69,32.77,"307",51.9,1
-"51413",78009,"col","",18.666668,47.716667,"Tokod, Dorog Basin, brackish water fauna",NA,"",17,"Early Eocene","",55.8,48.6,26319,"gp_mid",25.18,32.9,"308",52.2,1
-"51414",78013,"col","",18.666668,47.716667,"Tokod, Dorog Basin, Operculina Beds",NA,"",13,"Early Eocene","",55.8,48.6,26319,"gp_mid",25.18,32.9,"308",52.2,1
-"52294",79320,"col","",13.95,45.599998,"Hrpelje-Kozina",NA,"",1,"Ypresian","",56,47.8,26586,"gp_mid",20.61,32.52,"307",51.9,1
-"52918",80764,"col","Hatchetigbee Bluff",-86.699997,31.533333,"ABu-3 Hatchetigbee",NA,"",28,"Ypresian","",56,47.8,124,"gp_mid",-63.25,34.94,"109",51.9,1
-"52929",80785,"col","Hatchetigbee",-86.094002,31.364,"Pea River at Elba Dam (ACof-1)",NA,"",38,"Ypresian","",56,47.8,124,"gp_mid",-62.7,34.64,"109",51.9,1
-"52930",80786,"col","Hatchetigbee Bluff",-85.633331,31.450001,"ADa-1 Hatchetigbee",NA,"",6,"Ypresian","",56,47.8,124,"gp_mid",-62.21,34.61,"109",51.9,1
-"52931",80787,"col","Hatchetigbee Bluff",-85.133331,31.4,"AHe-5 Hatchetigbee",NA,"",7,"Ypresian","",56,47.8,124,"gp_mid",-61.73,34.45,"109",51.9,1
-"52933",80789,"col","Hatchetigbee Bluff",-85.133331,31.4,"GEa-1 Hatchetigbee",NA,"",6,"Ypresian","",56,47.8,124,"gp_mid",-61.73,34.45,"109",51.9,1
-"53050",81058,"col","Chiampo Marble",11.283333,45.549999,"Middle Chiampo Valley [lower Chiampo Marble]",NA,"",4,"Ypresian","",56,47.8,27275,"gp_mid",18.62,33.36,"307",51.9,1
-"54570",83313,"col","",-6.566667,32.866669,"Mrah Iaresh",NA,"Merra El Arech",4,"Ypresian","",56,47.8,27976,"gp_mid",0.06,23.22,"707",51.9,1
-"55781",84997,"col","",3.55,49,"Condé-en-Brie",NA,"",35,"MP 8 + 9","",55.8,48.6,28522,"gp_mid",10.34,40.05,"315",52.2,1
-"57821",87890,"col","",-6.575,32.866669,"Grand Daoui area, Ypresian",NA,"",2,"Ypresian","",56,47.8,46465,"gp_mid",0.05,23.22,"707",51.9,1
-"57869",87958,"col","",4.033333,49.25,"Platychoerops daubrei type locality",NA,"",1,"Ypresian","",56,47.8,1635,"gp_mid",10.77,40.28,"315",51.9,1
-"57871",87961,"col","Mami Khel",71.283333,33.333332,"Jatta Salt Mine",NA,"H-GSP Locality 9712",3,"Early Eocene","",55.8,48.6,11799,"gp_mid",72.84,5.12,"501",52.2,1
-"57873",87964,"col","Mami Khel",71.099998,33.116669,"Karak",NA,"H-GSP Locality 9710",2,"Early Eocene","",55.8,48.6,11799,"gp_mid",72.62,4.96,"501",52.2,1
-"59192",89946,"col","Hatchetigbee Bluff",-86.083336,31.35,"ACof Bashi",NA,"ACof-1 of Toulmin, 1977",32,"Ypresian","",56,47.8,29915,"gp_mid",-62.69,34.62,"109",51.9,1
-"59288",90143,"col","Hatchetigbee Bluff",-86,31.316668,"Wise Rep 1",NA,"",20,"Ypresian","",56,47.8,29915,"gp_mid",-62.62,34.57,"109",51.9,1
-"59289",90144,"col","Hatchetigbee Bluff",-86,31.316668,"Wise Rep 2",NA,"",19,"Ypresian","",56,47.8,29915,"gp_mid",-62.62,34.57,"109",51.9,1
-"59290",90145,"col","Hatchetigbee Bluff",-86,31.316668,"Wise Rep 3",NA,"",20,"Ypresian","",56,47.8,29915,"gp_mid",-62.62,34.57,"109",51.9,1
-"59291",90146,"col","Hatchetigbee Bluff",-85.633331,31.450001,"Overpass Rep 1",NA,"Locality ADa-1 of Toulmin, 1977",12,"Ypresian","",56,47.8,29915,"gp_mid",-62.21,34.61,"109",51.9,1
-"59292",90147,"col","Hatchetigbee Bluff",-85.633331,31.450001,"Overpass Rep 2",NA,"Locality ADa-1 of Toulmin, 1977",12,"Ypresian","",56,47.8,29915,"gp_mid",-62.21,34.61,"109",51.9,1
-"59293",90148,"col","Hatchetigbee Bluff",-85.633331,31.450001,"Overpass Rep 3",NA,"Locality ADa-1 of Toulmin, 1977",10,"Ypresian","",56,47.8,29915,"gp_mid",-62.21,34.61,"109",51.9,1
-"59506",90473,"col","Nanjemoy",-77.166664,37.650002,"PRI  843",NA,"",14,"Early Eocene","",55.8,48.6,11845,"gp_mid",-51.72,38.63,"109",52.2,1
-"59889",91121,"col","Nanjemoy",-77.276947,37.317501,"PRI 2290",NA,"",3,"Early Eocene","",55.8,48.6,11845,"gp_mid",-51.95,38.34,"109",52.2,1
-"59891",91123,"col","Nanjemoy",-77.236061,37.29464,"PRI 1267",NA,"Evergreen Plantation",5,"Ypresian","",56,47.8,28099,"gp_mid",-51.92,38.31,"109",51.9,1
-"60022",91312,"col","Subathu",78.607224,29.807777,"Dogadda",NA,"Dugadda",2,"Ypresian","",56,47.8,30703,"gp_mid",77.82,-0.03,"501",51.9,1
-"60071",91361,"col","Sables de Mons-en-Peleve",4.443889,51.156666,"Edegem, Ypresian",NA,"",1,"Ypresian","",56,47.8,30737,"gp_mid",11.29,42.16,"315",51.9,1
-"60235",91550,"col","Nanjemoy",-77.018333,38.513611,"M 107",NA,"",12,"Ypresian","",56,47.8,11845,"gp_mid",-51.25,39.43,"109",51.9,1
-"60236",91551,"col","Nanjemoy",-76.972221,38.700558,"M 108",NA,"",7,"Ypresian","",56,47.8,11845,"gp_mid",-51.13,39.59,"109",51.9,1
-"60237",91552,"col","Nanjemoy",-76.809723,38.756668,"M 109",NA,"",3,"Ypresian","",56,47.8,11845,"gp_mid",-50.95,39.61,"109",51.9,1
-"60390",91718,"col","Nanjemoy",-76.972221,38.700558,"M 123",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.13,39.59,"109",51.9,1
-"60395",91725,"col","Hatchetigbee Bluff",-86.06778,31.414722,"M 13",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-62.66,34.68,"109",51.9,1
-"60400",91731,"col","Hatchetigbee Bluff",-86.06778,31.414722,"M 14",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-62.66,34.68,"109",51.9,1
-"60527",91863,"col","Nanjemoy",-77.370277,37.766666,"M 287",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.87,38.79,"109",51.9,1
-"60826",92166,"col","Nanjemoy",-76.932503,38.719166,"M 345",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.09,39.6,"109",51.9,1
-"60828",92168,"col","Nanjemoy",-76.972504,38.700558,"M 737",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.13,39.59,"109",51.9,1
-"62216",94039,"col","Clays of Ypres",4.283333,51.25,"Kallo Well 292.50-m. Level",NA,"",19,"Early Eocene","",55.8,48.6,31951,"gp_mid",11.16,42.26,"315",52.2,1
-"62843",94830,"col","",11.21,45.578609,"Pesciara (Alveolina dainelli Zone)",NA,"Monte Bolca",249,"Ypresian","",56,47.8,32343,"gp_mid",18.58,33.41,"307",51.9,1
-"64942",97454,"col","Hatchetigbee Bluff",-86.083336,31.35,"ACof-1",NA,"ACof-1 of Toulmin 1977",44,"Ypresian","",56,47.8,29915,"gp_mid",-62.69,34.62,"109",51.9,1
-"65297",98010,"col","Yoncali",34.439999,39.459999,"Kirsehir J32-b2 quadrangle",NA,"",14,"Ypresian","",56,47.8,33890,"gp_mid",37.17,29.51,"504",51.9,1
-"65563",98307,"col","Hatchetigbee Bluff",-85.640556,31.459167,"PRI 2192",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-62.22,34.63,"109",51.9,1
-"65564",98308,"col","Hatchetigbee Bluff",-85.640556,31.459167,"PRI 833",NA,"",13,"Ypresian","",56,47.8,11845,"gp_mid",-62.22,34.63,"109",51.9,1
-"65860",98633,"col","Hatchetigbee Bluff",-85.047218,31.609167,"M 698",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-61.57,34.64,"109",51.9,1
-"65869",98642,"col","Hatchetigbee Bluff",-84.696945,31.936943,"M 464",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-61.12,34.87,"109",51.9,1
-"65881",98655,"col","Nanjemoy",-83.637222,32.413612,"M 704",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-59.91,35.09,"109",51.9,1
-"66442",99261,"col","Nanjemoy",-76.534721,38.686111,"M 481",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-50.72,39.48,"109",51.9,1
-"66446",99265,"col","Nanjemoy",-76.975281,38.529167,"M 483",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.2,39.43,"109",51.9,1
-"66452",99270,"col","Nanjemoy",-77.018333,38.513611,"M 488",NA,"",6,"Ypresian","",56,47.8,11845,"gp_mid",-51.25,39.43,"109",51.9,1
-"66463",99281,"col","Nanjemoy",-76.872223,38.785,"M 112",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51,39.65,"109",51.9,1
-"66468",99286,"col","Nanjemoy",-76.932777,38.719166,"M 492",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51.09,39.6,"109",51.9,1
-"66469",99287,"col","Nanjemoy",-76.872223,38.785,"M 493",NA,"",3,"Ypresian","",56,47.8,11845,"gp_mid",-51,39.65,"109",51.9,1
-"66471",99289,"col","Nanjemoy",-76.749725,38.815834,"M 740",NA,"",4,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,1
-"66472",99290,"col","Nanjemoy",-76.749725,38.815834,"M 741",NA,"",6,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,1
-"66473",99291,"col","Nanjemoy",-76.749725,38.815834,"M 742",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,1
-"66656",99607,"col","",31.466667,39.633331,"Kabaalan",NA,"",6,"Ypresian","",56,47.8,34256,"gp_mid",34.5,30.36,"510",51.9,1
-"67829",101242,"col","Nanjemoy",-77.370277,37.766666,"M 627",NA,"",5,"Ypresian","",56,47.8,11845,"gp_mid",-51.87,38.79,"109",51.9,1
-"67894",101313,"col","Nanjemoy",-77.112503,37.634998,"M 632",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-51.67,38.61,"109",52.2,1
-"67895",101314,"col","Nanjemoy",-77.164169,37.298889,"PRI 1552",NA,"",3,"Ypresian","",56,47.8,11845,"gp_mid",-51.84,38.3,"109",51.9,1
-"67896",101315,"col","Nanjemoy",-77.276947,37.317501,"M 633",NA,"",8,"Ypresian","",56,47.8,11845,"gp_mid",-51.95,38.34,"109",51.9,1
-"71354",106501,"col","Gafsa Phosphates",8.410278,34.325001,"Metlaoui",NA,"Al-Mitlawi",11,"Ypresian","",56,47.8,35583,"gp_mid",13.59,21.94,"714",51.9,1
-"84213",122230,"col","Pesciara",11.21,45.578609,"Pesciara di Bolca (Monte Bolca, Verona collection)",NA,"",10,"Ypresian","",56,47.8,49198,"gp_mid",18.58,33.41,"307",51.9,1
-"85012",123421,"col","Argiles d'lignite du Soissonnais",2.735,49.348,"Rivecourt",NA,"",1,"Early Eocene","",55.8,48.6,39549,"gp_mid",9.67,40.43,"315",52.2,1
-"85048",123459,"col","",2.64,49.34,"Houdancourt (Rivecourt)",NA,"Oise amber; Paris amber",2,"Early Eocene","",55.8,48.6,39654,"gp_mid",9.59,40.43,"315",52.2,1
-"85402",123850,"col","Argiles d'lignite du Soissonnais",2.65,49.349998,"Oise amber, Le Quesnoy",NA,"",169,"MP 7","",55.8,48.6,19606,"gp_mid",9.6,40.44,"315",52.2,1
-"85656",124192,"col","Nanjemoy",-77.033333,38.067223,"Bluffs Near Popes Creek",NA,"",13,"Early Eocene","",55.8,48.6,39877,"gp_mid",-51.43,39,"109",52.2,1
-"86711",125597,"col","",3.323333,49.376667,"Soissons",NA,"",2,"Ypresian","",56,47.8,40795,"gp_mid",10.18,40.43,"315",51.9,1
-"88012",127461,"col","",10.860833,45.673889,"Mountain Chain of Monte Baldo",NA,"",1,"Ypresian","",56,47.8,41512,"gp_mid",18.38,33.61,"307",51.9,1
-"88033",127494,"col","",12.8975,46.210278,"Castelnuovo del Driuli",NA,"",3,"Early Eocene","",55.8,48.6,41538,"gp_mid",20.18,33.4,"307",52.2,1
-"88069",127545,"col","",11.540278,45.545834,"Monte Postale",NA,"",29,"Ypresian","",56,47.8,41572,"gp_mid",18.81,33.27,"307",51.9,1
-"92188",133216,"col","Ait Ouarhitane",-5.605556,31.507221,"N'Tagourt 2",NA,"Adrar Mgorn 2 (Capetta, 1987)\r\n",17,"Ypresian","",56,47.8,42870,"gp_mid",0.56,21.71,"714",51.9,1
-"94603",136273,"col","Calcari nummulitici",11.2,45.583332,"?Monte Postale",NA,"Heteronectes chaneti type locality",1,"Ypresian","",56,47.8,43599,"gp_mid",18.58,33.42,"307",51.9,1
-"95007",136905,"col","",9.926667,35.538891,"Djebel Teldja",NA,"",1,"Ypresian","",56,47.8,43776,"gp_mid",15.15,22.91,"714",51.9,1
-"95008",136906,"col","",8.120833,35.407223,"Tebessa",NA,"",1,"Ypresian","",56,47.8,43776,"gp_mid",13.56,23.05,"714",51.9,1
-"98022",140158,"col","",11.383,45.657001,"Contrada Gecchelina, Monte di Malo",NA,"",46,"Ypresian","",56,47.8,45264,"gp_mid",18.76,33.42,"307",51.9,1
-"99395",141909,"col","",-60.627499,43.849167,"CP1  P-51 well (685-945m)",NA,"",17,"Early Eocene","",55.8,48.6,46092,"gp_mid",-33.78,40.83,"108",52.2,1
-"101234",144104,"col","",3,49.644444,"Muirancourt",NA,"Lignites de Muirancourt",3,"Early Eocene","",55.8,48.6,46599,"gp_mid",9.93,40.72,"315",52.2,1
-"101644",144643,"col","Subathu",76.983055,30.96139,"Rifle Range Locality",NA,"Locality KK",2,"Early Eocene","",55.8,48.6,46804,"gp_mid",76.77,1.45,"501",52.2,1
-"101948",145127,"col","",11.33,45.674999,"Monte Magrè",NA,"",10,"Ypresian","",56,47.8,46936,"gp_mid",18.73,33.46,"307",51.9,1
-"102131",145442,"col","Subathu",77.01667,30.983334,"Nummulites-Rotularius membranipora zone [Subathu Fm]",NA,"",7,"Ypresian","",56,47.8,47013,"gp_mid",76.8,1.46,"501",51.9,1
-"102132",145443,"col","Subathu",77.01667,30.983334,"Assilina laxispira-Assilina placentula zone [Subathu Fm]",NA,"",14,"Ypresian","",56,47.8,47013,"gp_mid",76.8,1.46,"501",51.9,1
-"106833",151356,"col","",13.609,54.137001,"Lubmin beach cementstones",NA,"",2,"Ypresian","",56,47.8,48334,"gp_mid",19.16,44.85,"315",51.9,1
-"106835",151358,"col","",13.915,54.244999,"Greifswalder Oie cementstones",NA,"",1,"Ypresian","",56,47.8,48335,"gp_mid",19.41,44.95,"302",51.9,1
-"106836",151359,"col","",14.025,52.84,"Oderberg-Bralitz gravel pit",NA,"",1,"Ypresian","",56,47.8,48335,"gp_mid",19.44,43.54,"315",51.9,1
-"106837",151360,"col","",11.84,54.145,"Heiligendamm nodule",NA,"",1,"Ypresian","",56,47.8,48335,"gp_mid",17.7,44.9,"315",51.9,1
-"106838",151361,"col","",12.692,53.674,"Stöckersoll gravel pit, near Malchin",NA,"",1,"Ypresian","",56,47.8,48335,"gp_mid",18.37,44.41,"315",51.9,1
-"107262",151896,"col","Kirkkavak",32.766666,39.966667,"Macunkoy,  Kirkkavak Fm",NA,"",1,"Ypresian","",56,47.8,48535,"gp_mid",35.65,30.72,"510",51.9,1
-"110085",155977,"col","",10.207,53.514999,"Havighorst, near Hamburg (GPIH collection)",NA,"",1,"Ypresian","",56,47.8,51045,"gp_mid",16.3,44.31,"315",51.9,1
-"110740",157316,"col","",10.207,53.514999,"Havighorst, near Hamburg (PIN collection)",NA,"",1,"Ypresian","",56,47.8,51663,"gp_mid",16.3,44.31,"315",51.9,1
-"111713",158991,"col","",6.783333,32.716667,"Sidi Chennane, couche 1",NA,"",2,"Ypresian","",56,47.8,52023,"gp_mid",11.83,20.63,"714",51.9,1
-"115452",164502,"col","",8.78,46.950001,"Hoch Gutsch",NA,"",1,"Ypresian","",56,47.8,51824,"gp_mid",14.67,37.8,"305",51.9,1
-"115491",164549,"col","",9.112,47.164001,"Flybach-Tobel",NA,"",1,"Ypresian","",56,47.8,51824,"gp_mid",14.97,38,"305",51.9,1
-"115680",164967,"col","",71.783333,40.383331,"Fergana locality",NA,"",1,"Ypresian","",56,47.8,53980,"gp_mid",70.6,33.95,"402",51.9,1
-"117114",178052,"col","",3.96,49.040279,"Epernay (general)",NA,"Region d'Epernay",6,"Ypresian","",56,47.8,58591,"gp_mid",10.69,40.07,"315",51.9,1
-"119950",171520,"col","",11.205,45.599998,"Monte Postale (Vicenza collection)",NA,"",1,"Ypresian","",56,47.8,55776,"gp_mid",18.59,33.43,"307",51.9,1
-"119952",171521,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Schtrock collection)",NA,"",13,"Ypresian","",56,47.8,55777,"gp_mid",10.24,40.65,"315",51.9,1
-"119960",171529,"col","Sables de Cuise",3.01,49.32,"Retheuil (Deshayes collection)",NA,"",2,"Ypresian","",56,47.8,55778,"gp_mid",9.9,40.39,"315",51.9,1
-"119968",171537,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (Deshayes collection)",NA,"Aizy",1,"Ypresian","",56,47.8,55779,"gp_mid",10.34,40.48,"315",51.9,1
-"123316",177607,"col","Choubaine",9.916667,35.616669,"Near Chebika",NA,"",1,"Ypresian","",56,47.8,58749,"gp_mid",15.16,22.98,"714",51.9,1
-"123339",177655,"col","Cuisien",3.154167,49.341667,"Coeuvres-et-Valsery (Leroy collection)",NA,"",2,"Ypresian","",56,47.8,58762,"gp_mid",10.03,40.41,"315",51.9,1
-"123343",177669,"col","Sables de Pierrefonds",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (Deshayes collection)",NA,"",21,"Ypresian","",56,47.8,57958,"gp_mid",9.9,40.45,"315",51.9,1
-"123348",177707,"col","Calcari di nummulitici",11.366667,45.666668,"Cava Rossi di Monte di Malo",NA,"",17,"Ypresian","",56,47.8,57958,"gp_mid",18.75,33.44,"307",51.9,1
-"123367",177753,"col","",3.930556,49.040279,"Mont Bernon, Epernay",NA,"",5,"Ypresian","",56,47.8,58832,"gp_mid",10.67,40.07,"315",51.9,1
-"123368",177754,"col","Sables de Pourcy",3.908333,49.150002,"Pourcy",NA,"",2,"Ypresian","",56,47.8,58832,"gp_mid",10.66,40.18,"315",51.9,1
-"123420",177999,"col","Sables d'Aizy",3.51,49.435001,"Monampteuil",NA,"",4,"Ypresian","",56,47.8,58869,"gp_mid",10.34,40.48,"315",51.9,1
-"123423",178002,"col","Sables de Pourcy",3.85,49.266666,"Sapicourt",NA,"",3,"Ypresian","",56,47.8,54279,"gp_mid",10.62,40.3,"315",51.9,1
-"123471",178050,"col","",5.493421,43.510269,"Palette",NA,"",8,"Ypresian","",56,47.8,58591,"gp_mid",11.59,34.48,"305",51.9,1
-"124045",178778,"col","Sables de Cuise",3.625,49.566666,"Laon (Aisne)",NA,"",14,"Ypresian","",56,47.8,58437,"gp_mid",10.45,40.61,"315",51.9,1
-"124373",179143,"col","",3.428611,49.049999,"Brasles (Marne)",NA,"Sables de Brasles",4,"MP 8 + 9","",55.8,48.6,59290,"gp_mid",10.24,40.1,"315",52.2,1
-"124375",179145,"col","",4.217778,47.822498,"Gland (Marne)",NA,"",7,"MP 8 + 9","",55.8,48.6,59290,"gp_mid",10.81,38.84,"305",52.2,1
-"124847",179807,"col","Descartes",-85.709167,10.936389,"Santa Elena Peninsula, base of Descartes Fm",NA,"",3,"Ypresian","",56,47.8,59634,"gp_mid",-77.97,16.43,"204",51.9,1
-"125095",180311,"col","",11.2,45.583332,"Monte Postale, Coralgal boundstone facies",NA,"Reef 4085",21,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125096",180312,"col","",11.2,45.583332,"Monte Postale, Polygenic bindstone facies",NA,"Reef 4085",22,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125097",180313,"col","",11.2,45.583332,"Monte Postale, Coralgal rudstone facies",NA,"Reef 4085",5,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125098",180314,"col","",11.2,45.583332,"Monte Postale, Alveolina – Nummulites packstone facies",NA,"",3,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125099",180315,"col","",11.2,45.583332,"Monte Postale, Alveolina grainstone facies",NA,"",5,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125100",180316,"col","",11.2,45.583332,"Monte Postale, Laminated wackestone facies",NA,"",2,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125101",180317,"col","",11.2,45.583332,"Monte Postale, Graded  Alveolina  grainstone facies",NA,"",2,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,1
-"125246",180522,"col","Subathu",76.97583,30.963888,"Kuthar River tributary",NA,"Subathu",9,"Early Eocene","",55.8,48.6,59896,"gp_mid",76.76,1.45,"501",52.2,1
-"125698",181108,"col","",4.01,48.970001,"Avize",NA,"",2,"Ypresian","",56,47.8,60047,"gp_mid",10.73,40,"315",51.9,1
-"125702",181112,"col","",3.725,48.759998,"Broyes",NA,"",3,"Ypresian","",56,47.8,60047,"gp_mid",10.47,39.8,"305",51.9,1
-"125983",181633,"col","",4.03,49.080002,"Ay",NA,"Agéien; Agèen",4,"Early Eocene","",55.8,48.6,60047,"gp_mid",10.75,40.11,"315",52.2,1
-"125989",181639,"col","Sables a Unios et Teredines",3.924167,49.02972,"Chavot",NA,"",5,"Ypresian","",56,47.8,60047,"gp_mid",10.66,40.06,"315",51.9,1
-"125997",181647,"col","",2.97,49.388,"Cuise-La-Motte",NA,"Cuise-Lamothe",4,"Early Eocene","",55.8,48.6,60047,"gp_mid",9.88,40.46,"315",52.2,1
-"126003",181653,"col","Sables a Unios et Teredines",3.879444,48.999722,"Mancy",NA,"UCMP V6255",14,"Ypresian","",56,47.8,60047,"gp_mid",10.62,40.03,"315",51.9,1
-"126043",181762,"col","",1.471835,33.054317,"El Kohol Formation",NA,"",0,"Early Eocene","",55.8,48.6,60436,"gp_mid",7.22,21.86,"714",52.2,1
-"126485",182640,"col","",3.578889,49.021111,"Saint-Agnan",NA,"Saint Agnan",7,"MP 8 + 9","",55.8,48.6,60835,"gp_mid",10.36,40.07,"315",52.2,1
-"126488",182643,"col","Argiles d'lignite du Soissonnais",2.65,49.349998,"Le Quesnoy (QNY1)",NA,"",3,"Ypresian","",56,47.8,60840,"gp_mid",9.6,40.44,"315",51.9,1
-"126489",182644,"col","",3.247222,49.596943,"Sinceny",NA,"UCMP V-6962",1,"Early Eocene","",55.8,48.6,60942,"gp_mid",10.13,40.66,"315",52.2,1
-"126510",182667,"col","Mortemer",0.831111,49.888332,"Sotteville-sur-Mer cliff",NA,"La Pointue",17,"Ypresian","",56,47.8,60867,"gp_mid",8.1,41.06,"305",51.9,1
-"127156",183723,"col","",2.48,49.255001,"Creil (Cossman collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.45,40.35,"315",51.9,1
-"127157",183724,"col","",3.48,49.404999,"Celles-sur-Aisne (Pacaud collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",10.31,40.45,"315",51.9,1
-"127158",183725,"col","",3.665,49.525002,"Bruyère-et-Montbérault, Aisne (Pons collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.48,40.57,"315",51.9,1
-"127159",183726,"col","",3.48,49.514999,"Lizy, Aisne (Pons collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.32,40.56,"315",51.9,1
-"127160",183727,"col","",2.990278,49.40139,"Trosly-Breuil, Oise (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,1
-"127161",183728,"col","",1.91,49.235001,"Liancourt-Saint-Pierre, Oise (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,1
-"127162",183729,"col","",1.785,49.23,"Hérouval, Oise (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.85,40.36,"305",51.9,1
-"127163",183730,"col","",3.065,49.395,"Jaulzy, Oise (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.96,40.46,"315",51.9,1
-"127164",183731,"col","",2.265,49.334999,"Heilles, Oise (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.27,40.44,"315",51.9,1
-"127165",183732,"col","",3.275,49.375,"Mercin-et-Vaux, Aisne (Pacaud collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.14,40.43,"315",51.9,1
-"127166",183733,"col","",3.425,49.049999,"Brasles, Aisne (Faullummel collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.23,40.1,"315",51.9,1
-"127177",183744,"col","",2.515,49.275002,"Verneuil-en-Halatte, Oise (Braillon collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.48,40.37,"315",51.9,1
-"127187",183754,"col","",11.205,45.599998,"Monte Postale (Hébert collection)",NA,"",3,"Ypresian","",56,47.8,59061,"gp_mid",18.59,33.43,"307",51.9,1
-"127200",183767,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127201",183768,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127202",183769,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (MNHN collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127203",183770,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127205",183772,"col","Sables de Pourcy",3.906,49.161999,"Pourcy (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.66,40.19,"315",51.9,1
-"127206",183773,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127207",183774,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (d'Orbigny collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127208",183775,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (de Ferry collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127209",183776,"col","",2.990278,49.40139,"Trosly-Breuil, Oise (Faullummel collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,1
-"127210",183777,"col","",2.990278,49.40139,"Trosly-Breuil, Oise (Ledon collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,1
-"127211",183778,"col","",1.91,49.235001,"Liancourt-Saint-Pierre, Oise (Margerie collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,1
-"127212",183779,"col","",1.91,49.235001,"Liancourt-Saint-Pierre, Oise (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,1
-"127213",183780,"col","",1.91,49.235001,"Liancourt-Saint-Pierre, Oise (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,1
-"127214",183781,"col","Cuisien",3.154167,49.341667,"Coeuvres-et-Valsery (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.03,40.41,"315",51.9,1
-"127215",183782,"col","Cuisien",3.154167,49.341667,"Coeuvres-et-Valsery (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.03,40.41,"315",51.9,1
-"127216",183783,"col","",3.48,49.404999,"Celles-sur-Aisne (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.31,40.45,"315",51.9,1
-"127217",183784,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (BIMM collection)",NA,"",1,"Ypresian","",56,47.8,58892,"gp_mid",10.34,40.48,"315",51.9,1
-"127218",183785,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (MNHN collection)",NA,"",2,"Ypresian","",56,47.8,58892,"gp_mid",10.34,40.48,"315",51.9,1
-"127219",183786,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,58869,"gp_mid",10.34,40.48,"315",51.9,1
-"127220",183787,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (Schtrock collection)",NA,"",1,"Ypresian","",56,47.8,58871,"gp_mid",10.34,40.48,"315",51.9,1
-"127221",183788,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (Cossmann collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.34,40.48,"315",51.9,1
-"127222",183789,"col","Sables d'Aizy",3.51,49.435001,"Aizy-Jouy (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.34,40.48,"315",51.9,1
-"127223",183790,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,55777,"gp_mid",10.24,40.65,"315",51.9,1
-"127224",183791,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Pacaud collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127225",183792,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127226",183793,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127227",183794,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127228",183795,"col","",2.998,49.377998,"Butte-des-Usages, Cuise-la-Motte (1965-11 collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,1
-"127229",183796,"col","",1.91,49.235001,"Liancourt-Saint-Pierre, Oise (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,1
-"127230",183797,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127231",183798,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (1965-11 collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127232",183799,"col","Sables de Cuise",3.375,49.599998,"Saint-Gobain, Aisne (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,1
-"127233",183800,"col","",3.275,49.375,"Mercin-et-Vaux, Aisne (Retout collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.14,40.43,"315",51.9,1
-"127262",183831,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2293, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127263",183832,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2294, Panoba, Kohat",NA,"",8,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127264",183833,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2289, Panoba, Kohat",NA,"",8,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127265",183834,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2290, Panoba, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127266",183835,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2291, Panoba, Kohat",NA,"",9,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127267",183836,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2366, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127268",183837,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2377, Shekhan Nala, Kohat",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127269",183838,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2368, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127270",183839,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2370, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127271",183840,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2371, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127272",183841,"col","Kuldana",71.900002,33.605,"Fossil Bed F.2239, Panoba, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127273",183842,"col","Kuldana",71.514999,33.595001,"Fossil Bed F.2381, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127274",183843,"col","Kuldana",71.514999,33.595001,"Fossil Bed F.2382, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127315",183884,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2171, Tarkhobi, Kohat",NA,"",7,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127316",183885,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2313, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127317",183886,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2374, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127319",183888,"col","Kirkkavak",32.294998,39.634998,"G4, Macunkoy",NA,"",5,"Ypresian","",56,47.8,61383,"gp_mid",35.24,30.38,"510",51.9,1
-"127320",183889,"col","Kirkkavak",32.290001,39.645,"G3, Macunkoy",NA,"",11,"Ypresian","",56,47.8,61383,"gp_mid",35.23,30.39,"510",51.9,1
-"127321",183890,"col","Kirkkavak",32.289001,39.650002,"G2, Macunkoy",NA,"",12,"Ypresian","",56,47.8,61383,"gp_mid",35.23,30.4,"510",51.9,1
-"127322",183891,"col","Kirkkavak",32.287998,39.654999,"G1, Macunkoy",NA,"",8,"Ypresian","",56,47.8,61383,"gp_mid",35.23,30.4,"510",51.9,1
-"127329",183898,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2310, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127330",183899,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2372, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127331",183900,"col","Shekhan",71.389999,33.48,"Fossil Bed F.2102, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,1
-"127357",183926,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2173, Tarkhobi, Kohat",NA,"",7,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127358",183927,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2230, Panoba, Kohat",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127359",183928,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2287, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127364",183933,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2175, Tarkhobi, Kohat",NA,"",5,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127373",183943,"col","Sables de Pourcy",3.906,49.161999,"Pourcy (Symonds collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,1
-"127374",183944,"col","Sables de Pourcy",3.906,49.161999,"Pourcy (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,1
-"127375",183945,"col","Sables de Pourcy",3.909167,49.159168,"Pourcy (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,1
-"127376",183946,"col","Sables de Pourcy",3.909167,49.159168,"Pourcy (Pacaud collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,1
-"127377",183947,"col","",2.990278,49.40139,"Trosly-Breuil, Oise (S. Tracey collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",9.9,40.47,"315",51.9,1
-"127442",184020,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2166, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127443",184021,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2172, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127444",184022,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2292, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127445",184023,"col","Shekhan",71.389999,33.48,"Fossil Bed F.2103, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,1
-"127450",184029,"col","Shekhan",71.830002,33.584999,"Fossil Bed F.2164, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,1
-"127451",184030,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2231, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127473",184052,"col","Shekhan",71.514999,33.595001,"Fossil Bed F.2369, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,1
-"127486",184065,"col","Shekhan",71.900002,33.605,"Fossil Bed F.2232, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127497",184076,"col","Kuldana",71.900002,33.605,"Fossil Bed F.2241, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,1
-"127562",184161,"col","",3.395,49.055,"Chemin de Soissons, Chateau-Thiery (Lamarck collection)",NA,"",1,"Ypresian","",56,47.8,61536,"gp_mid",10.21,40.11,"315",51.9,1
-"127564",184163,"col","Sables de Cuise",3.01,49.32,"Retheuil (Lamarck collection)",NA,"",1,"Ypresian","",56,47.8,61539,"gp_mid",9.9,40.39,"315",51.9,1
-"127836",184624,"col","",3.825041,43.661568,"Mas de Piquet",NA,"",1,"Ypresian","",56,47.8,61876,"gp_mid",10.13,34.71,"305",51.9,1
-"127997",184828,"col","",2.195,49.330002,"Noailles (Deshayes collection)",NA,"",2,"Ypresian","",56,47.8,61542,"gp_mid",9.21,40.44,"315",51.9,1
-"128741",185904,"col","London Clay",-1.616667,51.900002,"Workingham",NA,"",1,"Ypresian","",56,47.8,28173,"gp_mid",6.26,43.2,"315",51.9,1
-"128852",186444,"col","Danata",56.879166,38.611111,"Uilya-Kushlyuk",NA,"Uylya-Kushlyuk",30,"Ypresian","",56,47.8,59519,"gp_mid",57.38,30.72,"402",51.9,1
-"129608",187481,"col","",11.195,45.595001,"Spilecco, southwest of Purga di Bolca",NA,"",2,"Ypresian","",56,47.8,39270,"gp_mid",18.58,33.43,"307",51.9,1
-"130238",188969,"col","Pesciara",11.21,45.578609,"Pesciara di Bolca (Monte Bolca, Cerato family collection)",NA,"",1,"Ypresian","",56,47.8,63454,"gp_mid",18.58,33.41,"307",51.9,1
-"131419",190957,"col","Chiusole",10.85,45.540001,"Monte Solane Fish Bed",NA,"",15,"Ypresian","",56,47.8,64358,"gp_mid",18.3,33.5,"307",51.9,1
-"132900",194886,"col","",3.841944,49.082779,"Venteuil",NA,"",1,"Ypresian","",56,47.8,66265,"gp_mid",10.59,40.12,"315",51.9,1
-"134727",197966,"col","",72.815002,18.999443,"Worli Hill, Bombay",NA,"",1,"Early Eocene","",55.8,48.6,67489,"gp_mid",69.71,-8.94,"501",52.2,1
-"135677",200298,"col","",2.65,49.349998,"Try",NA,"",1,"Ypresian","",56,47.8,68346,"gp_mid",9.6,40.44,"315",51.9,1
-"136001",200979,"col","",69.01667,41.716667,"Zhylga 2",NA,"Dzhylga",1,"Ypresian","",56,47.8,68877,"gp_mid",67.86,34.96,"402",51.9,1
-"138893",205409,"col","Hatchetigbee",-85.643333,31.462221,"ADA-1",NA,"Hwy 231 Railroad cut",4,"Ypresian","",56,47.8,28119,"gp_mid",-62.22,34.63,"109",51.9,1
-"138943",205459,"col","Hatchetigbee",-86.089996,31.360001,"EDAM",NA,"Pea River (Elba Dam)",0,"Ypresian","",56,47.8,28119,"gp_mid",-62.7,34.63,"109",51.9,1
-"140247",207470,"col","",11.19588,45.608841,"Rama di Bolca",NA,"",85,"Ypresian","",56,47.8,71455,"gp_mid",18.59,33.44,"307",51.9,1
-"140248",207471,"col","",11.197811,45.607567,"Cracchi",NA,"",6,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.59,33.44,"307",52.2,1
-"140249",207472,"col","",11.212875,45.606289,"Laisi",NA,"",2,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.6,33.44,"307",52.2,1
-"140250",207473,"col","",11.225191,45.59787,"Valecco",NA,"",1,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.61,33.42,"307",52.2,1
-"140251",207474,"col","",11.220299,45.592041,"Zovo di Bolca",NA,"",9,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.6,33.42,"307",52.2,1
-"140341",207595,"col","",11.233285,45.519699,"Monte Serea",NA,"Mount Serea",19,"Ypresian","",56,47.8,58787,"gp_mid",18.57,33.35,"307",51.9,1
-"141431",209255,"col","Ait Ouarhitane",6.118355,31.379259,"Djebel Ta'louit",NA,"",1,"Ypresian","",56,47.8,72210,"gp_mid",10.96,19.42,"714",51.9,1
-"141714",209572,"col","",-6.63106,32.864765,"Sidi Daoui, Zone O",NA,"",2,"Ypresian","",56,47.8,72289,"gp_mid",0,23.23,"707",51.9,1
-"142216",210208,"col","",-45.131668,-25.807222,"Well 1-SPS-5A Eocene",NA,"",5,"Early Eocene","",55.8,48.6,72529,"gp_mid",-31.27,-30.03,"201",52.2,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"5",120576,"col","La Meseta",-56.6,-64.22,"DJ 153",NA,"",1,"Ypresian","",56,47.8,38549,"gp_mid",-67.39,-61.85,"803",51.9,"ypresian",3,-59.0571,-67.0904,16,1
+"1536",3261,"col","London Clay",-0.78,50.83,"Chichester Harbour, West Sussex",NA,"",29,"Ypresian","",56,47.8,152,"gp_mid",6.84,42.09,"315",51.9,"ypresian",446,-4.9086,45.1603,16,1
+"1537",3262,"col","London Clay",-0.78,50.83,"Chichester Harbour, West Sussex",NA,"",38,"Early Eocene","",55.8,48.6,152,"gp_mid",6.84,42.09,"315",52.2,"ypresian",446,-4.9086,45.1603,16,1
+"1544",3266,"col","London Clay",-1.28,50.89,"Division B2, Bursledon Brickworks",NA,"",88,"Ypresian","",56,47.8,154,"gp_mid",6.42,42.17,"315",51.9,"ypresian",447,-4.9086,45.1603,16,1
+"1545",3267,"col","London Clay",-1.28,50.89,"Barnea bed, Bursledon Brickworks",NA,"",74,"Ypresian","",56,47.8,154,"gp_mid",6.42,42.17,"315",51.9,"ypresian",447,-4.9086,45.1603,16,1
+"1546",3268,"col","London Clay",-1.28,50.89,"Division C, Bursledon Brickworks",NA,"",64,"Ypresian","",56,47.8,154,"gp_mid",6.42,42.17,"315",51.9,"ypresian",447,-4.9086,45.1603,16,1
+"1556",3291,"col","",33.98,28.53,"Egypt",NA,"",4,"Early Eocene","",55.8,48.6,175,"gp_mid",34.92,13.28,"508",52.2,"ypresian",448,27.9552,18.7232,16,1
+"2624",5544,"col","Crescent",-123.53,47.31,"CSUN Loc. 1553 - Little River [Crescent Fm]",NA,"LACMIP Loc. 41553",35,"Ypresian","",56,47.8,332,"gp_mid",-93.68,55.1,"129",51.9,"ypresian",983,-105.2154,49.2907,16,1
+"2625",5545,"col","Crescent",-123.83,47.08,"CSUN Loc. 1553a - Grays Harbor [Crescent Fm]",NA,"LACMIP Loc. 41553",7,"Ypresian","",56,47.8,332,"gp_mid",-94.12,54.92,"129",51.9,"ypresian",984,-105.2154,49.2907,16,1
+"2626",5546,"col","Crescent",-123.55,47.31,"CSUN Loc. 1554 - Grays Harbor [Crescent Fm]",NA,"",17,"Ypresian","",56,47.8,332,"gp_mid",-93.72,55.11,"129",51.9,"ypresian",985,-105.2154,49.2907,16,1
+"2627",5547,"col","Crescent",-123.51,47.32,"CSUN Loc. 1555 - Grays Harbor [Crescent Fm]",NA,"",16,"Ypresian","",56,47.8,332,"gp_mid",-93.66,55.11,"129",51.9,"ypresian",986,-105.2154,49.2907,16,1
+"2628",5548,"col","Crescent",-123.51,47.33,"CSUN Loc. 1556 - Grays Harbor [Crescent Fm]",NA,"",3,"Ypresian","",56,47.8,332,"gp_mid",-93.66,55.11,"129",51.9,"ypresian",987,-105.2154,49.2907,16,1
+"2629",5549,"col","Crescent",-123.51,47.33,"CSUN Loc. 1557 - Grays Harbor [Crescent Fm]",NA,"",9,"Ypresian","",56,47.8,332,"gp_mid",-93.66,55.12,"129",51.9,"ypresian",987,-105.2154,49.2907,16,1
+"2630",5550,"col","Crescent",-123.51,47.32,"CSUN Loc. 1558 - Grays Harbor [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,332,"gp_mid",-93.66,55.11,"129",51.9,"ypresian",986,-105.2154,49.2907,16,1
+"2631",5551,"col","Crescent",-123.52,47.33,"CSUN Loc. 1559 - Grays Harbor [Crescent Fm]",NA,"",2,"Ypresian","",56,47.8,332,"gp_mid",-93.67,55.12,"129",51.9,"ypresian",988,-105.2154,49.2907,16,1
+"2632",5552,"col","Crescent",-123.6,47.33,"CSUN Loc. 1560 - Grays Harbor [Crescent Fm]",NA,"",4,"Ypresian","",56,47.8,332,"gp_mid",-93.76,55.13,"129",51.9,"ypresian",989,-105.2154,49.2907,16,1
+"2633",5553,"col","Crescent",-123.6,47.33,"CSUN Loc. 1560a - Grays Harbor [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,332,"gp_mid",-93.76,55.13,"129",51.9,"ypresian",989,-105.2154,49.2907,16,1
+"3228",7296,"col","La Meseta",-56.67,-64.24,"W 94-03, Seymour Island",NA,"",5,"Ypresian","",56,47.8,469,"gp_mid",-67.47,-61.87,"803",51.9,"ypresian",1090,-59.0571,-67.0904,16,1
+"3258",7731,"col","Ghazij",69,29,"Punjab Province, Pakistan",NA,"",4,"Ypresian","",56,47.8,486,"gp_mid",69.58,1.65,"501",51.9,"ypresian",1104,62.0263,15.5239,16,1
+"3274",7788,"col","Reklaw",-95.38,30.88,"Joe Taylor Branch, Reklaw FM, TX",NA,"",142,"Ypresian","",56,47.8,495,"gp_mid",-72.28,36.23,"101",51.9,"ypresian",1108,-79.3133,29.783,16,1
+"3313",8050,"col","London Clay",-0.65,50.78,"Bognor Regis",NA,"",48,"Ypresian","",56,47.8,538,"gp_mid",6.94,42.03,"315",51.9,"ypresian",1121,-4.9086,45.1603,16,1
+"3338",8105,"col","London Clay",-1.17,51.08,"Up Nately, Hampshire, UK",NA,"",43,"Early Eocene","",55.8,48.6,548,"gp_mid",6.54,42.36,"315",52.2,"ypresian",1125,-4.9086,45.1603,16,1
+"3339",8104,"col","London Clay",-0.85,51.23,"Crondall Clay Pit",NA,"",35,"Ypresian","",56,47.8,548,"gp_mid",6.83,42.49,"315",51.9,"ypresian",1126,-4.9086,45.1603,16,1
+"3672",8675,"col","Ghazij",70.51,30.42,"Fossil Bed F.2680, Zinda Pir",NA,"",6,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"3673",8677,"col","Shekhan",71.39,33.48,"Fossil Bed F.2104, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,"ypresian",1189,65.7875,17.3987,16,1
+"5019",13187,"col","Nanjemoy",-76.49,37.54,"Woodstock",NA,"",2,"Ypresian","",56,47.8,4382,"gp_mid",-51.1,38.37,"109",51.9,"ypresian",1523,-59.7433,34.8162,16,1
+"5061",13298,"col","London Clay",-0.68,50.78,"Fish Tooth Beds",NA,"",2,"Ypresian","",56,47.8,4417,"gp_mid",6.91,42.04,"315",51.9,"ypresian",1540,-4.9086,45.1603,16,1
+"11321",21244,"col","Oldhaven",0.08,50.78,"Oldhaven Beds",NA,"Bishopstone, Upnor",17,"Ypresian","",56,47.8,6504,"gp_mid",7.56,41.99,"315",51.9,"ypresian",2053,-4.9086,45.1603,16,1
+"11322",21245,"col","",-1.02,51.15,"Blackheath Beds",NA,"Elmstead Woods, Chislehurst",1,"Ypresian","",56,47.8,6504,"gp_mid",6.68,42.42,"315",51.9,"ypresian",2054,-4.9086,45.1603,16,1
+"11328",21249,"col","London Clay",-0.65,50.78,"The London Clay Flora - Bognor",NA,"",128,"Ypresian","",56,47.8,6528,"gp_mid",6.94,42.03,"315",51.9,"ypresian",1121,-4.9086,45.1603,16,1
+"12223",22810,"col","London Clay",-1.48,50.93,"The London Clay Flora - Nursling",NA,"",17,"Ypresian","",56,47.8,6528,"gp_mid",6.25,42.23,"315",51.9,"ypresian",2256,-4.9086,45.1603,16,1
+"16973",31160,"col","Subathu",77.02,30.97,"Subathu locality A mammal",NA,"",3,"Early Eocene","",55.8,48.6,8384,"gp_mid",76.8,1.44,"501",52.2,"ypresian",3439,71.9623,13.9346,16,1
+"17047",31267,"col","Subathu",76.98,30.98,"Muddy Boots Locality",NA,"GBLH, MBL",27,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,"ypresian",3455,71.9623,13.9346,16,1
+"17048",31268,"col","Subathu",76.98,30.98,"Water Mill",NA,"GSLH, WML",1,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,"ypresian",3455,71.9623,13.9346,16,1
+"17049",31269,"col","Subathu",76.98,30.98,"Kuthar Bridge",NA,"OBLH, KBL",3,"Ypresian","",56,47.8,8420,"gp_mid",76.78,1.47,"501",51.9,"ypresian",3455,71.9623,13.9346,16,1
+"17081",31301,"col","Subathu",75.5,32.5,"Sair West OBL",NA,"OBLH, SWL",2,"Ypresian","",56,47.8,8420,"gp_mid",75.98,3.27,"501",51.9,"ypresian",3461,66.6825,9.3485,16,1
+"17082",31302,"col","Subathu",75.5,32.5,"East Babbian Gala OBLH",NA,"OBLH, EBGL",2,"Ypresian","",56,47.8,8420,"gp_mid",75.98,3.27,"501",51.9,"ypresian",3461,66.6825,9.3485,16,1
+"17083",31303,"col","Subathu",74.38,33.24,"Sindkhatuti Oyster Bed",NA,"OBLH, SKL; Sindkhatudi",2,"Ypresian","",56,47.8,8420,"gp_mid",75.28,4.25,"501",51.9,"ypresian",3462,66.6825,9.3485,16,1
+"18065",32360,"col","La Meseta",-56.63,-64.23,"Seymour Island La Meseta TELM 4",NA,"",4,"Ypresian","",56,47.8,8488,"gp_mid",-67.42,-61.86,"803",51.9,"ypresian",3634,-59.0571,-67.0904,16,1
+"20345",35132,"col","",-6.63,32.86,"Sidi Daoui",NA,"Phosphates Ypresiens ",7,"Ypresian","",56,47.8,9459,"gp_mid",0,23.23,"707",51.9,"ypresian",4076,-10.0131,26.1716,16,1
+"20643",35531,"col","Tienen",5.1,50.82,"Dormaal",NA,"Orsmael",74,"Early Eocene","",55.8,48.6,29875,"gp_mid",11.82,41.79,"315",52.2,"ypresian",4126,-1.4995,45.396,16,1
+"20644",35533,"col","Lignites de Soissonais",4,49.05,"UCMP V6167, Mutigny quarry",NA,"",47,"Ypresian","",56,47.8,9599,"gp_mid",10.73,40.08,"315",51.9,"ypresian",4127,-1.4995,45.396,16,1
+"20645",35535,"col","Lignites de Soissonais",4.03,49.08,"UCMP V6168, Avenay quarry",NA,"Avenay-Val-d’Or",44,"Ypresian","",56,47.8,9599,"gp_mid",10.76,40.11,"315",51.9,"ypresian",4128,-1.4995,45.396,16,1
+"20646",35537,"col","Lignites de Soissonais",3.92,49.15,"Carrière de Pourcy",NA,"Pourcy quarry",13,"Ypresian","",56,47.8,9599,"gp_mid",10.66,40.18,"315",51.9,"ypresian",4129,-1.4995,45.396,16,1
+"20648",35539,"col","",3.97,48.97,"Carrière ""Grauves""",NA,"Grauves quarry, Cuis",23,"Ypresian","",56,47.8,9599,"gp_mid",10.69,40,"315",51.9,"ypresian",4131,-1.4995,45.396,16,1
+"20649",35540,"col","",3.97,49,"Carrière de Cuis",NA,"Cuis quarry",18,"Ypresian","",56,47.8,9599,"gp_mid",10.69,40.03,"315",51.9,"ypresian",4132,-1.4995,45.396,16,1
+"21547",36862,"col","Santa Susana",-118.68,34.3,"UCMP loc. 7000, Santa Susana Mountains",NA,"",5,"Ypresian","",56,47.8,9870,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",4375,-102.0148,33.8633,16,1
+"25099",41825,"col","Wittering",-1.18,50.82,"Peel Common, Bracklesham Group",NA,"",2,"Ypresian","",56,47.8,10367,"gp_mid",6.49,42.1,"315",51.9,"ypresian",5400,-4.9086,45.1603,16,1
+"25103",41829,"col","Wittering",-0.86,50.76,"East Wittering, Bracklesham Bay, Wittering Formation W14(i)",NA,"",6,"MP 10","",55.8,48.6,10367,"gp_mid",6.76,42.02,"315",52.2,"ypresian",5401,-4.9086,45.1603,16,1
+"25104",41830,"col","Wittering",-0.86,50.76,"East Wittering, Bracklesham Bay, Wittering Formation W15",NA,"",3,"MP 10","",55.8,48.6,10367,"gp_mid",6.76,42.02,"315",52.2,"ypresian",5401,-4.9086,45.1603,16,1
+"25115",41840,"col","Earnley",-0.86,50.76,"Bracklesham, Earnley Formation, E4",NA,"",1,"MP 10","",55.8,48.6,10367,"gp_mid",6.76,42.02,"315",52.2,"ypresian",5401,-4.9086,45.1603,16,1
+"25172",41897,"col","",27,27,"Thebes Formation, Egypt - Tawardos (2001)",NA,"",0,"Ypresian","",56,47.8,11199,"gp_mid",29.01,12.37,"715",51.9,"ypresian",5423,20.9302,18.8714,16,1
+"25177",41902,"col","Dungul",23.43,31.62,"Garra-Dungul (Dungul Formation), Egypt -Tawadros (2001)",NA,"Dungul Formation, Garra-Dungul",7,"Ypresian","",56,47.8,11199,"gp_mid",26.35,17.31,"715",51.9,"ypresian",5427,17.6515,23.9927,16,1
+"25387",42126,"col","Al Jir",16.54,29.16,"Wadi Shuqayaqah - Al Jir Formation",NA,"",2,"Ypresian","",56,47.8,11199,"gp_mid",19.86,15.68,"715",51.9,"ypresian",5475,10.5535,21.8461,16,1
+"25643",42446,"col","La Meseta",-56.68,-64.26,"CV 86-04, Cross Valley",NA,"",4,"Ypresian","",56,47.8,469,"gp_mid",-67.48,-61.89,"803",51.9,"ypresian",5567,-59.0571,-67.0904,16,1
+"25657",42459,"col","Umm al-Rua’us",50.11,26.43,"Umm al-Rua’us Formation, Saudi Arabia - Abbass (1972)",NA,"",71,"Ypresian","",56,47.8,11298,"gp_mid",48.11,7.57,"503",51.9,"ypresian",5571,41.9707,15.2625,16,1
+"25735",42567,"col","Bracklesham Beds",-1.57,50.67,"Alum Bay, Bracklesham Beds, Isle of Wight",NA,"",1,"Early Eocene","",55.8,48.6,11308,"gp_mid",6.15,41.97,"315",52.2,"ypresian",5605,-4.9086,45.1603,16,1
+"26014",42929,"col","Indio",-99.15,26.43,"USGS 13713 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13713",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26016",42931,"col","Indio",-99.15,26.43,"USGS 13724 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13724",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26017",42932,"col","Indio",-99.15,26.43,"USGS 13475 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13475",2,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26018",42933,"col","Indio",-99.15,26.43,"USGS 13691 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13691",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26019",42934,"col","Indio",-99.15,26.43,"USGS 13742 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13742",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26020",42935,"col","Indio",-99.15,26.43,"USGS 13719/13720 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13719, USGS 13720",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26021",42936,"col","Indio",-99.15,26.43,"USGS 13725 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13725",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26022",42937,"col","Indio",-99.15,26.43,"USGS 13723 - Tamaulipas, Mexico (Upper Indio Formation)",NA,"USGS 13723",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26027",42942,"col","Indio",-99.15,26.43,"USGS 13695 - Tamaulipas, Mexico (Middle Indio Formation)",NA,"USGS 13695",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26029",42944,"col","Indio",-99.15,26.43,"USGS 13690 - Tamaulipas, Mexico (Middle Indio Formation)",NA,"USGS 13690",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26030",42945,"col","Indio",-99.15,26.43,"USGS 13715 - Tamaulipas, Mexico (Middle Indio Formation)",NA,"USGS 13715",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26031",42946,"col","Indio",-99.15,26.43,"USGS 13714 - Tamaulipas, Mexico (Middle Indio Formation)",NA,"USGS 13714",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26032",42947,"col","Indio",-99.15,26.43,"USGS 13711 - Tamaulipas, Mexico (Middle Indio Formation)",NA,"USGS 13711",1,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"26041",42956,"col","Indio",-99.15,26.43,"USGS 13461 - Tamaulipas, Mexico (lower Indio Formation)",NA,"USGS 13461",2,"Early Eocene","",55.8,48.6,7474,"gp_mid",-77.48,32.72,"101",52.2,"ypresian",5697,-83.4492,27.8028,16,1
+"28199",45584,"col","Subathu",76.98,30.98,"Kuthar Nala",NA,"Subathu Formation type locality",2,"Ypresian","",56,47.8,11985,"gp_mid",76.77,1.47,"501",51.9,"ypresian",3455,71.9623,13.9346,16,1
+"28203",45588,"col","Subathu",74.48,33.21,"Babbian Gala East",NA,"",7,"Ypresian","",56,47.8,12021,"gp_mid",75.36,4.19,"501",51.9,"ypresian",6375,66.6825,9.3485,16,1
+"28405",45802,"col","",11.28,54.43,"Katharinenhof",NA,"",2,"Early Eocene","",55.8,48.6,12298,"gp_mid",17.25,45.2,"315",52.2,"ypresian",6484,4.4356,50.8847,16,1
+"28617",46085,"col","",9.18,53.68,"Basbeck",NA,"",5,"Early Eocene","",55.8,48.6,12298,"gp_mid",15.46,44.51,"315",52.2,"ypresian",6573,1.5128,48.1346,16,1
+"29417",46999,"col","Khuiala",72.93,27.86,"Khuiala Fm: Mudh village",NA,"",45,"Ypresian","",56,47.8,12488,"gp_mid",72.51,-0.53,"501",51.9,"ypresian",6937,62.2497,5.3222,16,1
+"30470",48075,"col","Panandhro",68.74,23.68,"Panandhro Mine, Channel Pit",NA,"",4,"Ypresian","",56,47.8,12867,"gp_mid",67.6,-3.29,"501",51.9,"ypresian",7141,57.6086,1.4387,16,1
+"30491",48097,"col","Tamaguélelt",0.25,17.59,"Butte de Tamaguilelt (MNHN collection)",NA,"Tamaguélelt",3,"Ypresian","",56,47.8,12884,"gp_mid",2.77,6.97,"714",51.9,"ypresian",7152,-4.7298,10.4922,16,1
+"31275",49051,"col","",69,41.72,"Zhylga 1b",NA,"Dzhylga",4,"Ypresian","",56,47.8,12996,"gp_mid",67.85,34.96,"402",51.9,"ypresian",7409,61.0427,43.9299,16,1
+"32696",51081,"col","Red Bluff Tuff",176.5,-44,"CH/f7 - Red Bluff Tuff, Chatham Islands",NA,"GS 5419; Coll# 2756 (Hendy PhD)",5,"Waipawan","",55.8,53,13610,"gp_mid",-148.46,-47.79,"807",54.4,"ypresian",7802,-162.8124,-57.9894,16,1
+"32701",51085,"col","Red Bluff Tuff",176.25,-44.3,"CH/f471 - Red Bluff Tuff, Chatham Islands",NA,"GS 12178; Coll# 2760 (Hendy PhD)",22,"Waipawan","",55.8,53,13610,"gp_mid",-148.75,-48.09,"807",54.4,"ypresian",7806,-162.8124,-57.9894,16,1
+"33431",51856,"col","Mami Khel",71.14,33.25,"Barbora Banda I",NA,"HGSP 300; Banda Daud Shah fauna",7,"Early Eocene","",55.8,48.6,13803,"gp_mid",72.7,5.08,"501",52.2,"ypresian",7977,65.7875,17.3987,16,1
+"33488",51928,"col","Llajas",-118.69,34.3,"LACMIP #20586",NA,"LACMIP #22371, LACMIP #16654",3,"Ypresian","",56,47.8,13852,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",7990,-102.0148,33.8633,16,1
+"33489",51929,"col","Llajas",-118.69,34.3,"LACMIP #21135",NA,"",1,"Ypresian","",56,47.8,13852,"gp_mid",-93.2,40.56,"105",51.9,"ypresian",7990,-102.0148,33.8633,16,1
+"33490",51930,"col","Llajas",-118.69,34.3,"CSUN Loc. 471a - Chivo Canyon [Llajas Fm]",NA,"",2,"Ypresian","",56,47.8,13852,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",7990,-102.0148,33.8633,16,1
+"33501",51942,"col","Llajas",-118.69,34.3,"LACMIP #26624",NA,"",3,"Ypresian","",56,47.8,13852,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",7990,-102.0148,33.8633,16,1
+"33510",51951,"col","Llajas",-118.69,34.3,"LACMIP #7405",NA,"",1,"Ypresian","",56,47.8,13852,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",7990,-102.0148,33.8633,16,1
+"33624",52067,"col","La Meseta",-56.64,-64.23,"IAA 2/13",NA,"",1,"Ypresian","",56,47.8,63037,"gp_mid",-67.44,-61.86,"803",51.9,"ypresian",8022,-59.0571,-67.0904,16,1
+"33966",52419,"col","Meganos",-121.85,37.95,"UCMP 3148, Stewartville",NA,"",10,"Ypresian","",56,47.8,14099,"gp_mid",-94.38,45.67,"130",51.9,"ypresian",8170,-104.434,38.9339,16,1
+"33967",52420,"col","Meganos",-121.82,37.93,"UCMP 3150, north of Mount Diablo",NA,"",15,"Ypresian","",56,47.8,14099,"gp_mid",-94.35,45.65,"130",51.9,"ypresian",8171,-104.434,38.9339,16,1
+"33968",52421,"col","Meganos",-121.82,37.93,"UCMP 3151, north of Mount Diablo",NA,"",15,"Ypresian","",56,47.8,14099,"gp_mid",-94.35,45.65,"130",51.9,"ypresian",8171,-104.434,38.9339,16,1
+"33969",52422,"col","Meganos",-121.79,37.92,"UCMP 3152, Deer Valley",NA,"",30,"Ypresian","",56,47.8,14099,"gp_mid",-94.32,45.63,"130",51.9,"ypresian",8172,-104.434,38.9339,16,1
+"33970",52423,"col","Meganos",-121.8,37.93,"UCMP 3156, Deer Valley",NA,"",14,"Ypresian","",56,47.8,14099,"gp_mid",-94.33,45.64,"130",51.9,"ypresian",8173,-104.434,38.9339,16,1
+"33971",52424,"col","Meganos",-121.77,37.92,"UCMP 3157, Deer Valley",NA,"",9,"Ypresian","",56,47.8,14099,"gp_mid",-94.3,45.63,"130",51.9,"ypresian",8174,-104.434,38.9339,16,1
+"33972",52425,"col","Meganos",-121.78,37.92,"UCMP 3158, Deer Valley",NA,"",10,"Ypresian","",56,47.8,14099,"gp_mid",-94.31,45.63,"130",51.9,"ypresian",8175,-104.434,38.9339,16,1
+"33973",52426,"col","Meganos",-121.77,37.92,"UCMP 3159, Deer Valley",NA,"",39,"Ypresian","",56,47.8,14099,"gp_mid",-94.3,45.63,"130",51.9,"ypresian",8174,-104.434,38.9339,16,1
+"33974",52427,"col","Meganos",-121.83,37.94,"UCMP 3162, upper Deer Valley",NA,"",8,"Ypresian","",56,47.8,14099,"gp_mid",-94.36,45.65,"130",51.9,"ypresian",8176,-104.434,38.9339,16,1
+"33975",52428,"col","Meganos",-121.74,37.91,"UCMP 3577, Dry Creek",NA,"",35,"Ypresian","",56,47.8,14099,"gp_mid",-94.27,45.61,"130",51.9,"ypresian",8177,-104.434,38.9339,16,1
+"33976",52429,"col","Meganos",-121.71,37.89,"UCMP 3578, east of Marsh Creek",NA,"",21,"Ypresian","",56,47.8,14099,"gp_mid",-94.25,45.59,"130",51.9,"ypresian",8178,-104.434,38.9339,16,1
+"33977",52430,"col","Meganos",-121.71,37.88,"UCMP 3579, east of Mount Diablo",NA,"",17,"Ypresian","",56,47.8,14099,"gp_mid",-94.25,45.59,"130",51.9,"ypresian",8179,-104.434,38.9339,16,1
+"33978",52431,"col","Meganos",-121.71,37.88,"UCMP 3580, Los Meganos",NA,"",15,"Ypresian","",56,47.8,14099,"gp_mid",-94.24,45.58,"130",51.9,"ypresian",8179,-104.434,38.9339,16,1
+"33979",52432,"col","Meganos",-121.69,37.87,"UCMP 3586, Kellogg Creek",NA,"",9,"Ypresian","",56,47.8,14099,"gp_mid",-94.23,45.57,"130",51.9,"ypresian",8180,-104.434,38.9339,16,1
+"33980",52433,"col","Meganos",-121.67,37.86,"UCMP 3609, east of Mount Diablo",NA,"",11,"Ypresian","",56,47.8,14099,"gp_mid",-94.21,45.56,"130",51.9,"ypresian",8181,-104.434,38.9339,16,1
+"33981",52434,"col","Meganos",-121.64,37.85,"UCMP 3689, east of Mount Diablo",NA,"",9,"Ypresian","",56,47.8,14099,"gp_mid",-94.17,45.54,"130",51.9,"ypresian",8182,-104.434,38.9339,16,1
+"33994",52446,"col","Te Whanga Limestone",176.5,-43.82,"CH/f469 - Matanginui Limestone, Chatham Islands",NA,"GS 12157",1,"Waipawan","",55.8,53,13610,"gp_mid",-148.45,-47.61,"807",54.4,"ypresian",8189,-162.8124,-57.9894,16,1
+"33998",52450,"col","Te Whanga Limestone",176.5,-43.82,"CH/f279 - Matanginui Limestone, Chatham Islands",NA,"",4,"Waipawan","",55.8,53,13610,"gp_mid",-148.45,-47.61,"807",54.4,"ypresian",8189,-162.8124,-57.9894,16,1
+"33999",52451,"col","Te Whanga Limestone",176.5,-43.82,"CH/f8 - Matanginui Limestone, Chatham Islands",NA,"GS 6717",1,"Waipawan","",55.8,53,13610,"gp_mid",-148.45,-47.61,"807",54.4,"ypresian",8189,-162.8124,-57.9894,16,1
+"34005",52457,"col","La Meseta",-56.62,-64.22,"WP 10",NA,"",1,"Early Eocene","",55.8,48.6,14104,"gp_mid",-67.41,-61.85,"803",52.2,"ypresian",8195,-59.0571,-67.0904,16,1
+"34090",52559,"col","Te Whanga Limestone",176.77,-44.28,"CH/f476 - Matanginui Limestone, Pitt Island",NA,"GS 12168; Coll# 2764 (Hendy PhD)",8,"Waipawan","",55.8,53,13610,"gp_mid",-148.2,-48.09,"807",54.4,"ypresian",8234,-162.8124,-57.9894,16,1
+"34091",52560,"col","Te Whanga Limestone",176.5,-43.82,"CH/f36 - Matanginui Limestone, Chatham Islands",NA,"GS# 6892",3,"Ypresian","",56,47.8,13610,"gp_mid",-148.62,-47.02,"807",51.9,"ypresian",8189,-162.8124,-57.9894,16,1
+"34092",52561,"col","Te Whanga Limestone",176.77,-44.28,"CH/f461 - Pitt Island [Matanginui Lmst]",NA,"GS 12137",12,"Waipawan","",55.8,53,13610,"gp_mid",-148.2,-48.09,"807",54.4,"ypresian",8234,-162.8124,-57.9894,16,1
+"34094",52563,"col","Te Whanga Limestone",176.77,-44.28,"CH/f523 - Matanginui Limestone, Pitt Island",NA,"GS 12996",3,"Waipawan","",55.8,53,13610,"gp_mid",-148.2,-48.09,"807",54.4,"ypresian",8234,-162.8124,-57.9894,16,1
+"35744",55249,"col","",-7.1,32.52,"Djemaïa",NA,"",1,"Ypresian","",56,47.8,14719,"gp_mid",-0.5,22.99,"707",51.9,"ypresian",8687,-10.0131,26.1716,16,1
+"35745",55250,"col","",-6.91,32.89,"Bou Jniba- Khouribga",NA,"",2,"Ypresian","",56,47.8,14719,"gp_mid",-0.23,23.31,"707",51.9,"ypresian",8688,-10.0131,26.1716,16,1
+"39000",59088,"col","",152,-26,"Tingamarra Local Fauna - Boat Mountain deposit",NA,"Murgon; Main quarry, Tingamarra Station",18,"Ypresian","",56,47.8,19345,"gp_mid",163.51,-44.25,"801",51.9,"ypresian",9428,151.8881,-45.0203,16,1
+"40565",60906,"col","Nanjemoy",-76.84,38.03,"Potomac River - 1.7 miles southeast of Windmill Point",NA,"USGS Locality 26363",1,"Early Eocene","",55.8,48.6,17420,"gp_mid",-51.26,38.92,"109",52.2,"ypresian",9800,-59.7433,34.8162,16,1
+"40733",61094,"col","La Meseta",-56.68,-64.25,"Seymour Island, Telm 4, RV 9501",NA,"UCMP RV9501",1,"Ypresian","",56,47.8,17566,"gp_mid",-67.48,-61.87,"803",51.9,"ypresian",9839,-59.0571,-67.0904,16,1
+"42447",63547,"col","La Meseta",-56.75,-64.25,"La Meseta Fm Telm 1",NA,"",10,"Ypresian","",56,47.8,18284,"gp_mid",-67.54,-61.87,"803",51.9,"ypresian",10224,-59.0571,-67.0904,16,1
+"42448",63548,"col","La Meseta",-56.75,-64.25,"La Meseta Fm Telm 2",NA,"",59,"Ypresian","",56,47.8,18284,"gp_mid",-67.54,-61.87,"803",51.9,"ypresian",10224,-59.0571,-67.0904,16,1
+"42449",63549,"col","La Meseta",-56.75,-64.25,"La Meseta Fm Telm 3",NA,"",69,"Ypresian","",56,47.8,18284,"gp_mid",-67.54,-61.87,"803",51.9,"ypresian",10224,-59.0571,-67.0904,16,1
+"42450",63550,"col","La Meseta",-56.75,-64.25,"La Meseta Fm Telm 4",NA,"",40,"Ypresian","",56,47.8,18284,"gp_mid",-67.54,-61.87,"803",51.9,"ypresian",10224,-59.0571,-67.0904,16,1
+"43475",65225,"col","",36.96,31.93,"Qasr Ouzaykhim",NA,"",12,"Early Eocene","",55.8,48.6,18800,"gp_mid",37.45,14.85,"503",52.2,"ypresian",10521,32.6968,21.7839,16,1
+"45260",67711,"col","Fur",8.92,56.92,"Ejerslev Industrial Pit",NA,"Island of Mors",7,"Ypresian","",56,47.8,48578,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"45578",68174,"col","Argiles d'lignite du Soissonnais",2.65,49.35,"Le Quesnoy (QNY2)",NA,"",85,"Ypresian","",56,47.8,19606,"gp_mid",9.6,40.44,"315",51.9,"ypresian",11065,-1.4995,45.396,16,1
+"45792",68430,"col","Tielt",3.23,51.01,"Ampe quarry, Egem",NA,"",20,"Ypresian","",56,47.8,19707,"gp_mid",10.25,42.07,"315",51.9,"ypresian",11111,-1.4995,45.396,16,1
+"45799",68437,"col","Vaugirard",2.24,48.81,"Meudon",NA,"",45,"Ypresian","",56,47.8,12784,"gp_mid",9.2,39.92,"305",51.9,"ypresian",11116,-1.4995,45.396,16,1
+"45800",68438,"col","Kortijk Clay",4.42,50.87,"Evere",NA,"",2,"Ypresian","",56,47.8,19707,"gp_mid",11.25,41.88,"315",51.9,"ypresian",11117,-1.4995,45.396,16,1
+"45801",68439,"col","Wittering",-1.33,50.94,"Dummer's Copse",NA,"",7,"Ypresian","",56,47.8,19707,"gp_mid",6.38,42.22,"315",51.9,"ypresian",11118,-4.9086,45.1603,16,1
+"45802",68440,"col","",3.41,49.54,"Prémontré",NA,"Anizy-Le-Château",62,"MP 10","",55.8,48.6,47934,"gp_mid",10.27,40.59,"315",52.2,"ypresian",11119,-1.4995,45.396,16,1
+"47289",70564,"col","Takaradayskaya",142.1,47,"Takaradayskaya Suite - Takaraday Railway station, Kholmsk District, Sakhalin",NA,"",40,"Early Eocene","",55.8,48.6,23628,"gp_mid",131.98,56.13,"610",52.2,"ypresian",11567,141.7574,56.0947,16,1
+"47899",71233,"col","",-5.85,34.32,"Ouled Abdoun Basin (Phosphatherium type specimen)",NA,"",2,"Ypresian","",56,47.8,23856,"gp_mid",NA,NA,"coordinates not computable using this model",51.9,"ypresian",11715,-9.6604,28.6519,16,1
+"47900",71235,"col","",-5.85,34.32,"Ouled Abdoun Basin (Daouitherium type specimen)",NA,"",9,"Ypresian","",56,47.8,23857,"gp_mid",NA,NA,"coordinates not computable using this model",51.9,"ypresian",11715,-9.6604,28.6519,16,1
+"48871",73387,"col","",3.93,48.98,"Monthelon",NA,"",11,"Ypresian","",56,47.8,24638,"gp_mid",10.66,40.01,"315",51.9,"ypresian",11997,-1.4995,45.396,16,1
+"50237",75457,"col","La Meseta",-56.62,-64.2,"Seymour Island, Cape Wiman, La Meseta Formation, Telm 1",NA,"",5,"Ypresian","",56,47.8,25457,"gp_mid",-67.4,-61.84,"803",51.9,"ypresian",12289,-59.0571,-67.0904,16,1
+"50242",75473,"col","",13.88,45.87,"Vipava Valley",NA,"Reef 3635",11,"Early Eocene","",55.8,48.6,25467,"gp_mid",20.71,32.78,"307",52.2,"ypresian",12291,14.527,36.2545,16,1
+"50954",77111,"col","Jdeir",12.58,33.92,"Gabes-Tripoli Basin, Nummulites Bank, offshore Libya",NA,"",16,"Ypresian","",56,47.8,26107,"gp_mid",17.16,20.92,"715",51.9,"ypresian",12610,7.476,27.0565,16,1
+"50960",77117,"col","",-7.1,31.3,"Western High Atlas, oyster biostromes",NA,"Reef 826",3,"Ypresian","",56,47.8,26109,"gp_mid",-0.82,21.81,"714",51.9,"ypresian",12612,-10.0131,26.1716,16,1
+"51101",77304,"col","",65.65,27.15,"Laki Group",NA,"",16,"Early Eocene","",55.8,48.6,26170,"gp_mid",66.92,20.16,"507",52.2,"ypresian",12643,59.0341,6.2323,16,1
+"51149",77379,"col","Laki",67.9,25.31,"Loc. 15 (Laki Formation)",NA,"",2,"Early Eocene","",55.8,48.6,26174,"gp_mid",67.43,-1.5,"501",52.2,"ypresian",12650,61.0638,10.6125,16,1
+"51150",77394,"col","Laki",68.14,25.67,"Loc. 25 (Laki Formation)",NA,"",4,"Early Eocene","",55.8,48.6,26174,"gp_mid",67.75,-1.24,"501",52.2,"ypresian",12651,61.0638,10.6125,16,1
+"51151",77380,"col","Laki",67.9,25.31,"Loc. 16 (Laki Formation)",NA,"",4,"Early Eocene","",55.8,48.6,26174,"gp_mid",67.43,-1.5,"501",52.2,"ypresian",12650,61.0638,10.6125,16,1
+"51157",77391,"col","",13.87,45.85,"Uhanje, Trstelj",NA,"Reef 3637",5,"Ypresian","",56,47.8,26198,"gp_mid",20.69,32.77,"307",51.9,"ypresian",12656,14.527,36.2545,16,1
+"51160",77395,"col","Laki",67.9,25.31,"Loc. 10 (Laki Formation)",NA,"",8,"Early Eocene","",55.8,48.6,26174,"gp_mid",67.43,-1.5,"501",52.2,"ypresian",12650,61.0638,10.6125,16,1
+"51239",77608,"col","Bruxellian",3.33,51.17,"Oedelem Sands (Sables d'Oedelem) - Bruxellian Formation",NA,"",86,"Ypresian","",56,47.8,24507,"gp_mid",10.35,42.22,"315",51.9,"ypresian",12695,-1.4995,45.396,16,1
+"51716",78432,"col","Futagojima",129.88,32.75,"Nagasaki 1 [Futagojima Formation]",NA,"",1,"Early Eocene","",55.8,48.6,26376,"gp_mid",125.57,39.65,"610",52.2,"ypresian",12838,129.4166,39.1568,16,1
+"51718",78434,"col","Futagojima",129.75,32.63,"Nagasaki 3 [Futagojima Formation]",NA,"",1,"Early Eocene","",55.8,48.6,26376,"gp_mid",125.48,39.5,"610",52.2,"ypresian",12840,129.4166,39.1568,16,1
+"51955",78721,"col","",-121.6,38.51,"Capay Eocene Corals, CA, I",NA,"",8,"Ypresian","",56,47.8,26462,"gp_mid",-93.97,46.2,"130",51.9,"ypresian",12922,-104.434,38.9339,16,1
+"52162",79074,"col","",68.05,30.82,"Nisai Group (lower)",NA,"",52,"Ypresian","",56,47.8,26170,"gp_mid",69.42,3.64,"501",51.9,"ypresian",12966,62.0263,15.5239,16,1
+"52294",79320,"col","",13.95,45.6,"Hrpelje-Kozina",NA,"",1,"Ypresian","",56,47.8,26586,"gp_mid",20.61,32.52,"307",51.9,"ypresian",12997,14.527,36.2545,16,1
+"52934",80790,"col","Hatchetigbee Bluff",-88.03,31.07,"AWa-1a Hatchetigbee",NA,"",2,"Ypresian","",56,47.8,124,"gp_mid",-64.74,34.79,"109",51.9,"ypresian",13225,-71.9499,28.8082,16,1
+"52935",80791,"col","Hatchetigbee Bluff",-88.03,31.07,"AWa-1b Hatchetigbee",NA,"",19,"Ypresian","",56,47.8,124,"gp_mid",-64.74,34.79,"109",51.9,"ypresian",13225,-71.9499,28.8082,16,1
+"52936",80792,"col","Hatchetigbee Bluff",-88.03,31.07,"AWa-1c Hatchetigbee",NA,"",56,"Ypresian","",56,47.8,124,"gp_mid",-64.74,34.79,"109",51.9,"ypresian",13225,-71.9499,28.8082,16,1
+"53008",80978,"col","Manasquan",-74.82,39.9,"Medford (Wister collection)",NA,"",2,"Ypresian","",56,47.8,27244,"gp_mid",-48.6,40.25,"109",51.9,"ypresian",13252,-59.2665,37.2863,16,1
+"53050",81058,"col","Chiampo Marble",11.28,45.55,"Middle Chiampo Valley [lower Chiampo Marble]",NA,"",4,"Ypresian","",56,47.8,27275,"gp_mid",18.62,33.36,"307",51.9,"ypresian",13264,11.4227,37.1697,16,1
+"53447",81764,"col","Auradu",45.17,10.38,"""Camp 7"", Biyo Gora section",NA,"",4,"Ypresian","",56,47.8,27514,"gp_mid",43.6,-5.07,"709",51.9,"ypresian",13424,38.8334,1.267,16,1
+"53448",81765,"col","Auradu",45.17,10.38,"Loc. 36, Biyo Gora section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",43.6,-5.07,"709",51.9,"ypresian",13424,38.8334,1.267,16,1
+"53449",81766,"col","Auradu",45.17,10.38,"Loc. 42, Biyo Gora section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",43.6,-5.07,"709",51.9,"ypresian",13424,38.8334,1.267,16,1
+"53450",81767,"col","Auradu",45.17,10.38,"Loc. 45, Biyo Gora section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",43.6,-5.07,"709",51.9,"ypresian",13424,38.8334,1.267,16,1
+"53451",81768,"col","Auradu",45.42,10.47,"Loc. 66, Allahkajid section",NA,"",3,"Ypresian","",56,47.8,27514,"gp_mid",43.84,-4.99,"709",51.9,"ypresian",13425,38.8334,1.267,16,1
+"53452",81770,"col","Auradu",46.35,10.03,"Loc. 110/172, Dinasyu section",NA,"",2,"Ypresian","",56,47.8,27514,"gp_mid",44.77,-5.43,"709",51.9,"ypresian",13426,38.8334,1.267,16,1
+"53453",81771,"col","Auradu",45.65,10.43,"Loc. 85, Bihen Gaha section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",44.07,-5.03,"709",51.9,"ypresian",13427,38.8334,1.267,16,1
+"53454",81772,"col","Auradu",46.47,10.15,"Loc. 117/187, Habel Reren section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",44.88,-5.31,"709",51.9,"ypresian",13428,38.8334,1.267,16,1
+"53455",81773,"col","Auradu",46.47,9.88,"Loc. 157, Garasgoi Hill section",NA,"",1,"Ypresian","",56,47.8,27514,"gp_mid",44.88,-5.58,"709",51.9,"ypresian",13429,38.8334,1.267,16,1
+"53471",81846,"col","La Meseta",-56.67,-64.26,"CV 86-05, Cross Valley",NA,"",4,"Ypresian","",56,47.8,469,"gp_mid",-67.48,-61.89,"803",51.9,"ypresian",13438,-59.0571,-67.0904,16,1
+"54570",83313,"col","",-6.57,32.87,"Mrah Iaresh",NA,"Merra El Arech",4,"Ypresian","",56,47.8,27976,"gp_mid",0.06,23.22,"707",51.9,"ypresian",13826,-10.0131,26.1716,16,1
+"55056",83972,"col","",-16.52,14.72,"Guitir, Diourbel",NA,"",1,"Ypresian","",56,47.8,28131,"gp_mid",NA,NA,"coordinates not computable using this model",51.9,"ypresian",13971,-19.5423,9.5968,16,1
+"55064",83987,"col","Landana",12.13,-5.22,"Bed 26, Landana, Kabinda",NA,"",1,"Ypresian","",56,47.8,28131,"gp_mid",10.19,-17.62,"701",51.9,"ypresian",13976,4.5614,-12.8433,16,1
+"55347",84460,"col","Fur",8.75,56.83,"Fur Formation",NA,"",9,"Ypresian","",56,47.8,28303,"gp_mid",15.36,47.67,"302",51.9,"ypresian",14072,0.5618,53.0982,16,1
+"55492",84608,"col","Çeltek",35.81,40.93,"Eski Celtek",NA,"Eski-Celtek",2,"Ypresian","",56,47.8,28387,"gp_mid",38.31,31.78,"510",51.9,"ypresian",14134,34.7852,35.0615,16,1
+"55781",84997,"col","",3.55,49,"Condé-en-Brie",NA,"",35,"MP 8 + 9","",55.8,48.6,28522,"gp_mid",10.34,40.05,"315",52.2,"ypresian",14217,-1.4995,45.396,16,1
+"56289",85738,"col","Lecheria Limestone",-92.92,16.9,"Soyalo road section",NA,"",9,"Early Eocene","",55.8,48.6,8422,"gp_mid",-73.58,22.12,"205",52.2,"ypresian",14414,-81.2782,17.4126,16,1
+"57821",87890,"col","",-6.58,32.87,"Grand Daoui area, Ypresian",NA,"",2,"Ypresian","",56,47.8,46465,"gp_mid",0.05,23.22,"707",51.9,"ypresian",14966,-10.0131,26.1716,16,1
+"57848",87933,"col","Ghazij",69.82,30.39,"Gandhera Quarry",NA,"",5,"Ypresian","",56,47.8,29569,"gp_mid",70.72,2.72,"501",51.9,"ypresian",14978,62.9097,7.7347,16,1
+"57849",179962,"col","Ghazij",69.82,30.39,"GH-40",NA,"Gandhera Quarry; GSPUM locality GH40",1,"Ypresian","",56,47.8,59716,"gp_mid",70.72,2.72,"501",51.9,"ypresian",14978,62.9097,7.7347,16,1
+"57859",87947,"col","Tienen",4.28,50.33,"Erquelinnes",NA,"Erquellines",29,"Ypresian","",56,47.8,29875,"gp_mid",11.08,41.35,"315",51.9,"ypresian",14981,-1.4995,45.396,16,1
+"57869",87958,"col","",4.03,49.25,"Platychoerops daubrei type locality",NA,"",1,"Ypresian","",56,47.8,1635,"gp_mid",10.77,40.28,"315",51.9,"ypresian",14985,-1.4995,45.396,16,1
+"57871",87961,"col","Mami Khel",71.28,33.33,"Jatta Salt Mine",NA,"H-GSP Locality 9712",3,"Early Eocene","",55.8,48.6,11799,"gp_mid",72.84,5.12,"501",52.2,"ypresian",14986,65.7875,17.3987,16,1
+"57873",87964,"col","Mami Khel",71.1,33.12,"Karak",NA,"H-GSP Locality 9710",2,"Early Eocene","",55.8,48.6,11799,"gp_mid",72.62,4.96,"501",52.2,"ypresian",14987,65.7875,17.3987,16,1
+"59641",90655,"col","",-94.5,31.21,"PRI 744",NA,"",0,"Early Eocene","",55.8,48.6,11845,"gp_mid",-71.27,36.36,"101",52.2,"ypresian",15625,-79.3133,29.783,16,1
+"60022",91312,"col","Subathu",78.61,29.81,"Dogadda",NA,"Dugadda",2,"Ypresian","",56,47.8,30703,"gp_mid",77.82,-0.03,"501",51.9,"ypresian",15759,71.9623,13.9346,16,1
+"60025",91315,"col","Subathu",78.34,30.08,"Nilkanth",NA,"Neelkanth",2,"Ypresian","",56,47.8,30703,"gp_mid",77.67,0.29,"501",51.9,"ypresian",15760,71.9623,13.9346,16,1
+"60071",91361,"col","Sables de Mons-en-Peleve",4.44,51.16,"Edegem, Ypresian",NA,"",1,"Ypresian","",56,47.8,30737,"gp_mid",11.29,42.16,"315",51.9,"ypresian",15780,-1.4995,45.396,16,1
+"60073",91363,"col","",-5.85,34.32,"Ouled Abdoun Basin Recette 4, Ypresian",NA,"",7,"Ypresian","",56,47.8,30740,"gp_mid",NA,NA,"coordinates not computable using this model",51.9,"ypresian",11715,-9.6604,28.6519,16,1
+"60237",91552,"col","Nanjemoy",-76.81,38.76,"M 109",NA,"",3,"Ypresian","",56,47.8,11845,"gp_mid",-50.95,39.61,"109",51.9,"ypresian",15833,-59.2665,37.2863,16,1
+"60284",91602,"col","Crescent",-123.63,48.15,"UCMP Loc. A-3206 - Observatory Point [Crescent Fm]",NA,"",7,"Ypresian","",56,47.8,30879,"gp_mid",-93.52,55.94,"129",51.9,"ypresian",15842,-105.2154,49.2907,16,1
+"60285",91603,"col","Crescent",-123.57,48.05,"UCMP Loc. A-3280 - Elwha River [Crescent Fm]",NA,"",2,"Ypresian","",56,47.8,30879,"gp_mid",-93.48,55.83,"129",51.9,"ypresian",15843,-105.2154,49.2907,16,1
+"60286",91604,"col","Crescent",-123.73,48.15,"UCMP Loc. A-3212 - Port Crescent [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,30879,"gp_mid",-93.64,55.95,"129",51.9,"ypresian",15844,-105.2154,49.2907,16,1
+"60423",91759,"col","Manasquan",-74.17,40.2,"M 160",NA,"",14,"Early Eocene","",55.8,48.6,11845,"gp_mid",-47.86,40.38,"109",52.2,"ypresian",15887,-59.2665,37.2863,16,1
+"62199",94022,"col","Lizard Springs",-61.13,10.22,"Lizard Springs Sample Barr 6972",NA,"River Ampelu",9,"Early Eocene","",55.8,48.6,31947,"gp_mid",-43.52,7.4,"201",52.2,"ypresian",16458,-48.5023,4.7495,16,1
+"62200",94023,"col","Lizard Springs",-61.28,10.08,"Carmen Jones Ravine Sample Hawkins 1831",NA,"Moruga",3,"Early Eocene","",55.8,48.6,31947,"gp_mid",-43.69,7.29,"201",52.2,"ypresian",16459,-48.5023,4.7495,16,1
+"62201",94024,"col","Lizard Springs",-61.6,10.22,"Boodoosingh Well 1: 6892'-6909'",NA,"",4,"Early Eocene","",55.8,48.6,31947,"gp_mid",-43.98,7.45,"201",52.2,"ypresian",16460,-48.5023,4.7495,16,1
+"62216",94039,"col","Clays of Ypres",4.28,51.25,"Kallo Well 292.50-m. Level",NA,"",19,"Early Eocene","",55.8,48.6,31951,"gp_mid",11.16,42.26,"315",52.2,"ypresian",16463,-1.8784,47.8825,16,1
+"62284",94119,"col","Tiyon",67.83,26.12,"Tiyon Dhoro Section Sample No. 8",NA,"",10,"Ypresian","",56,47.8,31978,"gp_mid",67.65,-0.72,"501",51.9,"ypresian",16479,61.0638,10.6125,16,1
+"62285",94120,"col","Tiyon",67.83,26.12,"Tiyon Dhoro Section Sample No. 9",NA,"",4,"Ypresian","",56,47.8,31978,"gp_mid",67.65,-0.72,"501",51.9,"ypresian",16479,61.0638,10.6125,16,1
+"62623",94596,"col","Ghazij",67.19,30.17,"Tariq Habib Mine",NA,"GH-1",1,"Ypresian","",56,47.8,32207,"gp_mid",67.97,23.33,"506",51.9,"ypresian",16530,62.0263,15.5239,16,1
+"62624",94597,"col","Ghazij",67.17,30.19,"GH-2",NA,"",1,"Ypresian","",56,47.8,32207,"gp_mid",67.94,23.34,"506",51.9,"ypresian",16531,62.0263,15.5239,16,1
+"62625",94598,"col","Ghazij",67.19,30.17,"GH-3",NA,"",1,"Ypresian","",56,47.8,32207,"gp_mid",67.97,23.33,"506",51.9,"ypresian",16530,62.0263,15.5239,16,1
+"62626",94599,"col","Ghazij",67.19,30.17,"GH-4",NA,"Sor Range",2,"Ypresian","",56,47.8,32207,"gp_mid",67.97,23.33,"506",51.9,"ypresian",16530,62.0263,15.5239,16,1
+"62627",94600,"col","Ghazij",67.21,30.16,"GH-5",NA,"",2,"Ypresian","",56,47.8,32207,"gp_mid",67.98,23.32,"506",51.9,"ypresian",16532,62.0263,15.5239,16,1
+"62628",94601,"col","Ghazij",67.25,30.06,"GH-6",NA,"",1,"Ypresian","",56,47.8,32207,"gp_mid",68.51,3.16,"501",51.9,"ypresian",16533,62.0263,15.5239,16,1
+"62843",94830,"col","",11.21,45.58,"Pesciara (Alveolina dainelli Zone)",NA,"Monte Bolca",249,"Ypresian","",56,47.8,32343,"gp_mid",18.58,33.41,"307",51.9,"ypresian",16585,11.4227,37.1697,16,1
+"65742",98515,"col","La Meseta",-56.61,-64.23,"CW 86-06, Cape Wiman",NA,"",3,"Ypresian","",56,47.8,469,"gp_mid",-67.41,-61.87,"803",51.9,"ypresian",17534,-59.0571,-67.0904,16,1
+"65881",98655,"col","Nanjemoy",-83.64,32.41,"M 704",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-59.91,35.09,"109",51.9,"ypresian",17591,-67.8665,30.8013,16,1
+"66313",99090,"col","La Meseta",-56.62,-64.22,"CW 86-08, Cape Wiman",NA,"",2,"Ypresian","",56,47.8,469,"gp_mid",-67.42,-61.86,"803",51.9,"ypresian",8195,-59.0571,-67.0904,16,1
+"66442",99261,"col","Nanjemoy",-76.53,38.69,"M 481",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-50.72,39.48,"109",51.9,"ypresian",17808,-59.7433,34.8162,16,1
+"66463",99281,"col","Nanjemoy",-76.87,38.78,"M 112",NA,"",1,"Ypresian","",56,47.8,11845,"gp_mid",-51,39.65,"109",51.9,"ypresian",17816,-59.2665,37.2863,16,1
+"66469",99287,"col","Nanjemoy",-76.87,38.78,"M 493",NA,"",3,"Ypresian","",56,47.8,11845,"gp_mid",-51,39.65,"109",51.9,"ypresian",17816,-59.2665,37.2863,16,1
+"66471",99289,"col","Nanjemoy",-76.75,38.82,"M 740",NA,"",4,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,"ypresian",17822,-59.2665,37.2863,16,1
+"66472",99290,"col","Nanjemoy",-76.75,38.82,"M 741",NA,"",6,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,"ypresian",17822,-59.2665,37.2863,16,1
+"66473",99291,"col","Nanjemoy",-76.75,38.82,"M 742",NA,"",2,"Ypresian","",56,47.8,11845,"gp_mid",-50.87,39.65,"109",51.9,"ypresian",17822,-59.2665,37.2863,16,1
+"66656",99607,"col","",31.47,39.63,"Kabaalan",NA,"",6,"Ypresian","",56,47.8,34256,"gp_mid",34.5,30.36,"510",51.9,"ypresian",17870,24.6012,37.6017,16,1
+"67128",100188,"col","La Meseta",-56.68,-64.26,"ZPAL 8",NA,"",14,"Ypresian","",56,47.8,34380,"gp_mid",-67.49,-61.89,"803",51.9,"ypresian",5567,-59.0571,-67.0904,16,1
+"67252",183948,"col","Ghazij",70.12,29.95,"Fossil Bed F.1841, Rakhi Nala",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"67262",100414,"col","La Meseta",-56.67,-64.23,"IAA 1/90",NA,"",45,"Ypresian","",56,47.8,34464,"gp_mid",-67.46,-61.86,"803",51.9,"ypresian",18076,-59.0571,-67.0904,16,1
+"67917",101336,"col","Manasquan",-74.75,39.93,"M 767",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-48.51,40.26,"109",52.2,"ypresian",18318,-59.2665,37.2863,16,1
+"67918",101337,"col","Manasquan",-74.68,39.97,"M 768",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-48.44,40.28,"109",52.2,"ypresian",18319,-59.2665,37.2863,16,1
+"67924",101343,"col","Manasquan",-74.32,40.15,"M 774",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-48.02,40.37,"109",52.2,"ypresian",18322,-59.2665,37.2863,16,1
+"67929",101348,"col","Manasquan",-75.22,39.74,"M 769",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-49.05,40.18,"109",52.2,"ypresian",18325,-59.2665,37.2863,16,1
+"67936",101355,"col","Manasquan",-74.17,40.2,"M 770",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-47.86,40.38,"109",52.2,"ypresian",15887,-59.2665,37.2863,16,1
+"67938",101357,"col","Manasquan",-74.15,40.16,"M 772",NA,"",2,"Early Eocene","",55.8,48.6,11845,"gp_mid",-47.85,40.34,"109",52.2,"ypresian",18329,-59.2665,37.2863,16,1
+"67939",101358,"col","Manasquan",-74,40.23,"M 773",NA,"",1,"Early Eocene","",55.8,48.6,11845,"gp_mid",-47.68,40.38,"109",52.2,"ypresian",18330,-59.2665,37.2863,16,1
+"70298",105202,"col","Fur",8.75,56.9,"Fur Formation, Limfjord area (SMNS collection)",NA,"",1,"Ypresian","",56,47.8,35192,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"71354",106501,"col","Gafsa Phosphates",8.41,34.33,"Metlaoui",NA,"Al-Mitlawi",11,"Ypresian","",56,47.8,35583,"gp_mid",13.59,21.94,"714",51.9,"ypresian",19856,4.0345,27.309,16,1
+"75655",111550,"col","Juncal",-118.48,34.4,"LACMIP 17846, Elsmere Canyon [Juncal Fm]",NA,"",1,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75656",111551,"col","Juncal",-118.48,34.4,"LACMIP 17847, Elsmere Canyon [Juncal Fm]",NA,"",1,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75657",111552,"col","Juncal",-118.48,34.4,"LACMIP Loc. 17848 - Elsmere Canyon [Juncal Fm]",NA,"",38,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75658",111553,"col","Juncal",-118.48,34.4,"LACMIP 17849, Elsmere Canyon [Juncal Fm]",NA,"",2,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75659",111554,"col","Juncal",-118.48,34.4,"LACMIP 17850, Elsmere Canyon [Juncal Fm]",NA,"",9,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75660",111555,"col","Juncal",-118.48,34.4,"LACMIP Loc. 17851 - Elsmere Canyon [Juncal Fm]",NA,"",1,"Early Eocene","",55.8,48.6,36513,"gp_mid",-92.95,40.63,"105",52.2,"ypresian",21200,-102.0148,33.8633,16,1
+"75825",111780,"col","Redbank Plains",152.88,-27.65,"Goodna",NA,"",1,"Ypresian","",56,47.8,36526,"gp_mid",165.51,-45.4,"801",51.9,"ypresian",21246,152.7035,-47.4559,16,1
+"76505",112719,"col","Ghazij",69.79,30.42,"GH-46",NA,"GSPUM locality GH46; Kingri",5,"Ypresian","",56,47.8,36699,"gp_mid",70.69,2.76,"501",51.9,"ypresian",21394,62.9097,7.7347,16,1
+"76507",112721,"col","Ghazij",69.8,30.43,"GH-44",NA,"Kingri",2,"Ypresian","",56,47.8,36699,"gp_mid",70.71,2.77,"501",51.9,"ypresian",21396,62.9097,7.7347,16,1
+"76509",112723,"col","Ghazij",69.79,30.41,"GH-47",NA,"Kingri",2,"Ypresian","",56,47.8,36699,"gp_mid",70.7,2.76,"501",51.9,"ypresian",21397,62.9097,7.7347,16,1
+"76797",113015,"col","Fur",8.73,56.89,"Gullerup Strand, Mors",NA,"",2,"Ypresian","",56,47.8,36713,"gp_mid",15.35,47.72,"302",51.9,"ypresian",21463,0.5618,53.0982,16,1
+"76798",113025,"col","Fur",8.73,56.89,"Fur, Breiner collection",NA,"",3,"Ypresian","",56,47.8,36730,"gp_mid",15.35,47.72,"302",51.9,"ypresian",21463,0.5618,53.0982,16,1
+"76799",113026,"col","Fur",8.73,56.88,"Sydklinten",NA,"",2,"Ypresian","",56,47.8,36730,"gp_mid",15.35,47.71,"302",51.9,"ypresian",21464,0.5618,53.0982,16,1
+"76800",113027,"col","Fur",8.75,56.89,"Fristurps Gl. Molergrav",NA,"",1,"Ypresian","",56,47.8,36730,"gp_mid",15.36,47.73,"302",51.9,"ypresian",21465,0.5618,53.0982,16,1
+"76801",113028,"col","Fur",8.88,56.95,"Skarrehage Molergrav, Mors",NA,"",4,"Ypresian","",56,47.8,36730,"gp_mid",15.47,47.78,"302",51.9,"ypresian",21466,0.5618,53.0982,16,1
+"76802",113029,"col","Fur",8.92,56.92,"Between layers +25 & +30 Ejerslev Molergrav, Mors",NA,"Eserslev",6,"Ypresian","",56,47.8,36730,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"76803",113030,"col","Fur",8.67,56.89,"Sundby Klint, Mors (Moler Museum collection)",NA,"",5,"Ypresian","",56,47.8,36730,"gp_mid",15.3,47.72,"302",51.9,"ypresian",21467,0.5618,53.0982,16,1
+"76842",113069,"col","Fur",8.82,56.89,"Klitgarden, Mors (Copenhagen collection)",NA,"",4,"Ypresian","",56,47.8,36730,"gp_mid",15.42,47.72,"302",51.9,"ypresian",21484,0.5618,53.0982,16,1
+"76843",113070,"col","Fur",8.82,56.89,"Mors (Ansorge collection)",NA,"",3,"Ypresian","",56,47.8,56347,"gp_mid",15.42,47.72,"302",51.9,"ypresian",21484,0.5618,53.0982,16,1
+"76844",113071,"col","Fur",8.99,57.02,"Bygholm Vejlerne",NA,"",2,"Ypresian","",56,47.8,36730,"gp_mid",15.57,47.85,"302",51.9,"ypresian",21485,0.5618,53.0982,16,1
+"76913",113144,"col","Fur",8.65,56.94,"Silstrup, Mors",NA,"",1,"Ypresian","",56,47.8,36730,"gp_mid",15.29,47.77,"302",51.9,"ypresian",21530,0.5618,53.0982,16,1
+"76916",113147,"col","Fur",8.72,56.89,"Svalklit (Reittig collection)",NA,"",3,"Ypresian","",56,47.8,36713,"gp_mid",15.34,47.72,"302",51.9,"ypresian",21531,0.5618,53.0982,16,1
+"77774",114153,"col","Fur",8.75,56.9,"Island of Mors (Moler Museum coll)",NA,"",4,"Ypresian","",56,47.8,37052,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"77775",114154,"col","Ølst",9,56.84,"Island of Fur (Fur Museum coll)",NA,"",7,"Ypresian","",56,47.8,37052,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"78478",114961,"col","Tamaguélelt",0.25,17.59,"Mali20, unit 7, Tamaguélelt",NA,"Mali-20c (unit 7); Mali 20c",1,"Ypresian","",56,47.8,65788,"gp_mid",2.77,6.97,"714",51.9,"ypresian",7152,-4.7298,10.4922,16,1
+"80701",118000,"col","Fur",8.67,56.89,"Sundby Klint, Mors Horizon E",NA,"",1,"Ypresian","",56,47.8,37947,"gp_mid",15.3,47.72,"302",51.9,"ypresian",21467,0.5618,53.0982,16,1
+"82420",120020,"col","Fur",8.96,56.84,"Knude Klint (Knuden), Fur",NA,"",3,"Ypresian","",56,47.8,40398,"gp_mid",15.53,47.67,"302",51.9,"ypresian",22940,0.5618,53.0982,16,1
+"82421",120021,"col","Fur",9.18,56.81,"Ertebølle",NA,"",1,"Ypresian","",56,47.8,38432,"gp_mid",15.7,47.63,"302",51.9,"ypresian",22941,0.5618,53.0982,16,1
+"82422",120022,"col","Fur",9.11,56.76,"Junget",NA,"",1,"Ypresian","",56,47.8,38432,"gp_mid",15.65,47.58,"302",51.9,"ypresian",22942,0.5618,53.0982,16,1
+"82423",120023,"col","Fur",8.92,56.92,"Between layers +13 & +14 Ejerslev Molergrav, Mors",NA,"Eserslev",1,"Ypresian","",56,47.8,38436,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"83340",121125,"col","Kauru",171.02,-44.79,"J40/f223 - Waihao River floodplain [Kauru Fm]",NA,"",1,"Waipawan","Mangaorapan",55.8,49.5,38537,"gp_mid",-154.43,-48.08,"807",52.65,"ypresian",23249,-167.6975,-57.5029,16,1
+"84213",122230,"col","Pesciara",11.21,45.58,"Pesciara di Bolca (Monte Bolca, Verona collection)",NA,"",10,"Ypresian","",56,47.8,49198,"gp_mid",18.58,33.41,"307",51.9,"ypresian",16585,11.4227,37.1697,16,1
+"84240",122294,"col","Lodo",-120.44,36.36,"UCMP 1817, Urruttia Canyon-Salt Creek",NA,"",72,"Ypresian","",56,47.8,38924,"gp_mid",-93.18,43.92,"130",51.9,"ypresian",23550,-104.434,38.9339,16,1
+"84491",122656,"col","Domengine",-120.5,36.2,"UC 672 - Parsons Peak [Domengine Sandstone]",NA,"",52,"Ypresian","",56,47.8,39107,"gp_mid",-93.29,43.77,"130",51.9,"ypresian",23613,-102.0148,33.8633,16,1
+"84741",123101,"col","Aalter",3.43,51.08,"Aalter",NA,"",1,"Ypresian","",56,47.8,39323,"gp_mid",10.43,42.13,"315",51.9,"ypresian",23682,-1.4995,45.396,16,1
+"84742",123102,"col","Aalter",3.33,51.17,"Oedelem, Aalter Formation",NA,"",1,"Ypresian","",56,47.8,39323,"gp_mid",10.35,42.22,"315",51.9,"ypresian",12695,-1.4995,45.396,16,1
+"84743",123103,"col","",4.12,50.35,"Peissant",NA,"",1,"Ypresian","",56,47.8,39323,"gp_mid",10.94,41.37,"315",51.9,"ypresian",23683,-1.4995,45.396,16,1
+"85012",123421,"col","Argiles d'lignite du Soissonnais",2.73,49.35,"Rivecourt",NA,"",1,"Early Eocene","",55.8,48.6,39549,"gp_mid",9.67,40.43,"315",52.2,"ypresian",23799,-1.4995,45.396,16,1
+"85048",123459,"col","",2.64,49.34,"Houdancourt (Rivecourt)",NA,"Oise amber; Paris amber",2,"Early Eocene","",55.8,48.6,39654,"gp_mid",9.59,40.43,"315",52.2,"ypresian",23809,-1.4995,45.396,16,1
+"85102",123513,"col","Manasquan",-74,40,"Shark River",NA,"Eosuchus (Gavialis) minor type locality",2,"Ypresian","",56,47.8,71009,"gp_mid",-47.77,40.15,"109",51.9,"ypresian",23828,-59.2665,37.2863,16,1
+"85371",123796,"col","Fur",8.72,56.95,"Thisted erratic",NA,"",1,"Ypresian","",56,47.8,48327,"gp_mid",15.35,47.78,"302",51.9,"ypresian",23945,0.5618,53.0982,16,1
+"85402",123850,"col","Argiles d'lignite du Soissonnais",2.65,49.35,"Oise amber, Le Quesnoy",NA,"",169,"MP 7","",55.8,48.6,19606,"gp_mid",9.6,40.44,"315",52.2,"ypresian",11065,-1.4995,45.396,16,1
+"85516",123997,"col","Moler",9,56.84,"Island of Fur (Copenhagen Museum coll)",NA,"",13,"Ypresian","",56,47.8,51378,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"85517",123998,"col","Moler",9,56.84,"Island of Fur (BMNH coll)",NA,"",9,"Ypresian","",56,47.8,39932,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"85518",123999,"col","Fur",8.83,56.92,"Skaerbaek (Copenhagen Museum coll.)",NA,"",3,"Ypresian","",56,47.8,51378,"gp_mid",15.43,47.76,"302",51.9,"ypresian",23984,0.5618,53.0982,16,1
+"86275",124967,"col","Manasquan",-74.99,39.81,"Timber Creek",NA,"Clementon",5,"Ypresian","",56,47.8,39861,"gp_mid",-48.79,40.2,"109",51.9,"ypresian",24199,-59.2665,37.2863,16,1
+"86711",125597,"col","",3.32,49.38,"Soissons",NA,"",2,"Ypresian","",56,47.8,40795,"gp_mid",10.18,40.43,"315",51.9,"ypresian",24345,-1.4995,45.396,16,1
+"86775",125666,"col","Redbank Plains",152.88,-27.65,"Redbank Plains",NA,"",9,"Ypresian","",56,47.8,40798,"gp_mid",165.51,-45.4,"801",51.9,"ypresian",21246,152.7035,-47.4559,16,1
+"87141",126161,"col","Manasquan",-74.75,39.93,"Vincentown, Manasquan Fm.",NA,"",2,"Ypresian","",56,47.8,40993,"gp_mid",-48.51,40.26,"109",51.9,"ypresian",18318,-59.2665,37.2863,16,1
+"87488",126591,"col","London Clay",-0.7,50.78,"Bognor Regis beach",NA,"",22,"Ypresian","",56,47.8,41067,"gp_mid",6.9,42.03,"315",51.9,"ypresian",24486,-4.9086,45.1603,16,1
+"87872",127172,"col","Fur",8.75,56.9,"Fur Formation (Mikkelsen collection)",NA,"",2,"Ypresian","",56,47.8,41343,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"87873",127173,"col","Fur",8.75,56.9,"Fur Formation (Moler Museum collection)",NA,"",2,"Ypresian","",56,47.8,41343,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"87928",127280,"col","Fur",8.73,56.82,"Ejerslev Molergrav",NA,"",1,"Early Eocene","",55.8,48.6,41422,"gp_mid",15.34,47.65,"302",52.2,"ypresian",24559,0.5618,53.0982,16,1
+"88012",127461,"col","",10.86,45.67,"Mountain Chain of Monte Baldo",NA,"",1,"Ypresian","",56,47.8,41512,"gp_mid",18.38,33.61,"307",51.9,"ypresian",24577,11.4227,37.1697,16,1
+"88033",127494,"col","",12.9,46.21,"Castelnuovo del Driuli",NA,"",3,"Early Eocene","",55.8,48.6,41538,"gp_mid",20.18,33.4,"307",52.2,"ypresian",24580,11.4227,37.1697,16,1
+"88069",127545,"col","",11.54,45.55,"Monte Postale",NA,"",29,"Ypresian","",56,47.8,41572,"gp_mid",18.81,33.27,"307",51.9,"ypresian",24592,11.4227,37.1697,16,1
+"90031",130483,"col","Fur",8.68,56.88,"Northeast of Sundby",NA,"",1,"Ypresian","",56,47.8,42249,"gp_mid",15.31,47.72,"302",51.9,"ypresian",25079,0.5618,53.0982,16,1
+"94060",135544,"col","",-1.09,50.8,"Portsmouth dockyard extension",NA,"",6,"Early Eocene","",55.8,48.6,43367,"gp_mid",6.57,42.07,"315",52.2,"ypresian",26229,-4.9086,45.1603,16,1
+"94603",136273,"col","Calcari nummulitici",11.2,45.58,"?Monte Postale",NA,"Heteronectes chaneti type locality",1,"Ypresian","",56,47.8,43599,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"94916",136756,"col","Los Cuervos",-73,8.98,"Catatumbo Basin I",NA,"",68,"Early Eocene","",55.8,48.6,43561,"gp_mid",-55.39,7.49,"203",52.2,"ypresian",26507,-60.8398,3.6166,16,1
+"94919",136759,"col","Mirador",-73,8.98,"Catatumbo Basin II",NA,"",89,"Early Eocene","",55.8,48.6,43561,"gp_mid",-55.39,7.49,"203",52.2,"ypresian",26507,-60.8398,3.6166,16,1
+"95007",136905,"col","",9.93,35.54,"Djebel Teldja",NA,"",1,"Ypresian","",56,47.8,43776,"gp_mid",15.15,22.91,"714",51.9,"ypresian",26527,7.476,27.0565,16,1
+"95008",136906,"col","",8.12,35.41,"Tebessa",NA,"",1,"Ypresian","",56,47.8,43776,"gp_mid",13.56,23.05,"714",51.9,"ypresian",26528,4.0345,27.309,16,1
+"96880",138942,"col","Ølst",8.99,56.84,"Stolleklint, Fur",NA,"",12,"Ypresian","",56,47.8,44639,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"96881",152153,"col","Ølst",8.91,56.94,"Feggeklit, Mors (GMUC collection)",NA,"",1,"Ypresian","",56,47.8,48839,"gp_mid",15.5,47.77,"302",51.9,"ypresian",27030,0.5618,53.0982,16,1
+"96882",138943,"col","Ølst",9,56.83,"Manhøj, Fur",NA,"",4,"Ypresian","",56,47.8,44639,"gp_mid",15.56,47.66,"302",51.9,"ypresian",27031,0.5618,53.0982,16,1
+"97826",139941,"col","Redbank Plains",152.83,-27.6,"New Chum clay pits, Dinmore",NA,"",2,"Ypresian","",56,47.8,45139,"gp_mid",165.42,-45.38,"801",51.9,"ypresian",27231,152.7035,-47.4559,16,1
+"98022",140158,"col","",11.38,45.66,"Contrada Gecchelina, Monte di Malo",NA,"",46,"Ypresian","",56,47.8,45264,"gp_mid",18.76,33.42,"307",51.9,"ypresian",27283,11.4227,37.1697,16,1
+"98271",140451,"col","",-1.7,50.74,"Highcliffe Decapods",NA,"",1,"Early Eocene","",55.8,48.6,45258,"gp_mid",6.04,42.05,"315",52.2,"ypresian",27316,-4.9086,45.1603,16,1
+"99395",141909,"col","",-60.63,43.85,"CP1  P-51 well (685-945m)",NA,"",17,"Early Eocene","",55.8,48.6,46092,"gp_mid",-33.78,40.83,"108",52.2,"ypresian",27463,-44.2524,40.5539,16,1
+"100690",143453,"col","Vrachionas",20.75,37.8,"Vrachionas Mount area",NA,"",6,"Early Eocene","",55.8,48.6,46470,"gp_mid",NA,NA,"coordinates not computable using this model",52.2,"ypresian",27645,18.0696,27.3745,16,1
+"101232",144102,"col","Tienen",4.22,50.42,"Leval (Trieu)",NA,"Trieu-de-Leval",5,"Ypresian","",56,47.8,29875,"gp_mid",11.03,41.43,"315",51.9,"ypresian",27691,-1.4995,45.396,16,1
+"101233",144103,"col","Tienen",4.98,50.7,"Orp-le-Grand",NA,"",4,"Ypresian","",56,47.8,29875,"gp_mid",11.71,41.68,"315",51.9,"ypresian",27692,-1.4995,45.396,16,1
+"101234",144104,"col","",3,49.64,"Muirancourt",NA,"Lignites de Muirancourt",3,"Early Eocene","",55.8,48.6,46599,"gp_mid",9.93,40.72,"315",52.2,"ypresian",27693,-1.4995,45.396,16,1
+"101644",144643,"col","Subathu",76.98,30.96,"Rifle Range Locality",NA,"Locality KK",2,"Early Eocene","",55.8,48.6,46804,"gp_mid",76.77,1.45,"501",52.2,"ypresian",27782,71.9623,13.9346,16,1
+"101904",144978,"col","Ghazij",67.26,30.12,"Sinjdi locality, Ghazij Fm, Section A, bed B",NA,"",7,"Ypresian","",56,47.8,46909,"gp_mid",68.04,23.29,"506",51.9,"ypresian",27866,62.0263,15.5239,16,1
+"101948",145127,"col","",11.33,45.67,"Monte Magrè",NA,"",10,"Ypresian","",56,47.8,46936,"gp_mid",18.73,33.46,"307",51.9,"ypresian",27871,11.4227,37.1697,16,1
+"101951",145130,"col","Ghazij",67.26,30.12,"Sinjdi locality, Ghazij Fm, Section B",NA,"",22,"Ypresian","",56,47.8,46909,"gp_mid",68.04,23.29,"506",51.9,"ypresian",27866,62.0263,15.5239,16,1
+"101952",145131,"col","Ghazij",67.72,30.16,"Shahrig locality, Ghazij Fm, Section C, bed A",NA,"",16,"Ypresian","",56,47.8,46909,"gp_mid",68.93,3.11,"501",51.9,"ypresian",27873,62.0263,15.5239,16,1
+"101953",145132,"col","Ghazij",67.72,30.16,"Shahrig locality, Ghazij Fm, Section C, bed I",NA,"",4,"Ypresian","",56,47.8,46909,"gp_mid",68.93,3.11,"501",51.9,"ypresian",27873,62.0263,15.5239,16,1
+"101954",145133,"col","Ghazij",67.72,30.16,"Shahrig locality, Ghazij Fm, Section C, bed J",NA,"",4,"Ypresian","",56,47.8,46909,"gp_mid",68.93,3.11,"501",51.9,"ypresian",27873,62.0263,15.5239,16,1
+"102131",145442,"col","Subathu",77.02,30.98,"Nummulites-Rotularius membranipora zone [Subathu Fm]",NA,"",7,"Ypresian","",56,47.8,47013,"gp_mid",76.8,1.46,"501",51.9,"ypresian",27900,71.9623,13.9346,16,1
+"102132",145443,"col","Subathu",77.02,30.98,"Assilina laxispira-Assilina placentula zone [Subathu Fm]",NA,"",14,"Ypresian","",56,47.8,47013,"gp_mid",76.8,1.46,"501",51.9,"ypresian",27900,71.9623,13.9346,16,1
+"102145",145504,"col","ølst",8.82,56.89,"Fläde, Mors",NA,"",1,"Ypresian","",56,47.8,45700,"gp_mid",15.42,47.72,"302",51.9,"ypresian",21484,0.5618,53.0982,16,1
+"102956",146899,"col","Crescent",-122.85,47.73,"CSUN Loc. 1510 - Pulali Point [Crescent Fm]",NA,"",4,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102957",146900,"col","Crescent",-122.85,47.73,"CSUN Loc. 1511 - Pulali Point [Crescent Fm]",NA,"",23,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102958",146901,"col","Crescent",-122.85,47.73,"CSUN Loc. 1512 - Pulali Point [Crescent Fm]",NA,"",7,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102959",146902,"col","Crescent",-122.85,47.73,"CSUN Loc. 1513 - Pulali Point [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102960",146903,"col","Crescent",-122.85,47.73,"CSUN Loc. 1514 - Pulali Point [Crescent Fm]",NA,"",3,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102961",146904,"col","Crescent",-122.85,47.73,"CSUN Loc. 1524 - Pulali Point [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"102962",146905,"col","Crescent",-122.85,47.73,"Sample Mf1 - Pulali Point [Crescent Fm]",NA,"",5,"Ypresian","",56,47.8,47455,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"103459",147459,"col","",65.63,27.13,"Nammal Gorge section, Laki",NA,"",3,"Early Eocene","",55.8,48.6,47515,"gp_mid",66.9,20.14,"507",52.2,"ypresian",28047,59.0341,6.2323,16,1
+"103685",147702,"col","Meganos C",-121.74,37.9,"Byron Quadrangle",NA,"",13,"Early Eocene","",55.8,48.6,47540,"gp_mid",-94.27,45.61,"130",52.2,"ypresian",28063,-104.434,38.9339,16,1
+"106820",151340,"col","Fur",8.67,56.89,"North of Sundby, Mors",NA,"",1,"Ypresian","",56,47.8,48307,"gp_mid",15.3,47.72,"302",51.9,"ypresian",21467,0.5618,53.0982,16,1
+"106837",151360,"col","",11.84,54.15,"Heiligendamm nodule",NA,"",1,"Ypresian","",56,47.8,48335,"gp_mid",17.7,44.9,"315",51.9,"ypresian",28670,4.4356,50.8847,16,1
+"107103",151684,"col","",5.1,50.83,"Léau amber",NA,"",1,"Ypresian","",56,47.8,10113,"gp_mid",11.82,41.81,"315",51.9,"ypresian",28733,-1.4995,45.396,16,1
+"107148",151765,"col","Misoa",-72.38,10.88,"SS 1284",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107149",151766,"col","Misoa",-72.38,10.88,"SS 2150",NA,"",4,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107150",151767,"col","Misoa",-72.38,10.88,"SS 1282",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107151",151768,"col","Misoa",-72.38,10.88,"SS 1281",NA,"",8,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107152",151769,"col","Misoa",-72.38,10.88,"SS 1280",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107153",151770,"col","Misoa",-72.38,10.88,"SS 1278",NA,"",7,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107154",151771,"col","Misoa",-72.38,10.88,"SS 1277",NA,"",9,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107155",151772,"col","Misoa",-72.38,10.88,"SS 1276",NA,"",16,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107156",151773,"col","Misoa",-72.38,10.88,"SS 1275",NA,"",7,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107157",151774,"col","Misoa",-72.38,10.88,"SS 1274",NA,"",9,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107158",151775,"col","Misoa",-72.38,10.88,"SS 1273",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107159",151776,"col","Misoa",-72.38,10.88,"SS 1272",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107160",151777,"col","Misoa",-72.38,10.88,"SS 1271",NA,"",17,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107161",151778,"col","Misoa",-72.38,10.88,"SS 1270",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107162",151779,"col","Misoa",-72.38,10.88,"SS 1269",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107163",151780,"col","Misoa",-72.38,10.88,"SS 1268",NA,"",5,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107164",151781,"col","Misoa",-72.38,10.88,"SS 1267",NA,"",17,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107165",151782,"col","Misoa",-72.38,10.88,"SS 1266",NA,"",4,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107166",151783,"col","Misoa",-72.38,10.88,"SS 1265",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107167",151784,"col","Misoa",-72.38,10.88,"SS 1264",NA,"",18,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107168",151785,"col","Misoa",-72.38,10.88,"SS 1263",NA,"",9,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107169",151786,"col","Misoa",-72.38,10.88,"SS 1262",NA,"",12,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107170",151787,"col","Misoa",-72.38,10.88,"SS 1261",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107171",151788,"col","Misoa",-72.38,10.88,"SS 1260",NA,"",7,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107172",151789,"col","Misoa",-72.38,10.88,"SS 1258",NA,"",7,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107173",151790,"col","Misoa",-72.38,10.88,"SS 1257",NA,"",20,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107174",151791,"col","Misoa",-72.38,10.88,"SS 1256",NA,"",9,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107175",151792,"col","Misoa",-72.38,10.88,"SS 1255",NA,"",16,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107176",151793,"col","Misoa",-72.38,10.88,"SS 1254",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107177",151794,"col","Misoa",-72.38,10.88,"SS 1253",NA,"",21,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107178",151795,"col","Misoa",-72.38,10.88,"SS 1252",NA,"",12,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107179",151796,"col","Misoa",-72.38,10.88,"SS 1251",NA,"",18,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107180",151797,"col","Misoa",-72.38,10.88,"SS 1250",NA,"",2,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107181",151798,"col","Misoa",-72.38,10.88,"SS 1249",NA,"",8,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107182",151799,"col","Misoa",-72.38,10.88,"SS 1248",NA,"",8,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107183",151800,"col","Misoa",-72.38,10.88,"SS 1245",NA,"",8,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107184",151801,"col","Misoa",-72.38,10.88,"SS 1243",NA,"",8,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107185",151802,"col","Misoa",-72.38,10.88,"SS 1242",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107186",151803,"col","Misoa",-72.38,10.88,"SS 1240",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107187",151804,"col","Misoa",-72.38,10.88,"SS 1239",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107188",151805,"col","Misoa",-72.38,10.88,"SS 1238",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107189",151806,"col","Misoa",-72.38,10.88,"SS 1237",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107190",151807,"col","Misoa",-72.38,10.88,"SS 1236",NA,"",7,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107191",151808,"col","Misoa",-72.38,10.88,"SS 1235",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107192",151809,"col","Misoa",-72.38,10.88,"SS 1234",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107193",151810,"col","Misoa",-72.38,10.88,"SS 1232",NA,"",0,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107194",151811,"col","Misoa",-72.38,10.88,"SS 1231",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107195",151812,"col","Misoa",-72.38,10.88,"SS 1230",NA,"",19,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107196",151813,"col","Misoa",-72.38,10.88,"SS 1216",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107197",151814,"col","Misoa",-72.38,10.88,"SS 1215",NA,"",6,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107198",151815,"col","Misoa",-72.38,10.88,"SS 1213",NA,"",12,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107199",151816,"col","Misoa",-72.38,10.88,"SS 1227",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107200",151817,"col","Misoa",-72.38,10.88,"SS 1577",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107201",151818,"col","Misoa",-72.38,10.88,"SS 1576",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107202",151819,"col","Misoa",-72.38,10.88,"SS 1575",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107203",151820,"col","Misoa",-72.38,10.88,"SS 1573",NA,"",12,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107204",151821,"col","Misoa",-72.38,10.88,"SS 1572",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107205",151822,"col","Misoa",-72.38,10.88,"SS 1571",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107206",151823,"col","Misoa",-72.38,10.88,"SS 1569",NA,"",15,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107207",151824,"col","Misoa",-72.38,10.88,"SS 1568",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107208",151825,"col","Misoa",-72.38,10.88,"SS 1567",NA,"",14,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107209",151826,"col","Misoa",-72.38,10.88,"SS 1566",NA,"",11,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107210",151827,"col","Misoa",-72.38,10.88,"SS 1565",NA,"",17,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107211",151828,"col","Misoa",-72.38,10.88,"SS 1564",NA,"",18,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107212",151829,"col","Misoa",-72.38,10.88,"SS 1563",NA,"",16,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107213",151830,"col","Misoa",-72.38,10.88,"SS 1183",NA,"",13,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107214",151831,"col","Misoa",-72.38,10.88,"SS 1185",NA,"",9,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107215",151832,"col","Misoa",-72.38,10.88,"SS 1191",NA,"",18,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107216",151833,"col","Misoa",-72.38,10.88,"SS 1188",NA,"",10,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107217",151834,"col","Misoa",-72.38,10.88,"SS 1190",NA,"",19,"Early Eocene","",55.8,48.6,43358,"gp_mid",-54.55,9.31,"203",52.2,"ypresian",28735,-60.8398,3.6166,16,1
+"107425",152143,"col","Moler",9,56.84,"Fur, horizon D (Fur Museum coll)",NA,"",2,"Ypresian","",56,47.8,48839,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"107426",152144,"col","Ølst",8.99,56.84,"Stolleklint, Fur (Fur Museum collection)",NA,"",3,"Ypresian","",56,47.8,48839,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"107427",152145,"col","Ølst",9.03,56.85,"Østklint, Fur (Copenhagen Museum coll)",NA,"",2,"Ypresian","",56,47.8,48839,"gp_mid",15.59,47.67,"302",51.9,"ypresian",28794,0.5618,53.0982,16,1
+"107428",152146,"col","Ølst",9.04,56.84,"Farkør, Fur (Copenhagen Museum coll)",NA,"",1,"Ypresian","",56,47.8,48839,"gp_mid",15.59,47.67,"302",51.9,"ypresian",28795,0.5618,53.0982,16,1
+"107429",152147,"col","Ølst",9.03,56.85,"Østklint, Fur, horizon E (Fur Museum coll)",NA,"",2,"Ypresian","",56,47.8,48839,"gp_mid",15.59,47.67,"302",51.9,"ypresian",28794,0.5618,53.0982,16,1
+"107430",152148,"col","Ølst",8.99,56.84,"Fur, horizon E",NA,"",2,"Ypresian","",56,47.8,48839,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"107431",152149,"col","",9.18,56.81,"Ertebølle, Limfjord (Copenhagen coll)",NA,"",4,"Ypresian","",56,47.8,48839,"gp_mid",15.7,47.63,"302",51.9,"ypresian",22941,0.5618,53.0982,16,1
+"107432",152150,"col","",9.18,56.81,"Ertebølle, Limfjord (Fur Museum coll)",NA,"",1,"Ypresian","",56,47.8,48839,"gp_mid",15.7,47.63,"302",51.9,"ypresian",22941,0.5618,53.0982,16,1
+"107433",152151,"col","Ølst",8.96,56.84,"Knudegrav, Fur",NA,"",2,"Ypresian","",56,47.8,48840,"gp_mid",15.53,47.67,"302",51.9,"ypresian",22940,0.5618,53.0982,16,1
+"107434",152152,"col","Ølst",8.75,56.9,"Hanklit, Mors (Copenhagen collection)",NA,"",2,"Ypresian","",56,47.8,51378,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"107435",152154,"col","Ølst",8.91,56.94,"Feggeklit, Mors (Fur Museum collection)",NA,"",1,"Ypresian","",56,47.8,48840,"gp_mid",15.5,47.77,"302",51.9,"ypresian",27030,0.5618,53.0982,16,1
+"107436",152155,"col","Fur",8.92,56.92,"Ejersler, Harhøj",NA,"",1,"Ypresian","",56,47.8,48840,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"107437",152156,"col","Fur",8.82,56.89,"Klitgarden, Mors (Rettig collection)",NA,"",1,"Ypresian","",56,47.8,36730,"gp_mid",15.42,47.72,"302",51.9,"ypresian",21484,0.5618,53.0982,16,1
+"107438",152157,"col","Fur",8.82,56.89,"Klitgård, Mors (Madsen collection)",NA,"",1,"Ypresian","",56,47.8,48845,"gp_mid",15.42,47.72,"302",51.9,"ypresian",21484,0.5618,53.0982,16,1
+"107531",152260,"col","Ølst",8.99,56.84,"Stolleklint, Fur (KU-NHM collection)",NA,"",1,"Ypresian","",56,47.8,48964,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"107578",152336,"col","",172.03,-43.28,"L35/f7537 - White Creek, Eyre River",NA,"",1,"Mangaorapan","",53,49.5,49023,"gp_mid",-153.33,-46,"807",51.25,"ypresian",28845,-166.8423,-55.0484,16,1
+"107593",152357,"col","Fur",8.73,56.89,"Gullerup (Fur Museum collection)",NA,"",1,"Ypresian","",56,47.8,49037,"gp_mid",15.35,47.72,"302",51.9,"ypresian",21463,0.5618,53.0982,16,1
+"107856",152834,"col","La Meseta",-56.69,-64.24,"Seymour Island, locality 4",NA,"",1,"Ypresian","",56,47.8,49259,"gp_mid",-67.49,-61.86,"803",51.9,"ypresian",28963,-59.0571,-67.0904,16,1
+"108473",153802,"col","La Meseta",-56.67,-64.24,"Institute of Polar Studies locality 4, Seymour Island",NA,"",2,"Ypresian","",56,47.8,8482,"gp_mid",-67.47,-61.87,"803",51.9,"ypresian",1090,-59.0571,-67.0904,16,1
+"108688",154073,"col","Redbank Plains",152.84,-27.6,"Clay pits, Dinmore (UQ collection)",NA,"",2,"Ypresian","",56,47.8,49941,"gp_mid",165.43,-45.38,"801",51.9,"ypresian",29162,152.7035,-47.4559,16,1
+"109463",156742,"col","",8.6,56.48,"Struer, erratic block (Copenhagen coll)",NA,"",1,"Ypresian","",56,47.8,51378,"gp_mid",15.21,47.32,"302",51.9,"ypresian",29323,0.5618,53.0982,16,1
+"110417",156718,"col","",8.65,56.94,"Silstrup Bakke",NA,"",11,"Ypresian","",56,47.8,51378,"gp_mid",15.29,47.77,"302",51.9,"ypresian",21530,0.5618,53.0982,16,1
+"110420",156722,"col","",8.6,56.48,"Struer (Copenhagen coll)",NA,"",5,"Ypresian","",56,47.8,51378,"gp_mid",15.21,47.32,"302",51.9,"ypresian",29323,0.5618,53.0982,16,1
+"110438",156743,"col","",8.73,56.95,"Thy (Mineralogical Museum, Copenhagen coll.)",NA,"",1,"Ypresian","",56,47.8,51378,"gp_mid",15.36,47.78,"302",51.9,"ypresian",29551,0.5618,53.0982,16,1
+"110439",156744,"col","",8.65,56.94,"Silstrup (Herlufsholm collection)",NA,"",1,"Ypresian","",56,47.8,51378,"gp_mid",15.29,47.77,"302",51.9,"ypresian",21530,0.5618,53.0982,16,1
+"110440",156745,"col","Ølst",8.62,56.86,"Klitgaard, near Vilsund (erratic block)",NA,"",1,"Ypresian","",56,47.8,51378,"gp_mid",15.25,47.7,"302",51.9,"ypresian",29552,0.5618,53.0982,16,1
+"110441",156746,"col","Ølst",8.75,56.9,"Mors (Herlufsholm collection)",NA,"",2,"Ypresian","",56,47.8,51378,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"110442",156747,"col","Moler",9,56.84,"Unspecified Fur Formation locality (Copenhagen Museum coll)",NA,"",1,"Ypresian","",56,47.8,51378,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"110445",156750,"col","",9.18,56.81,"Limfjord (Copenhagen coll)",NA,"",1,"Ypresian","",56,47.8,36730,"gp_mid",15.7,47.63,"302",51.9,"ypresian",22941,0.5618,53.0982,16,1
+"110649",157037,"col","Fur",8.83,56.92,"Skaerbaek (Ansorge coll.)",NA,"",1,"Ypresian","",56,47.8,51479,"gp_mid",15.43,47.76,"302",51.9,"ypresian",23984,0.5618,53.0982,16,1
+"110650",157038,"col","Ølst",8.75,56.9,"Hanklit, Mors (Ansorge collection)",NA,"",1,"Ypresian","",56,47.8,51479,"gp_mid",15.36,47.73,"302",51.9,"ypresian",19436,0.5618,53.0982,16,1
+"110651",157039,"col","Fur",8.92,56.92,"Ejerslev, Mors (Ansorge collection)",NA,"",2,"Ypresian","",56,47.8,51479,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"110652",157040,"col","Moler",9,56.84,"Island of Fur (Witteck coll)",NA,"",3,"Ypresian","",56,47.8,51479,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"110653",157041,"col","Fur",8.92,56.92,"Ejerslev, Mors (Hielscher coll)",NA,"",1,"Ypresian","",56,47.8,51479,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"110734",157310,"col","Ølst",9,56.84,"Fur Formation (Uppsala coll)",NA,"",1,"Ypresian","",56,47.8,51663,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"110735",157311,"col","Fur",8.92,56.92,"Ejerslev, Mors (Copenhagen collection)",NA,"",4,"Ypresian","",56,47.8,51663,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"110736",157312,"col","Fur",8.92,56.92,"Between layers -11 & -13, Ejerslev Molergrav, Mors",NA,"",2,"Ypresian","",56,47.8,51663,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"110737",157313,"col","Ølst",8.99,56.84,"Stolleklint, Fur (Moler Museum collection)",NA,"",1,"Ypresian","",56,47.8,51663,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"110738",157314,"col","Ølst",8.99,56.84,"Stolleklint, Fur (Kristensen collection)",NA,"",2,"Ypresian","",56,47.8,51663,"gp_mid",15.55,47.67,"302",51.9,"ypresian",27029,0.5618,53.0982,16,1
+"110739",157315,"col","Fur",8.79,56.9,"Skibsted Strand, Mors (MM collection)",NA,"",1,"Ypresian","",56,47.8,51663,"gp_mid",15.4,47.73,"302",51.9,"ypresian",29634,0.5618,53.0982,16,1
+"110742",157319,"col","Fur",8.88,56.95,"Skarrehage Molergrav, Mors (Moler Museum)",NA,"",1,"Ypresian","",56,47.8,51663,"gp_mid",15.47,47.78,"302",51.9,"ypresian",21466,0.5618,53.0982,16,1
+"111713",158991,"col","",6.78,32.72,"Sidi Chennane, couche 1",NA,"",2,"Ypresian","",56,47.8,52023,"gp_mid",11.83,20.63,"714",51.9,"ypresian",29929,3.7944,24.8183,16,1
+"115677",164964,"col","",-82.41,23.06,"Palmer Loc. 1030, Reparto Kohly",NA,"",3,"Ypresian","",56,47.8,43304,"gp_mid",-61.78,25.5,"206",51.9,"ypresian",30941,-70.0186,20.0136,16,1
+"115679",164966,"col","",40.82,43.08,"Nowy Afon",NA,"",1,"Ypresian","",56,47.8,53980,"gp_mid",42.6,34.13,"511",51.9,"ypresian",30943,35.0272,41.1899,16,1
+"116217",165735,"col","Roterzschicht",13.03,47.97,"Haunsberg near St. Pankraz",NA,"",1,"Ypresian","",56,47.8,54172,"gp_mid",18.39,38.69,"305",51.9,"ypresian",31081,5.6551,40.6231,16,1
+"116334",165879,"col","Naredi",68.62,23.57,"Lakhmirani, Kutch",NA,"",1,"Ypresian","",56,47.8,47015,"gp_mid",67.45,-3.36,"501",51.9,"ypresian",31123,57.6086,1.4387,16,1
+"116335",165880,"col","Naredi",68.69,23.65,"Balapar, Kutch",NA,"",1,"Ypresian","",56,47.8,47015,"gp_mid",67.55,-3.3,"501",51.9,"ypresian",31124,57.6086,1.4387,16,1
+"116337",165882,"col","Naredi",68.68,23.53,"Baranda, Kutch",NA,"",1,"Ypresian","",56,47.8,47015,"gp_mid",67.5,-3.41,"501",51.9,"ypresian",31126,57.6086,1.4387,16,1
+"116428",165978,"col","London Clay",-0.68,50.78,"Bognor",NA,"",5,"Ypresian","",56,47.8,54241,"gp_mid",6.92,42.04,"315",51.9,"ypresian",1540,-4.9086,45.1603,16,1
+"117114",178052,"col","",3.96,49.04,"Epernay (general)",NA,"Region d'Epernay",6,"Ypresian","",56,47.8,58591,"gp_mid",10.69,40.07,"315",51.9,"ypresian",31421,-1.4995,45.396,16,1
+"117369",167604,"col","Avenal Sandstone",-120.1,35.88,"Avenal wells in Big Tar Canyon [Avenal Sandstone]",NA,"USGS 14482",45,"Ypresian","",56,47.8,54721,"gp_mid",-92.92,43.4,"130",51.9,"ypresian",31490,-102.0148,33.8633,16,1
+"117881",168813,"col","La Meseta",-56.62,-64.21,"Acantilados I",NA,"",1,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.41,-61.85,"803",52.2,"ypresian",31606,-59.0571,-67.0904,16,1
+"117882",168814,"col","La Meseta",-56.64,-64.23,"Acantilados II",NA,"",1,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.44,-61.86,"803",52.2,"ypresian",8022,-59.0571,-67.0904,16,1
+"117883",168815,"col","La Meseta",-56.65,-64.23,"Campamento I",NA,"",3,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.45,-61.86,"803",52.2,"ypresian",31607,-59.0571,-67.0904,16,1
+"117884",168816,"col","La Meseta",-56.66,-64.23,"S124, Seymour Island",NA,"",6,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.45,-61.86,"803",52.2,"ypresian",31608,-59.0571,-67.0904,16,1
+"117885",168817,"col","La Meseta",-56.67,-64.23,"Campamentos II",NA,"",3,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.46,-61.86,"803",52.2,"ypresian",18076,-59.0571,-67.0904,16,1
+"117886",168818,"col","La Meseta",-56.66,-64.23,"Cucullaea II",NA,"",3,"Early Eocene","",55.8,48.6,54957,"gp_mid",-67.46,-61.86,"803",52.2,"ypresian",31608,-59.0571,-67.0904,16,1
+"119950",171520,"col","",11.2,45.6,"Monte Postale (Vicenza collection)",NA,"",1,"Ypresian","",56,47.8,55776,"gp_mid",18.59,33.43,"307",51.9,"ypresian",31968,11.4227,37.1697,16,1
+"119952",171521,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Schtrock collection)",NA,"",13,"Ypresian","",56,47.8,55777,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"119960",171529,"col","Sables de Cuise",3.01,49.32,"Retheuil (Deshayes collection)",NA,"",2,"Ypresian","",56,47.8,55778,"gp_mid",9.9,40.39,"315",51.9,"ypresian",31977,-1.4995,45.396,16,1
+"119968",171537,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (Deshayes collection)",NA,"Aizy",1,"Ypresian","",56,47.8,55779,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"120455",172338,"col","Moler",9,56.84,"Unspecified Fur Formation locality (H. Beck coll)",NA,"",1,"Ypresian","",56,47.8,55990,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"120699",173315,"col","Moler",9,56.84,"Island of Fur (Ansorge coll)",NA,"",1,"Ypresian","",56,47.8,56347,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"121209",174627,"col","Tienen",4.9,50.78,"Hoegaarden (reworked)",NA,"",2,"Early Eocene","",55.8,48.6,60842,"gp_mid",11.64,41.77,"315",52.2,"ypresian",32188,-1.4995,45.396,16,1
+"121296",174731,"col","Mons-en-Pevele Sands",4.33,50.81,"Football Stadium entrance, Avenue du Globe, Forest (Brussels)",NA,"",2,"Ypresian","",56,47.8,57097,"gp_mid",11.16,41.82,"315",51.9,"ypresian",32211,-1.4995,45.396,16,1
+"121623",175262,"col","Tamaguélelt",0.25,17.59,"Mali20, unit 2, Tamaguélelt",NA,"Mali-20; Mali 20; Mali-20a; Mali 20a",19,"Ypresian","",56,47.8,57287,"gp_mid",2.77,6.97,"714",51.9,"ypresian",7152,-4.7298,10.4922,16,1
+"121870",175618,"col","La Meseta",-56.64,-64.22,"IAA 1/13",NA,"NRM locality 7, Channel Site",6,"Ypresian","",56,47.8,53984,"gp_mid",-67.43,-61.85,"803",51.9,"ypresian",32315,-59.0571,-67.0904,16,1
+"122224",176084,"col","La Meseta",-56.67,-64.24,"IAA 1/95",NA,"",4,"Ypresian","",56,47.8,57798,"gp_mid",-67.47,-61.87,"803",51.9,"ypresian",1090,-59.0571,-67.0904,16,1
+"122225",176085,"col","La Meseta",-56.65,-64.23,"IAA 2/95",NA,"marsupial site",15,"Ypresian","",56,47.8,57798,"gp_mid",-67.45,-61.86,"803",51.9,"ypresian",31607,-59.0571,-67.0904,16,1
+"122227",176087,"col","La Meseta",-56.67,-64.23,"IAA 3/96",NA,"",1,"Ypresian","",56,47.8,57463,"gp_mid",-67.46,-61.86,"803",51.9,"ypresian",18076,-59.0571,-67.0904,16,1
+"122433",176361,"col","Crescent",-123.14,47.99,"CSUN Loc. 1563 - Larch Mountain [Crescent Fm]",NA,"LACMIP Loc. 16655",10,"Ypresian","",56,47.8,57998,"gp_mid",-93,55.71,"129",51.9,"ypresian",32437,-105.2154,49.2907,16,1
+"122434",176362,"col","Crescent",-123.14,47.98,"CSUN Loc. 1564. Larch Mountain [Crescent Fm]",NA,"LACMIP Loc. 16848",1,"Ypresian","",56,47.8,57998,"gp_mid",-93,55.71,"129",51.9,"ypresian",32438,-105.2154,49.2907,16,1
+"122911",176937,"col","",13.01,47.93,"St. Pankraz (Cuisian)",NA,"",3,"Ypresian","",56,47.8,58397,"gp_mid",18.37,38.65,"305",51.9,"ypresian",32565,5.6551,40.6231,16,1
+"123316",177607,"col","Choubaine",9.92,35.62,"Near Chebika",NA,"",1,"Ypresian","",56,47.8,58749,"gp_mid",15.16,22.98,"714",51.9,"ypresian",32642,7.476,27.0565,16,1
+"123339",177655,"col","Cuisien",3.15,49.34,"Coeuvres-et-Valsery (Leroy collection)",NA,"",2,"Ypresian","",56,47.8,58762,"gp_mid",10.03,40.41,"315",51.9,"ypresian",32651,-1.4995,45.396,16,1
+"123343",177669,"col","Sables de Pierrefonds",3,49.38,"Butte-des-Usages, Cuise-la-Motte (Deshayes collection)",NA,"",21,"Ypresian","",56,47.8,57958,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"123348",177707,"col","Calcari di nummulitici",11.37,45.67,"Cava Rossi di Monte di Malo",NA,"",17,"Ypresian","",56,47.8,57958,"gp_mid",18.75,33.44,"307",51.9,"ypresian",32656,11.4227,37.1697,16,1
+"123367",177753,"col","",3.93,49.04,"Mont Bernon, Epernay",NA,"",5,"Ypresian","",56,47.8,58832,"gp_mid",10.67,40.07,"315",51.9,"ypresian",32667,-1.4995,45.396,16,1
+"123368",177754,"col","Sables de Pourcy",3.91,49.15,"Pourcy",NA,"",2,"Ypresian","",56,47.8,58832,"gp_mid",10.66,40.18,"315",51.9,"ypresian",32668,-1.4995,45.396,16,1
+"123420",177999,"col","Sables d'Aizy",3.51,49.44,"Monampteuil",NA,"",4,"Ypresian","",56,47.8,58869,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"123423",178002,"col","Sables de Pourcy",3.85,49.27,"Sapicourt",NA,"",3,"Ypresian","",56,47.8,54279,"gp_mid",10.62,40.3,"315",51.9,"ypresian",32685,-1.4995,45.396,16,1
+"123974",178690,"col","Llajas",-118.7,34.3,"UCMP Loc. 4052 - Llajas Canyon, Simi Valley",NA,"",3,"Ypresian","",56,47.8,58891,"gp_mid",-93.2,40.56,"105",51.9,"ypresian",32898,-102.0148,33.8633,16,1
+"123987",178718,"col","Juncal",-118.71,34.55,"CSUN loc. 807. On east side of Canton Canyon",NA,"",6,"Ypresian","",56,47.8,59124,"gp_mid",-93.17,40.8,"105",51.9,"ypresian",32901,-102.0148,33.8633,16,1
+"123988",178719,"col","Juncal",-118.74,34.56,"CSUN loc. 837. On east side of Sharps Canyon",NA,"",7,"Ypresian","",56,47.8,59124,"gp_mid",-93.2,40.82,"105",51.9,"ypresian",32902,-102.0148,33.8633,16,1
+"123989",178720,"col","Juncal",-118.73,34.55,"CSUN loc. 848. Canton Canyon",NA,"",2,"Ypresian","",56,47.8,59124,"gp_mid",-93.19,40.81,"105",51.9,"ypresian",32903,-102.0148,33.8633,16,1
+"124015",178748,"col","Juncal",-118.72,34.56,"CSUN loc. 358. On west side of Canton Canyon",NA,"UCLA locality 7210",18,"Ypresian","",56,47.8,59124,"gp_mid",-93.18,40.82,"105",51.9,"ypresian",32909,-102.0148,33.8633,16,1
+"124016",178749,"col","Juncal",-118.72,34.56,"CSUN loc. 359. On north side of Canton Canyon",NA,"",15,"Ypresian","",56,47.8,59124,"gp_mid",-93.18,40.82,"105",51.9,"ypresian",32909,-102.0148,33.8633,16,1
+"124017",178750,"col","Juncal",-118.72,34.55,"CSUN loc. 827. Canton Canyon",NA,"",15,"Ypresian","",56,47.8,59124,"gp_mid",-93.18,40.81,"105",51.9,"ypresian",32910,-102.0148,33.8633,16,1
+"124019",178752,"col","Juncal",-118.73,34.55,"CSUN loc. 845. Canton Canyon",NA,"",15,"Ypresian","",56,47.8,59124,"gp_mid",-93.19,40.81,"105",51.9,"ypresian",32903,-102.0148,33.8633,16,1
+"124023",178756,"col","Juncal",-118.74,34.54,"CSUN loc. 358. On west side of Canton Canyon",NA,"",15,"Ypresian","",56,47.8,59124,"gp_mid",-93.2,40.81,"105",51.9,"ypresian",32911,-102.0148,33.8633,16,1
+"124045",178778,"col","Sables de Cuise",3.62,49.57,"Laon (Aisne)",NA,"",14,"Ypresian","",56,47.8,58437,"gp_mid",10.45,40.61,"315",51.9,"ypresian",32913,-1.4995,45.396,16,1
+"124373",179143,"col","",3.43,49.05,"Brasles (Marne)",NA,"Sables de Brasles",4,"MP 8 + 9","",55.8,48.6,59290,"gp_mid",10.24,40.1,"315",52.2,"ypresian",32962,-1.4995,45.396,16,1
+"124669",179616,"col","Akasaki",130.32,32.35,"Western coast on Maki Island, Goshoura Town",NA,"",3,"Early Eocene","",55.8,48.6,59494,"gp_mid",126.18,39.37,"610",52.2,"ypresian",33028,129.4166,39.1568,16,1
+"125002",179963,"col","Ghazij",69.79,30.42,"GH-45",NA,"GSPUM locality GH45; Kingri",2,"Ypresian","",56,47.8,59716,"gp_mid",70.69,2.76,"501",51.9,"ypresian",21394,62.9097,7.7347,16,1
+"125095",180311,"col","",11.2,45.58,"Monte Postale, Coralgal boundstone facies",NA,"Reef 4085",21,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125096",180312,"col","",11.2,45.58,"Monte Postale, Polygenic bindstone facies",NA,"Reef 4085",22,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125097",180313,"col","",11.2,45.58,"Monte Postale, Coralgal rudstone facies",NA,"Reef 4085",5,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125098",180314,"col","",11.2,45.58,"Monte Postale, Alveolina – Nummulites packstone facies",NA,"",3,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125099",180315,"col","",11.2,45.58,"Monte Postale, Alveolina grainstone facies",NA,"",5,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125100",180316,"col","",11.2,45.58,"Monte Postale, Laminated wackestone facies",NA,"",2,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125101",180317,"col","",11.2,45.58,"Monte Postale, Graded  Alveolina  grainstone facies",NA,"",2,"Ypresian","",56,47.8,59830,"gp_mid",18.58,33.42,"307",51.9,"ypresian",26413,11.4227,37.1697,16,1
+"125147",180420,"col","Crescent",-123.73,48.17,"UCMP A1548, Crescent Bay",NA,"",1,"Ypresian","",56,47.8,59868,"gp_mid",-93.63,55.97,"129",51.9,"ypresian",33193,-105.2154,49.2907,16,1
+"125246",180522,"col","Subathu",76.98,30.96,"Kuthar River tributary",NA,"Subathu",9,"Early Eocene","",55.8,48.6,59896,"gp_mid",76.76,1.45,"501",52.2,"ypresian",27782,71.9623,13.9346,16,1
+"125261",180537,"col","Ghazij",69.78,30.4,"GH-37",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.68,2.75,"501",51.9,"ypresian",33220,62.9097,7.7347,16,1
+"125262",180538,"col","Ghazij",67.43,30.06,"GH-9",NA,"Pir Ismail Ziarat",1,"Ypresian","",56,47.8,59912,"gp_mid",68.66,3.11,"501",51.9,"ypresian",33221,62.0263,15.5239,16,1
+"125263",180539,"col","Ghazij",67.25,30.06,"GH-10",NA,"Daghari",1,"Ypresian","",56,47.8,59912,"gp_mid",68.51,3.15,"501",51.9,"ypresian",16533,62.0263,15.5239,16,1
+"125264",180540,"col","Ghazij",67.19,30.17,"GH-14",NA,"Sor Range",1,"Ypresian","",56,47.8,59912,"gp_mid",67.97,23.33,"506",51.9,"ypresian",16530,62.0263,15.5239,16,1
+"125265",180541,"col","Ghazij",69.8,30.45,"GH-16",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.79,"501",51.9,"ypresian",33222,62.9097,7.7347,16,1
+"125266",180542,"col","Ghazij",69.8,30.45,"GH-17",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.79,"501",51.9,"ypresian",33222,62.9097,7.7347,16,1
+"125267",180543,"col","Ghazij",69.8,30.45,"GH-18",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.79,"501",51.9,"ypresian",33222,62.9097,7.7347,16,1
+"125268",180544,"col","Ghazij",69.79,30.44,"GH-21",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.78,"501",51.9,"ypresian",33223,62.9097,7.7347,16,1
+"125269",180545,"col","Ghazij",69.8,30.45,"GH-22",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.72,2.79,"501",51.9,"ypresian",33222,62.9097,7.7347,16,1
+"125270",180546,"col","Ghazij",69.79,30.43,"GH-23",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.77,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125271",180547,"col","Ghazij",69.79,30.43,"GH-24",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.77,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125272",180548,"col","Ghazij",69.79,30.43,"GH-26",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.77,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125273",180549,"col","Ghazij",69.79,30.43,"GH-27",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.78,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125274",180550,"col","Ghazij",69.79,30.43,"GH-28",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.78,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125275",180551,"col","Ghazij",69.79,30.43,"GH-31",NA,"Kingri",3,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.77,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125276",180552,"col","Ghazij",69.78,30.42,"GH-32",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.69,2.77,"501",51.9,"ypresian",33225,62.9097,7.7347,16,1
+"125277",180553,"col","Ghazij",69.78,30.42,"GH-33",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.69,2.77,"501",51.9,"ypresian",33225,62.9097,7.7347,16,1
+"125278",180554,"col","Ghazij",69.78,30.42,"GH-34",NA,"Kingri",3,"Ypresian","",56,47.8,59912,"gp_mid",70.69,2.77,"501",51.9,"ypresian",33225,62.9097,7.7347,16,1
+"125279",180555,"col","Ghazij",69.78,30.41,"GH-35",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.69,2.76,"501",51.9,"ypresian",33226,62.9097,7.7347,16,1
+"125280",180556,"col","Ghazij",69.77,30.4,"GH-36",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.68,2.75,"501",51.9,"ypresian",33227,62.9097,7.7347,16,1
+"125281",180557,"col","Ghazij",69.77,30.4,"GH-38",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.68,2.75,"501",51.9,"ypresian",33227,62.9097,7.7347,16,1
+"125282",180558,"col","Ghazij",69.77,30.39,"GH-39",NA,"Kingri",2,"Ypresian","",56,47.8,59912,"gp_mid",70.67,2.74,"501",51.9,"ypresian",33228,62.9097,7.7347,16,1
+"125283",180559,"col","Ghazij",69.79,30.44,"GH-41",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.7,2.78,"501",51.9,"ypresian",33223,62.9097,7.7347,16,1
+"125284",180560,"col","Ghazij",69.79,30.44,"GH-42",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.78,"501",51.9,"ypresian",33223,62.9097,7.7347,16,1
+"125285",180561,"col","Ghazij",67.21,30.16,"GH-8",NA,"Sor Range",1,"Ypresian","",56,47.8,59912,"gp_mid",67.98,23.31,"506",51.9,"ypresian",16532,62.0263,15.5239,16,1
+"125286",180562,"col","Ghazij",69.79,30.43,"GH-43",NA,"Kingri",1,"Ypresian","",56,47.8,59912,"gp_mid",70.71,2.78,"501",51.9,"ypresian",33224,62.9097,7.7347,16,1
+"125288",180564,"col","Ghazij",67.72,30.16,"Between Shahrig and Nakus",NA,"70 km east of Quetta",1,"Ypresian","",56,47.8,24365,"gp_mid",68.93,3.11,"501",51.9,"ypresian",27873,62.0263,15.5239,16,1
+"125292",180568,"col","Ghazij",67.3,29.85,"Pundelgoat, Gishtari area of Mach coal field",NA,"Shisha coal seam",1,"Ypresian","",56,47.8,59919,"gp_mid",68.48,2.95,"501",51.9,"ypresian",33231,62.0263,15.5239,16,1
+"125293",180569,"col","Ghazij",67.3,30.17,"Daghari, Gishtari area of Mach coal field",NA,"",1,"Ypresian","",56,47.8,59919,"gp_mid",68.07,23.33,"506",51.9,"ypresian",33232,62.0263,15.5239,16,1
+"125294",180570,"col","Ghazij",67.3,29.85,"Gishtari area of Mach coal field",NA,"Gishtari coal bed",1,"Ypresian","",56,47.8,59919,"gp_mid",68.48,2.95,"501",51.9,"ypresian",33231,62.0263,15.5239,16,1
+"125698",181108,"col","",4.01,48.97,"Avize",NA,"",2,"Ypresian","",56,47.8,60047,"gp_mid",10.73,40,"315",51.9,"ypresian",33313,-1.4995,45.396,16,1
+"125702",181112,"col","",3.72,48.76,"Broyes",NA,"",3,"Ypresian","",56,47.8,60047,"gp_mid",10.47,39.8,"305",51.9,"ypresian",33315,-1.4995,45.396,16,1
+"125773",181387,"col","Moler",9,56.84,"Island of Fur (Zoologisk Museum Copenhagen coll)",NA,"",1,"Ypresian","",56,47.8,60328,"gp_mid",15.56,47.67,"302",51.9,"ypresian",21852,0.5618,53.0982,16,1
+"125983",181633,"col","",4.03,49.08,"Ay",NA,"Agéien; Agèen",4,"Early Eocene","",55.8,48.6,60047,"gp_mid",10.75,40.11,"315",52.2,"ypresian",4128,-1.4995,45.396,16,1
+"125989",181639,"col","Sables a Unios et Teredines",3.92,49.03,"Chavot",NA,"",5,"Ypresian","",56,47.8,60047,"gp_mid",10.66,40.06,"315",51.9,"ypresian",33379,-1.4995,45.396,16,1
+"125997",181647,"col","",2.97,49.39,"Cuise-La-Motte",NA,"Cuise-Lamothe",4,"Early Eocene","",55.8,48.6,60047,"gp_mid",9.88,40.46,"315",52.2,"ypresian",33386,-1.4995,45.396,16,1
+"126003",181653,"col","Sables a Unios et Teredines",3.88,49,"Mancy",NA,"UCMP V6255",14,"Ypresian","",56,47.8,60047,"gp_mid",10.62,40.03,"315",51.9,"ypresian",33389,-1.4995,45.396,16,1
+"126485",182640,"col","",3.58,49.02,"Saint-Agnan",NA,"Saint Agnan",7,"MP 8 + 9","",55.8,48.6,60835,"gp_mid",10.36,40.07,"315",52.2,"ypresian",33498,-1.4995,45.396,16,1
+"126488",182643,"col","Argiles d'lignite du Soissonnais",2.65,49.35,"Le Quesnoy (QNY1)",NA,"",3,"Ypresian","",56,47.8,60840,"gp_mid",9.6,40.44,"315",51.9,"ypresian",11065,-1.4995,45.396,16,1
+"126489",182644,"col","",3.25,49.6,"Sinceny",NA,"UCMP V-6962",1,"Early Eocene","",55.8,48.6,60942,"gp_mid",10.13,40.66,"315",52.2,"ypresian",33500,-1.4995,45.396,16,1
+"126510",182667,"col","Mortemer",0.83,49.89,"Sotteville-sur-Mer cliff",NA,"La Pointue",17,"Ypresian","",56,47.8,60867,"gp_mid",8.1,41.06,"305",51.9,"ypresian",33505,-4.9086,45.1603,16,1
+"126637",182804,"col","La Meseta",-56.67,-64.23,"IAA 1/96",NA,"",1,"Ypresian","",56,47.8,60952,"gp_mid",-67.46,-61.86,"803",51.9,"ypresian",18076,-59.0571,-67.0904,16,1
+"127156",183723,"col","",2.48,49.26,"Creil (Cossman collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.45,40.35,"315",51.9,"ypresian",33645,-1.4995,45.396,16,1
+"127157",183724,"col","",3.48,49.4,"Celles-sur-Aisne (Pacaud collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",10.31,40.45,"315",51.9,"ypresian",33646,-1.4995,45.396,16,1
+"127158",183725,"col","",3.66,49.53,"Bruyère-et-Montbérault, Aisne (Pons collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.48,40.57,"315",51.9,"ypresian",33647,-1.4995,45.396,16,1
+"127159",183726,"col","",3.48,49.51,"Lizy, Aisne (Pons collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.32,40.56,"315",51.9,"ypresian",33648,-1.4995,45.396,16,1
+"127160",183727,"col","",2.99,49.4,"Trosly-Breuil, Oise (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,"ypresian",33649,-1.4995,45.396,16,1
+"127161",183728,"col","",1.91,49.24,"Liancourt-Saint-Pierre, Oise (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,"ypresian",33650,-1.4995,45.396,16,1
+"127162",183729,"col","",1.78,49.23,"Hérouval, Oise (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.85,40.36,"305",51.9,"ypresian",33651,-4.9086,45.1603,16,1
+"127163",183730,"col","",3.06,49.4,"Jaulzy, Oise (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.96,40.46,"315",51.9,"ypresian",33652,-1.4995,45.396,16,1
+"127164",183731,"col","",2.27,49.33,"Heilles, Oise (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.27,40.44,"315",51.9,"ypresian",33653,-1.4995,45.396,16,1
+"127165",183732,"col","",3.28,49.38,"Mercin-et-Vaux, Aisne (Pacaud collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.14,40.43,"315",51.9,"ypresian",33654,-1.4995,45.396,16,1
+"127166",183733,"col","",3.42,49.05,"Brasles, Aisne (Faullummel collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.23,40.1,"315",51.9,"ypresian",33655,-1.4995,45.396,16,1
+"127177",183744,"col","",2.52,49.28,"Verneuil-en-Halatte, Oise (Braillon collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.48,40.37,"315",51.9,"ypresian",33664,-1.4995,45.396,16,1
+"127184",183751,"col","Domengine Sandstone",-120.17,35.93,"UCMP A1282 - Big Tar Canyon [Domengine Sandstone]",NA,"",1,"Ypresian","",56,47.8,14207,"gp_mid",-92.98,43.46,"130",51.9,"ypresian",33665,-102.0148,33.8633,16,1
+"127186",183753,"col","Domengine Sandstone",-120.17,35.93,"CAS 494 - Big Tar Canyon [Domengine Sandstone]",NA,"",1,"Ypresian","",56,47.8,59061,"gp_mid",-92.98,43.46,"130",51.9,"ypresian",33665,-102.0148,33.8633,16,1
+"127187",183754,"col","",11.2,45.6,"Monte Postale (Hébert collection)",NA,"",3,"Ypresian","",56,47.8,59061,"gp_mid",18.59,33.43,"307",51.9,"ypresian",31968,11.4227,37.1697,16,1
+"127200",183767,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127201",183768,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127202",183769,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (MNHN collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127203",183770,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127205",183772,"col","Sables de Pourcy",3.91,49.16,"Pourcy (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.66,40.19,"315",51.9,"ypresian",33672,-1.4995,45.396,16,1
+"127206",183773,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127207",183774,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (d'Orbigny collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127208",183775,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (de Ferry collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127209",183776,"col","",2.99,49.4,"Trosly-Breuil, Oise (Faullummel collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,"ypresian",33649,-1.4995,45.396,16,1
+"127210",183777,"col","",2.99,49.4,"Trosly-Breuil, Oise (Ledon collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.47,"315",51.9,"ypresian",33649,-1.4995,45.396,16,1
+"127211",183778,"col","",1.91,49.24,"Liancourt-Saint-Pierre, Oise (Margerie collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,"ypresian",33650,-1.4995,45.396,16,1
+"127212",183779,"col","",1.91,49.24,"Liancourt-Saint-Pierre, Oise (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,"ypresian",33650,-1.4995,45.396,16,1
+"127213",183780,"col","",1.91,49.24,"Liancourt-Saint-Pierre, Oise (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,"ypresian",33650,-1.4995,45.396,16,1
+"127214",183781,"col","Cuisien",3.15,49.34,"Coeuvres-et-Valsery (Pacaud collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.03,40.41,"315",51.9,"ypresian",32651,-1.4995,45.396,16,1
+"127215",183782,"col","Cuisien",3.15,49.34,"Coeuvres-et-Valsery (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.03,40.41,"315",51.9,"ypresian",32651,-1.4995,45.396,16,1
+"127216",183783,"col","",3.48,49.4,"Celles-sur-Aisne (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.31,40.45,"315",51.9,"ypresian",33646,-1.4995,45.396,16,1
+"127217",183784,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (BIMM collection)",NA,"",1,"Ypresian","",56,47.8,58892,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127218",183785,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (MNHN collection)",NA,"",2,"Ypresian","",56,47.8,58892,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127219",183786,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,58869,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127220",183787,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (Schtrock collection)",NA,"",1,"Ypresian","",56,47.8,58871,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127221",183788,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (Cossmann collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127222",183789,"col","Sables d'Aizy",3.51,49.44,"Aizy-Jouy (Morlet collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.34,40.48,"315",51.9,"ypresian",31985,-1.4995,45.396,16,1
+"127223",183790,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,55777,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127224",183791,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Pacaud collection)",NA,"",3,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127225",183792,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127226",183793,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Cossmann collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127227",183794,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Lhomme collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127228",183795,"col","",3,49.38,"Butte-des-Usages, Cuise-la-Motte (1965-11 collection)",NA,"",2,"Ypresian","",56,47.8,61368,"gp_mid",9.9,40.45,"315",51.9,"ypresian",32655,-1.4995,45.396,16,1
+"127229",183796,"col","",1.91,49.24,"Liancourt-Saint-Pierre, Oise (MNHN collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",8.96,40.36,"305",51.9,"ypresian",33650,-1.4995,45.396,16,1
+"127230",183797,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Pons collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127231",183798,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (1965-11 collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127232",183799,"col","Sables de Cuise",3.38,49.6,"Saint-Gobain, Aisne (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.24,40.65,"315",51.9,"ypresian",31970,-1.4995,45.396,16,1
+"127233",183800,"col","",3.28,49.38,"Mercin-et-Vaux, Aisne (Retout collection)",NA,"",1,"Ypresian","",56,47.8,61368,"gp_mid",10.14,40.43,"315",51.9,"ypresian",33654,-1.4995,45.396,16,1
+"127247",183814,"col","London Clay",-1.46,50.94,"Nursling, near Southampton (King and Tracey collection)",NA,"",1,"Ypresian","",56,47.8,61371,"gp_mid",6.28,42.24,"315",51.9,"ypresian",33677,-4.9086,45.1603,16,1
+"127248",183815,"col","London Clay",-0.95,50.87,"Southleigh, near Havant (Tracey and Lawson collection)",NA,"",1,"Ypresian","",56,47.8,61371,"gp_mid",6.7,42.14,"315",51.9,"ypresian",33678,-4.9086,45.1603,16,1
+"127249",183816,"col","London Clay",-0.95,50.87,"Southleigh, near Havant (Pacaud collection)",NA,"",1,"Ypresian","",56,47.8,61371,"gp_mid",6.7,42.14,"315",51.9,"ypresian",33678,-4.9086,45.1603,16,1
+"127250",183817,"col","Ghazij",70.51,30.42,"Fossil Bed F.2678, Zinda Pir",NA,"",9,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127251",183818,"col","Ghazij",70.51,30.42,"Fossil Bed F.2676, Zinda Pir",NA,"",7,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127257",183825,"col","Ghazij",70.12,29.95,"Fossil Bed F.1843, Rakhi Nala",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127258",183826,"col","Ghazij",70.51,30.42,"Fossil Bed F.2675, Zinda Pir",NA,"",6,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127260",183829,"col","Ghazij",70.51,30.42,"MF.439, Zinda Pir",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127261",183830,"col","Ghazij",70.51,30.42,"MF.436, Zinda Pir",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127262",183831,"col","Shekhan",71.9,33.6,"Fossil Bed F.2293, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127263",183832,"col","Shekhan",71.9,33.6,"Fossil Bed F.2294, Panoba, Kohat",NA,"",8,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127264",183833,"col","Shekhan",71.9,33.6,"Fossil Bed F.2289, Panoba, Kohat",NA,"",8,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127265",183834,"col","Shekhan",71.9,33.6,"Fossil Bed F.2290, Panoba, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127266",183835,"col","Shekhan",71.9,33.6,"Fossil Bed F.2291, Panoba, Kohat",NA,"",9,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127267",183836,"col","Shekhan",71.51,33.6,"Fossil Bed F.2366, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127268",183837,"col","Shekhan",71.51,33.6,"Fossil Bed F.2377, Shekhan Nala, Kohat",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127269",183838,"col","Shekhan",71.51,33.6,"Fossil Bed F.2368, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127270",183839,"col","Shekhan",71.51,33.6,"Fossil Bed F.2370, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127271",183840,"col","Shekhan",71.51,33.6,"Fossil Bed F.2371, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127272",183841,"col","Kuldana",71.9,33.6,"Fossil Bed F.2239, Panoba, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127273",183842,"col","Kuldana",71.51,33.6,"Fossil Bed F.2381, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127274",183843,"col","Kuldana",71.51,33.6,"Fossil Bed F.2382, Shekhan Nala, Kohat",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127276",183845,"col","Ghazij",70.51,30.42,"Fossil Bed F.2679, Zinda Pir",NA,"",22,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127286",183855,"col","Ghazij",70.12,29.95,"Fossil Bed F.1850, Rakhi Nala",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127287",183856,"col","Ghazij",70.12,29.95,"Fossil Bed F.2022, Rakhi Nala",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127288",183857,"col","Ghazij",70.12,29.95,"Fossil Bed F.1855, Rakhi Nala",NA,"",3,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127289",183858,"col","Ghazij",70.51,30.42,"Fossil Bed F.2681, Zinda Pir",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127301",183870,"col","Ghazij",70.12,29.95,"Fossil Bed F.1842, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127302",183871,"col","Ghazij",70.12,29.95,"Fossil Bed F.1845, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127303",183872,"col","Ghazij",70.12,29.95,"Fossil Bed F.1848, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127304",183873,"col","Ghazij",70.12,29.95,"Fossil Bed F.2021, Rakhi Nala",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127305",183874,"col","Ghazij",70.12,29.95,"Fossil Bed F.1854, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127306",183875,"col","Ghazij",70.12,29.95,"Fossil Bed F.1856, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127307",183876,"col","Ghazij",70.12,29.95,"Fossil Bed F.1857, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127308",183877,"col","Ghazij",70.12,29.95,"Fossil Bed F.1859, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127313",183882,"col","Ghazij",70.51,30.42,"Fossil Bed F.2677, Zinda Pir",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",71.29,2.56,"501",51.9,"ypresian",1188,62.9097,7.7347,16,1
+"127315",183884,"col","Shekhan",71.83,33.58,"Fossil Bed F.2171, Tarkhobi, Kohat",NA,"",7,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127316",183885,"col","Shekhan",71.51,33.6,"Fossil Bed F.2313, Shekhan Nala, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127317",183886,"col","Shekhan",71.51,33.6,"Fossil Bed F.2374, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127329",183898,"col","Shekhan",71.51,33.6,"Fossil Bed F.2310, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127330",183899,"col","Shekhan",71.51,33.6,"Fossil Bed F.2372, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127331",183900,"col","Shekhan",71.39,33.48,"Fossil Bed F.2102, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,"ypresian",1189,65.7875,17.3987,16,1
+"127332",183901,"col","Ghazij",70.12,29.95,"Fossil Bed F.2011, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127333",183902,"col","Ghazij",70.12,29.95,"Fossil Bed F.2014, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127334",183903,"col","Ghazij",70.12,29.95,"Fossil Bed F.1852, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127335",183904,"col","Ghazij",70.12,29.95,"Fossil Bed F.1860, Rakhi Nala",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",70.82,2.23,"501",51.9,"ypresian",18070,62.9097,7.7347,16,1
+"127357",183926,"col","Shekhan",71.83,33.58,"Fossil Bed F.2173, Tarkhobi, Kohat",NA,"",7,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127358",183927,"col","Shekhan",71.9,33.6,"Fossil Bed F.2230, Panoba, Kohat",NA,"",4,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127359",183928,"col","Shekhan",71.9,33.6,"Fossil Bed F.2287, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127364",183933,"col","Shekhan",71.83,33.58,"Fossil Bed F.2175, Tarkhobi, Kohat",NA,"",5,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127373",183943,"col","Sables de Pourcy",3.91,49.16,"Pourcy (Symonds collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,"ypresian",33672,-1.4995,45.396,16,1
+"127374",183944,"col","Sables de Pourcy",3.91,49.16,"Pourcy (Ledon collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,"ypresian",33672,-1.4995,45.396,16,1
+"127375",183945,"col","Sables de Pourcy",3.91,49.16,"Pourcy (Faullummel collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,"ypresian",33672,-1.4995,45.396,16,1
+"127376",183946,"col","Sables de Pourcy",3.91,49.16,"Pourcy (Pacaud collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",10.66,40.19,"315",51.9,"ypresian",33672,-1.4995,45.396,16,1
+"127377",183947,"col","",2.99,49.4,"Trosly-Breuil, Oise (S. Tracey collection)",NA,"",1,"Ypresian","",56,47.8,58880,"gp_mid",9.9,40.47,"315",51.9,"ypresian",33649,-1.4995,45.396,16,1
+"127442",184020,"col","Shekhan",71.83,33.58,"Fossil Bed F.2166, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127443",184021,"col","Shekhan",71.83,33.58,"Fossil Bed F.2172, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127444",184022,"col","Shekhan",71.9,33.6,"Fossil Bed F.2292, Panoba, Kohat",NA,"",2,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127445",184023,"col","Shekhan",71.39,33.48,"Fossil Bed F.2103, Gada Khel, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",72.97,5.23,"501",51.9,"ypresian",1189,65.7875,17.3987,16,1
+"127450",184029,"col","Shekhan",71.83,33.58,"Fossil Bed F.2164, Tarkhobi, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.35,5.22,"501",51.9,"ypresian",33685,65.7875,17.3987,16,1
+"127451",184030,"col","Shekhan",71.9,33.6,"Fossil Bed F.2231, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127473",184052,"col","Shekhan",71.51,33.6,"Fossil Bed F.2369, Shekhan Nala, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.1,5.31,"501",51.9,"ypresian",33680,65.7875,17.3987,16,1
+"127486",184065,"col","Shekhan",71.9,33.6,"Fossil Bed F.2232, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127497",184076,"col","Kuldana",71.9,33.6,"Fossil Bed F.2241, Panoba, Kohat",NA,"",1,"Ypresian","",56,47.8,599,"gp_mid",73.41,5.22,"501",51.9,"ypresian",33679,65.7875,17.3987,16,1
+"127504",184086,"col","",68.18,25.72,"Stn 4, East of Lakhra village section",NA,"",15,"Ypresian","",56,47.8,61516,"gp_mid",67.8,-1.2,"501",51.9,"ypresian",33709,61.0638,10.6125,16,1
+"127529",184120,"col","",68.19,25.67,"Stn 5, Old Indus section",NA,"",3,"Ypresian","",56,47.8,61516,"gp_mid",67.79,-1.25,"501",51.9,"ypresian",33715,61.0638,10.6125,16,1
+"127530",184121,"col","",68.25,25.05,"Stn 6, Jhirak section",NA,"",2,"Ypresian","",56,47.8,61516,"gp_mid",67.64,-1.85,"501",51.9,"ypresian",33716,61.0638,10.6125,16,1
+"127562",184161,"col","",3.4,49.06,"Chemin de Soissons, Chateau-Thiery (Lamarck collection)",NA,"",1,"Ypresian","",56,47.8,61536,"gp_mid",10.21,40.11,"315",51.9,"ypresian",33728,-1.4995,45.396,16,1
+"127564",184163,"col","Sables de Cuise",3.01,49.32,"Retheuil (Lamarck collection)",NA,"",1,"Ypresian","",56,47.8,61539,"gp_mid",9.9,40.39,"315",51.9,"ypresian",31977,-1.4995,45.396,16,1
+"127639",197267,"col","Vaugirard",2.3,48.84,"Vaugirard",NA,"",1,"Ypresian","",56,47.8,61876,"gp_mid",9.25,39.95,"305",51.9,"ypresian",33751,-1.4995,45.396,16,1
+"127980",184811,"col","",12.98,47.94,"Kch 11a, Kroisbach, Haunsberg near St. Pankraz",NA,"",2,"Ypresian","",56,47.8,56314,"gp_mid",18.34,38.67,"305",51.9,"ypresian",33830,5.6551,40.6231,16,1
+"127997",184828,"col","",2.19,49.33,"Noailles (Deshayes collection)",NA,"",2,"Ypresian","",56,47.8,61542,"gp_mid",9.21,40.44,"315",51.9,"ypresian",33837,-1.4995,45.396,16,1
+"128001",184832,"col","",2.1,48.8,"Versailles ménagerie",NA,"",3,"Ypresian","",56,47.8,61542,"gp_mid",9.07,39.92,"305",51.9,"ypresian",33840,-1.4995,45.396,16,1
+"128169",185192,"col","Juncal",-118.73,34.55,"CSUN 830, Canton Canyon",NA,"",3,"Ypresian","",56,47.8,62128,"gp_mid",-93.19,40.81,"105",51.9,"ypresian",32903,-102.0148,33.8633,16,1
+"128173",185196,"col","Juncal",-119.58,34.51,"UCLA 6593, Agua Caliente Canyon",NA,"",1,"Ypresian","",56,47.8,62128,"gp_mid",-94.11,40.87,"105",51.9,"ypresian",33892,-102.0148,33.8633,16,1
+"128174",185197,"col","Juncal",-119.57,34.52,"UCLA 7192, Agua Caliente Canyon",NA,"",1,"Ypresian","",56,47.8,62128,"gp_mid",-94.11,40.87,"105",51.9,"ypresian",33893,-102.0148,33.8633,16,1
+"128175",185198,"col","Juncal",-119.58,34.52,"UCLA 7193, Agua Caliente Canyon",NA,"",1,"Ypresian","",56,47.8,62128,"gp_mid",-94.11,40.87,"105",51.9,"ypresian",33894,-102.0148,33.8633,16,1
+"128760",185932,"col","London Clay",-0.72,50.78,"Rose Green",NA,"",1,"Ypresian","",56,47.8,28173,"gp_mid",6.88,42.04,"315",51.9,"ypresian",34085,-4.9086,45.1603,16,1
+"128761",185933,"col","London Clay",-1.3,50.88,"Lower Swanwick",NA,"",8,"Ypresian","",56,47.8,28173,"gp_mid",6.41,42.17,"315",51.9,"ypresian",34086,-4.9086,45.1603,16,1
+"128762",185934,"col","London Clay",-1.67,50.8,"Portsmouth",NA,"",5,"Ypresian","",56,47.8,28173,"gp_mid",6.08,42.11,"315",51.9,"ypresian",34087,-4.9086,45.1603,16,1
+"128763",185935,"col","London Clay",-1.74,51.07,"Clarendon",NA,"",6,"Ypresian","",56,47.8,28173,"gp_mid",6.05,42.38,"315",51.9,"ypresian",34088,-4.9086,45.1603,16,1
+"128764",185936,"col","London Clay",-1.33,50.67,"Isle of Wight, London Clay",NA,"",1,"Ypresian","",56,47.8,28173,"gp_mid",6.35,41.96,"315",51.9,"ypresian",34089,-4.9086,45.1603,16,1
+"128852",186444,"col","Danata",56.88,38.61,"Uilya-Kushlyuk",NA,"Uylya-Kushlyuk",30,"Ypresian","",56,47.8,59519,"gp_mid",57.38,30.72,"402",51.9,"ypresian",34106,49.7251,37.0913,16,1
+"129110",186779,"col","Trujillo",-69.81,10.36,"Head of Quebrada Agua Viva",NA,"Sierra de Baragua",1,"Early Eocene","",55.8,48.6,62625,"gp_mid",-52.08,8.5,"203",52.2,"ypresian",34170,-60.8398,3.6166,16,1
+"129347",187082,"col","La Meseta",-56.66,-64.23,"IAA 2/16",NA,"Isla Marambio",1,"Ypresian","",56,47.8,62755,"gp_mid",-67.46,-61.86,"803",51.9,"ypresian",31608,-59.0571,-67.0904,16,1
+"129602",187474,"col","Domengine Sandstone",-119.94,35.48,"West branch Agua Media Creek [Domengine Sandstone]",NA,"",1,"Ypresian","",56,47.8,39270,"gp_mid",-94.33,41.87,"105",51.9,"ypresian",34277,-102.0148,33.8633,16,1
+"129608",187481,"col","",11.2,45.6,"Spilecco, southwest of Purga di Bolca",NA,"",2,"Ypresian","",56,47.8,39270,"gp_mid",18.58,33.43,"307",51.9,"ypresian",31968,11.4227,37.1697,16,1
+"129610",187483,"col","Domengine Sandstone",-119.94,35.47,"UCMP A8196 - North fork of Media Agua Creek [Domengine Sandstone]",NA,"",1,"Ypresian","",56,47.8,39270,"gp_mid",-94.33,41.87,"105",51.9,"ypresian",34281,-102.0148,33.8633,16,1
+"130011",188444,"col","",4.16,50.67,"Quenast",NA,"",1,"Ypresian","",56,47.8,29875,"gp_mid",11,41.69,"315",51.9,"ypresian",34365,-1.4995,45.396,16,1
+"130238",188969,"col","Pesciara",11.21,45.58,"Pesciara di Bolca (Monte Bolca, Cerato family collection)",NA,"",1,"Ypresian","",56,47.8,63454,"gp_mid",18.58,33.41,"307",51.9,"ypresian",16585,11.4227,37.1697,16,1
+"131419",190957,"col","Chiusole",10.85,45.54,"Monte Solane Fish Bed",NA,"",15,"Ypresian","",56,47.8,64358,"gp_mid",18.3,33.5,"307",51.9,"ypresian",34614,11.4227,37.1697,16,1
+"131800",191917,"col","La Meseta",-56.65,-64.24,"DPV 6/84",NA,"",3,"Ypresian","",56,47.8,64798,"gp_mid",-67.45,-61.87,"803",51.9,"ypresian",34692,-59.0571,-67.0904,16,1
+"132644",194164,"col","Juncal",-118.72,34.56,"CSUN 362 - West Side of Canton Canyon [Juncal Fm]",NA,"LACMIP 40362",1,"Ypresian","",56,47.8,65883,"gp_mid",-93.18,40.82,"105",51.9,"ypresian",32909,-102.0148,33.8633,16,1
+"132667",194354,"col","Hatchetigbee Bluff",-88.03,31.07,"Dockery col",NA,"AWa-1c of Toulmin",28,"Ypresian","",56,47.8,34008,"gp_mid",-64.74,34.79,"109",51.9,"ypresian",13225,-71.9499,28.8082,16,1
+"132900",194886,"col","",3.84,49.08,"Venteuil",NA,"",1,"Ypresian","",56,47.8,66265,"gp_mid",10.59,40.12,"315",51.9,"ypresian",34953,-1.4995,45.396,16,1
+"132964",195080,"col","Crescent",-123.58,48.13,"UCMP B5347 Olympic Peninsula ",NA,"UCMP B5347",1,"Ypresian","",56,47.8,66207,"gp_mid",-93.47,55.92,"129",51.9,"ypresian",34983,-105.2154,49.2907,16,1
+"133733",196472,"col","Mo Clay",8.96,56.84,"Knude Klint, Fur, Eosphargis breineri type locality",NA,"",1,"Ypresian","",56,47.8,66815,"gp_mid",15.53,47.67,"302",51.9,"ypresian",22940,0.5618,53.0982,16,1
+"133734",196473,"col","Fur",8.96,56.84,"Dansk Moler Industri Quarry",NA,"Faerkerhede, Fur",1,"Ypresian","",56,47.8,66815,"gp_mid",15.53,47.67,"302",51.9,"ypresian",22940,0.5618,53.0982,16,1
+"133735",196474,"col","Mo Clay",8.96,56.84,"Mo Clay Formation, Fur Island",NA,"",1,"Ypresian","",56,47.8,66815,"gp_mid",15.53,47.67,"302",51.9,"ypresian",22940,0.5618,53.0982,16,1
+"134727",197966,"col","",72.82,19,"Worli Hill, Bombay",NA,"",1,"Early Eocene","",55.8,48.6,67489,"gp_mid",69.71,-8.94,"501",52.2,"ypresian",35389,60.2912,-1.9181,16,1
+"135097",198876,"col","Palana",72.87,27.87,"Gurha opencast lignite mine",NA,"",1,"Ypresian","",56,47.8,67747,"gp_mid",72.46,-0.5,"501",51.9,"ypresian",35476,62.2497,5.3222,16,1
+"135134",199521,"col","Fur",8.92,56.92,"Approx 2 m above ash layer -11, Ejerslev Molergrav, Mors",NA,"",1,"Ypresian","",56,47.8,67812,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"135677",200298,"col","",2.65,49.35,"Try",NA,"",1,"Ypresian","",56,47.8,68346,"gp_mid",9.6,40.44,"315",51.9,"ypresian",11065,-1.4995,45.396,16,1
+"136001",200979,"col","",69.02,41.72,"Zhylga 2",NA,"Dzhylga",1,"Ypresian","",56,47.8,68877,"gp_mid",67.86,34.96,"402",51.9,"ypresian",35688,61.0427,43.9299,16,1
+"136107",201133,"col","Crescent",-123.73,48.14,"UW 358",NA,"",7,"Ypresian","",56,47.8,53200,"gp_mid",-93.64,55.94,"129",51.9,"ypresian",35707,-105.2154,49.2907,16,1
+"136153",201247,"col","Llajas",-118.7,34.31,"CSUN Loc. 471b, Chivo Canyon, Santa Susana Mountains",NA,"",4,"Ypresian","",56,47.8,59877,"gp_mid",-93.2,40.57,"105",51.9,"ypresian",35719,-102.0148,33.8633,16,1
+"136154",201249,"col","Llajas",-118.7,34.31,"CSUN Loc. 471c - Chivo Canyon [Llajas Fm]",NA,"",1,"Ypresian","",56,47.8,59877,"gp_mid",-93.2,40.57,"105",51.9,"ypresian",35719,-102.0148,33.8633,16,1
+"136155",201250,"col","Llajas",-118.7,34.31,"CSUN Loc. 471d - Chivo Canyon [Llajas Fm]",NA,"",6,"Ypresian","",56,47.8,59877,"gp_mid",-93.2,40.57,"105",51.9,"ypresian",35719,-102.0148,33.8633,16,1
+"136156",201251,"col","Llajas",-118.7,34.31,"CSUN Loc. 471e - Chivo Canyon [Llajas Fm]",NA,"",2,"Ypresian","",56,47.8,59877,"gp_mid",-93.2,40.57,"105",51.9,"ypresian",35719,-102.0148,33.8633,16,1
+"136256",201621,"col","",-121.65,38.49,"UCMP 3573 - NW of Vacaville",78723,"UCMP V71128",42,"Ypresian","",56,47.8,23852,"gp_mid",-94.03,46.18,"130",51.9,"ypresian",35741,-104.434,38.9339,16,1
+"136754",202315,"col","Ghazij",69.75,29.5,"Ghazi Khan",NA,"",1,"Ypresian","",56,47.8,12078,"gp_mid",70.37,1.91,"501",51.9,"ypresian",35876,62.9097,7.7347,16,1
+"137561",203258,"col","Fishburne",-79.64,33.28,"Jamestown Limestone Quarry, Pit III",NA,"",23,"Ypresian","",56,47.8,61698,"gp_mid",-55.68,35.01,"109",51.9,"ypresian",36001,-64.2342,30.3311,16,1
+"137738",203480,"col","La Meseta",-56.62,-64.22,"CW 86-09, Cape Wiman",NA,"",2,"Ypresian","",56,47.8,469,"gp_mid",-67.42,-61.85,"803",51.9,"ypresian",8195,-59.0571,-67.0904,16,1
+"137749",203491,"col","La Meseta",-56.67,-64.24,"W 94-17, Seymour Island",NA,"",1,"Ypresian","",56,47.8,469,"gp_mid",-67.47,-61.87,"803",51.9,"ypresian",1090,-59.0571,-67.0904,16,1
+"137758",203500,"col","La Meseta",-56.68,-64.24,"W 94-34, Seymour Island",NA,"",1,"Ypresian","",56,47.8,469,"gp_mid",-67.48,-61.87,"803",51.9,"ypresian",36084,-59.0571,-67.0904,16,1
+"137759",203501,"col","La Meseta",-56.66,-64.24,"W 94-35, Seymour Island",NA,"",1,"Ypresian","",56,47.8,469,"gp_mid",-67.46,-61.87,"803",51.9,"ypresian",36085,-59.0571,-67.0904,16,1
+"137762",203504,"col","La Meseta",-56.66,-64.24,"W 94-40, Seymour Island",NA,"",1,"Ypresian","",56,47.8,469,"gp_mid",-67.46,-61.87,"803",51.9,"ypresian",36085,-59.0571,-67.0904,16,1
+"138700",205154,"col","Crescent",-123.71,48.17,"Tongue Point, south",NA,"UWBM B7330",1,"Ypresian","",56,47.8,70392,"gp_mid",-93.6,55.96,"129",51.9,"ypresian",36365,-105.2154,49.2907,16,1
+"139167",205789,"col","Llajas",-118.64,34.31,"LACMIP 40485",NA,"",1,"Ypresian","",56,47.8,70556,"gp_mid",-93.14,40.57,"105",51.9,"ypresian",36589,-102.0148,33.8633,16,1
+"139168",205790,"col","Domengine Sandstone",-120.42,36.14,"CAS 66747 - Alcalde Hills [Domengine Sandstone]",NA,"",1,"Ypresian","",56,47.8,70556,"gp_mid",-93.21,43.7,"130",51.9,"ypresian",36590,-102.0148,33.8633,16,1
+"139191",205814,"col","Horokabetsu",141.97,43.34,"Mitsubishi-Bibai Coal mine",NA,"",8,"Early Eocene","",55.8,48.6,70583,"gp_mid",133.93,52.65,"610",52.2,"ypresian",36604,141.3742,51.715,16,1
+"140174",207305,"col","Santa Susana",-118.69,34.29,"CSUN Loc. 958, Santa Susana Mountains",NA,"",9,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.55,"105",51.9,"ypresian",36901,-102.0148,33.8633,16,1
+"140175",207306,"col","Santa Susana",-118.69,34.29,"CSUN Loc. 959, Santa Susana Mountains",NA,"",4,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.55,"105",51.9,"ypresian",36901,-102.0148,33.8633,16,1
+"140176",207307,"col","Santa Susana",-118.68,34.3,"CSUN Loc. 960, Santa Susana Mountains",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",4375,-102.0148,33.8633,16,1
+"140177",207308,"col","Santa Susana",-118.68,34.3,"CSUN Loc. 961, Santa Susana Mountains",NA,"",7,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",4375,-102.0148,33.8633,16,1
+"140178",207309,"col","Santa Susana",-118.68,34.3,"CSUN Loc. 962, Santa Susana Mountains",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.18,40.56,"105",51.9,"ypresian",4375,-102.0148,33.8633,16,1
+"140179",207310,"col","Santa Susana",-118.68,34.31,"CSUN Loc. 963, Santa Susana Mountains",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",36902,-102.0148,33.8633,16,1
+"140180",207311,"col","Santa Susana",-118.68,34.31,"CSUN Loc. 964, Santa Susana Mountains",NA,"LACMIP Loc. 21551",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.18,40.56,"105",51.9,"ypresian",36902,-102.0148,33.8633,16,1
+"140181",207312,"col","Santa Susana",-118.68,34.31,"CSUN Loc. 965, Santa Susana Mountains",NA,"LACMIP Loc. 26111 (also in text as 26611 [Figures 57-68 caption] and 16111 [p. 30], believed to be typos)",4,"Ypresian","",56,47.8,71392,"gp_mid",-93.18,40.56,"105",51.9,"ypresian",36902,-102.0148,33.8633,16,1
+"140182",207313,"col","Santa Susana",-118.68,34.31,"CSUN Loc. 966, Santa Susana Mountains",NA,"LACMIP Loc. 16893; LACMIP Loc. 26609",4,"Ypresian","",56,47.8,71392,"gp_mid",-93.18,40.56,"105",51.9,"ypresian",36902,-102.0148,33.8633,16,1
+"140183",207314,"col","Juncal",-119.01,34.6,"UCR loc. 4667, near Sespe Hot Springs",NA,"",1,"Ypresian","",56,47.8,66320,"gp_mid",-93.48,40.89,"105",51.9,"ypresian",36903,-102.0148,33.8633,16,1
+"140184",207315,"col","Santa Susana",-118.68,34.31,"CSUN Loc. 967, Santa Susana Mountains",NA,"LACMIP Loc. 12648; LACMIP Loc. 26610",10,"Ypresian","",56,47.8,71392,"gp_mid",-93.18,40.57,"105",51.9,"ypresian",36902,-102.0148,33.8633,16,1
+"140185",207316,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 969, Santa Susana Mountains",NA,"LACMIP 16894",3,"Ypresian","",56,47.8,71392,"gp_mid",-93.2,40.57,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140186",207317,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 968, Santa Susana Mountains",NA,"",1,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.56,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140187",207318,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 970, Santa Susana Mountains",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.57,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140188",207319,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 971, Santa Susana Mountains",NA,"",1,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.57,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140189",207320,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 972, Santa Susana Mountains",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.57,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140190",207321,"col","Santa Susana",-118.69,34.31,"CSUN Loc. 973, Santa Susana Mountains",NA,"LACMIP loc. 16895",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.19,40.57,"105",51.9,"ypresian",36904,-102.0148,33.8633,16,1
+"140191",207322,"col","Santa Susana",-118.74,34.24,"CSUN Loc. 1343, Simi Hills",NA,"UCMP loc. 3791",5,"Ypresian","",56,47.8,71392,"gp_mid",-93.26,40.51,"105",51.9,"ypresian",36905,-102.0148,33.8633,16,1
+"140192",207323,"col","Santa Susana",-118.74,34.24,"CSUN Loc. 1344, Simi Hills",NA,"",4,"Ypresian","",56,47.8,71392,"gp_mid",-93.26,40.51,"105",51.9,"ypresian",36905,-102.0148,33.8633,16,1
+"140193",207324,"col","Santa Susana",-118.74,34.25,"CSUN Loc. 1345, Runkle Canyon",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.25,40.51,"105",51.9,"ypresian",36906,-102.0148,33.8633,16,1
+"140194",207325,"col","Santa Susana",-118.74,34.25,"CSUN Loc. 1346, Runkle Canyon",NA,"",5,"Ypresian","",56,47.8,71392,"gp_mid",-93.25,40.51,"105",51.9,"ypresian",36906,-102.0148,33.8633,16,1
+"140195",207326,"col","Santa Susana",-118.74,34.25,"CSUN Loc. 1347, Runkle Canyon",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.25,40.51,"105",51.9,"ypresian",36906,-102.0148,33.8633,16,1
+"140196",207327,"col","Santa Susana",-118.74,34.25,"CSUN Loc. 1348, Runkle Canyon",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.25,40.51,"105",51.9,"ypresian",36906,-102.0148,33.8633,16,1
+"140197",207328,"col","Santa Susana",-118.73,34.25,"CSUN Loc. 1349, Runkle Canyon",NA,"",2,"Ypresian","",56,47.8,71392,"gp_mid",-93.25,40.51,"105",51.9,"ypresian",36907,-102.0148,33.8633,16,1
+"140198",207329,"col","Santa Susana",-118.77,34.23,"CSUN Loc. 1565, Bus Canyon",NA,"",1,"Ypresian","",56,47.8,71392,"gp_mid",-93.29,40.5,"105",51.9,"ypresian",36908,-102.0148,33.8633,16,1
+"140200",207336,"col","Santa Susana",-118.73,34.24,"UCMP Loc. 3765, Runkle Canyon",NA,"",2,"Ypresian","",56,47.8,71416,"gp_mid",-93.24,40.5,"105",51.9,"ypresian",36909,-102.0148,33.8633,16,1
+"140247",207470,"col","",11.2,45.61,"Rama di Bolca",NA,"",85,"Ypresian","",56,47.8,71455,"gp_mid",18.59,33.44,"307",51.9,"ypresian",36933,11.4227,37.1697,16,1
+"140248",207471,"col","",11.2,45.61,"Cracchi",NA,"",6,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.59,33.44,"307",52.2,"ypresian",36933,11.4227,37.1697,16,1
+"140249",207472,"col","",11.21,45.61,"Laisi",NA,"",2,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.6,33.44,"307",52.2,"ypresian",36934,11.4227,37.1697,16,1
+"140250",207473,"col","",11.23,45.6,"Valecco",NA,"",1,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.61,33.42,"307",52.2,"ypresian",36935,11.4227,37.1697,16,1
+"140251",207474,"col","",11.22,45.59,"Zovo di Bolca",NA,"",9,"Early Eocene","",55.8,48.6,71455,"gp_mid",18.6,33.42,"307",52.2,"ypresian",36936,11.4227,37.1697,16,1
+"140341",207595,"col","",11.23,45.52,"Monte Serea",NA,"Mount Serea",19,"Ypresian","",56,47.8,58787,"gp_mid",18.57,33.35,"307",51.9,"ypresian",36975,11.4227,37.1697,16,1
+"140974",208490,"col","Crescent",-123.33,46.77,"LACMIP 16940",NA,"",1,"Ypresian","",56,47.8,71996,"gp_mid",-93.63,54.55,"129",51.9,"ypresian",37097,-105.2154,49.2907,16,1
+"140975",208491,"col","Crescent",-123.32,46.77,"LACMIP 16941",NA,"CSUN 1571",1,"Ypresian","",56,47.8,71996,"gp_mid",-93.63,54.55,"129",51.9,"ypresian",37098,-105.2154,49.2907,16,1
+"140976",208492,"col","Crescent",-123.27,46.69,"LACMIP 16851",NA,"CSUN 1573",1,"Ypresian","",56,47.8,71996,"gp_mid",-93.6,54.46,"129",51.9,"ypresian",37099,-105.2154,49.2907,16,1
+"141431",209255,"col","Ait Ouarhitane",6.12,31.38,"Djebel Ta'louit",NA,"",1,"Ypresian","",56,47.8,72210,"gp_mid",10.96,19.42,"714",51.9,"ypresian",37205,3.7944,24.8183,16,1
+"141549",209401,"col","Fur",8.92,56.92,"Around ash layer +15, Coast cliff at Ejerslev, Isle of Mors",NA,"Scandiavis-type locality",1,"Ypresian","",56,47.8,72264,"gp_mid",15.5,47.75,"302",51.9,"ypresian",10981,0.5618,53.0982,16,1
+"141568",209422,"col","Tamaguélelt",0.25,17.59,"Tamaguélelt vicinity (BMNH collection)",NA,"",4,"Ypresian","",56,47.8,72276,"gp_mid",2.77,6.97,"714",51.9,"ypresian",7152,-4.7298,10.4922,16,1
+"141714",209572,"col","",-6.63,32.86,"Sidi Daoui, Zone O",NA,"",2,"Ypresian","",56,47.8,72289,"gp_mid",0,23.23,"707",51.9,"ypresian",4076,-10.0131,26.1716,16,1
+"141765",209633,"col","Crescent",-122.85,47.73,"Pulali Point [Crescent Fm]",NA,"",1,"Ypresian","",56,47.8,49270,"gp_mid",-92.75,55.43,"129",51.9,"ypresian",28011,-105.2154,49.2907,16,1
+"141767",209635,"col","Avenal Sandstone",-120.21,35.95,"Reef Ridge [Avenal Sandstone]",NA,"",1,"Ypresian","",56,47.8,49270,"gp_mid",-93.02,43.48,"130",51.9,"ypresian",37258,-102.0148,33.8633,16,1
+"141768",209636,"col","Matilija",-119.29,34.63,"Pine Mountain",NA,"",2,"Ypresian","",56,47.8,49270,"gp_mid",-93.78,40.96,"105",51.9,"ypresian",37259,-102.0148,33.8633,16,1
+"141769",209637,"col","Juncal",-121.08,35.94,"Lockwood Valley",NA,"",1,"Ypresian","",56,47.8,49270,"gp_mid",-95.48,42.46,"105",51.9,"ypresian",37260,-102.0148,33.8633,16,1
+"141770",209638,"col","Juncal",-118.73,34.57,"Whitaker Peak",NA,"",1,"Ypresian","",56,47.8,49270,"gp_mid",-93.19,40.83,"105",51.9,"ypresian",37261,-102.0148,33.8633,16,1
+"141771",209639,"col","Matilija",-119.7,34.42,"Santa Barbara, Matilija Fm.",NA,"",0,"Ypresian","",56,47.8,49270,"gp_mid",-94.26,40.79,"105",51.9,"ypresian",37262,-102.0148,33.8633,16,1
+"142120",210088,"col","Cakeham A",-0.9,50.77,"West Wittering, Bracklesham Bay",NA,"",2,"Ypresian","",56,47.8,72442,"gp_mid",6.73,42.03,"315",51.9,"ypresian",37306,-4.9086,45.1603,16,1
+"142121",210089,"col","Cakeham B",-0.86,50.76,"East Wittering",NA,"",2,"Ypresian","",56,47.8,72442,"gp_mid",6.76,42.02,"315",51.9,"ypresian",5401,-4.9086,45.1603,16,1
+"142122",210090,"col","",-1.09,50.68,"Whitecliff Bay Cuisian Beds",NA,"",15,"Ypresian","",56,47.8,72442,"gp_mid",6.56,41.95,"315",51.9,"ypresian",37307,-4.9086,45.1603,16,1
+"142216",210208,"col","",-45.13,-25.81,"Well 1-SPS-5A Eocene",NA,"",5,"Early Eocene","",55.8,48.6,72529,"gp_mid",-31.27,-30.03,"201",52.2,"ypresian",37325,-31.7412,-29.6061,16,1
+"144161",213142,"col","",-5.85,34.32,"NE Ouled Abdoun Basin",NA,"",1,"Ypresian","",56,47.8,73588,"gp_mid",NA,NA,"coordinates not computable using this model",51.9,"ypresian",11715,-9.6604,28.6519,16,1
+"144841",214011,"col","Ghat",67.17,28.14,"Kil",NA,"",1,"Early Eocene","",55.8,48.6,73834,"gp_mid",67.78,1.38,"501",52.2,"ypresian",37915,59.0341,6.2323,16,1
+"144968",214151,"col","Sierra Blanca Limestone",-119.76,34.55,"CSUN loc. 1566, Santa Ynez River",NA,"LACMIP loc. 16507",1,"Early Eocene","",55.8,48.6,73847,"gp_mid",-94.3,40.93,"105",52.2,"ypresian",37929,-102.0148,33.8633,16,1
+"144969",214152,"col","Sierra Blanca Limestone",-119.9,34.66,"CSUN loc. 955, East Fork of Cachuma Creek",NA,"Lazaro Creek, UCMP loc. 4124, LSJU loc. 1106, UCMP loc. A-2990, LACMIP 16506",1,"Early Eocene","",55.8,48.6,73847,"gp_mid",-94.43,41.05,"105",52.2,"ypresian",37930,-102.0148,33.8633,16,1

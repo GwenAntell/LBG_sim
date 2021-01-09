@@ -1,364 +1,382 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"2425",4901,"col","Coon Hollow",-116.462776,45.663055,"Pittsburg Landing (Idaho)",NA,"",8,"Bajocian","",170.3,168.3,307,"gp_mid",-41.85,33.67,"129",169.3,1
-"2474",5207,"col","Tiglukpuk",-151.833328,68.366669,"Tiglukpuk Creek (USGS Mes. loc. 22591)",NA,"",2,"Bajocian","",170.3,168.3,313,"gp_mid",-37.58,67.67,"103",169.3,1
-"3414",8525,"col","Middle Inferior Oolite",-1.916667,51.983334,"England ST",NA,"",12,"Bajocian","",170.3,168.3,41,"gp_mid",20.66,36.46,"315",169.3,1
-"3415",8522,"col","Middle Inferior Oolite",-2.183333,51.783333,"England CQ",NA,"",16,"Bajocian","",170.3,168.3,41,"gp_mid",20.49,36.24,"315",169.3,1
-"4313",12010,"col","",4.85,44.883331,"Crussol, à Guilherand",NA,"",18,"Bajocian","",170.3,168.3,4215,"gp_mid",27.11,30.03,"305",169.3,1
-"4334",12084,"col","",4.583333,44.833332,"La Pize, à Ollières-sur-Eyrieux",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.9,29.95,"305",169.3,1
-"4339",12089,"col","",4.6,44.733334,"Mine at Saint-Priest-Veyras near Privas",NA,"",3,"Bajocian","",170.3,168.3,4215,"gp_mid",26.93,29.85,"305",169.3,1
-"4343",12093,"col","",4.5,44.733334,"Auberge Faure at Pourchères",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.85,29.84,"305",169.3,1
-"4349",12099,"col","",4.4,44.616669,"Chomeil-Serre des Champs",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,1
-"4350",12100,"col","",4.483333,44.666668,"La Bouisse and route d'Auriolles, C. D. 356 at Vesseaux",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.85,29.77,"305",169.3,1
-"4367",12124,"col","",4.4,44.616669,"Rocher de Tartary at Aubenas",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,1
-"4369",12126,"col","",4.4,44.616669,"Ravine of Ferrières at Saint-Etienne-de-Fontbellon",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,1
-"4371",12129,"col","",4.383333,44.566666,"Le Chamblard at Saint-Sernin",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.66,"305",169.3,1
-"4373",12131,"col","",4.383333,44.566666,"Pissevieille at La Chapelle-sous-Aubenas",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.66,"305",169.3,1
-"4375",12133,"col","",4.35,44.533333,"Uzer",NA,"",5,"Bajocian","",170.3,168.3,4215,"gp_mid",26.77,29.63,"305",169.3,1
-"4381",12139,"col","",4.083333,44.299999,"Route Villefort-Les Vans, Causse du Moignard at Gravières",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.59,29.37,"305",169.3,1
-"4384",12142,"col","",4.2,44.25,"Montchaud at Saint-Brès",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.69,29.33,"305",169.3,1
-"4388",12153,"col","",4.2,44.25,"Banassac",NA,"",3,"Bajocian","",170.3,168.3,4215,"gp_mid",26.69,29.33,"305",169.3,1
-"11261",21106,"col","Saltwick",-1,54.400002,"Hasty Bank Siltstone Assemblage",NA,"",24,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"11262",21107,"col","Saltwick",-1,54.400002,"Horizon 10, Hasty Bank (Intermediate Assemblage)",NA,"",16,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"11263",21110,"col","Saltwick",-1,54.400002,"Hasty Bank Claystone Assemblage",NA,"",38,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12884",24275,"col","Saltwick",-1,54.400002,"Horizon 1, Hasty Bank",21106,"",3,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12885",24276,"col","Saltwick",-1,54.400002,"Horizon 2, Hasty Bank",21106,"",9,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12886",24277,"col","Saltwick",-1,54.400002,"Horizon 3, Hasty Bank",21106,"",12,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12887",24278,"col","Saltwick",-1,54.400002,"Horizon 4, Hasty Bank",21106,"",6,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12888",24279,"col","Saltwick",-1,54.400002,"Horizon 5, Hasty Bank",21106,"",7,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12889",24280,"col","Saltwick",-1,54.5,"Horizon 6, Hasty Bank",21106,"",8,"Bajocian","",170.3,168.3,6469,"gp_mid",20.95,39.03,"315",169.3,1
-"12890",24281,"col","Saltwick",-1,54.400002,"Horizon 7, Hasty Bank",21106,"",14,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12891",24282,"col","Saltwick",-1,54.400002,"Horizon 8, Hasty Bank",21106,"",11,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12892",24283,"col","Saltwick",-1,54.400002,"Horizon 9, Hasty Bank",21106,"",13,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12893",24284,"col","Saltwick",-1,54.400002,"Horizon 11, Hasty Bank",21110,"",4,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12924",24327,"col","Saltwick",-1,54.400002,"Horizon 12, Hasty Bank",21110,"",12,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12926",24329,"col","Saltwick",-1,54.400002,"Horizon 13, Hasty Bank",21110,"",8,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12927",24331,"col","Saltwick",-1,54.400002,"Horizon 14, Hasty Bank",21110,"",11,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12928",24332,"col","Saltwick",-1,54.400002,"Horizon 15, Hasty Bank",21110,"",16,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12929",24333,"col","Saltwick",-1,54.400002,"Horizon 16, Hasty Bank",21110,"",14,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12930",24335,"col","Saltwick",-1,54.400002,"Horizon 17, Hasty Bank",21110,"",15,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12931",24337,"col","Saltwick",-1,54.400002,"Horizon 18, Hasty Bank",21110,"",16,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12932",24339,"col","Saltwick",-1,54.400002,"Horizon 19, Hasty Bank",21110,"",12,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12933",24340,"col","Saltwick",-1,54.400002,"Horizon 20, Hasty Bank",21110,"",7,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12934",24341,"col","Saltwick",-1,54.400002,"Horizon 21, Hasty Bank",21110,"",10,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12935",24342,"col","Saltwick",-1,54.400002,"Horizon 22, Hasty Bank",21110,"",19,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12936",24344,"col","Saltwick",-1,54.400002,"Horizon 23, Hasty Bank",21110,"",19,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12937",24345,"col","Saltwick",-1,54.400002,"Horizon 24, Hasty Bank",21110,"",20,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"12938",24346,"col","Saltwick",-1,54.400002,"Horizon 25, Hasty Bank",21110,"",16,"Bajocian","",170.3,168.3,6469,"gp_mid",20.97,38.93,"315",169.3,1
-"13047",24561,"col","",6.4,47.299999,"Pont les Moulins",NA,"",0,"Bajocian","",170.3,168.3,6905,"gp_mid",27.92,32.58,"305",169.3,1
-"15311",29463,"col","",28,52.299999,"Chervonnoe Lake",NA,"PGAP 451",11,"Bajocian","",170.3,168.3,8098,"gp_mid",43.44,40.51,"302",169.3,1
-"15313",29465,"col","Coal Measures",28.6,52,"Pripyat basin",NA,"PGAP 403",16,"Bajocian","",170.3,168.3,8141,"gp_mid",44.02,40.33,"302",169.3,1
-"16424",30580,"col","Kulsary Suite",54,47,"Kulsary",NA,"PGAP 567",4,"Bajocian","",170.3,168.3,7972,"gp_mid",66.66,41.01,"402",169.3,1
-"16511",30668,"col","",55.799999,48.799999,"drillcores",NA,"PGAP 826",21,"Bajocian","",170.3,168.3,7951,"gp_mid",67.28,43.12,"302",169.3,1
-"16568",30726,"col","",55.5,47.5,"Kandzhara (drill core)",NA,"PGAP 823",28,"Bajocian","",170.3,168.3,7951,"gp_mid",67.68,41.84,"402",169.3,1
-"17104",31324,"col","Cloughton",-0.433333,54.333332,"Lower and Middle Jurassic woods of the Cleveland Basin, Cloughton Wyke&Yons Nap",NA,"",4,"Bajocian","",170.3,168.3,8436,"gp_mid",21.4,38.9,"315",169.3,1
-"17105",31325,"col","Scarbourough and Scalby",-0.414167,54.287224,"Lower and Middle Jurassic woods of the Cleveland Basin, Scalby formation",NA,"",5,"Bajocian","",170.3,168.3,8436,"gp_mid",21.42,38.86,"315",169.3,1
-"17800",32021,"col","Unterer Hauptraugenstein",7.683333,47.400002,"Hauptrogenstein, Bajocian, Reigoldswil, Baselland",NA,"",1,"Bajocian","",170.3,168.3,8591,"gp_mid",28.92,32.82,"305",169.3,1
-"18358",32733,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 554)",NA,"",23,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"18367",32741,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 516)",NA,"",16,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"18369",32743,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 547)",NA,"",3,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"18370",32744,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 523)",NA,"",10,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"18371",32745,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 515)",NA,"",7,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"18372",32746,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality513)",NA,"",16,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,1
-"20018",34712,"col","",5.25,45.716667,"Ile Crémieu, 1st reef level, France",NA,"Reef 2426",36,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20019",34713,"col","",5.25,45.716667,"Ile Crémieu, crinoidal limestone, France",NA,"Reef 2426",17,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20020",34714,"col","",5.25,45.716667,"Ile Crémieu, 2nd reef level, France",NA,"Reef 2426",56,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20021",34715,"col","",5.25,45.716667,"Ile Crémieu, Pholadomya facies, France",NA,"Reef 2426",14,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20022",34716,"col","",5.25,45.716667,"Ile Crémieu, Pseudomelania facies, France",NA,"Reef 2426",8,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20023",34717,"col","",5.25,45.716667,"Ile Crémieu, Spicule facies, France",NA,"Reef 2426",5,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20024",34718,"col","",5.25,45.716667,"Ile Crémieu, Oyster facies, France",NA,"Reef 2426",28,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,1
-"20335",35122,"col","Cloughton",-0.25,54.166668,"Gristhorpe Plant Bed, Cayton Bay",NA,"",56,"Bajocian","",170.3,168.3,9453,"gp_mid",21.56,38.75,"315",169.3,1
-"21178",36395,"col","",38.133331,-6.75,"Cox - 85 (E. Tanganyika)",NA,"",5,"Bajocian","",170.3,168.3,9748,"gp_mid",29.88,-30.38,"701",169.3,1
-"21179",36396,"col","",38.213333,-6.770833,"Cox - 86 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.95,-30.44,"701",169.3,1
-"21180",36397,"col","",38.224998,-6.759722,"Cox - 87 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.97,-30.43,"701",169.3,1
-"21181",36398,"col","",38.254166,-6.739444,"Cox - 88 (E. Tanganyika)",NA,"",3,"Bajocian","",170.3,168.3,9748,"gp_mid",30.01,-30.42,"701",169.3,1
-"21182",36399,"col","",38.143612,-6.739722,"Cox - 89 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.9,-30.38,"701",169.3,1
-"21183",36400,"col","",38.136112,-6.743056,"Cox - 90 (E. Tanganyika)",NA,"",1,"Bajocian","",170.3,168.3,9748,"gp_mid",29.89,-30.38,"701",169.3,1
-"21184",36401,"col","",38.208332,-6.783333,"Cox - 91 (E. Tanganyika)",NA,"",11,"Bajocian","",170.3,168.3,9748,"gp_mid",29.94,-30.45,"701",169.3,1
-"21185",36402,"col","",38.208332,-6.783333,"Cox - 92 (E. Tanganyika)",NA,"",9,"Bajocian","",170.3,168.3,9748,"gp_mid",29.94,-30.45,"701",169.3,1
-"21187",36404,"col","",38.216667,-6.783333,"Cox - 94 (E. Tanganyika)",NA,"",10,"Bajocian","",170.3,168.3,9748,"gp_mid",29.95,-30.45,"701",169.3,1
-"21188",36405,"col","",38.233334,-6.766667,"Cox - 95 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.98,-30.44,"701",169.3,1
-"22058",37603,"col","Smithers",-127.349998,56.733334,"Diagonal Mountain 2a, Smithers Formation",NA,"",3,"Bajocian","",170.3,168.3,8933,"gp_mid",-56.87,44.32,"127",169.3,1
-"22059",37604,"col","Smithers",-127.349998,56.733334,"Diagonal Mountain 2b, Smithers Formation",37603,"",2,"Bajocian","",170.3,168.3,8933,"gp_mid",-56.87,44.32,"127",169.3,1
-"22650",38341,"col","Potem",-122.333336,41.25,"Big Bend Quadrangle, Potem Formation, L.S.J.U. 2966",NA,"",2,"Bajocian","",170.3,168.3,10279,"gp_mid",-46.53,32.72,"101",169.3,1
-"22651",38342,"col","Potem",-122.333336,41.25,"Big Bend Quadrangle, Potem Formation, L.S.J.U. 2963",NA,"",1,"Bajocian","",170.3,168.3,10279,"gp_mid",-46.53,32.72,"101",169.3,1
-"22652",38343,"col","Potem",-122.333336,41.25,"Big Bend Quadrangle, Potem Formation, L.S.J.U. 2964",NA,"",1,"Bajocian","",170.3,168.3,10279,"gp_mid",-46.53,32.72,"101",169.3,1
-"22653",38344,"col","Potem",-122.333336,41.25,"Big Bend Quadrangle, Potem Formation, L.S.J.U. 2977",NA,"",1,"Bajocian","",170.3,168.3,10279,"gp_mid",-46.53,32.72,"101",169.3,1
-"22655",38346,"col","Potem",-122.333336,41.25,"Big Bend Quadrangle, Potem Formation, L.S.J.U. 2982",NA,"",4,"Bajocian","",170.3,168.3,10279,"gp_mid",-46.53,32.72,"101",169.3,1
-"25555",42319,"col","",-2.1,51.816666,"Crickley Hill, Gloucestershire",NA,"",10,"Bajocian","",170.3,168.3,11186,"gp_mid",20.55,36.28,"315",169.3,1
-"25556",42320,"col","",-2.1,51.816666,"Hook Norton, Oxfordshire",NA,"",4,"Bajocian","",170.3,168.3,11186,"gp_mid",20.55,36.28,"315",169.3,1
-"25557",42321,"col","",-2.633333,51.400002,"Dundry Hill, North Somerset",NA,"",3,"Bajocian","",170.3,168.3,11186,"gp_mid",20.2,35.83,"315",169.3,1
-"25558",42322,"col","",-2.716667,50.700001,"Burton Bradstock, Dorset",NA,"",1,"Bajocian","",170.3,168.3,11186,"gp_mid",20.23,35.13,"315",169.3,1
-"25559",42323,"col","",-2.566667,50.916668,"Bradford Abbas, Dorset",NA,"",1,"Bajocian","",170.3,168.3,11186,"gp_mid",20.32,35.35,"315",169.3,1
-"25561",42325,"col","",-2.35,51.349998,"Midford, UK",NA,"",1,"Bajocian","",170.3,168.3,11186,"gp_mid",20.42,35.8,"315",169.3,1
-"25562",42326,"col","Lincolnshire Limestone",-0.516667,52.966667,"Lincoln Limestone Formation",NA,"",3,"Bajocian","",170.3,168.3,11186,"gp_mid",21.57,37.54,"315",169.3,1
-"27911",45241,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D1,2)",NA,"",13,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27921",45265,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D1,4)",NA,"",18,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27922",45266,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,1a)",NA,"",17,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27923",45267,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,1b lower part)",NA,"",14,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27924",45268,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,1b upper part)",NA,"",21,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27925",45269,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,2 base)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27926",45270,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,2 middle altitude)",NA,"",6,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27927",45271,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,2 below the top)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27928",45272,"col","Dhruma",46.584442,24.231388,"Shaqra Group (lower Dhruma D2,2 top)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"27932",45301,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D3,1)",NA,"",25,"Bajocian","",170.3,168.3,11728,"gp_mid",45.8,-5.85,"503",169.3,1
-"28083",45468,"col","",17.733334,47.25,"Bakonybél, layer 1, Bakony Mts., Hungary",NA,"",2,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,1
-"28085",45470,"col","",17.733334,47.25,"Bakonybél, layer 3, Bakony Mts., Hungary",NA,"",1,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,1
-"28086",45471,"col","",17.733334,47.25,"Bakonybél, layer 6, Bakony Mts., Hungary",NA,"",1,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,1
-"30411",48014,"col","Lower Dhruma",46.25,23.966667,"Shaqra Group (Dhruma Fm.,D1,2)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.41,-5.97,"503",169.3,1
-"30412",48015,"col","Lower Dhruma",46.25,23.966667,"Shaqra Group (Dhruma Fm.,D1,4)",NA,"",6,"Bajocian","",170.3,168.3,11728,"gp_mid",45.41,-5.97,"503",169.3,1
-"30426",48030,"col","Dhruma",46.25,23.799999,"Shaqra Group (Dhruma Fm.,D1,2)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",45.34,-6.12,"503",169.3,1
-"30427",48031,"col","Dhruma",46.25,23.799999,"Shaqra Group (Dhruma Fm.,D1,4,top)",NA,"",5,"Bajocian","",170.3,168.3,11728,"gp_mid",45.34,-6.12,"503",169.3,1
-"30428",48032,"col","Dhruma",46.25,23.799999,"Shaqra Group (Dhruma Fm.,D1,4,top)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.34,-6.12,"503",169.3,1
-"30429",48033,"col","Dhruma",46.25,23.299999,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.14,-6.57,"503",169.3,1
-"30430",48034,"col","Dhruma Fm",45.166668,23.966667,"Shaqra Group (Dhruma Fm)",NA,"",9,"Bajocian","",170.3,168.3,11728,"gp_mid",44.51,-5.55,"503",169.3,1
-"30431",48035,"col","Dhruma Fm",45.166668,23.966667,"Shaqra Group (Dhruma Fm)",NA,"",9,"Bajocian","",170.3,168.3,11728,"gp_mid",44.51,-5.55,"503",169.3,1
-"30432",48036,"col","Dhruma Fm",45.166668,23.966667,"Shaqra Group (Dhruma Fm)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",44.51,-5.55,"503",169.3,1
-"30434",48038,"col","Dhruma",46.166668,23.799999,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.27,-6.09,"503",169.3,1
-"30435",48039,"col","Dhruma",46.166668,23.666668,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bajocian","",170.3,168.3,11728,"gp_mid",45.22,-6.21,"503",169.3,1
-"30436",48040,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",16,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-6.27,"503",169.3,1
-"30437",48041,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",16,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-6.27,"503",169.3,1
-"30439",48043,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-6.27,"503",169.3,1
-"30440",48044,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-6.27,"503",169.3,1
-"30473",48078,"col","Dhruma",46.333332,23.299999,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bajocian","",170.3,168.3,11728,"gp_mid",45.21,-6.61,"503",169.3,1
-"30474",48079,"col","Dhruma",46.333332,23.299999,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.21,-6.61,"503",169.3,1
-"30475",48080,"col","Dhruma",46.333332,23.299999,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bajocian","",170.3,168.3,11728,"gp_mid",45.21,-6.61,"503",169.3,1
-"30476",48081,"col","Dhruma",46.333332,23.200001,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bajocian","",170.3,168.3,11728,"gp_mid",45.16,-6.7,"503",169.3,1
-"30477",48082,"col","Dhruma",46.333332,23.200001,"Shaqra Group (Dhruma Fm.)",NA,"",13,"Bajocian","",170.3,168.3,11728,"gp_mid",45.16,-6.7,"503",169.3,1
-"30478",48083,"col","Dhruma",46.333332,23.200001,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.16,-6.7,"503",169.3,1
-"30479",48084,"col","Dhruma",46.333332,23.200001,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bajocian","",170.3,168.3,11728,"gp_mid",45.16,-6.7,"503",169.3,1
-"30480",48085,"col","Dhruma",46.333332,23.166668,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bajocian","",170.3,168.3,11728,"gp_mid",45.15,-6.73,"503",169.3,1
-"30481",48086,"col","Dhruma",46.333332,23.166668,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bajocian","",170.3,168.3,11728,"gp_mid",45.15,-6.73,"503",169.3,1
-"30482",48087,"col","Dhruma",46.333332,23.166668,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Bajocian","",170.3,168.3,11728,"gp_mid",45.15,-6.73,"503",169.3,1
-"30483",48088,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bajocian","",170.3,168.3,11728,"gp_mid",45.12,-6.8,"503",169.3,1
-"30484",48089,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bajocian","",170.3,168.3,11728,"gp_mid",45.12,-6.8,"503",169.3,1
-"30485",48090,"col","Dhruma",46.166668,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",44.87,-6.97,"503",169.3,1
-"30499",48105,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",31,"Bajocian","",170.3,168.3,11728,"gp_mid",44.64,-7.1,"503",169.3,1
-"30500",48106,"col","Dhruma",46.166668,22.533333,"Shaqra Group (Dhruma Fm.)",NA,"",27,"Bajocian","",170.3,168.3,11728,"gp_mid",44.75,-7.24,"503",169.3,1
-"30501",48107,"col","Dhruma",46,22.450001,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bajocian","",170.3,168.3,11728,"gp_mid",44.57,-7.25,"503",169.3,1
-"30502",48108,"col","Dhruma",46,22.033333,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",44.39,-7.63,"503",169.3,1
-"30503",48109,"col","Dhruma",46,24.633333,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.48,-5.27,"503",169.3,1
-"30504",48110,"col","Dhruma",45.833332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",45.39,-5.1,"503",169.3,1
-"30505",48111,"col","Dhruma",45.5,25.333332,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bajocian","",170.3,168.3,11728,"gp_mid",45.36,-4.44,"503",169.3,1
-"30506",48112,"col","Dhruma",45.5,25.333332,"Shaqra Group (Dhruma Fm.)",NA,"",23,"Bajocian","",170.3,168.3,11728,"gp_mid",45.36,-4.44,"503",169.3,1
-"30529",48135,"col","Dhruma",45,25.5,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-4.1,"503",169.3,1
-"30530",48136,"col","Dhruma",45,25.5,"Shaqra Group (Dhruma Fm.)",NA,"",18,"Bajocian","",170.3,168.3,11728,"gp_mid",45.02,-4.1,"503",169.3,1
-"30896",48521,"col","Dhruma",46.333332,23.299999,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bajocian","",170.3,168.3,11728,"gp_mid",45.21,-6.61,"503",169.3,1
-"32959",51334,"col","Scarborough",-0.362778,54.245834,"Locality 4 - Scarborough Formation, Scarborough",NA,"",5,"Bajocian","",170.3,168.3,13671,"gp_mid",21.47,38.82,"315",169.3,1
-"32961",51336,"col","",-0.362778,54.245834,"Locality 5 - Yons Nab Beds, Scarborough",NA,"",3,"Bajocian","",170.3,168.3,13671,"gp_mid",21.47,38.82,"315",169.3,1
-"32962",51337,"col","",-0.362778,54.245834,"Locality 6 - Millepore Bed, Scarborough",NA,"",1,"Bajocian","",170.3,168.3,13671,"gp_mid",21.47,38.82,"315",169.3,1
-"34070",52539,"col","",-0.943333,52.24361,"Daston theropod (BMNH 47152)",NA,"",1,"Bajocian","",170.3,168.3,14142,"gp_mid",21.36,36.79,"315",169.3,1
-"34072",52541,"col","",-2.240278,51.733891,"Selsly Hill (BMNH)",NA,"",1,"Bajocian","",170.3,168.3,14134,"gp_mid",20.45,36.19,"315",169.3,1
-"34104",52572,"col","",-1.627778,51.914444,"Kingham, Oxford",NA,"",1,"Bajocian","",170.3,168.3,14134,"gp_mid",20.89,36.41,"315",169.3,1
-"34105",52573,"col","",-1.703889,51.945278,"Broadwell, Gloucestershire",NA,"",1,"Bajocian","",170.3,168.3,14134,"gp_mid",20.83,36.44,"315",169.3,1
-"35038",53521,"col","",-1.542222,51.943611,"Chapel House, Chipping Norton (OUM)",NA,"Chapelhouse",3,"Bajocian","",170.3,168.3,51962,"gp_mid",20.95,36.45,"315",169.3,1
-"35039",53522,"col","",-0.850556,52.056389,"Stony Stratford sauropod (SMG)",NA,"",1,"Bajocian","",170.3,168.3,14071,"gp_mid",21.46,36.61,"315",169.3,1
-"35042",53525,"col","Scarborough",0.39,54.261665,"White Nab, Scarborough",NA,"",1,"Bajocian","",170.3,168.3,27781,"gp_mid",22.02,38.9,"315",169.3,1
-"38278",58353,"col","",9.8,51.866669,"Bore Wenzen, Lower Saxony",NA,"",3,"Bajocian","",170.3,168.3,15700,"gp_mid",29.61,37.46,"315",169.3,1
-"38313",58388,"col","",9.05,48.333332,"Jungingen, Baden-Württemberg",NA,"",1,"Bajocian","",170.3,168.3,16512,"gp_mid",29.82,33.89,"305",169.3,1
-"39946",60237,"col","",18.216667,49.083332,"Vrsatec Klippe, Pieniny Klippen Belt",NA,"Reef 3207",30,"Bajocian","",170.3,168.3,17336,"gp_mid",36.85,35.83,"305",169.3,1
-"44365",66388,"col","Rosso Ammonitico",11.133333,45.75,"Chiusa di Camposilvano, Rosso Ammonitico, Stromatolitic facies",NA,"",4,"Bajocian","",170.3,168.3,18980,"gp_mid",36.28,24.1,"307",169.3,1
-"44368",66391,"col","Rosso Ammonitico",11.133333,45.75,"Covolo di Camposilvano, Rosso Ammonitico, Stromatolitic facies",NA,"",11,"Bajocian","",170.3,168.3,18980,"gp_mid",36.28,24.1,"307",169.3,1
-"44372",66394,"col","Rosso Ammonitico",11.033333,45.616669,"Piccola Mantova, Rosso Ammonitico, Stromatolitic facies",NA,"",10,"Bajocian","",170.3,168.3,18980,"gp_mid",36.12,24.12,"307",169.3,1
-"44374",66396,"col","Rosso Ammonitico",11.033333,45.616669,"Dossetti, Rosso Ammonitico, Stromatolitic facies",NA,"",10,"Bajocian","",170.3,168.3,18980,"gp_mid",36.12,24.12,"307",169.3,1
-"45571",68165,"col","Agoudim",-4.416667,32.283333,"Central High Atlas, Rich-Gourrama area, second reef complex",NA,"Reef 3447",22,"Bajocian","",170.3,168.3,19589,"gp_mid",8.68,22.92,"707",169.3,1
-"46176",68824,"col","Sawtooth",-112.883331,48.183334,"USGS Mesozoic loc. 19183, north of Sun River area, Western Montana",NA,"",6,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.85,38.08,"127",169.3,1
-"46177",68825,"col","Sawtooth",-112.866669,48.174999,"USGS Mesozoic loc. 19195, north of Sun River area, Western Montana",NA,"",7,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.84,38.07,"127",169.3,1
-"46179",68827,"col","Sawtooth",-112.705559,47.633331,"USGS Mesozoic loc. 19606, Sun River area, Western Montana",NA,"",3,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.53,37.57,"127",169.3,1
-"46180",68828,"col","Sawtooth",-112.705559,47.633331,"USGS Mesozoic loc. 27037, Sun River area, Western Montana",NA,"",6,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.53,37.57,"127",169.3,1
-"47179",70438,"col","Chuanjie",102.076385,24.972221,"Quarry 1, Lao Chang Qing",NA,"Lufeng, Laochangjing, A'na; Konglongshan; Chuanjie",4,"Bajocian","",170.3,168.3,23627,"gp_mid",122.06,25.59,"611",169.3,1
-"51053",77241,"col","",-2.366667,51.383331,"Combe Down, Bath, Inferior Oolite",NA,"",1,"Bajocian","",170.3,168.3,26156,"gp_mid",20.41,35.83,"315",169.3,1
-"51055",77243,"col","",-2.366667,51.400002,"Charlcombe, Bath area",NA,"",2,"Bajocian","",170.3,168.3,26156,"gp_mid",20.4,35.85,"315",169.3,1
-"51056",77244,"col","",-2.366667,51.200001,"Nunney, Somerset",NA,"",1,"Bajocian","",170.3,168.3,26156,"gp_mid",20.43,35.65,"315",169.3,1
-"51057",77245,"col","",-2.216667,51.683334,"Nailsworth, Gloucestershire",NA,"",2,"Bajocian","",170.3,168.3,26156,"gp_mid",20.48,36.14,"315",169.3,1
-"51058",77246,"col","",-2.5,51.083332,"Castle Cary, Somerset",NA,"",1,"Bajocian","",170.3,168.3,26156,"gp_mid",20.35,35.52,"315",169.3,1
-"51558",78217,"col","",-3.483333,42.75,"Quintanaopia area, Burgos",NA,"",3,"Bajocian","",170.3,168.3,26346,"gp_mid",20.75,28.25,"304",169.3,1
-"54830",83659,"col","Hauptrogenstein",7.780556,47.376667,"Hiking trail, Schöntal Monastry, Langenbruck",NA,"",3,"Bajocian","",170.3,168.3,28000,"gp_mid",29.01,32.81,"305",169.3,1
-"55261",84274,"col","Bin el Ouidane",-5.733306,31.855198,"Ifgh tracksite",NA,"",2,"Bajocian","",170.3,168.3,28239,"gp_mid",10.15,22.97,"714",169.3,1
-"56855",86614,"col","",7.133333,47.283333,"Pichoux",NA,"",4,"Bajocian","",170.3,168.3,29177,"gp_mid",28.51,32.64,"305",169.3,1
-"56856",86615,"col","",6.95,47.366669,"Roche d'Or",NA,"",3,"Bajocian","",170.3,168.3,29177,"gp_mid",28.35,32.7,"305",169.3,1
-"56858",86624,"col","Rämsi Breccia",8.683333,47.016666,"Mt. Kleiner Mythen",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",29.8,32.55,"305",169.3,1
-"56865",86631,"col","",6.55,46.900002,"Val de Travers",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",28.12,32.2,"305",169.3,1
-"56866",86632,"col","",5.616667,46.150002,"Nantua",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",27.51,31.36,"305",169.3,1
-"56867",86633,"col","",5.883333,46.950001,"Salins",NA,"",5,"Bajocian","",170.3,168.3,29177,"gp_mid",27.58,32.18,"305",169.3,1
-"56868",86634,"col","",5.9,46.933334,"Cret Cesar",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",27.59,32.16,"305",169.3,1
-"56872",86670,"col","",7.183333,47.349998,"Montmelon",NA,"",3,"Bajocian","",170.3,168.3,29177,"gp_mid",28.54,32.71,"305",169.3,1
-"56873",86671,"col","",7.2,47.333332,"Glovelier Tunnel",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",28.55,32.7,"305",169.3,1
-"56874",86672,"col","",7.15,47.383331,"Male-Cote",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",28.5,32.74,"305",169.3,1
-"56876",86674,"col","",5.866667,46.216667,"Chezery",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",27.7,31.45,"305",169.3,1
-"59246",90024,"col","Hauptrogenstein",7.570278,47.810001,"Oolitkörner, Hauptrogenstein, Vögisheim, Baden-Württemberg",NA,"",12,"Bajocian","",170.3,168.3,17826,"gp_mid",28.75,33.21,"305",169.3,1
-"61514",94618,"col","""Bifurcata Oolith""",9.816667,48.75,"Stuifen, Bifurcata Oolith",NA,"",6,"Bajocian","",170.3,168.3,32227,"gp_mid",30.33,34.39,"305",169.3,1
-"62641",94623,"col","""Bifurcata Oolith""",10.35,48.866669,"Oberdorf, Bifurcata Oolith",NA,"",1,"Bajocian","",170.3,168.3,32227,"gp_mid",30.72,34.57,"305",169.3,1
-"62647",94629,"col","""Bifurcata Oolith""",8.683333,48.033333,"Lupfen, Bifurcata Oolith",NA,"",4,"Bajocian","",170.3,168.3,32227,"gp_mid",29.59,33.56,"305",169.3,1
-"62660",94642,"col","""Bifurcata Oolith""",8.716667,48.083332,"Spaichingen, Bifurcata Oolith",NA,"",3,"Bajocian","",170.3,168.3,32227,"gp_mid",29.6,33.61,"305",169.3,1
-"62671",94653,"col","""Bifurcata Oolith""",10.3,48.883331,"Röttingen, Bifurcata Oolith",NA,"",3,"Bajocian","",170.3,168.3,32227,"gp_mid",30.68,34.58,"305",169.3,1
-"62674",94656,"col","""Bifurcata Oolith""",10.35,48.849998,"Bopfingen, Bifurcata Oolith",NA,"",1,"Bajocian","",170.3,168.3,32227,"gp_mid",30.73,34.56,"305",169.3,1
-"64156",96197,"col","South Bükk Shales",20.483334,47.983334,"Csipkes-tetö, Bükk Mts.",NA,"",4,"Bajocian","",170.3,168.3,32638,"gp_mid",40.88,18.85,"308",169.3,1
-"64157",96198,"col","",20.316668,47.966667,"Varga-tetö, Bükk Mts.",NA,"",3,"Bajocian","",170.3,168.3,32638,"gp_mid",40.82,18.95,"308",169.3,1
-"65187",97888,"col","",-6.666389,32.787498,"Bou Ouchene gastropods second lowest of four",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",7.2,24.34,"707",169.3,1
-"65190",97891,"col","",-6.666389,32.787498,"Bou Ouchene gastropods second highest of four",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",7.2,24.34,"707",169.3,1
-"65198",97899,"col","",-4.766667,32.590557,"South of Midelt gastropods",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",8.58,23.33,"707",169.3,1
-"65202",97903,"col","",-5.355,32.140556,"Outarbat gastropods higher",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",7.86,23.21,"707",169.3,1
-"65232",97933,"col","",-4.951667,32.263611,"Aberdouz gastropods lower",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",8.25,23.14,"707",169.3,1
-"65233",97934,"col","",-4.951667,32.263611,"Aberdouz gastropods higher",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",8.25,23.14,"707",169.3,1
-"65235",97936,"col","",-4.507222,32.272778,"Rich gastropods second lowest",NA,"",6,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,1
-"65236",97937,"col","",-4.507222,32.272778,"Rich gastropods second highest",NA,"",9,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,1
-"65237",97939,"col","",-4.507222,32.272778,"Rich gastropods highest",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,1
-"65239",97940,"col","",-3.300556,32.299999,"Bou Dahar gastropods lower",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",12.32,22.32,"714",169.3,1
-"65240",97941,"col","",-3.300556,32.299999,"Bou Dahar gastropods higher",NA,"",3,"Bajocian","",170.3,168.3,33839,"gp_mid",12.32,22.32,"714",169.3,1
-"65943",98715,"col","Dhruma",45.966667,24.133333,"Bukhara, S996",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-5.71,"503",169.3,1
-"65966",98738,"col","Dhruma",46.43,23.213333,"Wadi Birk, S1409",NA,"",7,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-6.72,"503",169.3,1
-"65995",98767,"col","Dhruma",45.346668,25.375,"Al Jurayfah, S1485",NA,"",6,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-4.35,"503",169.3,1
-"66025",98796,"col","Dhruma",45.346668,25.375,"Al Jurayfah, S1506",NA,"",4,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-4.35,"503",169.3,1
-"66048",98819,"col","Dhruma",46.156666,24.30611,"Jebel Abu Rakhaim, S1787",NA,"",1,"Bajocian","",170.3,168.3,34048,"gp_mid",45.48,-5.62,"503",169.3,1
-"66053",98824,"col","Dhruma",46.183334,24.183332,"KK7, Al Bakhra, Dorsetensia Zone",NA,"",9,"Bajocian","",170.3,168.3,34048,"gp_mid",45.45,-5.75,"503",169.3,1
-"66055",98826,"col","Dhruma",46.183334,24.183332,"KK7, Al Bakhra, Ermoceras Zone",NA,"",3,"Bajocian","",170.3,168.3,34048,"gp_mid",45.45,-5.75,"503",169.3,1
-"66060",98831,"col","Dhruma",46.283333,24.183332,"KK8, Al Huwayrah, Ermoceras Zone",NA,"",3,"Bajocian","",170.3,168.3,34048,"gp_mid",45.53,-5.78,"503",169.3,1
-"66074",98845,"col","Dhruma",45.226665,25.501667,"Al Jurayfah, S1618",NA,"",8,"Bajocian","",170.3,168.3,34048,"gp_mid",45.21,-4.18,"503",169.3,1
-"66182",98958,"col","Dhruma",45.345001,25.363333,"Wadi al Ghab, S1677",NA,"",8,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-4.36,"503",169.3,1
-"66184",98960,"col","Dhruma",46.099998,24.216667,"KK6, Khashm adh Dhibi",NA,"",5,"Bajocian","",170.3,168.3,34048,"gp_mid",45.39,-5.68,"503",169.3,1
-"66186",98962,"col","Dhruma",45.346668,25.375,"Al Jurayfah, S1617",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.25,-4.35,"503",169.3,1
-"66187",98963,"col","Dhruma",45.371666,25.356667,"Al Jurayfah, S1679",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.27,-4.37,"503",169.3,1
-"66190",98966,"col","Dhruma",46.209999,24.068333,"Al Jufayr, S1661",NA,"",3,"Bajocian","",170.3,168.3,34048,"gp_mid",45.42,-5.86,"503",169.3,1
-"66191",98967,"col","Dhruma",46.416668,23.200001,"Khashm Birk, S1057",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.24,-6.73,"503",169.3,1
-"66193",98969,"col","Dhruma",46.099998,24.533333,"Dhruma, S1170",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.52,-5.4,"503",169.3,1
-"66331",99108,"col","Dhruma",46.049999,24.668333,"Dhruma, S1162",NA,"",1,"Bajocian","",170.3,168.3,34048,"gp_mid",45.54,-5.25,"503",169.3,1
-"66333",99110,"col","Dhruma",46.055,24.655001,"Dhruma, S1167",NA,"",7,"Bajocian","",170.3,168.3,34048,"gp_mid",45.54,-5.27,"503",169.3,1
-"66563",99485,"col","",33.450001,30.683332,"sample 22, along Wadi Maghara",NA,"",41,"Bajocian","",170.3,168.3,32098,"gp_mid",39.33,6.22,"508",169.3,1
-"85259",123681,"col","",12.576944,42.666943,"Bivio Macerino (dike B) ",NA,"",10,"Bajocian","",170.3,168.3,39754,"gp_mid",33.46,22.14,"307",169.3,1
-"85260",123682,"col","",12.576944,42.666943,"Bivio Macerino (dike C) ",NA,"",17,"Bajocian","",170.3,168.3,39754,"gp_mid",33.46,22.14,"307",169.3,1
-"86220",124884,"col","",17.716667,47.266666,"Bakony Mts. ",NA,"",12,"Bajocian","",170.3,168.3,40440,"gp_mid",39.44,20.32,"308",169.3,1
-"86244",124921,"col","",17.450001,52.099998,"Polish lowland (Bajocian) ",NA,"",17,"Bajocian","",170.3,168.3,40441,"gp_mid",35.4,38.66,"315",169.3,1
-"86438",125161,"col","",20.25,51.299999,"Krakow - Czetochowa Uplands 2a (Bajocian) ",NA,"",7,"Bajocian","",170.3,168.3,40441,"gp_mid",37.8,38.29,"302",169.3,1
-"86442",125170,"col","",19.549999,50.549999,"Krakow - Czetochowa Uplands  2b (Bajocian) ",NA,"",1,"Bajocian","",170.3,168.3,40441,"gp_mid",37.48,37.46,"305",169.3,1
-"86517",125276,"col","Guwayza",56.893002,22.82383,"Wadi Saal Section (10), BR138",NA,"",10,"Bajocian","",170.3,168.3,40646,"gp_mid",54.16,-10.64,"503",169.3,1
-"86538",125304,"col","Guwayza",57.25555,22.743811,"Al Dhaby Section (14), BR648",NA,"",5,"Bajocian","",170.3,168.3,40646,"gp_mid",54.45,-10.83,"503",169.3,1
-"86579",125361,"col","",56.82859,22.92407,"Section name not reported, BR107",NA,"",14,"Bajocian","",170.3,168.3,40646,"gp_mid",54.13,-10.53,"503",169.3,1
-"86847",125789,"col","Opuntia",-121.234444,50.763332,"GSC loc. 89468",NA,"Loc. 6 of Crickmay, 1930",0,"Bajocian","",170.3,168.3,40842,"gp_mid",-50.39,39.29,"127",169.3,1
-"87741",126958,"col","Weberg",-119.597382,44.089451,"USGS Field Number 56-153 F.",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.85,32.63,"129",169.3,1
-"93952",135415,"col","Ashton Limestone",-1.945,51.834999,"Withington, Andoverford",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.66,36.31,"315",169.3,1
-"93956",135419,"col","",-2.62506,51.385979,"Dundry (USNM coll)",NA,"",3,"Bajocian","",170.3,168.3,43337,"gp_mid",20.21,35.82,"315",169.3,1
-"93959",135422,"col","",4.472,46.345001,"La Roche-Vineuse quarry, Monsard, Saône-et-Loire (USNM)",NA,"",4,"Bajocian","",170.3,168.3,43337,"gp_mid",26.56,31.43,"305",169.3,1
-"93960",135423,"col","Inferior Oolite",-2.795,50.82,"Broad Windsor (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.16,35.24,"315",169.3,1
-"93961",135424,"col","Inferior Oolite",-0.355,49.314999,"Luc, Calvados",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",22.26,33.93,"305",169.3,1
-"93965",135428,"col","Ashton Limestone",-2.075,51.865002,"Leckhampton Hill, Gryphite Grit (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.56,36.33,"315",169.3,1
-"93985",135465,"col","Dhruma",45.958332,22.034721,"Tuwaiq Mountain Cliff, S1250",NA,"",1,"Bajocian","",170.3,168.3,34048,"gp_mid",44.36,-7.61,"503",169.3,1
-"94005",135489,"col","",-2.07,51.900002,"Cheltenham, Witchelia bed (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.56,36.37,"315",169.3,1
-"94007",135491,"col","",-1.82,51.994999,"Snows Hill Mill",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.73,36.48,"315",169.3,1
-"94008",135492,"col","",-2.11,51.830002,"Top of Birdlip Hill, Clypeus Grit",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.54,36.29,"315",169.3,1
-"94009",135493,"col","",-0.685,49.279999,"St. Vigor, near Bayeux",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",22.01,33.87,"305",169.3,1
-"94037",135521,"col","Inferior Oolite",-2.73,50.705002," Burton Bradstock (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.22,35.13,"315",169.3,1
-"94047",135531,"col","Inferior Oolite",-2.8,50.805,"Stoke Knapp, Whaddon Hill, near Broadwindsor",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.16,35.23,"315",169.3,1
-"94048",135532,"col","Inferior Oolite",-2.22,51.744999,"Stroud, Inferior Oolite (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.47,36.2,"315",169.3,1
-"94481",136077,"col","Dhruma",46.060555,24.640833,"Khashm Mijhara, S1166",NA,"",2,"Bajocian","",170.3,168.3,34048,"gp_mid",45.54,-5.28,"503",169.3,1
-"94482",136078,"col","Dhruma",45.186668,25.514168,"Shaqra, S1695",NA,"",3,"Bajocian","",170.3,168.3,34048,"gp_mid",45.18,-4.16,"503",169.3,1
-"94492",136098,"col","Dhruma",45.226665,25.501667,"Al Jurayfah, S1619",NA,"",1,"Bajocian","",170.3,168.3,34048,"gp_mid",45.21,-4.18,"503",169.3,1
-"96867",138928,"col","Harrison Lake",-121.848335,49.430557,"GSC loc. 25781",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-45.12,38.19,"129",169.3,1
-"97160",139220,"col","Potem",-121.966667,41.008057,"GSC loc. 89344",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-46.3,32.41,"101",169.3,1
-"97163",139223,"col","Mormon",-120.820274,40.099724,"GSC loc. 89351",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-45.65,31.28,"101",169.3,1
-"97164",139224,"col","Potem",-121.968887,41.007778,"GSC loc. 89374, 89375",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-46.3,32.41,"101",169.3,1
-"97165",139225,"col","Weberg",-119.627502,43.974724,"GSC loc. 89382",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.91,32.53,"129",169.3,1
-"97234",139295,"col","Mormon",-120.818054,40.052502,"USGS 525",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-45.67,31.23,"101",169.3,1
-"97235",139296,"col","Potem",-122.033058,40.81139,"USGS Mesozoic loc. 1013, 2570",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-46.43,32.24,"101",169.3,1
-"97237",139298,"col","Mormon",-120.808609,40.061943,"USGS Mesozoic loc. 2423",NA,"Mount Jura",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-45.65,31.24,"101",169.3,1
-"97238",139299,"col","Mormon",-120.812775,40.091667,"USGS Mesozoic loc. 2425a",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-45.65,31.27,"101",169.3,1
-"97428",139492,"col","Gypsum Springs",-108.903099,42.91745,"USGS Mesozoic loc. 19357",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-37.89,33.68,"127",169.3,1
-"97662",139739,"col","Weberg",-119.593613,44.047501,"USGS Field Number 56-120",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.86,32.59,"129",169.3,1
-"97666",139743,"col","Potem",-121.953888,41,"LSJU 2966",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-46.29,32.4,"101",169.3,1
-"100018",142619,"col","",9.839,52.169998,"Temporary railroad construction site, near Emmerke",NA,"",1,"Bajocian","",170.3,168.3,46213,"gp_mid",29.57,37.76,"315",169.3,1
-"106968",151540,"col","Shiti",111.5,24.459999,"KHG 201, Xiwan coal mine, Hezhou City",NA,"",20,"Bajocian","",170.3,168.3,50682,"gp_mid",131.16,28.4,"611",169.3,1
-"109253",154737,"col","",18.430834,47.714169,"Asszony Hill section, Bed 18, Transdanubian Range",NA,"",4,"Bajocian","",170.3,168.3,50315,"gp_mid",40.07,20.03,"308",169.3,1
-"109654",155257,"col","Cloughton",-0.429482,54.342327,"Cloughton Wyke tracksite",NA,"",1,"Bajocian","",170.3,168.3,69312,"gp_mid",21.4,38.91,"315",169.3,1
-"109721",155354,"col","Shiti",111.099998,25.129999,"KHG 190, Shiniuwei village, Taochuan, Jiangyong County",NA,"",5,"Bajocian","",170.3,168.3,50682,"gp_mid",130.48,28.88,"611",169.3,1
-"110271",156330,"col","Mormon",-120.839722,40.075558,"Taylorsville [Mormon Sandstone]",NA,"",4,"Bajocian","",170.3,168.3,32966,"gp_mid",-45.68,31.26,"101",169.3,1
-"111246",158140,"col","Salperton Limestone",-2.225,51.738998,"Rodborough Hill",NA,"",1,"Bajocian","",170.3,168.3,51918,"gp_mid",20.46,36.2,"315",169.3,1
-"111248",158142,"col","Salperton Limestone",-2.35,51.630001,"Waterworks Quarry, Wotton-Under-Edge",NA,"",1,"Bajocian","",170.3,168.3,51918,"gp_mid",20.38,36.08,"315",169.3,1
-"111250",158146,"col","Inferior Oolite",-2.72,50.700001,"Burton Bradstock (""Inferior Oolite"")",NA,"",1,"Bajocian","",170.3,168.3,51918,"gp_mid",20.23,35.13,"315",169.3,1
-"112574",160063,"col","Aston Limestone",-2.225,51.780998,"Scottsquar Hill, Painswick",NA,"",1,"Bajocian","",170.3,168.3,33914,"gp_mid",20.46,36.24,"315",169.3,1
-"114021",161872,"col","",-2.083333,51.866669,"Leckhampton locality",NA,"",1,"Bajocian","",170.3,168.3,52665,"gp_mid",20.55,36.33,"315",169.3,1
-"114026",161877,"col","",-2.1,51.833332,"Crickley, Horse Pools",NA,"",1,"Bajocian","",170.3,168.3,52665,"gp_mid",20.54,36.3,"315",169.3,1
-"114027",161878,"col","",-2.15,51.783333,"Sheepscombe",NA,"",1,"Bajocian","",170.3,168.3,52665,"gp_mid",20.51,36.25,"315",169.3,1
-"114340",162347,"col","",8.1,47.416668,"Gisliflue-Homberg",NA,"",27,"Bajocian","",170.3,168.3,52887,"gp_mid",29.25,32.88,"305",169.3,1
-"114343",162373,"col","Hauptraugenstein",7.95,47.483334,"Hauptrogenstein, Bajocian, Tiersteinberg",NA,"",21,"Bajocian","",170.3,168.3,52890,"gp_mid",29.12,32.93,"305",169.3,1
-"115524",164638,"col","Mormon",-120.809998,40.060001,"Ravine 34, (Stiphromorphites zone) southwest slope of Mount Jura",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.66,31.24,"101",169.3,1
-"115530",164658,"col","Mormon",-120.800003,40.060001,"Indeterminate ravine (Ravine 34-36), southwest slope of Mount Jura",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.65,31.24,"101",169.3,1
-"115531",164659,"col","Mormon",-120.809998,40.060001,"Ravine 34 (rhacta zone), southwest slope of Mount Jura",NA,"",3,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.66,31.24,"101",169.3,1
-"115536",164664,"col","Mormon",-120.809998,40.060001,"Nortwest slope of the Knob",NA,"",3,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.66,31.24,"101",169.3,1
-"115548",164679,"col","Thompson",-120.808334,40.088055,"Northwest ridge of Mt. Jura",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.64,31.27,"101",169.3,1
-"115549",164680,"col","Mormon",-120.809998,40.060001,"Ravine 34 (meeki zone), southwest slope of Mount Jura",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.66,31.24,"101",169.3,1
-"115550",164681,"col","Mormon",-120.789169,40.06139,"Ravine 41 (rhacta zone), southeast slope of Mount Jura",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-45.64,31.24,"101",169.3,1
-"116035",165474,"col","Zhanghe",102.010002,25.17,"YH 5054-8-1, Mimalong, Lufeng County",NA,"",3,"Bajocian","",170.3,168.3,54083,"gp_mid",121.92,25.75,"611",169.3,1
-"116036",165475,"col","Zhanghe",102.010002,25.17,"YH 5072, Mimalong, Lufeng County",NA,"",2,"Bajocian","",170.3,168.3,54083,"gp_mid",121.92,25.75,"611",169.3,1
-"116037",165476,"col","Zhanghe",102.010002,25.17,"YH 5082, Mimalong, Lufeng County",NA,"",7,"Bajocian","",170.3,168.3,54083,"gp_mid",121.92,25.75,"611",169.3,1
-"117064",167206,"col","Sawtooth",-112.873337,48.163891,"USGS Mesozoic Loc. 28825 - Swift Reservoir",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.84,38.06,"127",169.3,1
-"117065",167207,"col","Sawtooth",-112.873337,48.163891,"USGS Mesozoic Loc. 28826 - Swift Reservoir",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.84,38.06,"127",169.3,1
-"117066",167208,"col","Sawtooth",-113.212219,46.648609,"USGS Mesozoic Loc. 27337 - Tigh Creek",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.64,36.53,"127",169.3,1
-"117067",167209,"col","Sawtooth",-111.567497,45.355556,"USGS Mesozoic Loc. 21391 - Jack Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.88,35.56,"127",169.3,1
-"117068",167210,"col","Sawtooth",-111.567497,45.355556,"USGS Mesozoic Loc. 22170 - Jack Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.88,35.56,"127",169.3,1
-"117069",167211,"col","Sawtooth",-111.283333,45.27861,"USGS Mesozoic Loc. 28758 - near Gallatin River",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.62,35.54,"127",169.3,1
-"117070",167212,"col","Sawtooth",-111.188889,44.865555,"USGS Mesozoic Loc. 28670 - Red Canyon Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.41,35.16,"127",169.3,1
-"117071",167213,"col","Sawtooth",-111.188889,44.865555,"USGS Mesozoic Loc. 28800 - Red Canyon Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.41,35.16,"127",169.3,1
-"117072",167214,"col","Piper",-109.099442,48.206944,"USGS Mesozoic Loc. 8096 - East end of Bearpaw Mtns.",NA,"",0,"Bajocian","",170.3,168.3,54548,"gp_mid",-33.12,36.58,"101",169.3,1
-"117073",167215,"col","Piper",-110.908607,45.643612,"USGS Mesozoic Loc. 19153 - Rocky Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.46,34.47,"101",169.3,1
-"117074",167216,"col","Piper",-110.908607,45.643612,"USGS Mesozoic Loc. 19158 - Rocky Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.46,34.47,"101",169.3,1
-"117075",167217,"col","Piper",-110.577499,45.606388,"USGS Mesozoic Loc. 15635 - Yellowstone Canyon",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.2,34.36,"101",169.3,1
-"117076",167218,"col","Piper",-110.575836,45.588333,"USGS Mesozoic Loc. 19214 - Lower canyon on Yellowstone River",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.21,34.35,"101",169.3,1
-"117077",167219,"col","Piper",-110.582779,45.616112,"USGS Mesozoic Loc. 25866 - Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.21,34.38,"101",169.3,1
-"117078",167220,"col","Piper",-110.58667,45.626389,"USGS Mesozoic Loc. 27628 - Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.2,34.39,"101",169.3,1
-"117079",167221,"col","Piper",-110.201385,45.555832,"USGS Mesozoic Loc. 19630 - Boulder River",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.92,34.24,"101",169.3,1
-"117080",167222,"col","Piper",-110.201385,45.555832,"USGS Mesozoic Loc. 27624 - Boulder River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.92,34.24,"101",169.3,1
-"117081",167223,"col","Piper",-110.654167,45.503056,"USGS Mesozoic Loc. 27035 - Near Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.3,34.28,"101",169.3,1
-"117083",167225,"col","Piper",-110.790833,45.080555,"USGS Mesozoic Loc. 5738 - Northwest of Electric",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.14,35.43,"127",169.3,1
-"117085",167227,"col","Piper",-110.800003,45.100277,"USGS Mesozoic Loc. 19621 - Cinnabar Mountain",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.16,35.45,"127",169.3,1
-"117092",167243,"col","Sundance",-110.53389,43.637222,"USGS Mesozoic Loc. 20962 - Lower Slide Lake",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.82,32.46,"101",169.3,1
-"117093",167244,"col","Sundance",-110.53389,43.637222,"USGS Mesozoic Loc. 20967 - Lower Slide Lake",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.82,32.46,"101",169.3,1
-"117095",167246,"col","Sundance",-110.520554,43.639442,"USGS Mesozoic Loc. 22112 - Lower Slide Lake",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-39.48,34.09,"127",169.3,1
-"117096",167247,"col","Sundance",-110.520554,43.639442,"USGS Mesozoic Loc. 27724 - Lower Slide Lake",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-39.48,34.09,"127",169.3,1
-"118088",169180,"col","Guemgouma",9.705,35.099998,"KEKE.14, Khechem El Kelb Est, Jebel Sidi Khalif",NA,"",4,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,1
-"118095",169187,"col","Khechem El Kelb",9.705,35.215,"CHA.9, Châabet El Attaris",NA,"",2,"Bajocian","",170.3,168.3,55260,"gp_mid",23.99,19.73,"714",169.3,1
-"118108",169200,"col","Guemgouma",9.705,35.099998,"KEK.14, Khechem El Kelb, Jebel Sidi Khalif",NA,"",9,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,1
-"118111",169203,"col","Guemgouma",9.705,35.099998,"KEK.13, Khechem El Kelb, Jebel Sidi Khalif",NA,"",2,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,1
-"118770",170008,"col","",4.824,45.858002,"Albigny",NA,"",6,"Bajocian","",170.3,168.3,53744,"gp_mid",26.92,30.99,"305",169.3,1
-"118772",170011,"col","",4.827,45.855,"Couzon Quarry",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",26.93,30.99,"305",169.3,1
-"118775",170014,"col","",4.812,45.855999,"Poleymieux-la-Riviere ",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",26.91,30.98,"305",169.3,1
-"119054",170326,"col","Inferior Oolite",-2.72,50.700001,"Burton Bradstock (Baber collection)",NA,"",2,"Bajocian","",170.3,168.3,54242,"gp_mid",20.23,35.13,"315",169.3,1
-"119184",170482,"col","",5.626,46.139999,"Nantua (Unit 4)",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",27.52,31.35,"305",169.3,1
-"119279",170580,"col","",5.395,45.859001,"Gaunet Quarry (Middle Bajocian)",NA,"",1,"Bajocian","",170.3,168.3,53744,"gp_mid",27.38,31.05,"305",169.3,1
-"119314",170618,"col","",5.32,45.799999,"Torjonas",NA,"",5,"Bajocian","",170.3,168.3,53744,"gp_mid",27.33,30.98,"305",169.3,1
-"119338",170642,"col","",4.812,45.855999,"Poleymieux-la-Riviere (MHNL)",NA,"",2,"Bajocian","",170.3,168.3,53744,"gp_mid",26.91,30.98,"305",169.3,1
-"119339",170643,"col","",4.827,45.855,"Couzon Quarry (MHNL)",NA,"",1,"Bajocian","",170.3,168.3,53744,"gp_mid",26.93,30.99,"305",169.3,1
-"119363",170868,"col","",33.25,30.629999,"Gebel Aroussieh (Bajocian)",NA,"",2,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119365",170870,"col","",33.25,30.629999,"Gebel Aroussieh (Bajocian yellow limestone)",NA,"",11,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119366",170871,"col","",33.25,30.629999,"Gebel Aroussieh (Bajocian marl)",NA,"",4,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119367",170872,"col","",33.25,30.629999,"Gebel Aroussieh (Bajocian black limestone)",NA,"",3,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119369",170874,"col","",33.25,30.629999,"Gebel Aroussieh (Bajocian gray limestone)",NA,"",1,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119450",171014,"col","",-2.51,50.939999,"Sherborne (Niortense)",NA,"",1,"Bajocian","",170.3,168.3,52872,"gp_mid",20.36,35.38,"315",169.3,1
-"119452",171016,"col","",-2.36,51.530998,"Old Sodbury (Marshall Coll.)",NA,"",5,"Bajocian","",170.3,168.3,52872,"gp_mid",20.39,35.98,"315",169.3,1
-"119499",171063,"col","Salperton Limestone",-1.918,51.882,"Hampen Railway Cutting",NA,"",1,"Bajocian","",170.3,168.3,52872,"gp_mid",20.68,36.36,"315",169.3,1
-"119527",171091,"col","",33.25,30.629999,"Gebel Aroussieh (Indet)",NA,"",2,"Bajocian","",170.3,168.3,36012,"gp_mid",39.15,6.24,"508",169.3,1
-"119853",171422,"col","",-2.63,51.389999,"West Dundry",NA,"",1,"Bajocian","",170.3,168.3,52872,"gp_mid",20.2,35.82,"315",169.3,1
-"119863",171432,"col","",-1.99,51.869999,"Cold Comfort",NA,"",1,"Bajocian","",170.3,168.3,52872,"gp_mid",20.62,36.34,"315",169.3,1
-"120613",172981,"col","",-110.531113,43.638058,"Unit 10, Lower Slide Lake",NA,"",15,"Bajocian","",170.3,168.3,56245,"gp_mid",-39.49,34.08,"127",169.3,1
-"120614",172982,"col","",-110.531113,43.638058,"Unit 11, Lower Slide Lake",NA,"",1,"Bajocian","",170.3,168.3,56245,"gp_mid",-39.49,34.08,"127",169.3,1
-"128217",185251,"col","",-122.483002,37.837002,"USGS MR 5102, Alexander Avenue, Marin Headlands (M-2aH)",NA,"",8,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128218",185252,"col","",-122.483002,37.837002,"USGS MR 5103, Alexander Avenue, Marin Headlands (M-2aI)",NA,"",12,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128219",185253,"col","",-122.483002,37.837002,"USGS MR 5104, Alexander Avenue, Marin Headlands (M-2aJ)",NA,"",12,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128220",185254,"col","",-122.483002,37.837002,"USGS MR 5105, Alexander Avenue, Marin Headlands (M-2aK)",NA,"",6,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128221",185255,"col","",-122.483002,37.837002,"USGS MR 5106, Alexander Avenue, Marin Headlands (M-2aL)",NA,"",5,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128222",185256,"col","",-122.483002,37.837002,"USGS MR 5107, Alexander Avenue, Marin Headlands (M-2aM)",NA,"",7,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128223",185257,"col","",-122.483002,37.837002,"USGS MR 5108, Alexander Avenue, Marin Headlands (M-2aN)",NA,"",10,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128224",185258,"col","",-122.483002,37.837002,"USGS MR 5109, Alexander Avenue, Marin Headlands (M-2aO)",NA,"",6,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.56,29.94,"105",169.3,1
-"128231",185267,"col","",-122.505302,37.847801,"USGS MR 5018, Marin Headlands (M-4)",NA,"",12,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.57,29.95,"105",169.3,1
-"128259",185296,"col","",-122.496002,37.832199,"USGS MR 5062, Marin Headlands (M-6)",NA,"",2,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.57,29.94,"105",169.3,1
-"128272",185328,"col","",-122.5205,37.8335,"USGS MR 5036, Marin Headlands (M-15)",NA,"",3,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.59,29.95,"105",169.3,1
-"128281",185337,"col","",-122.501297,37.821499,"USGS MR 4342B, Point Diablo, Marin Headlands (M-19B)",NA,"",3,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.58,29.93,"105",169.3,1
-"128283",185339,"col","",-122.542297,37.8349,"USGS MR 4353, Marin Headlands (M-21)",NA,"",1,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.6,29.95,"105",169.3,1
-"128286",185342,"col","",-122.499298,37.827202,"USGS MR 4351, Marin Headlands (M-24)",NA,"",1,"Bajocian","",170.3,168.3,62145,"gp_mid",-46.57,29.93,"105",169.3,1
-"133456",195976,"col","",-2.815,50.849998,"Seaborough Court",NA,"",1,"Bajocian","",170.3,168.3,66694,"gp_mid",20.14,35.27,"315",169.3,1
-"133466",195986,"col","",-2.62506,51.385979,"Dundry (SM coll)",NA,"",2,"Bajocian","",170.3,168.3,66694,"gp_mid",20.21,35.82,"315",169.3,1
-"136082",201060,"col","",18.155556,49.040558,"Drieňová Hora Klippe, Pieniny Klippen Belt",NA,"",3,"Bajocian","",170.3,168.3,68890,"gp_mid",36.82,35.78,"305",169.3,1
-"136083",201061,"col","",18.191944,49.051945,"Malé Hradište Klippe, Pieniny Klippen Belt",NA,"",17,"Bajocian","",170.3,168.3,68890,"gp_mid",36.84,35.8,"305",169.3,1
-"136084",201062,"col","",18.155832,49.069443,"Vršatec-Javorníky Klippe, Pieniny Klippen Belt",NA,"",7,"Bajocian","",170.3,168.3,68890,"gp_mid",36.81,35.81,"305",169.3,1
-"136499",202015,"col","Cloughton",-0.327406,54.235462,"Yons Nab tracksite",NA,"",1,"Bajocian","",170.3,168.3,69312,"gp_mid",21.5,38.82,"315",169.3,1
-"136575",202123,"col","",12.779167,42.988335,"Sasso di Pale",NA,"",4,"Bajocian","",170.3,168.3,69238,"gp_mid",33.84,22.1,"307",169.3,1
-"136827",202418,"col","Snowshoe",-118.900002,44.416668,"USGS Loc. 21610. Suplee Area",NA,"USGS Mesozoic Collection 21610; 149-8-17B",4,"Bajocian","",170.3,168.3,69359,"gp_mid",-44.18,32.84,"129",169.3,1
-"138359",204712,"col","",-4.5,31.983334,"Errachidia, near Oued Almou",NA,"",1,"Bajocian","",170.3,168.3,70241,"gp_mid",11.2,22.55,"714",169.3,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"4313",12010,"col","",4.85,44.88,"Crussol, à Guilherand",NA,"",18,"Bajocian","",170.3,168.3,4215,"gp_mid",27.11,30.03,"305",169.3,"bajocian",1382,28.4405,33.4558,37,1
+"4334",12084,"col","",4.58,44.83,"La Pize, à Ollières-sur-Eyrieux",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.9,29.95,"305",169.3,"bajocian",1383,28.4405,33.4558,37,1
+"4339",12089,"col","",4.6,44.73,"Mine at Saint-Priest-Veyras near Privas",NA,"",3,"Bajocian","",170.3,168.3,4215,"gp_mid",26.93,29.85,"305",169.3,"bajocian",1384,28.4405,33.4558,37,1
+"4343",12093,"col","",4.5,44.73,"Auberge Faure at Pourchères",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.85,29.84,"305",169.3,"bajocian",1385,28.4405,33.4558,37,1
+"4349",12099,"col","",4.4,44.62,"Chomeil-Serre des Champs",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,"bajocian",1386,28.4405,33.4558,37,1
+"4350",12100,"col","",4.48,44.67,"La Bouisse and route d'Auriolles, C. D. 356 at Vesseaux",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.85,29.77,"305",169.3,"bajocian",1387,28.4405,33.4558,37,1
+"4367",12124,"col","",4.4,44.62,"Rocher de Tartary at Aubenas",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,"bajocian",1386,28.4405,33.4558,37,1
+"4369",12126,"col","",4.4,44.62,"Ravine of Ferrières at Saint-Etienne-de-Fontbellon",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.72,"305",169.3,"bajocian",1386,28.4405,33.4558,37,1
+"4371",12129,"col","",4.38,44.57,"Le Chamblard at Saint-Sernin",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.66,"305",169.3,"bajocian",1399,28.4405,33.4558,37,1
+"4373",12131,"col","",4.38,44.57,"Pissevieille at La Chapelle-sous-Aubenas",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.79,29.66,"305",169.3,"bajocian",1399,28.4405,33.4558,37,1
+"4375",12133,"col","",4.35,44.53,"Uzer",NA,"",5,"Bajocian","",170.3,168.3,4215,"gp_mid",26.77,29.63,"305",169.3,"bajocian",1400,28.4405,33.4558,37,1
+"4381",12139,"col","",4.08,44.3,"Route Villefort-Les Vans, Causse du Moignard at Gravières",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.59,29.37,"305",169.3,"bajocian",1401,28.4405,33.4558,37,1
+"4384",12142,"col","",4.2,44.25,"Montchaud at Saint-Brès",NA,"",1,"Bajocian","",170.3,168.3,4215,"gp_mid",26.69,29.33,"305",169.3,"bajocian",1402,28.4405,33.4558,37,1
+"4388",12153,"col","",4.2,44.25,"Banassac",NA,"",3,"Bajocian","",170.3,168.3,4215,"gp_mid",26.69,29.33,"305",169.3,"bajocian",1402,28.4405,33.4558,37,1
+"13047",24561,"col","",6.4,47.3,"Pont les Moulins",NA,"",0,"Bajocian","",170.3,168.3,6905,"gp_mid",27.92,32.58,"305",169.3,"bajocian",2442,30.1334,36.7804,37,1
+"15967",30119,"col","",43.5,42.3,"Speti",NA,"PGAP 604",22,"Bajocian","",170.3,168.3,8244,"gp_mid",59.76,34.09,"511",169.3,"bajocian",3145,64.0641,44.0604,37,1
+"16759",30917,"col","Upper Gring Suite",70.4,38.2,"Gring",NA,"PGAP 421",62,"Bajocian","",170.3,168.3,8266,"gp_mid",85.2,37.1,"402",169.3,"bajocian",3389,94.0442,45.7341,37,1
+"17800",32021,"col","Unterer Hauptraugenstein",7.68,47.4,"Hauptrogenstein, Bajocian, Reigoldswil, Baselland",NA,"",1,"Bajocian","",170.3,168.3,8591,"gp_mid",28.92,32.82,"305",169.3,"bajocian",3595,30.1334,36.7804,37,1
+"18358",32733,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 554)",NA,"",23,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"18367",32741,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 516)",NA,"",16,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"18369",32743,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 547)",NA,"",3,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"18370",32744,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 523)",NA,"",10,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"18371",32745,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality 515)",NA,"",7,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"18372",32746,"col","Snowshoe",-119.5,44,"Snowshoe Formation, Oregon, USA (Locality513)",NA,"",16,"Bajocian","",170.3,168.3,8790,"gp_mid",-44.79,32.53,"129",169.3,"bajocian",3685,-49.6515,35.1635,37,1
+"20018",34712,"col","",5.25,45.72,"Ile Crémieu, 1st reef level, France",NA,"Reef 2426",36,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20019",34713,"col","",5.25,45.72,"Ile Crémieu, crinoidal limestone, France",NA,"Reef 2426",17,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20020",34714,"col","",5.25,45.72,"Ile Crémieu, 2nd reef level, France",NA,"Reef 2426",56,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20021",34715,"col","",5.25,45.72,"Ile Crémieu, Pholadomya facies, France",NA,"Reef 2426",14,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20022",34716,"col","",5.25,45.72,"Ile Crémieu, Pseudomelania facies, France",NA,"Reef 2426",8,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20023",34717,"col","",5.25,45.72,"Ile Crémieu, Spicule facies, France",NA,"Reef 2426",5,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20024",34718,"col","",5.25,45.72,"Ile Crémieu, Oyster facies, France",NA,"Reef 2426",28,"Bajocian","",170.3,168.3,9203,"gp_mid",27.29,30.89,"305",169.3,"bajocian",3998,28.4405,33.4558,37,1
+"20530",35322,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D19",NA,"",7,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20531",35323,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D21",NA,"",23,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20561",35355,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D20",NA,"",14,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20562",35356,"col","Dhahab",35.67,32.18,"Deir-Alla D7",NA,"",13,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20581",35375,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D15",NA,"",2,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20582",35376,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D14",NA,"",3,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20583",35377,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D16",NA,"",11,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20584",35378,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D18",NA,"",5,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20591",35416,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D17",NA,"",2,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20592",35417,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D13",NA,"",5,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20593",35418,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D12",NA,"",6,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20594",35419,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D11",NA,"",3,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20625",35470,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D10",NA,"",3,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20653",35549,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D6",NA,"",5,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20654",35550,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D5",NA,"",3,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20655",35551,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D4",NA,"",6,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20657",35553,"col","Dhahab",35.67,32.18,"Deir-Alla 1 D2",NA,"",2,"Bajocian","",170.3,168.3,9529,"gp_mid",40.8,5.57,"503",169.3,"bajocian",4095,39.2387,6.5403,37,1
+"20741",35702,"col","Silal",35.62,32.12,"Arda A2",NA,"",4,"Bajocian","",170.3,168.3,9529,"gp_mid",40.73,5.54,"503",169.3,"bajocian",4152,35.7716,9.7939,37,1
+"20742",35703,"col","Dhahab",35.62,32.12,"Arda A10",NA,"",10,"Bajocian","",170.3,168.3,9529,"gp_mid",40.73,5.54,"503",169.3,"bajocian",4152,35.7716,9.7939,37,1
+"21104",36315,"col","",39.42,-9.42,"Cox - 37 (S.E. Tanganyika)",NA,"",9,"Bajocian","",170.3,168.3,9748,"gp_mid",29.91,-33.34,"701",169.3,"bajocian",4188,27.8488,-32.6369,37,1
+"21105",36316,"col","",39.42,-9.42,"Cox - 38 (S.E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.91,-33.34,"701",169.3,"bajocian",4188,27.8488,-32.6369,37,1
+"21117",36328,"col","",39.43,-9.43,"Cox - 48 (S.E. Tanganyika)",NA,"",11,"Bajocian","",170.3,168.3,9748,"gp_mid",29.92,-33.35,"701",169.3,"bajocian",4193,27.8488,-32.6369,37,1
+"21125",36336,"col","",39.38,-9.31,"Cox - 56 (S.E. Tanganyika)",NA,"",12,"Bajocian","",170.3,168.3,9748,"gp_mid",29.92,-33.23,"701",169.3,"bajocian",4195,27.8488,-32.6369,37,1
+"21152",36363,"col","",39.43,-9.42,"Cox - 83 (S.E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.92,-33.35,"701",169.3,"bajocian",4201,27.8488,-32.6369,37,1
+"21153",36364,"col","",39.39,-9.32,"Cox - 84 (S.E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.93,-33.24,"701",169.3,"bajocian",4202,27.8488,-32.6369,37,1
+"21178",36395,"col","",38.13,-6.75,"Cox - 85 (E. Tanganyika)",NA,"",5,"Bajocian","",170.3,168.3,9748,"gp_mid",29.88,-30.38,"701",169.3,"bajocian",4215,25.8704,-28.7245,37,1
+"21179",36396,"col","",38.21,-6.77,"Cox - 86 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.95,-30.44,"701",169.3,"bajocian",4216,25.8704,-28.7245,37,1
+"21180",36397,"col","",38.22,-6.76,"Cox - 87 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.97,-30.43,"701",169.3,"bajocian",4217,25.8704,-28.7245,37,1
+"21181",36398,"col","",38.25,-6.74,"Cox - 88 (E. Tanganyika)",NA,"",3,"Bajocian","",170.3,168.3,9748,"gp_mid",30.01,-30.42,"701",169.3,"bajocian",4218,25.8704,-28.7245,37,1
+"21182",36399,"col","",38.14,-6.74,"Cox - 89 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.9,-30.38,"701",169.3,"bajocian",4219,25.8704,-28.7245,37,1
+"21183",36400,"col","",38.14,-6.74,"Cox - 90 (E. Tanganyika)",NA,"",1,"Bajocian","",170.3,168.3,9748,"gp_mid",29.89,-30.38,"701",169.3,"bajocian",4219,25.8704,-28.7245,37,1
+"21184",36401,"col","",38.21,-6.78,"Cox - 91 (E. Tanganyika)",NA,"",11,"Bajocian","",170.3,168.3,9748,"gp_mid",29.94,-30.45,"701",169.3,"bajocian",4220,25.8704,-28.7245,37,1
+"21185",36402,"col","",38.21,-6.78,"Cox - 92 (E. Tanganyika)",NA,"",9,"Bajocian","",170.3,168.3,9748,"gp_mid",29.94,-30.45,"701",169.3,"bajocian",4220,25.8704,-28.7245,37,1
+"21187",36404,"col","",38.22,-6.78,"Cox - 94 (E. Tanganyika)",NA,"",10,"Bajocian","",170.3,168.3,9748,"gp_mid",29.95,-30.45,"701",169.3,"bajocian",4222,25.8704,-28.7245,37,1
+"21188",36405,"col","",38.23,-6.77,"Cox - 95 (E. Tanganyika)",NA,"",2,"Bajocian","",170.3,168.3,9748,"gp_mid",29.98,-30.44,"701",169.3,"bajocian",4223,25.8704,-28.7245,37,1
+"21294",36527,"col","Twin Creek Limestone",-108,44,"Pleuromya subcompressa ASSEMBLAGE",NA,"",12,"Bajocian","",170.3,168.3,9775,"gp_mid",-33.62,32.32,"101",169.3,"bajocian",4282,-40,33.1682,37,1
+"21296",36529,"col","Gypsum Spring",-108,44,"Trigonia americana ASSEMBLAGE",NA,"",6,"Bajocian","",170.3,168.3,9775,"gp_mid",-33.62,32.32,"101",169.3,"bajocian",4282,-40,33.1682,37,1
+"22058",37603,"col","Smithers",-127.35,56.73,"Diagonal Mountain 2a, Smithers Formation",NA,"",3,"Bajocian","",170.3,168.3,8933,"gp_mid",-56.87,44.32,"127",169.3,"bajocian",4528,-48.8658,44.7451,37,1
+"22059",37604,"col","Smithers",-127.35,56.73,"Diagonal Mountain 2b, Smithers Formation",37603,"",2,"Bajocian","",170.3,168.3,8933,"gp_mid",-56.87,44.32,"127",169.3,"bajocian",4528,-48.8658,44.7451,37,1
+"22297",37885,"col","Quemuoco",92,33.33,"Tanggula Mountains, Yanshiping Section, Quemuoco Formation",NA,"",10,"Bajocian","",170.3,168.3,10105,"gp_mid",103.13,24.23,"612",169.3,"bajocian",4586,118.8174,44.4551,37,1
+"22321",37916,"col","Quemuoco",91,33,"Tanggula Mountains, H 1294, Quemuoco Formation",NA,"",1,"Bajocian","",170.3,168.3,10105,"gp_mid",102.34,23.69,"612",169.3,"bajocian",4593,114.3873,44.6502,37,1
+"24744",41401,"col","Hojedk",57,33.67,"W. of Kuh-e-Gelkan",NA,"Khoravan-pain",1,"Bajocian","",170.3,168.3,11049,"gp_mid",74.79,29.21,"505",169.3,"bajocian",5274,78.9483,39.1776,37,1
+"25558",42322,"col","",-2.72,50.7,"Burton Bradstock, Dorset",NA,"",1,"Bajocian","",170.3,168.3,11186,"gp_mid",20.23,35.13,"315",169.3,"bajocian",5544,20.4343,36.1796,37,1
+"25559",42323,"col","",-2.57,50.92,"Bradford Abbas, Dorset",NA,"",1,"Bajocian","",170.3,168.3,11186,"gp_mid",20.32,35.35,"315",169.3,"bajocian",5545,20.4343,36.1796,37,1
+"25562",42326,"col","Lincolnshire Limestone",-0.52,52.97,"Lincoln Limestone Formation",NA,"",3,"Bajocian","",170.3,168.3,11186,"gp_mid",21.57,37.54,"315",169.3,"bajocian",5547,21.9151,39.4929,37,1
+"28083",45468,"col","",17.73,47.25,"Bakonybél, layer 1, Bakony Mts., Hungary",NA,"",2,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,"bajocian",6326,18.75,47.5,37,1
+"28085",45470,"col","",17.73,47.25,"Bakonybél, layer 3, Bakony Mts., Hungary",NA,"",1,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,"bajocian",6326,18.75,47.5,37,1
+"28086",45471,"col","",17.73,47.25,"Bakonybél, layer 6, Bakony Mts., Hungary",NA,"",1,"Bajocian","",170.3,168.3,11882,"gp_mid",39.42,20.3,"308",169.3,"bajocian",6326,18.75,47.5,37,1
+"33143",51555,"col","Vrska Cuka",22.37,43.83,"Mala Cuka Borehole in eastern Serbia, Bed 7",NA,"",4,"Bajocian","",170.3,168.3,13711,"gp_mid",37.45,15.98,"308",169.3,"bajocian",7925,40.7653,38.0637,37,1
+"33187",51603,"col","",137.27,49.43,"M33, Manoma River Section, Khabarovsk",NA,"",16,"Bajocian","",170.3,168.3,13716,"gp_mid",154.47,56.93,"628",169.3,"bajocian",7941,-178.3214,47.4625,37,1
+"34070",52539,"col","",-0.94,52.24,"Daston theropod (BMNH 47152)",NA,"",1,"Bajocian","",170.3,168.3,14142,"gp_mid",21.36,36.79,"315",169.3,"bajocian",8228,21.9151,39.4929,37,1
+"34104",52572,"col","",-1.63,51.91,"Kingham, Oxford",NA,"",1,"Bajocian","",170.3,168.3,14134,"gp_mid",20.89,36.41,"315",169.3,"bajocian",8240,21.9151,39.4929,37,1
+"34105",52573,"col","",-1.7,51.95,"Broadwell, Gloucestershire",NA,"",1,"Bajocian","",170.3,168.3,14134,"gp_mid",20.83,36.44,"315",169.3,"bajocian",8241,21.9151,39.4929,37,1
+"35038",53521,"col","",-1.54,51.94,"Chapel House, Chipping Norton (OUM)",NA,"Chapelhouse",3,"Bajocian","",170.3,168.3,51962,"gp_mid",20.95,36.45,"315",169.3,"bajocian",8528,21.9151,39.4929,37,1
+"35039",53522,"col","",-0.85,52.06,"Stony Stratford sauropod (SMG)",NA,"",1,"Bajocian","",170.3,168.3,14071,"gp_mid",21.46,36.61,"315",169.3,"bajocian",8529,21.9151,39.4929,37,1
+"35372",53859,"col","Tararua",175.68,-41.28,"Eketahuna, Locality A, T25/f117",NA,"",11,"Bajocian","",170.3,168.3,14499,"gp_mid",64.89,-79.39,"806",169.3,"bajocian",8603,-12.2652,-80.2935,37,1
+"38236",58309,"col","",11.1,50.13,"Oberlangheim, Bavaria",NA,"",1,"Bajocian","",170.3,168.3,15706,"gp_mid",31.02,35.91,"305",169.3,"bajocian",9207,31.6268,40.0956,37,1
+"38237",58310,"col","",11.07,49.9,"Lohndorf, Bavaria",NA,"",1,"Bajocian","",170.3,168.3,15706,"gp_mid",31.05,35.67,"305",169.3,"bajocian",9208,31.6268,40.0956,37,1
+"38278",58353,"col","",9.8,51.87,"Bore Wenzen, Lower Saxony",NA,"",3,"Bajocian","",170.3,168.3,15700,"gp_mid",29.61,37.46,"315",169.3,"bajocian",9219,30.1585,42.3309,37,1
+"38313",58388,"col","",9.05,48.33,"Jungingen, Baden-Württemberg",NA,"",1,"Bajocian","",170.3,168.3,16512,"gp_mid",29.82,33.89,"305",169.3,"bajocian",9228,30.1334,36.7804,37,1
+"38664",58739,"col","",-69,-23.05,"Caracoles, Antofagasta",NA,"Reef 3410",6,"Bajocian","",170.3,168.3,9156,"gp_mid",-23.54,-25.23,"201",169.3,"bajocian",9346,-25.4154,-25.7701,37,1
+"38666",58741,"col","",-70.47,-26.13,"Sierra Minillas, Atacama",NA,"",2,"Bajocian","",170.3,168.3,9156,"gp_mid",-24.5,-27.35,"291",169.3,"bajocian",9348,-28.6058,-28.9933,37,1
+"39523",59633,"col","Chairlin",55.38,40.78,"Chagyl",NA,"",1,"Bajocian","",170.3,168.3,16510,"gp_mid",70.6,35.52,"402",169.3,"bajocian",9522,76.2407,45.7361,37,1
+"39660",59772,"col","Calcaires à Entroques",6.2,48.68,"Asteroidea, Calcaires à Polypiers, Haut-de-Chèvre, Meurthe-et-Moselle",NA,"",1,"Bajocian","",170.3,168.3,17117,"gp_mid",27.5,33.92,"305",169.3,"bajocian",9550,30.1334,36.7804,37,1
+"39946",60237,"col","",18.22,49.08,"Vrsatec Klippe, Pieniny Klippen Belt",NA,"Reef 3207",30,"Bajocian","",170.3,168.3,17336,"gp_mid",36.85,35.83,"305",169.3,"bajocian",9630,37.3236,42.3005,37,1
+"41038",61426,"col","Zhamunaqu",91.75,32.42,"Locality B45, 15 km northeast of Amdo, Banggong Suture zone",NA,"",15,"Bajocian","",170.3,168.3,17531,"gp_mid",98.55,5.2,"613",169.3,"bajocian",9916,114.3873,44.6502,37,1
+"44365",66388,"col","Rosso Ammonitico",11.13,45.75,"Chiusa di Camposilvano, Rosso Ammonitico, Stromatolitic facies",NA,"",4,"Bajocian","",170.3,168.3,18980,"gp_mid",36.28,24.1,"307",169.3,"bajocian",10720,36.4788,24.5843,37,1
+"44368",66391,"col","Rosso Ammonitico",11.13,45.75,"Covolo di Camposilvano, Rosso Ammonitico, Stromatolitic facies",NA,"",11,"Bajocian","",170.3,168.3,18980,"gp_mid",36.28,24.1,"307",169.3,"bajocian",10720,36.4788,24.5843,37,1
+"44372",66394,"col","Rosso Ammonitico",11.03,45.62,"Piccola Mantova, Rosso Ammonitico, Stromatolitic facies",NA,"",10,"Bajocian","",170.3,168.3,18980,"gp_mid",36.12,24.12,"307",169.3,"bajocian",10721,36.4788,24.5843,37,1
+"44374",66396,"col","Rosso Ammonitico",11.03,45.62,"Dossetti, Rosso Ammonitico, Stromatolitic facies",NA,"",10,"Bajocian","",170.3,168.3,18980,"gp_mid",36.12,24.12,"307",169.3,"bajocian",10721,36.4788,24.5843,37,1
+"45571",68165,"col","Agoudim",-4.42,32.28,"Central High Atlas, Rich-Gourrama area, second reef complex",NA,"Reef 3447",22,"Bajocian","",170.3,168.3,19589,"gp_mid",8.68,22.92,"707",169.3,"bajocian",11060,5.7668,23.6126,37,1
+"46176",68824,"col","Sawtooth",-112.88,48.18,"USGS Mesozoic loc. 19183, north of Sun River area, Western Montana",NA,"",6,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.85,38.08,"127",169.3,"bajocian",11216,-42.3288,36.2186,37,1
+"46177",68825,"col","Sawtooth",-112.87,48.17,"USGS Mesozoic loc. 19195, north of Sun River area, Western Montana",NA,"",7,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.84,38.07,"127",169.3,"bajocian",11217,-42.3288,36.2186,37,1
+"46179",68827,"col","Sawtooth",-112.71,47.63,"USGS Mesozoic loc. 19606, Sun River area, Western Montana",NA,"",3,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.53,37.57,"127",169.3,"bajocian",11218,-42.3288,36.2186,37,1
+"46180",68828,"col","Sawtooth",-112.71,47.63,"USGS Mesozoic loc. 27037, Sun River area, Western Montana",NA,"",6,"Bajocian","",170.3,168.3,19843,"gp_mid",-42.53,37.57,"127",169.3,"bajocian",11218,-42.3288,36.2186,37,1
+"51056",77244,"col","",-2.37,51.2,"Nunney, Somerset",NA,"",1,"Bajocian","",170.3,168.3,26156,"gp_mid",20.43,35.65,"315",169.3,"bajocian",12636,20.4343,36.1796,37,1
+"51058",77246,"col","",-2.5,51.08,"Castle Cary, Somerset",NA,"",1,"Bajocian","",170.3,168.3,26156,"gp_mid",20.35,35.52,"315",169.3,"bajocian",12638,20.4343,36.1796,37,1
+"51558",78217,"col","",-3.48,42.75,"Quintanaopia area, Burgos",NA,"",3,"Bajocian","",170.3,168.3,26346,"gp_mid",20.75,28.25,"304",169.3,"bajocian",12789,20.0513,29.2846,37,1
+"54830",83659,"col","Hauptrogenstein",7.78,47.38,"Hiking trail, Schöntal Monastry, Langenbruck",NA,"",3,"Bajocian","",170.3,168.3,28000,"gp_mid",29.01,32.81,"305",169.3,"bajocian",13894,30.1334,36.7804,37,1
+"56855",86614,"col","",7.13,47.28,"Pichoux",NA,"",4,"Bajocian","",170.3,168.3,29177,"gp_mid",28.51,32.64,"305",169.3,"bajocian",14638,30.1334,36.7804,37,1
+"56856",86615,"col","",6.95,47.37,"Roche d'Or",NA,"",3,"Bajocian","",170.3,168.3,29177,"gp_mid",28.35,32.7,"305",169.3,"bajocian",14639,30.1334,36.7804,37,1
+"56858",86624,"col","Rämsi Breccia",8.68,47.02,"Mt. Kleiner Mythen",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",29.8,32.55,"305",169.3,"bajocian",14640,30.1334,36.7804,37,1
+"56865",86631,"col","",6.55,46.9,"Val de Travers",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",28.12,32.2,"305",169.3,"bajocian",14647,30.1334,36.7804,37,1
+"56866",86632,"col","",5.62,46.15,"Nantua",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",27.51,31.36,"305",169.3,"bajocian",14648,28.4405,33.4558,37,1
+"56867",86633,"col","",5.88,46.95,"Salins",NA,"",5,"Bajocian","",170.3,168.3,29177,"gp_mid",27.58,32.18,"305",169.3,"bajocian",14649,30.1334,36.7804,37,1
+"56868",86634,"col","",5.9,46.93,"Cret Cesar",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",27.59,32.16,"305",169.3,"bajocian",14650,30.1334,36.7804,37,1
+"56872",86670,"col","",7.18,47.35,"Montmelon",NA,"",3,"Bajocian","",170.3,168.3,29177,"gp_mid",28.54,32.71,"305",169.3,"bajocian",14654,30.1334,36.7804,37,1
+"56873",86671,"col","",7.2,47.33,"Glovelier Tunnel",NA,"",2,"Bajocian","",170.3,168.3,29177,"gp_mid",28.55,32.7,"305",169.3,"bajocian",14655,30.1334,36.7804,37,1
+"56874",86672,"col","",7.15,47.38,"Male-Cote",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",28.5,32.74,"305",169.3,"bajocian",14656,30.1334,36.7804,37,1
+"56876",86674,"col","",5.87,46.22,"Chezery",NA,"",1,"Bajocian","",170.3,168.3,29177,"gp_mid",27.7,31.45,"305",169.3,"bajocian",14658,7.5,45,37,1
+"59246",90024,"col","Hauptrogenstein",7.57,47.81,"Oolitkörner, Hauptrogenstein, Vögisheim, Baden-Württemberg",NA,"",12,"Bajocian","",170.3,168.3,17826,"gp_mid",28.75,33.21,"305",169.3,"bajocian",15447,30.1334,36.7804,37,1
+"61322",92800,"col","",135.62,44.55,"Rudnaya River, Dal'negorsk, 6.5 m",NA,"",17,"Bajocian","",170.3,168.3,31321,"gp_mid",153.02,51.99,"628",169.3,"bajocian",16169,174.3349,45.0823,37,1
+"61323",92801,"col","",135.62,44.55,"Rudnaya River, Dal'negorsk, 7 m",NA,"",13,"Bajocian","",170.3,168.3,31321,"gp_mid",153.02,51.99,"628",169.3,"bajocian",16169,174.3349,45.0823,37,1
+"61324",92802,"col","",135.62,44.55,"Rudnaya River, Dal'negorsk, 7.5 m",NA,"",6,"Bajocian","",170.3,168.3,31321,"gp_mid",153.02,51.99,"628",169.3,"bajocian",16169,174.3349,45.0823,37,1
+"61514",94618,"col","""Bifurcata Oolith""",9.82,48.75,"Stuifen, Bifurcata Oolith",NA,"",6,"Bajocian","",170.3,168.3,32227,"gp_mid",30.33,34.39,"305",169.3,"bajocian",16234,31.6268,40.0956,37,1
+"62641",94623,"col","""Bifurcata Oolith""",10.35,48.87,"Oberdorf, Bifurcata Oolith",NA,"",1,"Bajocian","",170.3,168.3,32227,"gp_mid",30.72,34.57,"305",169.3,"bajocian",16541,31.6268,40.0956,37,1
+"62647",94629,"col","""Bifurcata Oolith""",8.68,48.03,"Lupfen, Bifurcata Oolith",NA,"",4,"Bajocian","",170.3,168.3,32227,"gp_mid",29.59,33.56,"305",169.3,"bajocian",16545,30.1334,36.7804,37,1
+"62660",94642,"col","""Bifurcata Oolith""",8.72,48.08,"Spaichingen, Bifurcata Oolith",NA,"",3,"Bajocian","",170.3,168.3,32227,"gp_mid",29.6,33.61,"305",169.3,"bajocian",16547,30.1334,36.7804,37,1
+"62671",94653,"col","""Bifurcata Oolith""",10.3,48.88,"Röttingen, Bifurcata Oolith",NA,"",3,"Bajocian","",170.3,168.3,32227,"gp_mid",30.68,34.58,"305",169.3,"bajocian",16551,31.6268,40.0956,37,1
+"62674",94656,"col","""Bifurcata Oolith""",10.35,48.85,"Bopfingen, Bifurcata Oolith",NA,"",1,"Bajocian","",170.3,168.3,32227,"gp_mid",30.73,34.56,"305",169.3,"bajocian",16552,31.6268,40.0956,37,1
+"64156",96197,"col","South Bükk Shales",20.48,47.98,"Csipkes-tetö, Bükk Mts.",NA,"",4,"Bajocian","",170.3,168.3,32638,"gp_mid",40.88,18.85,"308",169.3,"bajocian",17018,18.75,47.5,37,1
+"64157",96198,"col","",20.32,47.97,"Varga-tetö, Bükk Mts.",NA,"",3,"Bajocian","",170.3,168.3,32638,"gp_mid",40.82,18.95,"308",169.3,"bajocian",17019,18.75,47.5,37,1
+"65198",97899,"col","",-4.77,32.59,"South of Midelt gastropods",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",8.58,23.33,"707",169.3,"bajocian",17322,5.7668,23.6126,37,1
+"65202",97903,"col","",-5.36,32.14,"Outarbat gastropods higher",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",7.86,23.21,"707",169.3,"bajocian",17323,5.7668,23.6126,37,1
+"65232",97933,"col","",-4.95,32.26,"Aberdouz gastropods lower",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",8.25,23.14,"707",169.3,"bajocian",17329,5.7668,23.6126,37,1
+"65233",97934,"col","",-4.95,32.26,"Aberdouz gastropods higher",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",8.25,23.14,"707",169.3,"bajocian",17329,5.7668,23.6126,37,1
+"65235",97936,"col","",-4.51,32.27,"Rich gastropods second lowest",NA,"",6,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,"bajocian",17330,5.7668,23.6126,37,1
+"65236",97937,"col","",-4.51,32.27,"Rich gastropods second highest",NA,"",9,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,"bajocian",17330,5.7668,23.6126,37,1
+"65237",97939,"col","",-4.51,32.27,"Rich gastropods highest",NA,"",1,"Bajocian","",170.3,168.3,33839,"gp_mid",8.6,22.95,"707",169.3,"bajocian",17330,5.7668,23.6126,37,1
+"65239",97940,"col","",-3.3,32.3,"Bou Dahar gastropods lower",NA,"",2,"Bajocian","",170.3,168.3,33839,"gp_mid",12.32,22.32,"714",169.3,"bajocian",17331,5.7668,23.6126,37,1
+"65240",97941,"col","",-3.3,32.3,"Bou Dahar gastropods higher",NA,"",3,"Bajocian","",170.3,168.3,33839,"gp_mid",12.32,22.32,"714",169.3,"bajocian",17331,5.7668,23.6126,37,1
+"68162",101703,"col","",44.55,-22.83,"Anamalanga",NA,"",16,"Bajocian","",170.3,168.3,34610,"gp_mid",30.54,-31.11,"702",169.3,"bajocian",18462,30.4666,-30.2553,37,1
+"84218",122235,"col","Strungulita",25.45,45.43,"Tatarul Peak, Bucegi Mountains",NA,"",9,"Bajocian","",170.3,168.3,38875,"gp_mid",39.93,14.7,"308",169.3,"bajocian",23541,46.2882,40.073,37,1
+"84219",122236,"col","Strungulita",25.45,45.43,"Obarsia Vaii Tatarului, Bucegi Mountains",NA,"",10,"Bajocian","",170.3,168.3,38875,"gp_mid",39.93,14.7,"308",169.3,"bajocian",23541,46.2882,40.073,37,1
+"84220",122238,"col","Strungulita",25.45,45.43,"Strungulita Pass, Bucegi Mountains",NA,"",8,"Bajocian","",170.3,168.3,38875,"gp_mid",39.93,14.7,"308",169.3,"bajocian",23541,46.2882,40.073,37,1
+"84223",122241,"col","Strungulita",25.45,45.43,"Strunga Pass, Bucegi Mountains",NA,"",12,"Bajocian","",170.3,168.3,38875,"gp_mid",39.93,14.7,"308",169.3,"bajocian",23541,46.2882,40.073,37,1
+"84224",122242,"col","Strungulita",25.85,45.4,"Grohotisul Mountain",NA,"",3,"Bajocian","",170.3,168.3,38875,"gp_mid",40.03,14.43,"308",169.3,"bajocian",23543,46.2882,40.073,37,1
+"84225",122243,"col","Strungulita",25.45,45.43,"La Politzie Saddle, Bucegi Mountains",NA,"",2,"Bajocian","",170.3,168.3,38875,"gp_mid",39.93,14.7,"308",169.3,"bajocian",23541,46.2882,40.073,37,1
+"85432",127118,"col","",-127,54.75,"GSC loc. 10073",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.03,42.42,"127",169.3,"bajocian",23966,-50.2796,42.4642,37,1
+"86220",124884,"col","",17.72,47.27,"Bakony Mts. ",NA,"",12,"Bajocian","",170.3,168.3,40440,"gp_mid",39.44,20.32,"308",169.3,"bajocian",24180,18.75,47.5,37,1
+"86244",124921,"col","",17.45,52.1,"Polish lowland (Bajocian) ",NA,"",17,"Bajocian","",170.3,168.3,40441,"gp_mid",35.4,38.66,"315",169.3,"bajocian",24184,35.7397,44.4244,37,1
+"86438",125161,"col","",20.25,51.3,"Krakow - Czetochowa Uplands 2a (Bajocian) ",NA,"",7,"Bajocian","",170.3,168.3,40441,"gp_mid",37.8,38.29,"302",169.3,"bajocian",24258,35.7397,44.4244,37,1
+"86442",125170,"col","",19.55,50.55,"Krakow - Czetochowa Uplands  2b (Bajocian) ",NA,"",1,"Bajocian","",170.3,168.3,40441,"gp_mid",37.48,37.46,"305",169.3,"bajocian",24259,37.3236,42.3005,37,1
+"86453",135604,"col","",113.53,73.5,"Cape Khorgo, Anabar Gulf",NA,"",1,"Bajocian","",170.3,168.3,43373,"gp_mid",74.94,77.77,"401",169.3,"bajocian",24265,21.1923,86.1554,37,1
+"86517",125276,"col","Guwayza",56.89,22.82,"Wadi Saal Section (10), BR138",NA,"",10,"Bajocian","",170.3,168.3,40646,"gp_mid",54.16,-10.64,"503",169.3,"bajocian",24282,50.1455,-9.4814,37,1
+"86538",125304,"col","Guwayza",57.26,22.74,"Al Dhaby Section (14), BR648",NA,"",5,"Bajocian","",170.3,168.3,40646,"gp_mid",54.45,-10.83,"503",169.3,"bajocian",24290,50.1455,-9.4814,37,1
+"86579",125361,"col","",56.83,22.92,"Section name not reported, BR107",NA,"",14,"Bajocian","",170.3,168.3,40646,"gp_mid",54.13,-10.53,"503",169.3,"bajocian",24304,50.1455,-9.4814,37,1
+"86580",125362,"col","",58.01,22.84,"Section name not reported, BR454",NA,"",20,"Bajocian","",170.3,168.3,40646,"gp_mid",55.16,-10.96,"503",169.3,"bajocian",24305,50.1455,-9.4814,37,1
+"86581",125363,"col","",58.01,22.84,"Section name not reported, BR457",NA,"",10,"Bajocian","",170.3,168.3,40646,"gp_mid",55.16,-10.96,"503",169.3,"bajocian",24305,50.1455,-9.4814,37,1
+"86592",125374,"col","",57.84,22.72,"Section name not reported, BR828",NA,"",6,"Bajocian","",170.3,168.3,40646,"gp_mid",54.96,-11.02,"503",169.3,"bajocian",24309,50.1455,-9.4814,37,1
+"86822",125759,"col","Gaikema",-153.16,59.81,"USGS Mesozoic loc. 19962, 19948",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.45,59.43,"125",169.3,"bajocian",24357,-62.5186,52.0386,37,1
+"86848",125790,"col","",-147.29,62.03,"USGS Mesozoic loc. 24113",NA,"",3,"Bajocian","",170.3,168.3,40842,"gp_mid",-73.37,57.69,"125",169.3,"bajocian",24365,-57.1559,49.2667,37,1
+"87741",126958,"col","Weberg",-119.6,44.09,"USGS Field Number 56-153 F.",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.85,32.63,"129",169.3,"bajocian",24520,-49.6515,35.1635,37,1
+"87742",126959,"col","",-127.94,54.72,"GSC loc. 87386, 87387",NA,"",3,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.74,42.28,"127",169.3,"bajocian",24521,-50.2796,42.4642,37,1
+"87874",127175,"col","Qoimaco",91.33,33.77,"Golmud City, Qinghai (No. A), Qoimaco Formation",NA,"",10,"Bajocian","",170.3,168.3,41317,"gp_mid",102.42,24.5,"612",169.3,"bajocian",24543,114.5789,47.1467,37,1
+"87875",127176,"col","Qoimaco",91.23,33.95,"Tanggulashan Village (No. B);, Qoimaco Formation",NA,"",10,"Bajocian","",170.3,168.3,41317,"gp_mid",102.28,24.66,"612",169.3,"bajocian",24544,114.5789,47.1467,37,1
+"87876",127177,"col","Qoimaco",90.5,33.25,"Baingoin County, Tibet (No. H), Qoimaco Formation",NA,"",9,"Bajocian","",170.3,168.3,41317,"gp_mid",101.83,23.82,"612",169.3,"bajocian",24545,114.3873,44.6502,37,1
+"92006",132948,"col","",21.76,44.64,"Brnijica IC-34/2",NA,"",3,"Bajocian","",170.3,168.3,42810,"gp_mid",38.03,16.71,"308",169.3,"bajocian",25535,40.7653,38.0637,37,1
+"92008",132950,"col","",21.76,44.64,"Brnijica IC-34/4",NA,"",12,"Bajocian","",170.3,168.3,42810,"gp_mid",38.03,16.71,"308",169.3,"bajocian",25535,40.7653,38.0637,37,1
+"92009",132951,"col","",21.76,44.64,"Brnijica IC-34/5",NA,"",16,"Bajocian","",170.3,168.3,42810,"gp_mid",38.03,16.71,"308",169.3,"bajocian",25535,40.7653,38.0637,37,1
+"92010",132952,"col","",21.76,44.64,"Brnijica IC-34/6",NA,"",1,"Bajocian","",170.3,168.3,42810,"gp_mid",38.03,16.71,"308",169.3,"bajocian",25535,40.7653,38.0637,37,1
+"92937",134228,"col","",174.76,-38.3,"AU 4283, Lindern Hills quarry, Marokopa Valley (R16/f8901)",NA,"",5,"Bajocian","",170.3,168.3,43142,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"92938",134229,"col","",174.76,-38.3,"McF F14, Lindern Hills quarry, Marokopa Valley (R16/f8901)",NA,"",3,"Bajocian","",170.3,168.3,43142,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"92984",134291,"col","",174.78,-38.59,"AU 9256, Rauroa Stream (R17/f284)",NA,"",4,"Bajocian","",170.3,168.3,43142,"gp_mid",80.01,-79.35,"806",169.3,"bajocian",25785,-25.259,-86.6009,37,1
+"93041",134355,"col","",174.78,-38.59,"AU 9297, Rauroa Stream (R17/f324)",NA,"",2,"Bajocian","",170.3,168.3,43142,"gp_mid",80.02,-79.35,"806",169.3,"bajocian",25785,-25.259,-86.6009,37,1
+"93056",134370,"col","",174.81,-38.46,"AU 9370, upper Awakino Valley (R17/f395)",NA,"",1,"Bajocian","",170.3,168.3,43142,"gp_mid",80.71,-79.38,"806",169.3,"bajocian",25803,-25.259,-86.6009,37,1
+"93641",135072,"col","",168.44,-46.04,"GS 333, Ben Bolt (E45/f9436)",NA,"",1,"Bajocian","",170.3,168.3,43142,"gp_mid",69.1,-81.55,"807",169.3,"bajocian",26032,22.7185,-84.2148,37,1
+"93959",135422,"col","",4.47,46.35,"La Roche-Vineuse quarry, Monsard, Saône-et-Loire (USNM)",NA,"",4,"Bajocian","",170.3,168.3,43337,"gp_mid",26.56,31.43,"305",169.3,"bajocian",26186,27.2581,35.7587,37,1
+"93960",135423,"col","Inferior Oolite",-2.8,50.82,"Broad Windsor (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.16,35.24,"315",169.3,"bajocian",26187,20.4343,36.1796,37,1
+"93961",135424,"col","Inferior Oolite",-0.36,49.31,"Luc, Calvados",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",22.26,33.93,"305",169.3,"bajocian",26188,23.2148,37.0913,37,1
+"94007",135491,"col","",-1.82,51.99,"Snows Hill Mill",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.73,36.48,"315",169.3,"bajocian",26208,21.9151,39.4929,37,1
+"94009",135493,"col","",-0.69,49.28,"St. Vigor, near Bayeux",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",22.01,33.87,"305",169.3,"bajocian",26210,23.2148,37.0913,37,1
+"94037",135521,"col","Inferior Oolite",-2.73,50.71," Burton Bradstock (USNM coll)",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.22,35.13,"315",169.3,"bajocian",26215,20.4343,36.1796,37,1
+"94047",135531,"col","Inferior Oolite",-2.8,50.8,"Stoke Knapp, Whaddon Hill, near Broadwindsor",NA,"",1,"Bajocian","",170.3,168.3,43337,"gp_mid",20.16,35.23,"315",169.3,"bajocian",26221,20.4343,36.1796,37,1
+"94085",135568,"col","",114.07,73.58,"Eastern side of Anabar Gulf, Laptev Sea (Bajocian)",NA,"",1,"Bajocian","",170.3,168.3,43373,"gp_mid",74.88,77.94,"401",169.3,"bajocian",26248,21.1923,86.1554,37,1
+"96871",138932,"col","",-127.49,54.83,"GSC loc. 64796",NA,"GSC loc. 87536",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.43,42.44,"127",169.3,"bajocian",27026,-50.2796,42.4642,37,1
+"96873",138934,"col","",-127.31,54.87,"GSC loc. 80298",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.3,42.51,"127",169.3,"bajocian",27027,-50.2796,42.4642,37,1
+"96932",138991,"col","",-127.3,54.88,"GSC loc. 80301",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.29,42.52,"127",169.3,"bajocian",27050,-50.2796,42.4642,37,1
+"96933",138992,"col","",-127.36,54.84,"GSC loc. 81919",NA,"GSC loc. 81936, 81922",3,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.33,42.47,"127",169.3,"bajocian",27051,-50.2796,42.4642,37,1
+"96937",138996,"col","",-126.91,54.71,"GSC loc. 81937",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.95,42.4,"127",169.3,"bajocian",27052,-50.2796,42.4642,37,1
+"96938",138997,"col","",-127.37,54.84,"GSC loc. 82358",NA,"",3,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.34,42.46,"127",169.3,"bajocian",27053,-50.2796,42.4642,37,1
+"96940",138999,"col","",-127.86,54.86,"GSC loc. 83262, 85385, 85398, 85405, 85412, 85427",NA,"Ashman ridge",4,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.72,42.43,"127",169.3,"bajocian",27054,-50.2796,42.4642,37,1
+"97030",139090,"col","",-126.88,54.87,"GSC loc. 85323",NA,"",0,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.97,42.55,"127",169.3,"bajocian",27070,-50.2796,42.4642,37,1
+"97031",139091,"col","",-126.69,54.74,"GSC loc. 85315, 85332, 87336, 87388, 87389",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.79,42.45,"127",169.3,"bajocian",27071,-50.2796,42.4642,37,1
+"97034",139094,"col","",-127.24,54.54,"GSC loc. 85407, 88565, 88567",NA,"Tenas Creek",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.16,42.19,"127",169.3,"bajocian",27073,-50.2796,42.4642,37,1
+"97131",139191,"col","",-126.97,54.72,"GSC loc. 87306, 87307, 87319-87326",NA,"",3,"Bajocian","",170.3,168.3,40842,"gp_mid",-56,42.4,"127",169.3,"bajocian",27085,-50.2796,42.4642,37,1
+"97132",139192,"col","",-126.53,55,"GSC loc. 83994, 87311, 87312",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.74,42.72,"127",169.3,"bajocian",27086,-50.2796,42.4642,37,1
+"97133",139193,"col","",-126.98,54.7,"GSC loc. 87318",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56,42.38,"127",169.3,"bajocian",27087,-50.2796,42.4642,37,1
+"97134",139194,"col","",-126.95,54.67,"GSC loc. 87317",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.97,42.35,"127",169.3,"bajocian",27088,-50.2796,42.4642,37,1
+"97136",139196,"col","",-126.94,54.72,"GSC loc. 87378, 87381",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.98,42.41,"127",169.3,"bajocian",27090,-50.2796,42.4642,37,1
+"97141",139201,"col","",-126.71,54.75,"GSC loc. 87409",NA,"85328, 87393",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.81,42.46,"127",169.3,"bajocian",27092,-50.2796,42.4642,37,1
+"97149",139209,"col","",-127.39,54.81,"GSC loc. 87554",NA,"87536, 87538, 87541, 87543, 87550, 87556",5,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.35,42.44,"127",169.3,"bajocian",27094,-50.2796,42.4642,37,1
+"97150",139210,"col","",-127.38,54.83,"GSC loc. 87537",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-56.34,42.45,"127",169.3,"bajocian",27095,-50.2796,42.4642,37,1
+"97152",139212,"col","",-126.87,54.82,"GSC loc. 87553",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-55.95,42.51,"127",169.3,"bajocian",27097,-50.2796,42.4642,37,1
+"97165",139225,"col","Weberg",-119.63,43.97,"GSC loc. 89382",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.91,32.53,"129",169.3,"bajocian",27100,-49.6515,35.1635,37,1
+"97236",139297,"col","",-152.87,60.26,"USGS Mesozoic loc. 1495",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-78.53,59.48,"125",169.3,"bajocian",27114,-62.5186,52.0386,37,1
+"97404",139470,"col","Cynthia Falls Sandstone",-152.69,60.16,"USGS Mesozoic loc. 2994",NA,"USGS 10512",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-78.64,59.35,"125",169.3,"bajocian",27142,-62.5186,52.0386,37,1
+"97405",139471,"col","Fitz Creek Siltstone",-152.69,60.17,"USGS Mesozoic loc. 2996, CAS 32712",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-78.63,59.35,"125",169.3,"bajocian",27143,-62.5186,52.0386,37,1
+"97406",139472,"col","Fitz Creek Siltstone",-152.69,60.17,"USGS Mesozoic loc. 2999",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-78.63,59.36,"125",169.3,"bajocian",27143,-62.5186,52.0386,37,1
+"97407",139473,"col","Cynthia Falls Sandstone",-152.7,60.17,"USGS Mesozoic loc. 3002",NA,"10521",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-78.64,59.36,"125",169.3,"bajocian",27144,-62.5186,52.0386,37,1
+"97415",139479,"col","Tuxedni",-148.16,61.93,"USGS Mesozoic loc. 8567",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-73.85,58.03,"125",169.3,"bajocian",27149,-57.8993,50.931,37,1
+"97416",139480,"col","",-147.33,62,"USGS Mesozoic loc. 8951",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-73.44,57.7,"125",169.3,"bajocian",27150,-57.1559,49.2667,37,1
+"97474",139542,"col","Kialagvik",-156.54,57.32,"USGS Mesozoic loc. 19796, CAS loc. 29017",NA,"",2,"Bajocian","",170.3,168.3,40842,"gp_mid",-85.4,60,"125",169.3,"bajocian",27168,-67.3963,53.3886,37,1
+"97475",139543,"col","Kialagvik",-156.48,57.29,"USGS Mesozoic loc. 19844",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-85.42,59.95,"125",169.3,"bajocian",27169,-67.3963,53.3886,37,1
+"97476",139544,"col","Gaikema",-153.26,59.76,"USGS Mesozoic loc. 19936",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.59,59.45,"125",169.3,"bajocian",27170,-62.5186,52.0386,37,1
+"97477",139545,"col","Red Glacier",-153.16,59.81,"USGS Mesozoic loc. 19951",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.45,59.43,"125",169.3,"bajocian",24357,-62.5186,52.0386,37,1
+"97478",139546,"col","Red Glacier",-153.23,59.76,"USGS Mesozoic loc. 19986",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.57,59.44,"125",169.3,"bajocian",27171,-62.5186,52.0386,37,1
+"97481",139549,"col","Gaikema",-153.22,59.77,"USGS Mesozoic loc. 20008",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.55,59.44,"125",169.3,"bajocian",27172,-62.5186,52.0386,37,1
+"97518",139587,"col","Red Glacier",-153.19,59.82,"USGS Mesozoic loc. 21295",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-79.45,59.45,"125",169.3,"bajocian",27182,-62.5186,52.0386,37,1
+"97662",139739,"col","Weberg",-119.59,44.05,"USGS Field Number 56-120",NA,"",1,"Bajocian","",170.3,168.3,40842,"gp_mid",-44.86,32.59,"129",169.3,"bajocian",27201,-49.6515,35.1635,37,1
+"99604",142122,"col","Potami",23.02,37.73,"Angelokastro village, probably Potami Fm, sample GR 62D",NA,"",6,"Bajocian","",170.3,168.3,46169,"gp_mid",32.01,12.87,"307",169.3,"bajocian",27496,43.2094,15.2336,37,1
+"99619",142137,"col","Potami",23.02,37.73,"Angelokastro village, probably Potami Fm, sample GR 262",NA,"",13,"Bajocian","",170.3,168.3,46169,"gp_mid",32.01,12.87,"307",169.3,"bajocian",27496,43.2094,15.2336,37,1
+"100018",142619,"col","",9.84,52.17,"Temporary railroad construction site, near Emmerke",NA,"",1,"Bajocian","",170.3,168.3,46213,"gp_mid",29.57,37.76,"315",169.3,"bajocian",27560,30.1585,42.3309,37,1
+"109253",154737,"col","",18.43,47.71,"Asszony Hill section, Bed 18, Transdanubian Range",NA,"",4,"Bajocian","",170.3,168.3,50315,"gp_mid",40.07,20.03,"308",169.3,"bajocian",29274,18.75,47.5,37,1
+"109712",155331,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit IV, FL-10",NA,"",2,"Bajocian","",170.3,168.3,50679,"gp_mid",71.23,30.93,"505",169.3,"bajocian",29372,74.1757,42.1803,37,1
+"111250",158146,"col","Inferior Oolite",-2.72,50.7,"Burton Bradstock (""Inferior Oolite"")",NA,"",1,"Bajocian","",170.3,168.3,51918,"gp_mid",20.23,35.13,"315",169.3,"bajocian",5544,20.4343,36.1796,37,1
+"114340",162347,"col","",8.1,47.42,"Gisliflue-Homberg",NA,"",27,"Bajocian","",170.3,168.3,52887,"gp_mid",29.25,32.88,"305",169.3,"bajocian",30685,30.1334,36.7804,37,1
+"114343",162373,"col","Hauptraugenstein",7.95,47.48,"Hauptrogenstein, Bajocian, Tiersteinberg",NA,"",21,"Bajocian","",170.3,168.3,52890,"gp_mid",29.12,32.93,"305",169.3,"bajocian",30687,30.1334,36.7804,37,1
+"115030",163451,"col","",35.25,44.97,"Planerskoe, Mount Kok-Kaya (Upper Bajocian)",NA,"Koktebel",1,"Bajocian","",170.3,168.3,52981,"gp_mid",51.88,34.85,"302",169.3,"bajocian",30776,52.5964,42.467,37,1
+"115551",164682,"col","",-115.16,51.3,"2.5 miles north of Lake Minnewanka",NA,"",1,"Bajocian","",170.3,168.3,53761,"gp_mid",-36.71,40.71,"101",169.3,"bajocian",30912,-43.5771,41.682,37,1
+"116899",167119,"col","Twin Creek Limestone",-111.58,40.67,"USGS Mesozoic Loc. 3218 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.63,29.81,"101",169.3,"bajocian",31319,-44.4877,28.9418,37,1
+"116919",167032,"col","Twin Creek Limestone",-111.28,43.63,"USGS Mesozoic Loc. 28586 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.43,32.6,"101",169.3,"bajocian",31322,-43.8061,31.3714,37,1
+"116920",167033,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 13491 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.49,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116921",167034,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28500 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.49,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116922",167035,"col","Twin Creek Limestone",-111.79,43.43,"USGS Mesozoic Loc. 28501 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.51,"101",169.3,"bajocian",31324,-43.8061,31.3714,37,1
+"116923",167036,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28502 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.49,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116924",167037,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28505 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.49,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116925",167038,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28506 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.5,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116926",167039,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28635 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.5,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116927",167040,"col","Twin Creek Limestone",-111.79,43.41,"USGS Mesozoic Loc. 28636 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.93,32.49,"101",169.3,"bajocian",31323,-43.8061,31.3714,37,1
+"116928",167041,"col","Twin Creek Limestone",-111.44,43.42,"USGS Mesozoic Loc. 21000 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.64,32.44,"101",169.3,"bajocian",31325,-43.8061,31.3714,37,1
+"116929",167043,"col","Twin Creek Limestone",-111.27,43.23,"USGS Mesozoic Loc. 18181 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.56,32.22,"101",169.3,"bajocian",31326,-43.8061,31.3714,37,1
+"116930",167052,"col","Twin Creek Limestone",-111.17,42.87,"USGS Mesozoic Loc. 16016 - Twin Creek Limestone",NA,"",8,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.59,31.85,"101",169.3,"bajocian",31327,-43.8061,31.3714,37,1
+"116931",167053,"col","Twin Creek Limestone",-111.18,42.86,"USGS Mesozoic Loc. 21632 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.61,31.85,"101",169.3,"bajocian",31328,-43.8061,31.3714,37,1
+"116932",167054,"col","Twin Creek Limestone",-111.18,42.86,"USGS Mesozoic Loc. 21633 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.61,31.85,"101",169.3,"bajocian",31328,-43.8061,31.3714,37,1
+"116933",167055,"col","Twin Creek Limestone",-111.16,42.87,"USGS Mesozoic Loc. 28795 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.59,31.85,"101",169.3,"bajocian",31329,-43.8061,31.3714,37,1
+"116934",167056,"col","Twin Creek Limestone",-111.15,42.84,"USGS Mesozoic Loc. 9090 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.58,31.82,"101",169.3,"bajocian",31330,-43.8061,31.3714,37,1
+"116935",167057,"col","Twin Creek Limestone",-111.07,42.65,"USGS Mesozoic Loc. 12116 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.58,31.62,"101",169.3,"bajocian",31331,-43.8061,31.3714,37,1
+"116936",167058,"col","Twin Creek Limestone",-111.26,42.45,"USGS Mesozoic Loc. 7432 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.8,31.47,"101",169.3,"bajocian",31332,-43.8061,31.3714,37,1
+"116937",167059,"col","Twin Creek Limestone",-111.22,42.38,"USGS Mesozoic Loc. 6370 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.79,31.39,"101",169.3,"bajocian",31333,-43.8061,31.3714,37,1
+"116938",167060,"col","Twin Creek Limestone",-111.17,42.36,"USGS Mesozoic Loc. 4081 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.76,31.36,"101",169.3,"bajocian",31334,-43.8061,31.3714,37,1
+"116939",167061,"col","Twin Creek Limestone",-111.16,42.34,"USGS Mesozoic Loc. 28637 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.75,31.34,"101",169.3,"bajocian",31335,-43.8061,31.3714,37,1
+"116940",167062,"col","Twin Creek Limestone",-111.23,42.1,"USGS Mesozoic Loc. 6638 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.89,31.12,"101",169.3,"bajocian",31336,-43.8061,31.3714,37,1
+"116941",167063,"col","Twin Creek Limestone",-111.23,42.1,"USGS Mesozoic Loc. 6639 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.89,31.12,"101",169.3,"bajocian",31336,-43.8061,31.3714,37,1
+"116943",167065,"col","Twin Creek Limestone",-110.98,42.84,"USGS Mesozoic Loc. 9102 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.44,31.79,"101",169.3,"bajocian",31338,-43.8061,31.3714,37,1
+"116944",167066,"col","Twin Creek Limestone",-110.9,42.73,"USGS Mesozoic Loc. 12018 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.41,31.66,"101",169.3,"bajocian",31339,-43.8061,31.3714,37,1
+"116945",167067,"col","Twin Creek Limestone",-110.9,42.63,"USGS Mesozoic Loc. 12119 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.45,31.57,"101",169.3,"bajocian",31340,-43.8061,31.3714,37,1
+"116946",167068,"col","Twin Creek Limestone",-110.89,42.61,"USGS Mesozoic Loc. 12019(a) - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.44,31.55,"101",169.3,"bajocian",31341,-43.8061,31.3714,37,1
+"116947",167069,"col","Twin Creek Limestone ",-111.04,42.4,"USGS Mesozoic Loc. 20971 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,31.38,"101",169.3,"bajocian",31342,-43.8061,31.3714,37,1
+"116948",167070,"col","Twin Creek Limestone",-111.04,42.4,"USGS Mesozoic Loc. 20988 - Twin Creek Limestone",NA,"",6,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,31.38,"101",169.3,"bajocian",31342,-43.8061,31.3714,37,1
+"116949",167071,"col","Twin Creek Limestone",-111.04,42.41,"USGS Mesozoic Loc. 27729 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,31.38,"101",169.3,"bajocian",31343,-43.8061,31.3714,37,1
+"116950",167072,"col","Twin Creek Limestone",-111.04,42.41,"USGS Mesozoic Loc. 28483 - Twin Creek Limestone",NA,"",10,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,31.38,"101",169.3,"bajocian",31343,-43.8061,31.3714,37,1
+"116951",167073,"col","Twin Creek Limestone",-111,42.33,"USGS Mesozoic Loc. 6364 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.62,31.3,"101",169.3,"bajocian",31344,-43.8061,31.3714,37,1
+"116952",167074,"col","Twin Creek Limestone",-110.79,42.35,"USGS Mesozoic Loc. 21628 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.44,31.28,"101",169.3,"bajocian",31345,-43.8061,31.3714,37,1
+"116953",167075,"col","Twin Creek Limestone",-110.7,42.32,"USGS Mesozoic Loc. 20961 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.38,31.23,"101",169.3,"bajocian",31346,-43.8061,31.3714,37,1
+"116954",167076,"col","Twin Creek Limestone",-110.71,42.33,"USGS Mesozoic Loc. 20968 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.38,31.24,"101",169.3,"bajocian",31347,-43.8061,31.3714,37,1
+"116955",167077,"col","Twin Creek Limestone",-110.7,42.32,"USGS Mesozoic Loc. 20972 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.38,31.23,"101",169.3,"bajocian",31346,-43.8061,31.3714,37,1
+"116957",167079,"col","Twin Creek Limestone",-110.82,42.2,"USGS Mesozoic Loc. 20979 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.52,31.13,"101",169.3,"bajocian",31349,-43.8061,31.3714,37,1
+"116958",167080,"col","Twin Creek Limestone ",-110.82,42.2,"USGS Mesozoic Loc. 20985 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.51,31.14,"101",169.3,"bajocian",31349,-43.8061,31.3714,37,1
+"116959",167081,"col","Twin Creek Limestone",-110.83,42.17,"USGS Mesozoic Loc. 20344 - Twin Creek Limestone",NA,"",12,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.54,31.11,"101",169.3,"bajocian",31350,-43.8061,31.3714,37,1
+"116960",167082,"col","Twin Creek Limestone",-110.83,42.17,"USGS Mesozoic Loc. 20970 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.54,31.11,"101",169.3,"bajocian",31350,-43.8061,31.3714,37,1
+"116961",167083,"col","Twin Creek Limestone",-110.83,42.17,"USGS Mesozoic Loc. 20973 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.54,31.11,"101",169.3,"bajocian",31350,-43.8061,31.3714,37,1
+"116962",167085,"col","Twin Creek Limestone",-110.83,42.17,"USGS Mesozoic Loc. 28484 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.54,31.11,"101",169.3,"bajocian",31350,-43.8061,31.3714,37,1
+"116963",167086,"col","Twin Creek Limestone",-111,42.08,"USGS Mesozoic Loc. 28794 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.7,31.06,"101",169.3,"bajocian",31351,-43.8061,31.3714,37,1
+"116964",167087,"col","Twin Creek Limestone",-110.85,42.1,"USGS Mesozoic Loc. 20978 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.57,31.04,"101",169.3,"bajocian",31352,-43.8061,31.3714,37,1
+"116965",167088,"col","Twin Creek Limestone",-110.84,42.1,"USGS Mesozoic Loc. 20345 - Twin Creek Limestone",NA,"",16,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.57,31.05,"101",169.3,"bajocian",31353,-43.8061,31.3714,37,1
+"116967",167090,"col","Twin Creek Limestone",-110.85,42,"USGS Mesozoic Loc. 20969 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.6,30.95,"101",169.3,"bajocian",31354,-43.8061,31.3714,37,1
+"116968",167091,"col","Twin Creek Limestone",-110.85,41.98,"USGS Mesozoic Loc. 20984 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.61,30.93,"101",169.3,"bajocian",31355,-43.8061,31.3714,37,1
+"116970",167093,"col","Twin Creek Limestone",-110.86,41.94,"USGS Mesozoic Loc. 20966 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,30.9,"101",169.3,"bajocian",31356,-43.8061,31.3714,37,1
+"116971",167094,"col","Twin Creek Limestone",-110.86,41.94,"USGS Mesozoic Loc. 20975 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,30.9,"101",169.3,"bajocian",31356,-43.8061,31.3714,37,1
+"116972",167095,"col","Twin Creek Limestone",-110.86,41.95,"USGS Mesozoic Loc. 20977 - Twin Creek Limestone",NA,"",8,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.62,30.9,"101",169.3,"bajocian",31357,-43.8061,31.3714,37,1
+"116973",167096,"col","Twin Creek Limestone",-110.86,41.94,"USGS Mesozoic Loc. 20981 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,30.9,"101",169.3,"bajocian",31356,-43.8061,31.3714,37,1
+"116974",167097,"col","Twin Creek Limestone",-110.86,41.94,"USGS Mesozoic Loc. 28798 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.63,30.89,"101",169.3,"bajocian",31356,-43.8061,31.3714,37,1
+"116975",167098,"col","Twin Creek Limestone",-110.87,41.83,"USGS Mesozoic Loc. 3391 - Twin Creek Limestone",NA,"",6,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.67,30.79,"101",169.3,"bajocian",31358,-43.8061,31.3714,37,1
+"116976",167099,"col","Twin Creek Limestone",-111.25,41.92,"USGS Mesozoic Loc. 21618 - Twin Creek Limestone",NA,"",9,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.96,30.95,"101",169.3,"bajocian",31359,-43.8061,31.3714,37,1
+"116977",167100,"col","Twin Creek Limestone",-111.33,41.51,"USGS Mesozoic Loc. 8177 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.16,30.57,"101",169.3,"bajocian",31360,-43.8061,31.3714,37,1
+"116978",167101,"col","Twin Creek Limestone",-111.3,41.51,"USGS Mesozoic Loc. 28644 - Twin Creek Limestone",NA,"",8,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.13,30.56,"101",169.3,"bajocian",31361,-43.8061,31.3714,37,1
+"116979",167102,"col","Twin Creek Limestone",-111.3,41.51,"USGS Mesozoic Loc. 28645 - Twin Creek Limestone",NA,"",14,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.14,30.57,"101",169.3,"bajocian",31361,-43.8061,31.3714,37,1
+"116980",167103,"col","Twin Creek Limestone",-111.31,41.51,"USGS Mesozoic Loc. 28646 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.14,30.57,"101",169.3,"bajocian",31362,-43.8061,31.3714,37,1
+"116982",167111,"col","Twin Creek Limestone",-111.3,41.51,"USGS Mesozoic Loc. 28647 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.14,30.57,"101",169.3,"bajocian",31361,-43.8061,31.3714,37,1
+"116983",167112,"col","Twin Creek Limestone",-111.3,41.51,"USGS Mesozoic Loc. 28648 - Twin Creek Limestone",NA,"",11,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.14,30.57,"101",169.3,"bajocian",31361,-43.8061,31.3714,37,1
+"116984",167115,"col","Twin Creek Limestone",-111.37,41.45,"USGS Mesozoic Loc. 22638 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.21,30.53,"101",169.3,"bajocian",31363,-43.8061,31.3714,37,1
+"116985",167116,"col","Twin Creek Limestone",-111.55,41.07,"USGS Mesozoic Loc. 28642 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.48,30.19,"101",169.3,"bajocian",31364,-44.4877,28.9418,37,1
+"116986",167117,"col","Twin Creek Limestone",-111.55,41.06,"USGS Mesozoic Loc. 28641 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.48,30.19,"101",169.3,"bajocian",31365,-44.4877,28.9418,37,1
+"116987",167118,"col","Twin Creek Limestone",-111.21,40.76,"USGS Mesozoic Loc. 21619 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.29,29.83,"101",169.3,"bajocian",31366,-44.4877,28.9418,37,1
+"116988",167120,"col","Twin Creek Limestone",-111.58,40.67,"USGS Mesozoic Loc. 3219 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.63,29.82,"101",169.3,"bajocian",31319,-44.4877,28.9418,37,1
+"116990",167122,"col","Twin Creek Limestone",-111.48,40.48,"USGS Mesozoic Loc. 17964 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.61,29.61,"101",169.3,"bajocian",31367,-44.4877,28.9418,37,1
+"116991",167123,"col","Twin Creek Limestone",-111.5,40.47,"USGS Mesozoic Loc. 17961 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.63,29.61,"101",169.3,"bajocian",31368,-44.4877,28.9418,37,1
+"116992",167124,"col","Twin Creek Limestone",-111.38,40.51,"USGS Mesozoic Loc. 17985 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.51,29.62,"101",169.3,"bajocian",31369,-44.4877,28.9418,37,1
+"116993",167125,"col","Twin Creek Limestone",-111.38,40.09,"USGS Mesozoic Loc. 17674 - Twin Creek Limestone",NA,"",5,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.64,29.22,"101",169.3,"bajocian",31370,-44.4877,28.9418,37,1
+"116994",167126,"col","Twin Creek Limestone",-111.49,40,"USGS Mesozoic Loc. 17673 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.76,29.15,"101",169.3,"bajocian",31371,-44.4877,28.9418,37,1
+"116995",167127,"col","Twin Creek Limestone",-111.52,39.97,"USGS Mesozoic Loc. 28457 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.79,29.13,"101",169.3,"bajocian",31372,-44.4877,28.9418,37,1
+"116996",167128,"col","Twin Creek Limestone",-111.52,39.97,"USGS Mesozoic Loc. 28458 - Twin Creek Limestone",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.79,29.13,"101",169.3,"bajocian",31372,-44.4877,28.9418,37,1
+"116997",167129,"col","Twin Creek Limestone",-111.52,39.97,"USGS Mesozoic Loc. 28459 - Twin Creek Limestone",NA,"",10,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.79,29.13,"101",169.3,"bajocian",31372,-44.4877,28.9418,37,1
+"117000",167139,"col","Twin Creek Limestone",-112.1,43.22,"USGS Mesozoic Loc. 8621 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.25,32.38,"101",169.3,"bajocian",31373,-43.8061,31.3714,37,1
+"117001",167140,"col","Twin Creek Limestone",-112.09,43.15,"USGS Mesozoic Loc. 8623 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.27,32.3,"101",169.3,"bajocian",31374,-43.8061,31.3714,37,1
+"117002",167141,"col","Twin Creek Limestone",-111.06,42.68,"USGS Mesozoic Loc. 9096 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.57,31.65,"101",169.3,"bajocian",31375,-43.8061,31.3714,37,1
+"117003",167142,"col","Twin Creek Limestone",-111.26,42.43,"USGS Mesozoic Loc. 7430 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.8,31.45,"101",169.3,"bajocian",31376,-43.8061,31.3714,37,1
+"117004",167143,"col","Twin Creek Limestone",-111.25,42.43,"USGS Mesozoic Loc. 7438 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.8,31.45,"101",169.3,"bajocian",31377,-43.8061,31.3714,37,1
+"117005",167144,"col","Twin Creek Limestone",-110.95,42.83,"USGS Mesozoic Loc. 9101 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.42,31.77,"101",169.3,"bajocian",31378,-43.8061,31.3714,37,1
+"117006",167145,"col","Twin Creek Limestone",-110.82,42.64,"USGS Mesozoic Loc. 16058 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.38,31.56,"101",169.3,"bajocian",31379,-43.8061,31.3714,37,1
+"117007",167146,"col","Twin Creek Limestone",-110.89,42.61,"USGS Mesozoic Loc. 12019(b) - Twin Creek Limestone ",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.44,31.55,"101",169.3,"bajocian",31341,-43.8061,31.3714,37,1
+"117012",167151,"col","Twin Creek Limestone",-110.87,41.83,"USGS Mesozoic Loc. 3392 - Twin Creek Limestone",NA,"",7,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.68,30.79,"101",169.3,"bajocian",31358,-43.8061,31.3714,37,1
+"117013",167152,"col","Twin Creek Limestone",-111.19,41.99,"USGS Mesozoic Loc. 6373 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-36.89,31.01,"101",169.3,"bajocian",31382,-43.8061,31.3714,37,1
+"117014",167153,"col","Twin Creek Limestone",-111.58,40.67,"USGS Mesozoic Loc. 3221 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.63,29.82,"101",169.3,"bajocian",31319,-44.4877,28.9418,37,1
+"117015",167154,"col","Twin Creek Limestone",-111.36,40.51,"USGS Mesozoic Loc. 17982 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.49,29.61,"101",169.3,"bajocian",31383,-44.4877,28.9418,37,1
+"117016",167155,"col","Twin Creek Limestone",-111.36,40.51,"USGS Mesozoic Loc. 17983 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.49,29.62,"101",169.3,"bajocian",31383,-44.4877,28.9418,37,1
+"117017",167156,"col","Twin Creek Limestone",-111.36,40.51,"USGS Mesozoic Loc. 17984 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.5,29.62,"101",169.3,"bajocian",31383,-44.4877,28.9418,37,1
+"117018",167157,"col","Twin Creek Limestone",-111.21,40.38,"USGS Mesozoic Loc. 17976 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.41,29.47,"101",169.3,"bajocian",31384,-44.4877,28.9418,37,1
+"117019",167158,"col","Twin Creek Limestone",-111.21,40.38,"USGS Mesozoic Loc. 17977 - Twin Creek Limestone",NA,"",12,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.41,29.46,"101",169.3,"bajocian",31384,-44.4877,28.9418,37,1
+"117020",167159,"col","Twin Creek Limestone",-111.21,40.39,"USGS Mesozoic Loc. 17978 - Twin Creek Limestone",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.41,29.47,"101",169.3,"bajocian",31385,-44.4877,28.9418,37,1
+"117021",167160,"col","Twin Creek Limestone",-111.47,40,"USGS Mesozoic Loc. 3548 - Twin Creek Limestone",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.75,29.15,"101",169.3,"bajocian",31386,-44.4877,28.9418,37,1
+"117022",167161,"col","Twin Creek Limestone",-111.48,39.99,"USGS Mesozoic Loc. 22657 - Twin Creek Limestone",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-37.75,29.15,"101",169.3,"bajocian",31387,-44.4877,28.9418,37,1
+"117064",167206,"col","Sawtooth",-112.87,48.16,"USGS Mesozoic Loc. 28825 - Swift Reservoir",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.84,38.06,"127",169.3,"bajocian",31390,-42.3288,36.2186,37,1
+"117065",167207,"col","Sawtooth",-112.87,48.16,"USGS Mesozoic Loc. 28826 - Swift Reservoir",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.84,38.06,"127",169.3,"bajocian",31390,-42.3288,36.2186,37,1
+"117066",167208,"col","Sawtooth",-113.21,46.65,"USGS Mesozoic Loc. 27337 - Tigh Creek",NA,"",4,"Bajocian","",170.3,168.3,54548,"gp_mid",-42.64,36.53,"127",169.3,"bajocian",31391,-42.3288,36.2186,37,1
+"117067",167209,"col","Sawtooth",-111.57,45.36,"USGS Mesozoic Loc. 21391 - Jack Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.88,35.56,"127",169.3,"bajocian",31392,-43.0884,33.7972,37,1
+"117068",167210,"col","Sawtooth",-111.57,45.36,"USGS Mesozoic Loc. 22170 - Jack Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.88,35.56,"127",169.3,"bajocian",31392,-43.0884,33.7972,37,1
+"117069",167211,"col","Sawtooth",-111.28,45.28,"USGS Mesozoic Loc. 28758 - near Gallatin River",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.62,35.54,"127",169.3,"bajocian",31393,-43.0884,33.7972,37,1
+"117070",167212,"col","Sawtooth",-111.19,44.87,"USGS Mesozoic Loc. 28670 - Red Canyon Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.41,35.16,"127",169.3,"bajocian",31394,-43.0884,33.7972,37,1
+"117071",167213,"col","Sawtooth",-111.19,44.87,"USGS Mesozoic Loc. 28800 - Red Canyon Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.41,35.16,"127",169.3,"bajocian",31394,-43.0884,33.7972,37,1
+"117072",167214,"col","Piper",-109.1,48.21,"USGS Mesozoic Loc. 8096 - East end of Bearpaw Mtns.",NA,"",0,"Bajocian","",170.3,168.3,54548,"gp_mid",-33.12,36.58,"101",169.3,"bajocian",31395,-39.2958,35.5997,37,1
+"117073",167215,"col","Piper",-110.91,45.64,"USGS Mesozoic Loc. 19153 - Rocky Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.46,34.47,"101",169.3,"bajocian",31396,-43.0884,33.7972,37,1
+"117074",167216,"col","Piper",-110.91,45.64,"USGS Mesozoic Loc. 19158 - Rocky Creek",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.46,34.47,"101",169.3,"bajocian",31396,-43.0884,33.7972,37,1
+"117075",167217,"col","Piper",-110.58,45.61,"USGS Mesozoic Loc. 15635 - Yellowstone Canyon",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.2,34.36,"101",169.3,"bajocian",31397,-40,33.1682,37,1
+"117076",167218,"col","Piper",-110.58,45.59,"USGS Mesozoic Loc. 19214 - Lower canyon on Yellowstone River",NA,"",3,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.21,34.35,"101",169.3,"bajocian",31398,-40,33.1682,37,1
+"117077",167219,"col","Piper",-110.58,45.62,"USGS Mesozoic Loc. 25866 - Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.21,34.38,"101",169.3,"bajocian",31399,-40,33.1682,37,1
+"117078",167220,"col","Piper",-110.59,45.63,"USGS Mesozoic Loc. 27628 - Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.2,34.39,"101",169.3,"bajocian",31400,-40,33.1682,37,1
+"117079",167221,"col","Piper",-110.2,45.56,"USGS Mesozoic Loc. 19630 - Boulder River",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.92,34.24,"101",169.3,"bajocian",31401,-40,33.1682,37,1
+"117080",167222,"col","Piper",-110.2,45.56,"USGS Mesozoic Loc. 27624 - Boulder River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.92,34.24,"101",169.3,"bajocian",31401,-40,33.1682,37,1
+"117081",167223,"col","Piper",-110.65,45.5,"USGS Mesozoic Loc. 27035 - Near Yellowstone River",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-35.3,34.28,"101",169.3,"bajocian",31402,-43.0884,33.7972,37,1
+"117083",167225,"col","Piper",-110.79,45.08,"USGS Mesozoic Loc. 5738 - Northwest of Electric",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.14,35.43,"127",169.3,"bajocian",31404,-43.0884,33.7972,37,1
+"117085",167227,"col","Piper",-110.8,45.1,"USGS Mesozoic Loc. 19621 - Cinnabar Mountain",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-40.16,35.45,"127",169.3,"bajocian",31406,-43.0884,33.7972,37,1
+"117086",167228,"col","Piper",-108.8,45.2,"USGS Mesozoic Loc. 17662 - Red Dome",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-33.89,33.63,"101",169.3,"bajocian",31407,-40,33.1682,37,1
+"117087",167229,"col","Piper",-108.78,45.2,"USGS Mesozoic Loc. 20864 - Red Dome",NA,"",2,"Bajocian","",170.3,168.3,54548,"gp_mid",-33.87,33.63,"101",169.3,"bajocian",31408,-40,33.1682,37,1
+"117090",167241,"col","Gypsum Spring",-109.04,44.43,"USGS Mesozoic Loc. 17096 - Gypsum Spring Fm.",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.33,32.93,"101",169.3,"bajocian",31409,-40,33.1682,37,1
+"117091",167242,"col","Gypsum Spring",-109.04,44.43,"USGS Mesozoic Loc. 17105 - Gypsum Spring Fm.",NA,"",1,"Bajocian","",170.3,168.3,54548,"gp_mid",-34.33,32.93,"101",169.3,"bajocian",31409,-40,33.1682,37,1
+"118088",169180,"col","Guemgouma",9.7,35.1,"KEKE.14, Khechem El Kelb Est, Jebel Sidi Khalif",NA,"",4,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,"bajocian",31624,19.3234,20.3589,37,1
+"118095",169187,"col","Khechem El Kelb",9.7,35.22,"CHA.9, Châabet El Attaris",NA,"",2,"Bajocian","",170.3,168.3,55260,"gp_mid",23.99,19.73,"714",169.3,"bajocian",31627,19.3234,20.3589,37,1
+"118108",169200,"col","Guemgouma",9.7,35.1,"KEK.14, Khechem El Kelb, Jebel Sidi Khalif",NA,"",9,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,"bajocian",31624,19.3234,20.3589,37,1
+"118111",169203,"col","Guemgouma",9.7,35.1,"KEK.13, Khechem El Kelb, Jebel Sidi Khalif",NA,"",2,"Bajocian","",170.3,168.3,55260,"gp_mid",23.93,19.63,"714",169.3,"bajocian",31624,19.3234,20.3589,37,1
+"118770",170008,"col","",4.82,45.86,"Albigny",NA,"",6,"Bajocian","",170.3,168.3,53744,"gp_mid",26.92,30.99,"305",169.3,"bajocian",31692,28.4405,33.4558,37,1
+"118772",170011,"col","",4.83,45.85,"Couzon Quarry",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",26.93,30.99,"305",169.3,"bajocian",31693,28.4405,33.4558,37,1
+"118775",170014,"col","",4.81,45.86,"Poleymieux-la-Riviere ",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",26.91,30.98,"305",169.3,"bajocian",31694,28.4405,33.4558,37,1
+"119054",170326,"col","Inferior Oolite",-2.72,50.7,"Burton Bradstock (Baber collection)",NA,"",2,"Bajocian","",170.3,168.3,54242,"gp_mid",20.23,35.13,"315",169.3,"bajocian",5544,20.4343,36.1796,37,1
+"119184",170482,"col","",5.63,46.14,"Nantua (Unit 4)",NA,"",3,"Bajocian","",170.3,168.3,53744,"gp_mid",27.52,31.35,"305",169.3,"bajocian",31758,7.5,45,37,1
+"119249",170550,"col","",9.99,36.24,"Djebel Bent Saidane east, bed 7",NA,"",1,"Bajocian","",170.3,168.3,55572,"gp_mid",24.7,20.54,"714",169.3,"bajocian",31767,19.3234,20.3589,37,1
+"119279",170580,"col","",5.39,45.86,"Gaunet Quarry (Middle Bajocian)",NA,"",1,"Bajocian","",170.3,168.3,53744,"gp_mid",27.38,31.05,"305",169.3,"bajocian",31772,28.4405,33.4558,37,1
+"119314",170618,"col","",5.32,45.8,"Torjonas",NA,"",5,"Bajocian","",170.3,168.3,53744,"gp_mid",27.33,30.98,"305",169.3,"bajocian",31780,28.4405,33.4558,37,1
+"119338",170642,"col","",4.81,45.86,"Poleymieux-la-Riviere (MHNL)",NA,"",2,"Bajocian","",170.3,168.3,53744,"gp_mid",26.91,30.98,"305",169.3,"bajocian",31694,28.4405,33.4558,37,1
+"119339",170643,"col","",4.83,45.85,"Couzon Quarry (MHNL)",NA,"",1,"Bajocian","",170.3,168.3,53744,"gp_mid",26.93,30.99,"305",169.3,"bajocian",31693,28.4405,33.4558,37,1
+"119450",171014,"col","",-2.51,50.94,"Sherborne (Niortense)",NA,"",1,"Bajocian","",170.3,168.3,52872,"gp_mid",20.36,35.38,"315",169.3,"bajocian",31801,20.4343,36.1796,37,1
+"126545",182710,"col","",174.76,-38.3,"McF 10M2, Marokopa Valley road quarry (R16/f0428)",NA,"",2,"Bajocian","",170.3,168.3,60902,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"126546",182711,"col","",174.76,-38.3,"McF 14M4, Marokopa Valley road quarry (R16/f0428)",NA,"",2,"Bajocian","",170.3,168.3,60902,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"126547",182712,"col","",174.76,-38.3,"McF 13M3, Marokopa Valley road quarry (R16/f0433)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"126548",182713,"col","",174.76,-38.3,"McF 15M1, Marokopa Valley road quarry (R16/f0434)",NA,"",2,"Bajocian","",170.3,168.3,60902,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"126561",182727,"col","",174.8,-38.49,"AU 11449, Te Whakopatiki Stream (R17/f572)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",80.55,-79.37,"806",169.3,"bajocian",33512,-25.259,-86.6009,37,1
+"126589",182756,"col","",174.76,-38.3,"Hamish Hudson collection, Lindern Hills quarry, Marokopa Valley (R16/f8901)",NA,"",2,"Bajocian","",170.3,168.3,60902,"gp_mid",81.59,-79.36,"806",169.3,"bajocian",25767,-25.259,-86.6009,37,1
+"126615",182782,"col","",174.8,-38.49,"AU 11453, Te Whakopatiki Stream (R17/f573)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",80.55,-79.37,"806",169.3,"bajocian",33512,-25.259,-86.6009,37,1
+"126619",182786,"col","",174.81,-38.46,"AU 11487, upper Awakino Valley (R17/f395)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",80.71,-79.38,"806",169.3,"bajocian",25803,-25.259,-86.6009,37,1
+"126620",182787,"col","",174.8,-38.48,"AU 9339, upper Awakino Valley (R17/f367)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",80.59,-79.37,"806",169.3,"bajocian",33517,-25.259,-86.6009,37,1
+"126621",182788,"col","",174.81,-38.49,"AU 11428, upper Awakino Valley (R17/f556)",NA,"",1,"Bajocian","",170.3,168.3,60902,"gp_mid",80.54,-79.38,"806",169.3,"bajocian",33518,-25.259,-86.6009,37,1
+"130846",190123,"col","Hojedk",56.57,30.82," 5 km southwest of the village of Dashtkhak",NA,"",3,"Bajocian","",170.3,168.3,63941,"gp_mid",75.4,26.39,"505",169.3,"bajocian",34469,76.4753,37.5985,37,1
+"133456",195976,"col","",-2.82,50.85,"Seaborough Court",NA,"",1,"Bajocian","",170.3,168.3,66694,"gp_mid",20.14,35.27,"315",169.3,"bajocian",35092,20.4343,36.1796,37,1
+"136082",201060,"col","",18.16,49.04,"Drieňová Hora Klippe, Pieniny Klippen Belt",NA,"",3,"Bajocian","",170.3,168.3,68890,"gp_mid",36.82,35.78,"305",169.3,"bajocian",35695,37.3236,42.3005,37,1
+"136083",201061,"col","",18.19,49.05,"Malé Hradište Klippe, Pieniny Klippen Belt",NA,"",17,"Bajocian","",170.3,168.3,68890,"gp_mid",36.84,35.8,"305",169.3,"bajocian",35696,37.3236,42.3005,37,1
+"136084",201062,"col","",18.16,49.07,"Vršatec-Javorníky Klippe, Pieniny Klippen Belt",NA,"",7,"Bajocian","",170.3,168.3,68890,"gp_mid",36.81,35.81,"305",169.3,"bajocian",35697,37.3236,42.3005,37,1
+"136827",202418,"col","Snowshoe",-118.9,44.42,"USGS Loc. 21610. Suplee Area",NA,"USGS Mesozoic Collection 21610; 149-8-17B",4,"Bajocian","",170.3,168.3,69359,"gp_mid",-44.18,32.84,"129",169.3,"bajocian",35893,-49.6515,35.1635,37,1
+"137636",203365,"col","",19.78,39.69,"Kurkuli, Corfu",NA,"",1,"Bajocian","",170.3,168.3,69734,"gp_mid",32.7,15.99,"307",169.3,"bajocian",36034,40.8009,18.313,37,1
+"138359",204712,"col","",-4.5,31.98,"Errachidia, near Oued Almou",NA,"",1,"Bajocian","",170.3,168.3,70241,"gp_mid",11.2,22.55,"714",169.3,"bajocian",36229,5.7668,23.6126,37,1

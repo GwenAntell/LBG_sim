@@ -1,172 +1,202 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"14446",28304,"col","Sahabi",20,30,"Sahabi Fauna locality P61A",NA,"",6,"Messinian","",7.246,5.333,7765,"gp_mid",20.48,28.42,"715",6.2895,1
-"14450",28309,"col","Sahabi",20,30,"Sahabi Fauna Locality P34A",NA,"",6,"Messinian","",7.246,5.333,7765,"gp_mid",20.48,28.42,"715",6.2895,1
-"19994",34687,"col","Novaglie",18.366667,39.783333,"Salento Peninsula, Halimeda bioherms",NA,"Reef 3206",8,"Messinian","",7.246,5.333,9186,"gp_mid",19.1,38.22,"307",6.2895,1
-"19995",34688,"col","Novaglie",18.383333,39.866669,"Salento Peninsula, Porites reefs",NA,"Reef 3205",27,"Messinian","",7.246,5.333,9186,"gp_mid",19.12,38.31,"307",6.2895,1
-"33312",51721,"col","Eastover",-76.78083,37.175278,"Locality 503 (Eastover Fm)",NA,"Pleasant Point",2,"Messinian","",7.246,5.333,13777,"gp_mid",-74.11,37.98,"109",6.2895,1
-"35948",55535,"col","Bahia Inglesa",-70.841667,-27.080833,"Bahia Inglesa",NA,"",14,"Messinian","",7.246,5.333,15001,"gp_mid",-69.47,-26.75,"291",6.2895,1
-"39060",59148,"col","Sisquoc",-120.451111,34.620834,"Celite Company quarry 9",NA,"",3,"Messinian","",7.246,5.333,12663,"gp_mid",-117.94,35.74,"105",6.2895,1
-"39954",60247,"col","",33.669167,45.531113,"Kulikova",NA,"",1,"Messinian","",7.246,5.333,17253,"gp_mid",33.88,44.3,"302",6.2895,1
-"40367",60690,"col","Chagres Sandstone",-79.961945,9.147222,"Locality 194 - Toro Limestone",NA,"USGS #8473",4,"Messinian","",7.246,5.333,11306,"gp_mid",-78.46,9.8,"230",6.2895,1
-"40368",60691,"col","Chagres Sandstone",-79.961945,9.147222,"Locality 195 - Toro Limestone",NA,"USGS #8403",6,"Messinian","",7.246,5.333,11306,"gp_mid",-78.46,9.8,"230",6.2895,1
-"40369",60692,"col","Chagres Sandstone",-79.961945,9.147222,"Locality 196 - Toro Limestone",NA,"USGS #8405",14,"Messinian","",7.246,5.333,11306,"gp_mid",-78.46,9.8,"230",6.2895,1
-"40370",60693,"col","Chagres Sandstone",-80.047501,9.146111,"Locality 198 - Chagres Sandstone",NA,"USGS #8484",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.54,9.8,"230",6.2895,1
-"40371",60694,"col","Chagres Sandstone",-80.047501,9.146111,"Locality 199 - Chagres Sandstone",NA,"USGS #8443",3,"Messinian","",7.246,5.333,11306,"gp_mid",-78.54,9.8,"230",6.2895,1
-"40372",60695,"col","Chagres Sandstone",-81.699997,8.85,"Locality 201 - Chagres Sandstone",NA,"USGS #8439",7,"Messinian","",7.246,5.333,11306,"gp_mid",-80.2,9.53,"230",6.2895,1
-"40373",60696,"col","Chagres Sandstone",-79.961945,9.147222,"Locality 202 - Chagres Sandstone",NA,"USGS #8389",4,"Messinian","",7.246,5.333,11306,"gp_mid",-78.46,9.8,"230",6.2895,1
-"40374",60697,"col","Chagres Sandstone",-80.086113,9.234444,"Locality 203 - Chagres Sandstone",NA,"USGS #8436",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.58,9.88,"230",6.2895,1
-"40376",60699,"col","Chagres Sandstone",-80.047501,9.279444,"Locality 206 - Chagres Sandstone",NA,"USGS #16937",10,"Messinian","",7.246,5.333,11306,"gp_mid",-78.54,9.93,"230",6.2895,1
-"40377",60700,"col","Chagres Sandstone",-80.047501,9.279444,"Locality 206a - Chagres Sandstone",60699,"Stanford #2699",4,"Messinian","",7.246,5.333,11306,"gp_mid",-78.54,9.93,"230",6.2895,1
-"40378",60701,"col","Chagres Sandstone",-80.047501,9.279444,"Locality 206b - Chagres Sandstone",60699,"USGS #16938",5,"Messinian","",7.246,5.333,11306,"gp_mid",-78.54,9.93,"230",6.2895,1
-"40476",60802,"col","",-70.255554,11.201667,"Hodson Loc. 69",NA,"",9,"Messinian","",7.246,5.333,17421,"gp_mid",-68.36,11.52,"203",6.2895,1
-"40687",61044,"col","",-70.166664,10.833333,"Hodson Loc. 98",NA,"",7,"Messinian","",7.246,5.333,17421,"gp_mid",-68.28,11.15,"203",6.2895,1
-"40801",61165,"col","Chagres Sandstone",-79.933334,9.3,"Locality 187 - Toro Limestone",NA,"Stanford University Loc.# 2700",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.43,9.95,"230",6.2895,1
-"40803",61167,"col","Chagres Sandstone",-79.93,9.262778,"Locality 188 - Toro Limestone",NA,"USGS# 16946",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.91,"230",6.2895,1
-"40804",61168,"col","Chagres Sandstone",-79.93,9.262778,"Locality 188a - Toro Limestone",NA,"USGS# 5909",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.91,"230",6.2895,1
-"40807",61170,"col","Chagres Sandstone",-79.93,9.262778,"Locality 188b - Toro Limestone",NA,"USGS# 6034",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.91,"230",6.2895,1
-"40808",61171,"col","Chagres Sandstone",-79.93,9.262778,"Locality 188c - Toro Limestone",NA,"USGS# 6668",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.91,"230",6.2895,1
-"40810",61173,"col","Chagres Sandstone",-79.93,9.262778,"Locality 188d - Toro Limestone",NA,"USGS# 6236",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.91,"230",6.2895,1
-"40811",61174,"col","Chagres Sandstone",-79.923332,9.270556,"Locality 188e - Toro Limestone",NA,"USGS# 8442",2,"Messinian","",7.246,5.333,11306,"gp_mid",-78.42,9.92,"230",6.2895,1
-"40814",61177,"col","Chagres Sandstone",-79.917503,9.270556,"Locality 189 - Toro Limestone",NA,"USGS# 8392",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.41,9.92,"230",6.2895,1
-"40816",61179,"col","Chagres Sandstone",-79.917503,9.270556,"Locality 190 - Toro Limestone",NA,"USGS# 8402",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.41,9.92,"230",6.2895,1
-"40820",61183,"col","Chagres Sandstone",-79.917503,9.270556,"Locality 193 - Toro Limestone",NA,"USGS# 8401",3,"Messinian","",7.246,5.333,11306,"gp_mid",-78.41,9.92,"230",6.2895,1
-"40821",61184,"col","Chagres Sandstone",-79.917503,9.270556,"Locality 197 - Chagres Sandstone",NA,"USGS #8482",3,"Messinian","",7.246,5.333,11306,"gp_mid",-78.41,9.92,"230",6.2895,1
-"40823",61186,"col","Chagres Sandstone",-81.699997,8.85,"Locality 200 - Chagres Sandstone",NA,"USGS #8406",3,"Messinian","",7.246,5.333,11306,"gp_mid",-80.2,9.53,"230",6.2895,1
-"40826",61189,"col","Chagres Sandstone",-80.086113,9.234444,"Locality 207 - Chagres Sandstone",NA,"USGS #16969",1,"Messinian","",7.246,5.333,11306,"gp_mid",-78.58,9.88,"230",6.2895,1
-"40966",61346,"col","Nancy Point",-81.789719,9.066161,"PPP# 390 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17856",17,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,1
-"40967",61347,"col","Nancy Point",-81.79084,9.065647,"PPP# 391 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17858",42,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,1
-"40968",61348,"col","Nancy Point",-81.79084,9.065647,"PPP# 392 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17857",9,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,1
-"40969",61349,"col","Nancy Point",-81.802841,9.06475,"PPP# 396 - Butchuqua [Nancy Point Fm]",NA,"NMB Loc. 17858; 88-40-01",4,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,1
-"40970",61350,"col","Nancy Point",-81.802841,9.06475,"PPP# 400 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17860",8,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,1
-"46608",69528,"col","Kume",140.488052,36.535,"Kanasago-machi",NA,"Hitachiota",2,"Messinian","",7.246,5.333,23345,"gp_mid",139.23,36.28,"610",6.2895,1
-"46853",69898,"col","Rosignano Limestone",10.466667,43.400002,"Acquabona Reef, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",12,"Messinian","",7.246,5.333,23452,"gp_mid",11.49,41.98,"307",6.2895,1
-"48031",71534,"col","Eastover",-76.722221,37.786945,"Laytons Landing, Zone 25",NA,"",4,"Messinian","",7.246,5.333,16985,"gp_mid",-74.02,38.59,"109",6.2895,1
-"48032",71618,"col","Eastover",-76.722221,37.786945,"Laytons Landing, Zone 26",NA,"",12,"Messinian","",7.246,5.333,16985,"gp_mid",-74.02,38.59,"109",6.2895,1
-"48033",71535,"col","Eastover",-76.770554,37.171665,"Cobham Wharf, Zone 25",NA,"",8,"Messinian","",7.246,5.333,16985,"gp_mid",-74.1,37.97,"109",6.2895,1
-"48034",71619,"col","Eastover",-76.770554,37.171665,"Cobham Wharf, Zone 26",NA,"",19,"Messinian","",7.246,5.333,16985,"gp_mid",-74.1,37.97,"109",6.2895,1
-"48035",71536,"col","Eastover",-76.752777,37.822777,"Bowlers Wharf, Zone 26",NA,"",15,"Messinian","",7.246,5.333,16985,"gp_mid",-74.05,38.63,"109",6.2895,1
-"48036",71622,"col","Eastover",-76.825279,37.204445,"Mount Pleasant, Zone 25",NA,"",4,"Messinian","",7.246,5.333,16985,"gp_mid",-74.16,38.01,"109",6.2895,1
-"48094",71623,"col","Eastover",-76.825279,37.204445,"Mount Pleasant, Zone 26",NA,"",18,"Messinian","",7.246,5.333,16985,"gp_mid",-74.16,38.01,"109",6.2895,1
-"48114",71644,"col","Eastover",-76.800278,38.168888,"Haulover Inlet, Zone 25",NA,"",1,"Messinian","",7.246,5.333,16985,"gp_mid",-74.09,38.97,"109",6.2895,1
-"48116",71646,"col","Eastover",-76.923615,38.071388,"Carters Wharf, Zone 25",NA,"",2,"Messinian","",7.246,5.333,16985,"gp_mid",-74.21,38.88,"109",6.2895,1
-"48216",71820,"col","Eastover",-76.847778,38.166389,"Stratford Bluffs, Claremont Manor Member",NA,"Stratford Cliffs",1,"Messinian","",7.246,5.333,24251,"gp_mid",-74.13,38.97,"109",6.2895,1
-"48586",72311,"col","",23.85,40.783333,"Neopygnodonta navicularis assemblage zone, Strymon Basin",NA,"",10,"Messinian","",7.246,5.333,24517,"gp_mid",24.48,39.14,"308",6.2895,1
-"50566",76004,"col","Akaishi",140.883331,37.049999,"Iwaki, Akaishi Fm.",NA,"",2,"Messinian","",7.246,5.333,12148,"gp_mid",139.62,36.8,"610",6.2895,1
-"50646",76292,"col","",30.731943,46.461666,"Odessa, Pontian",NA,"",5,"Messinian","",7.246,5.333,24838,"gp_mid",31.01,45.24,"302",6.2895,1
-"50647",76293,"col","Odessa limestone",30.731943,46.461666,"Krivaya ravine",NA,"",2,"Messinian","",7.246,5.333,24838,"gp_mid",31.01,45.24,"302",6.2895,1
-"51884",78633,"col","",15.083333,40.333332,"Cava di Argilla, Salerno, G. mediterranea zone",NA,"",14,"Messinian","",7.246,5.333,26440,"gp_mid",15.91,38.83,"307",6.2895,1
-"52486",79795,"col","Nancy Point",-81.827316,9.09479,"PPP# 411 Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17861",9,"Messinian","",7.246,5.333,17667,"gp_mid",-80.33,9.78,"230",6.2895,1
-"52501",79846,"col","Chagres",-80.003059,9.32576,"PPP# 1076 - San Lorenzo [Chagres Sandstone]",NA,"NMB Loc. 18323",2,"Messinian","",7.246,5.333,17667,"gp_mid",-78.49,9.97,"230",6.2895,1
-"52502",79855,"col","Chagres Sandstone",-80.003059,9.32576,"PPP# 1188 - San Lorenzo [Chagres Sandstone]",NA,"",150,"Messinian","",7.246,5.333,17667,"gp_mid",-78.49,9.97,"230",6.2895,1
-"52533",79964,"col","Bayshore",-82.090553,26.97611,"Bayshore Canal [Port Charlotte Mbr, Bayshore Fm]",NA,"",8,"Messinian","",7.246,5.333,26813,"gp_mid",-79.88,27.93,"109",6.2895,1
-"55115",84053,"col","Horokaoshirarika",142.002777,43.805832,"Ishikari-Numata Station, east",NA,"",1,"Messinian","",7.246,5.333,12696,"gp_mid",140.6,43.57,"610",6.2895,1
-"55341",84454,"col","Bahia Inglesa",-70.787224,-27,"Estanques de Copec",NA,"",3,"Messinian","",7.246,5.333,28294,"gp_mid",-69.41,-26.67,"291",6.2895,1
-"55702",84912,"col","",167.350006,-46.216667,"GS 5170, S175/585 Port Craig",NA,"",3,"Kapitean","",6.5,5.333,29819,"gp_mid",173.05,-47.62,"807",5.9165,1
-"58817",89069,"col","",172.78334,-43.049999,"GS 3837, S61 Omihi Creek",NA,"",1,"Kapitean","",6.5,5.333,29819,"gp_mid",178.53,-44.39,"807",5.9165,1
-"59078",89551,"col","Eastover",-76.870834,38.170555,"Westmoreland State Park, Eastover Formation",NA,"",1,"Messinian","",7.246,5.333,29776,"gp_mid",-74.16,38.98,"109",6.2895,1
-"63684",95689,"col","",26.909445,37.735558,"Samos Quarry 4",NA,"",4,"Messinian","",7.246,5.333,32500,"gp_mid",27.19,36.53,"504",6.2895,1
-"63685",95690,"col","",26.88139,37.758331,"Samos Quarry 5",NA,"",5,"Messinian","",7.246,5.333,32500,"gp_mid",27.16,36.56,"504",6.2895,1
-"63686",95691,"col","",26.888056,37.755001,"Samos Quarry 1",NA,"",10,"Messinian","",7.246,5.333,32500,"gp_mid",27.17,36.55,"504",6.2895,1
-"64365",96701,"col","Tobabe",-81.809998,9.128056,"Small Plantain Cay",NA,"",1,"Messinian","",7.246,5.333,32976,"gp_mid",-80.31,9.81,"230",6.2895,1
-"64508",96972,"col","",17.235001,-30.167999,"Somnaas 2",NA,"",1,"Messinian","",7.246,5.333,13638,"gp_mid",16.66,-31.7,"701",6.2895,1
-"64513",96979,"col","",20,30,"Sahabi Fauna Locality P51",NA,"",1,"Messinian","",7.246,5.333,18922,"gp_mid",20.48,28.42,"715",6.2895,1
-"70625",105570,"col","",12.916,43.900002,"Monte Castellaro (Museo Fiorenzuola collection)",NA,"",1,"Messinian","",7.246,5.333,35265,"gp_mid",13.9,42.43,"307",6.2895,1
-"75406",111214,"col","Nancy Point",-81.789719,9.066161,"Nancy Point Formation (unspecified localities)",NA,"",6,"Messinian","",7.246,5.333,36423,"gp_mid",-80.29,9.75,"230",6.2895,1
-"77510",113886,"col","Gessoso-solfifera",12.9166,43.900002,"Monte Castellaro (MCSN collection)",NA,"",21,"Messinian","",7.246,5.333,47099,"gp_mid",13.9,42.43,"307",6.2895,1
-"77621",113998,"col","",8.083,44.716,"Alba",NA,"",51,"Messinian","",7.246,5.333,36994,"gp_mid",9.21,43.34,"307",6.2895,1
-"82702",120357,"col","Old Bank",-82.111954,9.319282,"CM08-6 Bastimentos Island, Bocas del Toro",NA,"",8,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10,"230",6.2895,1
-"82704",120359,"col","Old Bank",-82.110832,9.319452,"CM08-9b Bastimentos Island, Bocas del Toro",NA,"",5,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10,"230",6.2895,1
-"84177",122194,"col","",4.545,44.715,"Mont-Charay, Privas",NA,"",10,"Messinian","",7.246,5.333,38896,"gp_mid",5.31,43.71,"305",6.2895,1
-"85413",123861,"col","Eastover",-77.083336,36.450001,"Meherrin River",NA,"",1,"Messinian","",7.246,5.333,39849,"gp_mid",-74.45,37.26,"109",6.2895,1
-"85475",124409,"col","",8,44.73,"Alba, bed 3a",NA,"",1,"Messinian","",7.246,5.333,40149,"gp_mid",9.13,43.35,"307",6.2895,1
-"92335",133431,"col","Koetoi",141.956665,44.765556,"Kiyokawa Hidarimata Valley",NA,"",2,"Messinian","",7.246,5.333,42987,"gp_mid",140.53,44.53,"610",6.2895,1
-"94284",135816,"col","Nancy Point",-81.9524,9.148052,"PPP# 191 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 17629",128,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,1
-"94289",135821,"col","Nancy Point",-81.9524,9.148058,"PPP# 2212 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 18711",87,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,1
-"94290",135822,"col","Nancy Point",-81.9524,9.148058,"PPP# 1883 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 18771",38,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,1
-"94296",135828,"col","Nancy Point",-81.946106,9.140828,"PPP# 2206 - Punta de Toro [Nancy Point Fm]",NA,"NMB Loc. 18705",85,"Messinian","",7.246,5.333,17667,"gp_mid",-80.44,9.82,"230",6.2895,1
-"94297",135829,"col","Nancy Point",-81.946106,9.140828,"PPP# 2207 - Punta de Toro [Nancy Point Fm]",NA,"NMB Loc. 18706",16,"Messinian","",7.246,5.333,17667,"gp_mid",-80.44,9.82,"230",6.2895,1
-"94355",135887,"col","Nancy Point",-81.802841,9.06475,"PPP# 397 - Butchuqua [Nancy Point Fm]",NA,"NMB Loc. 17859; 88-41-01",12,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,1
-"94357",135889,"col","Nancy Point",-81.827316,9.09479,"PPP# 2189 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 18688",38,"Messinian","",7.246,5.333,17667,"gp_mid",-80.33,9.78,"230",6.2895,1
-"94389",135944,"col","Nancy Point",-81.952461,9.148058,"PPP# 477 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 17824; 88-00-46",83,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,1
-"96014",138020,"col","Novaglie",18.333332,39.783333,"Salento Peninsula, Leuca, Framework, branching Porites",34688,"Reef 3205",4,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,1
-"96023",138030,"col","Novaglie",18.333332,39.783333,"Salento Peninsula, Leuca, Framework, massive Porites",34688,"Reef 3205",1,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,1
-"96024",138031,"col","Novaglie",18.333332,39.783333,"Salento Peninsula, Leuca, Proximal slope, laminar Porites and vermetids",34688,"Reef 3205",3,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,1
-"96025",138032,"col","Novaglie",18.333332,39.783333,"Salento Peninsula, Leuca, Proximal slope, laminar Porites",34688,"Reef 3205",2,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,1
-"96026",138033,"col","Novaglie",18.333332,39.783333,"Salento Peninsula, Leuca, middle slope, calcarenite with Porites",34688,"Reef 3205",0,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,1
-"96027",138034,"col","Novaglie",18.366667,39.783333,"Salento Peninsula, Lighthouse, Framework, massive calcarenite",34688,"Reef 3205",5,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,1
-"96067",138074,"col","Novaglie",18.366667,39.783333,"Salento Peninsula, Lighthouse, Framework, branching coralline algae",34688,"Reef 3205",2,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,1
-"96068",138075,"col","Novaglie",18.366667,39.783333,"Salento, Lighthouse, middle slope, Porites framework",34688,"Reef 3205",10,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,1
-"96069",138076,"col","Novaglie",18.383333,39.866669,"Salento Peninsula, Ciolo, framework",34688,"Reef 3205",3,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,1
-"96070",138077,"col","Novaglie",18.383333,39.866669,"Salento Peninsula, Ciolo, middle slope",34688,"Reef 3205",6,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,1
-"96071",138078,"col","Novaglie",18.383333,39.866669,"Salento Peninsula, Ciolo, calcarenite with coralline algae",34688,"Reef 3205",1,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,1
-"96072",138079,"col","Novaglie",18.383333,39.866669,"Salento Peninsula, Ciolo, calcarenite with rhodoliths",34688,"Reef 3205",4,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,1
-"101615",144566,"col","Colombacci",11.766667,44.216667,"Monticino",NA,"Brisighella",49,"Messinian","",7.246,5.333,46758,"gp_mid",12.79,42.77,"307",6.2895,1
-"101643",144638,"col","Sahabi",17.5,30.5,"As Sahabi, Sirtica",NA,"Crocodylus checchiai type",1,"Messinian","",7.246,5.333,46802,"gp_mid",18.03,28.96,"715",6.2895,1
-"102212",145648,"col","",12.666667,43.849998,"Mondaino",NA,"",1,"Messinian","",7.246,5.333,47100,"gp_mid",13.65,42.39,"307",6.2895,1
-"107807",152652,"col","",13.21,43.720001,"Sinigallia (Scarabelli collection)",NA,"Senigallia, Sinigaglia",2,"Messinian","",7.246,5.333,49200,"gp_mid",14.18,42.25,"307",6.2895,1
-"107922",152993,"col","Alexander Bay",17.288,-30.195601,"Koingnass (50m Unit) (Carrington collection)",NA,"",5,"Messinian","",7.246,5.333,49292,"gp_mid",16.72,-31.73,"701",6.2895,1
-"107923",152994,"col","Alexander Bay",17.288,-30.195601,"Hondeklip (50m Unit)",NA,"",4,"Messinian","",7.246,5.333,49292,"gp_mid",16.72,-31.73,"701",6.2895,1
-"107928",153001,"col","Alexander Bay",17.288,-30.195601,"Koingnass (50m Unit) (coll. Pether)",NA,"",3,"Messinian","",7.246,5.333,49292,"gp_mid",16.72,-31.73,"701",6.2895,1
-"110361",156579,"col","",13.21,43.720001,"Sinigaglia (MCSNM collection)",NA,"Senigallia",2,"Messinian","",7.246,5.333,51329,"gp_mid",14.18,42.25,"307",6.2895,1
-"110681",157195,"col","",8.845,44.853001,"Carbonara Scrivia, Villalvernia",NA,"",1,"Messinian","",7.246,5.333,51528,"gp_mid",9.96,43.46,"307",6.2895,1
-"110688",157203,"col","",13.215,43.674999,"San Angelo, near Sinigaglia (NHMW collection)",NA,"Senigallia",1,"Messinian","",7.246,5.333,8345,"gp_mid",14.18,42.2,"307",6.2895,1
-"110731",157306,"col","Gessoso-solfifera",12.9166,43.900002,"Monte Castellaro (MTR collection)",NA,"",30,"Messinian","",7.246,5.333,51661,"gp_mid",13.9,42.43,"307",6.2895,1
-"110975",157594,"col","",-57.882778,-63.814167,"Ulu Peninsula",NA,"",6,"Messinian","",7.246,5.333,51351,"gp_mid",-59.5,-63.34,"803",6.2895,1
-"115592",164759,"col","",109,-7,"Gunung Linggapadang, Java",NA,"",3,"Messinian","",7.246,5.333,53783,"gp_mid",110.29,-7.64,"620",6.2895,1
-"116694",166428,"col","Krasnooktyabr’sk",40.049999,44.587517,"Polevoe 1",NA,"Adygei",3,"Messinian","",7.246,5.333,54350,"gp_mid",40.12,43.35,"302",6.2895,1
-"117461",167774,"col","",10.417,43.417,"Gabbro, Monti Livornesi",NA,"",1,"Messinian","",7.246,5.333,54816,"gp_mid",11.44,41.99,"307",6.2895,1
-"117865",168782,"col","",117.76667,1,"Bengalon",NA,"",13,"Messinian","",7.246,5.333,55182,"gp_mid",118.72,0.72,"620",6.2895,1
-"120582",172910,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"" (for unassigned specimens)",NA,"MCC",105,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120584",172912,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M3/4",NA,"MCC3/4",62,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120586",172914,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M4",NA,"MCC4",89,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120587",172915,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M4/5",NA,"MCC4/5",81,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120588",172916,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M5",NA,"MCC5",55,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120589",172917,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M7+25",NA,"",27,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120591",172924,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M7+60",NA,"",23,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120592",172925,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M7+80",NA,"",13,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120593",172926,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M2014",NA,"",20,"Messinian","",7.246,5.333,56210,"gp_mid",9.08,43.68,"307",6.2895,1
-"120595",172931,"col","Chagres",-80.047218,9.281944,"STRI 650009 ",NA,"",1,"Messinian","",7.246,5.333,56220,"gp_mid",-78.54,9.93,"230",6.2895,1
-"120866",173659,"col","",117.723511,0.83528,"TF518 Sangkulirang",NA,"Kampung Narut",1,"Messinian","",7.246,5.333,56099,"gp_mid",118.69,0.55,"620",6.2895,1
-"120867",173660,"col","",117.735565,0.770835,"TF510 Sangkulirang",NA,"Sekarat 3D Reef",0,"Messinian","",7.246,5.333,56099,"gp_mid",118.7,0.49,"620",6.2895,1
-"120868",173661,"col","",117.735611,0.771791,"TF511 Sangkulirang",NA,"Sekarat Top Reef",2,"Messinian","",7.246,5.333,56099,"gp_mid",118.7,0.49,"620",6.2895,1
-"120869",173662,"col","",117.73156,0.773221,"TF512 Sangkulirang",NA,"PIK-hauling Road 1",0,"Messinian","",7.246,5.333,56099,"gp_mid",118.7,0.49,"620",6.2895,1
-"124773",179732,"col","Eastover",-76.83139,38.163334,"Stratford Hall, Messinian",NA,"",51,"Messinian","",7.246,5.333,62831,"gp_mid",-74.12,38.97,"109",6.2895,1
-"124859",179820,"col","",167.401001,-46.153,"Bluecliff, west end of Te Waewae Bay (S175/611)",NA,"",3,"Kapitean","",6.5,5.333,59648,"gp_mid",173.1,-47.56,"807",5.9165,1
-"125024",180103,"col","",173.235001,-42.847,"GS 10226, north of Domett (S62/f988)",NA,"",15,"Kapitean","",6.5,5.333,59708,"gp_mid",178.99,-44.18,"807",5.9165,1
-"128940",186575,"col","",8.666667,44.983334,"Pecetto di Valenza",NA,"",17,"Messinian","",7.246,5.333,62554,"gp_mid",9.79,43.59,"307",6.2895,1
-"128941",186576,"col","",12.033333,44.083332,"Mondaino",NA,"",35,"Messinian","",7.246,5.333,62554,"gp_mid",13.04,42.63,"307",6.2895,1
-"128942",186577,"col","",13.21,43.720001,"Sinigallia",NA,"Senigallia, Sinigaglia",21,"Messinian","",7.246,5.333,62554,"gp_mid",14.18,42.25,"307",6.2895,1
-"132952",195033,"col","Pancho Rico",-120.830002,35.740002,"USGS Cenozoic M2047 San Luis Obispo",NA,"UCMP IP7043",7,"Messinian","",7.246,5.333,66206,"gp_mid",-118.32,36.86,"105",6.2895,1
-"132953",195034,"col","Pancho Rico",-120.809998,35.73,"USGS Cenozoic M2050 San Luis Obispo",NA,"UCMP IP7046",21,"Messinian","",7.246,5.333,66206,"gp_mid",-118.3,36.85,"105",6.2895,1
-"135411",199859,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M7 (generic)",NA,"MCC7",78,"Messinian","",7.246,5.333,67968,"gp_mid",9.08,43.68,"307",6.2895,1
-"135412",199860,"col","facies à Congeria",7.933333,45.049999,"Torino Hill,  Moncucco Torinese, ""facies à Congeria"", M3",NA,"MCC3",67,"Messinian","",7.246,5.333,67968,"gp_mid",9.08,43.68,"307",6.2895,1
-"136447",201953,"col","Chepotsunai",141.665833,44.319443,"Tomamae",NA,"",1,"Messinian","",7.246,5.333,61710,"gp_mid",140.25,44.08,"610",6.2895,1
-"136630",202179,"col","",174.442261,-39.473793,"Makino River, on Stanley Road",NA,"",1,"Kapitean","",6.5,5.333,44711,"gp_mid",176.86,-41.45,"806",5.9165,1
-"136657",202214,"col","Mikindani",40.18639,-10.258056,"Mtwara Bay",NA,"",46,"Messinian","",7.246,5.333,69296,"gp_mid",40.13,-12.04,"701",6.2895,1
-"139759",206460,"col","",26.888056,37.755001,"Samos Quarry 2",NA,"",3,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,1
-"139760",206461,"col","",26.888056,37.755001,"Samos A",NA,"",2,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,1
-"139761",206462,"col","",26.888056,37.755001,"Samos Quarry 6",NA,"",2,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,1
-"139762",206463,"col","",26.888056,37.755001,"Samos Quarry I",NA,"near the old German excavation",1,"Messinian","",7.246,5.333,70961,"gp_mid",27.17,36.55,"504",6.2895,1
-"142236",210229,"col","",7.931944,44.698891,"S. Vittoria d'Alba",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",9.06,43.32,"307",6.2895,1
-"142237",210230,"col","",7.921389,44.716667,"Monticello d'Alba",NA,"",4,"Messinian","",7.246,5.333,72530,"gp_mid",9.05,43.34,"307",6.2895,1
-"142238",210231,"col","",7.995,44.712776,"Scaparoni",NA,"",5,"Messinian","",7.246,5.333,72530,"gp_mid",9.13,43.34,"307",6.2895,1
-"142239",210232,"col","",7.980278,44.733334,"Piobesi",NA,"",3,"Messinian","",7.246,5.333,72530,"gp_mid",9.11,43.36,"307",6.2895,1
-"142240",210233,"col","",8.030833,44.737778,"Guarene",NA,"",2,"Messinian","",7.246,5.333,72530,"gp_mid",9.16,43.36,"307",6.2895,1
-"142241",210234,"col","",8.031667,44.754166,"Catagnito",NA,"",4,"Messinian","",7.246,5.333,72530,"gp_mid",9.16,43.38,"307",6.2895,1
-"142242",210235,"col","",11.471111,45.564167,"Costigiola",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",12.55,44.12,"307",6.2895,1
-"142243",210236,"col","",7.858333,44.647221,"Cherasco",NA,"",7,"Messinian","",7.246,5.333,72530,"gp_mid",8.99,43.27,"307",6.2895,1
-"142244",210237,"col","",12.361667,45.412224,"San Lazzaro",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.41,43.95,"307",6.2895,1
-"142245",210238,"col","",11.385,44.319168,"Monte Formiche",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",12.42,42.88,"307",6.2895,1
-"142246",210239,"col","",11.588333,44.279999,"Borgo Tossignano",NA,"",4,"Messinian","",7.246,5.333,72530,"gp_mid",12.62,42.84,"307",6.2895,1
-"142247",210240,"col","",11.775833,44.222778,"Brisighella, Miocene marine",NA,"",5,"Messinian","",7.246,5.333,72530,"gp_mid",12.8,42.77,"307",6.2895,1
-"142248",210241,"col","",12.441667,43.729721,"Lunano",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.43,42.27,"307",6.2895,1
-"142249",210242,"col","",12.494167,43.695831,"Peglio",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.48,42.23,"307",6.2895,1
-"142250",210243,"col","",13.335556,43.517776,"Faeti",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.3,42.04,"307",6.2895,1
-"142251",210244,"col","",13.343611,43.5425,"Camignone",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.31,42.07,"307",6.2895,1
-"142252",210245,"col","",12.849444,43.657501,"Isola Di Fano",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.83,42.19,"307",6.2895,1
-"142253",210246,"col","",15.967778,41.704445,"Monte S. Angelo",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",16.81,40.18,"307",6.2895,1
-"142254",210247,"col","",13.518889,43.615833,"Ancona",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.48,42.14,"307",6.2895,1
-"142255",210248,"col","",12.316667,42.683334,"Monte Castllaro",NA,"",11,"Messinian","",7.246,5.333,72530,"gp_mid",13.27,41.23,"307",6.2895,1
-"142258",210251,"col","",13.21,43.720001,"Sinigallia, terrestrial",NA,"Senigallia, Sinigaglia",18,"Messinian","",7.246,5.333,72530,"gp_mid",14.18,42.25,"307",6.2895,1
-"142261",210254,"col","",12.480278,44.018612,"Podere Pane et Vino",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.48,42.56,"307",6.2895,1
-"142541",210640,"col","",12.633708,43.879044,"Monte Maggiore",NA,"Montefiore Conca",27,"Messinian","",7.246,5.333,72687,"gp_mid",13.62,42.42,"307",6.2895,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"14446",28304,"col","Sahabi",20,30,"Sahabi Fauna locality P61A",NA,"",6,"Messinian","",7.246,5.333,7765,"gp_mid",20.48,28.42,"715",6.2895,"messinian",2820,18.2596,29.1959,5,1
+"14450",28309,"col","Sahabi",20,30,"Sahabi Fauna Locality P34A",NA,"",6,"Messinian","",7.246,5.333,7765,"gp_mid",20.48,28.42,"715",6.2895,"messinian",2820,18.2596,29.1959,5,1
+"19824",34433,"col","",-1.87,36.95,"Mesa de Roldán, Spain",NA,"Reef 665",5,"Messinian","",7.246,5.333,9063,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",3949,-0.5662,37.1117,5,1
+"19994",34687,"col","Novaglie",18.37,39.78,"Salento Peninsula, Halimeda bioherms",NA,"Reef 3206",8,"Messinian","",7.246,5.333,9186,"gp_mid",19.1,38.22,"307",6.2895,"messinian",3986,18.5054,39.0968,5,1
+"19995",34688,"col","Novaglie",18.38,39.87,"Salento Peninsula, Porites reefs",NA,"Reef 3205",27,"Messinian","",7.246,5.333,9186,"gp_mid",19.12,38.31,"307",6.2895,"messinian",3987,18.5054,39.0968,5,1
+"20029",34723,"col","",-4.65,33.97,"Bir Tam Tam, Morocco",NA,"Reef 674",74,"Messinian","",7.246,5.333,9206,"gp_mid",-3.7,32.88,"707",6.2895,"messinian",4001,-3.988,34.391,5,1
+"20254",35034,"col","",-3,35.33,"Messadit section (Unit 2), Morocco",NA,"Messadit section (lower), Morocco",3,"Messinian","",7.246,5.333,9413,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",4059,-3.988,34.391,5,1
+"20255",35035,"col","",-3,35.33,"Messadit section (Unit 3), Morocco",NA,"Messadit section (upper), Morocco",6,"Messinian","",7.246,5.333,9413,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",4059,-3.988,34.391,5,1
+"20256",35036,"col","",-3,35.33,"Ifounassene section (Unit 3), Morocco",NA,"Ifounassene section (lower), Morocco",1,"Messinian","",7.246,5.333,9413,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",4059,-3.988,34.391,5,1
+"20257",35037,"col","",-3,35.33,"Bou Hamza section (Unit 3), Morocco",NA,"Bou Hamza section (lower), Morocco",2,"Messinian","",7.246,5.333,9413,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",4059,-3.988,34.391,5,1
+"24518",41028,"col","Seroe Domi",-68.9,12.1,"Salina, salinaE_53, Curacao",NA,"Reef 2679",9,"Messinian","",7.246,5.333,11055,"gp_mid",-66.99,12.4,"203",6.2895,"messinian",5187,-68.3203,11.9622,5,1
+"28114",45499,"col","Towsley",-118.45,34.4,"Humphreys",NA,"UCMP V2202, LACM (CIT) 441",2,"Messinian","",7.246,5.333,11913,"gp_mid",-115.91,35.52,"105",6.2895,"messinian",6348,-117.0116,33.8762,5,1
+"28501",45921,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/1",NA,"",3,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"28502",45922,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/2",NA,"",3,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"28503",45923,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/3",NA,"",3,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"28504",45924,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/4",NA,"",2,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"28505",45925,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/5",NA,"",5,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"28508",45928,"col","",42,42.25,"Pontian and Maeotian deposits of the Kolkhidskaya Lowlands - Package 5/6",NA,"",7,"Messinian","",7.246,5.333,12232,"gp_mid",42.03,41.02,"511",6.2895,"messinian",6539,40.4721,42.252,5,1
+"33312",51721,"col","Eastover",-76.78,37.18,"Locality 503 (Eastover Fm)",NA,"Pleasant Point",2,"Messinian","",7.246,5.333,13777,"gp_mid",-74.11,37.98,"109",6.2895,"messinian",7969,-73.5376,37.6292,5,1
+"36827",56687,"col","Brèches rouges de Carboneras",-1.32,37.6,"Brèches rouges de Carboneras, Bathyal, Late Miocene, SE Spain",NA,"",116,"Messinian","",7.246,5.333,15265,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",8906,-0.5662,37.1117,5,1
+"39060",59148,"col","Sisquoc",-120.45,34.62,"Celite Company quarry 9",NA,"",3,"Messinian","",7.246,5.333,12663,"gp_mid",-117.94,35.74,"105",6.2895,"messinian",9438,-117.0116,33.8762,5,1
+"40372",60695,"col","Chagres Sandstone",-81.7,8.85,"Locality 201 - Chagres Sandstone",NA,"USGS #8439",7,"Messinian","",7.246,5.333,11306,"gp_mid",-80.2,9.53,"230",6.2895,"messinian",9755,-83.5732,10.2149,5,1
+"40823",61186,"col","Chagres Sandstone",-81.7,8.85,"Locality 200 - Chagres Sandstone",NA,"USGS #8406",3,"Messinian","",7.246,5.333,11306,"gp_mid",-80.2,9.53,"230",6.2895,"messinian",9755,-83.5732,10.2149,5,1
+"40966",61346,"col","Nancy Point",-81.79,9.07,"PPP# 390 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17856",17,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,"messinian",9900,-83.5732,10.2149,5,1
+"40967",61347,"col","Nancy Point",-81.79,9.07,"PPP# 391 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17858",42,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,"messinian",9900,-83.5732,10.2149,5,1
+"40968",61348,"col","Nancy Point",-81.79,9.07,"PPP# 392 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17857",9,"Messinian","",7.246,5.333,17667,"gp_mid",-80.29,9.75,"230",6.2895,"messinian",9900,-83.5732,10.2149,5,1
+"40969",61349,"col","Nancy Point",-81.8,9.06,"PPP# 396 - Butchuqua [Nancy Point Fm]",NA,"NMB Loc. 17858; 88-40-01",4,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,"messinian",9901,-83.5732,10.2149,5,1
+"40970",61350,"col","Nancy Point",-81.8,9.06,"PPP# 400 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17860",8,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,"messinian",9901,-83.5732,10.2149,5,1
+"46518",70417,"col","Rosignano Limestone",10.43,43.5,"Popogna, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",23,"Messinian","",7.246,5.333,23527,"gp_mid",11.46,42.08,"307",6.2895,"messinian",11340,11.2311,41.8191,5,1
+"46608",69528,"col","Kume",140.49,36.53,"Kanasago-machi",NA,"Hitachiota",2,"Messinian","",7.246,5.333,23345,"gp_mid",139.23,36.28,"610",6.2895,"messinian",11388,137.711,38.0658,5,1
+"46797",69812,"col","",-0.98,38.02,"Zeneta area, San Miguel de Salinas Basin, Murcia",NA,"Reef 651",23,"Messinian","",7.246,5.333,23436,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11452,-0.5662,37.1117,5,1
+"46807",69835,"col","",-0.7,38.25,"Elche reefs, San Miguel de Salinas Basin, Alicante",NA,"Reef 650",4,"Messinian","",7.246,5.333,23438,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11454,-0.5662,37.1117,5,1
+"46808",69841,"col","",-0.55,38.18,"Santa Pola reef, San Miguel de Salinas Basin, Alicante",NA,"Reef 900",8,"Messinian","",7.246,5.333,23438,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11455,-0.5662,37.1117,5,1
+"46820",69860,"col","",-3,35.35,"Reef complex NW of Melilla, Trois Furches Peninsula",NA,"Reef 669",31,"Messinian","",7.246,5.333,23440,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11462,-3.988,34.391,5,1
+"46853",69898,"col","Rosignano Limestone",10.47,43.4,"Acquabona Reef, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",12,"Messinian","",7.246,5.333,23452,"gp_mid",11.49,41.98,"307",6.2895,"messinian",11468,11.2311,41.8191,5,1
+"46854",69899,"col","Rosignano Limestone",10.45,43.43,"Castelnuovo Reef, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",31,"Messinian","",7.246,5.333,23452,"gp_mid",11.48,42.01,"307",6.2895,"messinian",11469,11.2311,41.8191,5,1
+"46875",69922,"col","Baucina",12.8,37.82,"Salemia area, microbial mud-mound, Sicily",NA,"Reef 1731",16,"Messinian","",7.246,5.333,23470,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11480,10.9005,36.7466,5,1
+"46876",69923,"col","Baucina",12.8,37.82,"Salemia-Calatafimi area, coral-microbial build-ups, Sicily",NA,"Reef 966",14,"Messinian","",7.246,5.333,23470,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11480,10.9005,36.7466,5,1
+"47169",70418,"col","Rosignano Limestone",10.43,43.48,"Cafaggio-Gorgo, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",5,"Messinian","",7.246,5.333,23527,"gp_mid",11.46,42.06,"307",6.2895,"messinian",11526,11.2311,41.8191,5,1
+"47170",70419,"col","Rosignano Limestone",10.43,43.53,"Parrana San Martino, Livornesi Mountains, Rosignano Limestone, Tuscany",NA,"Reef 965",10,"Messinian","",7.246,5.333,23527,"gp_mid",11.46,42.11,"307",6.2895,"messinian",11527,11.2311,41.8191,5,1
+"47238",70513,"col","",12.58,35.52,"Lampedusa Island",NA,"Reef 806",33,"Messinian","",7.246,5.333,23646,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11547,10.8713,34.2467,5,1
+"47575",70888,"col","",-3.62,35.15,"Boudinar Basin",NA,"Reef 3581",15,"Messinian","",7.246,5.333,23727,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",11631,-3.988,34.391,5,1
+"47576",70889,"col","",-2.65,35,"Kebdana Platform reefs",NA,"Reef 3582",20,"Messinian","",7.246,5.333,23727,"gp_mid",-1.69,33.87,"707",6.2895,"messinian",11632,-3.988,34.391,5,1
+"47609",70927,"col","",-4.7,33.88,"Bir Allouna Reef, Fes",NA,"Reef 674",11,"Messinian","",7.246,5.333,23727,"gp_mid",-3.75,32.8,"707",6.2895,"messinian",11641,-3.988,34.391,5,1
+"48031",71534,"col","Eastover",-76.72,37.79,"Laytons Landing, Zone 25",NA,"",4,"Messinian","",7.246,5.333,16985,"gp_mid",-74.02,38.59,"109",6.2895,"messinian",11733,-73.5376,37.6292,5,1
+"48032",71618,"col","Eastover",-76.72,37.79,"Laytons Landing, Zone 26",NA,"",12,"Messinian","",7.246,5.333,16985,"gp_mid",-74.02,38.59,"109",6.2895,"messinian",11733,-73.5376,37.6292,5,1
+"48033",71535,"col","Eastover",-76.77,37.17,"Cobham Wharf, Zone 25",NA,"",8,"Messinian","",7.246,5.333,16985,"gp_mid",-74.1,37.97,"109",6.2895,"messinian",11734,-73.5376,37.6292,5,1
+"48034",71619,"col","Eastover",-76.77,37.17,"Cobham Wharf, Zone 26",NA,"",19,"Messinian","",7.246,5.333,16985,"gp_mid",-74.1,37.97,"109",6.2895,"messinian",11734,-73.5376,37.6292,5,1
+"48035",71536,"col","Eastover",-76.75,37.82,"Bowlers Wharf, Zone 26",NA,"",15,"Messinian","",7.246,5.333,16985,"gp_mid",-74.05,38.63,"109",6.2895,"messinian",11735,-73.5376,37.6292,5,1
+"48036",71622,"col","Eastover",-76.83,37.2,"Mount Pleasant, Zone 25",NA,"",4,"Messinian","",7.246,5.333,16985,"gp_mid",-74.16,38.01,"109",6.2895,"messinian",11736,-73.5376,37.6292,5,1
+"48094",71623,"col","Eastover",-76.83,37.2,"Mount Pleasant, Zone 26",NA,"",18,"Messinian","",7.246,5.333,16985,"gp_mid",-74.16,38.01,"109",6.2895,"messinian",11736,-73.5376,37.6292,5,1
+"48114",71644,"col","Eastover",-76.8,38.17,"Haulover Inlet, Zone 25",NA,"",1,"Messinian","",7.246,5.333,16985,"gp_mid",-74.09,38.97,"109",6.2895,"messinian",11759,-73.5376,37.6292,5,1
+"48216",71820,"col","Eastover",-76.85,38.17,"Stratford Bluffs, Claremont Manor Member",NA,"Stratford Cliffs",1,"Messinian","",7.246,5.333,24251,"gp_mid",-74.13,38.97,"109",6.2895,"messinian",11787,-73.5376,37.6292,5,1
+"49031",73642,"col","",-79.11,24.65,"Unda Well, 313.9-324.0 m, Great Bahama Bank",NA,"Reef 2378",7,"Messinian","",7.246,5.333,24698,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",12039,-77.5392,25.1843,5,1
+"49032",73643,"col","",-79.11,24.65,"Unda Well, 307.5-313.9 m, Great Bahama Bank",NA,"Reef 2378",2,"Messinian","",7.246,5.333,24698,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",12039,-77.5392,25.1843,5,1
+"49033",73644,"col","",-79.11,24.65,"Unda Well, 301.8-307.5 m, Great Bahama Bank",NA,"Reef 2378",6,"Messinian","",7.246,5.333,24698,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",12039,-77.5392,25.1843,5,1
+"49034",73645,"col","",-79.11,24.65,"Unda Well, 298.1-301.8 m, Great Bahama Bank",NA,"Reef 2378",4,"Messinian","",7.246,5.333,24698,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",12039,-77.5392,25.1843,5,1
+"49293",73989,"col","Gonda",137.98,36.67,"Shinshushinmachi",NA,"",1,"Messinian","",7.246,5.333,33370,"gp_mid",136.73,36.39,"610",6.2895,"messinian",12110,137.711,38.0658,5,1
+"50646",76292,"col","",30.73,46.46,"Odessa, Pontian",NA,"",5,"Messinian","",7.246,5.333,24838,"gp_mid",31.01,45.24,"302",6.2895,"messinian",12487,29.2315,47.2016,5,1
+"50647",76293,"col","Odessa limestone",30.73,46.46,"Krivaya ravine",NA,"",2,"Messinian","",7.246,5.333,24838,"gp_mid",31.01,45.24,"302",6.2895,"messinian",12487,29.2315,47.2016,5,1
+"50868",76986,"col","Aghia Varvara",25.17,35.17,"Aghia Varvara Fm",NA,"",7,"Messinian","",7.246,5.333,26042,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",12572,25.7273,34.1657,5,1
+"51884",78633,"col","",15.08,40.33,"Cava di Argilla, Salerno, G. mediterranea zone",NA,"",14,"Messinian","",7.246,5.333,26440,"gp_mid",15.91,38.83,"307",6.2895,"messinian",12881,14.8037,39.2073,5,1
+"52486",79795,"col","Nancy Point",-81.83,9.09,"PPP# 411 Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 17861",9,"Messinian","",7.246,5.333,17667,"gp_mid",-80.33,9.78,"230",6.2895,"messinian",13067,-83.5732,10.2149,5,1
+"52533",79964,"col","Bayshore",-82.09,26.98,"Bayshore Canal [Port Charlotte Mbr, Bayshore Fm]",NA,"",8,"Messinian","",7.246,5.333,26813,"gp_mid",-79.88,27.93,"109",6.2895,"messinian",13088,-81.252,27.7366,5,1
+"55115",84053,"col","Horokaoshirarika",142,43.81,"Ishikari-Numata Station, east",NA,"",1,"Messinian","",7.246,5.333,12696,"gp_mid",140.6,43.57,"610",6.2895,"messinian",13992,141.7274,45.3594,5,1
+"59078",89551,"col","Eastover",-76.87,38.17,"Westmoreland State Park, Eastover Formation",NA,"",1,"Messinian","",7.246,5.333,29776,"gp_mid",-74.16,38.98,"109",6.2895,"messinian",15388,-73.5376,37.6292,5,1
+"63684",95689,"col","",26.91,37.74,"Samos Quarry 4",NA,"",4,"Messinian","",7.246,5.333,32500,"gp_mid",27.19,36.53,"504",6.2895,"messinian",16858,25.7844,36.3895,5,1
+"63685",95690,"col","",26.88,37.76,"Samos Quarry 5",NA,"",5,"Messinian","",7.246,5.333,32500,"gp_mid",27.16,36.56,"504",6.2895,"messinian",16859,25.7844,36.3895,5,1
+"63686",95691,"col","",26.89,37.76,"Samos Quarry 1",NA,"",10,"Messinian","",7.246,5.333,32500,"gp_mid",27.17,36.55,"504",6.2895,"messinian",16860,25.7844,36.3895,5,1
+"64365",96701,"col","Tobabe",-81.81,9.13,"Small Plantain Cay",NA,"",1,"Messinian","",7.246,5.333,32976,"gp_mid",-80.31,9.81,"230",6.2895,"messinian",17074,-83.5732,10.2149,5,1
+"64513",96979,"col","",20,30,"Sahabi Fauna Locality P51",NA,"",1,"Messinian","",7.246,5.333,18922,"gp_mid",20.48,28.42,"715",6.2895,"messinian",2820,18.2596,29.1959,5,1
+"70625",105570,"col","",12.92,43.9,"Monte Castellaro (Museo Fiorenzuola collection)",NA,"",1,"Messinian","",7.246,5.333,35265,"gp_mid",13.9,42.43,"307",6.2895,"messinian",19607,11.3769,44.3168,5,1
+"75406",111214,"col","Nancy Point",-81.79,9.07,"Nancy Point Formation (unspecified localities)",NA,"",6,"Messinian","",7.246,5.333,36423,"gp_mid",-80.29,9.75,"230",6.2895,"messinian",9900,-83.5732,10.2149,5,1
+"77404",113751,"col","",10.44,43.48,"Gabbro (Bosniaski collection)",NA,"",43,"Messinian","",7.246,5.333,49708,"gp_mid",11.47,42.06,"307",6.2895,"messinian",21728,11.2311,41.8191,5,1
+"77510",113886,"col","Gessoso-solfifera",12.92,43.9,"Monte Castellaro (MCSN collection)",NA,"",21,"Messinian","",7.246,5.333,47099,"gp_mid",13.9,42.43,"307",6.2895,"messinian",19607,11.3769,44.3168,5,1
+"82701",120356,"col","Old Bank",-82.11,9.32,"CJ93-20-2 Bastimentos Island, Bocas del Toro",NA,"",11,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82702",120357,"col","Old Bank",-82.11,9.32,"CM08-6 Bastimentos Island, Bocas del Toro",NA,"",8,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82703",120358,"col","Old Bank",-82.11,9.32,"CM08-9 Bastimentos Island, Bocas del Toro",NA,"",22,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82704",120359,"col","Old Bank",-82.11,9.32,"CM08-9b Bastimentos Island, Bocas del Toro",NA,"",5,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82705",120360,"col","Old Bank",-82.11,9.32,"AB98-11 Bastimentos Island, Bocas del Toro",NA,"",21,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82706",120361,"col","Old Bank",-82.11,9.32,"AB98-12 Bastimentos Island, Bocas del Toro",NA,"",2,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82707",120362,"col","Old Bank",-82.11,9.32,"AB98-13 Bastimentos Island, Bocas del Toro",NA,"",8,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82733",120388,"col","Old Bank",-82.11,9.32,"AB98-14 Bastimentos Island, Bocas del Toro",NA,"",2,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82734",120389,"col","Old Bank",-82.11,9.32,"AB98-15 Bastimentos Island, Bocas del Toro",NA,"",4,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82735",120390,"col","Old Bank",-82.11,9.32,"AB98-16 Bastimentos Island, Bocas del Toro",NA,"",15,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82736",120391,"col","Old Bank",-82.11,9.32,"AB98-17 Bastimentos Island, Bocas del Toro",NA,"",7,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82737",120392,"col","Old Bank",-82.11,9.32,"AB98-18 Bastimentos Island, Bocas del Toro",NA,"",24,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82738",120393,"col","Old Bank",-82.11,9.32,"AB99-05 Bastimentos Island, Bocas del Toro",NA,"",10,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82739",120394,"col","Old Bank",-82.11,9.32,"AB99-06 Bastimentos Island, Bocas del Toro",NA,"",4,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82740",120395,"col","Old Bank",-82.11,9.32,"AB99-07 Bastimentos Island, Bocas del Toro",NA,"",11,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82741",120396,"col","Old Bank",-82.11,9.32,"AB99-08 Bastimentos Island, Bocas del Toro",NA,"",4,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"82742",120397,"col","Old Bank",-82.11,9.32,"AB99-09 Bastimentos Island, Bocas del Toro",NA,"",6,"Messinian","",7.246,5.333,38462,"gp_mid",-80.61,10.01,"230",6.2895,"messinian",23029,-83.5732,10.2149,5,1
+"86128",124781,"col","Salayar",120.43,-6.18,"Benteng West, ISS1.1, Salayar Island",NA,"",19,"Messinian","",7.246,5.333,40384,"gp_mid",121.69,-6.34,"683",6.2895,"messinian",24140,119.784,-4.4771,5,1
+"86129",124782,"col","Salayar",120.43,-6.18,"Benteng West, ISS1.2, Salayar Island",NA,"",14,"Messinian","",7.246,5.333,40384,"gp_mid",121.69,-6.34,"683",6.2895,"messinian",24140,119.784,-4.4771,5,1
+"92332",133428,"col","Varvara",24.95,35.11,"Apomarma",NA,"",1,"Messinian","",7.246,5.333,42983,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",25600,25.7273,34.1657,5,1
+"92335",133431,"col","Koetoi",141.96,44.77,"Kiyokawa Hidarimata Valley",NA,"",2,"Messinian","",7.246,5.333,42987,"gp_mid",140.53,44.53,"610",6.2895,"messinian",25603,141.7274,45.3594,5,1
+"94284",135816,"col","Nancy Point",-81.95,9.15,"PPP# 191 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 17629",128,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,"messinian",26311,-83.5732,10.2149,5,1
+"94289",135821,"col","Nancy Point",-81.95,9.15,"PPP# 2212 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 18711",87,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,"messinian",26311,-83.5732,10.2149,5,1
+"94290",135822,"col","Nancy Point",-81.95,9.15,"PPP# 1883 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 18771",38,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,"messinian",26311,-83.5732,10.2149,5,1
+"94296",135828,"col","Nancy Point",-81.95,9.14,"PPP# 2206 - Punta de Toro [Nancy Point Fm]",NA,"NMB Loc. 18705",85,"Messinian","",7.246,5.333,17667,"gp_mid",-80.44,9.82,"230",6.2895,"messinian",26314,-83.5732,10.2149,5,1
+"94297",135829,"col","Nancy Point",-81.95,9.14,"PPP# 2207 - Punta de Toro [Nancy Point Fm]",NA,"NMB Loc. 18706",16,"Messinian","",7.246,5.333,17667,"gp_mid",-80.44,9.82,"230",6.2895,"messinian",26314,-83.5732,10.2149,5,1
+"94355",135887,"col","Nancy Point",-81.8,9.06,"PPP# 397 - Butchuqua [Nancy Point Fm]",NA,"NMB Loc. 17859; 88-41-01",12,"Messinian","",7.246,5.333,17667,"gp_mid",-80.3,9.74,"230",6.2895,"messinian",9901,-83.5732,10.2149,5,1
+"94357",135889,"col","Nancy Point",-81.83,9.09,"PPP# 2189 - Valiente Peninsula [Nancy Point Fm]",NA,"NMB Loc. 18688",38,"Messinian","",7.246,5.333,17667,"gp_mid",-80.33,9.78,"230",6.2895,"messinian",13067,-83.5732,10.2149,5,1
+"94389",135944,"col","Nancy Point",-81.95,9.15,"PPP# 477 - Finger Island [Nancy Point Fm]",NA,"NMB Loc. 17824; 88-00-46",83,"Messinian","",7.246,5.333,17667,"gp_mid",-80.45,9.83,"230",6.2895,"messinian",26311,-83.5732,10.2149,5,1
+"96014",138020,"col","Novaglie",18.33,39.78,"Salento Peninsula, Leuca, Framework, branching Porites",34688,"Reef 3205",4,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,"messinian",26817,18.5054,39.0968,5,1
+"96023",138030,"col","Novaglie",18.33,39.78,"Salento Peninsula, Leuca, Framework, massive Porites",34688,"Reef 3205",1,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,"messinian",26817,18.5054,39.0968,5,1
+"96024",138031,"col","Novaglie",18.33,39.78,"Salento Peninsula, Leuca, Proximal slope, laminar Porites and vermetids",34688,"Reef 3205",3,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,"messinian",26817,18.5054,39.0968,5,1
+"96025",138032,"col","Novaglie",18.33,39.78,"Salento Peninsula, Leuca, Proximal slope, laminar Porites",34688,"Reef 3205",2,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,"messinian",26817,18.5054,39.0968,5,1
+"96026",138033,"col","Novaglie",18.33,39.78,"Salento Peninsula, Leuca, middle slope, calcarenite with Porites",34688,"Reef 3205",0,"Messinian","",7.246,5.333,44128,"gp_mid",19.07,38.22,"307",6.2895,"messinian",26817,18.5054,39.0968,5,1
+"96027",138034,"col","Novaglie",18.37,39.78,"Salento Peninsula, Lighthouse, Framework, massive calcarenite",34688,"Reef 3205",5,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,"messinian",3986,18.5054,39.0968,5,1
+"96067",138074,"col","Novaglie",18.37,39.78,"Salento Peninsula, Lighthouse, Framework, branching coralline algae",34688,"Reef 3205",2,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,"messinian",3986,18.5054,39.0968,5,1
+"96068",138075,"col","Novaglie",18.37,39.78,"Salento, Lighthouse, middle slope, Porites framework",34688,"Reef 3205",10,"Messinian","",7.246,5.333,44128,"gp_mid",19.1,38.22,"307",6.2895,"messinian",3986,18.5054,39.0968,5,1
+"96069",138076,"col","Novaglie",18.38,39.87,"Salento Peninsula, Ciolo, framework",34688,"Reef 3205",3,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,"messinian",3987,18.5054,39.0968,5,1
+"96070",138077,"col","Novaglie",18.38,39.87,"Salento Peninsula, Ciolo, middle slope",34688,"Reef 3205",6,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,"messinian",3987,18.5054,39.0968,5,1
+"96071",138078,"col","Novaglie",18.38,39.87,"Salento Peninsula, Ciolo, calcarenite with coralline algae",34688,"Reef 3205",1,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,"messinian",3987,18.5054,39.0968,5,1
+"96072",138079,"col","Novaglie",18.38,39.87,"Salento Peninsula, Ciolo, calcarenite with rhodoliths",34688,"Reef 3205",4,"Messinian","",7.246,5.333,44128,"gp_mid",19.12,38.31,"307",6.2895,"messinian",3987,18.5054,39.0968,5,1
+"101615",144566,"col","Colombacci",11.77,44.22,"Monticino",NA,"Brisighella",49,"Messinian","",7.246,5.333,46758,"gp_mid",12.79,42.77,"307",6.2895,"messinian",27778,11.3769,44.3168,5,1
+"101643",144638,"col","Sahabi",17.5,30.5,"As Sahabi, Sirtica",NA,"Crocodylus checchiai type",1,"Messinian","",7.246,5.333,46802,"gp_mid",18.03,28.96,"715",6.2895,"messinian",27781,18.2596,29.1959,5,1
+"102212",145648,"col","",12.67,43.85,"Mondaino",NA,"",1,"Messinian","",7.246,5.333,47100,"gp_mid",13.65,42.39,"307",6.2895,"messinian",27917,11.3769,44.3168,5,1
+"104472",148521,"col","",25.17,35.34,"Iraklion Decapod",NA,"",1,"Messinian","",7.246,5.333,47679,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",28155,25.7273,34.1657,5,1
+"107807",152652,"col","",13.21,43.72,"Sinigallia (Scarabelli collection)",NA,"Senigallia, Sinigaglia",2,"Messinian","",7.246,5.333,49200,"gp_mid",14.18,42.25,"307",6.2895,"messinian",28950,14.9345,41.7053,5,1
+"108498",153830,"col","Erijou",121.29,24.88,"Dasi",NA,"",1,"Messinian","",7.246,5.333,49844,"gp_mid",120.76,24.82,"611",6.2895,"messinian",29112,118.8054,25.7265,5,1
+"110239",156204,"col","Takamine",139.95,37.93,"Ykw-01, Koyasawa River",NA,"",2,"Messinian","",7.246,5.333,51153,"gp_mid",138.67,37.67,"610",6.2895,"messinian",29475,137.711,38.0658,5,1
+"110361",156579,"col","",13.21,43.72,"Sinigaglia (MCSNM collection)",NA,"Senigallia",2,"Messinian","",7.246,5.333,51329,"gp_mid",14.18,42.25,"307",6.2895,"messinian",28950,14.9345,41.7053,5,1
+"110688",157203,"col","",13.21,43.67,"San Angelo, near Sinigaglia (NHMW collection)",NA,"Senigallia",1,"Messinian","",7.246,5.333,8345,"gp_mid",14.18,42.2,"307",6.2895,"messinian",29613,14.9345,41.7053,5,1
+"110731",157306,"col","Gessoso-solfifera",12.92,43.9,"Monte Castellaro (MTR collection)",NA,"",30,"Messinian","",7.246,5.333,51661,"gp_mid",13.9,42.43,"307",6.2895,"messinian",19607,11.3769,44.3168,5,1
+"110975",157594,"col","",-57.88,-63.81,"Ulu Peninsula",NA,"",6,"Messinian","",7.246,5.333,51351,"gp_mid",-59.5,-63.34,"803",6.2895,"messinian",29656,-56.8527,-64.9623,5,1
+"113950",161784,"col","Tano",131.3,31.83,"Tano, Miyazak-gun [Tano Fm]",NA,"",8,"Messinian","",7.246,5.333,52693,"gp_mid",130.15,31.48,"610",6.2895,"messinian",30567,130.4971,32.7576,5,1
+"115592",164759,"col","",109,-7,"Gunung Linggapadang, Java",NA,"",3,"Messinian","",7.246,5.333,53783,"gp_mid",110.29,-7.64,"620",6.2895,"messinian",30922,108.5518,-7.3335,5,1
+"117461",167774,"col","",10.42,43.42,"Gabbro, Monti Livornesi",NA,"",1,"Messinian","",7.246,5.333,54816,"gp_mid",11.44,41.99,"307",6.2895,"messinian",31514,11.2311,41.8191,5,1
+"117860",168730,"col","Capo San Marco",8.43,39.9,"Capo San Marco cliff, Microbialitic level 2",NA,"",34,"Messinian","",7.246,5.333,55180,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",31599,6.8984,39.6369,5,1
+"123558",178160,"col","",18.02,43.67,"Dzepi, nordöstlich von Konjic an der Narenta",NA,"Zepy",5,"Messinian","",7.246,5.333,58967,"gp_mid",18.87,42.11,"307",6.2895,"messinian",32738,18.6317,41.595,5,1
+"124773",179732,"col","Eastover",-76.83,38.16,"Stratford Hall, Messinian",NA,"",51,"Messinian","",7.246,5.333,62831,"gp_mid",-74.12,38.97,"109",6.2895,"messinian",33061,-73.5376,37.6292,5,1
+"128941",186576,"col","",12.03,44.08,"Mondaino",NA,"",35,"Messinian","",7.246,5.333,62554,"gp_mid",13.04,42.63,"307",6.2895,"messinian",34136,11.3769,44.3168,5,1
+"128942",186577,"col","",13.21,43.72,"Sinigallia",NA,"Senigallia, Sinigaglia",21,"Messinian","",7.246,5.333,62554,"gp_mid",14.18,42.25,"307",6.2895,"messinian",28950,14.9345,41.7053,5,1
+"128945",186580,"col","",10.44,43.48,"Gabbro 1",NA,"",7,"Messinian","",7.246,5.333,62554,"gp_mid",11.47,42.06,"307",6.2895,"messinian",21728,11.2311,41.8191,5,1
+"128946",186581,"col","",10.44,43.48,"Gabbro 2",NA,"",15,"Messinian","",7.246,5.333,62554,"gp_mid",11.47,42.06,"307",6.2895,"messinian",21728,11.2311,41.8191,5,1
+"132853",194796,"col","Pancho Rico",-121.02,36.13,"USGS Cenozoic M903 San Lucas Quad",NA,"UCMP IP6633",29,"Messinian","",7.246,5.333,66206,"gp_mid",-118.51,37.25,"105",6.2895,"messinian",34937,-117.0116,33.8762,5,1
+"132854",194797,"col","Pancho Rico",-121,36,"USGS Cenozoic M913 Wildhorse Canyon",NA,"UCMP IP6635",8,"Messinian","",7.246,5.333,66206,"gp_mid",-118.49,37.12,"105",6.2895,"messinian",34938,-117.0116,33.8762,5,1
+"132855",194798,"col","Pancho Rico",-121.18,36.18,"USGS Cenozoic M918 Pine Canyon",NA,"UCMP IP6640",10,"Messinian","",7.246,5.333,66206,"gp_mid",-118.67,37.3,"105",6.2895,"messinian",34939,-117.0116,33.8762,5,1
+"132856",194799,"col","Pancho Rico",-120.89,36.03,"USGS Cenozoic M975 San Ardo",NA,"UCMP IP6653",11,"Messinian","",7.246,5.333,66206,"gp_mid",-118.38,37.15,"105",6.2895,"messinian",34940,-117.0116,33.8762,5,1
+"132858",194801,"col","Pancho Rico",-120.86,36.03,"USGS Cenozoic M977 Pancho Rico Creek",NA,"UCMP IP6655, USGS Cenozoic M1939",27,"Messinian","",7.246,5.333,66206,"gp_mid",-118.35,37.15,"105",6.2895,"messinian",34941,-117.0116,33.8762,5,1
+"132859",194802,"col","Pancho Rico",-120.88,36.02,"USGS Cenozoic M979 Pancho Rico Creek",NA,"UCMP IP6656",14,"Messinian","",7.246,5.333,66206,"gp_mid",-118.37,37.14,"105",6.2895,"messinian",34942,-117.0116,33.8762,5,1
+"132860",194803,"col","Pancho Rico",-120.86,36.03,"USGS Cenozoic M980 Pancho Rico Creek",NA,"UCMP IP6657, USGS Cenozoic M1929",42,"Messinian","",7.246,5.333,66206,"gp_mid",-118.35,37.15,"105",6.2895,"messinian",34941,-117.0116,33.8762,5,1
+"132863",194806,"col","Pancho Rico",-120.88,36.1,"USGS Cenozoic M996 Mooney Canyon",NA,"UCMP IP6671",12,"Messinian","",7.246,5.333,66206,"gp_mid",-118.36,37.23,"105",6.2895,"messinian",34944,-117.0116,33.8762,5,1
+"132884",194866,"col","Pancho Rico",-121.18,36.05,"USGS Cenozoic M1060 Cosio Knob Quad.",NA,"UCMP IP6712",7,"Messinian","",7.246,5.333,66206,"gp_mid",-118.67,37.17,"105",6.2895,"messinian",34948,-117.0116,33.8762,5,1
+"132886",194868,"col","Pancho Rico",-121.2,36.06,"USGS Cenozoic M1066 Mission Creek",NA,"UCMP IP6718",4,"Messinian","",7.246,5.333,66206,"gp_mid",-118.69,37.18,"105",6.2895,"messinian",34950,-117.0116,33.8762,5,1
+"132887",194869,"col","Pancho Rico",-121.19,36.06,"USGS Cenozoic M1067 Mission Creek",NA,"UCMP IP6719",3,"Messinian","",7.246,5.333,66206,"gp_mid",-118.68,37.18,"105",6.2895,"messinian",34951,-117.0116,33.8762,5,1
+"132888",194870,"col","Pancho Rico",-121.02,36.2,"USGS Cenozoic M1341 Wildhorse Canyon",NA,"UCMP IP6731, UCMP A4945\r\n",1,"Messinian","",7.246,5.333,66206,"gp_mid",-118.51,37.32,"105",6.2895,"messinian",34952,-117.0116,33.8762,5,1
+"132902",194888,"col","Pancho Rico",-121.05,35.89,"USGS Cenozoic M1455 San Antonio River Road",NA,"UCMP IP6742",24,"Messinian","",7.246,5.333,66206,"gp_mid",-118.54,37.01,"105",6.2895,"messinian",34954,-117.0116,33.8762,5,1
+"132904",194891,"col","Pancho Rico",-120.91,35.99,"USGS Cenozoic M1676 Salinas River",NA,"UCMP IP6839",22,"Messinian","",7.246,5.333,66206,"gp_mid",-118.4,37.11,"105",6.2895,"messinian",34955,-117.0116,33.8762,5,1
+"132905",194892,"col","Pancho Rico",-120.68,35.94,"USGS Cenozoic M1930 Indian Valley",NA,"UCMP IP6935",13,"Messinian","",7.246,5.333,66206,"gp_mid",-118.17,37.06,"105",6.2895,"messinian",34956,-117.0116,33.8762,5,1
+"132906",194893,"col","Pancho Rico",-120.66,35.93,"USGS Cenozoic M1933 Valleton Quad.",NA,"UCMP IP6937",1,"Messinian","",7.246,5.333,66206,"gp_mid",-118.15,37.05,"105",6.2895,"messinian",34957,-117.0116,33.8762,5,1
+"132907",194894,"col","Pancho Rico",-120.84,35.9,"USGS Cenozoic M1934 Sarah Canyon",NA,"UCMP IP6938",24,"Messinian","",7.246,5.333,66206,"gp_mid",-118.33,37.02,"105",6.2895,"messinian",34958,-117.0116,33.8762,5,1
+"132908",194895,"col","Pancho Rico",-120.79,35.99,"USGS Cenozoic M1935 Walker Canyon",NA,"UCMP IP6939",40,"Messinian","",7.246,5.333,66206,"gp_mid",-118.28,37.11,"105",6.2895,"messinian",34959,-117.0116,33.8762,5,1
+"132948",195029,"col","Pancho Rico",-120.73,35.97,"USGS Cenozoic M1966 Powell Canyon",NA,"UCMP IP6966, UCMP 3572- (paper incorrectly stated UCMP A3572)",16,"Messinian","",7.246,5.333,66206,"gp_mid",-118.22,37.09,"105",6.2895,"messinian",34974,-117.0116,33.8762,5,1
+"132949",195030,"col","Pancho Rico",-120.73,35.96,"USGS Cenozoic M1967 Powell Canyon",NA,"UCMP IP6967",7,"Messinian","",7.246,5.333,66206,"gp_mid",-118.22,37.08,"105",6.2895,"messinian",34975,-117.0116,33.8762,5,1
+"132950",195031,"col","Pancho Rico",-120.56,35.89,"USGS Cenozoic M1969 Vineyard Canyon",NA,"UCMP IP6969",16,"Messinian","",7.246,5.333,66206,"gp_mid",-118.04,37.01,"105",6.2895,"messinian",34976,-117.0116,33.8762,5,1
+"132951",195032,"col","Pancho Rico",-120.84,35.9,"USGS Cenozoic M1970 Salinas Valley",NA,"UCMP IP6970",12,"Messinian","",7.246,5.333,66206,"gp_mid",-118.33,37.02,"105",6.2895,"messinian",34958,-117.0116,33.8762,5,1
+"132952",195033,"col","Pancho Rico",-120.83,35.74,"USGS Cenozoic M2047 San Luis Obispo",NA,"UCMP IP7043",7,"Messinian","",7.246,5.333,66206,"gp_mid",-118.32,36.86,"105",6.2895,"messinian",34977,-117.0116,33.8762,5,1
+"132953",195034,"col","Pancho Rico",-120.81,35.73,"USGS Cenozoic M2050 San Luis Obispo",NA,"UCMP IP7046",21,"Messinian","",7.246,5.333,66206,"gp_mid",-118.3,36.85,"105",6.2895,"messinian",34978,-117.0116,33.8762,5,1
+"132954",195035,"col","Pancho Rico",-120.86,36.19,"USGS Cenozoic M2278 San Lorenzo Creek",NA,"UCMP IP7141",16,"Messinian","",7.246,5.333,66206,"gp_mid",-118.35,37.31,"105",6.2895,"messinian",34979,-117.0116,33.8762,5,1
+"132957",195038,"col","Pancho Rico",-120.8,36.03,"USGS Cenozoic M2282 Lynch Canyon",NA,"UCMP IP7145",11,"Messinian","",7.246,5.333,66206,"gp_mid",-118.29,37.15,"105",6.2895,"messinian",34981,-117.0116,33.8762,5,1
+"135700",200404,"col","Calcàries de Santanyí",3.22,39.42,"San Isidro Quarry",NA,"Portocolom, Felantix",1,"Messinian","",7.246,5.333,12675,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",35580,3.159,39.6161,5,1
+"136447",201953,"col","Chepotsunai",141.67,44.32,"Tomamae",NA,"",1,"Messinian","",7.246,5.333,61710,"gp_mid",140.25,44.08,"610",6.2895,"messinian",35795,141.7274,45.3594,5,1
+"136630",202179,"col","",174.44,-39.47,"Makino River, on Stanley Road",NA,"",1,"Kapitean","",6.5,5.333,44711,"gp_mid",176.86,-41.45,"806",5.9165,"messinian",35842,179.1891,-41.7124,5,1
+"139615",206271,"col","Okamishima",125.3,24.88,"Shimajiri",NA,"",1,"Messinian","",7.246,5.333,70796,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36702,122.5776,25.8435,5,1
+"139759",206460,"col","",26.89,37.76,"Samos Quarry 2",NA,"",3,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,"messinian",16860,25.7844,36.3895,5,1
+"139760",206461,"col","",26.89,37.76,"Samos A",NA,"",2,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,"messinian",16860,25.7844,36.3895,5,1
+"139761",206462,"col","",26.89,37.76,"Samos Quarry 6",NA,"",2,"Messinian","",7.246,5.333,5709,"gp_mid",27.17,36.55,"504",6.2895,"messinian",16860,25.7844,36.3895,5,1
+"139762",206463,"col","",26.89,37.76,"Samos Quarry I",NA,"near the old German excavation",1,"Messinian","",7.246,5.333,70961,"gp_mid",27.17,36.55,"504",6.2895,"messinian",16860,25.7844,36.3895,5,1
+"140211",207361,"col","",24.09,34.86,"Metochia C",NA,"",9,"Messinian","",7.246,5.333,71433,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36916,22.0142,34.1753,5,1
+"140212",207362,"col","",23.78,35.51,"Voukolies",NA,"",1,"Messinian","",7.246,5.333,71434,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36917,22.0142,34.1753,5,1
+"140213",207363,"col","",23.69,35.49,"Kaleryiana",NA,"",1,"Messinian","",7.246,5.333,71434,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36918,22.0142,34.1753,5,1
+"140214",207364,"col","",25.09,35.23,"Tsangaraki",NA,"",3,"Messinian","",7.246,5.333,71435,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36919,25.7273,34.1657,5,1
+"140215",207365,"col","",24.88,35.09,"Mires",NA,"Moires, Agios Ioannis Chapel",8,"Messinian","",7.246,5.333,71435,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36920,25.7273,34.1657,5,1
+"140216",207366,"col","",24.96,35.19,"Psalida",NA,"",4,"Messinian","",7.246,5.333,71435,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36921,25.7273,34.1657,5,1
+"140337",207591,"col","",23.72,35.5,"Potamida Section, Sample Kot6",NA,"",18,"Messinian","",7.246,5.333,71573,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36972,22.0142,34.1753,5,1
+"140338",207592,"col","",25.13,35.09,"Kapariana Section",NA,"",8,"Messinian","",7.246,5.333,71572,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36973,25.7273,34.1657,5,1
+"140357",207611,"col","",24.14,35.42,"Neo Khorio",NA,"",1,"Messinian","",7.246,5.333,71586,"gp_mid",NA,NA,"coordinates not computable using this model",6.2895,"messinian",36983,22.0142,34.1753,5,1
+"140439",207783,"col","",10.43,43.48,"Livornesi Mountains, Rosignano unit assemblages, Tuscany",NA,"",26,"Messinian","",7.246,5.333,71685,"gp_mid",11.46,42.06,"307",6.2895,"messinian",11526,11.2311,41.8191,5,1
+"140440",207784,"col","",10.43,43.48,"Livornesi Mountains, Raquese Unit assemblages, Tuscany",NA,"",19,"Messinian","",7.246,5.333,71685,"gp_mid",11.46,42.06,"307",6.2895,"messinian",11526,11.2311,41.8191,5,1
+"142242",210235,"col","",11.47,45.56,"Costigiola",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",12.55,44.12,"307",6.2895,"messinian",37336,11.3769,44.3168,5,1
+"142244",210237,"col","",12.36,45.41,"San Lazzaro",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.41,43.95,"307",6.2895,"messinian",37338,11.3769,44.3168,5,1
+"142245",210238,"col","",11.38,44.32,"Monte Formiche",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",12.42,42.88,"307",6.2895,"messinian",37339,11.3769,44.3168,5,1
+"142246",210239,"col","",11.59,44.28,"Borgo Tossignano",NA,"",4,"Messinian","",7.246,5.333,72530,"gp_mid",12.62,42.84,"307",6.2895,"messinian",37340,11.3769,44.3168,5,1
+"142247",210240,"col","",11.78,44.22,"Brisighella, Miocene marine",NA,"",5,"Messinian","",7.246,5.333,72530,"gp_mid",12.8,42.77,"307",6.2895,"messinian",37341,11.3769,44.3168,5,1
+"142248",210241,"col","",12.44,43.73,"Lunano",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.43,42.27,"307",6.2895,"messinian",37342,11.2311,41.8191,5,1
+"142249",210242,"col","",12.49,43.7,"Peglio",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.48,42.23,"307",6.2895,"messinian",37343,11.2311,41.8191,5,1
+"142250",210243,"col","",13.34,43.52,"Faeti",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.3,42.04,"307",6.2895,"messinian",37344,14.9345,41.7053,5,1
+"142251",210244,"col","",13.34,43.54,"Camignone",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.31,42.07,"307",6.2895,"messinian",37345,14.9345,41.7053,5,1
+"142252",210245,"col","",12.85,43.66,"Isola Di Fano",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.83,42.19,"307",6.2895,"messinian",37346,11.2311,41.8191,5,1
+"142253",210246,"col","",15.97,41.7,"Monte S. Angelo",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",16.81,40.18,"307",6.2895,"messinian",37347,14.9345,41.7053,5,1
+"142254",210247,"col","",13.52,43.62,"Ancona",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",14.48,42.14,"307",6.2895,"messinian",37348,14.9345,41.7053,5,1
+"142255",210248,"col","",12.32,42.68,"Monte Castllaro",NA,"",11,"Messinian","",7.246,5.333,72530,"gp_mid",13.27,41.23,"307",6.2895,"messinian",37349,11.2311,41.8191,5,1
+"142258",210251,"col","",13.21,43.72,"Sinigallia, terrestrial",NA,"Senigallia, Sinigaglia",18,"Messinian","",7.246,5.333,72530,"gp_mid",14.18,42.25,"307",6.2895,"messinian",28950,14.9345,41.7053,5,1
+"142259",210252,"col","",10.67,43.52,"Poggio Maestra",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",11.69,42.09,"307",6.2895,"messinian",37350,11.2311,41.8191,5,1
+"142260",210253,"col","",10.36,44.03,"Cava Malandrone",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",11.41,42.61,"307",6.2895,"messinian",37351,11.3769,44.3168,5,1
+"142261",210254,"col","",12.48,44.02,"Podere Pane et Vino",NA,"",1,"Messinian","",7.246,5.333,72530,"gp_mid",13.48,42.56,"307",6.2895,"messinian",37352,11.3769,44.3168,5,1
+"142534",210628,"col","",10.44,43.48,"Gabbro",NA,"",32,"Messinian","",7.246,5.333,72530,"gp_mid",11.47,42.06,"307",6.2895,"messinian",21728,11.2311,41.8191,5,1
+"142541",210640,"col","",12.63,43.88,"Monte Maggiore",NA,"Montefiore Conca",27,"Messinian","",7.246,5.333,72687,"gp_mid",13.62,42.42,"307",6.2895,"messinian",37422,11.3769,44.3168,5,1

@@ -34,6 +34,7 @@
 *.DS_Store
   data/DEMs/*
   data/shallow_marine_grids/*
+  data/raw_data/OBIS/*
   *.html
   *.docx
   

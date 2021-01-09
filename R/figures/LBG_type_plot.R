@@ -1,5 +1,6 @@
 source("./R/functions/LBG_type.R")
 source("./R/options.R")
+library(raster)
 library(png)
 library(grid)
 library(ggplot2)

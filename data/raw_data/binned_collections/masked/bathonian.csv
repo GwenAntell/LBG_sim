@@ -1,517 +1,400 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","ext"
-"14177",27890,"col","Techout",10.466667,33,"3/13/14 (Profil 8; Ksar Jelidat)",NA,"",1,"Bathonian","",168.3,166.1,6119,"gp_mid",22.51,16.3,"715",167.2,1
-"16086",30238,"col","Dzharkent Suite",80,44.200001,"Dzharkent Mountain",NA,"PGAP 395",12,"Bathonian","",168.3,166.1,8150,"gp_mid",89.74,45.34,"402",167.2,1
-"16379",30535,"col","Taskuduk Suite",54.099998,47.799999,"Taskuduk",NA,"PGAP 554",3,"Bathonian","",168.3,166.1,7949,"gp_mid",65.01,41.59,"402",167.2,1
-"16416",30572,"col","Lingula and Upper Coal Suites",53.599998,48.200001,"Northern Emba",NA,"PGAP 719",28,"Bathonian","",168.3,166.1,7950,"gp_mid",64.4,41.84,"302",167.2,1
-"16471",30628,"col","Upper Sarydiirmen' Suite",52.5,44.200001,"Eastern Karatau",NA,"PGAP 726",25,"Bathonian","",168.3,166.1,8285,"gp_mid",65.36,37.84,"402",167.2,1
-"16472",30629,"col","Upper Sarydiirmen' Suite",54.799999,43.099998,"Kugusem",NA,"PGAP 724",18,"Bathonian","",168.3,166.1,8285,"gp_mid",67.81,37.39,"402",167.2,1
-"16473",30630,"col","Upper Sarydiirmen' Suite",53.599998,43.599998,"Tanasha",NA,"PGAP 725",8,"Bathonian","",168.3,166.1,8285,"gp_mid",66.56,37.55,"402",167.2,1
-"16494",30651,"col","Bazarli Suite",54.900002,43.099998,"Kugusem",NA,"PGAP 781",5,"Bathonian","",168.3,166.1,7947,"gp_mid",67.9,37.42,"402",167.2,1
-"16503",30660,"col","Sarydiirmen' Suite",52.900002,43.900002,"Ogyuz",NA,"PGAP 779",11,"Bathonian","",168.3,166.1,7947,"gp_mid",65.83,37.66,"402",167.2,1
-"16582",30740,"col","Lingula Suite",55.5,47.5,"Koikara",NA,"PGAP 822",16,"Bathonian","",168.3,166.1,7951,"gp_mid",66.33,41.67,"402",167.2,1
-"16628",30786,"col","",51.400002,47.900002,"Baksay",NA,"PGAP 820",5,"Bathonian","",168.3,166.1,7951,"gp_mid",62.72,41.02,"302",167.2,1
-"16751",30909,"col","Shkel'dara Suite",70.300003,38.099998,"Shagon",NA,"PGAP 422",24,"Bathonian","",168.3,166.1,8266,"gp_mid",83.84,36.93,"402",167.2,1
-"16777",30935,"col","Upper Dzhizhikrut Suite",68.5,39.200001,"Pasrud Stream",NA,"PGAP 642",10,"Bathonian","",168.3,166.1,8268,"gp_mid",81.69,37.45,"402",167.2,1
-"16801",30959,"col","Lower Kamenka Suite",34.900002,48.599998,"Kamenka",NA,"PGAP 564",10,"Bathonian","",168.3,166.1,7972,"gp_mid",49.02,37.97,"302",167.2,1
-"20708",35669,"col","Hamam",35.633331,32.099998,"Wadi Nimr R1",NA,"",22,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20709",35670,"col","Hamam",35.633331,32.099998,"Wadi Nimr R3",NA,"",6,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20710",35671,"col","Hamam",35.633331,32.099998,"Wadi Nimr R4",NA,"",7,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20711",35672,"col","Hamam",35.633331,32.099998,"Wadi Nimr R5",NA,"",14,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20712",35673,"col","Hamam",35.633331,32.099998,"Wadi Nimr R6",NA,"",7,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20713",35674,"col","Hamam",35.633331,32.099998,"Wadi Nimr R8",NA,"",9,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20714",35675,"col","Hamam",35.633331,32.099998,"Wadi Nimr R9",NA,"",8,"Bathonian","",168.3,166.1,9529,"gp_mid",40.38,5.05,"503",167.2,1
-"20743",35704,"col","Hamam",35.616669,32.116669,"Arda A13",NA,"",8,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20744",35705,"col","Hamam",35.616669,32.116669,"Arda A14",NA,"",3,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20745",35706,"col","Hamam",35.616669,32.116669,"Arda A18",NA,"",7,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20765",35739,"col","Hamam",35.616669,32.116669,"Arda A19",NA,"",6,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20766",35740,"col","Hamam",35.616669,32.116669,"Arda A23",NA,"",4,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20767",35741,"col","Hamam",35.616669,32.183334,"Arda A24",NA,"",3,"Bathonian","",168.3,166.1,9529,"gp_mid",40.4,5.13,"503",167.2,1
-"20770",35744,"col","Hamam",35.616669,32.116669,"Arda A21",NA,"",5,"Bathonian","",168.3,166.1,9529,"gp_mid",40.37,5.07,"503",167.2,1
-"20771",35745,"col","Hamam",35.700001,32.200001,"Tal el Dhahab S2",NA,"",13,"Bathonian","",168.3,166.1,9529,"gp_mid",40.47,5.11,"503",167.2,1
-"20772",35746,"col","Hamam",35.700001,32.200001,"Tal el Dhahab S4",NA,"",6,"Bathonian","",168.3,166.1,9529,"gp_mid",40.47,5.11,"503",167.2,1
-"20773",35747,"col","Hamam",35.700001,32.200001,"Tal el Dhahab S5",NA,"",2,"Bathonian","",168.3,166.1,9529,"gp_mid",40.47,5.11,"503",167.2,1
-"21189",36406,"col","",38.283333,-6.816667,"Cox - 96 (E. Tanganyika)",NA,"",1,"Bathonian","",168.3,166.1,9748,"gp_mid",30.17,-31.12,"701",167.2,1
-"21190",36407,"col","",38.299999,-6.816667,"Cox - 97 (E. Tanganyika)",NA,"",1,"Bathonian","",168.3,166.1,9748,"gp_mid",30.19,-31.12,"701",167.2,1
-"21209",36431,"col","",38.659721,-5.411667,"Cox - 116 (N.E. Tanganyika)",NA,"",4,"Bathonian","",168.3,166.1,9748,"gp_mid",31.23,-29.98,"701",167.2,1
-"21231",36457,"col","",41.033333,4.05,"Cox - 129 (N.E. Kenya)",NA,"",4,"Bathonian","",168.3,166.1,9748,"gp_mid",35.46,-21.25,"709",167.2,1
-"21234",36460,"col","",40.950001,3.55,"Cox - 132 (N.E. Kenya)",NA,"",14,"Bathonian","",168.3,166.1,9748,"gp_mid",35.2,-21.7,"709",167.2,1
-"21312",36546,"col","Hampen Marly",-1.166667,51.75,"Woodeaton HMF 2",NA,"",15,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21313",36547,"col","Hampen Marly",-1.166667,51.75,"Woodeaton HMF 5",NA,"",15,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21314",36548,"col","White Limestone",-1.166667,51.75,"Ardley WL 18",NA,"",27,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21315",36549,"col","White Limestone",-1.166667,51.75,"Croughton WL 16",NA,"",25,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21316",36550,"col","White Limestone",-1.166667,51.75,"Croughton WL 19",NA,"",30,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21317",36551,"col","White Limestone",-1.166667,51.75,"Ardley WL 19",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21318",36552,"col","White Limestone",-1.166667,51.75,"Ardley WL 15",NA,"",25,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21319",36553,"col","White Limestone",-1.166667,51.75,"Woodeaton WL 4",NA,"",24,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21320",36554,"col","White Limestone",-1.166667,51.75,"Northbrook Fm WL 4",NA,"",19,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21321",36555,"col","White Limestone",-1.166667,51.75,"Shilton WL 1",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21322",36556,"col","White Limestone",-1.166667,51.75,"Shipton WL 1",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21323",36557,"col","White Limestone",-1.166667,51.75,"Shipton WL 2",NA,"",12,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,1
-"21965",37507,"col","Forest Marble",-1,51,"Kirtlington 3o",NA,"",18,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,1
-"21966",37508,"col","Forest Marble",-1,51,"Kirtlington 3k",NA,"",20,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,1
-"21967",37509,"col","White Limestone",-1,51,"Kirtlington 2k",NA,"",16,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,1
-"22062",37607,"col","Ashman",-127.583336,54.783333,"McDonell Lake, Ashman Formation, bed M1",NA,"",3,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,1
-"22063",37608,"col","Ashman",-127.583336,54.783333,"McDonell Lake, Ashman Formation, bed M2",NA,"",6,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,1
-"22064",37609,"col","Ashman",-127.583336,54.783333,"McDonell Lake, Ashman Formation, bed M3",NA,"",5,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,1
-"22881",38737,"col","Grès armoricain",-0.133333,48.966667,"Récif de Perrières I, France",NA,"Reef 3326",7,"Bathonian","",168.3,166.1,10417,"gp_mid",21.39,33.22,"305",167.2,1
-"22882",38738,"col","Grès armoricain",-0.133333,48.966667,"Récif de Perrières II, France",NA,"Reef 3326",95,"Bathonian","",168.3,166.1,10417,"gp_mid",21.39,33.22,"305",167.2,1
-"22883",38739,"col","Grès armoricain",0.008333,48.816666,"Récif de Villeudieu-les-Bailleul, Villedieu, France",NA,"Reef 3325",2,"Bathonian","",168.3,166.1,10417,"gp_mid",21.52,33.08,"305",167.2,1
-"22884",38740,"col","Grès armoricain",0.033333,48.816666,"Récif de Villeudieu-les-Bailleul, Tournai-sur-Dives, France",NA,"Reef 3325",10,"Bathonian","",168.3,166.1,10417,"gp_mid",21.54,33.08,"305",167.2,1
-"22885",38741,"col","Grès armoricain",0.066667,48.799999,"Récif de Villeudieu-les-Bailleul, Aubry en Exmes, France",NA,"Reef 3325",2,"Bathonian","",168.3,166.1,10417,"gp_mid",21.57,33.07,"305",167.2,1
-"25563",42327,"col","",-1.733333,51.983334,"Snowshill Hill Quarry, Gloucestershire",NA,"",6,"Bathonian","",168.3,166.1,11186,"gp_mid",19.7,36.08,"315",167.2,1
-"25565",42329,"col","White Limestone",-1.266667,51.849998,"Bletchingdon, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",20.07,35.98,"315",167.2,1
-"25566",42330,"col","White Limestone",-1.633333,51.799999,"Burford, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",19.8,35.91,"315",167.2,1
-"25567",42331,"col","White Limestone",-1.266667,51.866669,"Kirtlington, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",20.07,36,"315",167.2,1
-"25568",42332,"col","White Limestone",-1.416667,51.849998,"Stonesfield, Oxfordshire",NA,"",4,"Bathonian","",168.3,166.1,11186,"gp_mid",19.96,35.97,"315",167.2,1
-"25569",42333,"col","White Limestone",-1.483333,51.783333,"Witney, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",19.92,35.9,"315",167.2,1
-"25570",42334,"col","",-0.933333,52.166668,"Blisworth, Northamptonshire",NA,"",2,"Bathonian","",168.3,166.1,11186,"gp_mid",20.27,36.32,"315",167.2,1
-"28010",45394,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D4,base)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28011",45395,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D4,middle)",NA,"",16,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28013",45397,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D4,median)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28014",45398,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D4,top)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28079",45464,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D5,2,lower quarter)",NA,"",19,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28080",45465,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D5,2,lower half)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28081",45466,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D5,3,base)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28082",45467,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma D5,3,top)",NA,"",15,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28133",45516,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma Fm. D6,1,middle part)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28134",45517,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma Fm. D6,1,top)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28135",45518,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma Fm. D6,2)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28136",45519,"col","Dhruma",46.584442,24.231388,"Shaqra Group (middle Dhruma Fm. D6,4)",NA,"",18,"Bathonian","",168.3,166.1,11728,"gp_mid",45.61,-6.24,"503",167.2,1
-"28516",45936,"col","Tilougguit",-6.451011,32.108208,"Bin-el-Ouidane tracksite",NA,"Aït Ammou",2,"Bathonian","",168.3,166.1,12236,"gp_mid",6.51,22.81,"707",167.2,1
-"28517",45937,"col","Guettioua",-5.767,32.466999,"Tizi-n-Isly tracksite",NA,"Tizi-n-Isli",2,"Bathonian","",168.3,166.1,12236,"gp_mid",7.24,22.82,"707",167.2,1
-"28518",45938,"col","Guettioua",-6.833333,32,"Aît Issa tracksite",NA,"Aît Attab",3,"Bathonian","",168.3,166.1,12236,"gp_mid",6.14,22.88,"707",167.2,1
-"28521",45941,"col","Guettioua",-6.282146,32.041893,"Wawmda, Tilougguit Basin",NA,"",3,"Bathonian","",168.3,166.1,12238,"gp_mid",6.6,22.68,"707",167.2,1
-"30240",48143,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-6.66,"503",167.2,1
-"30255",48297,"col","Dhruma",46.166668,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",44.8,-7.14,"503",167.2,1
-"30409",48012,"col","Dhruma Fm,drilling samples",44.816666,26.25,"Shaqra Group (Dhruma Fm,drilling samples)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",44.96,-3.75,"503",167.2,1
-"30410",48013,"col","Dhruma Fm,drilling samples",44.816666,26.25,"Shaqra Group (Dhruma Fm,drilling samples)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.96,-3.75,"503",167.2,1
-"30531",48137,"col","Dhruma",45.5,24.083332,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",44.64,-5.98,"503",167.2,1
-"30534",48140,"col","Dhruma",46.166668,23.799999,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",45.09,-6.48,"503",167.2,1
-"30535",48141,"col","Dhruma",46.166668,23.799999,"Shaqra Group (Dhruma Fm.)",NA,"",11,"Bathonian","",168.3,166.1,11728,"gp_mid",45.09,-6.48,"503",167.2,1
-"30536",48142,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",50,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30537",48144,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-6.66,"503",167.2,1
-"30538",48145,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-6.66,"503",167.2,1
-"30690",48298,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",11,"Bathonian","",168.3,166.1,11728,"gp_mid",45.27,-7.61,"503",167.2,1
-"30691",48299,"col","Dhruma",46,22.5,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",44.42,-7.61,"503",167.2,1
-"30692",48300,"col","Dhruma",46,22.5,"Shaqra Group (Dhruma Fm.)",NA,"",23,"Bathonian","",168.3,166.1,11728,"gp_mid",44.42,-7.61,"503",167.2,1
-"30693",48301,"col","Dhruma",45.666668,21.883333,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bathonian","",168.3,166.1,11728,"gp_mid",43.88,-8.05,"503",167.2,1
-"30694",48302,"col","Dhruma",45.666668,21.883333,"Shaqra Group (Dhruma Fm.)",NA,"",14,"Bathonian","",168.3,166.1,11728,"gp_mid",43.88,-8.05,"503",167.2,1
-"30695",48303,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30696",48304,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Bathonian","",168.3,166.1,11728,"gp_mid",45.27,-7.61,"503",167.2,1
-"30697",48305,"col","Dhruma",46,22.5,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",44.42,-7.61,"503",167.2,1
-"30698",48306,"col","Dhruma",45.833332,22.166668,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",44.14,-7.85,"503",167.2,1
-"30699",48307,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",23,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30700",48308,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30701",48309,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30702",48310,"col","Dhruma",46.166668,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bathonian","",168.3,166.1,11728,"gp_mid",44.8,-7.14,"503",167.2,1
-"30703",48311,"col","Dhruma",46.166668,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.8,-7.14,"503",167.2,1
-"30704",48312,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",44.47,-7.5,"503",167.2,1
-"30705",48313,"col","Dhruma",46.833332,22.833332,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.27,-7.61,"503",167.2,1
-"30706",48314,"col","Dhruma",46,22.450001,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",44.4,-7.66,"503",167.2,1
-"30707",48315,"col","Dhruma",46,22.450001,"Shaqra Group (Dhruma Fm.)",NA,"",9,"Bathonian","",168.3,166.1,11728,"gp_mid",44.4,-7.66,"503",167.2,1
-"30708",48316,"col","Dhruma",45.5,21.166668,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",43.45,-8.64,"503",167.2,1
-"30709",48317,"col","Dhruma",45.5,21.116667,"Shaqra Group (Dhruma Fm.)",NA,"",7,"Bathonian","",168.3,166.1,11728,"gp_mid",43.43,-8.69,"503",167.2,1
-"30725",48332,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30726",48333,"col","Dhruma",46.166668,23.966667,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.15,-6.33,"503",167.2,1
-"30727",48334,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",14,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-6.66,"503",167.2,1
-"30728",48335,"col","Dhruma",46,23.533333,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-6.66,"503",167.2,1
-"30729",48336,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.94,-7.2,"503",167.2,1
-"30730",48337,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.47,-7.5,"503",167.2,1
-"30731",48338,"col","Dhruma",46,22.616667,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.47,-7.5,"503",167.2,1
-"30732",48339,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30733",48340,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",14,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30734",48341,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30759",48366,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30762",48369,"col","Dhruma",45,25.5,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",44.8,-4.5,"503",167.2,1
-"30765",48372,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30766",48373,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30786",48393,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30787",48394,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30788",48395,"col","Dhruma",46,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.33,-5.55,"503",167.2,1
-"30789",48396,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",11,"Bathonian","",168.3,166.1,11728,"gp_mid",45.17,-5.15,"503",167.2,1
-"30790",48397,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",14,"Bathonian","",168.3,166.1,11728,"gp_mid",45.17,-5.15,"503",167.2,1
-"30792",48399,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30793",48400,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30794",48401,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30795",48402,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",13,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30797",48404,"col","Dhruma",45,25.416668,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",44.77,-4.57,"503",167.2,1
-"30798",48405,"col","Dhruma",45,25.533333,"Shaqra Group (Dhruma Fm.)",NA,"",64,"Bathonian","",168.3,166.1,11728,"gp_mid",44.82,-4.47,"503",167.2,1
-"30802",48409,"col","Dhruma",44.966667,25.916668,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.95,-4.11,"503",167.2,1
-"30803",48410,"col","Dhruma",44.833332,26.200001,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.95,-3.8,"503",167.2,1
-"30826",48447,"col","Dhruma",44,26.916668,"Shaqra Group (Dhruma Fm.)",NA,"",43,"Bathonian","",168.3,166.1,11728,"gp_mid",44.57,-2.84,"503",167.2,1
-"30827",48448,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",12,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30828",48449,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",9,"Bathonian","",168.3,166.1,11728,"gp_mid",45.17,-5.15,"503",167.2,1
-"30829",48450,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",6,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30830",48451,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",29,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30831",48452,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30832",48453,"col","Dhruma",45,25.366667,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",44.75,-4.62,"503",167.2,1
-"30833",48454,"col","Dhruma",45,25.366667,"Shaqra Group (Dhruma Fm.)",NA,"",29,"Bathonian","",168.3,166.1,11728,"gp_mid",44.75,-4.62,"503",167.2,1
-"30834",48455,"col","Dhruma",45,25.583332,"Shaqra Group (Dhruma Fm.)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",44.84,-4.42,"503",167.2,1
-"30835",48456,"col","Dhruma",45.25,25.783333,"Shaqra Group (Dhruma Fm.)",NA,"",30,"Bathonian","",168.3,166.1,11728,"gp_mid",45.13,-4.33,"503",167.2,1
-"30836",48457,"col","Dhruma",45.25,25.783333,"Shaqra Group (Dhruma Fm.)",NA,"",28,"Bathonian","",168.3,166.1,11728,"gp_mid",45.13,-4.33,"503",167.2,1
-"30852",48477,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",10,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30853",48478,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",10,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30854",48479,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30855",48480,"col","Dhruma",46.083332,24.75,"Shaqra Group (Dhruma Fm.)",NA,"",8,"Bathonian","",168.3,166.1,11728,"gp_mid",45.4,-5.58,"503",167.2,1
-"30859",48484,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",31,"Bathonian","",168.3,166.1,11728,"gp_mid",45.17,-5.15,"503",167.2,1
-"30860",48485,"col","Dhruma",45.666668,25.049999,"Shaqra Group (Dhruma Fm.)",NA,"",10,"Bathonian","",168.3,166.1,11728,"gp_mid",45.17,-5.15,"503",167.2,1
-"30861",48486,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30862",48487,"col","Dhruma",45.5,25.166668,"Shaqra Group (Dhruma Fm.)",NA,"",4,"Bathonian","",168.3,166.1,11728,"gp_mid",45.08,-4.99,"503",167.2,1
-"30865",48490,"col","Dhruma",45,25.700001,"Shaqra Group (Dhruma Fm.)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.89,-4.32,"503",167.2,1
-"30867",48492,"col","Dhruma",45.25,25.783333,"Shaqra Group (Dhruma Fm.)",NA,"",2,"Bathonian","",168.3,166.1,11728,"gp_mid",45.13,-4.33,"503",167.2,1
-"30897",48522,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",31,"Bathonian","",168.3,166.1,11728,"gp_mid",44.94,-7.2,"503",167.2,1
-"30898",48523,"col","Dhruma",46.333332,23.083332,"Shaqra Group (Dhruma Fm.)",NA,"",3,"Bathonian","",168.3,166.1,11728,"gp_mid",44.94,-7.2,"503",167.2,1
-"31556",49426,"col","Tilougguit",-6.235523,32.212112,"Sgatt, Isseksi",NA,"Sgat, Ouaouizarht, Asseksi, Ouaouizaght",1,"Bathonian","",168.3,166.1,30612,"gp_mid",6.73,22.8,"707",167.2,1
-"32872",51247,"col","Isalo III",47.666698,-15.55,"Port-Bergé",NA,"Port Berge",1,"Bathonian","",168.3,166.1,13648,"gp_mid",38.16,-27.37,"702",167.2,1
-"32874",51249,"col","Isalo III",48.016701,-14.6167,"Ankinganivalaka",NA,"Ankingavola; right bank of Loza River",2,"Bathonian","",168.3,166.1,52223,"gp_mid",39.03,-26.76,"702",167.2,1
-"32875",51250,"col","Isalo III",47.916698,-14.8833,"Ankinganivalaka, Antsaongo",NA,"Antsaonjo",1,"Bathonian","",168.3,166.1,52223,"gp_mid",38.78,-26.93,"702",167.2,1
-"32876",51251,"col","Isalo III",47.987007,-14.9673,"Antsohihi",NA,"Antsohihy",1,"Bathonian","",168.3,166.1,13648,"gp_mid",38.8,-27.04,"702",167.2,1
-"32879",51254,"col","Isalo III",47.987007,-14.9673,"Antsohihy",NA,"Antsohihy, B. madagascariensis type, Narinda, Narindra, Kamoro",1,"Bathonian","",168.3,166.1,52153,"gp_mid",38.8,-27.04,"702",167.2,1
-"32968",51343,"col","Kalur Chert",19.85,41.833332,"Al 163, Bukemira, Albania",NA,"",2,"Bathonian","",168.3,166.1,13660,"gp_mid",34.15,16.31,"307",167.2,1
-"32969",51344,"col","Kalur Chert",19.85,41.833332,"Al 164, Bukemira, Albania",NA,"",4,"Bathonian","",168.3,166.1,13660,"gp_mid",34.15,16.31,"307",167.2,1
-"33477",51917,"col","Isalo III",47.116699,-16.483299,"Tsinjorano",NA,"Tsinjorano I",1,"Bathonian","",168.3,166.1,13843,"gp_mid",37.09,-27.88,"702",167.2,1
-"33478",51918,"col","Isalo III",47.116699,-16.483299,"Tsinjorano-East",NA,"",1,"Bathonian","",168.3,166.1,13843,"gp_mid",37.09,-27.88,"702",167.2,1
-"34049",52507,"col","",-1.28339,51.875183,"Kirtlington Old Cement Works Quarry (OUM)",NA,"",5,"Bathonian","",168.3,166.1,19212,"gp_mid",20.05,36.01,"315",167.2,1
-"34050",52508,"col","",-1.266389,51.854168,"Bletchington, Enstone",NA,"Blechingdon, Enslow",1,"Bathonian","",168.3,166.1,14071,"gp_mid",20.07,35.99,"315",167.2,1
-"34052",52510,"col","",-0.948115,52.185398,"Blisworth, Northamptonshire (BMNH)",NA,"Bilsworth",1,"Bathonian","",168.3,166.1,29200,"gp_mid",20.26,36.34,"315",167.2,1
-"34123",52591,"col","",-1.830278,51.758057,"Bibury, Cirencester (BMNH)",NA,"Bilbury",1,"Bathonian","",168.3,166.1,14142,"gp_mid",19.66,35.85,"315",167.2,1
-"35790",55318,"col","Isalo IIIb",47.150002,-16.433001,"Ambondromamy",NA,"",1,"Bathonian","",168.3,166.1,14801,"gp_mid",37.15,-27.85,"702",167.2,1
-"35791",55319,"col","Isalo IIIb",47.400002,-16.48,"Ambondromamy / Port Bergè",NA,"Mahajanga Basin",3,"Bathonian","",168.3,166.1,14801,"gp_mid",37.35,-28.02,"702",167.2,1
-"35843",55391,"col","Isalo IIIb",47.116199,-16.483299,"Tsinjorano / Kamoro bridge",NA,"",1,"Bathonian","",168.3,166.1,14801,"gp_mid",37.09,-27.88,"702",167.2,1
-"35844",55392,"col","Isalo IIIb",47.166698,-16.4667,"right bank, Kamoro River",NA,"",1,"Bathonian","",168.3,166.1,14801,"gp_mid",37.15,-27.89,"702",167.2,1
-"35845",55393,"col","Isalo IIIb",47.116699,-16.483299,"Tsinjorano / Ambondromamy",NA,"",6,"Bathonian","",168.3,166.1,14801,"gp_mid",37.09,-27.88,"702",167.2,1
-"36126",55747,"col","Isalo IIIb",47.666698,-15.55,"north of Port Bergé",NA,"",3,"Bathonian","",168.3,166.1,14801,"gp_mid",38.16,-27.37,"702",167.2,1
-"36261",55884,"col","Isalo IIIb",47.133331,-16.416668,"west of Ambondromamy",NA,"",2,"Bathonian","",168.3,166.1,15067,"gp_mid",37.15,-27.83,"702",167.2,1
-"36475",56133,"col","Sundance",-107.833054,44.527779,"Red Gulch Dinosaur Tracksite, UW V-98066",NA,"RGDT",5,"Bathonian","",168.3,166.1,31470,"gp_mid",-34.27,32.53,"101",167.2,1
-"37131",57121,"col","Cotswold Slate",-1.833333,51.900002,"Kineton Thorns Quarry",NA,"",4,"Bathonian","",168.3,166.1,10557,"gp_mid",19.63,35.99,"315",167.2,1
-"38140",58210,"col","",13.783333,52.966667,"Geschiebe from Althüttendorf, Brandenburg",NA,"",3,"Bathonian","",168.3,166.1,16511,"gp_mid",31.19,38.66,"315",167.2,1
-"38145",58215,"col","",13.6,53.316666,"Geschiebe from Arendsee-Weggun, Brandenburg",NA,"",1,"Bathonian","",168.3,166.1,16522,"gp_mid",30.95,38.98,"315",167.2,1
-"38163",58233,"col","",14.733333,53.950001,"Geschiebe from Gristow (Chrzaszczewska), Western Pomerania",NA,"",1,"Bathonian","",168.3,166.1,15704,"gp_mid",31.62,39.74,"302",167.2,1
-"38173",58243,"col","",14.2,53.933334,"Bore Heringsdorf 4/63, Mecklenburg-Vorpommern",NA,"",3,"Bathonian","",168.3,166.1,15700,"gp_mid",31.23,39.65,"315",167.2,1
-"38204",58274,"col","",14.966667,53.783333,"Bore Kleby 1/37, depth 269,5-271,0 m, Western Pomerania",NA,"",1,"Bathonian","",168.3,166.1,15706,"gp_mid",31.84,39.61,"315",167.2,1
-"38219",58288,"col","",14.966667,53.783333,"Bore Kleby 1/37, depth 264,5-265,25 m, Western Pomerania",NA,"",3,"Bathonian","",168.3,166.1,15698,"gp_mid",31.84,39.61,"315",167.2,1
-"38222",58291,"col","",14.966667,53.783333,"Bore Kleby 1/37, Western Pomerania",NA,"",3,"Bathonian","",168.3,166.1,16511,"gp_mid",31.84,39.61,"315",167.2,1
-"38326",58401,"col","",14.05,54.033333,"Bore Ückeritz 1/64, depth 412,5-417,5 m, Mecklenburg-Vorpommern",NA,"",2,"Bathonian","",168.3,166.1,15706,"gp_mid",31.09,39.73,"315",167.2,1
-"38329",58404,"col","",14.05,54.033333,"Bore Ückeritz 1/1A/64, Mecklenburg-Vorpommern",NA,"",3,"Bathonian","",168.3,166.1,16523,"gp_mid",31.09,39.73,"315",167.2,1
-"38334",58409,"col","",14.05,54.033333,"Bore Ückeritz 1A/64, depth 406,0-409,3 m, Mecklenburg-Vorpommern",NA,"",1,"Bathonian","",168.3,166.1,15706,"gp_mid",31.09,39.73,"315",167.2,1
-"38335",58410,"col","",14.05,54.033333,"Bore Ückeritz 1A/64, depth 409,5-411,0 m, Mecklenburg-Vorpommern",NA,"",3,"Bathonian","",168.3,166.1,15698,"gp_mid",31.09,39.73,"315",167.2,1
-"38336",58411,"col","",14.05,54.033333,"Bore Ückeritz 1A/64, depth 412,5-413,5 m, Mecklenburg-Vorpommern",NA,"",1,"Bathonian","",168.3,166.1,16511,"gp_mid",31.09,39.73,"315",167.2,1
-"38948",59034,"col","Forest Marble",-2.1,51.584999,"Ophiuroidea, Bathonian, Malmesbury, Wiltshire, UK",NA,"",1,"Bathonian","",168.3,166.1,16757,"gp_mid",19.48,35.66,"315",167.2,1
-"38949",59035,"col","Forest Marble",-2.124722,51.459999,"Ophiuroidea, Bathonian, Chippenham, Wiltshire, UK",NA,"",1,"Bathonian","",168.3,166.1,16757,"gp_mid",19.48,35.53,"315",167.2,1
-"39252",59362,"col","",-2.36,51.375832,"Bath area theropod",NA,"",1,"Bathonian","",168.3,166.1,17007,"gp_mid",19.31,35.43,"315",167.2,1
-"42272",63076,"col","",19.466667,50.516666,"Blanowice, Czestochowa region, Slaskie",NA,"",4,"Bathonian","",168.3,166.1,18165,"gp_mid",36.23,37.07,"305",167.2,1
-"43364",65031,"col","",1.743249,50.88414,"Hydrequent",NA,"Boulonnais, Boulogne-sur-mer",2,"Bathonian","",168.3,166.1,19135,"gp_mid",22.52,35.28,"315",167.2,1
-"44896",67204,"col","Isalo III",47.966671,-14.58333,"Mevarana, Loza Gulf",NA,"Maevarano, Narindra, Narinda",1,"Bathonian","",168.3,166.1,19184,"gp_mid",39.01,-26.7,"702",167.2,1
-"44897",67205,"col","Isalo III",47.987007,-14.9673,"south of Antsohihi",NA,"Antsohihy",1,"Bathonian","",168.3,166.1,19184,"gp_mid",38.8,-27.04,"702",167.2,1
-"44898",67206,"col","Isalo III",47.965267,-14.928696,"Lake Ankitsanibé",NA,"Antsohihi, Antrisanibé",1,"Bathonian","",168.3,166.1,19184,"gp_mid",38.8,-26.99,"702",167.2,1
-"45192",67616,"col","",18.933332,50.900002,"Klobuck borehole 22, Czestochowa region, Slaskie",NA,"",2,"Bathonian","",168.3,166.1,18165,"gp_mid",35.71,37.37,"305",167.2,1
-"45428",67992,"col","",1.422901,46.635109,"Combe quarry, Saint-Gaultier",NA,"Carrière de la Combe",5,"Bathonian","",168.3,166.1,42903,"gp_mid",22.97,31.04,"305",167.2,1
-"46191",68840,"col","Sawtooth",-112.883331,48.183334,"USGS Mesozoic loc. 19185, north of Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,37.88,"127",167.2,1
-"46192",68841,"col","Sawtooth",-112.883331,48.183334,"USGS Mesozoic loc. 19186, north of Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,37.88,"127",167.2,1
-"46193",68842,"col","Sawtooth",-112.76667,47.916668,"USGS Mesozoic loc. 19609, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.4,37.64,"127",167.2,1
-"46194",68843,"col","Sawtooth",-112.758331,47.875,"USGS Mesozoic loc. 18718, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,1
-"46195",68844,"col","Sawtooth",-112.758331,47.875,"USGS Mesozoic loc. 19601, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,1
-"46196",68845,"col","Sawtooth",-112.758331,47.875,"USGS Mesozoic loc. 19604, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,1
-"46197",68846,"col","Sawtooth",-112.758331,47.875,"USGS Mesozoic loc. 20355, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,1
-"46198",68847,"col","Sawtooth",-112.758331,47.875,"USGS Mesozoic loc. 20357, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,1
-"46199",68848,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 18714, Sun River area, Western Montana",NA,"",14,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46200",68849,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 18715, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46201",68850,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 19184, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46202",68851,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 22652, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46203",68853,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 22653, Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46204",68854,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 22654, Sun River area, Western Montana",NA,"",9,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46205",68855,"col","Sawtooth",-112.691666,47.783333,"USGS Mesozoic loc. 22655, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,1
-"46206",68856,"col","Sawtooth",-112.716667,47.716667,"USGS Mesozoic loc. 27040, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.45,"127",167.2,1
-"46207",68857,"col","Sawtooth",-112.716667,47.716667,"USGS Mesozoic loc. 27046, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.45,"127",167.2,1
-"46208",68858,"col","Sawtooth",-112.699997,47.701389,"USGS Mesozoic loc. 27506, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.3,37.43,"127",167.2,1
-"46209",68859,"col","Sawtooth",-112.705559,47.633331,"USGS Mesozoic loc. 19608, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.29,37.37,"127",167.2,1
-"46210",68860,"col","Sawtooth",-112.705559,47.633331,"USGS Mesozoic loc. 27042, Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.29,37.37,"127",167.2,1
-"46211",68861,"col","Sawtooth",-112.76667,47.616669,"USGS Mesozoic loc. 27039, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.33,37.34,"127",167.2,1
-"46212",68862,"col","Sawtooth",-112.787498,47.605278,"USGS Mesozoic loc. 27047, Sun River area, Western Montana",NA,"",7,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,1
-"46213",68863,"col","Sawtooth",-112.75,47.6175,"USGS Mesozoic loc. 27502, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.34,"127",167.2,1
-"46214",68864,"col","Sawtooth",-112.787498,47.605278,"USGS Mesozoic loc. 27045, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,1
-"46215",68865,"col","Sawtooth",-112.787498,47.605278,"USGS Mesozoic loc. 27501, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,1
-"46216",68866,"col","Sawtooth",-112.794441,47.529167,"USGS Mesozoic loc. 27503, Sun River area, Western Montana",NA,"",5,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.25,"127",167.2,1
-"46217",68867,"col","Sawtooth",-112.794441,47.529167,"USGS Mesozoic loc. 27504, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.25,"127",167.2,1
-"46218",68868,"col","Sawtooth",-112.796387,47.533333,"USGS Mesozoic loc. 27505, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.26,"127",167.2,1
-"46219",68869,"col","Sawtooth",-112.691666,47.516666,"USGS Mesozoic loc. 18324, Sun River area, Western Montana",NA,"",8,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.25,37.25,"127",167.2,1
-"46220",68870,"col","Sawtooth",-112.691666,47.516666,"USGS Mesozoic loc. 27041, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.25,37.25,"127",167.2,1
-"46221",68871,"col","Sawtooth",-113.300003,46.716667,"USGS Mesozoic loc. 19623, Drummond area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,36.39,"127",167.2,1
-"47595",70908,"col","",-0.452066,52.701954,"Essendine, Stamford sauropod",NA,"",1,"Bathonian","",168.3,166.1,23773,"gp_mid",20.55,36.89,"315",167.2,1
-"48809",73296,"col","",-3.65,37.583332,"Casa Blanca-Puerto de las Palomas, Unit 10, Andalucia",NA,"",6,"Bathonian","",168.3,166.1,24605,"gp_mid",16.95,23.35,"304",167.2,1
-"49072",73749,"col","",-4.366667,43.150002,"Tudanca section; benthic forams, 511 m",NA,"",27,"Bathonian","",168.3,166.1,24720,"gp_mid",19.36,28.51,"304",167.2,1
-"49073",73750,"col","",-4.366667,43.150002,"Tudanca section; benthic forams, 579 m",NA,"",29,"Bathonian","",168.3,166.1,24720,"gp_mid",19.36,28.51,"304",167.2,1
-"49087",73776,"col","",-4.266667,42.799999,"Aguilar de Campoo section, benthic forams, 235 m",NA,"",38,"Bathonian","",168.3,166.1,24720,"gp_mid",19.24,28.17,"304",167.2,1
-"49088",73777,"col","",-4.266667,42.799999,"Aguilar de Campoo section, benthic forams, 280 m",NA,"",31,"Bathonian","",168.3,166.1,24720,"gp_mid",19.24,28.17,"304",167.2,1
-"49101",73790,"col","",-4.016667,42.583332,"Barrios de Villadiego section, benthic forams, 145 m",NA,"",23,"Bathonian","",168.3,166.1,24720,"gp_mid",19.3,27.89,"304",167.2,1
-"49102",73791,"col","",-4.016667,42.583332,"Barrios de Villadiego section, benthic forams, 182 m",NA,"",28,"Bathonian","",168.3,166.1,24720,"gp_mid",19.3,27.89,"304",167.2,1
-"49785",74641,"col","Bath Oolite",-1.949203,51.719624,"Hare-Bushes Quarry, stage 4",NA,"Harebushes, Cirencester",1,"Bathonian","",168.3,166.1,25121,"gp_mid",19.57,35.8,"315",167.2,1
-"51054",77242,"col","",-2.366667,51.383331,"Combe Down, Bath, Great Oolite",NA,"",7,"Bathonian","",168.3,166.1,26156,"gp_mid",19.31,35.44,"315",167.2,1
-"51060",77248,"col","",-2.366667,51.383331,"Bath area",NA,"",7,"Bathonian","",168.3,166.1,26156,"gp_mid",19.31,35.44,"315",167.2,1
-"51061",77249,"col","",-1.883333,51.733334,"Barnsley, Gloucestershire",NA,"",1,"Bathonian","",168.3,166.1,26156,"gp_mid",19.62,35.82,"315",167.2,1
-"51063",77251,"col","",-2.233333,51.333332,"Bradford Hills",NA,"",1,"Bathonian","",168.3,166.1,26156,"gp_mid",19.41,35.4,"315",167.2,1
-"51559",78218,"col","",-4.266667,42.799999,"Aguilar de Campoo, SW Cuenca",NA,"",3,"Bathonian","",168.3,166.1,26346,"gp_mid",19.24,28.17,"304",167.2,1
-"51560",78219,"col","",-3.483333,42.75,"Quintanaopia area, Burgos",NA,"",3,"Bathonian","",168.3,166.1,26346,"gp_mid",19.78,27.85,"304",167.2,1
-"53059",81104,"col","Isalo III",46.216671,-17,"Manary-Abo, Tsinjorano",NA,"Manariabo",1,"Bathonian","",168.3,166.1,34781,"gp_mid",35.95,-27.85,"702",167.2,1
-"54585",83346,"col","Techout",10.466667,33,"Ksar Jelidat, Techout Formation",NA,"",2,"Bathonian","",168.3,166.1,27987,"gp_mid",22.51,16.3,"715",167.2,1
-"54816",83641,"col","Hamam",35.616669,32.200001,"Corals, Hamam Formation, Tal el Dhahab",NA,"",1,"Bathonian","",168.3,166.1,28053,"gp_mid",40.41,5.15,"503",167.2,1
-"54817",83642,"col","Ramla",35.616669,32.200001,"Corals, Ramla Formation, Wadi Huni",NA,"",1,"Bathonian","",168.3,166.1,28053,"gp_mid",40.41,5.15,"503",167.2,1
-"56450",85938,"col","Tanga Limestone",38.939445,-5.076667,"Pongwe, loc. N 308",NA,"",5,"Bathonian","",168.3,166.1,28991,"gp_mid",29.82,-29.11,"709",167.2,1
-"56457",85945,"col","Tanga Limestone",39.049999,-5.061667,"Amboni, loc. N 303, N 305",NA,"",3,"Bathonian","",168.3,166.1,28991,"gp_mid",29.95,-29.13,"709",167.2,1
-"56458",85946,"col","Tanga Limestone",38.959999,-5.076667,"Pongwe, loc. N 15, N 16",NA,"",2,"Bathonian","",168.3,166.1,28991,"gp_mid",29.84,-29.12,"709",167.2,1
-"56696",86407,"col","",44.299999,-23.733334,"Ampakabo",NA,"Reef 462",8,"Bathonian","",168.3,166.1,29108,"gp_mid",29.89,-32.44,"702",167.2,1
-"56698",86409,"col","",44.333332,-23.766666,"Anontsy",NA,"Reef 462",6,"Bathonian","",168.3,166.1,29108,"gp_mid",29.89,-32.48,"702",167.2,1
-"56709",86420,"col","",44.299999,-23.766666,"Mikaikarivo",NA,"Reef 462",2,"Bathonian","",168.3,166.1,29108,"gp_mid",29.86,-32.47,"702",167.2,1
-"56779",86490,"col","",44.016666,-20.85,"Morondava",NA,"",4,"Bathonian","",168.3,166.1,29108,"gp_mid",31.55,-29.92,"702",167.2,1
-"56859",86625,"col","Mytilus Beds",7.383333,46.633331,"Boltigen",NA,"",3,"Bathonian","",168.3,166.1,29177,"gp_mid",27.71,31.66,"305",167.2,1
-"56860",86626,"col","",7.116667,47.349998,"Seleute",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.36,32.33,"305",167.2,1
-"56861",86627,"col","",7.35,47.366669,"Vorbourg",NA,"",7,"Bathonian","",168.3,166.1,29177,"gp_mid",27.54,32.38,"305",167.2,1
-"56862",86628,"col","",7.3,47.416668,"Movelier",NA,"",3,"Bathonian","",168.3,166.1,29177,"gp_mid",27.49,32.42,"305",167.2,1
-"56863",86629,"col","",7.166667,47.400002,"Cornol",NA,"",2,"Bathonian","",168.3,166.1,29177,"gp_mid",27.39,32.39,"305",167.2,1
-"56864",86630,"col","Mytilus Beds",7.283333,46.599998,"Purpel",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.64,31.61,"305",167.2,1
-"56869",86639,"col","",7.2,47.383331,"Asuel",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.42,32.37,"305",167.2,1
-"56875",86673,"col","",7.9,47.366669,"Trimbach",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.97,32.44,"305",167.2,1
-"58026",88178,"col","Isalo IIIb",47.166672,-16.48333,"Ambohimanatrika",NA,"",2,"Bathonian","",168.3,166.1,29607,"gp_mid",37.14,-27.9,"702",167.2,1
-"58027",88179,"col","Isalo IIIb",47.083084,-16.494129,"N/NW of Ambondromamy",NA,"",1,"Bathonian","",168.3,166.1,29608,"gp_mid",37.05,-27.87,"702",167.2,1
-"59772",90912,"col","Twin Creek",-111.224998,42.140278,"East of Bear Lake",NA,"",6,"Bathonian","",168.3,166.1,30589,"gp_mid",-37.82,30.91,"101",167.2,1
-"59792",90983,"col","",-6.466453,32.1054,"Bin el Ouidane",NA,"",1,"Bathonian","",168.3,166.1,30614,"gp_mid",6.49,22.81,"707",167.2,1
-"59972",91221,"col","",-1.433333,48.783333,"Falaise de Langrune, Lucerne",NA,"",1,"Bathonian","",168.3,166.1,30685,"gp_mid",20.4,32.93,"305",167.2,1
-"60147",91445,"col","",14.983333,53.816666,"Kieby 1/37 drill core (265–291.6 m), Golczewo",NA,"",2,"Bathonian","",168.3,166.1,30801,"gp_mid",31.85,39.64,"315",167.2,1
-"60150",91448,"col","Fullers Earth",-2.333333,50.75,"Burton Cliff, Dorset [Fullers Earth Fm]",NA,"",3,"Bathonian","",168.3,166.1,30802,"gp_mid",19.42,34.81,"315",167.2,1
-"60151",91449,"col","Forest Marble",-0.1,51.849998,"Watton Cliff, Dorset [Forest Marble Fm]",NA,"",11,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,1
-"60152",91450,"col","Frome Clay",-0.1,51.849998,"Watton Cliff, Dorset, oyster-belemnite bed [Frome Clay Fm]",NA,"",13,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,1
-"60153",91451,"col","Forest Marble",-2.621667,51.502777,"Henbury Point, Dorset [Forest Marble Fm]",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",19.09,35.54,"315",167.2,1
-"60154",91452,"col","Fullers Earth",-2.333333,50.75,"Horn Park Quarry, Dorset [Fullers Earth Fm]",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",19.42,34.81,"315",167.2,1
-"60155",91453,"col","Fullers Earth",-2.456111,51.193054,"East Cranmore, Somerset [Fullers Earth Fm]",NA,"",3,"Bathonian","",168.3,166.1,30802,"gp_mid",19.26,35.24,"315",167.2,1
-"60156",91454,"col","Forest Marble",-0.1,51.849998,"Ford Road Cutting, Wiltshire [Upper Rags Mbr, Forest Marble Fm]",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,1
-"60157",91455,"col","Forest Marble",-0.1,51.849998,"Watton Cliff, Dorset, Wattonensis beds",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,1
-"60572",91908,"col","",20.397778,50.771389,"Black clays, Former Checiny Rail station, Dabrowa",NA,"",17,"Bathonian","",168.3,166.1,30951,"gp_mid",36.88,37.46,"305",167.2,1
-"60678",92016,"col","Isalo IIIb",47.066666,-16.5,"Hills W-NW of Andranomamy",NA,"",5,"Bathonian","",168.3,166.1,30957,"gp_mid",37.03,-27.86,"702",167.2,1
-"60811",92151,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromahabo, M-8",NA,"Ambondromamy",11,"Bathonian","",168.3,166.1,31041,"gp_mid",36.93,-27.86,"702",167.2,1
-"61392",92934,"col","Comblanchien",4.733333,47.083332,"Comblanchien Quarry",NA,"",1,"Bathonian","",168.3,166.1,17651,"gp_mid",25.52,31.81,"305",167.2,1
-"62029",93826,"col","Fuller's Earth Clay",-2.514444,50.611389,"Herbury Point, near Fleet",NA,"",1,"Bathonian","",168.3,166.1,31904,"gp_mid",19.3,34.66,"315",167.2,1
-"62185",94008,"col","",35.799999,32.183334,"Sample WH7, Wadi Huni section",NA,"",4,"Bathonian","",168.3,166.1,31946,"gp_mid",40.54,5.06,"503",167.2,1
-"62186",94009,"col","",35.799999,32.183334,"Sample HU3, Wadi Huni section",NA,"",8,"Bathonian","",168.3,166.1,31946,"gp_mid",40.54,5.06,"503",167.2,1
-"62187",94010,"col","",35.799999,32.183334,"Sample HU4, Wadi Huni section",NA,"",5,"Bathonian","",168.3,166.1,31946,"gp_mid",40.54,5.06,"503",167.2,1
-"65600",98356,"col","",-5.11667,33.150002,"Boulahfa",NA,"",2,"Bathonian","",168.3,166.1,33989,"gp_mid",8.14,23.12,"707",167.2,1
-"65942",98714,"col","Dhruma",46.083332,24.799999,"Khashm el Hassau, S743",NA,"",6,"Bathonian","",168.3,166.1,34048,"gp_mid",45.42,-5.53,"503",167.2,1
-"65944",98716,"col","Dhruma",46.316666,24.200001,"Khashm Mashraq, S1001",NA,"",9,"Bathonian","",168.3,166.1,34048,"gp_mid",45.37,-6.17,"503",167.2,1
-"65945",98717,"col","Dhruma",46.316666,24.200001,"Khashm Mashraq, S1007",NA,"",6,"Bathonian","",168.3,166.1,34048,"gp_mid",45.37,-6.17,"503",167.2,1
-"65946",98718,"col","Dhruma",46.266666,23.516666,"Wadi Hauta, S1036",NA,"",5,"Bathonian","",168.3,166.1,34048,"gp_mid",45.06,-6.78,"503",167.2,1
-"65947",98719,"col","Dhruma",46.266666,24.183332,"Ain Bukhara, S1045",NA,"",3,"Bathonian","",168.3,166.1,34048,"gp_mid",45.33,-6.17,"503",167.2,1
-"65970",98742,"col","Dhruma",45.740002,25.068333,"Wadi Atj, S1440",NA,"",7,"Bathonian","",168.3,166.1,34048,"gp_mid",45.24,-5.16,"503",167.2,1
-"65994",98766,"col","Dhruma",45.198334,25.533333,"Al Jurayfah, S1482",NA,"",4,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.54,"503",167.2,1
-"65996",98768,"col","Dhruma",45.355,25.424999,"Al Jurayfah, S1488",NA,"",7,"Bathonian","",168.3,166.1,34048,"gp_mid",45.07,-4.7,"503",167.2,1
-"65998",98770,"col","Dhruma",45.708332,25.166668,"Khashm Hisan, S1496",NA,"",5,"Bathonian","",168.3,166.1,34048,"gp_mid",45.26,-5.06,"503",167.2,1
-"66001",98772,"col","Dhruma",45.191666,25.538334,"Al Jurayfah, S1501",NA,"",12,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.53,"503",167.2,1
-"66002",98773,"col","Dhruma",45.221668,25.530001,"Al Jurayfah, S1503",NA,"",10,"Bathonian","",168.3,166.1,34048,"gp_mid",45,-4.55,"503",167.2,1
-"66056",98827,"col","Dhruma",46.183334,24.183332,"KK7, Al Bakhra, Thambites Zone",NA,"",2,"Bathonian","",168.3,166.1,34048,"gp_mid",45.26,-6.14,"503",167.2,1
-"66064",98835,"col","Dhruma",46.283333,24.183332,"KK8, Al Huwayrah, Thambites Zone",NA,"",21,"Bathonian","",168.3,166.1,34048,"gp_mid",45.34,-6.17,"503",167.2,1
-"66069",98840,"col","Dhruma",46.283333,24.183332,"KK8, Al Huwayrah, Tulites Zone",NA,"",9,"Bathonian","",168.3,166.1,34048,"gp_mid",45.34,-6.17,"503",167.2,1
-"66070",98841,"col","Dhruma",46.316666,24.200001,"KK9, Khashm Mishraq, Micromphalites Zone",NA,"",17,"Bathonian","",168.3,166.1,34048,"gp_mid",45.37,-6.17,"503",167.2,1
-"66071",98842,"col","Dhruma",46.316666,24.200001,"KK9, Khashm Mishraq, Dhrumaites Zone",NA,"",14,"Bathonian","",168.3,166.1,34048,"gp_mid",45.37,-6.17,"503",167.2,1
-"66120",98892,"col","Dhruma",46.48,23.338333,"Wadi Birk, S1652",NA,"",5,"Bathonian","",168.3,166.1,34048,"gp_mid",45.17,-7.02,"503",167.2,1
-"66130",98902,"col","Dhruma",46.970554,24.824722,"Hassiyan Pass, S1151",NA,"",2,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.83,"503",167.2,1
-"66181",98957,"col","Dhruma",45.191666,25.538334,"Al Jurayfah, S1620",NA,"",4,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.53,"503",167.2,1
-"66185",98961,"col","Dhruma",45.181667,25.559723,"Al Jurayfah, S1244",NA,"",5,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.51,"503",167.2,1
-"66188",98964,"col","Dhruma",45.181667,25.559723,"Al Jurayfah, S1191",NA,"",4,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.51,"503",167.2,1
-"66189",98965,"col","Dhruma",45.233334,25.450001,"Jebel Farida, S1738",NA,"",3,"Bathonian","",168.3,166.1,34048,"gp_mid",44.98,-4.63,"503",167.2,1
-"66192",98968,"col","Dhruma",45.636665,25.206667,"Khashm Hisan, S1422",NA,"",2,"Bathonian","",168.3,166.1,34048,"gp_mid",45.21,-5,"503",167.2,1
-"66330",99107,"col","Dhruma",45.732777,25.067778,"Khashm Hisan, S1747",NA,"",4,"Bathonian","",168.3,166.1,34048,"gp_mid",45.24,-5.16,"503",167.2,1
-"66334",99111,"col","Dhruma",46.125,24.636667,"Dhruma, S1160",NA,"",7,"Bathonian","",168.3,166.1,34048,"gp_mid",45.39,-5.7,"503",167.2,1
-"66565",99487,"col","",33.416668,30.700001,"sample 429, Gebel Somor, northwest of Bir Maghara",NA,"",34,"Bathonian","",168.3,166.1,32098,"gp_mid",38.94,5.76,"508",167.2,1
-"66831",99858,"col","Kambe",39.516666,-4.033333,"Mombasa, loc. 21",NA,"",1,"Bathonian","",168.3,166.1,34336,"gp_mid",30.86,-28.34,"709",167.2,1
-"66832",99859,"col","Kambe",39.516666,-4.033333,"Mombasa, loc. 22",NA,"",6,"Bathonian","",168.3,166.1,34336,"gp_mid",30.86,-28.34,"709",167.2,1
-"66834",99861,"col","Kambe",39.650002,-3.85,"Kaya Kambe, loc. 36",NA,"",5,"Bathonian","",168.3,166.1,34336,"gp_mid",31.08,-28.22,"709",167.2,1
-"66835",99862,"col","Kambe",39.666668,-3.833333,"Kaya Jibana, loc. 37",NA,"",4,"Bathonian","",168.3,166.1,34336,"gp_mid",31.1,-28.21,"709",167.2,1
-"66836",99863,"col","Kambe",39.666668,-3.783333,"Kaya Chonyi, loc. 38",NA,"",3,"Bathonian","",168.3,166.1,34336,"gp_mid",31.12,-28.16,"709",167.2,1
-"66840",99867,"col","Kambe",39.549999,-4.016667,"Duruma River, Mombasa, loc. 28",NA,"",2,"Bathonian","",168.3,166.1,34336,"gp_mid",30.9,-28.34,"709",167.2,1
-"67363",100515,"col","Sundance",-107.792366,44.606804,"tracksite 8 km north of Shell",NA,"",1,"Bathonian","",168.3,166.1,30808,"gp_mid",-34.21,32.59,"101",167.2,1
-"67364",100516,"col","Sundance",-108.023453,44.558006,"tracksite 5 km northeast of Greybull",NA,"",1,"Bathonian","",168.3,166.1,30808,"gp_mid",-34.41,32.59,"101",167.2,1
-"68163",101716,"col","",44.383331,-23.700001,"Anjeba",NA,"",5,"Bathonian","",168.3,166.1,34610,"gp_mid",29.98,-32.45,"702",167.2,1
-"69966",104814,"col","Guettioua",-5.8025,31.710556,"Msemrir tracksite",NA,"",2,"Bathonian","",168.3,166.1,36047,"gp_mid",9.53,22.04,"714",167.2,1
-"85729",124304,"col","",44.200001,56.200001,"Nizhegorodskaya Oblast, borehole 68, depth 277.5-283.2 m (PIN collection 1066)",NA,"",1,"Bathonian","",168.3,166.1,8889,"gp_mid",52.68,47.05,"302",167.2,1
-"86246",124923,"col","",17.450001,52.099998,"Polish lowland (Bathonian) ",NA,"",31,"Bathonian","",168.3,166.1,40441,"gp_mid",34.21,38.31,"315",167.2,1
-"86630",125432,"col","",18.083332,46.183334,"Hidas Valley (Bathonian)",NA,"",8,"Bathonian","",168.3,166.1,40615,"gp_mid",37.9,19.1,"308",167.2,1
-"86632",125454,"col","",18.083332,46.183334,"Ofalu",NA,"",2,"Bathonian","",168.3,166.1,40615,"gp_mid",37.9,19.1,"308",167.2,1
-"86633",125455,"col","",18.083332,46.266666,"Söver Ravine",NA,"",1,"Bathonian","",168.3,166.1,40615,"gp_mid",37.98,19.13,"308",167.2,1
-"86634",125456,"col","",18.4,46.216667,"Obanya Valley ",NA,"",1,"Bathonian","",168.3,166.1,40615,"gp_mid",38.01,18.91,"308",167.2,1
-"90304",130764,"col","Great Oolite",-0.88,52.27,"Kingsthorpe, Northampton",NA,"",1,"Bathonian","",168.3,166.1,42278,"gp_mid",20.29,36.43,"315",167.2,1
-"91205",131844,"col","",-1.43,51.860001,"Stonesfield Slate, near Oxford (BMNH fish)",NA,"",19,"Bathonian","",168.3,166.1,38893,"gp_mid",19.94,35.98,"315",167.2,1
-"91206",131845,"col","Great Oolite",-0.3,52.549999,"Great Oolite, Orton, near Peterborough (BMNH fish coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.69,36.75,"315",167.2,1
-"91207",131846,"col","Great Oolite",-1.78,51.93,"Eyeford, Gloucestershire",NA,"",5,"Bathonian","",168.3,166.1,41145,"gp_mid",19.67,36.02,"315",167.2,1
-"91208",131847,"col","Great Oolite",-2.52,52.25,"Collington, Northamptonshire (BMNH fish coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",19.06,36.29,"315",167.2,1
-"91316",131982,"col","Great Oolite",-0.948115,52.185398,"Blisworth, Northamptonshire (BMNH fish Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.26,36.34,"315",167.2,1
-"91330",131997,"col","Great Oolite",-0.37,49.189999,"Great Oolite, Caen, Normandy (BMNH Tesson collection)",NA,"",8,"Bathonian","",168.3,166.1,38893,"gp_mid",21.17,33.42,"305",167.2,1
-"91331",131998,"col","",-1.48,51.790001,"Witney, Oxfordshire (BMNH Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",19.92,35.91,"315",167.2,1
-"91332",131999,"col","",-1.25,51.759998,"Little Gibraltar, near Oxford (BMNH Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.1,35.9,"315",167.2,1
-"93939",135388,"col","",-0.955,49.34,"National French Cement Company quarry, Longueville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.69,33.52,"305",167.2,1
-"93940",135389,"col","",-0.255,49.244999,"Quarry entrance on route 814, north of Ranville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",21.25,33.48,"305",167.2,1
-"93955",135418,"col","Fuller's Earth",-2.38,51.224998,"Whatley, near Frome",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.32,35.28,"315",167.2,1
-"93957",135420,"col","",-0.26,49.23,"Ranville, Caen, Calvados",NA,"",6,"Bathonian","",168.3,166.1,64021,"gp_mid",21.25,33.47,"305",167.2,1
-"93962",135425,"col","Great Oolite",-2.545,50.639999,"Langton Herring (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.28,34.68,"315",167.2,1
-"93984",135464,"col","Middle Dhruma",46.976665,24.811943,"Khashm Hassiya Station, S1150",NA,"",1,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.85,"503",167.2,1
-"93986",135466,"col","Middle Dhruma",46.049999,24.70389,"Dhruma Point 20, S1157",NA,"",1,"Bathonian","",168.3,166.1,34048,"gp_mid",45.35,-5.61,"503",167.2,1
-"93989",135469,"col","",33.314999,30.684999,"NW of Bir, Gebel Maghara, Sinai",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",38.85,5.78,"508",167.2,1
-"93990",135470,"col","Bath Oolite",1.705,50.814999,"Marquise, Pas-de-Calais",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",22.5,35.21,"315",167.2,1
-"93992",135472,"col","",-0.245,49.25,"West side route 814, 1 km west of Amfreville, Calvados",NA,"",2,"Bathonian","",168.3,166.1,43337,"gp_mid",21.26,33.49,"305",167.2,1
-"93993",135473,"col","",1.7,50.709999,"Boulonnais (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",22.52,35.1,"315",167.2,1
-"93994",135474,"col","",-1.275,51.875,"Kirtlington, Cornbrash (USNM coll)",NA,"",2,"Bathonian","",168.3,166.1,43337,"gp_mid",20.06,36.01,"315",167.2,1
-"94000",135484,"col","Great Oolite",-1.275,51.875,"Kirtlington, Great Oolite (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.06,36.01,"315",167.2,1
-"94001",135485,"col","Great Oolite",-1.925,51.799999,"Railway cutting near Chedworth",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.58,35.88,"315",167.2,1
-"94003",135487,"col","Fullers Earth",-2.32,51.580002,"Hawkesbury Upton (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.31,35.63,"315",167.2,1
-"94010",135494,"col","",2.575,49.5,"Montiers",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",23.4,33.99,"315",167.2,1
-"94041",135525,"col","",-1.238,51.825001,"Excavation for petrol tanks at Islip Railway Station, near Oxford",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.09,35.96,"315",167.2,1
-"94065",135549,"col","",5,47.294998,"Chenôve, Côte d'Or",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",25.7,32.05,"305",167.2,1
-"94285",135817,"col","Dhruma",46.970554,24.824722,"Hassiyan Pass, S1179",NA,"",3,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.83,"503",167.2,1
-"94428",136003,"col","Dhruma",46.316666,24.200001,"Mashraq Area, S1009",NA,"",1,"Bathonian","",168.3,166.1,34048,"gp_mid",45.37,-6.17,"503",167.2,1
-"94491",136097,"col","Dhruma",46.268333,24.188334,"Dhruma, S1046",NA,"",6,"Bathonian","",168.3,166.1,34048,"gp_mid",45.33,-6.16,"503",167.2,1
-"94526",140494,"col","Taunton Limestone",-1.43,51.860001,"Stonesfield (Charlesworth coll)",NA,"",1,"Bathonian","",168.3,166.1,49350,"gp_mid",19.94,35.98,"315",167.2,1
-"96293",138308,"col","",-0.365278,49.120556,"Teleosaurus locality, Allemagne",NA,"Fuller's Earth",2,"Bathonian","",168.3,166.1,44229,"gp_mid",21.18,33.35,"305",167.2,1
-"96865",138926,"col","Taunton Limestone",-1.43,51.860001,"8 km north-east of Witney, near the village of Stonesfield (Brodie Coll)",NA,"",9,"Bathonian","",168.3,166.1,50625,"gp_mid",19.94,35.98,"315",167.2,1
-"96906",138965,"col","Great Oolite",-1.95,51.891666,"Sevenhampton, Gloucestershire (Brodie Coll.)",NA,"",5,"Bathonian","",168.3,166.1,35209,"gp_mid",19.55,35.97,"315",167.2,1
-"97033",139093,"col","",-127.25,54.533333,"GSC loc. 85409",NA,"",1,"Bathonian","",168.3,166.1,40842,"gp_mid",-56.52,42.65,"127",167.2,1
-"97035",139095,"col","",-127.648613,54.788055,"GSC loc. 85444, 88482, 88485",NA,"Zymoetz River - McDonell  Lake",2,"Bathonian","",168.3,166.1,40842,"gp_mid",-56.88,42.87,"127",167.2,1
-"98314",140495,"col","Taunton Limestone",-1.43,51.860001,"Stonesfield Slate (Oxford University Museum coll)",NA,"",1,"Bathonian","",168.3,166.1,45510,"gp_mid",19.94,35.98,"315",167.2,1
-"98738",141169,"col","",-0.319295,49.04998,"Quilly, Calvados",NA,"",1,"Bathonian","",168.3,166.1,28567,"gp_mid",21.23,33.28,"305",167.2,1
-"98911",141354,"col","Dhruma",45.383331,25.166668,"Bed No. 637, Al Lughf",NA,"",0,"Bathonian","",168.3,166.1,45917,"gp_mid",44.99,-4.94,"503",167.2,1
-"98912",141355,"col","Dhruma",45.383331,25.166668,"Bed No. 638, Al Lughf",NA,"",1,"Bathonian","",168.3,166.1,45917,"gp_mid",44.99,-4.94,"503",167.2,1
-"98913",141356,"col","Dhruma",45.383331,25.166668,"Bed No. 639, Al Lughf",NA,"",1,"Bathonian","",168.3,166.1,45917,"gp_mid",44.99,-4.94,"503",167.2,1
-"99399",141913,"col","Techout",10.501667,32.871387,"Ksar Ezzahra",NA,"",5,"Bathonian","",168.3,166.1,46100,"gp_mid",22.47,16.17,"715",167.2,1
-"101889",144961,"col","Great Oolite",-0.903611,52.244167,"North Hampton Isopod",NA,"",1,"Bathonian","",168.3,166.1,46887,"gp_mid",20.28,36.4,"315",167.2,1
-"108343",153647,"col","Taunton Limestone",-1.43,51.860001,"Stonesfield, near Oxford (Enniskillen Coll)",NA,"",1,"Bathonian","",168.3,166.1,49700,"gp_mid",19.94,35.98,"315",167.2,1
-"108350",153656,"col","Hamam",35.73,32.162998,"Arda (=Al Aridah) section, Bed 21a",NA,"",5,"Bathonian","",168.3,166.1,49726,"gp_mid",40.48,5.07,"503",167.2,1
-"108351",153657,"col","Hamam",35.73,32.162998,"Arda (=Al Aridah) section, Bed 21b",NA,"",6,"Bathonian","",168.3,166.1,49726,"gp_mid",40.48,5.07,"503",167.2,1
-"108358",153664,"col","Hamam",35.73,32.162998,"Arda (=Al Aridah) section Hamam Fm. (indet. bed)",NA,"",1,"Bathonian","",168.3,166.1,49726,"gp_mid",40.48,5.07,"503",167.2,1
-"110802",157395,"col","",7.6282,46.674301,"Simmen Bridge",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.9,31.72,"305",167.2,1
-"110803",157396,"col","",7.6,46.700001,"Wildenberg north of Erlenbach im Simmental",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.87,31.75,"305",167.2,1
-"110804",157397,"col","",7.3,46.5,"Gastlosen",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.67,31.52,"305",167.2,1
-"110805",157398,"col","",7.2,46.5,"La Laitemaire",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.59,31.5,"305",167.2,1
-"110806",157399,"col","",6.8,46.299999,"Mont Chauffe",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.31,31.26,"305",167.2,1
-"110976",157595,"col","Dhruma",33.41861,30.690277,"Gebel El-Maghara breached anticline",NA,"",6,"Bathonian","",168.3,166.1,51836,"gp_mid",38.93,5.75,"508",167.2,1
-"111120",157871,"col","Dhruma",33.41861,30.690277,"Gebel El-Maghara (coll. Hegab)",NA,"",2,"Bathonian","",168.3,166.1,51901,"gp_mid",38.93,5.75,"508",167.2,1
-"111274",158199,"col","",19.016666,50.133331,"Gnaszyn",NA,"",1,"Bathonian","",168.3,166.1,51965,"gp_mid",36,36.63,"305",167.2,1
-"111535",158501,"col","Namyau Beds",97.529999,23.190001,"Man Hsalang (=Man Hsa-Long)",NA,"",8,"Bathonian","",168.3,166.1,52002,"gp_mid",113.36,17.83,"616",167.2,1
-"111537",158505,"col","Namyau Beds",97.709999,21.700001,"Kongnim (1/2 mile northeast)",NA,"",7,"Bathonian","",168.3,166.1,52002,"gp_mid",114.69,17.03,"616",167.2,1
-"111538",158509,"col","Namyau Beds",97.57,23.040001,"Lashio-Namtu Road",NA,"",1,"Bathonian","",168.3,166.1,52002,"gp_mid",113.51,17.77,"616",167.2,1
-"111539",158510,"col","Namyau Beds",97.349998,22.42,"Se-In",NA,"Se-Eng",42,"Bathonian","",168.3,166.1,52002,"gp_mid",113.88,17.22,"616",167.2,1
-"111540",158511,"col","Namyau Beds",97.339996,22.59,"Nashy",NA,"Nahsai, Nahsy",28,"Bathonian","",168.3,166.1,52002,"gp_mid",113.73,17.32,"616",167.2,1
-"111541",158512,"col","Namyau Beds",97.459999,22.83,"Lenglawng (=Lenalawng)",NA,"",32,"Bathonian","",168.3,166.1,52002,"gp_mid",113.61,17.56,"616",167.2,1
-"111542",158513,"col","Namyau Beds",97.169998,22.35,"Bawgyo",NA,"",14,"Bathonian","",168.3,166.1,52002,"gp_mid",113.83,17.05,"616",167.2,1
-"111543",158514,"col","Namyau Beds",97.379997,22.549999,"Pangwoleng",NA,"",35,"Bathonian","",168.3,166.1,52002,"gp_mid",113.79,17.33,"616",167.2,1
-"111544",158515,"col","Namyau Beds",97.550003,22.68,"Ta-Ti",NA,"",12,"Bathonian","",168.3,166.1,52002,"gp_mid",113.79,17.53,"616",167.2,1
-"111546",158518,"col","Namyau Beds",99.860001,21.629999,"Namhkai",NA,"",5,"Bathonian","",168.3,166.1,52002,"gp_mid",116.06,18.55,"616",167.2,1
-"111548",158528,"col","Namyau Beds",99.5,24.01,"Liu Wun (2 mi below, Lu-chiang Fangma-chang route)",NA,"",3,"Bathonian","",168.3,166.1,52002,"gp_mid",113.86,19.76,"616",167.2,1
-"111549",158529,"col","Namyau Beds",97.949997,23.799999,"Kawngwing",NA,"",10,"Bathonian","",168.3,166.1,52002,"gp_mid",113.11,18.52,"616",167.2,1
-"111551",158532,"col","Namyau Beds",96.919998,19.59,"Hpalai (=Hpalaing)",NA,"",16,"Bathonian","",168.3,166.1,52002,"gp_mid",115.9,15.13,"616",167.2,1
-"111907",159190,"col","",22.063,44.522999,"Greben (Bajocian-Bathonian bed)",NA,"",13,"Bathonian","",168.3,166.1,52075,"gp_mid",37.38,15.89,"308",167.2,1
-"112336",159760,"col","Fuller's Earth",-2.36,51.375,"Bath, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.31,35.43,"315",167.2,1
-"112337",159761,"col","Fuller's Earth",-2.36,51.375,"Bath (near), Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.31,35.43,"315",167.2,1
-"112338",159762,"col","Fuller's Earth",-2.457,50.615002,"Weymouth, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.35,34.67,"315",167.2,1
-"112339",159763,"col","Fuller's Earth",-2.453,51.112999,"Bruton, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.28,35.16,"315",167.2,1
-"112340",159764,"col","Fuller's Earth",-2.22617,51.42128,"Box Tunnel, Wiltshire (Fuller's Earth Rock)",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.41,35.48,"315",167.2,1
-"112341",159765,"col","Fuller's Earth",-2.23,51.860001,"Gloucester, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.34,35.92,"315",167.2,1
-"112342",159766,"col","Fuller's Earth",-2.473,51.117001,"Lamyatt Beacon, Fuller's Earth Rock",NA,"Lamyat Beacon, Creech Hill",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.26,35.16,"315",167.2,1
-"112361",159782,"col","",6.129,45.898998,"Annecy",NA,"Anney",1,"Bathonian","",168.3,166.1,33914,"gp_mid",26.85,30.79,"305",167.2,1
-"112479",159923,"col","",4.83,47.027,"Beaune",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",25.61,31.77,"305",167.2,1
-"113907",161723,"col","",-1.783333,51.700001,"Fairford locality",NA,"",1,"Bathonian","",168.3,166.1,52665,"gp_mid",19.7,35.79,"315",167.2,1
-"114016",161867,"col","",1.8,50.750999,"Le Wast",NA,"",2,"Bathonian","",168.3,166.1,52665,"gp_mid",22.59,35.15,"315",167.2,1
-"114022",161873,"col","",-2.333333,51.349998,"Bord Sud de Combe Down",NA,"",1,"Bathonian","",168.3,166.1,52665,"gp_mid",19.34,35.41,"315",167.2,1
-"114025",161876,"col","",69.050003,23.666668,"Jumara, Kutch",NA,"",1,"Bathonian","",168.3,166.1,52665,"gp_mid",45.2,-25.91,"501",167.2,1
-"114324",162299,"col","Namyau Beds",97.851387,23.491388,"Tao hkio (1/2 mile ENE)",NA,"Tao hkiao",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.3,18.25,"616",167.2,1
-"114328",162303,"col","Namyau Beds",97.160004,22.35,"Bawgyo, left bank of R. Namtu opposite",NA,"",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.82,17.04,"616",167.2,1
-"114333",162308,"col","Namyau Beds",97.25,22.35,"Pengwi",NA,"Pengwai",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.88,17.11,"616",167.2,1
-"114337",162337,"col","Namyau Beds",97.330002,22.58,"Panghkyem",NA,"",4,"Bathonian","",168.3,166.1,52872,"gp_mid",113.74,17.31,"616",167.2,1
-"114338",162338,"col","Namyau Beds",97.269997,22.469999,"Namhathai",NA,"",6,"Bathonian","",168.3,166.1,52872,"gp_mid",113.79,17.2,"616",167.2,1
-"114339",162339,"col","Namyau Beds",97.32,23.299999,"Loipe",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",113.14,17.75,"616",167.2,1
-"115044",163480,"col","",-106.800003,44.183334,"Buffalo Sundance",NA,"",1,"Bathonian","",168.3,166.1,53277,"gp_mid",-33.53,32,"101",167.2,1
-"117097",167248,"col","Twin Creek Limestone",-111.023331,42.403332,"USGS Mesozoic Loc. 20990 - Twin Creek Limestone",NA,"",3,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.57,31.12,"101",167.2,1
-"117098",167249,"col","Twin Creek Limestone",-111.546387,40.700001,"USGS Mesozoic Loc. 28791 - Twin Creek Limestone",NA,"",2,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.55,29.59,"101",167.2,1
-"117100",167251,"col","Twin Creek Limestone",-110.5075,42.511391,"USGS Mesozoic Loc. 17298 - Twin Creek Limestone",NA,"",4,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.12,"101",167.2,1
-"117101",167252,"col","Twin Creek Limestone",-110.5075,42.511391,"USGS Mesozoic Loc. 17299 - Twin Creek Limestone",NA,"",3,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.12,"101",167.2,1
-"117102",167253,"col","Twin Creek Limestone",-110.506943,42.510555,"USGS Mesozoic Loc. 28482 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.11,"101",167.2,1
-"117103",167254,"col","Twin Creek Limestone",-110.506943,42.510555,"USGS Mesozoic Loc. 28485 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.11,"101",167.2,1
-"117104",167255,"col","Twin Creek Limestone",-110.502502,42.335556,"USGS Mesozoic Loc. 20992 - Twin Creek Limestone",NA,"",4,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.16,30.95,"101",167.2,1
-"118927",170167,"col","",3.24,48.509998,"Longueville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",24.09,33.07,"305",167.2,1
-"119453",171017,"col","",-1.7,51.610001,"Sevenhampton Common (Buckman)",NA,"",5,"Bathonian","",168.3,166.1,52872,"gp_mid",19.78,35.71,"315",167.2,1
-"119479",171043,"col","Cornbrash",-2.62,50.880001,"Closworth",NA,"Closeworth",2,"Bathonian","",168.3,166.1,69432,"gp_mid",19.18,34.92,"315",167.2,1
-"119480",171044,"col","Cornbrash",-2.57,50.889999,"Yetminster",NA,"",3,"Bathonian","",168.3,166.1,52872,"gp_mid",19.22,34.93,"315",167.2,1
-"119481",171045,"col","Cornbrash",-1.11,51.869999,"Blackthorn Hill",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.18,36.02,"315",167.2,1
-"119482",171046,"col","Cornbrash",-1.24,51.959999,"Between Ardley and Aynho (Tucher Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.07,36.09,"315",167.2,1
-"119483",171047,"col","Cornbrash",-0.25,52.509998,"Yaxley",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.73,36.72,"315",167.2,1
-"119496",171060,"col","",-0.9,52.200001,"Northampton (Great Oolite)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.29,36.36,"315",167.2,1
-"119497",171061,"col","",-1.23,51.959999,"Fritwell (Marshall Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.08,36.1,"315",167.2,1
-"119563",171126,"col","",1.7,50.810001,"Marquise (Great Oolite Limestone)",NA,"",2,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,1
-"119564",171127,"col","",-2.19,51.700001,"Minchinhampton (Buckman)",NA,"",2,"Bathonian","",168.3,166.1,52872,"gp_mid",19.39,35.76,"315",167.2,1
-"119565",171128,"col","",1.7,50.810001,"Marquise (Clay)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,1
-"119566",171129,"col","",-2.01,51.669998,"Kemble",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.53,35.75,"315",167.2,1
-"119568",171131,"col","Cornbrash",-2.37,51.27,"Hardington",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.32,35.32,"315",167.2,1
-"119569",171132,"col","Cornbrash",-2.62,50.880001,"Closworth (post-intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.18,34.92,"315",167.2,1
-"119570",171133,"col","Cornbrash",-2.57,50.889999,"Yetminster (post-intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.22,34.93,"315",167.2,1
-"119571",171134,"col","",-1.23,51.959999,"Fritwell (Tucher Coll.)",NA,"",2,"Bathonian","",168.3,166.1,52872,"gp_mid",20.08,36.1,"315",167.2,1
-"119578",171141,"col","",-1.29,51.824001,"Kidlington (Tucher Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.06,35.96,"315",167.2,1
-"119579",171142,"col","Cornbrash",1.7,50.810001,"Marquise (Cornbrash)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,1
-"119656",171221,"col","",33.25,30.629999,"Gebel Aroussieh (Corals)",NA,"",2,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,1
-"119657",171222,"col","",33.25,30.629999,"Gebel Aroussieh (Small Fossils)",NA,"",10,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,1
-"119662",171227,"col","",33.608334,29.247499,"Wadi Moghara",NA,"",1,"Bathonian","",168.3,166.1,36012,"gp_mid",38.48,4.37,"508",167.2,1
-"119663",171228,"col","",33.200001,30.639999,"Gebel Hameir (Small Fossils)",NA,"",5,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,1
-"119671",171236,"col","",33.25,30.629999,"Gebel Aroussieh (Small Astartes)",NA,"",7,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,1
-"119672",171237,"col","",33.200001,30.639999,"Gebel Hameir (Small Astartes)",NA,"",3,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,1
-"119674",171239,"col","",33.200001,30.639999,"Gebel Hameir (Bathonian Indet.)",NA,"",3,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,1
-"119675",171240,"col","",33.25,30.629999,"Gebel Aroussieh (Bathonian indet.)",NA,"",7,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,1
-"119677",171242,"col","",33.25,30.629999,"Gebel Aroussieh (Anabacia)",NA,"",2,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,1
-"119752",171319,"col","Fuller's Earth",-2.75,50.889999,"Haselbury",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.08,34.92,"315",167.2,1
-"119766",171333,"col","Blisworth Clay",-0.89,52.200001,"Wootton",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.3,36.36,"315",167.2,1
-"119771",171338,"col","",69.068001,23.677,"Jumara (GSI)",NA,"",5,"Bathonian","",168.3,166.1,52872,"gp_mid",45.21,-25.92,"501",167.2,1
-"119844",171413,"col","",-2.26,51.400002,"King's Down",NA,"Kingsdown",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.38,35.46,"315",167.2,1
-"119848",171417,"col","Cornbrash",-1.56,51.759998,"Brize Norton",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.86,35.87,"315",167.2,1
-"119849",171418,"col","Cornbrash",-1.95,51.689999,"Siddington",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.58,35.77,"315",167.2,1
-"119850",171419,"col","Cornbrash",-1.11,51.869999,"Blackthorn Hill (Intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.18,36.02,"315",167.2,1
-"119867",171436,"col","",-2.27,51.52,"Acton Turville",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.36,35.58,"315",167.2,1
-"119875",171444,"col","",-0.54,52.220001,"Sharnbrook",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.56,36.41,"315",167.2,1
-"121192",174610,"col","",1.422,46.633999,"St-Gaultier (argillaceous limestone)",NA,"",1,"Bathonian","",168.3,166.1,55843,"gp_mid",22.97,31.04,"305",167.2,1
-"121997",175754,"col","Dalichai",57.15361,37.153889,"Sample S-2, Tooy section",NA,"",3,"Bathonian","",168.3,166.1,57564,"gp_mid",72.36,32.42,"505",167.2,1
-"122001",175758,"col","Dalichai",56.74472,37.086945,"Sample J-2, Golbini section",NA,"",1,"Bathonian","",168.3,166.1,57564,"gp_mid",72.03,32.25,"505",167.2,1
-"122229",176120,"col","Anoual",-3.109167,32.518055,"Guelb el Ahmar, GEA 2",NA,"",46,"Bathonian","",168.3,166.1,57820,"gp_mid",9.36,21.72,"707",167.2,1
-"122230",176122,"col","Anoual",-3.144444,32.733334,"Guelb el Ahmar, GEA 1",NA,"",3,"Bathonian","",168.3,166.1,57820,"gp_mid",9.45,21.92,"707",167.2,1
-"122231",176123,"col","Anoual",-3.151944,32.728333,"Guelb el Ahmar, GEA 3",NA,"",8,"Bathonian","",168.3,166.1,57820,"gp_mid",9.44,21.92,"707",167.2,1
-"123507",178107,"col","les calcaires blancs d’Orgon",5.033333,43.783333,"Orgon",NA,"",1,"Bathonian","",168.3,166.1,57938,"gp_mid",26.34,28.58,"305",167.2,1
-"129128",186799,"col","",19.167,50.764999,"Gnaszyn clay-pit, Gnaszyn Dolny (morrisi-hodsoni zone)",NA,"",1,"Bathonian","",168.3,166.1,62621,"gp_mid",35.93,37.27,"305",167.2,1
-"129392",187133,"col","",18.5445,51.042999,"Faustianka (lower-middle Bathonian)",NA,"",1,"Bathonian","",168.3,166.1,62775,"gp_mid",35.37,37.45,"305",167.2,1
-"129804",187779,"col","Tangiduval",66.605003,37.705002,"Vandob-Sherdzhant watershed, Kugitangtau Range (subcontractus-retrocostatum)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,1
-"129805",187780,"col","Tangiduval",66.605003,37.705002,"Vandob Ravine, Kugitangtau Range (top Tangiduval Fm)",NA,"",11,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,1
-"129806",187781,"col","Tangiduval",66.599998,37.700001,"Sarykamysh district (top Tangiduval Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,1
-"129807",187782,"col","",66.730003,37.970001,"Kugitangtau Range (middle-upper Bathonian beds)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,1
-"129811",187818,"col","Tangiduval",66.730003,37.970001,"Tangiduval district (top Tangiduval Fm, middle-upper Bathonian boundary beds)",NA,"",11,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,1
-"129815",187822,"col","",66.75,38,"Kempyr-Tyube ravine (subcontractus-retrocostatum zone)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.64,35.84,"402",167.2,1
-"130005",188438,"col","Tangiduval",66.690002,37.855,"Kyzylalma, Kugitangtau range (upper Tangiduval Fm)",NA,"",3,"Bathonian","",168.3,166.1,62781,"gp_mid",80.64,35.69,"402",167.2,1
-"130006",188439,"col","Tangiduval",66.800003,38,"Sandzhar district (middle-upper Bathonian)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.85,"402",167.2,1
-"130007",188440,"col","Tangiduval",66.620003,37.630001,"Chashmabulak spring, Kugitangtau Range (top Tangiduval Fm)",NA,"",3,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.46,"402",167.2,1
-"130008",188441,"col","Tangiduval",66.589996,37.709999,"Mykh Mountain (top Tangiduval Fm)",NA,"",2,"Bathonian","",168.3,166.1,62781,"gp_mid",80.62,35.52,"402",167.2,1
-"130027",188467,"col","",66.605003,37.705002,"Vandob Ravine, Kugitangtau Range (top Tangiduval-basal Baisun Fm)",NA,"",5,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,1
-"130028",188468,"col","",66.730003,37.970001,"Tangiduval district (top Tangiduval-basal Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,1
-"130030",188470,"col","Tangiduval",66.620003,37.630001,"Garamkha spring, Kugitangtau Range (top Tangiduval Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.46,"402",167.2,1
-"130041",188481,"col","",66.599998,37.700001,"Sarykamysh district (top Tangiduval-base Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,1
-"132848",194791,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-6",NA,"",3,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132849",194792,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-10",NA,"",2,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132850",194793,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-49",NA,"",1,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132851",194794,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-50",NA,"",3,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132852",194795,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-51",NA,"",8,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132867",194849,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-52",NA,"",6,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132868",194850,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-58",NA,"",4,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132869",194851,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-59",NA,"",8,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132870",194852,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-60",NA,"",5,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132871",194853,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-61",NA,"",9,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132872",194854,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-62",NA,"",3,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132873",194855,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-63",NA,"",3,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132874",194856,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-64",NA,"",5,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132875",194857,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-65",NA,"",5,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132876",194858,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-66",NA,"",6,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132877",194859,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-67",NA,"",3,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132878",194860,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-68",NA,"",4,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"132879",194861,"col","Isalo IIIb",46.983334,-16.549999,"Ambondromamy, M-69",NA,"",12,"Bathonian","",168.3,166.1,66205,"gp_mid",36.93,-27.86,"702",167.2,1
-"133473",195994,"col","",-2.3,51.345001,"Murrel, near Winsley",NA,"Murhill",1,"Bathonian","",168.3,166.1,66694,"gp_mid",19.36,35.4,"315",167.2,1
-"135116",198903,"col","Great Oolite",-1.249444,51.75222,"Great Oolite, Oxford (non-specific locality)",NA,"",1,"Bathonian","",168.3,166.1,67760,"gp_mid",20.1,35.89,"315",167.2,1
-"135650",200133,"col","",5.434383,45.848843,"Villebois (Ain)",NA,"",1,"Bathonian","",168.3,166.1,68221,"gp_mid",26.3,30.67,"305",167.2,1
-"138198",204439,"col","Isalo IIIb",47.150002,-16.433001,"Ambondromamy",NA,"",2,"Bathonian","",168.3,166.1,70103,"gp_mid",37.15,-27.85,"702",167.2,1
-"139913",206750,"col","Rutland",-0.560556,52.642223,"Grange Top Quarry, Ketton",NA,"",1,"Bathonian","",168.3,166.1,71074,"gp_mid",20.47,36.82,"315",167.2,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"13054",24570,"col","Sokolovskaya Series",27.8,43.7,"TolBukhin",NA,"",3,"Bathonian","",168.3,166.1,6912,"gp_mid",38.43,11.82,"308",167.2,"bathonian",2446,43.9658,31.5964,36,1
+"14177",27890,"col","Techout",10.47,33,"3/13/14 (Profil 8; Ksar Jelidat)",NA,"",1,"Bathonian","",168.3,166.1,6119,"gp_mid",22.51,16.3,"715",167.2,"bathonian",2778,17.0939,12.9021,36,1
+"14489",154235,"col","Upper Great oolite",-0.83,49.92,"Arromanches",NA,"Steneosaurus boutilieri type locality",1,"Bathonian","",168.3,166.1,50075,"gp_mid",20.7,34.1,"305",167.2,"bathonian",2829,21.1378,32.5954,36,1
+"15965",30117,"col","",43.2,42.3,"Khreiti",NA,"PGAP 607",9,"Bathonian","",168.3,166.1,8244,"gp_mid",58.26,33.79,"511",167.2,"bathonian",3143,59.3955,40.2637,36,1
+"15972",30124,"col","",44.6,41.2,"Akhkerpi",NA,"PGAP 802",45,"Bathonian","",168.3,166.1,7998,"gp_mid",59.86,33.08,"511",167.2,"bathonian",3147,63.9568,20.853,36,1
+"16596",30754,"col","Sandstone-siltstone Suite",84.5,69.6,"drillcore",NA,"PGAP 749",3,"Bathonian","",168.3,166.1,8282,"gp_mid",66.82,67.9,"401",167.2,"bathonian",3353,43.666,73.9231,36,1
+"16751",30909,"col","Shkel'dara Suite",70.3,38.1,"Shagon",NA,"PGAP 422",24,"Bathonian","",168.3,166.1,8266,"gp_mid",83.84,36.93,"402",167.2,"bathonian",3386,86.7656,43.3682,36,1
+"16813",30971,"col","Upper Gurud Suite",67.4,38.6,"Bakhcha",NA,"PGAP 621",77,"Bathonian","",168.3,166.1,8209,"gp_mid",80.96,36.58,"402",167.2,"bathonian",3420,82.9264,44.807,36,1
+"21231",36457,"col","",41.03,4.05,"Cox - 129 (N.E. Kenya)",NA,"",4,"Bathonian","",168.3,166.1,9748,"gp_mid",35.46,-21.25,"709",167.2,"bathonian",4246,32.8463,-23.1874,36,1
+"21234",36460,"col","",40.95,3.55,"Cox - 132 (N.E. Kenya)",NA,"",14,"Bathonian","",168.3,166.1,9748,"gp_mid",35.2,-21.7,"709",167.2,"bathonian",4247,32.0326,-25.575,36,1
+"21312",36546,"col","Hampen Marly",-1.17,51.75,"Woodeaton HMF 2",NA,"",15,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21313",36547,"col","Hampen Marly",-1.17,51.75,"Woodeaton HMF 5",NA,"",15,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21314",36548,"col","White Limestone",-1.17,51.75,"Ardley WL 18",NA,"",27,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21315",36549,"col","White Limestone",-1.17,51.75,"Croughton WL 16",NA,"",25,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21316",36550,"col","White Limestone",-1.17,51.75,"Croughton WL 19",NA,"",30,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21317",36551,"col","White Limestone",-1.17,51.75,"Ardley WL 19",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21318",36552,"col","White Limestone",-1.17,51.75,"Ardley WL 15",NA,"",25,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21319",36553,"col","White Limestone",-1.17,51.75,"Woodeaton WL 4",NA,"",24,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21320",36554,"col","White Limestone",-1.17,51.75,"Northbrook Fm WL 4",NA,"",19,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21321",36555,"col","White Limestone",-1.17,51.75,"Shilton WL 1",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21322",36556,"col","White Limestone",-1.17,51.75,"Shipton WL 1",NA,"",18,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21323",36557,"col","White Limestone",-1.17,51.75,"Shipton WL 2",NA,"",12,"Bathonian","",168.3,166.1,9778,"gp_mid",20.16,35.89,"315",167.2,"bathonian",4293,19.9478,35.0069,36,1
+"21883",37381,"col","Matuo",91.13,33.02,"Zhibaqu, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",101.79,23.96,"612",167.2,"bathonian",4458,106.2801,44.6326,36,1
+"21925",37422,"col","Matuo",91.9,32.93,"Kemaqu, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",102.49,24.06,"612",167.2,"bathonian",4471,110.7024,45.0467,36,1
+"21927",37424,"col","Tuotuohe",91.97,32.73,"Qinghai-Xizang Highway station 109, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.94,7.17,"613",167.2,"bathonian",4472,110.7024,45.0467,36,1
+"21936",37433,"col","Matuo",91.88,33.35,"Qinghai-Xizang Highway near station 102, MatuoFormation",NA,"",4,"Bathonian","",168.3,166.1,10025,"gp_mid",102.35,24.46,"612",167.2,"bathonian",4473,110.7024,45.0467,36,1
+"21939",37436,"col","Matuo",91.87,33.22,"Wenquan, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",102.37,24.33,"612",167.2,"bathonian",4474,106.2801,44.6326,36,1
+"21940",37437,"col","Matuo",91.13,33.02,"Zhibaqu 2, Matuo Formation",37381,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",101.79,23.96,"612",167.2,"bathonian",4458,106.2801,44.6326,36,1
+"21941",37438,"col","Matuo",91.38,32.92,"Dafuqu, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.42,7.28,"613",167.2,"bathonian",4475,106.2801,44.6326,36,1
+"21942",37439,"col","Matuo",91.97,32.93,"Tanggula Mountain Pass, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",102.55,24.08,"612",167.2,"bathonian",4476,110.7024,45.0467,36,1
+"21943",37440,"col","Matuo",91.85,32.9,"Tanggula Mountain Pass 2, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.81,7.32,"613",167.2,"bathonian",4477,106.2801,44.6326,36,1
+"21944",37441,"col","Matuo",91.92,32.9,"Tanggula Mountain Pass 3, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.87,7.33,"613",167.2,"bathonian",4478,110.7024,45.0467,36,1
+"21945",37442,"col","Matuo",91.42,32.87,"Miriqiangma, Matuo Formation",NA,"",2,"Bathonian","",168.3,166.1,10025,"gp_mid",98.46,7.24,"613",167.2,"bathonian",4479,106.2801,44.6326,36,1
+"21946",37443,"col","Matuo",91.7,32.82,"Shalongkangba, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.7,7.22,"613",167.2,"bathonian",4480,106.2801,44.6326,36,1
+"21947",37444,"col","Matuo",91.68,32.87,"Shalongkangba 2, Matuo Formation",NA,"",2,"Bathonian","",168.3,166.1,10025,"gp_mid",98.68,7.27,"613",167.2,"bathonian",4481,106.2801,44.6326,36,1
+"21948",37445,"col","Matuo",91.77,32.78,"Shalongkangba 3, Matuo Formation",NA,"",1,"Bathonian","",168.3,166.1,10025,"gp_mid",98.76,7.2,"613",167.2,"bathonian",4482,106.2801,44.6326,36,1
+"21949",37446,"col","Matuo",91.6,32.78,"Shalongkangba 4, Matuo Formation",NA,"",2,"Bathonian","",168.3,166.1,10025,"gp_mid",98.62,7.18,"613",167.2,"bathonian",4483,106.2801,44.6326,36,1
+"21950",37447,"col","Matuo",91.92,32.73,"Tanggula Mountain Pass 4, Matuo Formation",NA,"",2,"Bathonian","",168.3,166.1,10025,"gp_mid",98.89,7.16,"613",167.2,"bathonian",4484,110.7024,45.0467,36,1
+"21965",37507,"col","Forest Marble",-1,51,"Kirtlington 3o",NA,"",18,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,"bathonian",4493,21.1378,32.5954,36,1
+"21966",37508,"col","Forest Marble",-1,51,"Kirtlington 3k",NA,"",20,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,"bathonian",4493,21.1378,32.5954,36,1
+"21967",37509,"col","White Limestone",-1,51,"Kirtlington 2k",NA,"",16,"Bathonian","",168.3,166.1,10036,"gp_mid",20.4,35.16,"315",167.2,"bathonian",4493,21.1378,32.5954,36,1
+"22062",37607,"col","Ashman",-127.58,54.78,"McDonell Lake, Ashman Formation, bed M1",NA,"",3,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,"bathonian",4529,-48.6499,41.5514,36,1
+"22063",37608,"col","Ashman",-127.58,54.78,"McDonell Lake, Ashman Formation, bed M2",NA,"",6,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,"bathonian",4529,-48.6499,41.5514,36,1
+"22064",37609,"col","Ashman",-127.58,54.78,"McDonell Lake, Ashman Formation, bed M3",NA,"",5,"Bathonian","",168.3,166.1,8933,"gp_mid",-56.83,42.87,"127",167.2,"bathonian",4529,-48.6499,41.5514,36,1
+"22298",37886,"col","Tuotuohe",92,33.33,"Tanggula Mountains, Yanshiping Section, Tuotuohe Formation",NA,"",6,"Bathonian","",168.3,166.1,10105,"gp_mid",102.46,24.47,"612",167.2,"bathonian",4587,110.7024,45.0467,36,1
+"22312",37900,"col","Tuotuohe",90.83,33.33,"Tanggula Mountains, H 301, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",101.43,24.2,"612",167.2,"bathonian",4590,106.2801,44.6326,36,1
+"22313",37901,"col","Tuotuohe",90.25,33.33,"Tanggula Mountains, H 483, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",100.92,24.06,"612",167.2,"bathonian",4591,106.2801,44.6326,36,1
+"22319",37914,"col","Tuotuohe",91.83,33.33,"Tanggula Mountains, H 8637, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",102.31,24.43,"612",167.2,"bathonian",4592,106.2801,44.6326,36,1
+"22322",37917,"col","Tuotuohe",91.17,33.33,"Tanggula Mountains, H 307, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",101.72,24.28,"612",167.2,"bathonian",4594,106.2801,44.6326,36,1
+"22324",37919,"col","Tuotuohe",91.67,33.33,"Tanggula Mountains, H 1952, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",102.16,24.39,"612",167.2,"bathonian",4596,106.2801,44.6326,36,1
+"22327",37922,"col","Tuotuohe",91.25,33.33,"Tanggula Mountains, H 121-1, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",101.8,24.29,"612",167.2,"bathonian",4597,106.2801,44.6326,36,1
+"22328",37923,"col","Tuotuohe",91.58,33.33,"Tanggula Mountains, H 212, Tuotuohe Formation",NA,"",1,"Bathonian","",168.3,166.1,10105,"gp_mid",102.09,24.37,"612",167.2,"bathonian",4598,106.2801,44.6326,36,1
+"22536",38190,"col","Tichilesti",28.48,44.42,"Sirtorman 2a, Central Dobrogea, Romania",NA,"",21,"Bathonian","",168.3,166.1,10259,"gp_mid",39.31,11.71,"308",167.2,"bathonian",4687,45.8146,36.956,36,1
+"22537",38191,"col","Tichilesti",28.48,44.42,"Sirtorman 2b, Central Dobrogea, Romania",NA,"",14,"Bathonian","",168.3,166.1,10259,"gp_mid",39.31,11.71,"308",167.2,"bathonian",4687,45.8146,36.956,36,1
+"22538",38192,"col","Tichilesti",28.48,44.42,"Sirtorman 2c, Central Dobrogea, Romania",NA,"",4,"Bathonian","",168.3,166.1,10259,"gp_mid",39.31,11.71,"308",167.2,"bathonian",4687,45.8146,36.956,36,1
+"22679",38401,"col","Blisworth Limestone",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Blisworth Limestone",NA,"",39,"Bathonian","",168.3,166.1,10298,"gp_mid",20.5,37.69,"315",167.2,"bathonian",4701,19.9478,35.0069,36,1
+"22683",38481,"col","",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Blisworth Limestone at Welton Cr.",NA,"",2,"Bathonian","",168.3,166.1,10298,"gp_mid",20.5,37.69,"315",167.2,"bathonian",4701,19.9478,35.0069,36,1
+"22881",38737,"col","Grès armoricain",-0.13,48.97,"Récif de Perrières I, France",NA,"Reef 3326",7,"Bathonian","",168.3,166.1,10417,"gp_mid",21.39,33.22,"305",167.2,"bathonian",4762,21.1378,32.5954,36,1
+"22882",38738,"col","Grès armoricain",-0.13,48.97,"Récif de Perrières II, France",NA,"Reef 3326",95,"Bathonian","",168.3,166.1,10417,"gp_mid",21.39,33.22,"305",167.2,"bathonian",4762,21.1378,32.5954,36,1
+"22883",38739,"col","Grès armoricain",0.01,48.82,"Récif de Villeudieu-les-Bailleul, Villedieu, France",NA,"Reef 3325",2,"Bathonian","",168.3,166.1,10417,"gp_mid",21.52,33.08,"305",167.2,"bathonian",4763,21.1378,32.5954,36,1
+"22884",38740,"col","Grès armoricain",0.03,48.82,"Récif de Villeudieu-les-Bailleul, Tournai-sur-Dives, France",NA,"Reef 3325",10,"Bathonian","",168.3,166.1,10417,"gp_mid",21.54,33.08,"305",167.2,"bathonian",4764,21.1378,32.5954,36,1
+"22885",38741,"col","Grès armoricain",0.07,48.8,"Récif de Villeudieu-les-Bailleul, Aubry en Exmes, France",NA,"Reef 3325",2,"Bathonian","",168.3,166.1,10417,"gp_mid",21.57,33.07,"305",167.2,"bathonian",4765,21.1378,32.5954,36,1
+"25563",42327,"col","",-1.73,51.98,"Snowshill Hill Quarry, Gloucestershire",NA,"",6,"Bathonian","",168.3,166.1,11186,"gp_mid",19.7,36.08,"315",167.2,"bathonian",5548,19.9478,35.0069,36,1
+"25565",42329,"col","White Limestone",-1.27,51.85,"Bletchingdon, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",20.07,35.98,"315",167.2,"bathonian",5549,19.9478,35.0069,36,1
+"25566",42330,"col","White Limestone",-1.63,51.8,"Burford, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",19.8,35.91,"315",167.2,"bathonian",5550,19.9478,35.0069,36,1
+"25567",42331,"col","White Limestone",-1.27,51.87,"Kirtlington, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",20.07,36,"315",167.2,"bathonian",5551,19.9478,35.0069,36,1
+"25568",42332,"col","White Limestone",-1.42,51.85,"Stonesfield, Oxfordshire",NA,"",4,"Bathonian","",168.3,166.1,11186,"gp_mid",19.96,35.97,"315",167.2,"bathonian",5552,19.9478,35.0069,36,1
+"25569",42333,"col","White Limestone",-1.48,51.78,"Witney, Oxfordshire",NA,"",3,"Bathonian","",168.3,166.1,11186,"gp_mid",19.92,35.9,"315",167.2,"bathonian",5553,19.9478,35.0069,36,1
+"25570",42334,"col","",-0.93,52.17,"Blisworth, Northamptonshire",NA,"",2,"Bathonian","",168.3,166.1,11186,"gp_mid",20.27,36.32,"315",167.2,"bathonian",5554,19.9478,35.0069,36,1
+"27053",44350,"col","",95.62,31.5,"Alonggou, 76CDB39, Butuo region, Dengqen County",NA,"",1,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"30409",48012,"col","Dhruma Fm,drilling samples",44.82,26.25,"Shaqra Group (Dhruma Fm,drilling samples)",NA,"",5,"Bathonian","",168.3,166.1,11728,"gp_mid",44.96,-3.75,"503",167.2,"bathonian",7112,41.8002,-5.348,36,1
+"30410",48013,"col","Dhruma Fm,drilling samples",44.82,26.25,"Shaqra Group (Dhruma Fm,drilling samples)",NA,"",1,"Bathonian","",168.3,166.1,11728,"gp_mid",44.96,-3.75,"503",167.2,"bathonian",7112,41.8002,-5.348,36,1
+"30826",48447,"col","Dhruma",44,26.92,"Shaqra Group (Dhruma Fm.)",NA,"",43,"Bathonian","",168.3,166.1,11728,"gp_mid",44.57,-2.84,"503",167.2,"bathonian",7263,41.8002,-5.348,36,1
+"32968",51343,"col","Kalur Chert",19.85,41.83,"Al 163, Bukemira, Albania",NA,"",2,"Bathonian","",168.3,166.1,13660,"gp_mid",34.15,16.31,"307",167.2,"bathonian",7878,39.7388,16.522,36,1
+"32969",51344,"col","Kalur Chert",19.85,41.83,"Al 164, Bukemira, Albania",NA,"",4,"Bathonian","",168.3,166.1,13660,"gp_mid",34.15,16.31,"307",167.2,"bathonian",7878,39.7388,16.522,36,1
+"33240",51651,"col","Josephine",-123.83,41.87,"JO 73, Volcanopelagic succession, Josephine ophiolite",NA,"",32,"Bathonian","",168.3,166.1,13738,"gp_mid",-49.93,31.01,"129",167.2,"bathonian",7957,-52.9664,32.5928,36,1
+"34049",52507,"col","",-1.28,51.88,"Kirtlington Old Cement Works Quarry (OUM)",NA,"",5,"Bathonian","",168.3,166.1,19212,"gp_mid",20.05,36.01,"315",167.2,"bathonian",8215,19.9478,35.0069,36,1
+"34050",52508,"col","",-1.27,51.85,"Bletchington, Enstone",NA,"Blechingdon, Enslow",1,"Bathonian","",168.3,166.1,14071,"gp_mid",20.07,35.99,"315",167.2,"bathonian",5549,19.9478,35.0069,36,1
+"34052",52510,"col","",-0.95,52.19,"Blisworth, Northamptonshire (BMNH)",NA,"Bilsworth",1,"Bathonian","",168.3,166.1,29200,"gp_mid",20.26,36.34,"315",167.2,"bathonian",8216,19.9478,35.0069,36,1
+"34123",52591,"col","",-1.83,51.76,"Bibury, Cirencester (BMNH)",NA,"Bilbury",1,"Bathonian","",168.3,166.1,14142,"gp_mid",19.66,35.85,"315",167.2,"bathonian",8249,19.9478,35.0069,36,1
+"34474",52961,"col","Moskovoretskaya",38.78,55.2,"Peski, Kolomna",NA,"Kanev bor",25,"Bathonian","",168.3,166.1,14308,"gp_mid",49.13,44.99,"302",167.2,"bathonian",8362,44.0124,47.9633,36,1
+"36475",56133,"col","Sundance",-107.83,44.53,"Red Gulch Dinosaur Tracksite, UW V-98066",NA,"RGDT",5,"Bathonian","",168.3,166.1,31470,"gp_mid",-34.27,32.53,"101",167.2,"bathonian",8862,-39.7612,31.5122,36,1
+"37131",57121,"col","Cotswold Slate",-1.83,51.9,"Kineton Thorns Quarry",NA,"",4,"Bathonian","",168.3,166.1,10557,"gp_mid",19.63,35.99,"315",167.2,"bathonian",9017,19.9478,35.0069,36,1
+"38140",58210,"col","",13.78,52.97,"Geschiebe from Althüttendorf, Brandenburg",NA,"",3,"Bathonian","",168.3,166.1,16511,"gp_mid",31.19,38.66,"315",167.2,"bathonian",9177,30.3043,38.8369,36,1
+"38145",58215,"col","",13.6,53.32,"Geschiebe from Arendsee-Weggun, Brandenburg",NA,"",1,"Bathonian","",168.3,166.1,16522,"gp_mid",30.95,38.98,"315",167.2,"bathonian",9179,30.3043,38.8369,36,1
+"38253",58326,"col","",11.77,52.32,"Bore Rogätz 11/62, Saxony-Anhalt",NA,"",2,"Bathonian","",168.3,166.1,15700,"gp_mid",29.84,37.77,"315",167.2,"bathonian",9211,27.7101,37.8031,36,1
+"41119",61520,"col","",91.83,33.08,"Locality B57, Upper marine limestone, 15 km south of Wenquan, Qiangtang Terrane",NA,"",15,"Bathonian","",168.3,166.1,17531,"gp_mid",102.39,24.19,"612",167.2,"bathonian",9945,106.2801,44.6326,36,1
+"42272",63076,"col","",19.47,50.52,"Blanowice, Czestochowa region, Slaskie",NA,"",4,"Bathonian","",168.3,166.1,18165,"gp_mid",36.23,37.07,"305",167.2,"bathonian",10192,34.4161,37.8055,36,1
+"43364",65031,"col","",1.74,50.88,"Hydrequent",NA,"Boulonnais, Boulogne-sur-mer",2,"Bathonian","",168.3,166.1,19135,"gp_mid",22.52,35.28,"315",167.2,"bathonian",10452,21.1378,32.5954,36,1
+"45192",67616,"col","",18.93,50.9,"Klobuck borehole 22, Czestochowa region, Slaskie",NA,"",2,"Bathonian","",168.3,166.1,18165,"gp_mid",35.71,37.37,"305",167.2,"bathonian",10945,34.4161,37.8055,36,1
+"45428",67992,"col","",1.42,46.64,"Combe quarry, Saint-Gaultier",NA,"Carrière de la Combe",5,"Bathonian","",168.3,166.1,42903,"gp_mid",22.97,31.04,"305",167.2,"bathonian",11012,22.2302,30.2756,36,1
+"46108",68754,"col","Tuxedni",-147.67,62.18,"USGS Mesozoic loc. 27515, Little Oshetna River, Talkeetna Mts., Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.75,57.52,"125",167.2,"bathonian",11177,-54.1789,48.9948,36,1
+"46109",68755,"col","Tuxedni",-147.71,62.17,"USGS Mesozoic loc. 24822, Little Oshetna River, Talkeetna Mts., Cook Inlet",NA,"",5,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.76,57.53,"125",167.2,"bathonian",11178,-54.1789,48.9948,36,1
+"46112",68758,"col","Tuxedni",-147.67,62.13,"USGS Mesozoic loc. 24115, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.83,57.5,"125",167.2,"bathonian",11180,-54.1789,48.9948,36,1
+"46113",68759,"col","Tuxedni",-147.7,62.12,"USGS Mesozoic loc. 24116, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",10,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.85,57.51,"125",167.2,"bathonian",11181,-54.1789,48.9948,36,1
+"46115",68761,"col","Tuxedni",-147.7,62.12,"USGS Mesozoic loc. 24117, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",11,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.85,57.51,"125",167.2,"bathonian",11181,-54.1789,48.9948,36,1
+"46117",68763,"col","Tuxedni",-147.7,62.12,"USGS Mesozoic loc. 24118, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.85,57.51,"125",167.2,"bathonian",11181,-54.1789,48.9948,36,1
+"46120",68766,"col","Tuxedni",-147.69,62.12,"USGS Mesozoic loc. 24825, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-72.85,57.5,"125",167.2,"bathonian",11183,-54.1789,48.9948,36,1
+"46123",68769,"col","Tuxedni",-148.17,61.92,"USGS Mesozoic loc. 8573, Little Nelchina River, Talkeetna Mts., Cook Inlet",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-73.36,57.64,"125",167.2,"bathonian",11184,-54.5932,50.7054,36,1
+"46124",68770,"col","Tuxedni",-152.7,60.12,"USGS Mesozoic loc. 21284, southeast of Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.09,59.01,"125",167.2,"bathonian",11185,-58.9428,52.1717,36,1
+"46125",68771,"col","Tuxedni",-152.72,60.12,"USGS Mesozoic loc. 21283, southeast of Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.09,59.02,"125",167.2,"bathonian",11186,-58.9428,52.1717,36,1
+"46126",68772,"col","Tuxedni",-152.73,60.11,"USGS Mesozoic loc. 22711, southeast of Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.11,59.02,"125",167.2,"bathonian",11187,-58.9428,52.1717,36,1
+"46127",68773,"col","Tuxedni",-152.73,60.11,"USGS Mesozoic loc. 22712, southeast of Bear Creek, Tuxedni Bay, Cook Inlet",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.11,59.02,"125",167.2,"bathonian",11187,-58.9428,52.1717,36,1
+"46128",68774,"col","Tuxedni",-152.91,59.97,"USGS Mesozoic loc. 22698, Lake Hickerson, Tuxedni Bay, Cook Inlet",NA,"",7,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.43,59.05,"125",167.2,"bathonian",11188,-58.9428,52.1717,36,1
+"46144",68790,"col","Tuxedni",-153.22,59.8,"USGS Mesozoic loc. 21308, Iniskin Peninsula, Cook Inlet",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.84,59.14,"125",167.2,"bathonian",11197,-58.9428,52.1717,36,1
+"46147",68793,"col","Tuxedni",-153.22,59.8,"USGS Mesozoic loc. 21309, Iniskin Peninsula, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.84,59.14,"125",167.2,"bathonian",11197,-58.9428,52.1717,36,1
+"46148",68794,"col","Tuxedni",-153.22,59.8,"USGS Mesozoic loc. 21310, Iniskin Peninsula, Cook Inlet",NA,"",9,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.84,59.14,"125",167.2,"bathonian",11197,-58.9428,52.1717,36,1
+"46151",68797,"col","Tuxedni",-153.25,59.77,"USGS Mesozoic loc. 20005, Iniskin Peninsula, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.92,59.14,"125",167.2,"bathonian",11198,-58.9428,52.1717,36,1
+"46154",68800,"col","Tuxedni",-153.25,59.76,"USGS Mesozoic loc. 27100, Iniskin Peninsula, Cook Inlet",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.93,59.14,"125",167.2,"bathonian",11199,-58.9428,52.1717,36,1
+"46155",68802,"col","Tuxedni",-153.23,59.72,"USGS Mesozoic loc. 11038, Iniskin Peninsula, Cook Inlet",NA,"",9,"Bathonian","",168.3,166.1,19843,"gp_mid",-79,59.11,"125",167.2,"bathonian",11200,-58.9428,52.1717,36,1
+"46156",68801,"col","Tuxedni",-153.26,59.77,"USGS Mesozoic loc. 20011, Iniskin Peninsula, Cook Inlet",NA,"",7,"Bathonian","",168.3,166.1,19843,"gp_mid",-78.92,59.14,"125",167.2,"bathonian",11201,-58.9428,52.1717,36,1
+"46158",68804,"col","Tuxedni",-153.25,59.71,"USGS Mesozoic loc. 20746, Iniskin Peninsula, Cook Inlet",NA,"",9,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.02,59.12,"125",167.2,"bathonian",11203,-58.9428,52.1717,36,1
+"46159",68805,"col","Tuxedni",-153.25,59.71,"USGS Mesozoic loc. 20745, Iniskin Peninsula, Cook Inlet",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.02,59.12,"125",167.2,"bathonian",11203,-58.9428,52.1717,36,1
+"46160",68806,"col","Tuxedni",-153.27,59.71,"USGS Mesozoic loc. 20754, Iniskin Peninsula, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.02,59.13,"125",167.2,"bathonian",11204,-58.9428,52.1717,36,1
+"46161",68807,"col","Tuxedni",-153.26,59.71,"USGS Mesozoic loc. 20751, Iniskin Peninsula, Cook Inlet",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.03,59.12,"125",167.2,"bathonian",11205,-58.9428,52.1717,36,1
+"46162",68808,"col","Tuxedni",-153.26,59.71,"USGS Mesozoic loc. 20752, Iniskin Peninsula, Cook Inlet",NA,"",8,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.03,59.12,"125",167.2,"bathonian",11205,-58.9428,52.1717,36,1
+"46172",68820,"col","Tuxedni",-153.29,59.7,"USGS Mesozoic loc. 20743, Iniskin Peninsula, Cook Inlet",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.05,59.13,"125",167.2,"bathonian",11213,-58.9428,52.1717,36,1
+"46173",68821,"col","Tuxedni",-153.31,59.69,"USGS Mesozoic loc. 20744, Iniskin Peninsula, Cook Inlet",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-79.07,59.14,"125",167.2,"bathonian",11214,-58.9428,52.1717,36,1
+"46191",68840,"col","Sawtooth",-112.88,48.18,"USGS Mesozoic loc. 19185, north of Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,37.88,"127",167.2,"bathonian",11221,-41.7133,34.7211,36,1
+"46192",68841,"col","Sawtooth",-112.88,48.18,"USGS Mesozoic loc. 19186, north of Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,37.88,"127",167.2,"bathonian",11221,-41.7133,34.7211,36,1
+"46193",68842,"col","Sawtooth",-112.77,47.92,"USGS Mesozoic loc. 19609, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.4,37.64,"127",167.2,"bathonian",11222,-41.7133,34.7211,36,1
+"46194",68843,"col","Sawtooth",-112.76,47.88,"USGS Mesozoic loc. 18718, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,"bathonian",11223,-41.7133,34.7211,36,1
+"46195",68844,"col","Sawtooth",-112.76,47.88,"USGS Mesozoic loc. 19601, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,"bathonian",11223,-41.7133,34.7211,36,1
+"46196",68845,"col","Sawtooth",-112.76,47.88,"USGS Mesozoic loc. 19604, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,"bathonian",11223,-41.7133,34.7211,36,1
+"46197",68846,"col","Sawtooth",-112.76,47.88,"USGS Mesozoic loc. 20355, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,"bathonian",11223,-41.7133,34.7211,36,1
+"46198",68847,"col","Sawtooth",-112.76,47.88,"USGS Mesozoic loc. 20357, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.39,37.6,"127",167.2,"bathonian",11223,-41.7133,34.7211,36,1
+"46199",68848,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 18714, Sun River area, Western Montana",NA,"",14,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46200",68849,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 18715, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46201",68850,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 19184, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46202",68851,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 22652, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46203",68853,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 22653, Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46204",68854,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 22654, Sun River area, Western Montana",NA,"",9,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46205",68855,"col","Sawtooth",-112.69,47.78,"USGS Mesozoic loc. 22655, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.31,37.51,"127",167.2,"bathonian",11224,-41.7133,34.7211,36,1
+"46206",68856,"col","Sawtooth",-112.72,47.72,"USGS Mesozoic loc. 27040, Sun River area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.45,"127",167.2,"bathonian",11225,-41.7133,34.7211,36,1
+"46207",68857,"col","Sawtooth",-112.72,47.72,"USGS Mesozoic loc. 27046, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.45,"127",167.2,"bathonian",11225,-41.7133,34.7211,36,1
+"46208",68858,"col","Sawtooth",-112.7,47.7,"USGS Mesozoic loc. 27506, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.3,37.43,"127",167.2,"bathonian",11226,-41.7133,34.7211,36,1
+"46209",68859,"col","Sawtooth",-112.71,47.63,"USGS Mesozoic loc. 19608, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.29,37.37,"127",167.2,"bathonian",11227,-41.7133,34.7211,36,1
+"46210",68860,"col","Sawtooth",-112.71,47.63,"USGS Mesozoic loc. 27042, Sun River area, Western Montana",NA,"",4,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.29,37.37,"127",167.2,"bathonian",11227,-41.7133,34.7211,36,1
+"46211",68861,"col","Sawtooth",-112.77,47.62,"USGS Mesozoic loc. 27039, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.33,37.34,"127",167.2,"bathonian",11228,-41.7133,34.7211,36,1
+"46212",68862,"col","Sawtooth",-112.79,47.61,"USGS Mesozoic loc. 27047, Sun River area, Western Montana",NA,"",7,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,"bathonian",11229,-41.7133,34.7211,36,1
+"46213",68863,"col","Sawtooth",-112.75,47.62,"USGS Mesozoic loc. 27502, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.32,37.34,"127",167.2,"bathonian",11230,-41.7133,34.7211,36,1
+"46214",68864,"col","Sawtooth",-112.79,47.61,"USGS Mesozoic loc. 27045, Sun River area, Western Montana",NA,"",2,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,"bathonian",11229,-41.7133,34.7211,36,1
+"46215",68865,"col","Sawtooth",-112.79,47.61,"USGS Mesozoic loc. 27501, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.35,37.33,"127",167.2,"bathonian",11229,-41.7133,34.7211,36,1
+"46216",68866,"col","Sawtooth",-112.79,47.53,"USGS Mesozoic loc. 27503, Sun River area, Western Montana",NA,"",5,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.25,"127",167.2,"bathonian",11231,-41.7133,34.7211,36,1
+"46217",68867,"col","Sawtooth",-112.79,47.53,"USGS Mesozoic loc. 27504, Sun River area, Western Montana",NA,"",1,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.25,"127",167.2,"bathonian",11231,-41.7133,34.7211,36,1
+"46218",68868,"col","Sawtooth",-112.8,47.53,"USGS Mesozoic loc. 27505, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.34,37.26,"127",167.2,"bathonian",11232,-41.7133,34.7211,36,1
+"46219",68869,"col","Sawtooth",-112.69,47.52,"USGS Mesozoic loc. 18324, Sun River area, Western Montana",NA,"",8,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.25,37.25,"127",167.2,"bathonian",11233,-41.7133,34.7211,36,1
+"46220",68870,"col","Sawtooth",-112.69,47.52,"USGS Mesozoic loc. 27041, Sun River area, Western Montana",NA,"",3,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.25,37.25,"127",167.2,"bathonian",11233,-41.7133,34.7211,36,1
+"46221",68871,"col","Sawtooth",-113.3,46.72,"USGS Mesozoic loc. 19623, Drummond area, Western Montana",NA,"",6,"Bathonian","",168.3,166.1,19843,"gp_mid",-43.57,36.39,"127",167.2,"bathonian",11234,-41.7133,34.7211,36,1
+"47595",70908,"col","",-0.45,52.7,"Essendine, Stamford sauropod",NA,"",1,"Bathonian","",168.3,166.1,23773,"gp_mid",20.55,36.89,"315",167.2,"bathonian",11636,19.9478,35.0069,36,1
+"49072",73749,"col","",-4.37,43.15,"Tudanca section; benthic forams, 511 m",NA,"",27,"Bathonian","",168.3,166.1,24720,"gp_mid",19.36,28.51,"304",167.2,"bathonian",12047,17.9515,24.8104,36,1
+"49073",73750,"col","",-4.37,43.15,"Tudanca section; benthic forams, 579 m",NA,"",29,"Bathonian","",168.3,166.1,24720,"gp_mid",19.36,28.51,"304",167.2,"bathonian",12047,17.9515,24.8104,36,1
+"49087",73776,"col","",-4.27,42.8,"Aguilar de Campoo section, benthic forams, 235 m",NA,"",38,"Bathonian","",168.3,166.1,24720,"gp_mid",19.24,28.17,"304",167.2,"bathonian",12051,17.9515,24.8104,36,1
+"49088",73777,"col","",-4.27,42.8,"Aguilar de Campoo section, benthic forams, 280 m",NA,"",31,"Bathonian","",168.3,166.1,24720,"gp_mid",19.24,28.17,"304",167.2,"bathonian",12051,17.9515,24.8104,36,1
+"49101",73790,"col","",-4.02,42.58,"Barrios de Villadiego section, benthic forams, 145 m",NA,"",23,"Bathonian","",168.3,166.1,24720,"gp_mid",19.3,27.89,"304",167.2,"bathonian",12058,17.9515,24.8104,36,1
+"49102",73791,"col","",-4.02,42.58,"Barrios de Villadiego section, benthic forams, 182 m",NA,"",28,"Bathonian","",168.3,166.1,24720,"gp_mid",19.3,27.89,"304",167.2,"bathonian",12058,17.9515,24.8104,36,1
+"50887",77007,"col","Erice",12.58,38.03,"Cappuccini monastery, Monte Erice",NA,"",1,"Bathonian","",168.3,166.1,26059,"gp_mid",NA,NA,"coordinates not computable using this model",167.2,"bathonian",12586,19.6064,17.2745,36,1
+"50888",157804,"col","Erice",12.57,38.03,"Rocce del Calderaro outcrop, Monte Erice",NA,"",2,"Bathonian","",168.3,166.1,26059,"gp_mid",NA,NA,"coordinates not computable using this model",167.2,"bathonian",12587,19.6064,17.2745,36,1
+"50975",77132,"col","",130.62,32.28,"Koguchi, Kuma 14, sample S 6",NA,"",4,"Bathonian","",168.3,166.1,26108,"gp_mid",146.01,44.71,"610",167.2,"bathonian",12618,158.1253,43.0258,36,1
+"51559",78218,"col","",-4.27,42.8,"Aguilar de Campoo, SW Cuenca",NA,"",3,"Bathonian","",168.3,166.1,26346,"gp_mid",19.24,28.17,"304",167.2,"bathonian",12051,17.9515,24.8104,36,1
+"51560",78219,"col","",-3.48,42.75,"Quintanaopia area, Burgos",NA,"",3,"Bathonian","",168.3,166.1,26346,"gp_mid",19.78,27.85,"304",167.2,"bathonian",12790,17.9515,24.8104,36,1
+"54585",83346,"col","Techout",10.47,33,"Ksar Jelidat, Techout Formation",NA,"",2,"Bathonian","",168.3,166.1,27987,"gp_mid",22.51,16.3,"715",167.2,"bathonian",2778,17.0939,12.9021,36,1
+"56859",86625,"col","Mytilus Beds",7.38,46.63,"Boltigen",NA,"",3,"Bathonian","",168.3,166.1,29177,"gp_mid",27.71,31.66,"305",167.2,"bathonian",14641,27.6866,32.2527,36,1
+"56860",86626,"col","",7.12,47.35,"Seleute",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.36,32.33,"305",167.2,"bathonian",14642,27.6866,32.2527,36,1
+"56861",86627,"col","",7.35,47.37,"Vorbourg",NA,"",7,"Bathonian","",168.3,166.1,29177,"gp_mid",27.54,32.38,"305",167.2,"bathonian",14643,27.6866,32.2527,36,1
+"56862",86628,"col","",7.3,47.42,"Movelier",NA,"",3,"Bathonian","",168.3,166.1,29177,"gp_mid",27.49,32.42,"305",167.2,"bathonian",14644,27.6866,32.2527,36,1
+"56863",86629,"col","",7.17,47.4,"Cornol",NA,"",2,"Bathonian","",168.3,166.1,29177,"gp_mid",27.39,32.39,"305",167.2,"bathonian",14645,27.6866,32.2527,36,1
+"56864",86630,"col","Mytilus Beds",7.28,46.6,"Purpel",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.64,31.61,"305",167.2,"bathonian",14646,27.6866,32.2527,36,1
+"56869",86639,"col","",7.2,47.38,"Asuel",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.42,32.37,"305",167.2,"bathonian",14651,27.6866,32.2527,36,1
+"56875",86673,"col","",7.9,47.37,"Trimbach",NA,"",1,"Bathonian","",168.3,166.1,29177,"gp_mid",27.97,32.44,"305",167.2,"bathonian",14657,27.6866,32.2527,36,1
+"59772",90912,"col","Twin Creek",-111.22,42.14,"East of Bear Lake",NA,"",6,"Bathonian","",168.3,166.1,30589,"gp_mid",-37.82,30.91,"101",167.2,"bathonian",15674,-43.6743,30.0031,36,1
+"59972",91221,"col","",-1.43,48.78,"Falaise de Langrune, Lucerne",NA,"",1,"Bathonian","",168.3,166.1,30685,"gp_mid",20.4,32.93,"305",167.2,"bathonian",15752,21.1378,32.5954,36,1
+"60150",91448,"col","Fullers Earth",-2.33,50.75,"Burton Cliff, Dorset [Fullers Earth Fm]",NA,"",3,"Bathonian","",168.3,166.1,30802,"gp_mid",19.42,34.81,"315",167.2,"bathonian",15808,18.488,31.714,36,1
+"60151",91449,"col","Forest Marble",-0.1,51.85,"Watton Cliff, Dorset [Forest Marble Fm]",NA,"",11,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,"bathonian",15809,19.9478,35.0069,36,1
+"60152",91450,"col","Frome Clay",-0.1,51.85,"Watton Cliff, Dorset, oyster-belemnite bed [Frome Clay Fm]",NA,"",13,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,"bathonian",15809,19.9478,35.0069,36,1
+"60154",91452,"col","Fullers Earth",-2.33,50.75,"Horn Park Quarry, Dorset [Fullers Earth Fm]",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",19.42,34.81,"315",167.2,"bathonian",15808,18.488,31.714,36,1
+"60155",91453,"col","Fullers Earth",-2.46,51.19,"East Cranmore, Somerset [Fullers Earth Fm]",NA,"",3,"Bathonian","",168.3,166.1,30802,"gp_mid",19.26,35.24,"315",167.2,"bathonian",15811,18.488,31.714,36,1
+"60156",91454,"col","Forest Marble",-0.1,51.85,"Ford Road Cutting, Wiltshire [Upper Rags Mbr, Forest Marble Fm]",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,"bathonian",15809,19.9478,35.0069,36,1
+"60157",91455,"col","Forest Marble",-0.1,51.85,"Watton Cliff, Dorset, Wattonensis beds",NA,"",1,"Bathonian","",168.3,166.1,30802,"gp_mid",20.95,36.08,"315",167.2,"bathonian",15809,19.9478,35.0069,36,1
+"60572",91908,"col","",20.4,50.77,"Black clays, Former Checiny Rail station, Dabrowa",NA,"",17,"Bathonian","",168.3,166.1,30951,"gp_mid",36.88,37.46,"305",167.2,"bathonian",15954,34.4161,37.8055,36,1
+"61392",92934,"col","Comblanchien",4.73,47.08,"Comblanchien Quarry",NA,"",1,"Bathonian","",168.3,166.1,17651,"gp_mid",25.52,31.81,"305",167.2,"bathonian",16196,24.9577,31.2367,36,1
+"62029",93826,"col","Fuller's Earth Clay",-2.51,50.61,"Herbury Point, near Fleet",NA,"",1,"Bathonian","",168.3,166.1,31904,"gp_mid",19.3,34.66,"315",167.2,"bathonian",16437,18.488,31.714,36,1
+"66130",98902,"col","Dhruma",46.97,24.82,"Hassiyan Pass, S1151",NA,"",2,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.83,"503",167.2,"bathonian",17699,43.9422,-8.9595,36,1
+"66565",99487,"col","",33.42,30.7,"sample 429, Gebel Somor, northwest of Bir Maghara",NA,"",34,"Bathonian","",168.3,166.1,32098,"gp_mid",38.94,5.76,"508",167.2,"bathonian",17845,34.0469,1.3157,36,1
+"66831",99858,"col","Kambe",39.52,-4.03,"Mombasa, loc. 21",NA,"",1,"Bathonian","",168.3,166.1,34336,"gp_mid",30.86,-28.34,"709",167.2,"bathonian",17931,29.3721,-32.7069,36,1
+"66832",99859,"col","Kambe",39.52,-4.03,"Mombasa, loc. 22",NA,"",6,"Bathonian","",168.3,166.1,34336,"gp_mid",30.86,-28.34,"709",167.2,"bathonian",17931,29.3721,-32.7069,36,1
+"66834",99861,"col","Kambe",39.65,-3.85,"Kaya Kambe, loc. 36",NA,"",5,"Bathonian","",168.3,166.1,34336,"gp_mid",31.08,-28.22,"709",167.2,"bathonian",17933,29.3721,-32.7069,36,1
+"66835",99862,"col","Kambe",39.67,-3.83,"Kaya Jibana, loc. 37",NA,"",4,"Bathonian","",168.3,166.1,34336,"gp_mid",31.1,-28.21,"709",167.2,"bathonian",17934,29.3721,-32.7069,36,1
+"66836",99863,"col","Kambe",39.67,-3.78,"Kaya Chonyi, loc. 38",NA,"",3,"Bathonian","",168.3,166.1,34336,"gp_mid",31.12,-28.16,"709",167.2,"bathonian",17935,29.3721,-32.7069,36,1
+"66840",99867,"col","Kambe",39.55,-4.02,"Duruma River, Mombasa, loc. 28",NA,"",2,"Bathonian","",168.3,166.1,34336,"gp_mid",30.9,-28.34,"709",167.2,"bathonian",17938,29.3721,-32.7069,36,1
+"67363",100515,"col","Sundance",-107.79,44.61,"tracksite 8 km north of Shell",NA,"",1,"Bathonian","",168.3,166.1,30808,"gp_mid",-34.21,32.59,"101",167.2,"bathonian",18096,-39.7612,31.5122,36,1
+"67364",100516,"col","Sundance",-108.02,44.56,"tracksite 5 km northeast of Greybull",NA,"",1,"Bathonian","",168.3,166.1,30808,"gp_mid",-34.41,32.59,"101",167.2,"bathonian",18097,-39.7612,31.5122,36,1
+"85729",124304,"col","",44.2,56.2,"Nizhegorodskaya Oblast, borehole 68, depth 277.5-283.2 m (PIN collection 1066)",NA,"",1,"Bathonian","",168.3,166.1,8889,"gp_mid",52.68,47.05,"302",167.2,"bathonian",24026,49.256,50.57,36,1
+"86246",124923,"col","",17.45,52.1,"Polish lowland (Bathonian) ",NA,"",31,"Bathonian","",168.3,166.1,40441,"gp_mid",34.21,38.31,"315",167.2,"bathonian",24185,32.9051,39.9182,36,1
+"86630",125432,"col","",18.08,46.18,"Hidas Valley (Bathonian)",NA,"",8,"Bathonian","",168.3,166.1,40615,"gp_mid",37.9,19.1,"308",167.2,"bathonian",24324,37.3486,24.6066,36,1
+"86632",125454,"col","",18.08,46.18,"Ofalu",NA,"",2,"Bathonian","",168.3,166.1,40615,"gp_mid",37.9,19.1,"308",167.2,"bathonian",24324,37.3486,24.6066,36,1
+"86634",125456,"col","",18.4,46.22,"Obanya Valley ",NA,"",1,"Bathonian","",168.3,166.1,40615,"gp_mid",38.01,18.91,"308",167.2,"bathonian",24326,37.3486,24.6066,36,1
+"87671",126873,"col","",91.68,32.27,"Liao 4",NA,"Burmirhynchia-bearing beds",2,"Bathonian","",168.3,166.1,41200,"gp_mid",98.76,6.67,"613",167.2,"bathonian",24508,106.2801,44.6326,36,1
+"87877",127178,"col","Buqu",91.33,33.77,"Golmud City, Qinghai (No. A), Buqu Formation",NA,"",39,"Bathonian","",168.3,166.1,41317,"gp_mid",101.74,24.73,"612",167.2,"bathonian",24546,105.7645,47.1067,36,1
+"90304",130764,"col","Great Oolite",-0.88,52.27,"Kingsthorpe, Northampton",NA,"",1,"Bathonian","",168.3,166.1,42278,"gp_mid",20.29,36.43,"315",167.2,"bathonian",25104,19.9478,35.0069,36,1
+"91205",131844,"col","",-1.43,51.86,"Stonesfield Slate, near Oxford (BMNH fish)",NA,"",19,"Bathonian","",168.3,166.1,38893,"gp_mid",19.94,35.98,"315",167.2,"bathonian",25305,19.9478,35.0069,36,1
+"91206",131845,"col","Great Oolite",-0.3,52.55,"Great Oolite, Orton, near Peterborough (BMNH fish coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.69,36.75,"315",167.2,"bathonian",25306,19.9478,35.0069,36,1
+"91207",131846,"col","Great Oolite",-1.78,51.93,"Eyeford, Gloucestershire",NA,"",5,"Bathonian","",168.3,166.1,41145,"gp_mid",19.67,36.02,"315",167.2,"bathonian",25307,19.9478,35.0069,36,1
+"91316",131982,"col","Great Oolite",-0.95,52.19,"Blisworth, Northamptonshire (BMNH fish Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.26,36.34,"315",167.2,"bathonian",8216,19.9478,35.0069,36,1
+"91330",131997,"col","Great Oolite",-0.37,49.19,"Great Oolite, Caen, Normandy (BMNH Tesson collection)",NA,"",8,"Bathonian","",168.3,166.1,38893,"gp_mid",21.17,33.42,"305",167.2,"bathonian",25357,21.1378,32.5954,36,1
+"91331",131998,"col","",-1.48,51.79,"Witney, Oxfordshire (BMNH Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",19.92,35.91,"315",167.2,"bathonian",25358,19.9478,35.0069,36,1
+"91332",131999,"col","",-1.25,51.76,"Little Gibraltar, near Oxford (BMNH Coll.)",NA,"",1,"Bathonian","",168.3,166.1,38893,"gp_mid",20.1,35.9,"315",167.2,"bathonian",25359,19.9478,35.0069,36,1
+"91803",132668,"col","",95.62,31.5,"Mula south, 76CDM4, Butuo region, Dengqen County",NA,"",6,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91804",132669,"col","",95.62,31.5,"Mula south, 76CDM1, Butuo region, Dengqen County",NA,"",6,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91806",132672,"col","",95.62,31.5,"Alonggou, 76CDB8, Butuo region, Dengqen County",NA,"",1,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91808",132674,"col","",95.62,31.5,"Alonggou, 76CDB33, Butuo region, Dengqen County",NA,"",1,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91809",132675,"col","",95.62,31.5,"Alonggou, 76CDB40, Butuo region, Dengqen County",NA,"",3,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91811",132678,"col","",95.62,31.5,"Mula south, 76CDM3, Butuo region, Dengqen County",NA,"",4,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91812",132679,"col","",91.6,32.3,"Near Banfu, 76Na5, 24 km north of Road 114, Amdo County",NA,"",3,"Bathonian","",168.3,166.1,42718,"gp_mid",98.69,6.7,"613",167.2,"bathonian",25480,106.2801,44.6326,36,1
+"91813",132680,"col","",95.62,31.5,"Alonggou, 76CDB43, Butuo region, Dengqen County",NA,"",2,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91815",132682,"col","",95.62,31.5,"Alonggou, 76CDB35, Butuo region, Dengqen County",NA,"",1,"Bathonian","",168.3,166.1,42718,"gp_mid",102.21,6.44,"613",167.2,"bathonian",6042,110.7024,45.0467,36,1
+"91823",132690,"col","",91.6,32.3,"Near Banfu, 76Na4, 21 km north of Road 114, Amdo County",NA,"",2,"Bathonian","",168.3,166.1,42718,"gp_mid",98.69,6.7,"613",167.2,"bathonian",25480,106.2801,44.6326,36,1
+"91824",132691,"col","",94.1,31.7,"Yala, 76No5, Sog County",NA,"",2,"Bathonian","",168.3,166.1,42718,"gp_mid",100.89,6.42,"613",167.2,"bathonian",25482,110.7024,45.0467,36,1
+"92602",133866,"col","",174.83,-37.38,"AU 237, Opuatia Cliff (R13/f6613)",NA,"",2,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92603",133867,"col","",174.83,-37.38,"AU 724, Opuatia Cliff (R13/f6613)",NA,"",4,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92604",133868,"col","",174.83,-37.38,"AU 725, Opuatia Cliff (R13/f6613)",NA,"",4,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92605",133869,"col","",174.83,-37.38,"AU 727, Opuatia Cliff (R13/f6613)",NA,"",4,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92606",133870,"col","",174.83,-37.38,"AU 4409, Opuatia Cliff (R13/f6613)",NA,"",2,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92607",133871,"col","",174.83,-37.38,"AU 4436, Opuatia Cliff (R13/f6613)",NA,"",5,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92608",133872,"col","",174.83,-37.38,"AU 6440, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92609",133873,"col","",174.83,-37.38,"AU 7446, Opuatia Cliff (R13/f6613)",NA,"",5,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92610",133874,"col","",174.83,-37.38,"AU 9399, Opuatia Cliff (R13/f6613)",NA,"",3,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92611",133875,"col","",174.83,-37.38,"AM 7594, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92612",133876,"col","",174.83,-37.38,"FJB coll, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92613",133877,"col","",174.83,-37.38,"JGB coll, Opuatia Cliff (R13/f6613)",NA,"",4,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92614",133878,"col","",174.83,-37.38,"McF B25, Opuatia Cliff (R13/f6613)",NA,"",3,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92615",133879,"col","",174.83,-37.38,"McF F62, Opuatia Cliff (R13/f6613)",NA,"",2,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92616",133880,"col","",174.83,-37.38,"McF F66, Opuatia Cliff (R13/f6613)",NA,"",2,"Bathonian","",168.3,166.1,43142,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"92981",134288,"col","",174.78,-38.59,"McF F57, Rauroa Stream (R17/f253)",NA,"",2,"Bathonian","",168.3,166.1,43142,"gp_mid",85.5,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"93089",134403,"col","",174.78,-38.59,"AU 363, Rauroa Stream (R17/f8588)",NA,"",3,"Bathonian","",168.3,166.1,43142,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"93939",135388,"col","",-0.96,49.34,"National French Cement Company quarry, Longueville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.69,33.52,"305",167.2,"bathonian",26170,21.1378,32.5954,36,1
+"93940",135389,"col","",-0.26,49.24,"Quarry entrance on route 814, north of Ranville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",21.25,33.48,"305",167.2,"bathonian",26171,21.1378,32.5954,36,1
+"93955",135418,"col","Fuller's Earth",-2.38,51.22,"Whatley, near Frome",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.32,35.28,"315",167.2,"bathonian",26182,18.488,31.714,36,1
+"93957",135420,"col","",-0.26,49.23,"Ranville, Caen, Calvados",NA,"",6,"Bathonian","",168.3,166.1,64021,"gp_mid",21.25,33.47,"305",167.2,"bathonian",26184,21.1378,32.5954,36,1
+"93962",135425,"col","Great Oolite",-2.54,50.64,"Langton Herring (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",19.28,34.68,"315",167.2,"bathonian",26189,18.488,31.714,36,1
+"93984",135464,"col","Middle Dhruma",46.98,24.81,"Khashm Hassiya Station, S1150",NA,"",1,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.85,"503",167.2,"bathonian",26194,43.9422,-8.9595,36,1
+"93989",135469,"col","",33.31,30.68,"NW of Bir, Gebel Maghara, Sinai",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",38.85,5.78,"508",167.2,"bathonian",26198,34.0469,1.3157,36,1
+"93990",135470,"col","Bath Oolite",1.71,50.81,"Marquise, Pas-de-Calais",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",22.5,35.21,"315",167.2,"bathonian",26199,21.1378,32.5954,36,1
+"93992",135472,"col","",-0.24,49.25,"West side route 814, 1 km west of Amfreville, Calvados",NA,"",2,"Bathonian","",168.3,166.1,43337,"gp_mid",21.26,33.49,"305",167.2,"bathonian",26200,21.1378,32.5954,36,1
+"93993",135473,"col","",1.7,50.71,"Boulonnais (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",22.52,35.1,"315",167.2,"bathonian",26201,21.1378,32.5954,36,1
+"93994",135474,"col","",-1.27,51.88,"Kirtlington, Cornbrash (USNM coll)",NA,"",2,"Bathonian","",168.3,166.1,43337,"gp_mid",20.06,36.01,"315",167.2,"bathonian",26202,19.9478,35.0069,36,1
+"94000",135484,"col","Great Oolite",-1.27,51.88,"Kirtlington, Great Oolite (USNM coll)",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.06,36.01,"315",167.2,"bathonian",26202,19.9478,35.0069,36,1
+"94010",135494,"col","",2.58,49.5,"Montiers",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",23.4,33.99,"315",167.2,"bathonian",26211,23.7248,33.5858,36,1
+"94041",135525,"col","",-1.24,51.83,"Excavation for petrol tanks at Islip Railway Station, near Oxford",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",20.09,35.96,"315",167.2,"bathonian",26217,19.9478,35.0069,36,1
+"94065",135549,"col","",5,47.29,"Chenôve, Côte d'Or",NA,"",1,"Bathonian","",168.3,166.1,43337,"gp_mid",25.7,32.05,"305",167.2,"bathonian",26232,24.9577,31.2367,36,1
+"94078",135562,"col","",127.27,70.79,"Eyekit River, left tributary of Lena River, lower reaches",NA,"",1,"Bathonian","",168.3,166.1,43373,"gp_mid",94.3,80.38,"401",167.2,"bathonian",26243,-0.9198,86.5695,36,1
+"94086",135569,"col","",114.07,73.58,"Eastern side of Anabar Gulf, Laptev Sea (Bathonian)",NA,"",1,"Bathonian","",168.3,166.1,43373,"gp_mid",72.03,77.81,"401",167.2,"bathonian",26249,23.4588,81.6515,36,1
+"94285",135817,"col","Dhruma",46.97,24.82,"Hassiyan Pass, S1179",NA,"",3,"Bathonian","",168.3,166.1,34048,"gp_mid",46.17,-5.83,"503",167.2,"bathonian",17699,43.9422,-8.9595,36,1
+"94526",140494,"col","Taunton Limestone",-1.43,51.86,"Stonesfield (Charlesworth coll)",NA,"",1,"Bathonian","",168.3,166.1,49350,"gp_mid",19.94,35.98,"315",167.2,"bathonian",25305,19.9478,35.0069,36,1
+"96293",138308,"col","",-0.37,49.12,"Teleosaurus locality, Allemagne",NA,"Fuller's Earth",2,"Bathonian","",168.3,166.1,44229,"gp_mid",21.18,33.35,"305",167.2,"bathonian",26930,21.1378,32.5954,36,1
+"96865",138926,"col","Taunton Limestone",-1.43,51.86,"8 km north-east of Witney, near the village of Stonesfield (Brodie Coll)",NA,"",9,"Bathonian","",168.3,166.1,50625,"gp_mid",19.94,35.98,"315",167.2,"bathonian",25305,19.9478,35.0069,36,1
+"97033",139093,"col","",-127.25,54.53,"GSC loc. 85409",NA,"",1,"Bathonian","",168.3,166.1,40842,"gp_mid",-56.52,42.65,"127",167.2,"bathonian",27072,-48.6499,41.5514,36,1
+"97035",139095,"col","",-127.65,54.79,"GSC loc. 85444, 88482, 88485",NA,"Zymoetz River - McDonell  Lake",2,"Bathonian","",168.3,166.1,40842,"gp_mid",-56.88,42.87,"127",167.2,"bathonian",27074,-48.6499,41.5514,36,1
+"98314",140495,"col","Taunton Limestone",-1.43,51.86,"Stonesfield Slate (Oxford University Museum coll)",NA,"",1,"Bathonian","",168.3,166.1,45510,"gp_mid",19.94,35.98,"315",167.2,"bathonian",25305,19.9478,35.0069,36,1
+"98646",140942,"col","Mount Flora",-57.03,-63.42,"Mount Flora D.37.15",NA,"",2,"Bathonian","",168.3,166.1,45768,"gp_mid",-21.8,-58.41,"803",167.2,"bathonian",27365,-13.2991,-62.3918,36,1
+"98738",141169,"col","",-0.32,49.05,"Quilly, Calvados",NA,"",1,"Bathonian","",168.3,166.1,28567,"gp_mid",21.23,33.28,"305",167.2,"bathonian",27385,21.1378,32.5954,36,1
+"98935",141379,"col","Vardekloft",-23.45,71.4,"Olympen, Jameson Land",NA,"",6,"Bathonian","",168.3,166.1,45977,"gp_mid",20.2,49.52,"102",167.2,"bathonian",27407,12.9293,48.9101,36,1
+"99399",141913,"col","Techout",10.5,32.87,"Ksar Ezzahra",NA,"",5,"Bathonian","",168.3,166.1,46100,"gp_mid",22.47,16.17,"715",167.2,"bathonian",27466,17.0939,12.9021,36,1
+"99596",142115,"col","Rosso Ammonitico Veronese",11.61,45.88,"Quarry in Valbella, near Sasso D’Asiago (Veneto)",NA,"",1,"Bathonian","",168.3,166.1,46167,"gp_mid",36.06,23.27,"307",167.2,"bathonian",27493,34.7076,20.0942,36,1
+"99600",142119,"col","Potami",23.02,37.73,"Angelokastro village, probably Potami Fm, sample GR 61",NA,"",29,"Bathonian","",168.3,166.1,46169,"gp_mid",31.32,12.41,"307",167.2,"bathonian",27494,41.8295,11.126,36,1
+"101889",144961,"col","Great Oolite",-0.9,52.24,"North Hampton Isopod",NA,"",1,"Bathonian","",168.3,166.1,46887,"gp_mid",20.28,36.4,"315",167.2,"bathonian",27860,19.9478,35.0069,36,1
+"108343",153647,"col","Taunton Limestone",-1.43,51.86,"Stonesfield, near Oxford (Enniskillen Coll)",NA,"",1,"Bathonian","",168.3,166.1,49700,"gp_mid",19.94,35.98,"315",167.2,"bathonian",25305,19.9478,35.0069,36,1
+"110802",157395,"col","",7.63,46.67,"Simmen Bridge",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.9,31.72,"305",167.2,"bathonian",29638,27.6866,32.2527,36,1
+"110803",157396,"col","",7.6,46.7,"Wildenberg north of Erlenbach im Simmental",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.87,31.75,"305",167.2,"bathonian",29639,27.6866,32.2527,36,1
+"110804",157397,"col","",7.3,46.5,"Gastlosen",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.67,31.52,"305",167.2,"bathonian",29640,27.6866,32.2527,36,1
+"110805",157398,"col","",7.2,46.5,"La Laitemaire",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.59,31.5,"305",167.2,"bathonian",29641,27.6866,32.2527,36,1
+"110806",157399,"col","",6.8,46.3,"Mont Chauffe",NA,"",1,"Bathonian","",168.3,166.1,51775,"gp_mid",27.31,31.26,"305",167.2,"bathonian",29642,27.6866,32.2527,36,1
+"110976",157595,"col","Dhruma",33.42,30.69,"Gebel El-Maghara breached anticline",NA,"",6,"Bathonian","",168.3,166.1,51836,"gp_mid",38.93,5.75,"508",167.2,"bathonian",29657,34.0469,1.3157,36,1
+"111097",157808,"col","Erice",12.58,38.03,"Cappuccini, Monte Erice (Gemmellaro collection)",NA,"",1,"Bathonian","",168.3,166.1,26059,"gp_mid",NA,NA,"coordinates not computable using this model",167.2,"bathonian",12586,19.6064,17.2745,36,1
+"111120",157871,"col","Dhruma",33.42,30.69,"Gebel El-Maghara (coll. Hegab)",NA,"",2,"Bathonian","",168.3,166.1,51901,"gp_mid",38.93,5.75,"508",167.2,"bathonian",29657,34.0469,1.3157,36,1
+"111274",158199,"col","",19.02,50.13,"Gnaszyn",NA,"",1,"Bathonian","",168.3,166.1,51965,"gp_mid",36,36.63,"305",167.2,"bathonian",29750,34.4161,37.8055,36,1
+"111535",158501,"col","Namyau Beds",97.53,23.19,"Man Hsalang (=Man Hsa-Long)",NA,"",8,"Bathonian","",168.3,166.1,52002,"gp_mid",113.36,17.83,"616",167.2,"bathonian",29846,111.9801,39.9361,36,1
+"111536",158503,"col","Namyau Beds",98.68,22.75,"Hka-lin (=Hka-lingngwa) 1/2 mile north",NA,"",3,"Bathonian","",168.3,166.1,52002,"gp_mid",114.41,18.39,"616",167.2,"bathonian",29847,111.9801,39.9361,36,1
+"111537",158505,"col","Namyau Beds",97.71,21.7,"Kongnim (1/2 mile northeast)",NA,"",7,"Bathonian","",168.3,166.1,52002,"gp_mid",114.69,17.03,"616",167.2,"bathonian",29848,111.9801,39.9361,36,1
+"111538",158509,"col","Namyau Beds",97.57,23.04,"Lashio-Namtu Road",NA,"",1,"Bathonian","",168.3,166.1,52002,"gp_mid",113.51,17.77,"616",167.2,"bathonian",29849,111.9801,39.9361,36,1
+"111539",158510,"col","Namyau Beds",97.35,22.42,"Se-In",NA,"Se-Eng",42,"Bathonian","",168.3,166.1,52002,"gp_mid",113.88,17.22,"616",167.2,"bathonian",29850,111.9801,39.9361,36,1
+"111540",158511,"col","Namyau Beds",97.34,22.59,"Nashy",NA,"Nahsai, Nahsy",28,"Bathonian","",168.3,166.1,52002,"gp_mid",113.73,17.32,"616",167.2,"bathonian",29851,111.9801,39.9361,36,1
+"111541",158512,"col","Namyau Beds",97.46,22.83,"Lenglawng (=Lenalawng)",NA,"",32,"Bathonian","",168.3,166.1,52002,"gp_mid",113.61,17.56,"616",167.2,"bathonian",29852,111.9801,39.9361,36,1
+"111542",158513,"col","Namyau Beds",97.17,22.35,"Bawgyo",NA,"",14,"Bathonian","",168.3,166.1,52002,"gp_mid",113.83,17.05,"616",167.2,"bathonian",29853,111.9801,39.9361,36,1
+"111543",158514,"col","Namyau Beds",97.38,22.55,"Pangwoleng",NA,"",35,"Bathonian","",168.3,166.1,52002,"gp_mid",113.79,17.33,"616",167.2,"bathonian",29854,111.9801,39.9361,36,1
+"111544",158515,"col","Namyau Beds",97.55,22.68,"Ta-Ti",NA,"",12,"Bathonian","",168.3,166.1,52002,"gp_mid",113.79,17.53,"616",167.2,"bathonian",29855,111.9801,39.9361,36,1
+"111545",158517,"col","Namyau Beds",98.75,23.43,"Namleng (=Nam Leng)",NA,"",5,"Bathonian","",168.3,166.1,52002,"gp_mid",113.89,18.86,"616",167.2,"bathonian",29856,111.9801,39.9361,36,1
+"111551",158532,"col","Namyau Beds",96.92,19.59,"Hpalai (=Hpalaing)",NA,"",16,"Bathonian","",168.3,166.1,52002,"gp_mid",115.9,15.13,"616",167.2,"bathonian",29861,112.0706,37.4371,36,1
+"111907",159190,"col","",22.06,44.52,"Greben (Bajocian-Bathonian bed)",NA,"",13,"Bathonian","",168.3,166.1,52075,"gp_mid",37.38,15.89,"308",167.2,"bathonian",29975,37.5351,33.3531,36,1
+"112338",159762,"col","Fuller's Earth",-2.46,50.62,"Weymouth, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.35,34.67,"315",167.2,"bathonian",30142,18.488,31.714,36,1
+"112339",159763,"col","Fuller's Earth",-2.45,51.11,"Bruton, Fuller's Earth Rock",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.28,35.16,"315",167.2,"bathonian",30143,18.488,31.714,36,1
+"112342",159766,"col","Fuller's Earth",-2.47,51.12,"Lamyatt Beacon, Fuller's Earth Rock",NA,"Lamyat Beacon, Creech Hill",1,"Bathonian","",168.3,166.1,33914,"gp_mid",19.26,35.16,"315",167.2,"bathonian",30146,18.488,31.714,36,1
+"112452",159878,"col","",4.64,49.65,"Poix-Terron (USNM)",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",24.98,34.33,"315",167.2,"bathonian",30157,23.7248,33.5858,36,1
+"112453",159879,"col","",10.66,51.62,"Langer Berg, Bad Harzburg",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",29.18,36.95,"315",167.2,"bathonian",30158,27.7101,37.8031,36,1
+"112479",159923,"col","",4.83,47.03,"Beaune",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",25.61,31.77,"305",167.2,"bathonian",30167,24.9577,31.2367,36,1
+"113907",161723,"col","",-1.78,51.7,"Fairford locality",NA,"",1,"Bathonian","",168.3,166.1,52665,"gp_mid",19.7,35.79,"315",167.2,"bathonian",30533,19.9478,35.0069,36,1
+"114016",161867,"col","",1.8,50.75,"Le Wast",NA,"",2,"Bathonian","",168.3,166.1,52665,"gp_mid",22.59,35.15,"315",167.2,"bathonian",30587,21.1378,32.5954,36,1
+"114025",161876,"col","",69.05,23.67,"Jumara, Kutch",NA,"",1,"Bathonian","",168.3,166.1,52665,"gp_mid",45.2,-25.91,"501",167.2,"bathonian",30593,45.631,-25.1207,36,1
+"114321",162296,"col","",-22.14,70.52,"Bjerring Pedersen Fjaeld (Bathonian)",NA,"",4,"Bathonian","",168.3,166.1,52862,"gp_mid",21.07,48.72,"102",167.2,"bathonian",30670,13.9004,46.497,36,1
+"114324",162299,"col","Namyau Beds",97.85,23.49,"Tao hkio (1/2 mile ENE)",NA,"Tao hkiao",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.3,18.25,"616",167.2,"bathonian",30672,111.9801,39.9361,36,1
+"114328",162303,"col","Namyau Beds",97.16,22.35,"Bawgyo, left bank of R. Namtu opposite",NA,"",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.82,17.04,"616",167.2,"bathonian",30675,111.9801,39.9361,36,1
+"114333",162308,"col","Namyau Beds",97.25,22.35,"Pengwi",NA,"Pengwai",6,"Bathonian","",168.3,166.1,52002,"gp_mid",113.88,17.11,"616",167.2,"bathonian",30679,111.9801,39.9361,36,1
+"114337",162337,"col","Namyau Beds",97.33,22.58,"Panghkyem",NA,"",4,"Bathonian","",168.3,166.1,52872,"gp_mid",113.74,17.31,"616",167.2,"bathonian",30682,111.9801,39.9361,36,1
+"114338",162338,"col","Namyau Beds",97.27,22.47,"Namhathai",NA,"",6,"Bathonian","",168.3,166.1,52872,"gp_mid",113.79,17.2,"616",167.2,"bathonian",30683,111.9801,39.9361,36,1
+"114339",162339,"col","Namyau Beds",97.32,23.3,"Loipe",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",113.14,17.75,"616",167.2,"bathonian",30684,111.9801,39.9361,36,1
+"115044",163480,"col","",-106.8,44.18,"Buffalo Sundance",NA,"",1,"Bathonian","",168.3,166.1,53277,"gp_mid",-33.53,32,"101",167.2,"bathonian",30780,-36.8105,30.7072,36,1
+"117097",167248,"col","Twin Creek Limestone",-111.02,42.4,"USGS Mesozoic Loc. 20990 - Twin Creek Limestone",NA,"",3,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.57,31.12,"101",167.2,"bathonian",31412,-43.6743,30.0031,36,1
+"117098",167249,"col","Twin Creek Limestone",-111.55,40.7,"USGS Mesozoic Loc. 28791 - Twin Creek Limestone",NA,"",2,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.55,29.59,"101",167.2,"bathonian",31413,-44.5846,27.6337,36,1
+"117099",167250,"col","Twin Creek Limestone",-110.8,40.42,"USGS Mesozoic Loc. 21621 - Twin Creek Limestone",NA,"",4,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.01,29.16,"101",167.2,"bathonian",31414,-44.5846,27.6337,36,1
+"117100",167251,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 17298 - Twin Creek Limestone",NA,"",4,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.12,"101",167.2,"bathonian",31415,-40.6565,29.1346,36,1
+"117101",167252,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 17299 - Twin Creek Limestone",NA,"",3,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.12,"101",167.2,"bathonian",31415,-40.6565,29.1346,36,1
+"117102",167253,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 28482 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.11,"101",167.2,"bathonian",31415,-40.6565,29.1346,36,1
+"117103",167254,"col","Twin Creek Limestone",-110.51,42.51,"USGS Mesozoic Loc. 28485 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.11,31.11,"101",167.2,"bathonian",31415,-40.6565,29.1346,36,1
+"117104",167255,"col","Twin Creek Limestone",-110.5,42.34,"USGS Mesozoic Loc. 20992 - Twin Creek Limestone",NA,"",4,"Bathonian","",168.3,166.1,54548,"gp_mid",-37.16,30.95,"101",167.2,"bathonian",31416,-40.6565,29.1346,36,1
+"117105",167256,"col","Twin Creek Limestone",-110.83,40.41,"USGS Mesozoic Loc. 21623 - Twin Creek Limestone",NA,"",7,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.04,29.17,"101",167.2,"bathonian",31417,-44.5846,27.6337,36,1
+"117106",167257,"col","Twin Creek Limestone",-110.83,40.41,"USGS Mesozoic Loc. 21624 - Twin Creek Limestone",NA,"",10,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.04,29.17,"101",167.2,"bathonian",31417,-44.5846,27.6337,36,1
+"117107",167258,"col","Twin Creek Limestone",-110.8,40.42,"USGS Mesozoic Loc. 21622 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.01,29.16,"101",167.2,"bathonian",31414,-44.5846,27.6337,36,1
+"117108",167259,"col","Twin Creek Limestone",-111.52,39.97,"USGS Mesozoic Loc. 28460 - Twin Creek Limestone",NA,"",1,"Bathonian","",168.3,166.1,54548,"gp_mid",-38.76,28.88,"101",167.2,"bathonian",31418,-44.5846,27.6337,36,1
+"118089",169181,"col","Khechem El Kelb",9.7,35.1,"KEK.25, Khechem El Kelb, Jebel Sidi Khalif",NA,"",3,"Bathonian","",168.3,166.1,55260,"gp_mid",23.41,18.94,"714",167.2,"bathonian",31625,18.3396,15.5168,36,1
+"118090",169182,"col","Khechem El Kelb",9.7,35.1,"KEK.32, Khechem El Kelb, Jebel Sidi Khalif",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.41,18.94,"714",167.2,"bathonian",31625,18.3396,15.5168,36,1
+"118091",169183,"col","Khechem El Kelb",9.7,35.1,"KEK.33, Khechem El Kelb, Jebel Sidi Khalif",NA,"",2,"Bathonian","",168.3,166.1,55260,"gp_mid",23.41,18.94,"714",167.2,"bathonian",31625,18.3396,15.5168,36,1
+"118092",169184,"col","Khechem El Kelb",9.7,35.1,"KEK.35, Khechem El Kelb, Jebel Sidi Khalif",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.41,18.94,"714",167.2,"bathonian",31625,18.3396,15.5168,36,1
+"118093",169185,"col","Khechem El Kelb",9.7,35.1,"KEK.36, Khechem El Kelb, Jebel Sidi Khalif",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.41,18.94,"714",167.2,"bathonian",31625,18.3396,15.5168,36,1
+"118096",169188,"col","Khechem El Kelb",9.7,35.22,"CHA.10, Châabet El Attaris",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.47,19.04,"714",167.2,"bathonian",31628,18.3396,15.5168,36,1
+"118097",169189,"col","Khechem El Kelb",9.7,35.22,"CHA.11, Châabet El Attaris",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.47,19.04,"714",167.2,"bathonian",31628,18.3396,15.5168,36,1
+"118098",169190,"col","Khechem El Kelb",9.7,35.22,"CHA.12, Châabet El Attaris",NA,"",1,"Bathonian","",168.3,166.1,55260,"gp_mid",23.47,19.04,"714",167.2,"bathonian",31628,18.3396,15.5168,36,1
+"118927",170167,"col","",3.24,48.51,"Longueville, Calvados",NA,"",1,"Bathonian","",168.3,166.1,33914,"gp_mid",24.09,33.07,"305",167.2,"bathonian",31717,24.9577,31.2367,36,1
+"119453",171017,"col","",-1.7,51.61,"Sevenhampton Common (Buckman)",NA,"",5,"Bathonian","",168.3,166.1,52872,"gp_mid",19.78,35.71,"315",167.2,"bathonian",31803,19.9478,35.0069,36,1
+"119479",171043,"col","Cornbrash",-2.62,50.88,"Closworth",NA,"Closeworth",2,"Bathonian","",168.3,166.1,69432,"gp_mid",19.18,34.92,"315",167.2,"bathonian",31815,18.488,31.714,36,1
+"119480",171044,"col","Cornbrash",-2.57,50.89,"Yetminster",NA,"",3,"Bathonian","",168.3,166.1,52872,"gp_mid",19.22,34.93,"315",167.2,"bathonian",31816,18.488,31.714,36,1
+"119481",171045,"col","Cornbrash",-1.11,51.87,"Blackthorn Hill",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.18,36.02,"315",167.2,"bathonian",31817,19.9478,35.0069,36,1
+"119482",171046,"col","Cornbrash",-1.24,51.96,"Between Ardley and Aynho (Tucher Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.07,36.09,"315",167.2,"bathonian",31818,19.9478,35.0069,36,1
+"119483",171047,"col","Cornbrash",-0.25,52.51,"Yaxley",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.73,36.72,"315",167.2,"bathonian",31819,19.9478,35.0069,36,1
+"119496",171060,"col","",-0.9,52.2,"Northampton (Great Oolite)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.29,36.36,"315",167.2,"bathonian",31822,19.9478,35.0069,36,1
+"119497",171061,"col","",-1.23,51.96,"Fritwell (Marshall Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.08,36.1,"315",167.2,"bathonian",31823,19.9478,35.0069,36,1
+"119563",171126,"col","",1.7,50.81,"Marquise (Great Oolite Limestone)",NA,"",2,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,"bathonian",31844,21.1378,32.5954,36,1
+"119565",171128,"col","",1.7,50.81,"Marquise (Clay)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,"bathonian",31844,21.1378,32.5954,36,1
+"119569",171132,"col","Cornbrash",-2.62,50.88,"Closworth (post-intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.18,34.92,"315",167.2,"bathonian",31815,18.488,31.714,36,1
+"119570",171133,"col","Cornbrash",-2.57,50.89,"Yetminster (post-intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.22,34.93,"315",167.2,"bathonian",31816,18.488,31.714,36,1
+"119571",171134,"col","",-1.23,51.96,"Fritwell (Tucher Coll.)",NA,"",2,"Bathonian","",168.3,166.1,52872,"gp_mid",20.08,36.1,"315",167.2,"bathonian",31823,19.9478,35.0069,36,1
+"119578",171141,"col","",-1.29,51.82,"Kidlington (Tucher Coll.)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.06,35.96,"315",167.2,"bathonian",31850,19.9478,35.0069,36,1
+"119579",171142,"col","Cornbrash",1.7,50.81,"Marquise (Cornbrash)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",22.5,35.2,"315",167.2,"bathonian",31844,21.1378,32.5954,36,1
+"119656",171221,"col","",33.25,30.63,"Gebel Aroussieh (Corals)",NA,"",2,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,"bathonian",31857,34.0469,1.3157,36,1
+"119657",171222,"col","",33.25,30.63,"Gebel Aroussieh (Small Fossils)",NA,"",10,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,"bathonian",31857,34.0469,1.3157,36,1
+"119662",171227,"col","",33.61,29.25,"Wadi Moghara",NA,"",1,"Bathonian","",168.3,166.1,36012,"gp_mid",38.48,4.37,"508",167.2,"bathonian",31858,34.0469,1.3157,36,1
+"119663",171228,"col","",33.2,30.64,"Gebel Hameir (Small Fossils)",NA,"",5,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,"bathonian",31859,34.0469,1.3157,36,1
+"119671",171236,"col","",33.25,30.63,"Gebel Aroussieh (Small Astartes)",NA,"",7,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,"bathonian",31857,34.0469,1.3157,36,1
+"119672",171237,"col","",33.2,30.64,"Gebel Hameir (Small Astartes)",NA,"",3,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,"bathonian",31859,34.0469,1.3157,36,1
+"119674",171239,"col","",33.2,30.64,"Gebel Hameir (Bathonian Indet.)",NA,"",3,"Bathonian","",168.3,166.1,36012,"gp_mid",38.74,5.78,"508",167.2,"bathonian",31859,34.0469,1.3157,36,1
+"119675",171240,"col","",33.25,30.63,"Gebel Aroussieh (Bathonian indet.)",NA,"",7,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,"bathonian",31857,34.0469,1.3157,36,1
+"119677",171242,"col","",33.25,30.63,"Gebel Aroussieh (Anabacia)",NA,"",2,"Bathonian","",168.3,166.1,36012,"gp_mid",38.78,5.76,"508",167.2,"bathonian",31857,34.0469,1.3157,36,1
+"119752",171319,"col","Fuller's Earth",-2.75,50.89,"Haselbury",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.08,34.92,"315",167.2,"bathonian",31898,18.488,31.714,36,1
+"119766",171333,"col","Blisworth Clay",-0.89,52.2,"Wootton",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.3,36.36,"315",167.2,"bathonian",31903,19.9478,35.0069,36,1
+"119771",171338,"col","",69.07,23.68,"Jumara (GSI)",NA,"",5,"Bathonian","",168.3,166.1,52872,"gp_mid",45.21,-25.92,"501",167.2,"bathonian",31904,45.631,-25.1207,36,1
+"119848",171417,"col","Cornbrash",-1.56,51.76,"Brize Norton",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",19.86,35.87,"315",167.2,"bathonian",31944,19.9478,35.0069,36,1
+"119850",171419,"col","Cornbrash",-1.11,51.87,"Blackthorn Hill (Intermedia)",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.18,36.02,"315",167.2,"bathonian",31817,19.9478,35.0069,36,1
+"119875",171444,"col","",-0.54,52.22,"Sharnbrook",NA,"",1,"Bathonian","",168.3,166.1,52872,"gp_mid",20.56,36.41,"315",167.2,"bathonian",31951,19.9478,35.0069,36,1
+"121192",174610,"col","",1.42,46.63,"St-Gaultier (argillaceous limestone)",NA,"",1,"Bathonian","",168.3,166.1,55843,"gp_mid",22.97,31.04,"305",167.2,"bathonian",32183,22.2302,30.2756,36,1
+"121195",174613,"col","",4.79,49.6,"Vendresse (indet.)",NA,"",1,"Bathonian","",168.3,166.1,55843,"gp_mid",25.1,34.31,"315",167.2,"bathonian",32184,23.7248,33.5858,36,1
+"121997",175754,"col","Dalichai",57.15,37.15,"Sample S-2, Tooy section",NA,"",3,"Bathonian","",168.3,166.1,57564,"gp_mid",72.36,32.42,"505",167.2,"bathonian",32331,72.4555,40.3444,36,1
+"122001",175758,"col","Dalichai",56.74,37.09,"Sample J-2, Golbini section",NA,"",1,"Bathonian","",168.3,166.1,57564,"gp_mid",72.03,32.25,"505",167.2,"bathonian",32332,72.4555,40.3444,36,1
+"123507",178107,"col","les calcaires blancs d’Orgon",5.03,43.78,"Orgon",NA,"",1,"Bathonian","",168.3,166.1,57938,"gp_mid",26.34,28.58,"305",167.2,"bathonian",32712,26.0725,28.9302,36,1
+"126549",182714,"col","",174.83,-37.38,"AU 8921, Opuatia Cliff (R13/f6613)",NA,"",2,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"126550",182715,"col","",174.83,-37.38,"AU 11543, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"126551",182716,"col","",174.83,-37.38,"AU 21262, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"126556",182722,"col","",174.78,-38.59,"AU 11496, Rauroa Stream (R17/f284)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"126557",182723,"col","",174.78,-38.59,"AU 12531, Rauroa Stream (R17/f635)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"126558",182724,"col","",174.78,-38.59,"AU 12527, Rauroa Stream (R17/f637)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"126559",182725,"col","",174.78,-38.59,"AU 12530, Rauroa Stream (R17/f638)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"126560",182726,"col","",174.78,-38.59,"AU 12529, Rauroa Stream (R17/f639)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",85.49,-79.17,"806",167.2,"bathonian",25784,-142.6082,-84.588,36,1
+"126588",182755,"col","",174.83,-37.39,"AU 11602, Opuatia Stream (R13/f243)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.15,"806",167.2,"bathonian",33514,-142.6082,-84.588,36,1
+"126607",182774,"col","",174.83,-37.39,"AU 12499, Opuatia Cliff (R13/f226A)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.15,"806",167.2,"bathonian",33514,-142.6082,-84.588,36,1
+"126613",182780,"col","",174.83,-37.38,"AU 12712, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"126614",182781,"col","",174.83,-37.39,"AU 12546, Opuatia Cliff (R13/f226)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.15,"806",167.2,"bathonian",33514,-142.6082,-84.588,36,1
+"126616",182783,"col","",174.83,-37.38,"AU 8514A, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"126625",182792,"col","",174.83,-37.38,"AU 15913, Opuatia Cliff (R13/f6613)",NA,"",1,"Bathonian","",168.3,166.1,60902,"gp_mid",91.9,-79.14,"806",167.2,"bathonian",25681,-142.6082,-84.588,36,1
+"129128",186799,"col","",19.17,50.76,"Gnaszyn clay-pit, Gnaszyn Dolny (morrisi-hodsoni zone)",NA,"",1,"Bathonian","",168.3,166.1,62621,"gp_mid",35.93,37.27,"305",167.2,"bathonian",34173,34.4161,37.8055,36,1
+"129392",187133,"col","",18.54,51.04,"Faustianka (lower-middle Bathonian)",NA,"",1,"Bathonian","",168.3,166.1,62775,"gp_mid",35.37,37.45,"305",167.2,"bathonian",34244,34.4161,37.8055,36,1
+"129804",187779,"col","Tangiduval",66.61,37.71,"Vandob-Sherdzhant watershed, Kugitangtau Range (subcontractus-retrocostatum)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,"bathonian",34325,82.9264,44.807,36,1
+"129805",187780,"col","Tangiduval",66.61,37.71,"Vandob Ravine, Kugitangtau Range (top Tangiduval Fm)",NA,"",11,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,"bathonian",34325,82.9264,44.807,36,1
+"129806",187781,"col","Tangiduval",66.6,37.7,"Sarykamysh district (top Tangiduval Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,"bathonian",34326,82.9264,44.807,36,1
+"129807",187782,"col","",66.73,37.97,"Kugitangtau Range (middle-upper Bathonian beds)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,"bathonian",34327,82.9264,44.807,36,1
+"129811",187818,"col","Tangiduval",66.73,37.97,"Tangiduval district (top Tangiduval Fm, middle-upper Bathonian boundary beds)",NA,"",11,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,"bathonian",34327,82.9264,44.807,36,1
+"129815",187822,"col","",66.75,38,"Kempyr-Tyube ravine (subcontractus-retrocostatum zone)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.64,35.84,"402",167.2,"bathonian",34328,82.9264,44.807,36,1
+"130005",188438,"col","Tangiduval",66.69,37.85,"Kyzylalma, Kugitangtau range (upper Tangiduval Fm)",NA,"",3,"Bathonian","",168.3,166.1,62781,"gp_mid",80.64,35.69,"402",167.2,"bathonian",34359,82.9264,44.807,36,1
+"130006",188439,"col","Tangiduval",66.8,38,"Sandzhar district (middle-upper Bathonian)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.85,"402",167.2,"bathonian",34360,82.9264,44.807,36,1
+"130007",188440,"col","Tangiduval",66.62,37.63,"Chashmabulak spring, Kugitangtau Range (top Tangiduval Fm)",NA,"",3,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.46,"402",167.2,"bathonian",34361,82.9264,44.807,36,1
+"130008",188441,"col","Tangiduval",66.59,37.71,"Mykh Mountain (top Tangiduval Fm)",NA,"",2,"Bathonian","",168.3,166.1,62781,"gp_mid",80.62,35.52,"402",167.2,"bathonian",34362,82.9264,44.807,36,1
+"130009",188442,"col","Tangiduval",67.01,38.21,"Derbent, Baisuntau range (top Tangiduval Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.78,36.11,"402",167.2,"bathonian",34363,82.9264,44.807,36,1
+"130026",188466,"col","",67.05,38.25,"Ketmenchapty district (top Tangiduval-basal Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.8,36.16,"402",167.2,"bathonian",34369,82.9264,44.807,36,1
+"130027",188467,"col","",66.61,37.71,"Vandob Ravine, Kugitangtau Range (top Tangiduval-basal Baisun Fm)",NA,"",5,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,"bathonian",34325,82.9264,44.807,36,1
+"130028",188468,"col","",66.73,37.97,"Tangiduval district (top Tangiduval-basal Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.81,"402",167.2,"bathonian",34327,82.9264,44.807,36,1
+"130029",188469,"col","",67.01,38.21,"Derbent, Baisuntau range (top Tangiduval-basal Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.78,36.11,"402",167.2,"bathonian",34363,82.9264,44.807,36,1
+"130030",188470,"col","Tangiduval",66.62,37.63,"Garamkha spring, Kugitangtau Range (top Tangiduval Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.68,35.46,"402",167.2,"bathonian",34361,82.9264,44.807,36,1
+"130041",188481,"col","",66.6,37.7,"Sarykamysh district (top Tangiduval-base Baisun Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",80.63,35.52,"402",167.2,"bathonian",34326,82.9264,44.807,36,1
+"130042",188483,"col","Koshadzhulba",54.15,39.94,"Kosha-Dzhulba Mountain, Bolshoi Balkhan (Koshadzhulba Fm)",NA,"",1,"Bathonian","",168.3,166.1,62781,"gp_mid",68.59,34.26,"402",167.2,"bathonian",34370,67.4617,41.0242,36,1
+"135116",198903,"col","Great Oolite",-1.25,51.75,"Great Oolite, Oxford (non-specific locality)",NA,"",1,"Bathonian","",168.3,166.1,67760,"gp_mid",20.1,35.89,"315",167.2,"bathonian",35478,19.9478,35.0069,36,1
+"135650",200133,"col","",5.43,45.85,"Villebois (Ain)",NA,"",1,"Bathonian","",168.3,166.1,68221,"gp_mid",26.3,30.67,"305",167.2,"bathonian",35566,26.0725,28.9302,36,1
+"139913",206750,"col","Rutland",-0.56,52.64,"Grange Top Quarry, Ketton",NA,"",1,"Bathonian","",168.3,166.1,71074,"gp_mid",20.47,36.82,"315",167.2,"bathonian",36811,19.9478,35.0069,36,1
