@@ -27,14 +27,14 @@ p1 <- ggplot(data = data, aes(colour = type)) +
   geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=0, ymax= Inf), linetype = 0, color="grey90", alpha=0.1)  +
-  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.15, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
-  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.15, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
-  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.075, label = abbr), colour = "black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.1125, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.1125, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
+  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.05625, label = abbr), colour = "black", alpha=1)  +
   geom_line(data = data, aes(x = mid_age, y = SLD, colour = factor(type, levels = c("Simulated", "Sampled", "Sampling-standardised"))), size = 1.2, alpha = 0.9) +
   scale_colour_manual(values=c(col[1], col[2], col[3]), guide = guide_legend(reverse = FALSE)) +
   scale_fill_manual(values=c("darkgrey")) +
   scale_x_reverse(expand=c(0,0), limits = c(300, 0)) +
-  scale_y_continuous(expand=c(0,0), limits = c(-0.15, 2)) +
+  scale_y_continuous(expand=c(0,0), limits = c(-0.1125, 1.5)) +
   labs(x = "Time (Ma)", y = expression(bold(paste("Total displacement (", italic("D"), ")"))), title = "Flat-type") +
   theme(panel.background = element_blank(),
         plot.margin = margin(0.5,0.5,0.5,0.5, "cm"),
@@ -82,14 +82,14 @@ p2 <- ggplot(data = data, aes(colour = type)) +
   geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=0, ymax= Inf), linetype = 0, color="grey90", alpha=0.1)  +
-  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.15, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
-  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.15, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
-  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.075, label = abbr), colour = "black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.1125, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.1125, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
+  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.05625, label = abbr), colour = "black", alpha=1)  +
   geom_line(data = data, aes(x = mid_age, y = SLD, colour = factor(type, levels = c("Simulated", "Sampled", "Sampling-standardised"))), size = 1.2, alpha = 0.9) +
   scale_colour_manual(values=c(col[1], col[2], col[3]), guide = guide_legend(reverse = FALSE)) +
   scale_fill_manual(values=c("darkgrey")) +
   scale_x_reverse(expand=c(0,0), limits = c(300, 0)) +
-  scale_y_continuous(expand=c(0,0), limits = c(-0.15, 2)) +
+  scale_y_continuous(expand=c(0,0), limits = c(-0.1125, 1.5)) +
   labs(x = "Time (Ma)", y = expression(bold(paste("Total displacement (", italic("D"), ")"))), title = "Unimodal-type") +
   theme(panel.background = element_blank(),
         plot.margin = margin(0.5,0.5,0.5,0.5, "cm"),
@@ -137,14 +137,14 @@ p3 <- ggplot(data = data, aes(colour = type)) +
   geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=0, ymax= Inf), linetype = 0, color="grey90", alpha=0.1)  +
-  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.15, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
-  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.15, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
-  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.075, label = abbr), colour = "black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.1125, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.1125, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
+  geom_text(data = periods, mapping=aes(x=mid_age, y= -0.05625, label = abbr), colour = "black", alpha=1)  +
   geom_line(data = data, aes(x = mid_age, y = SLD, colour = factor(type, levels = c("Simulated", "Sampled", "Sampling-standardised"))), size = 1.2, alpha = 0.9) +
   scale_colour_manual(values=c(col[1], col[2], col[3]), guide = guide_legend(reverse = FALSE)) +
   scale_fill_manual(values=c("darkgrey")) +
   scale_x_reverse(expand=c(0,0), limits = c(300, 0)) +
-  scale_y_continuous(expand=c(0,0), limits = c(-0.15, 2)) +
+  scale_y_continuous(expand=c(0,0), limits = c(-0.1125, 1.5)) +
   labs(x = "Time (Ma)", y = expression(bold(paste("Total displacement (", italic("D"), ")"))), title = "Bimodal-type") +
   theme(panel.background = element_blank(),
         plot.margin = margin(0.5,0.5,0.5,0.5, "cm"),

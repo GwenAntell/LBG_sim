@@ -62,14 +62,14 @@ m <- matrix(c(1,2,3,4,5,6,7,8,9,10,10,10),nrow = 4,ncol = 3,byrow = TRUE)
 layout(mat = m,heights = c(0.8, 0.8, 0.8, 0.1))
 #---------------------------------
 
-plot(log(flat_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(flat_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("a", adj = 0)
 title("Simulated flat-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(flat_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(flat_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(flat_sim$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
+abline(fit <- lm(log(flat_sim$mean_richness) ~ (MST$MST)), col='black', lwd = 2)
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -78,15 +78,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(flat_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(flat_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("b", adj = 0)
 title("Sampled flat-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(flat_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(flat_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(flat_samp$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
-Fit <- cor.test(log(flat_samp$mean_richness), log(MST$MST))
+abline(fit <- lm(log(flat_samp$mean_richness) ~ (MST$MST)), col='black', lwd = 2)
+Fit <- cor.test(log(flat_samp$mean_richness), (MST$MST))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -95,15 +95,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(flat_rare$mean_richness)~log(MST$MST), las = 1,  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(flat_rare$mean_richness)~(MST$MST), las = 1,  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("c", adj = 0)
 title("Rarefied flat-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(flat_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(flat_rare$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(flat_rare$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
-Fit <- cor.test(log(flat_rare$mean_richness), log(MST$MST))
+abline(fit <- lm(log(flat_rare$mean_richness) ~ (MST$MST)), col='black', lwd = 2)
+Fit <- cor.test(log(flat_rare$mean_richness), (MST$MST))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -112,15 +112,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(unimodal_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("d", adj = 0)
 title("Simulated unimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(unimodal_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(unimodal_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(unimodal_sim$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
-Fit <- cor.test(log(unimodal_sim$mean_richness), log(MST$MST))
+abline(fit <- lm(log(unimodal_sim$mean_richness) ~ (MST$MST)), col='black', lwd = 2)
+Fit <- cor.test(log(unimodal_sim$mean_richness), (MST$MST))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -129,15 +129,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(unimodal_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("e", adj = 0)
 title("Sampled unimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(unimodal_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(unimodal_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(unimodal_samp$mean_richness) ~ log(MST$MST)), col='black', lwd = 2)
-Fit <- cor.test(log(unimodal_samp$mean_richness), log(MST$MST))
+abline(fit <- lm(log(unimodal_samp$mean_richness) ~ (MST$MST)), col='black', lwd = 2)
+Fit <- cor.test(log(unimodal_samp$mean_richness), (MST$MST))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -146,15 +146,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(unimodal_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(unimodal_rare$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("f", adj = 0)
 title("Rarefied unimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(unimodal_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(unimodal_rare$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(unimodal_rare$mean_richness) ~ (log(MST$MST))), col='black', lwd = 2)
-Fit <- cor.test(log(unimodal_rare$mean_richness), (log(MST$MST)))
+abline(fit <- lm(log(unimodal_rare$mean_richness) ~ ((MST$MST))), col='black', lwd = 2)
+Fit <- cor.test(log(unimodal_rare$mean_richness), ((MST$MST)))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -163,15 +163,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(bimodal_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("g", adj = 0)
 title("Simulated bimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(bimodal_sim$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(bimodal_sim$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(bimodal_sim$mean_richness) ~ (log(MST$MST))), col='black', lwd = 2)
-Fit <- cor.test(log(bimodal_sim$mean_richness), (log(MST$MST)))
+abline(fit <- lm(log(bimodal_sim$mean_richness) ~ ((MST$MST))), col='black', lwd = 2)
+Fit <- cor.test(log(bimodal_sim$mean_richness), ((MST$MST)))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -180,15 +180,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(bimodal_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("h", adj = 0)
 title("Sampled bimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(bimodal_samp$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(bimodal_samp$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(bimodal_samp$mean_richness) ~ (log(MST$MST))), col='black', lwd = 2)
-Fit <- cor.test(log(bimodal_samp$mean_richness), (log(MST$MST)))
+abline(fit <- lm(log(bimodal_samp$mean_richness) ~ ((MST$MST))), col='black', lwd = 2)
+Fit <- cor.test(log(bimodal_samp$mean_richness), ((MST$MST)))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
@@ -197,15 +197,15 @@ if(pVal == 0){
 legend("bottomright",legend = parse(text = equation(fit)), inset=c(0.0,0.98), xpd=TRUE, horiz=TRUE, bty="n")
 #---------------------------------
 
-plot(log(bimodal_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "ln Summed MST length (km)")
+plot(log(bimodal_rare$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol), ylab = "ln Species Richness", xlab = "Summed MST length (km)")
 title("i", adj = 0)
 title("Rarefied bimodal-type", adj = 0.5)
 abline(v=0, col="black", lty = 2)
 abline(h=0, col="black", lty = 2)
-points(log(bimodal_rare$mean_richness)~log(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
+points(log(bimodal_rare$mean_richness)~(MST$MST),  las = 1, pch = 21, cex = 1, col = "black", bg = paste(MST$periodcol))
 box()
-abline(fit <- lm(log(bimodal_rare$mean_richness) ~ (log(MST$MST))), col='black', lwd = 2)
-Fit <- cor.test(log(bimodal_rare$mean_richness), (log(MST$MST)))
+abline(fit <- lm(log(bimodal_rare$mean_richness) ~ ((MST$MST))), col='black', lwd = 2)
+Fit <- cor.test(log(bimodal_rare$mean_richness), ((MST$MST)))
 pVal <- anova(fit)$'Pr(>F)'[1]
 pVal <- round(pVal, digits = 3)
 if(pVal == 0){
