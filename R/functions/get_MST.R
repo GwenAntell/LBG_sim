@@ -16,8 +16,8 @@ get_MST <- function(data, bandsize = 15, res = 1){
   colnames(latbin) <- c("bin", "max", "min", "mid", "hemisphere")
   latbin$MST <- NA
   
-  x <- data$paleolng
-  y <- data$paleolat
+  x <- data$getech_lng
+  y <- data$getech_lat
   z <- data$collection_no
   
   xyz <- cbind.data.frame(x, y, z)

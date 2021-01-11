@@ -54,7 +54,7 @@ for(i in intervals){
   #---------------------------------
   
   unimodal.simplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Unimodal.sim, aes(x = mid, y = prop_richness), colour = col[1], size = 1.2, alpha = 0.8) +
@@ -74,10 +74,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(unimodal.simplot <- unimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+  suppressMessages(unimodal.simplot <- unimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*10, name = "SSC (%)")))
 
   unimodal.sampplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Unimodal.samp, aes(x = mid, y = prop_richness), colour = col[2], size = 1.2, alpha = 0.8) +
@@ -97,10 +97,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(unimodal.sampplot <- unimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+  suppressMessages(unimodal.sampplot <- unimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*10, name = "SSC (%)")))
 
   unimodal.CRplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Unimodal.CR, aes(x = mid, y = prop_richness), colour = col[3], size = 1.2, alpha = 0.8) +
@@ -120,10 +120,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(unimodal.CRplot <- unimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(unimodal.CRplot <- unimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   flat.simplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Flat.sim, aes(x = mid, y = prop_richness), colour = col[1], size = 1.2, alpha = 0.8) +
@@ -143,10 +143,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(flat.simplot <- flat.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(flat.simplot <- flat.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   flat.sampplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Flat.samp, aes(x = mid, y = prop_richness), colour = col[2], size = 1.2, alpha = 0.8) +
@@ -166,10 +166,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(flat.sampplot <- flat.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(flat.sampplot <- flat.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   flat.CRplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Flat.CR, aes(x = mid, y = prop_richness), colour = col[3], size = 1.2, alpha = 0.8) +
@@ -189,10 +189,10 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(flat.CRplot <- flat.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(flat.CRplot <- flat.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   bimodal.simplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Bimodal.sim, aes(x = mid, y = prop_richness), colour = col[1], size = 1.2, alpha = 0.8) +
@@ -213,10 +213,10 @@ for(i in intervals){
           aspect.ratio = 0.6)
   
   
-  suppressMessages(bimodal.simplot <- bimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*20, name = "SSC (%)")))
+  suppressMessages(bimodal.simplot <- bimodal.simplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(trans = ~.*10, name = "SSC (%)")))
 
   bimodal.sampplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Bimodal.samp, aes(x = mid, y = prop_richness), colour = col[2], size = 1.2, alpha = 0.8) +
@@ -237,10 +237,10 @@ for(i in intervals){
           
           aspect.ratio = 0.6)
   
-  suppressMessages(bimodal.sampplot <- bimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(bimodal.sampplot <- bimodal.sampplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   bimodal.CRplot <- ggplot() +
-    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/20, x = mid), fill = "darkgrey", alpha = 0.5) +
+    geom_ribbon(data = tmp.ssc, aes(ymin = 0, ymax = ssc/10, x = mid), fill = "darkgrey", alpha = 0.5) +
     geom_segment(data = NULL, mapping=aes(x = -23.26, xend = -23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_segment(data = NULL, mapping=aes(x = 23.26, xend = 23.26, y =0, yend = Inf), linetype = 2, size = 1, color = "darkgrey") +
     geom_line(data = Bimodal.CR, aes(x = mid, y = prop_richness), colour = col[3], size = 1.2, alpha = 0.8) +
@@ -260,7 +260,7 @@ for(i in intervals){
           plot.subtitle = element_text(size = 16, face = "bold", hjust = 0.5),
           aspect.ratio = 0.6)
   
-  suppressMessages(bimodal.CRplot <- bimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*20, name = "SSC (%)")))
+  suppressMessages(bimodal.CRplot <- bimodal.CRplot + scale_y_continuous(expand=c(0,0), breaks = seq(0, 1.1, 0.25), labels = seq(0, 1.1, 0.25), limits = c(0, 1.1), sec.axis = sec_axis(~.*10, name = "SSC (%)")))
 
   combine <- ggarrange(flat.simplot, unimodal.simplot, bimodal.simplot,
                        flat.sampplot, unimodal.sampplot, bimodal.sampplot, 
