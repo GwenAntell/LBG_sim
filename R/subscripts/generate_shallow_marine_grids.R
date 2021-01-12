@@ -9,6 +9,10 @@ lapply(libs, require, character.only = TRUE)
 layers <- c("./data/DEMs/") #get path
 layers <- get_layers(layers = layers, agg = 2, fun = min, from = 0, to = 200, binary = TRUE) #convert rasters to 1 deg res with aggregation
 
+r <- raster(res = res)
+
+layers <- resample(layers, r)
+
 path <- "./data/shallow_marine_grids/"
 path <- paste(path, names(layers), ".asc", sep = "")
 

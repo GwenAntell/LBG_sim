@@ -18,9 +18,9 @@ sim_dist <- function(r){
 
   maxlat <- sample(maxlat, size = 1, replace = TRUE, prob = exp(-0.05 * maxlat)) #random range based on exponential decay curve
 
-  xy <- na.omit(xy)
+  xy <- data.frame(na.omit(xy))
   orig <- xy[sample(nrow(xy), size = 1, replace = FALSE, prob = xy[,3]),] #origination point of species
-  orig <- t(data.frame(orig[1:2]))
+  orig <- orig[1:2]
   orig_cell <- cellFromXY(object = r, xy = orig)
   
   minlng <- floor(orig[,1] - (maxlng/2))
@@ -45,13 +45,20 @@ sim_dist <- function(r){
                             asSample = FALSE)
   tmp <- ((tmp - rmax) * -1) + rmin
   
+  clip <- raster::crop(x = r, y = tmp)
+ 
+  tmp <- raster::mask(x = tmp, mask = clip)
+  
   xy <- raster::xyFromCell(tmp, 1:ncell(tmp)) #xy dataframe of cells
   prob <- raster::getValues(tmp) #probability values within home range
   xy <- cbind(xy, prob) #bind
+  xy <- data.frame(na.omit(xy))
   
   xy <- xy[sample(nrow(xy), size = n, replace = TRUE, prob = xy[,3]),] #sample n occurrences
   xy <- round(xy, digits = 2) #round off data
   xy <- data.frame(xy[,1:2])
-  head(xy)
+  #head(xy)
+  #plot(r)
+  #points(xy)
   return(xy) #return data
 }
