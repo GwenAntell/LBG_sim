@@ -9,11 +9,15 @@ clusterExport(cl=cl, varlist = list("reps", "species", "unimodal", "libs", "sim_
 
 clusterEvalQ(cl = cl, expr = lapply(libs, require, character.only = TRUE)) 
 
-for(i in 1:raster::nlayers(unimodal)){
+n <- length(list.files("./results/unimodal/")) + 1
+
+for(i in n:raster::nlayers(unimodal)){
   
   r <- unimodal[[i]]
   name <- names(r)
+  
   clusterExport(cl=cl, varlist = list("r"), envir=environment())
+
   master <- parLapply(cl = cl, 1:reps, function(j){
     
     sim <- lapply(1:species, function(x){
