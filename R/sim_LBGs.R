@@ -29,7 +29,7 @@ names(bimodal) <- names(layers) #update layer names
 
 
 #simulate each LBG
-source("./R/subscripts/unimodal.R")
+#source("./R/subscripts/unimodal.R")
 #source("./R/subscripts/bimodal.R")
 source("./R/subscripts/flat.R")
 
