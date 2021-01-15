@@ -1,8 +1,12 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
 "3745",9170,"col","Brejning Clay",9.75,56.17,"Mollusc species from Norre Vissing, clay-pit of Galten Brickworks, Denmark",NA,"",100,"Chattian","",28.1,23.03,796,"gp_mid",13.67,51.46,"302",25.565,"chattian",1209,5.6207,52.6455,11,1
 "3751",9176,"col","Vejle Fjord",11.88,55.18,"Mogenstrup section",NA,"",75,"Chattian","",28.1,23.03,797,"gp_mid",15.5,50.42,"302",25.565,"chattian",1210,5.6207,52.6455,11,1
+"4227",11601,"col","Jewett",-118.85,35.49,"Pyramid Hill Sand Member grit zone",NA,"LACMVP Loc. 1603, 1626, 1627; UCMP Loc. V-7032",89,"Chattian","",28.1,23.03,10315,"gp_mid",-105.16,39.96,"130",25.565,"chattian",1362,-111.0411,33.2618,11,1
+"4953",13074,"col","Parachucla",-82.78,30.34,"Suwannee River",NA,"UF White Springs 3A, FGS Loc. No. 82",1,"Chattian","",28.1,23.03,4356,"gp_mid",-71.93,33.15,"109",25.565,"chattian",1496,-76.8749,28.9215,11,1
+"4954",13076,"col","Parachucla",-82.73,30.33,"White Springs 1A, marine",17859,"UF CO48",3,"Chattian","",28.1,23.03,4356,"gp_mid",-71.89,33.13,"109",25.565,"chattian",1497,-76.8749,28.9215,11,1
 "4968",13096,"col","Karaginskaya",51.43,43.82,"Karagiya",NA,"",6,"Chattian","",28.1,23.03,4365,"gp_mid",51.39,38.98,"402",25.565,"chattian",1505,46.8132,44.8176,11,1
 "4972",13100,"col","Abel Head",172.75,-40.51,"Fossil Point",NA,"S1/f526, Puponga",2,"Duntroonian","",27.3,25.2,4368,"gp_mid",-175.48,-46.24,"806",26.25,"chattian",1509,-177.291,-47.0771,11,1
+"8919",17860,"col","Parachucla",-82.8,30.2,"White Springs 3B",NA,"UF C061",26,"Chattian","",28.1,23.03,2610,"gp_mid",-71.97,33.01,"109",25.565,"chattian",1970,-76.8749,28.9215,11,1
 "12821",24149,"col","Gornji Grad Beds",14.8,46.28,"Gornji Grad, Coral facies, Slovenia",NA,"Reef 3189",10,"Chattian","",28.1,23.03,6826,"gp_mid",18.74,39.68,"307",25.565,"chattian",2393,9.6598,43.8859,11,1
 "12831",24179,"col","",15.03,51.28,"Horka 3/1962 (Zentendorf)",NA,"",38,"Chattian","",28.1,23.03,6836,"gp_mid",18.07,46.43,"305",25.565,"chattian",2397,9.4583,50.3102,11,1
 "12835",24183,"col","",14.58,51.35,"bei Jahmen NSL 42/1965",NA,"",45,"Chattian","",28.1,23.03,6836,"gp_mid",17.66,46.51,"305",25.565,"chattian",2398,9.4583,50.3102,11,1
@@ -50,6 +54,8 @@
 "22136",37693,"col","Pittsburg Bluff",-123.19,45.69,"USGS #M3866 - Pittsburg Bluff Formation",NA,"",1,"Chattian","",28.1,23.03,10064,"gp_mid",-109.19,50.29,"129",25.565,"chattian",4540,-116.4268,46.4815,11,1
 "22137",37694,"col","Pittsburg",-123.18,45.82,"USGS #M3872 - Pittsburg Bluff Formation",NA,"",15,"Chattian","",28.1,23.03,10064,"gp_mid",-109.17,50.42,"129",25.565,"chattian",4541,-116.4268,46.4815,11,1
 "22138",37695,"col","Pittsburg",-123.19,45.7,"USGS #M3869 - Pittsburg Bluff Formation",NA,"",3,"Chattian","",28.1,23.03,10064,"gp_mid",-109.19,50.3,"129",25.565,"chattian",4543,-116.4268,46.4815,11,1
+"24548",41075,"col","Qom",52.73,31.5,"Abadeh, Leptoseris-Stylophora assemblage, Iran",NA,"",28,"Chattian","",28.1,23.03,11059,"gp_mid",52.3,24.44,"512",25.565,"chattian",5197,47.8297,31.9298,11,1
+"24549",41076,"col","Qom",52.73,31.5,"Abadeh, Porites-Faviidae assemblage, Iran",NA,"Reef 2708",30,"Chattian","",28.1,23.03,11059,"gp_mid",52.3,24.44,"512",25.565,"chattian",5197,47.8297,31.9298,11,1
 "28270",45657,"col","Omihi",172.46,-43.15,"Karetu Quarry",NA,"White Rock River Quarry, S67/f27",12,"Chattian","",28.1,23.03,15452,"gp_mid",-167.35,-44.97,"807",25.565,"chattian",6425,-175.2888,-48.588,11,1
 "28273",45660,"col","Kokoamu Greensand",170.72,-44.87,"Kokoamu Cliffs",NA,"I40/f27",6,"Duntroonian","",27.3,25.2,15371,"gp_mid",-169.14,-46.7,"807",26.25,"chattian",6428,-175.6538,-51.0769,11,1
 "28274",45661,"col","Otekaike Limestone",170.71,-44.87,"Duntroon",NA,"I40/f26A",1,"Chattian","",28.1,23.03,15371,"gp_mid",-169.14,-46.7,"807",25.565,"chattian",6429,-175.6538,-51.0769,11,1
@@ -64,20 +70,70 @@
 "28393",45786,"col","Morawan",143.77,43.3,"Morawan (Upper tuffaceous Siltstone Member)",NA,"",5,"Chattian","",28.1,23.03,12130,"gp_mid",140.19,44.86,"609",25.565,"chattian",6480,139.0297,46.6176,11,1
 "28394",45787,"col","Morawan",143.77,43.3,"Morawan (Middle Hard Shale Member)",NA,"",5,"Chattian","",28.1,23.03,12130,"gp_mid",140.19,44.86,"609",25.565,"chattian",6480,139.0297,46.6176,11,1
 "28395",45788,"col","Yaquina",-124.07,44.5,"Ona Beach",NA,"UCMP V79013, LACM 4290, UCMP V79036",4,"Chattian","",28.1,23.03,12130,"gp_mid",-110.22,49.13,"129",25.565,"chattian",6481,-116.4268,46.4815,11,1
+"28396",45792,"col","Ettrick",139.46,-35.26,"Wellington",NA,"",5,"Chattian","",28.1,23.03,12134,"gp_mid",144.78,-48.94,"801",25.565,"chattian",6482,134.984,-48.3923,11,1
 "28397",45794,"col","Calder River Limestone",143.43,-38.78,"Castle Cove",NA,"AWE, Aire Coast",2,"Chattian","",28.1,23.03,14949,"gp_mid",150.87,-51.65,"801",25.565,"chattian",6483,140.4115,-53.0911,11,1
 "28408",45804,"col","Jinnobaru",130.69,33.94,"Kitakyushu City",NA,"Tominohana",2,"Chattian","",28.1,23.03,12147,"gp_mid",127.72,35.08,"610",25.565,"chattian",6486,127.4196,38.0927,11,1
+"28418",45813,"col","Vaqueros",-119.83,34.47,"Goleta, north",NA,"",1,"Chattian","",28.1,23.03,12153,"gp_mid",-107.5,38.07,"105",25.565,"chattian",6495,-111.0411,33.2618,11,1
 "28430",45832,"col","Waita",130.84,33.98,"Umashima Island",NA,"",4,"Chattian","",28.1,23.03,12180,"gp_mid",127.86,35.14,"610",25.565,"chattian",6501,127.4196,38.0927,11,1
 "28431",45833,"col","Waita",130.84,33.96,"Katashima Island",NA,"",1,"Chattian","",28.1,23.03,12179,"gp_mid",127.87,35.12,"610",25.565,"chattian",6502,127.4196,38.0927,11,1
 "28432",45834,"col","",130.69,33.85,"Wakamatsu",NA,"",7,"Chattian","",28.1,23.03,12179,"gp_mid",127.73,34.99,"610",25.565,"chattian",6503,127.4196,38.0927,11,1
 "28433",45835,"col","Ainoshima",130.82,33.99,"Ainoshima Island",NA,"Kitakyushu City",6,"Chattian","",28.1,23.03,12180,"gp_mid",127.85,35.14,"610",25.565,"chattian",6504,127.4196,38.0927,11,1
 "28632",46101,"col","",9.39,51.36,"Ahnetal",NA,"",1,"Chattian","",28.1,23.03,12298,"gp_mid",12.95,46.68,"315",25.565,"chattian",6584,5.8984,50.1515,11,1
 "28635",46104,"col","",9.15,53.69,"Hemmoor",NA,"",1,"Chattian","",28.1,23.03,12298,"gp_mid",12.92,49.01,"315",25.565,"chattian",6586,2.3488,50.0026,11,1
+"28694",46166,"col","Jan Juc",144.27,-38.2,"Warun Ponds Quarry",NA,"Blue Circle Southern Cement Ltd.; Waurn Ponds",39,"Chattian","",28.1,23.03,12318,"gp_mid",151.66,-50.92,"801",25.565,"chattian",6614,139.9737,-50.6058,11,1
+"31004",48647,"col","Jan Juc",144.3,-38.33,"Ad24. Bird Rock",NA,"PL3024",45,"Chattian","",28.1,23.03,12938,"gp_mid",151.75,-51.04,"801",25.565,"chattian",7328,139.9737,-50.6058,11,1
 "31370",126056,"col","Hatazu",129.88,33.39,"Tsutsui",NA,"Imari, Imarishi",1,"Chattian","",28.1,23.03,40950,"gp_mid",126.99,34.45,"610",25.565,"chattian",7442,128.0864,35.6503,11,1
 "31371",126057,"col","Ashiya",130.94,33.95,"Hikoshima",NA,"",2,"Chattian","",28.1,23.03,40950,"gp_mid",127.97,35.12,"610",25.565,"chattian",7443,127.4196,38.0927,11,1
+"31985",50070,"col","Gambier Limestone",140.64,-37.82,"Pritchard's quarry, Mount Gambier",NA,"",9,"Chattian","",28.1,23.03,12133,"gp_mid",147.09,-51.23,"801",25.565,"chattian",7639,139.9737,-50.6058,11,1
+"32121",50362,"col","Port Willunga",137.8,-34.91,"Stansbury, Yorke Peninsula",NA,"",1,"Chattian","",28.1,23.03,13527,"gp_mid",142.65,-48.87,"801",25.565,"chattian",7686,134.984,-48.3923,11,1
+"32122",50363,"col","",140.71,-36.96,"Naracoorte Quarries",NA,"",1,"Chattian","",28.1,23.03,13527,"gp_mid",146.87,-50.38,"801",25.565,"chattian",7687,139.9737,-50.6058,11,1
 "32718",51103,"col","Waita",130.72,33.93,"Waita",NA,"Tomoro Beach",1,"Chattian","",28.1,23.03,13625,"gp_mid",127.75,35.08,"610",25.565,"chattian",7807,127.4196,38.0927,11,1
 "32720",51105,"col","Sakamizu",130.73,33.89,"Haraigawa",NA,"",1,"Chattian","",28.1,23.03,13625,"gp_mid",127.77,35.03,"610",25.565,"chattian",7808,127.4196,38.0927,11,1
+"33008",51383,"col","Clifton",143.58,-38.48,"Kawarren",NA,"Old Alkemade's Quarry",7,"Chattian","",28.1,23.03,13672,"gp_mid",150.94,-51.33,"801",25.565,"chattian",7880,139.9737,-50.6058,11,1
+"33013",51388,"col","Clifton",143.15,-38.7,"Princetown Beach",NA,"",2,"Chattian","",28.1,23.03,13672,"gp_mid",150.5,-51.62,"801",25.565,"chattian",7883,139.9737,-50.6058,11,1
+"33014",51389,"col","",144.1,-38.47,"Split Point",NA,"Aireys Inlet",3,"Chattian","",28.1,23.03,13672,"gp_mid",151.56,-51.21,"801",25.565,"chattian",7884,139.9737,-50.6058,11,1
+"33015",51390,"col","",144.25,-38.38,"Point Addis",NA,"",1,"Chattian","",28.1,23.03,13672,"gp_mid",151.71,-51.1,"801",25.565,"chattian",7885,139.9737,-50.6058,11,1
+"33016",51391,"col","",144.27,-38.37,"Bells Headland",NA,"",1,"Chattian","",28.1,23.03,13672,"gp_mid",151.72,-51.08,"801",25.565,"chattian",7886,139.9737,-50.6058,11,1
+"33017",51392,"col","",144.28,-38.37,"Bells Beach",NA,"",2,"Chattian","",28.1,23.03,13672,"gp_mid",151.74,-51.08,"801",25.565,"chattian",7887,139.9737,-50.6058,11,1
+"33018",51393,"col","Jan Juc",144.28,-38.37,"Rocky Point",NA,"",1,"Chattian","",28.1,23.03,13672,"gp_mid",151.74,-51.08,"801",25.565,"chattian",7887,139.9737,-50.6058,11,1
+"33019",51394,"col","Jan Juc",144.3,-38.33,"Deadman's Gully",NA,"",2,"Chattian","",28.1,23.03,13672,"gp_mid",151.75,-51.04,"801",25.565,"chattian",7328,139.9737,-50.6058,11,1
 "33169",51585,"col","Maniyara Fort",68.95,23.54,"Matanomadh",NA,"",4,"Chattian","",28.1,23.03,13722,"gp_mid",69.43,11,"501",25.565,"chattian",7934,61.68,14.4477,11,1
 "33638",52083,"col","Linzer Sanden",14.29,48.31,"Linz",NA,"Sicherbauer-Gestatte sand quarry",12,"Chattian","",28.1,23.03,11972,"gp_mid",17.22,43.48,"305",25.565,"chattian",6474,9.6598,43.8859,11,1
+"33928",52381,"col","Vaqueros",-120.04,34.04,"Location #67-79 - Carrington Point (Vaqueros Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33929",52382,"col","Vaqueros",-120.04,34.04,"Location #67-81 - Carrington Point (Vaqueros Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33930",52383,"col","Rincon",-120.04,34.04,"Location #67-53 - Tecolote West (Rincon Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33931",52384,"col","Rincon",-120.04,34.04,"Location #67-54 - Tecolote West (Rincon Fm)",NA,"",4,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33932",52385,"col","Rincon",-120.04,34.04,"Location #67-55 - Tecolote West (Rincon Fm)",NA,"",6,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33933",52386,"col","Rincon",-120.04,34.04,"Location #67-51 - Tecolote East (Rincon Fm)",NA,"",5,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33934",52387,"col","Rincon",-120.04,34.04,"Location #67-57 - Tecolote East (Rincon Fm)",NA,"",3,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33935",52388,"col","Rincon",-120.04,34.04,"Location #67-58 - Tecolote East (Rincon Fm)",NA,"",3,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33936",52389,"col","Rincon",-120.04,34.04,"Location #64-3P - Garanon Canyon (Rincon Fm)",NA,"",4,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33937",52390,"col","Rincon",-120.04,34.04,"Location #64-4P - Garanon Canyon (Rincon Fm)",NA,"",2,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33938",52391,"col","Rincon",-120.31,34.74,"Location #64-8P - SE Central Santa Rosa Island (Rincon Fm)",NA,"",2,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33939",52392,"col","Rincon",-120.31,34.74,"Location #64-7P - SE Central Santa Rosa Island (Rincon Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33940",52393,"col","Rincon",-120.31,34.74,"Location #64-6P - SE Central Santa Rosa Island (Rincon Fm)",NA,"",5,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33941",52394,"col","Rincon",-120.31,34.74,"Location #64-5P - SE Central Santa Rosa Island (Rincon Fm)",NA,"",6,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33942",52395,"col","Rincon",-120.31,34.74,"Location #64-8 - SE Central Santa Rosa Island (Rincon Fm)",NA,"",4,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33943",52396,"col","Rincon",-120.31,34.74,"Location #64-6 - SE Central Santa Rosa Island (Rincon Fm)",NA,"",2,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33944",52397,"col","Rincon",-120.31,34.74,"Location #64-7 - SE Central Santa Rosa Island (Rincon Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33945",52398,"col","Rincon",-120.31,34.74,"Location #67-87 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",2,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33946",52399,"col","Rincon",-120.31,34.74,"Location #67-86 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",3,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33947",52400,"col","Rincon",-120.31,34.74,"Location #67-83 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",5,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33948",52401,"col","Rincon",-120.31,34.74,"Location #67-85 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33949",52402,"col","Rincon",-120.31,34.74,"Location #67-84 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33950",52403,"col","Rincon",-120.31,34.74,"Location #67-82 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",3,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33951",52404,"col","Rincon",-120.31,34.74,"Location #67-33 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33952",52405,"col","Rincon",-120.31,34.74,"Location #67-32 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",2,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33953",52406,"col","Rincon",-120.31,34.74,"Location #67-36 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33954",52407,"col","Rincon",-120.31,34.74,"Location #67-29 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33955",52408,"col","Rincon",-120.31,34.74,"Location #67-28 - Southeast coast of Santa Rosa Island (Rincon Fm)",NA,"",7,"Chattian","",28.1,23.03,14094,"gp_mid",-107.99,38.36,"105",25.565,"chattian",8167,-111.0411,33.2618,11,1
+"33960",52413,"col","Vaqueros",-120.04,34.04,"Location #64-10P - Garanon Canyon (Vaqueros Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33961",52414,"col","Vaqueros",-120.04,34.04,"Location #64-11P - Garanon Canyon (Vaqueros Fm)",NA,"",1,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33962",52415,"col","Vaqueros",-120.04,34.04,"Location #64-12P - Garanon Canyon (Vaqueros Fm)",NA,"",5,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33963",52416,"col","Vaqueros",-120.04,34.74,"Location #64-9P - SE Central Santa Rosa Island (Vaqueros Fm)",NA,"",4,"Chattian","",28.1,23.03,14094,"gp_mid",-107.72,38.35,"105",25.565,"chattian",8169,-111.0411,33.2618,11,1
+"33964",52417,"col","Vaqueros",-120.04,34.04,"Lower Conglomerate, Vaqueros Fm - Near Point, Santa Cruz Island",NA,"",19,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"33965",52418,"col","Vaqueros",-120.04,34.04,"Volcanic Arenite, Vaqueros Fm - Near Point, Santa Cruz Island",NA,"",27,"Chattian","",28.1,23.03,14094,"gp_mid",NA,NA,"coordinates not computable using this model",25.565,"chattian",8166,-111.0411,33.2618,11,1
+"35572",54075,"col","Belgrade",-77.27,34.57,"Onslow Beach",NA,"",4,"Chattian","",28.1,23.03,17344,"gp_mid",-65.59,36.68,"109",25.565,"chattian",8642,-72.6932,33.6365,11,1
 "35735",55237,"col","Linz",14.34,48.33,"Plesching (Upper Austria) - Linz Formation",NA,"Austernbank",38,"Chattian","",28.1,23.03,14687,"gp_mid",17.27,43.5,"305",25.565,"chattian",8680,9.6598,43.8859,11,1
 "35738",55242,"col","Pielach",15.17,48.15,"Kendl (Lower Austria) - Pielach Formation",NA,"",13,"Chattian","",28.1,23.03,14687,"gp_mid",18.02,43.3,"305",25.565,"chattian",8682,9.6598,43.8859,11,1
 "35739",55244,"col","Pielach",15.25,48.18,"Zelking (Lower Austria) - Pielach Formation",NA,"",10,"Chattian","",28.1,23.03,14687,"gp_mid",18.1,43.33,"305",25.565,"chattian",8683,9.6598,43.8859,11,1
@@ -86,6 +142,8 @@
 "37068",57054,"col","Scotts Mills",-122.6,45.01,"Butte Creek 3",NA,"",1,"Chattian","",28.1,23.03,15403,"gp_mid",-108.58,49.6,"129",25.565,"chattian",8992,-116.4268,46.4815,11,1
 "37069",57055,"col","Scotts Mills",-122.59,45.01,"Coal Creek",NA,"",1,"Chattian","",28.1,23.03,15403,"gp_mid",-108.58,49.6,"129",25.565,"chattian",8993,-116.4268,46.4815,11,1
 "37129",57119,"col","",6.37,51.29,"Suchteln",NA,"",8,"Chattian","",28.1,23.03,15422,"gp_mid",10.2,46.7,"315",25.565,"chattian",9016,2.3488,50.0026,11,1
+"37779",57789,"col","Vedder",-118.83,35.49,"Pyramid Hill, west",NA,"",9,"Chattian","",28.1,23.03,11922,"gp_mid",-105.15,39.95,"130",25.565,"chattian",9119,-111.0411,33.2618,11,1
+"38077",58148,"col","Jewett",-118.91,35.67,"Woody, southwest",NA,"",10,"Chattian","",28.1,23.03,12749,"gp_mid",-105.22,40.13,"130",25.565,"chattian",9169,-111.0411,33.2618,11,1
 "38814",58892,"col","Yaquina",-124.09,44.49,"Elephant Rock, SE of",NA,"",1,"Chattian","",28.1,23.03,12991,"gp_mid",-110.24,49.12,"129",25.565,"chattian",9375,-116.4268,46.4815,11,1
 "38818",58896,"col","Morawan",143.77,43.3,"Morawan (Lower Hard Shale Member)",NA,"",1,"Chattian","",28.1,23.03,16701,"gp_mid",140.18,44.86,"609",25.565,"chattian",6480,139.0297,46.6176,11,1
 "38900",58984,"col","Chandler Bridge",-80.17,32.98,"Irongate",NA,"",1,"Chattian","",28.1,23.03,16733,"gp_mid",-68.83,35.45,"109",25.565,"chattian",9396,-72.944,31.1455,11,1
@@ -97,14 +155,30 @@
 "42245",63049,"col","Kokoamu Greensand",170.71,-44.87,"Duntroon (Kokoamu Greensand)",NA,"I40/f26A",11,"Duntroonian","",27.3,25.2,15371,"gp_mid",-169.14,-46.7,"807",26.25,"chattian",6429,-175.6538,-51.0769,11,1
 "43412",65132,"col","",14.63,48.25,"Perg",NA,"",1,"Chattian","",28.1,23.03,18741,"gp_mid",17.53,43.41,"305",25.565,"chattian",10491,9.6598,43.8859,11,1
 "43413",65133,"col","",14.72,48.17,"Wallsee",NA,"",1,"Chattian","",28.1,23.03,18741,"gp_mid",17.61,43.33,"305",25.565,"chattian",10492,9.6598,43.8859,11,1
+"44231",66192,"col","Silverdale",-77.17,34.8,"UNCW Loc. Z-729 - Croatian National Forest [Silverdale Fm]",NA,"",1,"Chattian","",28.1,23.03,18958,"gp_mid",-65.45,36.9,"109",25.565,"chattian",10699,-72.6932,33.6365,11,1
+"44234",66195,"col","Silverdale",-77.18,34.75,"UNCW Loc. Z-957 - Silverdale Marl Company quarry [Silverdale Fm]",NA,"",1,"Chattian","",28.1,23.03,18958,"gp_mid",-65.47,36.84,"109",25.565,"chattian",10701,-72.6932,33.6365,11,1
 "45380",67919,"col","Kokoamu Greensand",170.71,-44.88,"S127/f527 - Kokoamu Fm, Kokoamu escarpment",NA,"GS5634; Coll# 3091 (Hendy PhD)",1,"Duntroonian","",27.3,25.2,18671,"gp_mid",-169.15,-46.71,"807",26.25,"chattian",11002,-175.6538,-51.0769,11,1
 "45384",67923,"col","Kokoamu Greensand",170.99,-45.03,"S137/f506 - Kokoamu Fm, Landon Creek",NA,"GS3998; Coll# 3090 (Hendy PhD)",1,"Duntroonian","",27.3,25.2,18671,"gp_mid",-168.85,-46.86,"807",26.25,"chattian",11005,-175.6538,-51.0769,11,1
 "46322",68974,"col","Tiger Leap",-79.95,32.79,"Charleston, Tiger Leap",NA,"",1,"Chattian","",28.1,23.03,19387,"gp_mid",-68.63,35.24,"109",25.565,"chattian",11264,-72.944,31.1455,11,1
 "47643",70957,"col","Chandler Bridge",-80.07,32.9,"Golf Course Creek",NA,"",1,"Chattian","",28.1,23.03,11875,"gp_mid",-68.74,35.36,"109",25.565,"chattian",11646,-72.944,31.1455,11,1
 "47784",71115,"col","Chattahoochee",-84.62,30.85,"Russell Springs, Bainbridge",NA,"Reef 3107",21,"Chattian","",28.1,23.03,12754,"gp_mid",-73.73,33.87,"109",25.565,"chattian",11680,-80.577,29.1938,11,1
+"48120",71650,"col","River Bend",-77.23,34.89,"Belgrade Quarry, River Bend Formation",NA,"",15,"Chattian","",28.1,23.03,16985,"gp_mid",-65.49,36.98,"109",25.565,"chattian",11762,-72.6932,33.6365,11,1
 "49740",74591,"col","",171.47,-41.82,"Brighton",NA,"Seal Rock",1,"Duntroonian","",27.3,25.2,29678,"gp_mid",-176.1,-47.81,"806",26.25,"chattian",12154,-175.2888,-48.588,11,1
 "49747",74598,"col","",172.98,-43.01,"Omihi",NA,"",1,"Duntroonian","",27.3,25.2,25069,"gp_mid",-166.82,-44.83,"807",26.25,"chattian",12156,-175.2888,-48.588,11,1
+"49780",74634,"col","Eptachorion",21.22,40.12,"DO/98/reef - Doutsiko reef (Eptachorion Fm)",NA,"",9,"Chattian","",28.1,23.03,25005,"gp_mid",23.08,32.78,"307",25.565,"chattian",12172,19.2857,35.413,11,1
+"49781",74635,"col","Eptachorion",21.22,40.12,"Rö/159/84 and Rö/160/84 - Doutsiko (Eptachorion Fm)",NA,"",13,"Chattian","",28.1,23.03,25005,"gp_mid",23.08,32.78,"307",25.565,"chattian",12172,19.2857,35.413,11,1
 "50595",76045,"col","Yamaga",130.89,33.86,"Kitakyushu",NA,"",5,"Chattian","",28.1,23.03,12148,"gp_mid",127.94,35.02,"610",25.565,"chattian",12467,127.4196,38.0927,11,1
+"50616",76195,"col","Eptachorion",21.37,39.96,"Rö95/81 - Kipourio (Eptachorion Fm)",NA,"",13,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50622",76201,"col","Eptachorion",21.37,39.96,"Rö96/81 - Kipourio (Eptachorion Fm)",NA,"",7,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50623",76202,"col","Eptachorion",21.37,39.96,"Rö93/81 - Kipourio (Eptachorion Fm)",NA,"",4,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50624",76203,"col","Eptachorion",21.37,39.96,"Rö98/81 - Kipourio (Eptachorion Fm)",NA,"",3,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50625",76204,"col","Eptachorion",21.37,39.96,"Rö99A,C,D/81 - Kipourio (Eptachorion Fm)",NA,"",0,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50626",76205,"col","Eptachorion",21.37,39.96,"Rö/101/81 - Kipourio (Eptachorion Fm)",NA,"",2,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50627",76206,"col","Eptachorion",21.37,39.96,"Rö/101A/81 - Kipourio (Eptachorion Fm)",NA,"",0,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50628",76207,"col","Eptachorion",21.37,39.96,"Ki/98/S9 - Kipourio (Eptachorion Fm)",NA,"",3,"Chattian","",28.1,23.03,25005,"gp_mid",23.18,32.6,"307",25.565,"chattian",12480,19.2857,35.413,11,1
+"50632",76235,"col","Eptachorion",21.37,39.88,"Rö/109/84 - Prionia (Eptachorion Fm)",NA,"",0,"Chattian","",28.1,23.03,25005,"gp_mid",23.16,32.53,"307",25.565,"chattian",12482,19.2857,35.413,11,1
+"50633",76260,"col","Eptachorion",21.02,40.22,"Rö/157/84 - Eptachorion (Eptachorion Fm)",NA,"",2,"Chattian","",28.1,23.03,25005,"gp_mid",22.91,32.9,"307",25.565,"chattian",12483,19.2857,35.413,11,1
+"50634",76261,"col","Eptachorion",21.22,40.12,"DO/98/village - Doutsiko reef (Eptachorion Fm)",NA,"",0,"Chattian","",28.1,23.03,25005,"gp_mid",23.08,32.78,"307",25.565,"chattian",12172,19.2857,35.413,11,1
 "50739",76586,"col","Singu",95.23,19.4,"Leptanzeik (Singu stage)",NA,"",4,"Chattian","",28.1,23.03,25894,"gp_mid",100.89,10.06,"617",25.565,"chattian",12534,91.3638,15.3745,11,1
 "50741",76588,"col","Singu",94.85,20.93,"Singu (Singu stage)",NA,"",33,"Chattian","",28.1,23.03,25894,"gp_mid",99.93,11.32,"617",25.565,"chattian",12535,91.3638,15.3745,11,1
 "50742",76589,"col","Singu",94.85,20.93,"Mindegyi (Singu stage)",NA,"",9,"Chattian","",28.1,23.03,25894,"gp_mid",99.93,11.32,"617",25.565,"chattian",12535,91.3638,15.3745,11,1
@@ -113,14 +187,21 @@
 "51267",77736,"col","Melk",15.36,48.22,"Melk/Wachberg [Melk Formation]",NA,"",10,"Chattian","",28.1,23.03,14687,"gp_mid",18.2,43.36,"305",25.565,"chattian",12701,9.6598,43.8859,11,1
 "51268",77735,"col","Pielach",15.3,48.22,"Neuwinden/Hydroplant [Pielach Formation]",NA,"",15,"Chattian","",28.1,23.03,14687,"gp_mid",18.15,43.37,"305",25.565,"chattian",12702,9.6598,43.8859,11,1
 "51269",77737,"col","Ebelsberg",15.66,48.37,"Krustetten/Tiefenfucha [Ebelsberg Formation]",NA,"",17,"Chattian","",28.1,23.03,14687,"gp_mid",18.48,43.5,"305",25.565,"chattian",12703,9.6598,43.8859,11,1
+"52408",79641,"col","Eptachorion",21.15,40.13,"Doutsiko II,  Mesohellenic Basin",NA,"",17,"Chattian","",28.1,23.03,26716,"gp_mid",23.01,32.8,"307",25.565,"chattian",13025,19.2857,35.413,11,1
 "52713",80366,"col","Sternberg",11.81,53.68,"Kobrow",NA,"",2,"Chattian","",28.1,23.03,27025,"gp_mid",15.32,48.91,"315",25.565,"chattian",13139,5.8984,50.1515,11,1
 "52869",80556,"col","",9.92,52.1,"Diekholzen",NA,"",8,"Chattian","",28.1,23.03,27096,"gp_mid",13.49,47.39,"315",25.565,"chattian",13203,5.8984,50.1515,11,1
+"55170",84142,"col","Red Bluff",-88.04,31.57,"St. Stephens Quarry, Red Bluff Formation",NA,"Saint Stephens, Lone Star Cement Quarry",10,"Chattian","",28.1,23.03,28160,"gp_mid",-77.13,34.97,"109",25.565,"chattian",14014,-80.3288,31.6846,11,1
 "55776",84991,"col","",-70.7,19.32,"TU 1362 Rio Yaque del Norte {Tabera Gp]",NA,"",2,"Chattian","",28.1,23.03,28516,"gp_mid",-65.13,20.67,"252",25.565,"chattian",14215,-69.5966,18.1985,11,1
 "56247",85545,"col","",171.72,-43.25,"GS 241, S66 Whitewater Creek",NA,"",4,"Duntroonian","",27.3,25.2,29819,"gp_mid",-168.12,-45.07,"807",26.25,"chattian",14395,-175.2888,-48.588,11,1
+"56788",86499,"col","",-77.19,35.03,"NC Highway Department borrow pit",NA,"Locality 8",24,"Chattian","",28.1,23.03,48009,"gp_mid",-65.43,37.12,"109",25.565,"chattian",14603,-72.6932,33.6365,11,1
 "57822",87891,"col","",172.11,-41.25,"Karamea",NA,"",1,"Chattian","",28.1,23.03,29544,"gp_mid",-175.75,-47.1,"806",25.565,"chattian",14967,-177.291,-47.0771,11,1
+"58598",88771,"col","Tokca",29.73,38.05,"Ardicliburun section",NA,"Reef 2314",16,"Chattian","",28.1,23.03,29766,"gp_mid",31.25,32.98,"504",25.565,"chattian",15217,26.6157,35.6282,11,1
+"58599",88772,"col","Tokca",29.77,38.1,"Üctepeler section",NA,"Reef 2314",10,"Chattian","",28.1,23.03,29766,"gp_mid",31.28,33.03,"504",25.565,"chattian",15218,26.6157,35.6282,11,1
 "58790",89031,"col","",171.75,-43.22,"GS 239, 243, Fan-coral Bed, Castle Hill Basin",NA,"",6,"Duntroonian","",27.3,25.2,29819,"gp_mid",-168.09,-45.04,"807",26.25,"chattian",15277,-175.2888,-48.588,11,1
 "58835",89087,"col","",173.28,-42.92,"GS 5755, S61/31 Hurunui River",NA,"",2,"Duntroonian","",27.3,25.2,29819,"gp_mid",-166.51,-44.73,"807",26.25,"chattian",15298,-175.2888,-48.588,11,1
 "58854",89129,"col","",171.87,-42.12,"GS 3299, S38 Gannon's Bridge, Waitahu River",NA,"",1,"Duntroonian","",27.3,25.2,29819,"gp_mid",-175.53,-47.97,"806",26.25,"chattian",15302,-175.2888,-48.588,11,1
+"59118",89609,"col","Byram",-88.04,31.57,"St. Stephens Quarry, Byram Formation",NA,"Saint Stephens, Lone Star Cement Quarry",2,"Chattian","",28.1,23.03,30048,"gp_mid",-77.13,34.97,"109",25.565,"chattian",14014,-80.3288,31.6846,11,1
+"59119",89610,"col","Byram",-88.04,31.57,"St. Stephens Quarry, Glendon Limestone Member",NA,"Saint Stephens, Lone Star Cement Quarry",5,"Chattian","",28.1,23.03,30048,"gp_mid",-77.13,34.97,"109",25.565,"chattian",14014,-80.3288,31.6846,11,1
 "59549",90524,"col","Kasseler Meeressand",9.52,51.45,"Ahlberg survey PREAG 2715",NA,"",3,"Chattian","",28.1,23.03,30443,"gp_mid",13.07,46.76,"315",25.565,"chattian",15587,5.8984,50.1515,11,1
 "59550",90525,"col","Kasseler Meeressand",9.38,51.35,"Ahnetal outcrop 1",NA,"Ahnatal",1,"Chattian","",28.1,23.03,30443,"gp_mid",12.94,46.66,"315",25.565,"chattian",15588,5.8984,50.1515,11,1
 "59551",90526,"col","Kasseler Meeressand",9.38,51.35,"Ahnetal outcrop 4",NA,"Ahnatal",3,"Chattian","",28.1,23.03,30443,"gp_mid",12.94,46.66,"315",25.565,"chattian",15588,5.8984,50.1515,11,1
@@ -144,6 +225,7 @@
 "75582",111475,"col","Vejle Fjord",9.25,56,"Brejning Clay, Vejle Fjord Formation",NA,"",68,"Chattian","",28.1,23.03,36500,"gp_mid",13.21,51.31,"302",25.565,"chattian",21185,2.0902,52.4974,11,1
 "76181",112319,"col","Linzer Sanden",14.45,48.27,"Sankt Georgen an der Gusen",NA,"",1,"Chattian","",28.1,23.03,36637,"gp_mid",17.37,43.44,"305",25.565,"chattian",21313,9.6598,43.8859,11,1
 "76429",112635,"col","Chandler Bridge",-80.15,32.96,"Eagle Creek, Chandler Bridge Formation",NA,"",5,"Chattian","",28.1,23.03,11875,"gp_mid",-68.8,35.43,"109",25.565,"chattian",21369,-72.944,31.1455,11,1
+"78275",114718,"col","Jan Juc",144.3,-38.35,"Jan Juc Beach",NA,"",2,"Chattian","",28.1,23.03,37187,"gp_mid",151.76,-51.06,"801",25.565,"chattian",21971,139.9737,-50.6058,11,1
 "79370",116622,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, Chattian",NA,"",14,"Chattian","",28.1,23.03,37562,"gp_mid",49.75,35.61,"402",25.565,"chattian",22246,43.6275,39.6144,11,1
 "79380",116632,"col","",49.47,40.51,"Mount Islamdag, Eastern Slope, Maikop Group, member 1 & 2, Chattian",NA,"",7,"Chattian","",28.1,23.03,37562,"gp_mid",49.7,35.63,"402",25.565,"chattian",22250,43.6275,39.6144,11,1
 "79385",116637,"col","",49.46,40.51,"Mount Islamdag, Western Slope",NA,"",68,"Chattian","",28.1,23.03,37562,"gp_mid",49.69,35.62,"402",25.565,"chattian",22254,43.6275,39.6144,11,1
@@ -161,13 +243,17 @@
 "92247",133300,"col","Vejlefjord",9.08,56.64,"Lyby-Strand",NA,"",1,"Chattian","",28.1,23.03,71376,"gp_mid",13.12,51.96,"302",25.565,"chattian",25583,1.8004,54.9915,11,1
 "92248",133301,"col","Ratzeburg",10.56,53.53,"Grob Pampau gravel pit",NA,"",1,"Chattian","",28.1,23.03,42910,"gp_mid",14.18,48.8,"315",25.565,"chattian",25584,5.8984,50.1515,11,1
 "92283",133338,"col","Kokoamu Greensand",170.98,-44.97,"Island Cliff Site",NA,"",2,"Chattian","",28.1,23.03,42921,"gp_mid",-168.86,-46.79,"807",25.565,"chattian",23022,-175.6538,-51.0769,11,1
+"92302",133382,"col","Rincon",-119.42,34.33,"Los Sauces Creek, Ventura County",NA,"",1,"Chattian","",28.1,23.03,42952,"gp_mid",-107.08,37.93,"105",25.565,"chattian",25590,-111.0411,33.2618,11,1
 "93373",134766,"col","",-92.03,17.45,"Chacamax River",NA,"",1,"Chattian","",28.1,23.03,43292,"gp_mid",-83.17,21.4,"205",25.565,"chattian",25905,-89.1289,17.2906,11,1
 "94315",135847,"col","Otekaike Limestone",170.65,-44.66,"Haughs’ Quarry",NA,"",8,"Duntroonian","",27.3,25.2,43475,"gp_mid",-169.21,-46.49,"807",26.25,"chattian",26321,-175.6538,-51.0769,11,1
+"94908",136737,"col","Gambier Limestone",140.66,-37.83,"Mount Gambier: Duplicate of 50070?",NA,"",0,"Chattian","",28.1,23.03,36547,"gp_mid",147.13,-51.24,"801",25.565,"chattian",26503,139.9737,-50.6058,11,1
+"97112",139172,"col","Sooke",-125.21,48.78,"Near Pachena Bay, Vancouver Island",NA,"Near North point of entrance into Strait of Juan de Fuca",1,"Chattian","",28.1,23.03,44425,"gp_mid",-114.62,55.35,"128",25.565,"chattian",27082,-115.1347,50.9705,11,1
 "97829",139944,"col","",17.07,48.84,"Halbopal at Luschitze",NA,"Lužice",7,"Chattian","",28.1,23.03,45145,"gp_mid",19.79,43.94,"305",25.565,"chattian",27234,13.3113,47.9848,11,1
 "100515",143251,"col","",68.64,23.46,"Ber Moti village, Kutch",NA,"",1,"Chattian","",28.1,23.03,46425,"gp_mid",69.13,10.97,"501",25.565,"chattian",27614,61.68,14.4477,11,1
 "101365",144260,"col","Chandler Bridge",-80.03,32.87,"USGS Johns Island",NA,"",1,"Chattian","",28.1,23.03,46645,"gp_mid",-68.7,35.33,"109",25.565,"chattian",27712,-72.944,31.1455,11,1
 "101367",144262,"col","Chandler Bridge",-80.11,33.01,"Ladson",NA,"",1,"Chattian","",28.1,23.03,46645,"gp_mid",-68.75,35.48,"109",25.565,"chattian",27713,-72.944,31.1455,11,1
 "103373",147345,"col","",11.53,51.53,"Schwarze Minna pit, Eisleben",NA,"",4,"Chattian","",28.1,23.03,47505,"gp_mid",14.9,46.78,"315",25.565,"chattian",28037,5.8984,50.1515,11,1
+"106817",151325,"col","River Bend",-77.14,35.15,"Martin Marietta New Bern Quarry, River Bend Formation",NA,"",13,"Chattian","",28.1,23.03,48009,"gp_mid",-65.35,37.23,"109",25.565,"chattian",28663,-72.6932,33.6365,11,1
 "107589",152348,"col","Kokoamu Greensand",171,-45.04,"J41/f9603b - Landon Creek [Kokoamu Greensand]",NA,"",12,"Duntroonian","",27.3,25.2,49032,"gp_mid",-168.85,-46.86,"807",26.25,"chattian",28851,-175.6538,-51.0769,11,1
 "107592",152356,"col","Kokoamu Greensand",170.72,-44.87,"J40/f170 - Kokoamu Bluff [Kokoamu Greensand]",NA,"",9,"Duntroonian","",27.3,25.2,49032,"gp_mid",-169.13,-46.7,"807",26.25,"chattian",6428,-175.6538,-51.0769,11,1
 "107594",152358,"col","Kokoamu Greensand",170.65,-44.66,"Haughs Quarry [Kokoamu Greensand]",NA,"I40/f400, I40/f285",8,"Duntroonian","",27.3,25.2,49032,"gp_mid",-169.21,-46.49,"807",26.25,"chattian",26321,-175.6538,-51.0769,11,1
@@ -181,6 +267,7 @@
 "109970",155823,"col","Raglan Limestone",174.86,-37.78,"R14/f8016 - Ponganui Inlet [Raglan Limestone]",NA,"N64/f16",1,"Duntroonian","",27.3,25.2,50994,"gp_mid",-174.68,-43.1,"806",26.25,"chattian",29415,-172.9845,-44.6658,11,1
 "110120",156031,"col","Chandler Bridge",-80.39,32.89,"Leveston Bluff",NA,"",1,"Chattian","",28.1,23.03,43401,"gp_mid",-69.06,35.39,"109",25.565,"chattian",29464,-72.944,31.1455,11,1
 "111125",157876,"col","Chandler Bridge",-80.04,32.9,"Charleston International Airport",NA,"",1,"Chattian","",28.1,23.03,51905,"gp_mid",-68.71,35.36,"109",25.565,"chattian",29701,-72.944,31.1455,11,1
+"112463",159889,"col","Gambier",140.77,-37.85,"Barber's Quarry",NA,"",1,"Chattian","",28.1,23.03,52184,"gp_mid",147.27,-51.23,"801",25.565,"chattian",30160,139.9737,-50.6058,11,1
 "114398",162501,"col","Morawan",143.54,43.24,"Ashoro",NA,"",1,"Chattian","",28.1,23.03,52922,"gp_mid",139.96,44.77,"609",25.565,"chattian",30699,139.0297,46.6176,11,1
 "115513",164627,"col","",118.27,5.5,"Sanctuary Quarry, Lower Kinabatangan Area, Sabah",NA,"",1,"Chattian","",28.1,23.03,53783,"gp_mid",123.23,11.17,"621",25.565,"chattian",30900,119.1679,11.7745,11,1
 "116621",166239,"col","San Julian",-66.05,-47.13,"Golfo de San Jorge, Cabo Tres Puntas",NA,"",1,"Chattian","",28.1,23.03,27587,"gp_mid",-61.49,-46.97,"291",25.565,"chattian",31233,-61.4812,-50.759,11,1
@@ -189,12 +276,27 @@
 "119974",171543,"col","Lakhish",34.92,31.91,"Ramle (Hebrew University collection)",NA,"Ramla",1,"Chattian","",28.1,23.03,55780,"gp_mid",35.63,24.18,"508",25.565,"chattian",17864,29.4691,28.7997,11,1
 "120920",174134,"col","Breda",6.66,51.94,"Winterswijk- Miste",NA,"",1,"Chattian","",28.1,23.03,56817,"gp_mid",10.52,47.35,"315",25.565,"chattian",32150,2.3488,50.0026,11,1
 "120922",174140,"col","",143.46,-38.81,"Aire Coastal beds",NA,"",4,"Chattian","",28.1,23.03,56777,"gp_mid",150.92,-51.66,"801",25.565,"chattian",32152,140.4115,-53.0911,11,1
+"120924",174143,"col","",144.28,-38.09,"Batesford",NA,"",13,"Chattian","",28.1,23.03,56777,"gp_mid",151.62,-50.81,"801",25.565,"chattian",32154,139.9737,-50.6058,11,1
+"120925",174144,"col","",142.83,-38.52,"Boggy Creek",NA,"",3,"Chattian","",28.1,23.03,56777,"gp_mid",150.04,-51.51,"801",25.565,"chattian",32155,139.9737,-50.6058,11,1
+"120926",174145,"col","",144.36,-38.14,"Corio Bay, Geelong",NA,"",3,"Chattian","",28.1,23.03,56777,"gp_mid",151.74,-50.84,"801",25.565,"chattian",32156,139.9737,-50.6058,11,1
+"120927",174146,"col","",141.27,-37.92,"Dartmoor",NA,"",1,"Chattian","",28.1,23.03,56777,"gp_mid",147.9,-51.21,"801",25.565,"chattian",32157,139.9737,-50.6058,11,1
+"120929",174148,"col","",143.71,-38.53,"Gellibrand",NA,"",2,"Chattian","",28.1,23.03,56777,"gp_mid",151.11,-51.35,"801",25.565,"chattian",32159,139.9737,-50.6058,11,1
+"120931",174150,"col","",140.68,-37.76,"Mount Gambier",NA,"",7,"Chattian","",28.1,23.03,56777,"gp_mid",147.12,-51.17,"801",25.565,"chattian",32161,139.9737,-50.6058,11,1
 "120932",174151,"col","",148.45,-37.71,"Orbost, Gippsland",NA,"",3,"Chattian","",28.1,23.03,56777,"gp_mid",156.45,-49.6,"801",25.565,"chattian",32162,149.2023,-49.8474,11,1
+"120933",174152,"col","",144.33,-38.32,"Torquay",NA,"",6,"Chattian","",28.1,23.03,56777,"gp_mid",151.79,-51.03,"801",25.565,"chattian",32163,139.9737,-50.6058,11,1
+"120935",174154,"col","",141.29,-37.86,"Anticline Creek, Dartmoor",NA,"",11,"Chattian","",28.1,23.03,56777,"gp_mid",147.9,-51.15,"801",25.565,"chattian",32165,139.9737,-50.6058,11,1
+"122353",176277,"col","Jan Juc",144.32,-38.32,"Fishermen’s Steps, Bird Rock Cliffs, Torquay",NA,"",2,"Chattian","",28.1,23.03,57935,"gp_mid",151.76,-51.02,"801",25.565,"chattian",32407,139.9737,-50.6058,11,1
+"122355",176279,"col","Jan Juc",144.3,-38.35,"Ad22, Bird Rock, Torquay",NA,"",11,"Chattian","",28.1,23.03,27443,"gp_mid",151.76,-51.06,"801",25.565,"chattian",21971,139.9737,-50.6058,11,1
+"122369",176293,"col","Jan Juc",144.3,-38.33,"Ad23. Bird Rock",NA,"",1,"Chattian","",28.1,23.03,18301,"gp_mid",151.75,-51.04,"801",25.565,"chattian",7328,139.9737,-50.6058,11,1
+"122370",176294,"col","Jan Juc",144.32,-38.32,"below Bird Rock cap between Fishermans Steps and Bird Rock, Torquay",NA,"",1,"Chattian","",28.1,23.03,18301,"gp_mid",151.76,-51.02,"801",25.565,"chattian",32407,139.9737,-50.6058,11,1
+"122371",176295,"col","Jan Juc",144.31,-38.34,"Spring Creek, Torquay",NA,"",5,"Chattian","",28.1,23.03,18301,"gp_mid",151.77,-51.04,"801",25.565,"chattian",32414,139.9737,-50.6058,11,1
+"122372",176296,"col","Jan Juc",144.32,-38.32,"Ledge, Bird Rock, Torquay",NA,"",3,"Chattian","",28.1,23.03,18301,"gp_mid",151.76,-51.02,"801",25.565,"chattian",32407,139.9737,-50.6058,11,1
 "123487",178067,"col","Meeressande",6.63,51.45,"Moers",NA,"",1,"Chattian","",28.1,23.03,58906,"gp_mid",10.45,46.86,"315",25.565,"chattian",32697,2.3488,50.0026,11,1
 "125169",180442,"col","Yaquina",-124,44.6,"N.P. 16, near Yaquina",NA,"",1,"Chattian","",28.1,23.03,54367,"gp_mid",-110.14,49.23,"129",25.565,"chattian",33204,-116.4268,46.4815,11,1
 "125528",180850,"col","Kokoamu Greensand",170.65,-44.95,"Tokarahi Cliff",NA,"I412/f128",4,"Duntroonian","",27.3,25.2,60053,"gp_mid",-169.21,-46.77,"807",26.25,"chattian",33269,-175.6538,-51.0769,11,1
 "125544",180866,"col","Chandler Bridge",-80.1,33.03,"Limehouse Branch drainage ditch",NA,"",1,"Chattian","",28.1,23.03,60060,"gp_mid",-68.74,35.5,"109",25.565,"chattian",29296,-72.944,31.1455,11,1
 "125727",181250,"col","",68.83,23.48,"Junagia",NA,"",1,"Chattian","",28.1,23.03,60227,"gp_mid",69.31,10.96,"501",25.565,"chattian",33330,61.68,14.4477,11,1
+"125892",181516,"col","Bay",-57.65,-62,"Wrona Buttress area, Bay Fm",NA,"",1,"Chattian","",28.1,23.03,60360,"gp_mid",-64.45,-60.64,"803",25.565,"chattian",33352,-58.6919,-63.9707,11,1
 "128859",186451,"col","",40.23,43.32,"Akhali-Afoni",NA,"",0,"Chattian","",28.1,23.03,59519,"gp_mid",41.02,38.28,"511",25.565,"chattian",34113,35.9662,41.6761,11,1
 "129607",187480,"col","Kokoamu",170.9,-45.17,"North of Kakanui",NA,"",1,"Duntroonian","",27.3,25.2,39270,"gp_mid",-168.95,-47,"807",26.25,"chattian",34280,-175.6538,-51.0769,11,1
 "129646",187586,"col","",15.04,46.15,"Trbovlje locality",NA,"Trifail",4,"Chattian","",28.1,23.03,62970,"gp_mid",18.92,39.51,"307",25.565,"chattian",34297,13.0626,41.0601,11,1
@@ -211,6 +313,9 @@
 "138058",204235,"col","",171.27,-43.39,"Smite River",NA,"",1,"Duntroonian","",27.3,25.2,61724,"gp_mid",-168.58,-45.22,"807",26.25,"chattian",36151,-175.2888,-48.588,11,1
 "138097",204280,"col","",170.99,-45.03,"Landon Creek",NA,"J41/f9529",1,"Duntroonian","",27.3,25.2,61708,"gp_mid",-168.86,-46.86,"807",26.25,"chattian",11005,-175.6538,-51.0769,11,1
 "138109",204292,"col","",170.65,-44.64,"Sisters Creek",NA,"I40/f0112",1,"Duntroonian","",27.3,25.2,61708,"gp_mid",-169.21,-46.47,"807",26.25,"chattian",36166,-175.6538,-51.0769,11,1
+"138118",204311,"col","",140.44,-34.22,"Pelican Point",NA,"",1,"Chattian","",28.1,23.03,61719,"gp_mid",145.65,-47.75,"801",25.565,"chattian",36168,134.984,-48.3923,11,1
+"138120",204313,"col","",143.97,-38.02,"Red Hill, Shelford",NA,"",2,"Chattian","",28.1,23.03,61719,"gp_mid",151.22,-50.8,"801",25.565,"chattian",36170,139.9737,-50.6058,11,1
+"138121",204314,"col","",140.81,-37.84,"Umpherstone's Cave",NA,"Umpherston Sinkhole",1,"Chattian","",28.1,23.03,61719,"gp_mid",147.31,-51.22,"801",25.565,"chattian",36171,139.9737,-50.6058,11,1
 "138132",204336,"col","Ihungia",178.14,-38.05,"Island Creek",NA,"Y16/f0367",9,"Chattian","",28.1,23.03,61735,"gp_mid",-171.24,-42.45,"806",25.565,"chattian",36177,-172.9845,-44.6658,11,1
 "138133",204337,"col","",177.87,-38.38,"Loc 1372",NA,"",2,"Chattian","",28.1,23.03,61735,"gp_mid",-171.36,-42.84,"806",25.565,"chattian",36178,-172.9845,-44.6658,11,1
 "138253",204545,"col","",142.08,47.8,"Holmsk",NA,"",1,"Chattian","",28.1,23.03,70140,"gp_mid",136.77,49.96,"610",25.565,"chattian",36203,140.1349,51.4042,11,1
@@ -218,14 +323,17 @@
 "138260",204564,"col","Torehina",175.44,-36.67,"Waitete Bay",NA,"S10/f6, S10/f7, S10/f8",21,"Chattian","",28.1,23.03,70164,"gp_mid",-174.6,-41.9,"806",25.565,"chattian",36208,-172.9845,-44.6658,11,1
 "138849",205331,"col","Otekaike Limestone",170.65,-44.64,"Sisters Creek",NA,"S118/f613",1,"Duntroonian","",27.3,25.2,70435,"gp_mid",-169.21,-46.47,"807",26.25,"chattian",36166,-175.6538,-51.0769,11,1
 "138882",205658,"col","San Julian",-66.05,-47.13,"Cape Tres Puntas (CPBA Collection)",NA,"",8,"Chattian","",28.1,23.03,70510,"gp_mid",-61.49,-46.97,"291",25.565,"chattian",31233,-61.4812,-50.759,11,1
+"139133",205720,"col","Carmen Silva",-67.83,-53.72,"Laguna Grande (Rio Grande)",NA,"",1,"Chattian","",28.1,23.03,70510,"gp_mid",-64.1,-53.44,"291",25.565,"chattian",36579,-61.2136,-55.7564,11,1
 "139321",205946,"col","Torehina",175.44,-36.67,"Waitete Bay",NA,"S10/f9512",22,"Chattian","",28.1,23.03,70621,"gp_mid",-174.6,-41.9,"806",25.565,"chattian",36208,-172.9845,-44.6658,11,1
 "139322",205947,"col","Torehina",175.44,-36.67,"Waitete Bay",NA,"S10/f9511",0,"Chattian","",28.1,23.03,70621,"gp_mid",-174.6,-41.9,"806",25.565,"chattian",36208,-172.9845,-44.6658,11,1
 "139323",205948,"col","Torehina",175.44,-36.67,"Waitete Bay",NA,"S10/f9511",6,"Chattian","",28.1,23.03,70621,"gp_mid",-174.6,-41.9,"806",25.565,"chattian",36208,-172.9845,-44.6658,11,1
 "139324",205949,"col","Torehina",175.53,-36.65,"Coromandel-Colville Road",NA,"T10/f8505",41,"Chattian","",28.1,23.03,70621,"gp_mid",-174.53,-41.86,"806",25.565,"chattian",36629,-172.9845,-44.6658,11,1
 "139325",205950,"col","Torehina",175.44,-36.67,"Waitete Bay",NA,"S10/f9",18,"Chattian","",28.1,23.03,70621,"gp_mid",-174.6,-41.9,"806",25.565,"chattian",36208,-172.9845,-44.6658,11,1
+"139907",206743,"col","Division D",-126.83,49.62,"Bajo Point",NA,"GSC 20050, 20564, 20584, 20585",19,"Chattian","",28.1,23.03,71061,"gp_mid",-116.39,56.27,"128",25.565,"chattian",36810,-118.9383,51.3104,11,1
 "139970",206865,"col","Grafenberg",6.59,51.34,"Krefeld, near",NA,"",2,"Chattian","",28.1,23.03,71195,"gp_mid",10.4,46.75,"315",25.565,"chattian",36843,2.3488,50.0026,11,1
 "139984",206894,"col","Kokoamu Greensand",170.85,-44.92,"Awamoko Creek (University of Canterbury coll.)",NA,"",1,"Duntroonian","",27.3,25.2,71189,"gp_mid",-169.01,-46.75,"807",26.25,"chattian",36850,-175.6538,-51.0769,11,1
 "139985",206895,"col","Kokoamu Greensand",170.75,-44.94,"Ngapara, North Otago (NMNZ coll.)",NA,"",1,"Duntroonian","",27.3,25.2,71189,"gp_mid",-169.11,-46.77,"807",26.25,"chattian",36851,-175.6538,-51.0769,11,1
+"139990",206900,"col","Jan Juc",144.3,-38.35,"Bird Rock (University of Canterbury coll.)",NA,"",2,"Chattian","",28.1,23.03,71189,"gp_mid",151.76,-51.06,"801",25.565,"chattian",21971,139.9737,-50.6058,11,1
 "139993",206903,"col","Abel Head",172.59,-40.54,"Kaihoka Lake Beach",NA,"",1,"Chattian","",28.1,23.03,71189,"gp_mid",-175.62,-46.31,"806",25.565,"chattian",36856,-177.291,-47.0771,11,1
 "139994",206904,"col","Abel Head",172.57,-40.56,"Kaihoka Point",NA,"",1,"Chattian","",28.1,23.03,71189,"gp_mid",-175.63,-46.32,"806",25.565,"chattian",36857,-177.291,-47.0771,11,1
 "140018",207000,"col","Chandler Bridge",-79.76,32.81,"County Road 996",NA,"",1,"Chattian","",28.1,23.03,71195,"gp_mid",-68.43,35.23,"109",25.565,"chattian",36864,-72.944,31.1455,11,1
@@ -234,5 +342,6 @@
 "141079",208607,"col","Kokoamu Greensand ",170.63,-43.08,"Onepunga",NA,"",1,"Chattian","",28.1,23.03,72000,"gp_mid",-169.24,-44.91,"807",25.565,"chattian",37118,-175.2888,-48.588,11,1
 "141080",208608,"col","Kokoamu Greensand",170.65,-44.64,"Sisters Creek",NA,"",1,"Chattian","",28.1,23.03,72000,"gp_mid",-169.21,-46.47,"807",25.565,"chattian",36166,-175.6538,-51.0769,11,1
 "141081",208609,"col","Kokoamu Greensand",170.77,-44.68,"Waihao Valley",NA,"",1,"Chattian","",28.1,23.03,72000,"gp_mid",-169.09,-46.51,"807",25.565,"chattian",37119,-175.6538,-51.0769,11,1
+"142182",210157,"col","",22.52,49.72,"Krepak",NA,"",1,"Chattian","",28.1,23.03,72472,"gp_mid",24.8,44.72,"305",25.565,"chattian",37316,16.909,48.1619,11,1
 "142908",211356,"col","Chandler Bridge",-79.83,32.93,"Wando River, Chandler Bridge Fm.",NA,"",1,"Chattian","",28.1,23.03,18797,"gp_mid",-68.49,35.36,"109",25.565,"chattian",37500,-72.944,31.1455,11,1
 "143052",211540,"col","Chandler Bridge",-80.13,32.96,"McKewn Subdivision",NA,"",14,"Chattian","",28.1,23.03,73105,"gp_mid",-68.78,35.43,"109",25.565,"chattian",37524,-72.944,31.1455,11,1

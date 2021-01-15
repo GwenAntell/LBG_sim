@@ -3,13 +3,13 @@ dir.create("./results/flat/")
 
 library(parallel)
 
-cl <- makeCluster(detectCores()-3)
+cl <- makeCluster(detectCores()-2)
 
 clusterExport(cl=cl, varlist = list("reps", "species", "flat", "libs", "sim_dist"), envir=environment())
 
 clusterEvalQ(cl = cl, expr = lapply(libs, require, character.only = TRUE)) 
 
-for(i in nlayers(flat):1){
+for(i in 1:raster::nlayers(flat)){
   r <- flat[[i]]
   name <- names(r)
   clusterExport(cl=cl, varlist = list("r"), envir=environment())

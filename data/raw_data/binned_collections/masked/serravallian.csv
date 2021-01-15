@@ -1,10 +1,13 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"4364",12120,"col","Claremont",-121.82,37.5,"Alameda Creek",NA,"V-3936",3,"Serravallian","",13.82,11.62,4176,"gp_mid",-115.57,40.29,"130",12.72,"serravallian",1397,-117.1751,37.8545,7,1
 "4908",12970,"col","Villavieja",-75.22,3.22,"UCMP Locality V4524 (La Venta Fauna)",NA,"V-4524",4,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
 "4909",12971,"col","Villavieja",-75.22,3.22,"UCMP Locality V4521 (La Venta Fauna)",NA,"",10,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
 "4910",12972,"col","Villavieja",-75.22,3.22,"Duke-ING Locality 031 (La Venta Fauna)",NA,"",3,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
 "4911",12973,"col","La Victoria",-75.22,3.22,"Duke-ING locality 040 (La Venta Fauna)",NA,"",1,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
 "4912",12974,"col","La Victoria",-75.22,3.22,"Duke-ING locality 092 (La Venta Fauna)",NA,"",1,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
 "4913",12975,"col","La Victoria",-75.22,3.22,"Duke-ING locality 041 (La Venta Fauna)",NA,"",2,"Laventan","",13.8,11.8,4293,"gp_mid",-71.62,4.01,"201",12.8,"serravallian",1483,-73.0392,0.936,7,1
+"5154",13407,"col","Choptank",-76.77,38.16,"Mud Cliffs, East of",NA,"",6,"Serravallian","",13.82,11.62,6034,"gp_mid",-70.72,39.7,"109",12.72,"serravallian",1574,-72.2418,36.6048,7,1
+"5155",13408,"col","Choptank",-76.47,38.46,"Calvert Beach Run, south of, Zone 19",NA,"",8,"Serravallian","",13.82,11.62,17218,"gp_mid",-70.39,39.98,"109",12.72,"serravallian",1575,-72.2418,36.6048,7,1
 "5252",13630,"col","Villavieja",-75.08,3.32,"El Dinde Locality 9-86-A",NA,"La Venta Locality 9-86A",3,"Laventan","",13.8,11.8,29405,"gp_mid",-71.48,4.1,"201",12.8,"serravallian",1598,-73.0392,0.936,7,1
 "5253",13650,"col","La Victoria",-75.17,3.3,"Duke Locality 70 (La Venta Fauna)",NA,"IGM 183912",3,"Laventan","",13.8,11.8,6139,"gp_mid",-71.56,4.09,"201",12.8,"serravallian",1599,-73.0392,0.936,7,1
 "5254",13651,"col","Kiyu",-56.95,-34.63,"Playa Sanchez",NA,"",1,"Serravallian","",13.82,11.62,6186,"gp_mid",-54.7,-34.38,"202",12.72,"serravallian",1600,-53.852,-36.4463,7,1
@@ -26,11 +29,69 @@
 "5286",13754,"col","La Victoria",-75.13,3.25,"Duke Locality 108 (La Venta Fauna)",NA,"",2,"Laventan","",13.8,11.8,6139,"gp_mid",-71.53,4.04,"201",12.8,"serravallian",1612,-73.0392,0.936,7,1
 "5287",13757,"col","La Victoria",-75.12,3.27,"Duke Locality 114",NA,"",2,"Laventan","",13.8,11.8,6139,"gp_mid",-71.51,4.05,"201",12.8,"serravallian",1613,-73.0392,0.936,7,1
 "9564",18505,"col","Peace River",-81.8,27.9,"American Cyanimid Company",NA,"Amalgamated Phosphate Mine; Brewster Phosphate Mine",14,"Serravallian","",13.82,11.62,2609,"gp_mid",-76.77,29.78,"109",12.72,"serravallian",2003,-80.0984,26.8396,7,1
+"9577",18518,"col","Calvert",-76.5,38.4,"Chesapeake Bay (Upper Calvert)",NA,"Cat Creek; Chesapeake Beach; Drum Cliff; Governor Run; Kenwood Beach; Long Beach; Plum Point; Randle Cliff; Scientist's Cliff",26,"Serravallian","",13.82,11.62,3383,"gp_mid",-70.42,39.92,"109",12.72,"serravallian",2006,-72.2418,36.6048,7,1
+"12254",22896,"col","",13.9,51.57,"Annahuette, Grube Heye I",NA,"",8,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.07,"305",12.72,"serravallian",2264,11.8412,51.7015,7,1
+"12255",22897,"col","",14.18,51.43,"Broethen, Tongrube Forst Neukollm",NA,"",84,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,48.93,"305",12.72,"serravallian",2265,11.8412,51.7015,7,1
+"12256",22898,"col","",14.18,51.43,"Broethen, Tongrube",NA,"",49,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,48.93,"305",12.72,"serravallian",2265,11.8412,51.7015,7,1
+"12257",22899,"col","",13.77,51.73,"Crinitz, Tongrube NW Bahnhof",NA,"",79,"Serravallian","",13.82,11.62,6592,"gp_mid",15.47,49.24,"305",12.72,"serravallian",2266,11.8412,51.7015,7,1
+"12284",22927,"col","",13.73,51.73,"Gahro bei Luckau, Grube Moritz",NA,"",1,"Serravallian","",13.82,11.62,6592,"gp_mid",15.44,49.24,"305",12.72,"serravallian",2269,11.8412,51.7015,7,1
+"12285",22928,"col","",13.65,51.8,"Gehren, Ziegeleigrube",NA,"",9,"Serravallian","",13.82,11.62,6592,"gp_mid",15.37,49.3,"305",12.72,"serravallian",2270,11.8412,51.7015,7,1
+"12286",22929,"col","",13.75,51.55,"Gohra-Lichterfeld, Grube Elfriede",NA,"",7,"Serravallian","",13.82,11.62,6592,"gp_mid",15.45,49.05,"305",12.72,"serravallian",2271,11.8412,51.7015,7,1
+"12341",23025,"col","",14,51.58,"Grossraeschen, Tongrube Ilse",NA,"",50,"Serravallian","",13.82,11.62,6592,"gp_mid",15.69,49.08,"305",12.72,"serravallian",2291,11.8412,51.7015,7,1
+"12342",23041,"col","",13.53,51.45,"Grossraeschen, Grube Victoria 1",NA,"",12,"Serravallian","",13.82,11.62,6592,"gp_mid",15.24,48.96,"305",12.72,"serravallian",2292,11.8412,51.7015,7,1
+"12343",23042,"col","",14,51.58,"Grossraeschen- Sued, Tongrube Renate-Ost",NA,"",40,"Serravallian","",13.82,11.62,6592,"gp_mid",15.69,49.08,"305",12.72,"serravallian",2291,11.8412,51.7015,7,1
+"12345",23044,"col","",13.95,51.52,"Hoerlitz bei Senftenberg, Grube Hoerlitzer Flur",NA,"",7,"Serravallian","",13.82,11.62,6592,"gp_mid",15.64,49.02,"305",12.72,"serravallian",2294,11.8412,51.7015,7,1
+"12346",23045,"col","",14.2,51.6,"Kausche, Grube Mariannensglueck (Flora A)",NA,"Kauschegrube or Grube Clara 1",43,"Serravallian","",13.82,11.62,6592,"gp_mid",15.88,49.09,"305",12.72,"serravallian",2295,11.8412,51.7015,7,1
+"12347",23046,"col","",14.2,51.6,"Kausche, Grube Klara 2 (Flora A)",NA,"",20,"Serravallian","",13.82,11.62,6592,"gp_mid",15.88,49.09,"305",12.72,"serravallian",2295,11.8412,51.7015,7,1
+"12348",23047,"col","",13.75,51.55,"Kleinleipisch, Grube Hildegard",NA,"",2,"Serravallian","",13.82,11.62,6592,"gp_mid",15.45,49.05,"305",12.72,"serravallian",2271,11.8412,51.7015,7,1
+"12350",23050,"col","",13.75,51.55,"Kleinleipisch, Tagebau- Fundstelle 2",NA,"",47,"Serravallian","",13.82,11.62,6592,"gp_mid",15.45,49.05,"305",12.72,"serravallian",2271,11.8412,51.7015,7,1
+"12352",23054,"col","",13.75,51.55,"Kleinleipisch, Roemerkeller (Tagebau)",NA,"",67,"Serravallian","",13.82,11.62,6592,"gp_mid",15.45,49.05,"305",12.72,"serravallian",2271,11.8412,51.7015,7,1
+"12353",23055,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundstelle 1",NA,"",64,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12354",23056,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundstelle 2",NA,"",117,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12355",23058,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundstelle 3",NA,"",78,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12356",23059,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 4",NA,"",40,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12461",23348,"col","",14.2,51.6,"Kausche, Grube Mariannensglueck (Flora B)",NA,"Kauschegrube or Grube Clara 1",22,"Serravallian","",13.82,11.62,6592,"gp_mid",15.88,49.09,"305",12.72,"serravallian",2295,11.8412,51.7015,7,1
+"12462",23352,"col","",14.2,51.6,"Kausche, Grube Mariannensglueck (Flora C)",NA,"Kauschegrube or Grube Clara 1",5,"Serravallian","",13.82,11.62,6592,"gp_mid",15.88,49.09,"305",12.72,"serravallian",2295,11.8412,51.7015,7,1
+"12463",23355,"col","",14.2,51.6,"Kausche, Grube Klara 2 (Flora B)",NA,"",75,"Serravallian","",13.82,11.62,6592,"gp_mid",15.88,49.09,"305",12.72,"serravallian",2295,11.8412,51.7015,7,1
+"12537",23598,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 7 (Flora A)",NA,"",37,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12538",23608,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 7/8 (Flora B)",NA,"",17,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12539",23609,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 8 (Flora A)",NA,"",35,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12540",23610,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 8 (Flora B)",NA,"Fundpunkt 8",19,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12541",23611,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 10",NA,"",86,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12542",23616,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 11",NA,"",32,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12543",23618,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 12",NA,"",88,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12550",23652,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 13",NA,"",45,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12551",23654,"col","",13.9,51.55,"Klettwitz, Tagebau- Fundpunkt 14",NA,"",10,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12552",23657,"col","",13.9,51.55,"Klettwitz, suedliche Brikettfabrik Poley",NA,"",7,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12553",23661,"col","",13.9,51.55,"Klettwitz- Nord, Tagebau",NA,"",51,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12555",23665,"col","",13.9,51.55,"Klettwitz, Grube Wilhelminensglueck (Flora A)",NA,"",9,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12556",23666,"col","",13.9,51.55,"Klettwitz, Grube Wilhelminensglueck (Flora B)",NA,"",18,"Serravallian","",13.82,11.62,6592,"gp_mid",15.59,49.05,"305",12.72,"serravallian",2297,11.8412,51.7015,7,1
+"12562",23681,"col","",14.7,51.52,"Krauschwitz, Tongrube VEB Steinzeugwerk",NA,"",15,"Serravallian","",13.82,11.62,6592,"gp_mid",16.35,49,"305",12.72,"serravallian",2334,11.8412,51.7015,7,1
+"13860",27011,"col","",13.93,51.55,"Meurostollen",NA,"",34,"Serravallian","",13.82,11.62,6592,"gp_mid",15.62,49.05,"305",12.72,"serravallian",2681,11.8412,51.7015,7,1
+"13862",27013,"col","",14.6,51.33,"Nochten, Tagebau Muehlrose, loc A",NA,"",64,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.82,"305",12.72,"serravallian",2683,11.8412,51.7015,7,1
+"13864",27015,"col","",14.6,51.43,"Nochten B",NA,"",2,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13865",27016,"col","",14.6,51.43,"Nochten C",NA,"",15,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13884",27063,"col","",14.6,51.43,"Nochten D",NA,"",15,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13887",27066,"col","",14.6,51.43,"Nochten 6/71",NA,"",14,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13936",27278,"col","",14.6,51.43,"Nochten - W 1375/66",NA,"",6,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13990",27376,"col","",14.6,51.43,"Nochten - W 1417/67",NA,"",20,"Serravallian","",13.82,11.62,6592,"gp_mid",16.25,48.92,"305",12.72,"serravallian",2685,11.8412,51.7015,7,1
+"13993",27379,"col","",14,51.55,"Rauno",NA,"",34,"Serravallian","",13.82,11.62,6592,"gp_mid",15.69,49.05,"305",12.72,"serravallian",2718,11.8412,51.7015,7,1
+"13995",27381,"col","",14.78,51.4,"Rietschen",NA,"",70,"Serravallian","",13.82,11.62,6592,"gp_mid",16.42,48.88,"305",12.72,"serravallian",2719,11.8412,51.7015,7,1
+"14028",27512,"col","",13.88,51.52,"Schipkau",NA,"",50,"Serravallian","",13.82,11.62,6592,"gp_mid",15.57,49.02,"305",12.72,"serravallian",2722,11.8412,51.7015,7,1
+"14029",27513,"col","",14.07,51.55,"Sedlitz",NA,"",2,"Serravallian","",13.82,11.62,6592,"gp_mid",15.75,49.05,"305",12.72,"serravallian",2723,11.8412,51.7015,7,1
+"14030",27514,"col","",14.02,51.52,"Senftenberg A",NA,"",19,"Serravallian","",13.82,11.62,6592,"gp_mid",15.7,49.01,"305",12.72,"serravallian",2724,11.8412,51.7015,7,1
+"14031",27515,"col","",14.42,51.53,"Spreetal NSL 30/64",NA,"",27,"Serravallian","",13.82,11.62,6592,"gp_mid",16.08,49.02,"305",12.72,"serravallian",2725,11.8412,51.7015,7,1
+"14038",27522,"col","",14.18,51.57,"Wezlow",NA,"",6,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,49.06,"305",12.72,"serravallian",2731,11.8412,51.7015,7,1
+"14039",27523,"col","",14.18,51.57,"Welzow B",NA,"",23,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,49.06,"305",12.72,"serravallian",2731,11.8412,51.7015,7,1
+"14040",27524,"col","",14.18,51.57,"Welzow C",NA,"",59,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,49.06,"305",12.72,"serravallian",2731,11.8412,51.7015,7,1
+"14042",27526,"col","",14.18,51.57,"Welzow UGNL 15/58 Flora A",NA,"",14,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,49.06,"305",12.72,"serravallian",2731,11.8412,51.7015,7,1
+"14044",27528,"col","",14.18,51.57,"Welzow UGNL 15/58 Flora B",NA,"",28,"Serravallian","",13.82,11.62,6592,"gp_mid",15.86,49.06,"305",12.72,"serravallian",2731,11.8412,51.7015,7,1
 "19849",34469,"col","",4.12,40.1,"Dins es Guix, Menorca",NA,"Reef 756",11,"Serravallian","",13.82,11.62,9082,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",3950,1.4052,38.9057,7,1
 "20044",34739,"col","",18.92,47.37,"Diosd",NA,"Reef 3021",115,"Serravallian","",13.82,11.62,9218,"gp_mid",20.86,43.95,"308",12.72,"serravallian",4010,15.8278,46.7984,7,1
 "20248",35023,"col","Peace River",-82.14,26.92,"Peace River Formation (unspecified) of Oyen & Portell",NA,"",2,"Serravallian","",13.82,11.62,9411,"gp_mid",-77.2,28.82,"109",12.72,"serravallian",4055,-80.0984,26.8396,7,1
 "21574",36889,"col","",2.48,42.5,"Lo Fournas 2, Baixas area",NA,"Baixas'",7,"Serravallian","",13.82,11.62,9874,"gp_mid",4.24,40.26,"304",12.72,"serravallian",4380,1.3122,41.4047,7,1
 "21646",36976,"col","",2.48,42,"Lo Fournas 3, Baixas area",NA,"Baixas'",6,"Serravallian","",13.82,11.62,9874,"gp_mid",4.22,39.76,"304",12.72,"serravallian",4401,1.3122,41.4047,7,1
+"21856",37348,"col","Choptank",-76.43,38.43,"South of Camp Conoy Road, Zone 17-18",NA,"",1,"Serravallian","",13.82,11.62,10019,"gp_mid",-70.35,39.94,"109",12.72,"serravallian",4450,-72.2418,36.6048,7,1
 "21877",37374,"col","Torrente Meduna Siltstone",12.8,46.22,"Torrente Meduna sample 12",NA,"Venus-Conus community sample 12",15,"Serravallian","",13.82,11.62,10020,"gp_mid",15.01,43.01,"307",12.72,"serravallian",4457,10.1098,43.4628,7,1
 "22002",37542,"col","San Margarita",-122.07,37.05,"Felton (M5155/M5086)",NA,"USGS M5155/M5086",9,"Serravallian","",13.82,11.62,10039,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",4507,-114.7996,33.7314,7,1
 "22003",37543,"col","San Margarita",-122.06,37.06,"Felton (M5052/M5053)",NA,"USGS M5052/M5053",6,"Serravallian","",13.82,11.62,10039,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",4508,-114.7996,33.7314,7,1
@@ -89,8 +150,17 @@
 "31013",48656,"col","Salsomaggiore",10.03,44.73,"Visiano",NA,"",21,"Serravallian","",13.82,11.62,12984,"gp_mid",12.28,41.64,"307",12.72,"serravallian",7332,10.1098,43.4628,7,1
 "31532",49401,"col","",10.33,44.42,"Santa Maria del Piano",NA,"",1,"Serravallian","",13.82,11.62,13196,"gp_mid",12.54,41.31,"307",12.72,"serravallian",7497,10.1098,43.4628,7,1
 "31718",49685,"col","",48.28,42.12,"Derbent",NA,"",5,"Serravallian","",13.82,11.62,13627,"gp_mid",48.26,39.43,"402",12.72,"serravallian",7556,45.9186,42.6239,7,1
+"33011",51386,"col","Port Campbell Limestone",143.12,-38.67,"Gibson's Steps",NA,"",1,"Serravallian","",13.82,11.62,13672,"gp_mid",145.9,-46.06,"801",12.72,"serravallian",7881,140.6143,-43.7908,7,1
+"33307",51716,"col","Calvert",-76.51,38.52,"Locality 402 (Calvert Beach Mbr, Calvert Fm)",NA,"Scientists Cliffs",4,"Serravallian","",13.82,11.62,13777,"gp_mid",-70.42,40.04,"109",12.72,"serravallian",7967,-72.2418,36.6048,7,1
+"33316",51725,"col","Choptank",-76.54,38.42,"Locality 413 (Drumcliff Mbr, Choptank Fm)",NA,"",2,"Serravallian","",13.82,11.62,13777,"gp_mid",-70.46,39.94,"109",12.72,"serravallian",7970,-72.2418,36.6048,7,1
+"33317",51726,"col","Choptank",-76.41,38.32,"Locality 412 (Drumcliff Mbr, Choptank Fm)",NA,"Patuxent River",2,"Serravallian","",13.82,11.62,13777,"gp_mid",-70.33,39.83,"109",12.72,"serravallian",7971,-72.2418,36.6048,7,1
 "33626",52069,"col","",18.92,47.37,"Erd",NA,"Ki",2,"Serravallian","",13.82,11.62,12301,"gp_mid",20.86,43.95,"308",12.72,"serravallian",4010,15.8278,46.7984,7,1
+"33728",52167,"col","Gatun",-79.81,9.34,"Woodring Loc. 135 - Sabanita [lower Gatun Fm]",NA,"USGS 17690",4,"Serravallian","",13.82,11.62,11306,"gp_mid",-76.62,10.57,"230",12.72,"serravallian",8074,-81.1781,9.2212,7,1
+"35181",53672,"col","",-9.18,38.45,"Penedo Norte",NA,"Bicas beach",2,"Serravallian","",13.82,11.62,14477,"gp_mid",-7.28,36.57,"304",12.72,"serravallian",8561,-9.5784,36.1882,7,1
 "35404",53894,"col","Glimmerton",10.56,53.52,"Grosse-Pampau",NA,"Gross Pampau",9,"Serravallian","",13.82,11.62,27024,"gp_mid",12.53,51.09,"315",12.72,"serravallian",8608,8.1642,51.6119,7,1
+"35641",54169,"col","",-9.19,38.67,"Palença de Baixo",NA,"Almada",1,"Serravallian","",13.82,11.62,14646,"gp_mid",-7.27,36.8,"304",12.72,"serravallian",8656,-9.5784,36.1882,7,1
+"35643",54171,"col","",-9.23,38.65,"Costa de Caparica",NA,"Fonte de Pipa",5,"Serravallian","",13.82,11.62,14646,"gp_mid",-7.32,36.77,"304",12.72,"serravallian",8658,-9.5784,36.1882,7,1
+"35644",54172,"col","",-9.11,38.1,"Ceramica Dias Coelho",NA,"",3,"Serravallian","",13.82,11.62,14646,"gp_mid",-7.23,36.22,"304",12.72,"serravallian",8659,-9.5784,36.1882,7,1
 "36013",55599,"col","Parana",-60.23,-31.38,"Parana, Pueblo Brugo to Diamante, Parana Fm.",NA,"",24,"Serravallian","",13.82,11.62,15016,"gp_mid",-57.83,-31.03,"202",12.72,"serravallian",8785,-57.7042,-33.9831,7,1
 "36854",56738,"col","",41.94,44.41,"Belomechetskaia",NA,"Belomechetskaya",50,"MN 6","",13.65,12.75,15296,"gp_mid",42.16,41.69,"302",13.2,"serravallian",8921,38.287,44.9101,7,1
 "36982",56951,"col","Haraichi",138.98,36.25,"Nakajima",NA,"Yoshii",2,"Serravallian","",13.82,11.62,15356,"gp_mid",136.69,35.97,"610",12.72,"serravallian",8957,136.7549,39.6235,7,1
@@ -102,20 +172,68 @@
 "38903",58987,"col","Temblor",-118.92,35.46,"LACM 1557",NA,"UCMP V-6323, LACM 1625, UCMP V-6324, UCMP V-6843, UCMP V-68131, LACM 7116, UCMP V-69169",5,"Serravallian","",13.82,11.62,16736,"gp_mid",-112.59,38.22,"130",12.72,"serravallian",9399,-114.3969,32.6447,7,1
 "39089",59181,"col","Tsurushi",138.24,38.03,"Do-no-kama",NA,"",7,"Serravallian","",13.82,11.62,16919,"gp_mid",135.86,37.73,"610",12.72,"serravallian",9450,136.7549,39.6235,7,1
 "39090",59182,"col","Aoki",137.9,36.3,"Kashiwa-zawa",NA,"Toyoshina-cho",1,"Serravallian","",13.82,11.62,16919,"gp_mid",135.61,35.99,"610",12.72,"serravallian",9451,136.7549,39.6235,7,1
+"39947",60238,"col","",37.53,47.12,"Gnilozubovo",NA,"Gnylozubovo, Bobrinets",1,"Serravallian","",13.82,11.62,60839,"gp_mid",37.94,44.39,"302",12.72,"serravallian",9631,34.4032,47.3026,7,1
+"39951",60243,"col","",34.4,47.49,"Kamenka-Dneprovskaya",NA,"",1,"Serravallian","",13.82,11.62,60839,"gp_mid",34.96,44.77,"302",12.72,"serravallian",9635,30.6741,47.1982,7,1
 "39952",60244,"col","",36.38,45.2,"Tobechnik",NA,"Uzunlar, Ossovinu, Kyz-Aul, Kamysh-Burun",4,"Serravallian","",13.82,11.62,17253,"gp_mid",36.84,42.47,"302",12.72,"serravallian",9636,34.5492,44.8047,7,1
+"39953",60246,"col","",32.79,46.93,"Kirovo",NA,"",2,"Serravallian","",13.82,11.62,17253,"gp_mid",33.42,44.22,"302",12.72,"serravallian",9637,30.6741,47.1982,7,1
 "39955",60248,"col","",36.4,45.46,"Mount Mitridat",NA,"",2,"Serravallian","",13.82,11.62,17253,"gp_mid",36.86,42.73,"302",12.72,"serravallian",9639,34.5492,44.8047,7,1
+"39956",60249,"col","",34.42,46.97,"Novoaleksandrovka",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",34.98,44.25,"302",12.72,"serravallian",9640,30.6741,47.1982,7,1
+"39957",60250,"col","",33.91,47.55,"Novovorontsovka",NA,"",2,"Serravallian","",13.82,11.62,17253,"gp_mid",34.5,44.83,"302",12.72,"serravallian",9641,30.6741,47.1982,7,1
+"39961",60254,"col","",32.49,45.35,"Olenevka",NA,"Tarchankut, Cape Tarkhan",4,"Serravallian","",13.82,11.62,17253,"gp_mid",33.12,42.63,"302",12.72,"serravallian",9644,30.8182,44.7002,7,1
+"39963",60256,"col","",33.01,46.78,"Tyagnika",NA,"",19,"Serravallian","",13.82,11.62,17253,"gp_mid",33.63,44.06,"302",12.72,"serravallian",9645,30.6741,47.1982,7,1
+"39964",60257,"col","",35.26,47.39,"Vasilyevka",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",35.78,44.67,"302",12.72,"serravallian",9646,30.6741,47.1982,7,1
+"39965",60258,"col","",33.95,47.18,"Velikaya Lepeticha",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",34.53,44.46,"302",12.72,"serravallian",9647,30.6741,47.1982,7,1
+"39967",60260,"col","",37.63,47.12,"Maryupol",NA,"Zhdanov, Mariupol'",1,"Serravallian","",13.82,11.62,17253,"gp_mid",38.03,44.4,"302",12.72,"serravallian",9648,34.4032,47.3026,7,1
+"39970",60263,"col","",34.93,48.53,"Zheltokamenka",NA,"",17,"Serravallian","",13.82,11.62,24838,"gp_mid",35.47,45.81,"302",12.72,"serravallian",9649,30.6741,47.1982,7,1
+"39972",60265,"col","",33.97,47.38,"Zolotaya Balka",NA,"",2,"Serravallian","",13.82,11.62,17253,"gp_mid",34.55,44.66,"302",12.72,"serravallian",9650,30.6741,47.1982,7,1
+"39973",60266,"col","",28.77,47.09,"Gidigich",NA,"Gidigish, Gidignitsy, Ghidighici",1,"Serravallian","",13.82,11.62,17253,"gp_mid",29.59,44.4,"302",12.72,"serravallian",9651,26.9522,47.0951,7,1
+"39976",60269,"col","",31.2,47.07,"Kayiry",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",31.91,44.36,"302",12.72,"serravallian",9653,26.9522,47.0951,7,1
+"39977",60270,"col","",29.11,47.31,"Kuchiyery",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",29.92,44.61,"302",12.72,"serravallian",9654,26.9522,47.0951,7,1
+"39978",60271,"col","",29.63,46.85,"Tiraspol",NA,"",9,"Serravallian","",13.82,11.62,17253,"gp_mid",30.41,44.15,"302",12.72,"serravallian",9655,26.9522,47.0951,7,1
+"39979",60272,"col","",42,47.7,"Tsymlyansk",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",42.19,44.98,"302",12.72,"serravallian",9656,38.1397,47.4081,7,1
 "39980",60273,"col","",49.5,40.53,"Perekishkyul, Miocene",NA,"",3,"Serravallian","",13.82,11.62,12757,"gp_mid",49.45,37.85,"402",12.72,"serravallian",9657,46.0437,40.1257,7,1
 "39987",60280,"col","",28.07,44.09,"Dobrogea",NA,"Adamclici, Andincata, Cavarna, Ciobanita, Credinta, South Dobrogea, Constanza, Varna, Urluia, Sipote, Plopeni, Credinta, Casicea, Cotu Vaii",7,"Serravallian","",13.82,11.62,26985,"gp_mid",29.3,40.42,"308",12.72,"serravallian",9661,23.3759,44.4957,7,1
+"40073",60376,"col","Choptank",-76.57,38.39,"Jones Wharf, Zone 17-18",NA,"Drumcliff",37,"Serravallian","",13.82,11.62,15352,"gp_mid",-70.5,39.91,"109",12.72,"serravallian",9682,-72.2418,36.6048,7,1
+"44028",65920,"col","",-9.12,38.72,"Barreiro da Vila Dias",NA,"",1,"MN 6","",13.65,12.75,18869,"gp_mid",-7.2,36.84,"304",13.2,"serravallian",10629,-9.5784,36.1882,7,1
+"44041",65934,"col","",-9.12,38.72,"Vale de Chelas",NA,"",1,"MN 6","",13.65,12.75,18869,"gp_mid",-7.2,36.85,"304",13.2,"serravallian",10629,-9.5784,36.1882,7,1
+"44064",65957,"col","Lagos Portimao",-8.67,37.1,"Lagos",NA,"Praia do Canavial",1,"Serravallian","",13.82,11.62,18869,"gp_mid",-6.86,35.21,"304",12.72,"serravallian",10645,-9.5784,36.1882,7,1
 "44129",66064,"col","",50.8,44.41,"Manguishlak",NA,"Mangyshlak, Uira-Tam, Kyrk-Kysiak",2,"Serravallian","",13.82,11.62,18919,"gp_mid",50.63,41.75,"402",12.72,"serravallian",10658,49.5416,45.2275,7,1
 "45524",68118,"col","",19.7,47.92,"Hasznos",NA,"",20,"MN 6","",13.65,12.75,19521,"gp_mid",21.63,44.47,"308",13.2,"serravallian",11049,15.8278,46.7984,7,1
+"45646",68263,"col","Coquimbo",-71.5,-30.33,"Tongoy area, Coquimbo Formation, Unit 3",NA,"",7,"Serravallian","",13.82,11.62,19640,"gp_mid",-68.98,-29.64,"291",12.72,"serravallian",11083,-69.1644,-31.5538,7,1
 "46319",68970,"col","Shoal River",-86.17,30.63,"AMNH Loc. 988 - Shell Bluff [Shoal River Fm]",NA,"",62,"Serravallian","",13.82,11.62,19909,"gp_mid",-81,32.76,"109",12.72,"serravallian",11262,-83.7222,29.4568,7,1
 "46715",69711,"col","",17.02,48.2,"Zapfe's fissures",NA,"Neudorf-Spalte, Stockerau limestone quarry, Devínska Nová Ves [= Neudorf a. d. March]",59,"MN 6","",13.65,12.75,23390,"gp_mid",19.13,44.84,"308",13.2,"serravallian",11428,15.8278,46.7984,7,1
 "46720",69716,"col","",17.01,48.2,"Dubravska hlavica",NA,"",3,"Serravallian","",13.82,11.62,23390,"gp_mid",19.12,44.84,"308",12.72,"serravallian",11429,15.8278,46.7984,7,1
+"46929",70048,"col","",24.55,43.48,"Bivolare reef, Pleven, NW Bulgaria",NA,"Reef 1624",17,"Badenian","",13.65,12.7,23516,"gp_mid",25.95,39.9,"308",13.175,"serravallian",11487,23.5031,41.9974,7,1
 "47234",70509,"col","",26.46,46.43,"Janezeva Gorca",NA,"Bizeljsko",8,"Badenian","",13.65,12.7,23681,"gp_mid",27.38,43.75,"302",13.175,"serravallian",11545,23.2373,46.9938,7,1
+"47271",70546,"col","Choptank",-76.44,38.44,"Calvert Cliffs Nuclear Power Plant, Zone 17",NA,"",60,"Serravallian","",13.82,11.62,23667,"gp_mid",-70.36,39.95,"109",12.72,"serravallian",11558,-72.2418,36.6048,7,1
+"47272",71816,"col","Choptank",-76.51,38.52,"Scientists Cliffs, Zone 17-18",NA,"",1,"Serravallian","",13.82,11.62,24251,"gp_mid",-70.42,40.04,"109",12.72,"serravallian",7967,-72.2418,36.6048,7,1
 "47295",70570,"col","",27.15,47.95,"Ripiceni, Prut Valley, serpulid-microbialite mud-mounds, Moldavia",NA,"Reef 3575",8,"Serravallian","",13.82,11.62,23687,"gp_mid",28.07,45.27,"302",12.72,"serravallian",11569,23.2373,46.9938,7,1
 "47300",70575,"col","",22.68,47.13,"Plopis Mountains, Simleu Basin, Salaj",NA,"Reef 3576",20,"Serravallian","",13.82,11.62,23692,"gp_mid",24.38,43.6,"308",12.72,"serravallian",11571,19.5293,46.8948,7,1
 "47331",70617,"col","",23.3,45.17,"Schela, serpulid-microbial bioherms, S Carpathians, Gorj",NA,"Reef 3577",8,"Serravallian","",13.82,11.62,23692,"gp_mid",24.85,41.62,"308",12.72,"serravallian",11578,19.6643,44.3966,7,1
 "47332",70618,"col","",27.22,47.82,"North Moldavian Platform, Prut Valley, serpulid-microbialite bioherms, Moldavia",NA,"Reef 3575",9,"Serravallian","",13.82,11.62,23692,"gp_mid",28.13,45.14,"302",12.72,"serravallian",11579,23.2373,46.9938,7,1
+"47518",70830,"col","Choptank",-76.52,38.53,"Parker Creek, south, Zone 17",NA,"",31,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.05,"109",12.72,"serravallian",11604,-72.2418,36.6048,7,1
+"47519",70831,"col","Choptank",-76.52,38.53,"Parker Creek, south, Zone 17",NA,"",1,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.05,"109",12.72,"serravallian",11604,-72.2418,36.6048,7,1
+"47520",70832,"col","Choptank",-76.52,38.53,"Parker Creek, south, Zone 19",NA,"",16,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.05,"109",12.72,"serravallian",11604,-72.2418,36.6048,7,1
+"47521",70833,"col","Choptank",-76.52,38.53,"Parker Creek, south, Zone 20",NA,"",0,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.05,"109",12.72,"serravallian",11604,-72.2418,36.6048,7,1
+"47526",70838,"col","Calvert",-76.51,38.5,"Governor Run, Zone 17",NA,"",5,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.02,"109",12.72,"serravallian",11605,-72.2418,36.6048,7,1
+"47527",70840,"col","Calvert",-76.51,38.5,"Governor Run, Zone 19",NA,"",0,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.02,"109",12.72,"serravallian",11605,-72.2418,36.6048,7,1
+"47528",70841,"col","Calvert",-76.51,38.5,"Governor Run, Zone 20",NA,"",0,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,40.02,"109",12.72,"serravallian",11605,-72.2418,36.6048,7,1
+"47530",70843,"col","Calvert",-76.48,38.47,"Governor Run, south, Zone 17",NA,"Calvert Beach north, Matoaka Cottages",6,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.4,39.99,"109",12.72,"serravallian",11607,-72.2418,36.6048,7,1
+"47531",70844,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 17",NA,"",19,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"47532",70845,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 18",NA,"",6,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"47533",70846,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 19",NA,"",30,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"47534",70847,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 20",NA,"",3,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"47535",70848,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 21",NA,"",1,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"47541",70854,"col","Choptank",-76.5,38.38,"Saint Leonard Creek, Zone 17",NA,"St. Leonards Creek",9,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.42,39.9,"109",12.72,"serravallian",11612,-72.2418,36.6048,7,1
+"47542",70855,"col","Choptank",-76.57,38.39,"Jones Wharf, Zone 19",NA,"Drumcliff",12,"Serravallian","",13.82,11.62,23697,"gp_mid",-70.5,39.91,"109",12.72,"serravallian",9682,-72.2418,36.6048,7,1
+"47543",70856,"col","Choptank",-76.02,38.73,"Boston Cliffs",NA,"",16,"Serravallian","",13.82,11.62,23697,"gp_mid",-69.89,40.22,"109",12.72,"serravallian",11613,-72.2418,36.6048,7,1
+"48109",71638,"col","Choptank",-76.48,38.36,"Hellen Creek, Zone 19",NA,"",4,"Serravallian","",13.82,11.62,16985,"gp_mid",-70.4,39.87,"109",12.72,"serravallian",11755,-72.2418,36.6048,7,1
+"48110",71639,"col","Choptank",-76.48,38.36,"Hellen Creek, Zone 20",NA,"",2,"Serravallian","",13.82,11.62,16985,"gp_mid",-70.4,39.87,"109",12.72,"serravallian",11755,-72.2418,36.6048,7,1
+"48113",71643,"col","Choptank",-76.8,38.17,"Haulover Inlet, Zone 19",NA,"",8,"Serravallian","",13.82,11.62,16985,"gp_mid",-70.75,39.71,"109",12.72,"serravallian",11758,-72.2418,36.6048,7,1
+"48212",71815,"col","Choptank",-76.43,38.43,"South of Camp Conoy Road, Zone 19",NA,"",2,"Serravallian","",13.82,11.62,24251,"gp_mid",-70.35,39.94,"109",12.72,"serravallian",4450,-72.2418,36.6048,7,1
+"48213",71817,"col","Choptank",-76.87,38.17,"Horsehead Cliffs, Zone 17-18",NA,"Westmoreland State Park\r\n",3,"Serravallian","",13.82,11.62,24251,"gp_mid",-70.82,39.71,"109",12.72,"serravallian",11785,-72.2418,36.6048,7,1
+"48214",71818,"col","Choptank",-76.8,38.17,"Haulover Inlet, Zone 17-18",NA,"",1,"Serravallian","",13.82,11.62,24251,"gp_mid",-70.75,39.71,"109",12.72,"serravallian",11758,-72.2418,36.6048,7,1
+"48215",71819,"col","Choptank",-76.42,38.41,"Rocky Point, Zone 19",NA,"",3,"Serravallian","",13.82,11.62,24251,"gp_mid",-70.33,39.93,"109",12.72,"serravallian",11786,-72.2418,36.6048,7,1
 "48270",71874,"col","Pakhna",32.8,34.78,"Loc. 1, Hill near Pakhna",NA,"",7,"Serravallian","",13.82,11.62,24293,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",11818,31.0246,33.6578,7,1
 "48276",71880,"col","",32.85,34.67,"Loc. 3, Limassol-Paphos",NA,"",8,"Serravallian","",13.82,11.62,24293,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",11823,31.0246,33.6578,7,1
 "48277",71881,"col","",32.92,34.75,"Loc. 5, Kolossi-Trimiklini",NA,"",16,"Serravallian","",13.82,11.62,24293,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",11824,31.0246,33.6578,7,1
@@ -141,6 +259,7 @@
 "48553",72257,"col","",27.25,47.5,"North Moldavia",NA,"",7,"Badenian","",13.65,12.7,24455,"gp_mid",28.15,44.82,"302",13.175,"serravallian",11905,23.2373,46.9938,7,1
 "48554",72258,"col","",26,44.75,"Subcarpathians of Muntenia",NA,"",3,"Badenian","",13.65,12.7,24455,"gp_mid",27.38,41.13,"308",13.175,"serravallian",11906,23.3759,44.4957,7,1
 "48555",72259,"col","",23.5,44.5,"Oltenia",NA,"",7,"Badenian","",13.65,12.7,24455,"gp_mid",25.01,40.95,"308",13.175,"serravallian",11907,19.6643,44.3966,7,1
+"48556",72262,"col","Tachikaraushinai",142.61,44.72,"Utanobori Site",NA,"Kamitokushibetsu",1,"Serravallian","",13.82,11.62,61954,"gp_mid",139.81,44.56,"609",12.72,"serravallian",11908,141.2794,46.7198,7,1
 "48679",73135,"col","",16.97,48.2,"Devinska Nova Ves, brickyard",NA,"",12,"Badenian","",13.65,12.7,24572,"gp_mid",19.09,44.84,"308",13.175,"serravallian",11933,15.8278,46.7984,7,1
 "48681",73137,"col","",16.97,48.2,"Devinska Nova Ves, Sandberg",NA,"",74,"Badenian","",13.65,12.7,24572,"gp_mid",19.09,44.84,"308",13.175,"serravallian",11933,15.8278,46.7984,7,1
 "48682",73138,"col","",16.97,48.2,"Devinska Nova Ves, vineyard",NA,"",36,"Badenian","",13.65,12.7,24572,"gp_mid",19.09,44.84,"308",13.175,"serravallian",11933,15.8278,46.7984,7,1
@@ -151,6 +270,11 @@
 "50002",75060,"col","Ladera",-122.2,37.42,"Stanford Linear Accelerator Center",NA,"UCMP V68129",2,"Serravallian","",13.82,11.62,25324,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",12259,-114.7996,33.7314,7,1
 "50027",75152,"col","",6.67,52.04,"Zwilbroek",NA,"Wiegerink, Zwillbrock",46,"Serravallian","",13.82,11.62,25229,"gp_mid",8.76,49.7,"315",12.72,"serravallian",12269,4.4941,51.5261,7,1
 "50071",75264,"col","",6.65,52.1,"Eibergen",NA,"",3,"Serravallian","",13.82,11.62,25229,"gp_mid",8.74,49.75,"315",12.72,"serravallian",12275,4.4941,51.5261,7,1
+"50402",75786,"col","",29.85,47.08,"Grossulovo",NA,"",7,"Serravallian","",13.82,11.62,24838,"gp_mid",30.62,44.38,"302",12.72,"serravallian",12369,26.9522,47.0951,7,1
+"50403",75787,"col","",33.36,47.89,"Krivoy Rog, Rudnev quarry",NA,"Kryvyi Rih",1,"Serravallian","",13.82,11.62,24838,"gp_mid",33.97,45.18,"302",12.72,"serravallian",12370,30.6741,47.1982,7,1
+"50404",75788,"col","",33.36,47.89,"Alexsandr Dar",NA,"",5,"Serravallian","",13.82,11.62,24838,"gp_mid",33.97,45.18,"302",12.72,"serravallian",12370,30.6741,47.1982,7,1
+"50405",75789,"col","",32.98,47.12,"Kalinindorf",NA,"",1,"Serravallian","",13.82,11.62,24838,"gp_mid",33.61,44.4,"302",12.72,"serravallian",12371,30.6741,47.1982,7,1
+"50406",75790,"col","",29.96,47.72,"Chernovo, Anan'yev",NA,"",1,"Serravallian","",13.82,11.62,24838,"gp_mid",30.74,45.02,"302",12.72,"serravallian",12372,26.9522,47.0951,7,1
 "50563",75999,"col","Kunnui",140.01,42.42,"Imakane",NA,"",1,"Serravallian","",13.82,11.62,12148,"gp_mid",137.37,42.18,"610",12.72,"serravallian",12449,137.5428,44.1932,7,1
 "50590",76038,"col","Mushizaki",137.04,37.09,"Nanao, Miocene",NA,"",1,"Serravallian","",13.82,11.62,12148,"gp_mid",134.72,36.75,"610",12.72,"serravallian",12462,136.7549,39.6235,7,1
 "51787",78510,"col","Pisco",-75.72,-14.34,"Cerro Jato",NA,"",1,"Serravallian","",13.82,11.62,26394,"gp_mid",-72.63,-13.53,"201",12.72,"serravallian",12853,-73.0076,-16.5639,7,1
@@ -175,6 +299,7 @@
 "51910",78666,"col","",27.25,47.87,"Duruitor bioherm",NA,"Reef 961",4,"Badenian","",13.65,12.7,26443,"gp_mid",28.16,45.19,"302",13.175,"serravallian",12902,23.2373,46.9938,7,1
 "51926",78682,"col","",27.22,48.12,"Bleshteny bioherm",NA,"Reef 960",1,"Badenian","",13.65,12.7,26443,"gp_mid",28.13,45.44,"302",13.175,"serravallian",12906,23.2373,46.9938,7,1
 "51927",78683,"col","",27.35,47.8,"Brynzeny bioherm",NA,"Reef 961",1,"Badenian","",13.65,12.7,26443,"gp_mid",28.25,45.12,"302",13.175,"serravallian",12907,23.2373,46.9938,7,1
+"51928",78684,"col","",28.68,46.73,"Novaya Ivanovka bioherm",NA,"Reef 962",2,"Badenian","",13.65,12.7,26443,"gp_mid",29.51,44.04,"302",13.175,"serravallian",12908,26.9522,47.0951,7,1
 "52534",79965,"col","Peace River",-81.8,27.18,"Peace River Fm (unspecified localities) of Petuch & Roberts",NA,"",8,"Serravallian","",13.82,11.62,26813,"gp_mid",-76.83,29.06,"109",12.72,"serravallian",13089,-80.0984,26.8396,7,1
 "52570",80018,"col","Shoal River",-86.12,30.72,"PRI Loc. 1596 (sample 29, replicate C) - McClellans Farm [Shoal River Fm]",NA,"Station 41",37,"Serravallian","",13.82,11.62,19909,"gp_mid",-80.94,32.85,"109",12.72,"serravallian",5623,-83.7222,29.4568,7,1
 "52571",80019,"col","Shoal River",-86.12,30.72,"PRI Loc. 1596 (sample 29, replicate B) - McClellans Farm [Shoal River Fm]",NA,"Station 41",26,"Serravallian","",13.82,11.62,19909,"gp_mid",-80.94,32.85,"109",12.72,"serravallian",5623,-83.7222,29.4568,7,1
@@ -189,22 +314,31 @@
 "57018",86875,"col","Curchia",22.47,44.76,"Bahna, marls",NA,"",42,"Badenian","",13.65,12.7,29239,"gp_mid",24.05,41.23,"308",13.175,"serravallian",14737,19.6643,44.3966,7,1
 "57021",86908,"col","Curchia",22.47,44.76,"Bahna, marl chalk stones",NA,"",20,"Badenian","",13.65,12.7,29239,"gp_mid",24.05,41.23,"308",13.175,"serravallian",14737,19.6643,44.3966,7,1
 "57022",86909,"col","Curchia",22.47,44.76,"Bahna, chalk",NA,"",1,"Badenian","",13.65,12.7,29239,"gp_mid",24.05,41.23,"308",13.175,"serravallian",14737,19.6643,44.3966,7,1
+"58425",88579,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 17",NA,"",0,"Serravallian","",13.82,11.62,17253,"gp_mid",-70.38,39.97,"109",12.72,"serravallian",11608,-72.2418,36.6048,7,1
+"58427",88581,"col","Calvert",-76.51,38.63,"Willow Beach Colony",NA,"",1,"Serravallian","",13.82,11.62,17253,"gp_mid",-70.41,40.15,"109",12.72,"serravallian",15172,-72.2418,36.6048,7,1
+"58839",89099,"col","",171.18,-42.62,"GS 3340, S51 Kumara",NA,"",1,"Lillburnian","",13.65,12.7,29819,"gp_mid",177.34,-46.68,"806",13.175,"serravallian",15300,177.9213,-45.2063,7,1
 "58869",89152,"col","Studienka",17.16,48.44,"Rohoznik-Konopiska clay pit",NA,"",8,"Serravallian","",13.82,11.62,29908,"gp_mid",19.29,45.08,"308",12.72,"serravallian",15311,15.8278,46.7984,7,1
+"59042",89455,"col","Choptank",-76.48,38.47,"Governor Run, south, Zone 18",NA,"Calvert Beach north, Matoaka Cottages",2,"Serravallian","",13.82,11.62,29991,"gp_mid",-70.4,39.99,"109",12.72,"serravallian",11607,-72.2418,36.6048,7,1
 "59519",90488,"col","",22.48,45.89,"Lapugiu",NA,"",2,"Badenian","",13.65,12.7,30440,"gp_mid",24.12,42.37,"308",13.175,"serravallian",15579,19.6643,44.3966,7,1
 "60300",91622,"col","Monterey",-119.6,34,"Santa Cruz Island, Monterey Formation",NA,"",1,"Serravallian","",13.82,11.62,30878,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",15855,-114.3969,32.6447,7,1
+"60759",92099,"col","",-9.13,38.72,"Lisboa",NA,"",2,"Serravallian","",13.82,11.62,31005,"gp_mid",-7.22,36.84,"304",12.72,"serravallian",15988,-9.5784,36.1882,7,1
+"60760",92100,"col","",-9.25,38.67,"Picagalo",NA,"",2,"Serravallian","",13.82,11.62,31005,"gp_mid",-7.34,36.79,"304",12.72,"serravallian",15989,-9.5784,36.1882,7,1
 "61106",92507,"col","Shoal River",-86.65,30.69,"TU 69A, Shell Bluff [Shoal River Fm]",NA,"",8,"Serravallian","",13.82,11.62,31182,"gp_mid",-81.49,32.85,"109",12.72,"serravallian",16122,-83.7222,29.4568,7,1
 "62824",94810,"col","Shoal River",-85.98,30.62,"Smith Loc. 7 - Whites Creek [Shoal River Fm]",NA,"",134,"Serravallian","",13.82,11.62,32333,"gp_mid",-80.81,32.74,"109",12.72,"serravallian",16584,-83.7222,29.4568,7,1
 "63179",95167,"col","Berchem",5.27,51.29,"Deurgangkdok, Doel",NA,"",64,"Badenian","",13.65,12.7,32410,"gp_mid",7.38,48.98,"315",13.175,"serravallian",16693,0.8305,51.4444,7,1
+"64944",97475,"col","Choptank",-76.49,38.48,"Long Beach",NA,"Matoaka Cottages north",1,"Serravallian","",13.82,11.62,33248,"gp_mid",-70.41,40,"109",12.72,"serravallian",17235,-72.2418,36.6048,7,1
 "68370",101978,"col","Mito",140.47,36.37,"Mito, Mito Formation",NA,"",1,"Serravallian","",13.82,11.62,34660,"gp_mid",138.16,36.14,"610",12.72,"serravallian",18565,136.7549,39.6235,7,1
 "69961",104804,"col","",18.35,44.88,"Strbci",NA,"",1,"Badenian","",13.65,12.7,35058,"gp_mid",20.17,41.48,"308",13.175,"serravallian",19289,17.3836,43.1425,7,1
 "75097",123125,"col","",22.48,45.85,"Lapugiu de Sus",NA,"",74,"Badenian","",13.65,12.7,39386,"gp_mid",24.12,42.32,"308",13.175,"serravallian",11892,19.6643,44.3966,7,1
 "75397",111204,"col","Shoal River",-86.12,30.72,"Shoal River Formation (unspecified localities)",NA,"",394,"Serravallian","",13.82,11.62,43764,"gp_mid",-80.94,32.85,"109",12.72,"serravallian",5623,-83.7222,29.4568,7,1
+"79742",117021,"col","Lagos-Portimao",-8.22,37.17,"Mem Moniz",NA,"",13,"Serravallian","",13.82,11.62,37623,"gp_mid",-6.41,35.26,"304",12.72,"serravallian",22350,-9.5784,36.1882,7,1
 "80682",117981,"col","La Victoria",-75.13,3.3,"Duke Locality 40",NA,"IGM 183297 (Paradracaena columbiana)",4,"Laventan","",13.8,11.8,37924,"gp_mid",-71.53,4.09,"201",12.8,"serravallian",1608,-73.0392,0.936,7,1
 "84079",122039,"col","Blue Clay",14.35,35.93,"Manikata",NA,"",1,"Serravallian","",13.82,11.62,38808,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",23507,13.0703,33.3327,7,1
 "84080",122040,"col","Blue Clay",14.34,35.92,"Gnejna",NA,"",1,"Serravallian","",13.82,11.62,38808,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",23508,13.0703,33.3327,7,1
 "84757",123135,"col","",22.08,45.38,"Pamantul Rosu hill, Delinesti",NA,"",13,"Badenian","",13.65,12.7,39387,"gp_mid",23.72,41.87,"308",13.175,"serravallian",23688,19.6643,44.3966,7,1
 "84813",123206,"col","",19.42,48.23,"Potor",NA,"",1,"Serravallian","",13.82,11.62,39434,"gp_mid",21.39,44.8,"308",12.72,"serravallian",23709,15.8278,46.7984,7,1
 "86114",124766,"col","",9.53,53.3,"Tongrube Wienerberger",NA,"Freetz",4,"Serravallian","",13.82,11.62,40371,"gp_mid",11.54,50.89,"315",12.72,"serravallian",24137,8.1642,51.6119,7,1
+"87496",126605,"col","Choptank",-76.83,38.16,"Stratford Hall, Serravallian",NA,"",79,"Serravallian","",13.82,11.62,62831,"gp_mid",-70.78,39.7,"109",12.72,"serravallian",24489,-72.2418,36.6048,7,1
 "92147",133113,"col","",18.83,47.46,"Nyakaskő",NA,"Bia",11,"Badenian","",13.65,12.7,71628,"gp_mid",20.78,44.05,"308",13.175,"serravallian",25568,15.8278,46.7984,7,1
 "92343",133441,"col","",-75.21,3.21,"Villavieja (Neogene)",NA,"Baraya y El Cerro Gordo",18,"Laventan","",13.8,11.8,42295,"gp_mid",-71.61,4,"201",12.8,"serravallian",25610,-73.0392,0.936,7,1
 "92427",133648,"col","",-75.19,3.26,"Cebupithecia Cerro Gordo; Monkey Locality; UCMP V-4517",NA,"UCMP V4517",16,"Laventan","",13.8,11.8,43063,"gp_mid",-71.59,4.05,"201",12.8,"serravallian",25624,-73.0392,0.936,7,1
@@ -225,7 +359,6 @@
 "97892",140012,"col","",-75.2,3.2,"Screen Kyoto Site",NA,"Kondous Kyoto",3,"Laventan","",13.8,11.8,45187,"gp_mid",-71.6,3.99,"201",12.8,"serravallian",27240,-73.0392,0.936,7,1
 "97923",140046,"col","",-75.2,3.2,"Screen Kyoto Site2",NA,"Micodon Kyoto",1,"Laventan","",13.8,11.8,45194,"gp_mid",-71.6,3.99,"201",12.8,"serravallian",27240,-73.0392,0.936,7,1
 "97928",140051,"col","Villavieja",-75.13,3.32,"Ferruginous Sandstone Locality, UCMP V5045",NA,"V-5045",4,"Laventan","",13.8,11.8,45203,"gp_mid",-71.53,4.1,"201",12.8,"serravallian",27260,-73.0392,0.936,7,1
-"98313",140493,"col","Pebas",-73.15,-4,"Amazonian amber, Tamshiyacu locality",NA,"",2,"Serravallian","",13.82,11.62,45526,"gp_mid",-69.77,-3.27,"201",12.72,"serravallian",27333,-73.026,-6.564,7,1
 "98376",140634,"col","La Victoria",-75.92,2.12,"Duke Locality 28 - Perico member",NA,"Cebidae San Alfonso",2,"Laventan","",13.8,11.8,45326,"gp_mid",-72.35,2.93,"201",12.8,"serravallian",27335,-73.0392,0.936,7,1
 "98822",141256,"col","Villavieja",-75.13,3.32,"IGM-DU Locality 032",NA,"",6,"Laventan","",13.8,11.8,45865,"gp_mid",-71.53,4.1,"201",12.8,"serravallian",27260,-73.0392,0.936,7,1
 "98823",141257,"col","Villavieja",-75.13,3.32,"Fish Beds, Screening Duke",NA,"Casa Cuzco, Baraya Member Duke",5,"Laventan","",13.8,11.8,45865,"gp_mid",-71.53,4.1,"201",12.8,"serravallian",27260,-73.0392,0.936,7,1
@@ -302,7 +435,15 @@
 "109940",155785,"col","",17.47,47.1,"Tik-hegy locality, Bakony Mountains",NA,"",2,"Badenian","",13.65,12.7,50986,"gp_mid",19.48,43.73,"308",13.175,"serravallian",29412,15.8278,46.7984,7,1
 "109944",155792,"col","Waikuku Limestone",173.01,-34.43,"N02/f7494 [Waikuku Limestone]",NA,"N2/f0494",2,"Lillburnian","",13.65,12.7,50994,"gp_mid",177.25,-38.37,"806",13.175,"serravallian",29414,177.2309,-38.1944,7,1
 "109945",155793,"col","Waikuku Limestone",173.01,-34.43,"N02/f7528 [Waikuku Limestone]",NA,"N2/f0528",2,"Lillburnian","",13.65,12.7,50994,"gp_mid",177.25,-38.37,"806",13.175,"serravallian",29414,177.2309,-38.1944,7,1
+"110029",155893,"col","Calvert",-76.51,38.52,"Scientist Cliffs [Calvert Beach Mbr, Calvert Fm]",NA,"",1,"Serravallian","",13.82,11.62,51014,"gp_mid",-70.42,40.04,"109",12.72,"serravallian",7967,-72.2418,36.6048,7,1
 "110327",156537,"col","Monterey",-118.39,33.75,"LACMIP 12020, Palos Verdes Hills",NA,"",2,"Serravallian","",13.82,11.62,51188,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",29513,-114.3969,32.6447,7,1
+"112669",160228,"col","St Marys",-76.15,38.27,"USGS Loc. 25304 - Windmill Point [Windmill Point Mbr, St Marys Fm)",NA,"",1,"Serravallian","",13.82,11.62,52284,"gp_mid",-70.08,39.77,"109",12.72,"serravallian",30256,-72.2418,36.6048,7,1
+"112670",160229,"col","Choptank",-76.44,38.43,"USGS Loc. 25299 - Camp Conoy [Boston Cliffs Mbr, Choptank Fm]",NA,"",1,"Serravallian","",13.82,11.62,52284,"gp_mid",-70.35,39.94,"109",12.72,"serravallian",30257,-72.2418,36.6048,7,1
+"112674",160233,"col","St Marys",-76.85,37.86,"USGS Loc. 25058 - Essex Mill [Windmill Point Mbr, St Marys Fm)",NA,"",2,"Serravallian","",13.82,11.62,52284,"gp_mid",-70.83,39.4,"109",12.72,"serravallian",30258,-72.2418,36.6048,7,1
+"112925",160572,"col","Gatun",-79.81,9.35,"Sand Dollar Hill",NA,"YPA044",5,"Serravallian","",13.82,11.62,52363,"gp_mid",-76.62,10.57,"230",12.72,"serravallian",30343,-81.1781,9.2212,7,1
+"112927",160574,"col","Gatun",-79.82,9.34,"Alborada",20,"YPA030",5,"Serravallian","",13.82,11.62,52363,"gp_mid",-76.63,10.56,"230",12.72,"serravallian",30344,-81.1781,9.2212,7,1
+"112929",160576,"col","Gatun",-79.81,9.35,"Texaco",20,"YPA033",5,"Serravallian","",13.82,11.62,52363,"gp_mid",-76.62,10.57,"230",12.72,"serravallian",30343,-81.1781,9.2212,7,1
+"112936",160583,"col","Gatun",-79.82,9.34,"Highway Extension",NA,"YPA043",2,"Serravallian","",13.82,11.62,52363,"gp_mid",-76.63,10.57,"230",12.72,"serravallian",30344,-81.1781,9.2212,7,1
 "113700",161497,"col","Horimatsu",136.81,37.45,"Hakui-gun (Loc. 8)",NA,"",8,"Serravallian","",13.82,11.62,52618,"gp_mid",NA,NA,"coordinates not computable using this model",12.72,"serravallian",30487,133.5665,39.2949,7,1
 "113703",161500,"col","Kurahara",136.83,36.58,"Nishitonami-gun (Loc. 11)",NA,"",5,"Serravallian","",13.82,11.62,52618,"gp_mid",134.54,36.24,"610",12.72,"serravallian",30488,133.5665,39.2949,7,1
 "113704",161501,"col","Kurahara",136.83,36.68,"Kanazawa City (Loc. 12)",NA,"",6,"Serravallian","",13.82,11.62,52618,"gp_mid",134.53,36.34,"610",12.72,"serravallian",30489,133.5665,39.2949,7,1
@@ -311,11 +452,13 @@
 "117464",167777,"col","Sajovolgyi",19.69,47.97,"Mátraszls 2, gray clay layer",NA,"Msz2/s, Matraszolos, Rákóczi chapel section",0,"MN 6","",13.65,12.75,55150,"gp_mid",21.62,44.52,"308",13.2,"serravallian",31517,15.8278,46.7984,7,1
 "117605",167936,"col","Fujina",133.04,35.44,"Locality 1, Nogi-Fukutomi",NA,"",2,"Serravallian","",13.82,11.62,54940,"gp_mid",130.82,34.97,"610",12.72,"serravallian",31554,129.4113,36.5524,7,1
 "117606",167937,"col","Fujina",133.04,35.44,"Locality 2, Nogi-Fukutomi",NA,"",1,"Serravallian","",13.82,11.62,54940,"gp_mid",130.82,34.97,"610",12.72,"serravallian",31554,129.4113,36.5524,7,1
+"119717",171282,"col","",142.01,-37.74,"Near Hamilton",NA,"",1,"Serravallian","",13.82,11.62,55713,"gp_mid",144.51,-45.23,"801",12.72,"serravallian",31878,140.6143,-43.7908,7,1
 "119913",171482,"col","Brasso",-61.32,10.38,"Gauracara Road",NA,"",1,"Serravallian","",13.82,11.62,55598,"gp_mid",-57.49,10.75,"201",12.72,"serravallian",31952,-58.1179,8.5151,7,1
 "119914",171483,"col","Brasso",-61.04,10.51,"Manzanilla Bay, Crab Claw beds",NA,"",3,"Serravallian","",13.82,11.62,55598,"gp_mid",-57.21,10.86,"201",12.72,"serravallian",31953,-58.1179,8.5151,7,1
 "121320",174760,"col","",51.78,43.97,"Karagaily section, level 10",NA,"",76,"Serravallian","",13.82,11.62,57118,"gp_mid",51.58,41.32,"402",12.72,"serravallian",32220,49.5416,45.2275,7,1
 "121499",174955,"col","",51.78,43.97,"Karagaily section, level 9",NA,"",13,"Serravallian","",13.82,11.62,57118,"gp_mid",51.58,41.32,"402",12.72,"serravallian",32220,49.5416,45.2275,7,1
 "121503",174956,"col","",51.78,43.97,"Karagaily section, level 8",NA,"",2,"Serravallian","",13.82,11.62,57118,"gp_mid",51.58,41.32,"402",12.72,"serravallian",32220,49.5416,45.2275,7,1
+"122036",175794,"col","",24.54,43.42,"Yasen, Pleven District",NA,"",9,"Badenian","",13.65,12.7,57568,"gp_mid",25.93,39.84,"308",13.175,"serravallian",32333,23.5031,41.9974,7,1
 "123462",178040,"col","",22.48,45.85,"Nemeeti",NA,"",11,"Badenian","",13.65,12.7,58886,"gp_mid",24.12,42.32,"308",13.175,"serravallian",11892,19.6643,44.3966,7,1
 "124678",179626,"col","Nyalindung",108.42,-7.48,"near Citalahab",NA,"Tjitalahab",44,"Serravallian","",13.82,11.62,59504,"gp_mid",112.15,-8.69,"620",12.72,"serravallian",33034,107.68,-5.887,7,1
 "124694",179642,"col","",-75,10.75,"UC Locality S-8008. Tubera",NA,"Tuberia",1,"Serravallian","",13.82,11.62,59297,"gp_mid",-71.18,11.53,"203",12.72,"serravallian",33037,-74.7858,8.1443,7,1
@@ -323,6 +466,8 @@
 "124884",179845,"col","Fujina",133.02,35.44,"Mominoko, Fushina",NA,"",1,"Serravallian","",13.82,11.62,59661,"gp_mid",130.81,34.96,"610",12.72,"serravallian",33089,129.4113,36.5524,7,1
 "124885",179846,"col","Fujina",133.02,35.44,"Fushina, Yatsuka-gun",NA,"",2,"Serravallian","",13.82,11.62,59662,"gp_mid",130.81,34.96,"610",12.72,"serravallian",33089,129.4113,36.5524,7,1
 "124886",179847,"col","Fujina",132.79,35.35,"North of Taki-dani, Kami-Kurihara, southeast of Izumo city",NA,"",1,"Serravallian","",13.82,11.62,59662,"gp_mid",130.57,34.87,"610",12.72,"serravallian",33090,129.4113,36.5524,7,1
+"124983",179943,"col","Gellibrand Marl",143.12,-38.67,"Aw9, three miles west of Gellibrand River",NA,"",1,"Serravallian","",13.82,11.62,57704,"gp_mid",145.9,-46.07,"801",12.72,"serravallian",7881,140.6143,-43.7908,7,1
+"124990",179950,"col","Fyansford",144.29,-38.13,"Fyansford (Mulder collection)",NA,"",1,"Serravallian","",13.82,11.62,59709,"gp_mid",147.12,-45.43,"801",12.72,"serravallian",33137,140.6143,-43.7908,7,1
 "126983",183534,"col","",27.54,48.55,"Khon'kivtsi",NA,"",2,"Serravallian","",13.82,11.62,60839,"gp_mid",28.45,45.87,"302",12.72,"serravallian",33604,23.2373,46.9938,7,1
 "127944",184773,"col","Pisco",-75.67,-14.55,"Cerro la Bruja, south",NA,"",1,"Serravallian","",13.82,11.62,61942,"gp_mid",-72.59,-13.75,"201",12.72,"serravallian",33817,-73.0076,-16.5639,7,1
 "128319",185387,"col","",14.27,42.05,"Gessopalena",NA,"",1,"Serravallian","",13.82,11.62,62163,"gp_mid",16.12,38.8,"307",12.72,"serravallian",33928,13.5517,40.8034,7,1
@@ -487,6 +632,7 @@
 "139856",206594,"col","Monterey",-118.61,34.17,"Woodland Hills",NA,"CIT 350; Girard",1,"Serravallian","",13.82,11.62,70819,"gp_mid",-112.87,36.47,"105",12.72,"serravallian",36792,-114.3969,32.6447,7,1
 "139857",206595,"col","Monterey",-118.45,34.14,"Sumac Road South",NA,"LACM 1894",0,"Serravallian","",13.82,11.62,70819,"gp_mid",-112.71,36.44,"105",12.72,"serravallian",35637,-114.3969,32.6447,7,1
 "139858",206596,"col","Monterey",-118.44,34.14,"CIT 387b",NA,"",1,"Serravallian","",13.82,11.62,70819,"gp_mid",-112.71,36.44,"105",12.72,"serravallian",36793,-114.3969,32.6447,7,1
+"139996",206906,"col","Mount Brown",172.79,-43.01,"Weka Pass (Canterbury collection)",NA,"",1,"Lillburnian","",13.65,12.7,71189,"gp_mid",-175.37,-44.44,"807",13.175,"serravallian",36858,177.9213,-45.2063,7,1
 "140071",207102,"col","Leitha-limestone",17.45,46.93,"Nyirád, south",NA,"",4,"Badenian","",13.65,12.7,49932,"gp_mid",19.46,43.56,"308",13.175,"serravallian",36880,15.8278,46.7984,7,1
 "140318",207558,"col","",-75.22,-3.22,"Villa Vieja",NA,"",1,"Laventan","",13.8,11.8,62436,"gp_mid",-71.8,-2.43,"201",12.8,"serravallian",36968,-73.0304,-4.064,7,1
 "140411",207750,"col","",19,47.43,"Balatoni út and Szabadkai út",NA,"",41,"Badenian","",13.65,12.7,71628,"gp_mid",20.94,44,"308",13.175,"serravallian",37006,15.8278,46.7984,7,1
@@ -496,3 +642,5 @@
 "140415",207754,"col","",18.97,47.79,"Visegrad",NA,"Nagymaros",19,"Badenian","",13.65,12.7,71628,"gp_mid",20.94,44.36,"308",13.175,"serravallian",37009,15.8278,46.7984,7,1
 "140416",207755,"col","",18.95,47.83,"Törökmező",NA,"",20,"Badenian","",13.65,12.7,71628,"gp_mid",20.92,44.41,"308",13.175,"serravallian",37010,15.8278,46.7984,7,1
 "144158",213137,"col","Pebas",-73.55,-2.81,"NA069",NA,"Iquitos Arch; Napo River",5,"Laventan","",13.8,11.8,73578,"gp_mid",-70.13,-2.07,"201",12.8,"serravallian",37839,-73.0304,-4.064,7,1
+"144378",213542,"col","",28.78,47.39,"Mitoc",NA,"",0,"Serravallian","",13.82,11.62,73751,"gp_mid",29.61,44.7,"302",12.72,"serravallian",37870,26.9522,47.0951,7,1
+"144379",213543,"col","",28.87,47.1,"Stăuceni",NA,"",4,"Serravallian","",13.82,11.62,73751,"gp_mid",29.69,44.4,"302",12.72,"serravallian",37871,26.9522,47.0951,7,1

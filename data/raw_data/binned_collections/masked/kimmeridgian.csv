@@ -1,4 +1,5 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"3",187361,"col","Lastres",-5.56,43.55,"Playa de España tracksite",NA,"",1,"Kimmeridgian","",157.3,152.1,63074,"gp_mid",13.62,27.1,"304",154.7,"kimmeridgian",2,14.0962,22.9153,33,1
 "208",1400,"col","Kap Leslie",-21.97,70.48,"Milne Land M 18",NA,"",0,"Kimmeridgian","",157.3,152.1,41,"gp_mid",15.16,46.53,"102",154.7,"kimmeridgian",131,10.9223,44.5171,33,1
 "209",1401,"col","Kap Leslie",-21.97,70.48,"Milne Land M 19",NA,"",0,"Kimmeridgian","",157.3,152.1,41,"gp_mid",15.16,46.53,"102",154.7,"kimmeridgian",131,10.9223,44.5171,33,1
 "210",1402,"col","Kap Leslie",-21.97,70.48,"Milne Land M19a",NA,"",0,"Kimmeridgian","",157.3,152.1,41,"gp_mid",15.16,46.53,"102",154.7,"kimmeridgian",131,10.9223,44.5171,33,1
@@ -40,18 +41,27 @@
 "4565",12362,"col","",5,44.5,"Ammonites from the massif du Bois-Noir (Gard)",NA,"",14,"Kimmeridgian","",157.3,152.1,4227,"gp_mid",20.72,27.29,"305",154.7,"kimmeridgian",1447,22.1476,26.6813,33,1
 "4566",12363,"col","",5,44.5,"Ammonites from the massif du Bois-Noir (Gard)",NA,"",22,"Kimmeridgian","",157.3,152.1,4227,"gp_mid",20.72,27.29,"305",154.7,"kimmeridgian",1447,22.1476,26.6813,33,1
 "4567",12364,"col","",5,44.5,"Ammonites from the massif du Bois-Noir (Gard)",NA,"",3,"Kimmeridgian","",157.3,152.1,4227,"gp_mid",20.72,27.29,"305",154.7,"kimmeridgian",1447,22.1476,26.6813,33,1
+"5098",13342,"col","Tereñes Marl",-5.25,43.5,"Colunga tracksite",NA,"Gigantosauropus type",3,"Kimmeridgian","",157.3,152.1,5982,"gp_mid",13.82,26.96,"304",154.7,"kimmeridgian",1560,14.0962,22.9153,33,1
+"5099",13343,"col","Cabaços",-5.08,43.47,"Ribadesella tracksite",NA,"Hispanosauropus type",2,"Kimmeridgian","",157.3,152.1,5982,"gp_mid",13.94,26.88,"304",154.7,"kimmeridgian",1561,14.0962,22.9153,33,1
 "12126",74519,"col","",-1.4,40.12,"2 km east of Arroyo Cerezo",NA,"",4,"Kimmeridgian","",157.3,152.1,53053,"gp_mid",15.14,22.69,"304",154.7,"kimmeridgian",2216,15.3819,19.3438,33,1
 "12657",23929,"col","",8.07,52.37,"Kalkrieser Berg, Osnabrück, Germany",NA,"Reef 3186",9,"Kimmeridgian","",157.3,152.1,6781,"gp_mid",21.4,35.4,"315",154.7,"kimmeridgian",2353,21.4148,34.5829,33,1
 "12985",24440,"col","",5.82,45.95,"Virieux-Martin, Jura",24422,"Virieux-Martin, commune de Corbonod",12,"Kimmeridgian","",157.3,152.1,6888,"gp_mid",21.09,28.82,"305",154.7,"kimmeridgian",2427,7.5,45,33,1
 "13743",26371,"col","Mabdi",43.95,16.57,"YMN-3",NA,"",1,"Kimmeridgian","",157.3,152.1,36662,"gp_mid",39.69,-14.87,"503",154.7,"kimmeridgian",2640,37.3436,-17.0522,33,1
+"16466",30623,"col","Lower Namyndykan Suite",158.9,65.7,"Aynene River",NA,"PGAP 682",7,"Kimmeridgian","",157.3,152.1,8081,"gp_mid",-154.25,75.8,"405",154.7,"kimmeridgian",3301,-99.8021,78.6889,33,1
 "16790",30948,"col","",31.7,37.7,"Beysehir",NA,"PGAP 368",4,"Kimmeridgian","",157.3,152.1,6888,"gp_mid",38.2,8.21,"504",154.7,"kimmeridgian",3411,30,37.5,33,1
 "20750",35723,"col","Ohineruru",174.83,-38.08,"R15/f8023 - Totara Peninsula, Kawhia",NA,"GS 5195; CE289",4,"Kimmeridgian","",157.3,152.1,9634,"gp_mid",124.9,-80.48,"806",154.7,"kimmeridgian",4154,-157.4031,-78.6945,33,1
 "20752",35725,"col","",174.77,-38.15,"GS 12135, Heteri Peninsula, Kawhia (R16/f19)",NA,"",1,"Kimmeridgian","",157.3,152.1,9634,"gp_mid",124.39,-80.49,"806",154.7,"kimmeridgian",4155,-157.4031,-78.6945,33,1
+"21214",36436,"col","",39.05,-5.02,"Cox - 121 (N.E. Tanganyika)",NA,"",5,"Kimmeridgian","",157.3,152.1,9748,"gp_mid",30.78,-32.45,"709",154.7,"kimmeridgian",4242,26.2679,-34.0987,33,1
 "21270",36496,"col","",41.43,3.87,"Cox - 168 (N.E. Kenya)",NA,"",2,"Kimmeridgian","",157.3,152.1,9748,"gp_mid",36.07,-24.51,"709",154.7,"kimmeridgian",4276,32.7935,-25.9189,33,1
 "21271",36497,"col","",41.47,3.92,"Cox - 169 (N.E. Kenya)",NA,"",13,"Kimmeridgian","",157.3,152.1,9748,"gp_mid",36.12,-24.47,"709",154.7,"kimmeridgian",4277,32.7935,-25.9189,33,1
 "21283",36509,"col","",41.5,3.97,"Cox - 181 (N.E. Kenya)",NA,"",2,"Kimmeridgian","",157.3,152.1,9748,"gp_mid",36.17,-24.43,"709",154.7,"kimmeridgian",4278,32.7935,-25.9189,33,1
 "22696",38494,"col","Kimmeridge Clay",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Kimmeridge Clay",NA,"",11,"Kimmeridgian","",157.3,152.1,10298,"gp_mid",15.04,35.64,"315",154.7,"kimmeridgian",4705,16.3281,32.8694,33,1
 "26176",161828,"col","Meragalleh Limestone",45.07,10.22,"Hamud (Meragalleh Limestone)",NA,"",1,"Kimmeridgian","",157.3,152.1,52567,"gp_mid",41.39,-19.13,"709",154.7,"kimmeridgian",5717,38.0526,-21.9534,33,1
+"27778",45062,"col","Les Calcaires Médians",-0.92,35.68,"Bou Rheddou, c 1 Ki",NA,"Formation 4 d`Arkell & Busson",8,"Kimmeridgian","",157.3,152.1,11003,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6250,8.5814,16.1994,33,1
+"27779",45064,"col","Les Calcaires Médians",-0.92,35.68,"Bou Rheddou, c 2 Ki",NA,"Formation 4 d`Arkell & Busson",8,"Kimmeridgian","",157.3,152.1,11003,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6250,8.5814,16.1994,33,1
+"27780",45066,"col","Les Calcaires Médians",-0.92,35.68,"Bou Rheddou, c 3 Ki",NA,"Formation 4 d`Arkell & Busson",8,"Kimmeridgian","",157.3,152.1,11003,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6250,8.5814,16.1994,33,1
+"27781",45071,"col","Les Calcaires Médians",-0.92,35.75,"Bou Rheddou, c 4 Ki",NA,"Formation 4 d`Arkell & Busson ",4,"Kimmeridgian","",157.3,152.1,11003,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6251,8.5814,16.1994,33,1
+"27782",45073,"col","Les Calcaires Médians",-0.92,35.68,"Bou Rheddou, c 5 Ki",NA,"Formation 4 d`Arkell & Busson",5,"Kimmeridgian","",157.3,152.1,11003,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6250,8.5814,16.1994,33,1
 "28190",45574,"col","Jubaila Lst.",46.25,24.84,"Shaqra Group (Jubaila Lst. Unite Ju1)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.6,-7.8,"503",154.7,"kimmeridgian",6370,40.2585,-10.1072,33,1
 "28191",45575,"col","Jubaila Lst.",46.25,24.84,"Shaqra Group (Jubaila Lst. Unite Ju1)",NA,"",8,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.6,-7.8,"503",154.7,"kimmeridgian",6370,40.2585,-10.1072,33,1
 "28192",45576,"col","Jubaila Lst.",46.25,24.84,"Shaqra Group (Jubaila Lst. Unite Ju1)",NA,"",5,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.6,-7.8,"503",154.7,"kimmeridgian",6370,40.2585,-10.1072,33,1
@@ -66,11 +76,20 @@
 "28216",45601,"col","Arab",46.5,25.02,"Shaqra Group (Arab Fm.)",NA,"",2,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.87,-7.71,"503",154.7,"kimmeridgian",6381,40.2585,-10.1072,33,1
 "28222",45607,"col","Arab",46.5,25.02,"Shaqra Group (Arab Fm.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.87,-7.71,"503",154.7,"kimmeridgian",6381,40.2585,-10.1072,33,1
 "28223",45608,"col","Arab",47,23.5,"Shaqra Group (Arab Fm.)",NA,"",3,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.82,-9.29,"503",154.7,"kimmeridgian",6387,42.6261,-13.6656,33,1
+"28224",45609,"col","Arab",46.5,22.25,"Shaqra Group (Arab Fm.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",43.97,-10.33,"503",154.7,"kimmeridgian",6388,39.3052,-12.4259,33,1
+"28231",45618,"col","Arab",46.27,21.75,"Shaqra Group (Arab Fm.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",43.6,-10.73,"503",154.7,"kimmeridgian",6394,39.3052,-12.4259,33,1
+"28255",45642,"col","Arab",46.27,21.75,"Shaqra Group (Arab Fm.)",NA,"",2,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",43.6,-10.73,"503",154.7,"kimmeridgian",6394,39.3052,-12.4259,33,1
 "28256",45643,"col","Arab",45.85,21.05,"Shaqra Group (Arab Fm.)",NA,"",1,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",42.99,-11.27,"503",154.7,"kimmeridgian",6416,38.3349,-14.7411,33,1
 "28257",45644,"col","Arab",46,25.33,"Shaqra Group (Arab Fm.)",NA,"",3,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.54,-7.27,"503",154.7,"kimmeridgian",6417,40.2585,-10.1072,33,1
 "28258",45645,"col","Arab",46,25.67,"Shaqra Group (Arab Fm.)",NA,"",2,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.65,-6.95,"503",154.7,"kimmeridgian",6418,40.2585,-10.1072,33,1
 "28259",45646,"col","Arab",46,25.67,"Shaqra Group (Arab Fm.)",NA,"",3,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.65,-6.95,"503",154.7,"kimmeridgian",6418,40.2585,-10.1072,33,1
 "28260",45647,"col","Jubaila Lmst.",46.73,24.27,"Shaqra Group (Jubaila Lst. Unite Ju 1)",NA,"",1,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.83,-8.49,"503",154.7,"kimmeridgian",6419,40.2585,-10.1072,33,1
+"28261",45648,"col","Jubaila",46.85,22.73,"Shaqra Group (Jubaila Lst.)",NA,"",2,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.44,-9.98,"503",154.7,"kimmeridgian",6420,39.3052,-12.4259,33,1
+"28262",45651,"col","Jubaila Lst.",46.47,22.63,"Shaqra Group (Jubaila Lst.)",NA,"",3,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.06,-9.96,"503",154.7,"kimmeridgian",6421,39.3052,-12.4259,33,1
+"28263",45649,"col","Jubaila Lst.",46.63,22.73,"Shaqra Group (Jubaila Lst.)",NA,"",3,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.25,-9.91,"503",154.7,"kimmeridgian",6422,39.3052,-12.4259,33,1
+"28264",45650,"col","Jubaila Lst.",46.47,22.63,"Shaqra Group (Jubaila Lst.)",NA,"",6,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.06,-9.96,"503",154.7,"kimmeridgian",6421,39.3052,-12.4259,33,1
+"28303",45690,"col","Jubaila Lst.",46.53,22.37,"Shaqra Group (Jubaila Lst.)",NA,"",6,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.04,-10.23,"503",154.7,"kimmeridgian",6443,39.3052,-12.4259,33,1
+"28304",45691,"col","Jubaila Lst.",46.53,22.37,"Shaqra Group (Jubaila Lst.)",NA,"",7,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.04,-10.23,"503",154.7,"kimmeridgian",6443,39.3052,-12.4259,33,1
 "28305",45692,"col","Jubaila Lst.",46.95,21.63,"Shaqra Group (Jubaila Lst.)",NA,"",1,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.17,-11.05,"503",154.7,"kimmeridgian",6444,42.6261,-13.6656,33,1
 "28317",45704,"col","Jubaila Lst.",46.15,25.33,"Shaqra Group (Jubaila Lst.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.67,-7.31,"503",154.7,"kimmeridgian",6446,40.2585,-10.1072,33,1
 "28318",45705,"col","Jubaila Lst.",46.15,25.33,"Shaqra Group (Jubaila Lst.)",NA,"",1,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.67,-7.31,"503",154.7,"kimmeridgian",6446,40.2585,-10.1072,33,1
@@ -78,6 +97,7 @@
 "28320",45707,"col","Jubaila Lst.",45.47,25.47,"Shaqra Group (Jubaila Lst.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.13,-6.98,"503",154.7,"kimmeridgian",6447,40.2585,-10.1072,33,1
 "28321",45708,"col","Jubaila Lst.",45.47,25.47,"Shaqra Group (Jubaila Lst.)",NA,"",4,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.13,-6.98,"503",154.7,"kimmeridgian",6447,40.2585,-10.1072,33,1
 "28322",45709,"col","Jubaila Lst.",45,26.42,"Shaqra Group (Jubaila Lst.)",NA,"",6,"Kimmeridgian","",157.3,152.1,11728,"gp_mid",44.04,-5.95,"503",154.7,"kimmeridgian",6448,41.198,-7.7858,33,1
+"28468",45888,"col","Rosso Ammonitico",12.88,38.02,"Rosso Ammonitico of Monte Inici, Sicily",NA,"",5,"Kimmeridgian","",157.3,152.1,12222,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",6529,18.4659,14.2073,33,1
 "30191",47789,"col","Kimmeridge Clay",-2,51.41,"Great Western Railway cutting, Wootton Bassett (BMNH)",NA,"",4,"Kimmeridgian","",157.3,152.1,14132,"gp_mid",14.17,33.43,"315",154.7,"kimmeridgian",7050,13.78,32.101,33,1
 "32921",51296,"col","",53.5,65,"Sample P, Ukhta Section, Pechora Basin",NA,"",25,"Kimmeridgian","",157.3,152.1,13657,"gp_mid",45.58,55.45,"302",154.7,"kimmeridgian",7854,37.6774,57.8889,33,1
 "34331",52809,"col","San Salvador",-69.95,-22.47,"Río San Salvador (upper bed)",NA,"",2,"Kimmeridgian","",157.3,152.1,14210,"gp_mid",-26.72,-30.82,"201",154.7,"kimmeridgian",8321,-34.0898,-32.0386,33,1
@@ -86,6 +106,8 @@
 "39101",59196,"col","Bernbjerg",-20.25,74.83,"Kuhn O, section 1, East Greenland",NA,"",1,"Kimmeridgian","",157.3,152.1,16930,"gp_mid",14.74,50.9,"102",154.7,"kimmeridgian",9455,10.6365,49.6365,33,1
 "39102",59197,"col","Bernbjerg",-20.25,74.83,"Kuhn O, section 8, East Greenland",NA,"",2,"Kimmeridgian","",157.3,152.1,16930,"gp_mid",14.74,50.9,"102",154.7,"kimmeridgian",9455,10.6365,49.6365,33,1
 "39103",59198,"col","Bernbjerg",-20,74.5,"Wollaston Forland, section 40, East Greenland",NA,"",1,"Kimmeridgian","",157.3,152.1,16930,"gp_mid",14.95,50.59,"102",154.7,"kimmeridgian",9456,10.6365,49.6365,33,1
+"40933",61312,"col","Vega",-5.13,43.48,"Playa de la Vega, Ribadesella",NA,"",7,"Kimmeridgian","",157.3,152.1,17647,"gp_mid",13.9,26.91,"304",154.7,"kimmeridgian",9887,14.0962,22.9153,33,1
+"40935",61314,"col","Vega",-5.37,43.53,"Gijón-Ribadesella (Vega)",NA,"",1,"Kimmeridgian","",157.3,152.1,17647,"gp_mid",13.75,27.03,"304",154.7,"kimmeridgian",9888,14.0962,22.9153,33,1
 "41053",61451,"col","Sewa",91.75,32.45,"Locality B50, 18 km northeast of Amdo, Qiangtang Terrane",NA,"",23,"Kimmeridgian","",157.3,152.1,17531,"gp_mid",98.3,17.13,"613",154.7,"kimmeridgian",9918,98.7755,43.9214,33,1
 "42473",63742,"col","",174.72,-37.39,"R13/f6609 - Port Waikato, Auckland",NA,"GS10764",5,"Kimmeridgian","",157.3,152.1,18344,"gp_mid",127.68,-79.97,"806",154.7,"kimmeridgian",10235,-157.4031,-78.6945,33,1
 "42586",63856,"col","",174.81,-37.39,"R13/f6614 and R13/f6615 - Moewaka Stream, Port Waikato",NA,"N51/614 and N151/615",2,"Kimmeridgian","",157.3,152.1,18344,"gp_mid",127.92,-80.01,"806",154.7,"kimmeridgian",10271,-157.4031,-78.6945,33,1
@@ -121,6 +143,7 @@
 "45968",68608,"col","",-7.77,37.13,"Lagoa dos Cavalos, Faro",NA,"Reef 3483",6,"Kimmeridgian","",157.3,152.1,19775,"gp_mid",8.9,22.05,"304",154.7,"kimmeridgian",11139,7.2381,22.2297,33,1
 "45972",68612,"col","",-8.9,37.03,"Foz do Benacoitao, Sagres area, Faro",NA,"",2,"Kimmeridgian","",157.3,152.1,19775,"gp_mid",7.97,22.35,"304",154.7,"kimmeridgian",11141,7.2381,22.2297,33,1
 "45973",68613,"col","",-8.12,37.15,"Boliqueime, Faro",NA,"",2,"Kimmeridgian","",157.3,152.1,19775,"gp_mid",8.64,22.18,"304",154.7,"kimmeridgian",11142,7.2381,22.2297,33,1
+"46358",69010,"col","Malone",-105.55,31.23,"Malone Mountains and outlying foothills, Lower Malone Formation",NA,"",15,"Kimmeridgian","",157.3,152.1,19914,"gp_mid",-41.8,18.37,"101",154.7,"kimmeridgian",11275,-44.4421,15.9943,33,1
 "47276",70550,"col","",-1.09,46.05,"La Rochelle-Rochefort",NA,"",1,"Kimmeridgian","",157.3,152.1,23673,"gp_mid",15.68,28.2,"305",154.7,"kimmeridgian",11561,19.3802,25.7505,33,1
 "47596",70909,"col","Kimmeridge Clay",-1.82,51.55,"Great Western Railway, Swindon (OUM)",NA,"",1,"Kimmeridgian","",157.3,152.1,55987,"gp_mid",14.28,33.58,"315",154.7,"kimmeridgian",11637,16.3281,32.8694,33,1
 "47996",71431,"col","Aucella Sandstone",130.17,-1.87,"Misool Island, Aucella Sandstone",NA,"",10,"Kimmeridgian","",157.3,152.1,24146,"gp_mid",122.23,-36.47,"800",154.7,"kimmeridgian",11722,117.0766,-30.753,33,1
@@ -129,9 +152,14 @@
 "49360",74063,"col","",9.45,48.53,"Hochwang, sponge-microbialite bioherms",NA,"Reef 2758",58,"Kimmeridgian","",157.3,152.1,24855,"gp_mid",23.35,31.81,"305",154.7,"kimmeridgian",12117,11.25,47.5,33,1
 "50363",75743,"col","Kimmeridge Clay",-2.45,50.6,"Weymouth, Dorset (UCMP) (PROXY)",NA,"",2,"Kimmeridgian","",157.3,152.1,25599,"gp_mid",13.96,32.59,"315",154.7,"kimmeridgian",994,14.7983,29.617,33,1
 "50394",75778,"col","Kimmeridge Clay",-2.1,51.55,"Rodbourne, Wiltshire",NA,"",1,"Kimmeridgian","",157.3,152.1,26086,"gp_mid",14.07,33.56,"315",154.7,"kimmeridgian",12365,13.78,32.101,33,1
+"51758",78475,"col","",46.58,39.7,"Shakhverdlyar, Lesser Caucasus",NA,"Reef 3682",9,"Kimmeridgian","",157.3,152.1,26387,"gp_mid",55.49,24.77,"512",154.7,"kimmeridgian",12843,61.9571,20.1791,33,1
+"51759",78476,"col","",46.73,39.73,"Dashalty, Lesser Caucasus",NA,"Reef 3682",2,"Kimmeridgian","",157.3,152.1,26387,"gp_mid",55.58,24.86,"512",154.7,"kimmeridgian",12844,61.9571,20.1791,33,1
 "51939",78695,"col","",44.35,42.93,"Fiagdon River, N Caucasus",NA,"",1,"Kimmeridgian","",157.3,152.1,26460,"gp_mid",52.78,33.35,"402",154.7,"kimmeridgian",12914,54.6385,37.8517,33,1
+"51979",78775,"col","Rosso Ammonitico Medio",12.83,38,"IN 30",NA,"",16,"Kimmeridgian","",157.3,152.1,26363,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",12928,18.4659,14.2073,33,1
+"51980",78776,"col","Rosso Ammonitico Medio",12.83,38,"IN 32",NA,"",8,"Kimmeridgian","",157.3,152.1,26363,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",12928,18.4659,14.2073,33,1
 "55211",84192,"col","Sembar",67.16,27.84,"Sun Chaku, Karkh",NA,"Sun Chakko",1,"Kimmeridgian","",157.3,152.1,28188,"gp_mid",50.05,-28.27,"501",154.7,"kimmeridgian",14023,53.211,-29.6293,33,1
 "55212",84193,"col","Sembar",67.04,27.63,"Lakha Pir Charo, Zidi",NA,"",1,"Kimmeridgian","",157.3,152.1,28188,"gp_mid",49.77,-28.26,"501",154.7,"kimmeridgian",14024,53.211,-29.6293,33,1
+"55242",84233,"col","Lastres",-5.4,43.55,"Tazones W-1, Villaviciosa",NA,"",1,"Kimmeridgian","",157.3,152.1,28216,"gp_mid",13.74,27.05,"304",154.7,"kimmeridgian",14029,14.0962,22.9153,33,1
 "55652",84818,"col","Bugarone superiore",12.57,42.8,"Case Canepine",NA,"",1,"Kimmeridgian","",157.3,152.1,28472,"gp_mid",30.78,18.84,"307",154.7,"kimmeridgian",14186,11.25,42.5,33,1
 "55654",84820,"col","Bugarone superiore",12.67,42.43,"Castiglione",NA,"",1,"Kimmeridgian","",157.3,152.1,28472,"gp_mid",30.41,18.7,"307",154.7,"kimmeridgian",14188,11.25,42.5,33,1
 "56476",85964,"col","Miamou",24.93,34.97,"Miamou, Crete Island",NA,"Reef 3922",25,"Kimmeridgian","",157.3,152.1,29029,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",14499,43.6786,6.9949,33,1
@@ -152,6 +180,10 @@
 "61599",93200,"col","",3.97,47.85,"Tonnerre",NA,"",3,"Kimmeridgian","",157.3,152.1,31416,"gp_mid",19.29,30.48,"305",154.7,"kimmeridgian",16268,21.1113,29.0073,33,1
 "61609",93212,"col","",0.07,49.52,"Cap de la Heve",NA,"",1,"Kimmeridgian","",157.3,152.1,31416,"gp_mid",16.02,31.74,"305",154.7,"kimmeridgian",16270,17.4147,30.4406,33,1
 "61645",93270,"col","",5.67,46.25,"Oyonnax",NA,"Reef 459",7,"Kimmeridgian","",157.3,152.1,31416,"gp_mid",20.91,29.1,"305",154.7,"kimmeridgian",16281,23.8007,29.9756,33,1
+"62303",94144,"col","Lastres",-5.41,43.55,"Quintueles tracksite",NA,"",4,"Kimmeridgian","",157.3,152.1,45227,"gp_mid",13.73,27.06,"304",154.7,"kimmeridgian",16484,14.0962,22.9153,33,1
+"62304",94145,"col","Lastres",-5.49,43.54,"Oles tracksite",NA,"",3,"Kimmeridgian","",157.3,152.1,31983,"gp_mid",13.67,27.08,"304",154.7,"kimmeridgian",16485,14.0962,22.9153,33,1
+"62305",94146,"col","Lastres",-5.43,43.55,"Tazones tracksite",NA,"",5,"Kimmeridgian","",157.3,152.1,63074,"gp_mid",13.72,27.06,"304",154.7,"kimmeridgian",16486,14.0962,22.9153,33,1
+"62306",94147,"col","Lastres",-5.28,43.53,"Luces tracksite",NA,"Lastres",4,"Kimmeridgian","",157.3,152.1,63074,"gp_mid",13.81,27,"304",154.7,"kimmeridgian",16487,14.0962,22.9153,33,1
 "62555",94491,"col","",38.57,9.42,"Jima River",NA,"",55,"Kimmeridgian","",157.3,152.1,32139,"gp_mid",36.24,-18.85,"715",154.7,"kimmeridgian",16507,30.3939,-20.093,33,1
 "62562",94498,"col","",42.57,7.57,"Tagfidadaedi",NA,"",16,"Kimmeridgian","",157.3,152.1,32151,"gp_mid",38.21,-21.18,"709",154.7,"kimmeridgian",16512,33.5064,-23.5042,33,1
 "62613",94584,"col","",41.88,8.35,"Harro Rufa",NA,"",22,"Kimmeridgian","",157.3,152.1,32196,"gp_mid",37.7,-20.26,"709",154.7,"kimmeridgian",16521,33.5064,-23.5042,33,1
@@ -209,6 +241,7 @@
 "91248",131888,"col","Kimmeridge Clay",5.14,48.21,"Kimmeridge Clay, Bologne (BMNH coll.)",NA,"",1,"Kimmeridgian","",157.3,152.1,38893,"gp_mid",20.12,30.97,"305",154.7,"kimmeridgian",25326,21.1113,29.0073,33,1
 "91249",131889,"col","",10.17,48.71,"Schnaitheim, Würtemberg (BMNH Coll.)",NA,"",2,"Kimmeridgian","",157.3,152.1,38893,"gp_mid",23.85,32.08,"305",154.7,"kimmeridgian",25327,11.25,47.5,33,1
 "91308",131960,"col","",5.14,46.28,"Cirin, Ain, BMNH Coll.",NA,"",6,"Kimmeridgian","",157.3,152.1,38893,"gp_mid",20.5,29.06,"305",154.7,"kimmeridgian",25344,21.1113,29.0073,33,1
+"91309",131961,"col","",11.89,48.93,"Kelheim, Bavaria (BMNH Coll.)",NA,"",4,"Kimmeridgian","",157.3,152.1,38893,"gp_mid",25.11,32.53,"305",154.7,"kimmeridgian",25345,25.2448,33.269,33,1
 "92308",133388,"col","Niwki",20.95,50.18,"Swarzow 8, Niwki Formation",NA,"",2,"Kimmeridgian","",157.3,152.1,42953,"gp_mid",31.61,35.16,"305",154.7,"kimmeridgian",25593,33.1018,36.4635,33,1
 "92328",133424,"col","Kimmeridge Clay",0.18,52.49,"Manea, near Ely",NA,"",1,"Kimmeridgian","",157.3,152.1,42970,"gp_mid",15.59,34.69,"315",154.7,"kimmeridgian",25599,16.3281,32.8694,33,1
 "92601",133865,"col","",174.8,-37.37,"AU 737, Klondyke Road (R13/f6610)",NA,"",1,"Kimmeridgian","",157.3,152.1,43142,"gp_mid",128,-80,"806",154.7,"kimmeridgian",25680,-157.4031,-78.6945,33,1
@@ -233,6 +266,7 @@
 "93954",135417,"col","Badnerschichten",8.35,47.56,"Mellikon (USNM coll)",NA,"",1,"Kimmeridgian","",157.3,152.1,43337,"gp_mid",22.72,30.72,"305",154.7,"kimmeridgian",26181,23.8007,29.9756,33,1
 "94071",135555,"col","",10.24,48.73,"Nattheim, Württemberg (USNM coll)",NA,"",1,"Kimmeridgian","",157.3,152.1,64021,"gp_mid",23.9,32.11,"305",154.7,"kimmeridgian",26237,11.25,47.5,33,1
 "94520",136167,"col","",10,52,"Rohstoffbetriebe Oker Quarry, Langenberg [general]",NA,"Langenberg Limestone",2,"Kimmeridgian","",157.3,152.1,43567,"gp_mid",22.92,35.28,"315",154.7,"kimmeridgian",26376,23.955,35.5244,33,1
+"95031",136933,"col","Lastres",-5.57,43.53,"Quintueles DUPLICATE",NA,"",0,"Kimmeridgian","",157.3,152.1,43789,"gp_mid",13.61,27.09,"304",154.7,"kimmeridgian",26536,14.0962,22.9153,33,1
 "95269",137193,"col","",10.02,52.14,"Uppen, Böschung der BAB, km. 183",NA,"",3,"Kimmeridgian","",157.3,152.1,43855,"gp_mid",22.89,35.42,"315",154.7,"kimmeridgian",26612,23.955,35.5244,33,1
 "95300",137237,"col","Kimmeridge Clay",0.11,49.49,"Le Havre",NA,"",2,"Kimmeridgian","",157.3,152.1,43897,"gp_mid",16.06,31.72,"305",154.7,"kimmeridgian",26625,17.4147,30.4406,33,1
 "95800",137800,"col","",7.21,47.34,"Northeast of Glovelier, between Glovelier and Boécourt",NA,"",1,"Kimmeridgian","",157.3,152.1,44041,"gp_mid",21.89,30.36,"305",154.7,"kimmeridgian",26764,23.8007,29.9756,33,1
@@ -243,6 +277,7 @@
 "101482",144402,"col","Kimmeridge Clay",-2.16,51.25,"Blue Circle Industries 'old quarry'",NA,"Westbury. croc locality",1,"Kimmeridgian","",157.3,152.1,46685,"gp_mid",14.08,33.26,"315",154.7,"kimmeridgian",27741,13.78,32.101,33,1
 "101530",144464,"col","",-25.5,70.67,"Milne Land, east coast",NA,"Plesiosaur locality",1,"Kimmeridgian","",157.3,152.1,46705,"gp_mid",13.43,46.54,"102",154.7,"kimmeridgian",27754,9.1661,44.2537,33,1
 "102243",145758,"col","Kimmeridge Clay",-1.29,51.65,"Oday Common, Abingdon",NA,"O Day",1,"Kimmeridgian","",157.3,152.1,47142,"gp_mid",14.65,33.73,"315",154.7,"kimmeridgian",27924,16.3281,32.8694,33,1
+"102392",146262,"col","Vega",-5.27,43.5,"1.7 km north of Colunga",NA,"",1,"Kimmeridgian","",157.3,152.1,47245,"gp_mid",13.81,26.97,"304",154.7,"kimmeridgian",27959,14.0962,22.9153,33,1
 "105204",149332,"col","",9.33,41.72,"South-East Corsica, Punta d'Aquella",NA,"",1,"Kimmeridgian","",157.3,152.1,47777,"gp_mid",NA,NA,"coordinates not computable using this model",154.7,"kimmeridgian",28286,7.5,42.5,33,1
 "105378",149727,"col","",9.66,52.38,"Ahlem, Hannover",NA,"",1,"Kimmeridgian","",157.3,152.1,33897,"gp_mid",22.57,35.61,"315",154.7,"kimmeridgian",28346,23.955,35.5244,33,1
 "105379",149728,"col","",9.7,52.35,"Tönniesberg, Hannover",NA,"Tonniesberg",2,"Kimmeridgian","",157.3,152.1,33897,"gp_mid",22.61,35.58,"315",154.7,"kimmeridgian",28347,23.955,35.5244,33,1
@@ -253,6 +288,7 @@
 "109238",154717,"col","Reuchenette",7.07,47.42,"Tunnel du Banne",NA,"",3,"Kimmeridgian","",157.3,152.1,50311,"gp_mid",21.76,30.42,"305",154.7,"kimmeridgian",29269,23.8007,29.9756,33,1
 "109311",154817,"col","",0.15,49.4,"Cricquebeuf",NA,"",1,"Kimmeridgian","",157.3,152.1,50384,"gp_mid",16.1,31.62,"305",154.7,"kimmeridgian",29283,17.4147,30.4406,33,1
 "109312",154818,"col","",4.76,46.08,"Montmerle",NA,"",1,"Kimmeridgian","",157.3,152.1,50385,"gp_mid",20.24,28.82,"305",154.7,"kimmeridgian",29284,22.1476,26.6813,33,1
+"109393",154961,"col","Terenes",-5.28,43.49,"La Griega Beach (Terenes Fm)",NA,"Colunga",1,"Kimmeridgian","",157.3,152.1,50506,"gp_mid",13.8,26.96,"304",154.7,"kimmeridgian",29307,14.0962,22.9153,33,1
 "110692",157209,"col","",19.88,51.34,"Sulejow",NA,"",10,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",30.43,36.09,"305",154.7,"kimmeridgian",29614,29.0356,37.5679,33,1
 "110693",157210,"col","",17.07,52.43,"Gruszczyn",NA,"",4,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",28,36.7,"315",154.7,"kimmeridgian",29615,29.0356,37.5679,33,1
 "110694",157211,"col","",18.19,50.43,"Lesnica",NA,"",3,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",29.45,34.94,"305",154.7,"kimmeridgian",29616,30.4617,35.4323,33,1
@@ -268,14 +304,20 @@
 "110704",157221,"col","Mt. Lysa",21.67,50.89,"Ozarow",NA,"",5,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",31.92,35.96,"302",154.7,"kimmeridgian",29624,33.1018,36.4635,33,1
 "110705",157222,"col","Mt. Lysa",21.67,50.89,"Annopol-on-Vistula",NA,"",4,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",31.92,35.96,"302",154.7,"kimmeridgian",29624,33.1018,36.4635,33,1
 "110707",157224,"col","Bahamite sequence",14.08,53.77,"Czarnoglowy",NA,"",13,"Kimmeridgian","",157.3,152.1,51598,"gp_mid",25.4,37.55,"315",154.7,"kimmeridgian",29625,25.0627,38.7494,33,1
+"111054",157760,"col","Lastres",-5.47,43.53,"Argüero tracksite",NA,"",1,"Kimmeridgian","",157.3,152.1,51886,"gp_mid",13.68,27.06,"304",154.7,"kimmeridgian",29679,14.0962,22.9153,33,1
 "111138",157896,"col","Kimmeridge Clay",-2,51.32,"Potterne",NA,"",1,"Kimmeridgian","",157.3,152.1,51917,"gp_mid",14.18,33.34,"315",154.7,"kimmeridgian",29704,13.78,32.101,33,1
 "111143",157901,"col","Bedded Virieu Limestone",5.64,45.76,"Lac d'Armaille",NA,"",2,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",20.98,28.61,"305",154.7,"kimmeridgian",29706,7.5,45,33,1
+"111147",157905,"col","",10.3,48.87,"Barrenberg=Barnberg (BMNH)",NA,"",2,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",23.92,32.25,"305",154.7,"kimmeridgian",29710,25.2448,33.269,33,1
+"111148",157906,"col","",10.3,48.87,"Barrenberg=Barnberg (University of Tubingen)",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",23.92,32.25,"305",154.7,"kimmeridgian",29710,25.2448,33.269,33,1
 "111150",157909,"col","",5.4,45.67,"Sermerieu",NA,"",2,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",20.82,28.49,"305",154.7,"kimmeridgian",29712,22.1476,26.6813,33,1
 "111151",157910,"col","",5.84,45.69,"Col du Chat",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",21.16,28.57,"305",154.7,"kimmeridgian",29713,7.5,45,33,1
+"111152",157911,"col","",11.16,50.07,"Lahm-Kottel",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",24.27,33.54,"305",154.7,"kimmeridgian",29714,25.2448,33.269,33,1
+"111155",157915,"col","",10.32,48.87,"Kasbuhl",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",23.93,32.26,"305",154.7,"kimmeridgian",29715,25.2448,33.269,33,1
 "111156",157916,"col","",8.64,47.7,"Schaffhausen",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",22.91,30.89,"305",154.7,"kimmeridgian",29716,23.8007,29.9756,33,1
 "111158",157918,"col","",10.26,48.73,"Steinweiler bei Nattheim",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",23.92,32.11,"305",154.7,"kimmeridgian",29718,11.25,47.5,33,1
 "111230",158123,"col","",174.77,-38.15,"Waikiekie Peninsula (Heteri Peninsula, Kawhia)",NA,"",1,"Kimmeridgian","",157.3,152.1,9634,"gp_mid",124.4,-80.49,"806",154.7,"kimmeridgian",4155,-157.4031,-78.6945,33,1
 "111231",158124,"col","",174.77,-38.15,"Heteri Peninsula, Kawhia",NA,"",1,"Kimmeridgian","",157.3,152.1,9634,"gp_mid",124.4,-80.49,"806",154.7,"kimmeridgian",4155,-157.4031,-78.6945,33,1
+"111256",158154,"col","",11.86,49.44,"Amberg (BSPG)",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",24.96,33.02,"305",154.7,"kimmeridgian",29741,25.2448,33.269,33,1
 "111266",158186,"col","Abbotsbury Ironstone",-2.6,50.67,"Abbotsbury",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",13.84,32.64,"315",154.7,"kimmeridgian",29747,14.7983,29.617,33,1
 "111267",158187,"col","Abbotsbury Ironstone",-2.6,50.67,"Abbotsbury (Author's Coll.)",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",13.84,32.64,"315",154.7,"kimmeridgian",29747,14.7983,29.617,33,1
 "111270",158192,"col","Kimmeridge Clay",-2.33,50.63,"Ringstead Bay",NA,"",1,"Kimmeridgian","",157.3,152.1,51918,"gp_mid",14.04,32.63,"315",154.7,"kimmeridgian",29748,14.7983,29.617,33,1
@@ -294,6 +336,7 @@
 "114843",163141,"col","",14.81,54.01,"Fritzow, Cammin",NA,"Wrzosowo, Kamien",9,"Kimmeridgian","",157.3,152.1,53788,"gp_mid",25.86,37.9,"302",154.7,"kimmeridgian",26163,25.0627,38.7494,33,1
 "115268",163925,"col","",10.77,52.42,"Klieversberg quarry, Wolfsburg",NA,"",1,"Kimmeridgian","",157.3,152.1,53524,"gp_mid",23.37,35.78,"315",154.7,"kimmeridgian",30850,23.955,35.5244,33,1
 "116584",166182,"col","",-58.3,-64.03,"Locality 5177, Hidden Lake, James Ross Island",NA,"",1,"Kimmeridgian","",157.3,152.1,54294,"gp_mid",-27.81,-62.96,"803",154.7,"kimmeridgian",31221,-26.5906,-72.3116,33,1
+"117377",167652,"col","Lastres",-5.6,43.55,"La Ñora tracksite",NA,"",1,"Kimmeridgian","",157.3,152.1,63074,"gp_mid",13.59,27.12,"304",154.7,"kimmeridgian",31495,14.0962,22.9153,33,1
 "119408",170924,"col","",18.11,49.59,"Stramberg (Buckman)",NA,"",1,"Kimmeridgian","",157.3,152.1,52872,"gp_mid",29.65,34.11,"305",154.7,"kimmeridgian",31792,30.4617,35.4323,33,1
 "119610",171175,"col","",0.06,49.51,"Le Havre (Berliner Sammlung)",NA,"",1,"Kimmeridgian","",157.3,152.1,55702,"gp_mid",16.02,31.73,"305",154.7,"kimmeridgian",26166,17.4147,30.4406,33,1
 "119929",171498,"col","",0.12,49.4,"Villerville, near Trouville",NA,"",1,"Kimmeridgian","",157.3,152.1,55750,"gp_mid",16.08,31.63,"305",154.7,"kimmeridgian",31958,17.4147,30.4406,33,1
@@ -303,6 +346,8 @@
 "120576",172899,"col","Cañadón Calcáreo",-71.58,-43.69,"20 km north of Cerro Cóndor",NA,"",1,"Kimmeridgian","",157.3,152.1,56196,"gp_mid",-24.73,-50.96,"291",154.7,"kimmeridgian",32053,-30.3859,-52.3088,33,1
 "120715",173369,"col","Inalt",34.86,41.64,"Bürnük locality, Inalt Fm, Mesoendothyra izjumiana zone",NA,"",7,"Kimmeridgian","",157.3,152.1,56448,"gp_mid",45.51,29.8,"511",154.7,"kimmeridgian",32082,45.1885,36.9688,33,1
 "124893",179854,"col","Kimmeridge Clay",-1.24,51.67,"Thrupp Lane Gravel Pit",NA,"",1,"Kimmeridgian","",157.3,152.1,59669,"gp_mid",14.69,33.75,"315",154.7,"kimmeridgian",33095,16.3281,32.8694,33,1
+"126491",182646,"col","Lastres",-5.47,43.54,"Argüero tracksite",NA,"Arguero, Villaviciosa",2,"Kimmeridgian","",157.3,152.1,43789,"gp_mid",13.68,27.07,"304",154.7,"kimmeridgian",33502,14.0962,22.9153,33,1
+"129846",187907,"col","Lastres",-5.53,43.55,"Meron-Careñes tracksite",NA,"",1,"Kimmeridgian","",157.3,152.1,63074,"gp_mid",13.64,27.09,"304",154.7,"kimmeridgian",34333,14.0962,22.9153,33,1
 "131113",190538,"col","",39.87,55.97,"Bolgary locality, bed 9, zone ",NA,"",14,"Kimmeridgian","",157.3,152.1,64067,"gp_mid",43.04,44.36,"302",154.7,"kimmeridgian",34520,42.33,46.8057,33,1
 "131115",190540,"col","",39.87,55.97,"Bolgary locality, bed , zone kitchini",NA,"",9,"Kimmeridgian","",157.3,152.1,64067,"gp_mid",43.04,44.36,"302",154.7,"kimmeridgian",34520,42.33,46.8057,33,1
 "131132",190557,"col","",38.22,55.47,"Rybaki locality, 1/6 bet",NA,"",4,"Kimmeridgian","",157.3,152.1,64067,"gp_mid",42.12,43.54,"302",154.7,"kimmeridgian",34531,39.8337,45.5262,33,1
@@ -317,6 +362,7 @@
 "131779",191874,"col","",9.11,48.36,"Monkberg near Salmedingen",NA,"",1,"Kimmeridgian","",157.3,152.1,30001,"gp_mid",23.12,31.6,"305",154.7,"kimmeridgian",34687,23.8007,29.9756,33,1
 "133462",195982,"col","Kimmeridge Clay",-2.45,50.61,"Weymouth (SM coll.)",NA,"",1,"Kimmeridgian","",157.3,152.1,66694,"gp_mid",13.96,32.6,"315",154.7,"kimmeridgian",25323,14.7983,29.617,33,1
 "133463",195983,"col","Kimmeridge Clay",-2.45,50.61,"Weymouth (BGS coll.)",NA,"",1,"Kimmeridgian","",157.3,152.1,66694,"gp_mid",13.96,32.6,"315",154.7,"kimmeridgian",25323,14.7983,29.617,33,1
+"133753",196492,"col","",45.39,40.89,"Berd, Shamshadinsky region",NA,"",2,"Kimmeridgian","",157.3,152.1,66822,"gp_mid",54.49,31.71,"511",154.7,"kimmeridgian",35139,61.9571,20.1791,33,1
 "134865",198389,"col","",26.1,46.4,"Ciofronca (Herbich collection)",NA,"",10,"Kimmeridgian","",157.3,152.1,67580,"gp_mid",36.82,10.39,"308",154.7,"kimmeridgian",35406,37.2605,35.4495,33,1
 "134866",198390,"col","",25.8,46.78,"Ghilcoş outcrop (Preda NSMPN collection)",NA,"",19,"Kimmeridgian","",157.3,152.1,67580,"gp_mid",37.12,10.7,"308",154.7,"kimmeridgian",35407,37.2605,35.4495,33,1
 "134870",198394,"col","",25.8,46.78,"Ghilcoş outcrop (GBA collection)",NA,"",6,"Kimmeridgian","",157.3,152.1,67580,"gp_mid",37.12,10.7,"308",154.7,"kimmeridgian",35407,37.2605,35.4495,33,1
@@ -330,6 +376,7 @@
 "136581",202129,"col","",12.68,42.45,"Monte Lacerone (East, Kimmeridgian)",NA,"",1,"Kimmeridgian","",157.3,152.1,69238,"gp_mid",30.43,18.69,"307",154.7,"kimmeridgian",35822,11.25,42.5,33,1
 "136583",202131,"col","",12.99,42.47,"Monte Terminilletto",NA,"",1,"Kimmeridgian","",157.3,152.1,69238,"gp_mid",30.49,18.47,"307",154.7,"kimmeridgian",35824,11.25,42.5,33,1
 "139542",206193,"col","Middle Kimmeridge marls",10.51,51.9,"Rohstoffbetriebe Oker quarry, bed 93/94, Langenberg",NA,"",3,"Kimmeridgian","",157.3,152.1,70732,"gp_mid",23.31,35.25,"315",154.7,"kimmeridgian",22392,23.955,35.5244,33,1
+"140252",207479,"col","Torleite",11.12,50.03,"Kalk- und Dolomitbruch der Andreas Schorr GmbH",NA,"Wattendorf, Bamberg district",1,"Kimmeridgian","",157.3,152.1,71490,"gp_mid",24.25,33.5,"305",154.7,"kimmeridgian",36937,25.2448,33.269,33,1
 "140273",207509,"col","La Casita",-103.55,24.73,"Cerro de Palotes",NA,"near Cuencamé",1,"Kimmeridgian","",157.3,152.1,71507,"gp_mid",-41.79,11.63,"104",154.7,"kimmeridgian",36942,-46.6236,11.5475,33,1
 "140489",207868,"col","",8.45,47.48,"Wettinger",NA,"",5,"Kimmeridgian","",157.3,152.1,71754,"gp_mid",22.82,30.65,"305",154.7,"kimmeridgian",37025,23.8007,29.9756,33,1
 "143365",212014,"col","Agardhfjellet",13.92,78.1,"Fossilniveau 5",NA,"",12,"Kimmeridgian","",157.3,152.1,73254,"gp_mid",13.73,60.74,"309",154.7,"kimmeridgian",37635,5.9845,57.5062,33,1
@@ -348,3 +395,4 @@
 "144073",213015,"col","Gerpigem- Mezmayskaya",40.85,44.13,"WC117 locality, Gerpigem- Mezmayskaya Fm, Labinskaya Zone",NA,"",1,"Kimmeridgian","",157.3,152.1,73535,"gp_mid",49.42,33.59,"302",154.7,"kimmeridgian",37827,50.0333,38.5506,33,1
 "144130",213103,"col","Agardhfjellet",18.86,78.08,"Agardhfjellet, Fossilniveau 2",NA,"",1,"Kimmeridgian","",157.3,152.1,73545,"gp_mid",15.65,61.15,"311",154.7,"kimmeridgian",37834,7.0954,58.061,33,1
 "144218",213293,"col","",9.73,52.37,"Lindener Berg or Tönniesberg (unspecified)",NA,"",3,"Kimmeridgian","",157.3,152.1,73619,"gp_mid",22.62,35.6,"315",154.7,"kimmeridgian",37850,23.955,35.5244,33,1
+"144373",213536,"col","Vega",-5.28,43.49,"La Griega Beach (Vega Fm)",NA,"Colunga",1,"Kimmeridgian","",157.3,152.1,73750,"gp_mid",13.8,26.96,"304",154.7,"kimmeridgian",29307,14.0962,22.9153,33,1

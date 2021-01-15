@@ -1,6 +1,8 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
 "4955",13077,"col","Statenville",-82.71,30.68,"Suwannee River, GA",NA,"",1,"Langhian","",15.97,13.82,4356,"gp_mid",-76.59,32.82,"109",14.895,"langhian",1498,-79.5016,29.2431,8,1
+"5020",13192,"col","Round Mountain",-118.99,35.39,"CAS locality 275",NA,"",2,"Langhian","",15.97,13.82,10123,"gp_mid",-111.56,38.5,"130",14.895,"langhian",1524,-113.8564,32.7122,8,1
 "5055",60379,"col","Calvert",-76.51,38.63,"Plum Point, north, Zone 10",NA,"",20,"Langhian","",15.97,13.82,23697,"gp_mid",-69.4,40.29,"109",14.895,"langhian",1536,-71.6935,36.4621,8,1
+"5060",13297,"col","Temblor",-118.5,35.3,"Sharktooth Hill",59059,"LACM 4956, CAS 725, UCMP V74021",29,"Langhian","",15.97,13.82,4416,"gp_mid",-111.06,38.41,"130",14.895,"langhian",1539,-113.8564,32.7122,8,1
 "9575",18516,"col","Calvert",-76.5,38.4,"Chesapeake Bay (Lower Calvert)",NA,"",5,"Langhian","",15.97,13.82,3383,"gp_mid",-69.41,40.06,"109",14.895,"langhian",2005,-71.6935,36.4621,8,1
 "9628",18569,"col","Statenville",-83,30.4,"Occidental Mine",NA,"",18,"Langhian","",15.97,13.82,2610,"gp_mid",-76.91,32.56,"109",14.895,"langhian",2010,-79.5016,29.2431,8,1
 "12344",23043,"col","",13.53,51.45,"Hohenleipisch (Flora A)",NA,"",11,"Langhian","",15.97,13.82,6592,"gp_mid",15.49,48.56,"305",14.895,"langhian",2293,11.3499,51.5098,8,1
@@ -38,12 +40,16 @@
 "21850",37337,"col","Bear Lake",-160.84,55.5,"Cape Aliaksin",NA,"USGS M7148, 47-WL-77 (Lyle et al., 1979 pl. 10); also USGS M1340",5,"Langhian","",15.97,13.82,10021,"gp_mid",-159.47,59.77,"125",14.895,"langhian",4448,-156.8574,57.3481,8,1
 "21875",37372,"col","San Martino Calcarenite",12.8,46.22,"Torrente Meduna sample 11",NA,"Venus-Conus community sample 11",14,"Langhian","",15.97,13.82,10020,"gp_mid",15.33,42.53,"307",14.895,"langhian",4456,9.9328,43.1428,8,1
 "21956",37494,"col","",16.48,-28.58,"Orange River Core 3",NA,"",23,"Langhian","",15.97,13.82,10031,"gp_mid",15.03,-32.36,"701",14.895,"langhian",4487,13.0577,-29.5087,8,1
+"22404",38042,"col","Round Mountain Silt",-119.31,35.27,"Round Mountain Silt, upper member",NA,"",0,"Langhian","",15.97,13.82,10143,"gp_mid",-111.9,38.39,"130",14.895,"langhian",4611,-113.8564,32.7122,8,1
+"22405",38043,"col","Round Mountain Silt",-119.31,35.27,"Round Mountain Silt, lower member",NA,"",0,"Langhian","",15.97,13.82,10143,"gp_mid",-111.9,38.39,"130",14.895,"langhian",4611,-113.8564,32.7122,8,1
 "26390",66957,"col","Pakhna",32.92,34.76,"B8 road, junction with the road to Lofou",NA,"",11,"Langhian","",15.97,13.82,19079,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",5772,30.6248,33.4185,8,1
 "27686",44958,"col","",131.85,34.67,"Masuda, San-in",NA,"",47,"Langhian","",15.97,13.82,11713,"gp_mid",129.5,34.2,"610",14.895,"langhian",6239,129.0573,36.8137,8,1
 "27687",44959,"col","",132.07,34.88,"Hamada, San-in",NA,"",49,"Langhian","",15.97,13.82,11713,"gp_mid",129.7,34.43,"610",14.895,"langhian",6240,129.0573,36.8137,8,1
 "27688",44960,"col","",132.4,35.13,"Nima, San-in",NA,"",64,"Langhian","",15.97,13.82,11713,"gp_mid",130.02,34.69,"610",14.895,"langhian",6241,129.0573,36.8137,8,1
 "27689",44961,"col","",133.02,34.85,"Shobara, San-in, Japan",NA,"",53,"Langhian","",15.97,13.82,11713,"gp_mid",130.65,34.44,"610",14.895,"langhian",6242,129.0573,36.8137,8,1
 "27696",44970,"col","",132.53,34.9,"Takami, San-in, Japan",NA,"",48,"Langhian","",15.97,13.82,11713,"gp_mid",130.16,34.47,"610",14.895,"langhian",6244,129.0573,36.8137,8,1
+"28098",45483,"col","Monterey",-119.72,34.4,"Santa Barbara Lighthouse",NA,"",1,"Langhian","",15.97,13.82,11896,"gp_mid",-113.02,37,"105",14.895,"langhian",6336,-113.8564,32.7122,8,1
+"28110",45495,"col","",-120.81,35.56,"Templeton",NA,"",1,"Langhian","",15.97,13.82,11906,"gp_mid",-114.13,38.18,"105",14.895,"langhian",6344,-113.8564,32.7122,8,1
 "28113",45498,"col","Calvert",-76.52,38.58,"Dares Wharf, north of, Zone 11",NA,"",3,"Langhian","",15.97,13.82,11912,"gp_mid",-69.41,40.25,"109",14.895,"langhian",6347,-71.6935,36.4621,8,1
 "28117",45502,"col","Calvert",-76.51,38.5,"Governor Run, north of, Zone 13",NA,"",10,"Langhian","",15.97,13.82,15442,"gp_mid",-69.4,40.17,"109",14.895,"langhian",6351,-71.6935,36.4621,8,1
 "28121",45506,"col","Calvert",-76.52,38.53,"Parker Creek, south, Zone 12",NA,"",16,"Langhian","",15.97,13.82,13044,"gp_mid",-69.41,40.19,"109",14.895,"langhian",6354,-71.6935,36.4621,8,1
@@ -51,24 +57,38 @@
 "28124",45508,"col","Calvert",-76.85,38.17,"Stratford Bluffs, Zone 14-16",NA,"Stratford Cliffs, Big Meadow",10,"Langhian","",15.97,13.82,11917,"gp_mid",-69.79,39.86,"109",14.895,"langhian",6355,-71.6935,36.4621,8,1
 "28125",45509,"col","Calvert",-76.52,38.55,"Parker Creek, north, Zone 10-11",NA,"south of Dares Wharf",4,"Langhian","",15.97,13.82,11925,"gp_mid",-69.41,40.21,"109",14.895,"langhian",6356,-71.6935,36.4621,8,1
 "28272",45659,"col","Gee Greensand",170.9,-45.19,"All Day Bay",NA,"J42/f12",3,"Langhian","",15.97,13.82,12137,"gp_mid",-175.91,-46.69,"807",14.895,"langhian",6427,178.6952,-48.1614,8,1
+"28610",46074,"col","Round Mountain",-118.88,35.45,"Crab Caynon",NA,"UCMP V6953",1,"Langhian","",15.97,13.82,12287,"gp_mid",-111.45,38.57,"130",14.895,"langhian",6567,-113.8564,32.7122,8,1
+"28693",46165,"col","Port Campbell Limestone",141.93,-37.72,"Clifton Bank, Muddy Creek (Vaginella band)",NA,"",29,"Langhian","",15.97,13.82,12318,"gp_mid",144.99,-46.09,"801",14.895,"langhian",6613,140.4426,-44.7414,8,1
+"29085",46585,"col","Chikubetsu",141.8,44.51,"Shosanbetsu: Whale Fall Community",NA,"",12,"Langhian","",15.97,13.82,12435,"gp_mid",138.69,44.46,"610",14.895,"langhian",6770,141.0173,47.0618,8,1
 "30387",47990,"col","Globigerina Limestone",14.25,36.08,"Ophiuroidea, Xwieni Conglomerate bed, Qala Il-Bajda, Gozo",NA,"",3,"Langhian","",15.97,13.82,12839,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",7105,12.7401,32.9906,8,1
+"31528",49397,"col","",8.47,44.68,"Acqui",NA,"Aqui",1,"Langhian","",15.97,13.82,13196,"gp_mid",11.11,41.21,"307",14.895,"langhian",7494,4.4716,43.8147,8,1
 "31911",49945,"col","Calvert",-76.53,38.67,"Randle Cliff Beach, south Zone 14-15",NA,"",5,"Langhian","",15.97,13.82,13413,"gp_mid",-69.41,40.33,"109",14.895,"langhian",7605,-71.6935,36.4621,8,1
 "32952",51327,"col","Glenforslan",139.69,-34.21,"Murbko",NA,"Murbko Homestead",1,"Langhian","",15.97,13.82,13527,"gp_mid",141.88,-42.81,"801",14.895,"langhian",7873,136.1419,-42.3577,8,1
+"33012",51387,"col","Port Campbell Limestone",142.93,-38.45,"Curdie",NA,"Kurdeez Quarry\r\nVictorian Agricultural Lime Ltd.",2,"Langhian","",15.97,13.82,4350,"gp_mid",146.26,-46.7,"801",14.895,"langhian",7882,140.4426,-44.7414,8,1
 "33035",51409,"col","Pata",139.92,-34.15,"Waikerie",NA,"",1,"Langhian","",15.97,13.82,13672,"gp_mid",142.13,-42.73,"801",14.895,"langhian",7893,136.1419,-42.3577,8,1
 "33625",52068,"col","Bessho",140.14,39.56,"Izumeda",NA,"Aoki",1,"Langhian","",15.97,13.82,12317,"gp_mid",137.42,39.44,"610",14.895,"langhian",8023,137.2883,41.9908,8,1
 "35848",55396,"col","Calvert",-76.73,38.54,"James T. Thomas estate",NA,"",127,"Langhian","",15.97,13.82,12189,"gp_mid",-69.63,40.22,"109",14.895,"langhian",8731,-71.6935,36.4621,8,1
+"35897",55453,"col","",136.35,34.93,"Tsuchiyama",NA,"Kurotaki",1,"Langhian","",15.97,13.82,14953,"gp_mid",133.96,34.66,"610",14.895,"langhian",8751,132.8781,37.1638,8,1
 "35931",55517,"col","Calvert",-76.53,38.67,"Chesapeake Beach, south of, Zone 10",NA,"",44,"Langhian","",15.97,13.82,6031,"gp_mid",-69.41,40.34,"109",14.895,"langhian",7605,-71.6935,36.4621,8,1
+"36061",55652,"col","Tonokita",144,43.17,"Akan-cho",NA,"",5,"Langhian","",15.97,13.82,15028,"gp_mid",141,43.21,"609",14.895,"langhian",8795,141.2059,44.2121,8,1
 "36561",56305,"col","Tsurushi",138.26,37.84,"Dogama",NA,"Sohama beach, Ogi",5,"Langhian","",15.97,13.82,15168,"gp_mid",135.66,37.65,"610",14.895,"langhian",8869,136.3602,39.9896,8,1
 "37109",160965,"col","Castilletes",-71.32,11.94,"STRI Loc. 290852 [quadrat A] - Yotoyoro [middle Castilletes Fm]",157858,"",27,"Langhian","",15.97,13.82,43760,"gp_mid",-66.75,12.6,"203",14.895,"langhian",9007,-71.6496,9.7693,8,1
 "37113",160968,"col","Castilletes",-71.31,11.95,"STRI Loc. 290841 [quadrat A] - Yotoyoro [middle Castilletes Fm]",157830,"",29,"Langhian","",15.97,13.82,43760,"gp_mid",-66.74,12.61,"203",14.895,"langhian",9008,-71.6496,9.7693,8,1
 "37764",57775,"col","Bessho",138,36.33,"Hofuku-ji River",NA,"Shiga",1,"Langhian","",15.97,13.82,15537,"gp_mid",135.51,36.12,"610",14.895,"langhian",9109,136.3602,39.9896,8,1
 "37771",57782,"col","Calvert",-76.7,38.54,"Patuxent River, near",NA,"",44,"Langhian","",15.97,13.82,33100,"gp_mid",-69.6,40.22,"109",14.895,"langhian",9114,-71.6935,36.4621,8,1
+"38974",59059,"col","Temblor",-118.91,35.47,"Sharktooth Hill Bonebed",19542,"LACM 1625, LACM 1655, LACM 3160, LACM 3162, LACM 3205, LACM 3499, LACM 4173, LACM 4672, LACM 4874, LACM 6069, 6688",58,"Langhian","",15.97,13.82,16770,"gp_mid",-111.48,38.58,"130",14.895,"langhian",9417,-113.8564,32.7122,8,1
+"38975",59060,"col","Temblor",-118.95,35.55,"Granite Canyon 2",20,"UCMP V-71013",4,"Langhian","",15.97,13.82,16770,"gp_mid",-111.52,38.67,"130",14.895,"langhian",9418,-113.8564,32.7122,8,1
 "39063",59152,"col","Shimo",130.45,35.51,"Shiokumitoge",NA,"",1,"Langhian","",15.97,13.82,16898,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",9439,129.0573,36.8137,8,1
 "39064",59153,"col","Moniwa",140.23,38.2,"Goishi",NA,"",1,"Langhian","",15.97,13.82,25205,"gp_mid",137.61,38.09,"610",14.895,"langhian",9440,136.3602,39.9896,8,1
+"39557",59667,"col","",141.71,44.38,"Haboro, Langhian",NA,"",1,"Langhian","",15.97,13.82,14859,"gp_mid",138.61,44.32,"610",14.895,"langhian",9530,141.0173,47.0618,8,1
 "39805",59983,"col","Narrow Cape",-152.48,57.43,"Narrow Cape",NA,"",2,"Langhian","",15.97,13.82,16892,"gp_mid",-150.15,61.87,"126",14.895,"langhian",9596,-148.757,59.4573,8,1
 "40832",61196,"col","Cevicos Limestone",-69.97,19.03,"Vaughan et al. loc. 8601 - Arroyo Jerguen",NA,"C-11",7,"Langhian","",15.97,13.82,17580,"gp_mid",-66.43,20.18,"252",14.895,"langhian",9862,-71.7605,18.7784,8,1
 "43769",65595,"col","Yanigua",-69.68,18.83,"Rio Camaron",NA,"",2,"Langhian","",15.97,13.82,18843,"gp_mid",-66.15,19.97,"252",14.895,"langhian",10587,-71.7605,18.7784,8,1
+"46766",69779,"col","",-3.55,36.95,"Murchas, Granada, coral-oyster patch reefs, Andalucia",NA,"Reef 1978",21,"Langhian","",15.97,13.82,23406,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",11444,-6.1891,35.9929,8,1
 "46863",69908,"col","Ziqlag",34.62,31.28,"Ofaqim reef, Ziqlag Formation, Hadarom",NA,"Reef 1981",12,"Langhian","",15.97,13.82,23455,"gp_mid",34.94,26.79,"508",14.895,"langhian",11475,31.1203,30.6773,8,1
+"46938",70056,"col","Girbova de Sus",23.63,46.43,"Podeni, coral build-ups, Cluj",NA,"Reef 1623",16,"Langhian","",15.97,13.82,23519,"gp_mid",25.46,42.28,"308",14.895,"langhian",11492,19.0254,46.6771,8,1
+"46939",70057,"col","Girbova de Sus",23.63,46.47,"Pietroasa, patch reef, Cluj",NA,"Reef 1623",1,"Langhian","",15.97,13.82,23519,"gp_mid",25.46,42.31,"308",14.895,"langhian",11493,19.0254,46.6771,8,1
+"46940",70058,"col","Girbova de Sus",23.67,46.37,"Lopadea Veche, patch reef, Cluj",NA,"Reef 1623",4,"Langhian","",15.97,13.82,23519,"gp_mid",25.48,42.21,"308",14.895,"langhian",11494,19.0254,46.6771,8,1
 "47274",70548,"col","Haratajino",138.88,36.32,"Haradashino",NA,"Annaka, Annaka-shi",1,"Langhian","",15.97,13.82,23672,"gp_mid",136.39,36.15,"610",14.895,"langhian",11560,136.3602,39.9896,8,1
 "47308",70594,"col","Calvert",-76.51,38.63,"Plum Point, north, Zone 14",NA,"",2,"Langhian","",15.97,13.82,23697,"gp_mid",-69.4,40.29,"109",14.895,"langhian",1536,-71.6935,36.4621,8,1
 "47507",70818,"col","Calvert",-76.52,38.61,"Plum Point, Zone 10",NA,"",5,"Langhian","",15.97,13.82,23697,"gp_mid",-69.4,40.28,"109",14.895,"langhian",11602,-71.6935,36.4621,8,1
@@ -112,28 +132,40 @@
 "48273",71877,"col","",32.47,34.83,"Loc. 4, Tsada near Paphos",NA,"",1,"Langhian","",15.97,13.82,24293,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",11820,30.6248,33.4185,8,1
 "48274",71878,"col","",32.42,34.9,"Loc. 4a, Paphos-Polis",NA,"",2,"Langhian","",15.97,13.82,24293,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",11821,30.6248,33.4185,8,1
 "48275",71879,"col","",32.92,34.75,"Loc. 5a, Kolossi-Trimiklini",NA,"",1,"Langhian","",15.97,13.82,24293,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",11822,30.6248,33.4185,8,1
+"48504",72207,"col","Fyansford",144.28,-38.13,"Fyansford Fm - Fyansford",NA,"",11,"Langhian","",15.97,13.82,18236,"gp_mid",147.72,-46.25,"801",14.895,"langhian",11885,140.4426,-44.7414,8,1
+"49017",73616,"col","Cessole",8.23,44.65,"Bricco della Croce, Cessole, Piedmont",NA,"",10,"Langhian","",15.97,13.82,24683,"gp_mid",10.88,41.2,"307",14.895,"langhian",12034,4.4716,43.8147,8,1
+"49777",74629,"col","Temblor",-118.92,35.46,"Sharktooth Hill (Mitchell Collection)",19542,"UCMP V-2401",7,"Langhian","",15.97,13.82,25098,"gp_mid",-111.49,38.58,"130",14.895,"langhian",12169,-113.8564,32.7122,8,1
 "49943",74958,"col","Baitoa",-70.8,19.3,"TU 1364 - Rio Yaque del Norte [Baitoa Fm]",NA,"",75,"Langhian","",15.97,13.82,19909,"gp_mid",-67.25,20.5,"252",14.895,"langhian",12243,-71.7605,18.7784,8,1
 "49944",74959,"col","Baitoa",-70.8,19.3,"TU 1363 - Rio Yaque del Norte [Baitoa Fm]",NA,"",58,"Langhian","",15.97,13.82,19909,"gp_mid",-67.25,20.5,"252",14.895,"langhian",12243,-71.7605,18.7784,8,1
 "50354",75729,"col","Niwaya",138.98,36.25,"Kurosawa",NA,"Yoshii",3,"Langhian","",15.97,13.82,25586,"gp_mid",136.49,36.09,"610",14.895,"langhian",12339,136.3602,39.9896,8,1
 "50362",75740,"col","Yanagawa",140.6,37.85,"Yanagawa-machi",NA,"",1,"Langhian","",15.97,13.82,25581,"gp_mid",138,37.76,"610",14.895,"langhian",12341,136.3602,39.9896,8,1
 "50568",76005,"col","Kadonosawa",141.17,40.63,"Ninohe",NA,"",2,"Langhian","",15.97,13.82,12148,"gp_mid",138.36,40.56,"610",14.895,"langhian",12452,141.1863,41.7121,8,1
 "50587",76034,"col","Nanadani-eq",139.48,38.23,"Murakami",NA,"",1,"Langhian","",15.97,13.82,12148,"gp_mid",136.86,38.09,"610",14.895,"langhian",12461,136.3602,39.9896,8,1
+"50593",76041,"col","",135.44,35.42,"Ichishi",NA,"",3,"Langhian","",15.97,13.82,12148,"gp_mid",133.02,35.11,"610",14.895,"langhian",12465,132.8781,37.1638,8,1
+"51355",77918,"col","Furanui",142.23,42.52,"Hirotomi, warm-water molluscs",NA,"",12,"Langhian","",15.97,13.82,26300,"gp_mid",139.28,42.48,"610",14.895,"langhian",12728,141.2059,44.2121,8,1
+"51356",77919,"col","Furanui",142.23,42.52,"Hirotomi, cold-water molluscs",NA,"",11,"Langhian","",15.97,13.82,26300,"gp_mid",139.28,42.48,"610",14.895,"langhian",12728,141.2059,44.2121,8,1
+"51357",77920,"col","Furanui",142.23,42.52,"Hirotomi, eurythermal molluscs",NA,"",10,"Langhian","",15.97,13.82,26300,"gp_mid",139.28,42.48,"610",14.895,"langhian",12728,141.2059,44.2121,8,1
+"51358",77921,"col","Furanui",142.23,42.52,"Hirotomi, undifferentiated molluscs",NA,"",22,"Langhian","",15.97,13.82,26300,"gp_mid",139.28,42.48,"610",14.895,"langhian",12728,141.2059,44.2121,8,1
 "52484",79793,"col","Calvert",-76.83,38.16,"Stratford Hall, Langhian, Zones 10-11",NA,"",78,"Langhian","",15.97,13.82,26220,"gp_mid",-69.78,39.85,"109",14.895,"langhian",13065,-71.6935,36.4621,8,1
 "53399",81668,"col","",14.27,36.05,"Gozo, Langhian",NA,"",8,"Langhian","",15.97,13.82,10123,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",13408,12.7401,32.9906,8,1
 "58174",88322,"col","Glenforslan",139.63,-34.29,"PL3203 - Left bank of the Murray River, 7 km NNE of Blanchetown",NA,"",18,"Langhian","",15.97,13.82,29647,"gp_mid",141.83,-42.9,"801",14.895,"langhian",15100,136.1419,-42.3577,8,1
 "58423",88577,"col","Calvert",-76.52,38.64,"Camp Roosevelt, Zone 14",NA,"",1,"Langhian","",15.97,13.82,17253,"gp_mid",-69.41,40.31,"109",14.895,"langhian",15170,-71.6935,36.4621,8,1
 "58424",88578,"col","Calvert",-76.51,38.6,"Plum Point, south, Zone 14",NA,"Kaufmann Camp",1,"Langhian","",15.97,13.82,17253,"gp_mid",-69.4,40.27,"109",14.895,"langhian",11603,-71.6935,36.4621,8,1
 "58426",88580,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 14",NA,"",0,"Langhian","",15.97,13.82,17253,"gp_mid",-69.37,40.11,"109",14.895,"langhian",15171,-71.6935,36.4621,8,1
+"58794",89036,"col","Shimo",135.55,35.48,"Takahama",NA,"",2,"Langhian","",15.97,13.82,29862,"gp_mid",133.12,35.18,"610",14.895,"langhian",15280,132.8781,37.1638,8,1
 "59077",89550,"col","Calvert",-76.62,38.42,"Cat Creek",NA,"Queen Anne Landing",1,"Langhian","",15.97,13.82,29991,"gp_mid",-69.53,40.09,"109",14.895,"langhian",11756,-71.6935,36.4621,8,1
 "60164",91470,"col","",136.94,37.12,"Hannoura",NA,"",1,"Langhian","",15.97,13.82,30804,"gp_mid",134.4,36.87,"610",14.895,"langhian",15816,136.3602,39.9896,8,1
+"60945",92291,"col","Muddy Creek",141.92,-37.73,"Muddy Creek (USNM collection)",NA,"",7,"Langhian","",15.97,13.82,26424,"gp_mid",144.98,-46.1,"801",14.895,"langhian",16069,140.4426,-44.7414,8,1
 "61925",93680,"col","Baitoa",-70.72,19.35,"NMB Loc. 16936 - Río Yaque del Norte [Baitoa Fm]",NA,"PJ# 1690",11,"Langhian","",15.97,13.82,25313,"gp_mid",-67.16,20.54,"252",14.895,"langhian",16398,-71.7605,18.7784,8,1
 "62007",93773,"col","Baitoa",-70.7,19.35,"NMB Loc. 16939 - Rio Yaque del Norte [Baitoa Fm]",NA,"",3,"Langhian","",15.97,13.82,25313,"gp_mid",-67.14,20.54,"252",14.895,"langhian",16424,-71.7605,18.7784,8,1
 "62017",93790,"col","Kurosedani",137.14,36.58,"Kuzuhara",NA,"Yatsuomachi, Yatsuo",2,"Langhian","",15.97,13.82,38198,"gp_mid",134.63,36.34,"610",14.895,"langhian",16434,136.3602,39.9896,8,1
 "62024",93796,"col","Baitoa",-70.7,19.35,"NMB Loc. 16943 - Río Yaque del Norte [Baitoa Fm]",NA,"",11,"Langhian","",15.97,13.82,25313,"gp_mid",-67.14,20.54,"252",14.895,"langhian",16424,-71.7605,18.7784,8,1
+"64426",96784,"col","Dej Tuff",24.01,47.25,"Corobani, Ciceu Giurgeti",NA,"",1,"Langhian","",15.97,13.82,33019,"gp_mid",25.87,43.07,"308",14.895,"langhian",17095,19.0254,46.6771,8,1
 "64482",96896,"col","Tsuchiyutoge",140.33,37.68,"Higashi Karasugawa River",NA,"",1,"Langhian","",15.97,13.82,40902,"gp_mid",137.74,37.58,"610",14.895,"langhian",17121,136.3602,39.9896,8,1
 "64943",97474,"col","Calvert",-76.5,38.49,"Western Shores/Kenwood Beach",NA,"",1,"Langhian","",15.97,13.82,33248,"gp_mid",-69.4,40.16,"109",14.895,"langhian",17234,-71.6935,36.4621,8,1
 "65034",97625,"col","Bear Lake",-160.87,55.52,"Beaver Bay",NA,"",1,"Langhian","",15.97,13.82,33321,"gp_mid",-159.5,59.79,"125",14.895,"langhian",17253,-156.8574,57.3481,8,1
 "65584",98328,"col","Calvert",-76.44,38.44,"Calvert Cliffs nuclear power plant, offshore",NA,"",1,"Langhian","",15.97,13.82,33973,"gp_mid",-69.34,40.09,"109",14.895,"langhian",17474,-71.6935,36.4621,8,1
+"67153",100258,"col","Temblor",-119.45,35.47,"CAS 905",NA,"",1,"Langhian","",15.97,13.82,34413,"gp_mid",-112.04,38.59,"130",14.895,"langhian",18038,-113.8564,32.7122,8,1
 "69122",103101,"col","Chojabaru",129.8,33.78,"Chojabaru-zaki, Iki Island",NA,"",6,"Langhian","",15.97,13.82,34858,"gp_mid",127.51,33.23,"610",14.895,"langhian",18872,129.0573,36.8137,8,1
 "69912",104749,"col","",-76,38,"Horsehead Cliffs, Zone 11",NA,"Westmoreland State Park",1,"Langhian","",15.97,13.82,35053,"gp_mid",-68.95,39.63,"109",14.895,"langhian",19274,-71.6935,36.4621,8,1
 "79379",116631,"col","",49.53,40.5,"Sumgait River, Gobustan, member 12 Burdigalian",NA,"",6,"Langhian","",15.97,13.82,37562,"gp_mid",49.49,37.42,"402",14.895,"langhian",22249,45.5813,40.0861,8,1
@@ -142,7 +174,14 @@
 "84032",121983,"col","Upper Globigerina Limestone",14.22,36.08,"Wied il-Mielah",NA,"",3,"Langhian","",15.97,13.82,46379,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",23487,12.7401,32.9906,8,1
 "84047",121999,"col","Globigerina Limestone",14.36,35.9,"Upper Globiggerina Limestone",NA,"",1,"Langhian","",15.97,13.82,38808,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",23496,12.7401,32.9906,8,1
 "84078",122038,"col","Globigerina Limestone",14.28,36.06,"Rdum tax-Xaghra",NA,"",1,"Langhian","",15.97,13.82,38808,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",23506,12.7401,32.9906,8,1
+"84313",122377,"col","",143.15,-38.68,"Gellibrand River",NA,"",6,"Langhian","",15.97,13.82,38943,"gp_mid",146.55,-46.91,"801",14.895,"langhian",23570,140.4426,-44.7414,8,1
 "87495",126602,"col","Calvert",-76.52,38.65,"Cheapeake Beach, south",NA,"",1,"Langhian","",15.97,13.82,41094,"gp_mid",-69.4,40.32,"109",14.895,"langhian",24488,-71.6935,36.4621,8,1
+"88153",127685,"col","Tsuchiyama",136.32,34.94,"Nishino",NA,"",1,"Langhian","",15.97,13.82,41697,"gp_mid",133.93,34.67,"610",14.895,"langhian",24614,132.8781,37.1638,8,1
+"88173",127702,"col","",133.45,34.75,"Imobara",NA,"BIH-1",4,"Langhian","",15.97,13.82,41705,"gp_mid",131.08,34.35,"610",14.895,"langhian",24624,132.8781,37.1638,8,1
+"88174",127703,"col","Jinseki",133.3,34.77,"Munekane",NA,"BIH-2",2,"Langhian","",15.97,13.82,41705,"gp_mid",130.93,34.37,"610",14.895,"langhian",24625,132.8781,37.1638,8,1
+"88177",127705,"col","Yoshino",134.16,35.08,"Cliff of Mino",NA,"KTT-1",1,"Langhian","",15.97,13.82,41705,"gp_mid",131.76,34.71,"610",14.895,"langhian",24627,132.8781,37.1638,8,1
+"88179",127706,"col","",134.19,35.1,"Cliff of Kaki",NA,"KTT-2",3,"Langhian","",15.97,13.82,41705,"gp_mid",131.8,34.74,"610",14.895,"langhian",24629,132.8781,37.1638,8,1
+"88181",127707,"col","Yoshino",134.07,35.05,"Niida",NA,"KTT-3",5,"Langhian","",15.97,13.82,41705,"gp_mid",131.68,34.68,"610",14.895,"langhian",24631,132.8781,37.1638,8,1
 "90862",131477,"col","Baitoa",-70.7,19.35,"NMB Loc. 17287 - Río Yaque del Norte [Baitoa Fm]",NA,"PJ# 1732",8,"Langhian","",15.97,13.82,25313,"gp_mid",-67.14,20.54,"252",14.895,"langhian",16424,-71.7605,18.7784,8,1
 "90880",131499,"col","Baitoa",-70.7,19.35,"NMB Loc. 16942 - Río Yaque del Norte [Baitoa Fm]",NA,"PJ# 1696",7,"Langhian","",15.97,13.82,25313,"gp_mid",-67.14,20.54,"252",14.895,"langhian",16424,-71.7605,18.7784,8,1
 "90881",131500,"col","Baitoa",-70.7,19.35,"NMB Loc. 16938 - Río Yaque del Norte [Baitoa Fm]",NA,"PJ# 1692",11,"Langhian","",15.97,13.82,25313,"gp_mid",-67.14,20.54,"252",14.895,"langhian",16424,-71.7605,18.7784,8,1
@@ -267,10 +306,26 @@
 "114138",162000,"col","Castilletes",-71.32,11.88,"STRI Loc. 290624 [field] - Punta Gorda sud [upper Castilletes Fm]",NA,"",9,"Langhian","",15.97,13.82,43760,"gp_mid",-66.76,12.55,"203",14.895,"langhian",30623,-71.6496,9.7693,8,1
 "114139",162001,"col","Castilletes",-71.32,11.89,"STRI Loc. 290625 [field] - Punta Gorda sud [upper Castilletes Fm]",NA,"",3,"Langhian","",15.97,13.82,43760,"gp_mid",-66.76,12.55,"203",14.895,"langhian",30624,-71.6496,9.7693,8,1
 "114150",162013,"col","Castilletes",-71.32,11.93,"STRI Loc. 290474 [field] - Puerto Lopez [middle Castilletes Fm]",NA,"",1,"Langhian","",15.97,13.82,43760,"gp_mid",-66.75,12.6,"203",14.895,"langhian",29533,-71.6496,9.7693,8,1
+"115579",164746,"col","",118,1,"Bontang Mine, East Kalimantan, Lemoedjan-Sawahan",NA,"",1,"Langhian","",15.97,13.82,53783,"gp_mid",121.58,0.81,"620",14.895,"langhian",30919,114.7346,1.9888,8,1
+"115580",164747,"col","",118,1,"Kari Orang, East Kalimantan",NA,"",1,"Langhian","",15.97,13.82,53783,"gp_mid",121.58,0.81,"620",14.895,"langhian",30919,114.7346,1.9888,8,1
+"115585",164752,"col","",117,0,"Batu Cermen, East Kalimantan, TF79, Samarinda",NA,"",6,"Langhian","",15.97,13.82,53783,"gp_mid",120.71,-0.3,"620",14.895,"langhian",30920,114.7346,1.9888,8,1
+"116389",165934,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek (BMNH collection)",NA,"",3,"Langhian","",15.97,13.82,54222,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
+"116496",166093,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Coral pillarstone facies",NA,"",14,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116497",166094,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Skeletal packstone facies",NA,"",15,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116592",166192,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Heterometric rudstone facies",NA,"",7,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116593",166200,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Halimeda rudstone facies",NA,"",8,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116594",166201,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Rhodolith floatstone facies",NA,"",5,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116595",166203,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Coral domestone facies",NA,"",9,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116596",166204,"col","Mut",33.47,36.83,"Dagpazari reef, Pirinç section, Coralline algal grainstone facies",NA,"",0,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116597",166205,"col","",33.47,36.83,"Dagpazari reef, Pirinç section, Coralline algal bindstone facies",NA,"",9,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116598",166206,"col","",33.47,36.83,"Dagpazari reef, Pirinç section, Fine-grained skeletal wackestone facies",NA,"",5,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
+"116599",166207,"col","",33.47,36.83,"Dagpazari reef, Pirinç section, Benthic foraminifera packstone facies",NA,"",9,"Langhian","",15.97,13.82,54288,"gp_mid",34.1,33.7,"504",14.895,"langhian",31206,31.0657,35.8921,8,1
 "116614",166232,"col","Güines",-81.58,23.06,"White Limestone of Matanzas",NA,"",1,"Langhian","",15.97,13.82,54316,"gp_mid",-76.13,25.14,"206",14.895,"langhian",31232,-79.8507,21.7497,8,1
 "117271",167460,"col","Moniwa",140.76,38.21,"Kita-Akashi, Sendai City",NA,"",2,"Langhian","",15.97,13.82,54640,"gp_mid",138.13,38.13,"610",14.895,"langhian",31479,141.1681,39.2121,8,1
 "117840",168458,"col","Calvert",-76.51,38.6,"Plum Point, south, Zone 11",NA,"",1,"Langhian","",15.97,13.82,55050,"gp_mid",-69.4,40.27,"109",14.895,"langhian",11603,-71.6935,36.4621,8,1
+"119470",171034,"col","",133.97,34.63,"Obara",NA,"",1,"Langhian","",15.97,13.82,55671,"gp_mid",131.6,34.26,"610",14.895,"langhian",31809,132.8781,37.1638,8,1
 "119713",171278,"col","Nullarbor",128.89,-31.66,"Near Eucla",NA,"",1,"Langhian","",15.97,13.82,55713,"gp_mid",129.43,-41.09,"801",14.895,"langhian",31874,123.6642,-39.9894,8,1
+"119714",171279,"col","Nullarbor",131.51,-30.48,"Near Watson",NA,"",1,"Langhian","",15.97,13.82,55713,"gp_mid",132.25,-39.75,"801",14.895,"langhian",31875,127.7662,-37.4811,8,1
 "119715",171280,"col","",140.33,-34.15,"Overland Corner, Murray River",NA,"",2,"Langhian","",15.97,13.82,55713,"gp_mid",142.59,-42.7,"801",14.895,"langhian",31876,136.1419,-42.3577,8,1
 "119716",171281,"col","",139.9,-34.1,"Murray view, nine miles from Waikerie",NA,"",1,"Langhian","",15.97,13.82,55713,"gp_mid",142.1,-42.68,"801",14.895,"langhian",31877,136.1419,-42.3577,8,1
 "119718",171283,"col","",139.54,-34.75,"Western Flat, River Murray",NA,"",1,"Langhian","",15.97,13.82,55713,"gp_mid",141.8,-43.36,"801",14.895,"langhian",31879,136.1419,-42.3577,8,1
@@ -283,26 +338,49 @@
 "120044",171614,"col","Maneami",137.07,37.21,"Maneami",NA,"",1,"Langhian","",15.97,13.82,55800,"gp_mid",134.52,36.97,"610",14.895,"langhian",31995,136.3602,39.9896,8,1
 "120051",171621,"col","Kimachi",132.95,35.42,"Kimachi",NA,"",2,"Langhian","",15.97,13.82,55805,"gp_mid",130.55,35,"610",14.895,"langhian",31999,129.0573,36.8137,8,1
 "120436",172170,"col","Suenomatsuyama",141.3,40.34,"Kintaichi",NA,"",2,"Langhian","",15.97,13.82,55905,"gp_mid",138.52,40.27,"610",14.895,"langhian",32019,141.1863,41.7121,8,1
+"120852",173646,"col","",117.3,-0.32,"TF56 Samarinda",NA,"Badak South",1,"Langhian","",15.97,13.82,56099,"gp_mid",121.04,-0.59,"620",14.895,"langhian",32127,114.7346,1.9888,8,1
+"120921",174139,"col","",142.03,-37.78,"Muddy Creek",NA,"",62,"Langhian","",15.97,13.82,56777,"gp_mid",145.11,-46.13,"801",14.895,"langhian",32151,140.4426,-44.7414,8,1
+"122357",176281,"col","Fyansford",144.34,-38.17,"PL 3040 - Belmont Shaft, 60 ft up section",NA,"",1,"Langhian","",15.97,13.82,57935,"gp_mid",147.8,-46.28,"801",14.895,"langhian",32409,140.4426,-44.7414,8,1
+"122375",176299,"col","Port Campbell Limestone",141.93,-37.72,"Clifton Bank",NA,"Muddy Creek",7,"Langhian","",15.97,13.82,18301,"gp_mid",144.99,-46.09,"801",14.895,"langhian",6613,140.4426,-44.7414,8,1
 "122376",176300,"col","Cadell Marl",139.69,-34.05,"PL3084 - south of Morgan",NA,"",1,"Langhian","",15.97,13.82,18301,"gp_mid",141.85,-42.65,"801",14.895,"langhian",32416,136.1419,-42.3577,8,1
 "122377",176301,"col","Cadell Marl",139.67,-34.1,"Murray River cliff, 4 miles downstream from Morgan",NA,"",3,"Langhian","",15.97,13.82,18301,"gp_mid",141.85,-42.7,"801",14.895,"langhian",32417,136.1419,-42.3577,8,1
 "122469",176416,"col","Cadell Marl",139.68,-34.09,"Murray River cliff, 6 kilometers south of Morgan",NA,"",2,"Langhian","",15.97,13.82,58044,"gp_mid",141.85,-42.69,"801",14.895,"langhian",32446,136.1419,-42.3577,8,1
 "122470",176417,"col","Cadell Marl",139.68,-34.09,"Murray River cliff, ravine 5.9 kilometers south of Morgan",NA,"",1,"Langhian","",15.97,13.82,58044,"gp_mid",141.85,-42.69,"801",14.895,"langhian",32446,136.1419,-42.3577,8,1
 "122471",176418,"col","Cadell Marl",139.68,-34.09,"Murray River cliff, amphitheater 6+ kilometers south of Morgan",NA,"",1,"Langhian","",15.97,13.82,58044,"gp_mid",141.85,-42.69,"801",14.895,"langhian",32446,136.1419,-42.3577,8,1
 "122570",176558,"col","Higashi-lnnai",137.17,37.49,"Locality No. 30. Road side cutting near Koeiji Temple, Otani, Suzu City",NA,"",23,"Langhian","",15.97,13.82,58160,"gp_mid",134.61,37.25,"610",14.895,"langhian",32470,136.3602,39.9896,8,1
+"122755",176772,"col","Fyansford",143.99,-38.05,"Red Bluff",NA,"",1,"Langhian","",15.97,13.82,58317,"gp_mid",147.37,-46.2,"801",14.895,"langhian",32531,140.4426,-44.7414,8,1
+"123351",177710,"col","Fyansford",144.28,-38.09,"Batesford Quarry, Portland Cement Ltd",NA,"",1,"Langhian","",15.97,13.82,58797,"gp_mid",147.71,-46.21,"801",14.895,"langhian",32658,140.4426,-44.7414,8,1
+"123512",178112,"col","Baldissero",7.76,45.03,"Villa Allason, Torvino Hills",NA,"",127,"Langhian","",15.97,13.82,58924,"gp_mid",10.47,41.61,"307",14.895,"langhian",32716,4.4716,43.8147,8,1
+"123513",178116,"col","Baldissero",7.71,45.02,"Villa Allason, Torvino Hills",NA,"",136,"Langhian","",15.97,13.82,58924,"gp_mid",10.43,41.59,"307",14.895,"langhian",32717,4.4716,43.8147,8,1
+"123515",178114,"col","Baldissero",7.75,45.03,"Villa Forzano, Torvino Hills",NA,"",97,"Langhian","",15.97,13.82,58924,"gp_mid",10.46,41.61,"307",14.895,"langhian",32719,4.4716,43.8147,8,1
+"123694",178322,"col","Baldissero",7.82,45.07,"Baldissero, Collines de Turin",NA,"",7,"Langhian","",15.97,13.82,58437,"gp_mid",10.53,41.64,"307",14.895,"langhian",32784,4.4716,43.8147,8,1
+"123810",178522,"col","Baldissero",7.72,45.05,"Rio della Batteria, Val Salice, Calli Torinesi",NA,"",4,"Langhian","",15.97,13.82,59065,"gp_mid",10.44,41.63,"307",14.895,"langhian",32801,4.4716,43.8147,8,1
 "124634",179580,"col","Gran Bajo del Gualicho",-65.25,-40.38,"Gran Bajo del Gualicho, Top Layers",NA,"",11,"Langhian","",15.97,13.82,59467,"gp_mid",-62.74,-39.89,"291",14.895,"langhian",33018,-60.9124,-41.8278,8,1
 "124754",179713,"col","Tawun",113.11,-7.14,"Loc 26^10 im Suden von Lodan",NA,"",6,"Langhian","",15.97,13.82,59426,"gp_mid",117.71,-7.86,"620",14.895,"langhian",33054,111.2519,-5.4772,8,1
+"124881",179842,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek (AUGD collection)",NA,"",1,"Langhian","",15.97,13.82,13527,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
 "124887",179848,"col","Kimachi",133.04,35.43,"Iwayamae, Tamatsukuri-town, Yatsuka-gun",NA,"",1,"Langhian","",15.97,13.82,59662,"gp_mid",130.63,35.02,"610",14.895,"langhian",33091,129.0573,36.8137,8,1
+"124890",179851,"col","Shimo",135.51,35.51,"Ogurui, Takahama, Fukui Prefecture",NA,"",1,"Langhian","",15.97,13.82,59662,"gp_mid",133.08,35.21,"610",14.895,"langhian",33093,132.8781,37.1638,8,1
 "124892",179853,"col","Togane",132.12,34.94,"Senjojiki of Togane, near Hamada, Iwami Province, Shimane Prefecture",NA,"",1,"Langhian","",15.97,13.82,59667,"gp_mid",129.75,34.49,"610",14.895,"langhian",33094,129.0573,36.8137,8,1
 "124906",179867,"col","",131.83,34.66,"Northeast of Dasai Shrine, Masuda City",NA,"",1,"Langhian","",15.97,13.82,59672,"gp_mid",129.48,34.2,"610",14.895,"langhian",33107,129.0573,36.8137,8,1
 "124907",179868,"col","Itabashi",133.04,34.86,"Road cliff at Shinjo-cho, Shobara City",NA,"",8,"Langhian","",15.97,13.82,59673,"gp_mid",130.66,34.44,"610",14.895,"langhian",33108,129.0573,36.8137,8,1
 "124908",179869,"col","Itabashi",133.02,34.86,"Saijo River, 4-chome, Higashihonmachi",NA,"",8,"Langhian","",15.97,13.82,59673,"gp_mid",130.64,34.45,"610",14.895,"langhian",33109,129.0573,36.8137,8,1
 "124909",179870,"col","Kadoyama",131.04,34.38,"West end of Kakebuchi, Yuya-cho, Yamaguchi Prefecture",NA,"",1,"Langhian","",15.97,13.82,59674,"gp_mid",128.71,33.88,"610",14.895,"langhian",33110,129.0573,36.8137,8,1
+"124988",179948,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek, lower bed (Chapman collection)",NA,"",3,"Langhian","",15.97,13.82,59709,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
 "124989",179949,"col","",139.68,-34.05,"Murray Cliffs, white polyzoal limestone",NA,"",1,"Langhian","",15.97,13.82,59709,"gp_mid",141.84,-42.65,"801",14.895,"langhian",33136,136.1419,-42.3577,8,1
 "124993",179953,"col","",139.69,-34.04,"Nor'west Bend, Murray River",NA,"",1,"Langhian","",15.97,13.82,59709,"gp_mid",141.85,-42.64,"801",14.895,"langhian",33138,136.1419,-42.3577,8,1
+"124997",179957,"col","Port Campbell Limestone",141.93,-37.72,"Clifton Bank, Muddy Creek (lower blue marls)",NA,"",5,"Langhian","",15.97,13.82,59709,"gp_mid",144.99,-46.09,"801",14.895,"langhian",6613,140.4426,-44.7414,8,1
+"124998",179958,"col","Port Campbell Limestone",141.93,-37.72,"Clifton Bank, Muddy Creek (Dennant collection)",NA,"",6,"Langhian","",15.97,13.82,38987,"gp_mid",144.99,-46.09,"801",14.895,"langhian",6613,140.4426,-44.7414,8,1
+"125021",180100,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek (Tenison-Woods collection)",NA,"",2,"Langhian","",15.97,13.82,26424,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
+"125022",180101,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek (F.A. Singleton collection)",NA,"",1,"Langhian","",15.97,13.82,59647,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
+"125023",180102,"col","Port Campbell Limestone",141.94,-37.74,"Muddy Creek (UWA collection)",NA,"",1,"Langhian","",15.97,13.82,59647,"gp_mid",145,-46.1,"801",14.895,"langhian",31140,140.4426,-44.7414,8,1
+"125025",180104,"col","Port Campbell Limestone",141.93,-37.72,"Clifton Bank, Muddy Creek (NZGS collection)",NA,"",1,"Langhian","",15.97,13.82,59708,"gp_mid",144.99,-46.09,"801",14.895,"langhian",6613,140.4426,-44.7414,8,1
 "125135",180409,"col","Güines",-81.58,23.06,"Yumurí Gorge near Matanzas",NA,"",1,"Langhian","",15.97,13.82,59868,"gp_mid",-76.13,25.14,"206",14.895,"langhian",31232,-79.8507,21.7497,8,1
+"125182",180455,"col","Baldissero",7.76,45.05,"Collina di Torino (CAS collection)",NA,"",1,"Langhian","",15.97,13.82,54367,"gp_mid",10.48,41.62,"307",14.895,"langhian",33213,4.4716,43.8147,8,1
+"125744",181267,"col","Yoshino",133.97,35.05,"Tsuyama, KA-T2 locality",NA,"",1,"Langhian","",15.97,13.82,60261,"gp_mid",131.58,34.68,"610",14.895,"langhian",33334,132.8781,37.1638,8,1
 "129327",187022,"col","",-160.89,55.51,"northwest corner of Cape Aliaksin",NA,"USGS M2132",1,"Langhian","",15.97,13.82,62716,"gp_mid",-159.52,59.78,"125",14.895,"langhian",34228,-156.8574,57.3481,8,1
 "129516",187324,"col","Calvert",-76.83,38.16,"Stratford Hall, Langhian, Zones 15A-B",NA,"",75,"Langhian","",15.97,13.82,62831,"gp_mid",-69.78,39.85,"109",14.895,"langhian",13065,-71.6935,36.4621,8,1
 "129929",188087,"col","Argun",36.47,45.45,"Malyi Kamyshlak, Kerch, Crimea (PIN collection 4204)",NA,"",3,"Langhian","",15.97,13.82,63111,"gp_mid",37,42.31,"302",14.895,"langhian",26981,34.0581,44.7095,8,1
+"130168",188758,"col","Okoppezawa",143.77,42.83,"Okoppezawa River",NA,"",1,"Langhian","",15.97,13.82,67285,"gp_mid",140.8,42.86,"609",14.895,"langhian",34379,141.2059,44.2121,8,1
 "130982",190376,"col","Castilletes",-71.34,11.91,"STRI Loc. 390093 (Castilletes Fm)",NA,"Makaraipao",6,"Langhian","",15.97,13.82,64033,"gp_mid",-66.78,12.58,"203",14.895,"langhian",34510,-71.6496,9.7693,8,1
 "131273",190756,"col","Akaura",136.96,37.04,"Nanao girls higher school, Kasima-gun",NA,"",6,"Langhian","",15.97,13.82,64049,"gp_mid",134.42,36.8,"610",14.895,"langhian",34560,136.3602,39.9896,8,1
 "131274",190757,"col","Akaura",136.95,37.04,"Iwaya, Kasima-gun",NA,"",5,"Langhian","",15.97,13.82,64049,"gp_mid",134.42,36.79,"610",14.895,"langhian",34561,136.3602,39.9896,8,1
@@ -316,7 +394,10 @@
 "131285",190768,"col","Yanagawa",140.62,37.85,"Yanagawa-mati, Date-gun",NA,"",1,"Langhian","",15.97,13.82,64049,"gp_mid",138.02,37.76,"610",14.895,"langhian",34570,136.3602,39.9896,8,1
 "132931",194975,"col","",36.28,45.47,"Skelya, Kerch Peninsula",NA,"Reef 4202",7,"Langhian","",15.97,13.82,66282,"gp_mid",36.82,42.32,"302",14.895,"langhian",34967,34.0581,44.7095,8,1
 "132940",194987,"col","",38.72,44.77,"Belaya River",NA,"Reef 4207",5,"Langhian","",15.97,13.82,66282,"gp_mid",39.13,41.62,"302",14.895,"langhian",34970,34.0581,44.7095,8,1
+"134246",197289,"col","Temblor",-118.91,35.47,"Sharktooth Hill",19542,"UCMP 1292, UCMP V2401, UCMP V6323, UCMP V6843, UCMP V69169, UCMP V71013",9,"Langhian","",15.97,13.82,48954,"gp_mid",-111.48,38.58,"130",14.895,"langhian",9417,-113.8564,32.7122,8,1
 "134313",197409,"col","Upper Globigerina Limestone",14.21,36.06,"Ras Ta Pinu, Gozo",NA,"",3,"Langhian","",15.97,13.82,67265,"gp_mid",NA,NA,"coordinates not computable using this model",14.895,"langhian",35298,12.7401,32.9906,8,1
+"135689",200393,"col","",-4.49,48.39,"Brest, Langhian",NA,"",1,"Langhian","",15.97,13.82,34893,"gp_mid",-1.79,46.01,"305",14.895,"langhian",35578,-6.6294,46.0492,8,1
+"136855",202448,"col","",133.44,34.99,"Nishikata",NA,"BIH-3",1,"Langhian","",15.97,13.82,41705,"gp_mid",131.05,34.6,"610",14.895,"langhian",35898,132.8781,37.1638,8,1
 "136865",202462,"col","Toyoda",131.83,34.72,"Okuda",NA,"MSD-1",3,"Langhian","",15.97,13.82,41705,"gp_mid",129.47,34.25,"610",14.895,"langhian",35907,129.0573,36.8137,8,1
 "137595",203317,"col","Moniwa",140.82,38.22,"West of Hagurodai Residences",NA,"",1,"Langhian","",15.97,13.82,69723,"gp_mid",138.19,38.13,"610",14.895,"langhian",36012,141.1681,39.2121,8,1
 "137596",203318,"col","Moniwa",140.81,38.22,"Northwest of Nihon-Daira, Sendai City",NA,"",1,"Langhian","",15.97,13.82,69723,"gp_mid",138.18,38.14,"610",14.895,"langhian",36013,141.1681,39.2121,8,1
@@ -326,5 +407,11 @@
 "137600",203322,"col","Moniwa",140.76,38.21,"Bed of Natori River at Kita-Akaishi",NA,"",1,"Langhian","",15.97,13.82,69723,"gp_mid",138.13,38.13,"610",14.895,"langhian",31479,141.1681,39.2121,8,1
 "137601",203323,"col","Moniwa",140.79,38.22,"South of Oide Bridge crossing, Natori River",NA,"",1,"Langhian","",15.97,13.82,69723,"gp_mid",138.16,38.13,"610",14.895,"langhian",31993,141.1681,39.2121,8,1
 "137602",203324,"col","Moniwa",140.81,38.22,"Souitheast of Nihon-Daira, Sendai City",NA,"",1,"Langhian","",15.97,13.82,69723,"gp_mid",138.19,38.13,"610",14.895,"langhian",36013,141.1681,39.2121,8,1
+"138115",204306,"col","",144.32,-38.14,"Orphanage Hill",NA,"Geelong",2,"Langhian","",15.97,13.82,61651,"gp_mid",147.76,-46.24,"801",14.895,"langhian",36167,140.4426,-44.7414,8,1
 "138277",204584,"col","",139.67,-34.03,"Swan Reach, Murray River",NA,"",1,"Langhian","",15.97,13.82,70170,"gp_mid",141.84,-42.63,"801",14.895,"langhian",31883,136.1419,-42.3577,8,1
+"139693",206393,"col","Round Mountain Silt",-118.8,35.43,"LSJU loc. 2121 [Round Mountain Silt]",NA,"",77,"Langhian","",15.97,13.82,70924,"gp_mid",-111.37,38.55,"130",14.895,"langhian",36731,-113.8564,32.7122,8,1
+"139704",206404,"col","Round Mountain Silt",-118.8,35.43,"LSJU loc. 2641 - Barker's Ranch [Round Mountain Silt]",NA,"",5,"Langhian","",15.97,13.82,70924,"gp_mid",-111.37,38.55,"130",14.895,"langhian",36731,-113.8564,32.7122,8,1
+"139705",206405,"col","Round Mountain Silt",-118.86,35.45,"LSJU loc. 2122 [Round Mountain Silt]",NA,"",0,"Langhian","",15.97,13.82,70924,"gp_mid",-111.43,38.57,"130",14.895,"langhian",36733,-113.8564,32.7122,8,1
 "140021",207008,"col","Calvert",-76.85,38.17,"Stratford Bluffs, Zone 11",NA,"Stratford Cliffs",1,"Langhian","",15.97,13.82,71212,"gp_mid",-69.79,39.86,"109",14.895,"langhian",6355,-71.6935,36.4621,8,1
+"140077",207108,"col","Topanga Canyon",-118.64,34.13,"LACMIP 31511",NA,"",1,"Langhian","",15.97,13.82,71301,"gp_mid",-111.91,36.72,"105",14.895,"langhian",36883,-113.8564,32.7122,8,1
+"140078",207109,"col","Topanga Canyon",-118.64,34.12,"LACMIP 31503",NA,"",2,"Langhian","",15.97,13.82,71301,"gp_mid",-111.91,36.71,"105",14.895,"langhian",36884,-113.8564,32.7122,8,1

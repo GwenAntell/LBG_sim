@@ -14,6 +14,9 @@
 "1449",3074,"col","Greenhorn Limestone",-104.72,38.28,"Pueblo, CO (C2-47)",NA,"",10,"Turonian","",93.9,89.8,93,"gp_mid",-63.25,45.01,"101",91.85,"turonian",419,-69.9362,38.9012,24,1
 "1717",3734,"col","Tuffeau jaune de Touraine",0.37,49.75,"Touraine Fm., France",NA,"",10,"Turonian","",93.9,89.8,239,"gp_mid",14.71,43.65,"305",91.85,"turonian",505,4.59,44.2842,24,1
 "1771",3821,"col","",12.4,-6.02,"coastal west Africa, Zaire",NA,"",1,"Turonian","",93.9,89.8,254,"gp_mid",8.73,-16.66,"701",91.85,"turonian",514,4.7546,-15.6221,24,1
+"1775",1987,"col","Coleraine",-93.28,47.32,"Hill Annex Mine",NA,"",54,"Turonian","",93.9,89.8,53,"gp_mid",-47.66,51.73,"101",91.85,"turonian",516,-56.1387,47.0927,24,1
+"1776",1989,"col","Coleraine",-93,47,"Arcturus Mine",NA,"",30,"Turonian","",93.9,89.8,53,"gp_mid",-47.51,51.37,"101",91.85,"turonian",517,-56.1387,47.0927,24,1
+"1777",1990,"col","Coleraine",-93.43,47.29,"Mines in Coleraine-Bovey vicinity",NA,"",18,"Turonian","",93.9,89.8,53,"gp_mid",-47.83,51.72,"101",91.85,"turonian",518,-56.1387,47.0927,24,1
 "5473",14414,"col","Straight Cliffs",-111.97,37.6,"Jimmy Canyon (MNA 995)",NA,"OMNH V843; UMNH VP Loc. 129",29,"Turonian","",93.9,89.8,1412,"gp_mid",-71.4,45.49,"101",91.85,"turonian",1644,-77.5237,39.8993,24,1
 "5477",14418,"col","Straight Cliffs",-111.5,37.8,"Tibbet Canyon Member, OMNH V17",NA,"MNA 1006-2, NB4",3,"Turonian","",93.9,89.8,1412,"gp_mid",-70.83,45.62,"101",91.85,"turonian",1645,-77.5237,39.8993,24,1
 "20318",35104,"col","Brezno",14.47,50.35,"Chorousky, Czechia",NA,"Chorousek",1,"Turonian","",93.9,89.8,9216,"gp_mid",27.24,43.6,"305",91.85,"turonian",4069,18.0833,45.5254,24,1
@@ -45,12 +48,13 @@
 "37536",57536,"col","White Chalk",0.18,50.8,"Beachy Head and Eastbourne, Sussex, Gun-Gardens-59-13",NA,"",12,"Turonian","",93.9,89.8,15482,"gp_mid",14.68,44.71,"315",91.85,"turonian",9068,4.59,44.2842,24,1
 "37752",57763,"col","Eagle Ford",-96.91,32.76,"Chalk Hill Road",NA,"",1,"Turonian","",93.9,89.8,15530,"gp_mid",-56.5,38.27,"101",91.85,"turonian",9105,-63.5517,32.9017,24,1
 "38499",58578,"col","",13.8,50.4,"Echinodermata, Pyropensande, Trebivlice, Bohemia",NA,"",4,"Turonian","",93.9,89.8,16634,"gp_mid",26.66,43.67,"305",91.85,"turonian",9301,18.0833,45.5254,24,1
+"38525",58602,"col","",63.83,40.75,"Aigyrbulak",NA,"",1,"Turonian","",93.9,89.8,16510,"gp_mid",71.68,34.63,"402",91.85,"turonian",9309,66.9583,41.2869,24,1
+"38526",58603,"col","",64.58,41.15,"Aznek",NA,"",3,"Turonian","",93.9,89.8,16510,"gp_mid",72.33,35.08,"402",91.85,"turonian",9310,66.9583,41.2869,24,1
 "39115",59210,"col","",68.63,36.1,"Inoceramids, White limestone, Turonian, Pul-i-Khumri, Katagan",NA,"",1,"Turonian","",93.9,89.8,16934,"gp_mid",76.56,30.3,"402",91.85,"turonian",9461,71.7426,36.8088,24,1
 "39527",59637,"col","",0.78,49.12,"Lense 1, Asteroidea, Hardground Tilleul 2, Turonian, Valleuse du Tilleul",NA,"",4,"Turonian","",93.9,89.8,17061,"gp_mid",15.01,43,"305",91.85,"turonian",9523,4.59,44.2842,24,1
 "39528",59638,"col","",0.78,49.12,"Lense 2, Asteroidea, Hardground Tilleul 2, Turonian, Valleuse du Tilleul",NA,"",3,"Turonian","",93.9,89.8,17061,"gp_mid",15.01,43,"305",91.85,"turonian",9523,4.59,44.2842,24,1
 "41453",61913,"col","Middle Napo",-77.75,-1.58,"Pastaza River, Oriente Basin, Middle Napo Formation",NA,"",2,"Turonian","",93.9,89.8,17883,"gp_mid",-45.39,-1.65,"201",91.85,"turonian",10008,-51.2555,-7.0381,24,1
 "41722",62350,"col","Ladd",-117.5,33.5,"LACMIP loc. 8170, Santa Ana Mountains",NA,"CIT loc. 1828",2,"Turonian","",93.9,89.8,18028,"gp_mid",-75.25,38.86,"105",91.85,"turonian",10080,-79.2902,30.4818,24,1
-"41734",62362,"col","Hornbrook",-122.55,41.88,"LACMIP 27228, Hornbrook area",NA,"",1,"Turonian","",93.9,89.8,18028,"gp_mid",-82.31,51.15,"101",91.85,"turonian",10085,-87.0979,43.0521,24,1
 "42278",63082,"col","Kaskapau",-120.93,55.15,"Quality Creek, site 1 (facies 3)",NA,"",2,"Turonian","",93.9,89.8,18154,"gp_mid",-75.23,63.94,"101",91.85,"turonian",10193,-79.7158,58.1351,24,1
 "42279",63083,"col","Kaskapau",-120.93,55.15,"Quality Creek, site 5 (facies 5)",NA,"",4,"Turonian","",93.9,89.8,18154,"gp_mid",-75.23,63.94,"101",91.85,"turonian",10193,-79.7158,58.1351,24,1
 "42280",63084,"col","Kaskapau",-120.93,55.15,"Quality Creek, site 1 (facies 7)",NA,"",7,"Turonian","",93.9,89.8,18154,"gp_mid",-75.23,63.94,"101",91.85,"turonian",10193,-79.7158,58.1351,24,1
@@ -67,8 +71,6 @@
 "43037",64452,"col","La Luna",-70.43,9.1,"A-9778",NA,"",2,"Turonian","",93.9,89.8,18619,"gp_mid",-37.77,8.82,"201",91.85,"turonian",10382,-45.2676,4.6893,24,1
 "43043",64458,"col","La Luna",-70.43,9.1,"Chejende-Miton Road A-7562",NA,"",1,"Turonian","",93.9,89.8,18619,"gp_mid",-37.77,8.82,"201",91.85,"turonian",10382,-45.2676,4.6893,24,1
 "43359",65022,"col","Oguwa",132.75,33.25,"Oguwa Formation, Chikanaga area",NA,"",20,"Turonian","",93.9,89.8,18725,"gp_mid",136.79,39.08,"610",91.85,"turonian",10449,139.5531,40.3964,24,1
-"44549",66681,"col","",-122.55,41.91,"loc. 163",NA,"CAS 444, 10663",2,"Turonian","",93.9,89.8,18968,"gp_mid",-82.3,51.19,"101",91.85,"turonian",10781,-87.0979,43.0521,24,1
-"44550",66682,"col","",-122.55,41.91,"loc. 167",NA,"CAS 444A",1,"Turonian","",93.9,89.8,18968,"gp_mid",-82.3,51.19,"101",91.85,"turonian",10781,-87.0979,43.0521,24,1
 "44589",66787,"col","Campur",-90.97,17.22,"El Ceibo, Peten, Campur Formation",NA,"",1,"Turonian","",93.9,89.8,19019,"gp_mid",-54.01,21.97,"205",91.85,"turonian",10796,-58.7985,17.0151,24,1
 "45142",67565,"col","",22.78,42.75,"Rebro, Pernik",NA,"",2,"Turonian","",93.9,89.8,19255,"gp_mid",30.88,27.15,"308",91.85,"turonian",10935,26.4606,38.846,24,1
 "45143",67566,"col","",22.73,42.82,"Kjulina, Tran area, Pernik",NA,"",2,"Turonian","",93.9,89.8,19255,"gp_mid",30.89,27.23,"308",91.85,"turonian",10936,26.4606,38.846,24,1
@@ -116,15 +118,13 @@
 "53732",82222,"col","Niobrara",-104.4,36.09,"USGS D11836, Section 5 [Fort Hays Limestone Mbr, Niobrara Fm]",NA,"",2,"Turonian","",93.9,89.8,27708,"gp_mid",-63.54,42.82,"101",91.85,"turonian",13563,-70.4962,36.4408,24,1
 "53733",82223,"col","Niobrara",-104.01,36.82,"USGS D11971, Section 7 [Fort Hays Limestone Mbr, Niobrara Fm]",NA,"",2,"Turonian","",93.9,89.8,27708,"gp_mid",-62.92,43.46,"101",91.85,"turonian",13564,-69.9362,38.9012,24,1
 "53734",82224,"col","Niobrara",-104.36,36.56,"USGS D11967, Section 8 [Fort Hays Limestone Mbr, Niobrara Fm]",NA,"",4,"Turonian","",93.9,89.8,27708,"gp_mid",-63.37,43.26,"101",91.85,"turonian",13565,-69.9362,38.9012,24,1
+"55067",209701,"col","",7.68,5.92,"Aka-Eze",NA,"",1,"Turonian","",93.9,89.8,72325,"gp_mid",8.02,-3.85,"701",91.85,"turonian",13978,3.2503,-5.0465,24,1
 "55591",84752,"col","",5.7,35.22,"El Kantara",NA,"",3,"Turonian","",93.9,89.8,28439,"gp_mid",16.15,24.42,"714",91.85,"turonian",14161,10.1951,24.1804,24,1
 "55605",84770,"col","Gornji Humac",16.22,43.02,"Polivalo Cape, Vis Island",NA,"",5,"Turonian","",93.9,89.8,28445,"gp_mid",26.82,30.4,"307",91.85,"turonian",14172,20.916,29.1051,24,1
 "56881",86680,"col","",46.48,40.4,"Agdzhakend",NA,"",2,"Turonian","",93.9,89.8,29186,"gp_mid",55.82,33.54,"511",91.85,"turonian",14661,47.0241,38.4391,24,1
 "56882",86681,"col","",45.85,40.25,"Agekhush",NA,"",1,"Turonian","",93.9,89.8,29186,"gp_mid",52.54,27.52,"512",91.85,"turonian",14662,47.0241,38.4391,24,1
 "56884",86683,"col","",46.53,39.38,"Lepekheyranly",NA,"",4,"Turonian","",93.9,89.8,29186,"gp_mid",53.34,26.81,"512",91.85,"turonian",14664,47.0241,38.4391,24,1
 "56925",86770,"col","",38.38,48.85,"Sekmenyevskiy Quarry, Donets Basin",NA,"",1,"Turonian","",93.9,89.8,29186,"gp_mid",48.26,41.83,"302",91.85,"turonian",14695,38.876,47.9131,24,1
-"56964",86811,"col","",-122.56,41.91,"CAS Loc. 444A - Hornbrook",NA,"",0,"Turonian","",93.9,89.8,29214,"gp_mid",-82.31,51.19,"101",91.85,"turonian",14710,-87.0979,43.0521,24,1
-"56965",86812,"col","",-122.56,41.91,"CAS Loc. 444B - Hornbrook",NA,"",2,"Turonian","",93.9,89.8,29214,"gp_mid",-82.31,51.19,"101",91.85,"turonian",14710,-87.0979,43.0521,24,1
-"56967",86814,"col","",-122.82,42.28,"CAS Loc. 445A - Phoenix",NA,"",8,"Turonian","",93.9,89.8,29214,"gp_mid",-81,49.13,"129",91.85,"turonian",14711,-87.0979,43.0521,24,1
 "57575",87591,"col","Second White Speckled Shale",-120,55.88,"Pouce Coupe River [Second White Speckled Shale]",NA,"",2,"Turonian","",93.9,89.8,29479,"gp_mid",-73.64,64.51,"101",91.85,"turonian",14911,-79.7158,58.1351,24,1
 "57664",87694,"col","Haida",-131.78,53.05,"GSC Loc. C-137638 [Shale Mbr, Haida Fm]",NA,"",1,"Turonian","",93.9,89.8,29494,"gp_mid",-90.52,58.01,"128",91.85,"turonian",14932,-90.2204,54.0233,24,1
 "57672",87702,"col","Skidgate",-132,53.23,"GSC Loc. 44715, Skidgate Inlet [Skidgate Fm]",NA,"",1,"Turonian","",93.9,89.8,29494,"gp_mid",-90.61,58.23,"128",91.85,"turonian",14934,-90.2204,54.0233,24,1
@@ -167,11 +167,13 @@
 "63972",95987,"col","",35.52,54.58,"Moscow Basin, borehole 71, samples 19-23",NA,"",3,"Turonian","",93.9,89.8,32571,"gp_mid",45.66,47.54,"302",91.85,"turonian",16975,33.9044,52.3935,24,1
 "63975",95990,"col","",34.42,53.47,"Moscow Basin, borehole 27, samples 28, 29, 33",NA,"",11,"Turonian","",93.9,89.8,32571,"gp_mid",44.73,46.42,"302",91.85,"turonian",16978,34.6655,49.9394,24,1
 "63982",95997,"col","",39.37,56.2,"Moscow Basin, borehole 151, sample 2",NA,"",3,"Turonian","",93.9,89.8,32571,"gp_mid",48.91,49.19,"302",91.85,"turonian",16982,37.3756,52.821,24,1
+"65260",97960,"col","Ferron",-111.11,38.94,"Moore Cutoff Tracksite",NA,"",1,"Turonian","",93.9,89.8,32617,"gp_mid",-70.08,46.68,"101",91.85,"turonian",17339,-76.8973,42.4107,24,1
 "66078",98849,"col","",141.68,44.05,"Nanbu-no-sawa",NA,"",1,"Turonian","",93.9,89.8,34058,"gp_mid",142.37,51.31,"610",91.85,"turonian",17681,150.5914,56.0217,24,1
 "66485",99338,"col","Cardium",-114.02,49.33,"southwest of Fish Lake",NA,"",1,"Turonian","",93.9,89.8,34154,"gp_mid",-69.74,57.27,"101",91.85,"turonian",17827,-73.9524,52.2198,24,1
 "68865",102712,"col","Carlile Shale",-98.6,39.35,"Medicine Peak",NA,"",1,"Turonian","",93.9,89.8,34803,"gp_mid",-56.34,44.99,"101",91.85,"turonian",18786,-61.8785,40.2808,24,1
 "69001",102878,"col","Carlile Shale",-99.25,39.08,"KUVP Ellis-6",NA,"",1,"Turonian","",93.9,89.8,34803,"gp_mid",-57.13,44.85,"101",91.85,"turonian",18807,-61.8785,40.2808,24,1
 "69002",102879,"col","Carlile Shale",-99.24,39.08,"KUVP Ellis-5",NA,"",13,"Turonian","",93.9,89.8,34803,"gp_mid",-57.12,44.85,"101",91.85,"turonian",18808,-61.8785,40.2808,24,1
+"69274",103274,"col","",67.27,44.41,"Kzyl-Zhar Locality (PIN collection 2383)",NA,"",36,"Turonian","",93.9,89.8,31339,"gp_mid",74.44,38.49,"402",91.85,"turonian",18947,69.5809,46.679,24,1
 "69399",103446,"col","Ora",35.05,30,"Gerofit Locality",NA,"",12,"Turonian","",93.9,89.8,34904,"gp_mid",39.04,12.3,"508",91.85,"turonian",18984,31.9705,15.0503,24,1
 "69454",103501,"col","Ora",35.07,30.03,"Qetura",NA,"",2,"Turonian","",93.9,89.8,34904,"gp_mid",39.07,12.32,"508",91.85,"turonian",19022,31.9705,15.0503,24,1
 "70982",106006,"col","Eagle Ford",-97.2,31.58,"Microfossils from plesiosaur specimen",NA,"",3,"Turonian","",93.9,89.8,35365,"gp_mid",-57.12,37.17,"101",91.85,"turonian",19741,-63.5517,32.9017,24,1
@@ -183,8 +185,13 @@
 "75564",111401,"col","""Cuvieri-Pläner""",10.4,51.97,"Dörnten",NA,"",5,"Turonian","",93.9,89.8,36477,"gp_mid",23.81,45.37,"315",91.85,"turonian",21179,14.178,47.66,24,1
 "75578",111418,"col","""Brongniarti-Pläner""",10.55,51.97,"Harlyberg, Vienenburg",NA,"",1,"Turonian","",93.9,89.8,36477,"gp_mid",23.94,45.36,"315",91.85,"turonian",21181,14.178,47.66,24,1
 "75639",111532,"col","""Scaphiten-Pläner""",17.95,50.67,"Opole",NA,"",10,"Turonian","",93.9,89.8,36477,"gp_mid",30.32,43.81,"305",91.85,"turonian",21192,21.4964,45.8845,24,1
+"77066",113401,"col","",67.27,44.41,"Kzyl-Zhar Locality (PIN collection 2783)",NA,"",13,"Turonian","",93.9,89.8,37059,"gp_mid",74.44,38.49,"402",91.85,"turonian",18947,69.5809,46.679,24,1
+"77939",114329,"col","",67.27,44.41,"Kzyl-Zhar Locality (PIN collection 2284)",NA,"",2,"Turonian","",93.9,89.8,8974,"gp_mid",74.44,38.49,"402",91.85,"turonian",18947,69.5809,46.679,24,1
+"79175",116293,"col","Coleraine",-93.58,47.51,"Mesabi Iron Range",NA,"Teleorhinus mesabiensis type locality",1,"Turonian","",93.9,89.8,33421,"gp_mid",-47.89,51.96,"101",91.85,"turonian",22189,-56.1387,47.0927,24,1
 "80696",117995,"col","",-100.01,26.39,"Marlstones of Vallecillo Quarries, near Vallecillo village",NA,"",1,"Turonian","",93.9,89.8,37941,"gp_mid",-61.32,32.56,"101",91.85,"turonian",22588,-68.2426,28.5102,24,1
+"81944",119502,"col","",67.27,44.41,"Kzyl-Zhar Locality (PIN collection 2041)",NA,"",1,"Turonian","",93.9,89.8,38354,"gp_mid",74.44,38.49,"402",91.85,"turonian",18947,69.5809,46.679,24,1
 "85001",123409,"col","Mancos Shale",-111.97,37.6,"Henrieville",NA,"",1,"Turonian","",93.9,89.8,39438,"gp_mid",-71.4,45.49,"101",91.85,"turonian",1644,-77.5237,39.8993,24,1
+"88304",127856,"col","",67.27,44.41,"Kzyl-Zhar Locality (PIN collection 3289)",NA,"",5,"Turonian","",93.9,89.8,41791,"gp_mid",74.44,38.49,"402",91.85,"turonian",18947,69.5809,46.679,24,1
 "94174",135681,"col","La Luna",-69.76,10.17,"Pozo Guapo",NA,"",5,"Turonian","",93.9,89.8,43397,"gp_mid",-37.84,8.78,"203",91.85,"turonian",26291,-45.2676,4.6893,24,1
 "96281",138297,"col","Oerlinghausen",10.29,52.14,"Braunschweig-Broitzem (Allopleuron locality)",NA,"",1,"Turonian","",93.9,89.8,44226,"gp_mid",23.73,45.54,"315",91.85,"turonian",26925,14.178,47.66,24,1
 "96382",138420,"col","Abu Qada",33.5,28.81,"Wadi Feiran, Mukattab, horizon 7",NA,"",9,"Turonian","",93.9,89.8,44300,"gp_mid",37.38,11.52,"508",91.85,"turonian",26950,31.9705,15.0503,24,1
@@ -230,8 +237,6 @@
 "109671",155279,"col","",3.4,50.5,"Chercq (IRSNB/KBIN collection)",NA,"",4,"Turonian","",93.9,89.8,67098,"gp_mid",17.49,44.23,"315",91.85,"turonian",29359,7.9424,44.5632,24,1
 "110606",156985,"col","Ora",35.05,30,"Gerofit Locality (PIN collection 5068)",NA,"",1,"Turonian","",93.9,89.8,51430,"gp_mid",39.04,12.3,"508",91.85,"turonian",18984,31.9705,15.0503,24,1
 "110679",157191,"col","",64.15,46.22,"Kankazgan (PIN collection 3314)",NA,"",1,"Turonian","",93.9,89.8,51523,"gp_mid",71.41,40.11,"402",91.85,"turonian",29607,65.7916,46.2155,24,1
-"111201",158093,"col","",-122.65,42.16,"CAS loc. 446, Ashland",NA,"",1,"Turonian","",93.9,89.8,11610,"gp_mid",-80.83,49,"129",91.85,"turonian",29731,-87.0979,43.0521,24,1
-"111217",158110,"col","",-122.82,42.25,"Forty-nine mine, south of Phoenix (Turonian blocks)",NA,"",14,"Turonian","",93.9,89.8,11610,"gp_mid",-81.01,49.11,"129",91.85,"turonian",29734,-87.0979,43.0521,24,1
 "111731",159009,"col","Conor",-78.73,-6.57,"Bed 39, Section 1 - Lajas (Conor Fm)",NA,"",1,"Turonian","",93.9,89.8,15338,"gp_mid",-46.51,-6.6,"201",91.85,"turonian",8939,-51.1649,-12.0373,24,1
 "112232",159617,"col","Holywell Nodular Chalk",-0.27,51.24,"Betchworth",NA,"",1,"Turonian","",93.9,89.8,52150,"gp_mid",14.34,45.17,"315",91.85,"turonian",30096,4.59,44.2842,24,1
 "112234",159618,"col","Lower Chalk",-0.48,51.93,"Sundon church",NA,"",1,"Turonian","",93.9,89.8,52150,"gp_mid",14.25,45.87,"315",91.85,"turonian",30098,4.1845,46.768,24,1
@@ -283,10 +288,10 @@
 "121457",174902,"col","",0.12,45.63,"Sous Angoulême",NA,"",1,"Turonian","",93.9,89.8,57155,"gp_mid",14.01,39.57,"305",91.85,"turonian",32255,5.3074,39.3128,24,1
 "121678",175378,"col","Picofrentes",-2.82,41.13,"Riofrio del Llano, tramo 5",NA,"",13,"Turonian","",93.9,89.8,57341,"gp_mid",11.22,34.47,"304",91.85,"turonian",32286,1.8173,33.6075,24,1
 "122060",175826,"col","Cerro Toro",-72.51,-49.8,"Puesto Nidaros, Austral Basin",NA,"",2,"Turonian","",93.9,89.8,57580,"gp_mid",-42,-49.99,"291",91.85,"turonian",32339,-41.68,-54.3383,24,1
-"122182",176024,"col","Hornbrook",-122.71,42.19,"LACMIP loc. 10903. along irrigation ditch.",NA,"CIT loc. 1622",1,"Turonian","",93.9,89.8,57733,"gp_mid",-80.89,49.04,"129",91.85,"turonian",32363,-87.0979,43.0521,24,1
 "123371",177757,"col","De la Craie Chloritèe.",0.21,46.05,"à l'île Madame (Charente-Inférieure)",NA,"",1,"Turonian","",93.9,89.8,58807,"gp_mid",14.13,39.98,"305",91.85,"turonian",32669,5.3074,39.3128,24,1
 "124411",179209,"col","Carlile Shale",-104.88,38.84,"Red Rock Canyon Open Space (Codell Sandstone)",NA,"RRCOS",5,"Turonian","",93.9,89.8,59328,"gp_mid",-63.26,45.58,"101",91.85,"turonian",32970,-69.3359,41.3588,24,1
 "124464",179267,"col","Tres Hermanos",-106.74,34.31,"Sevilleta Grant, near La Joya",NA,"",23,"Turonian","",93.9,89.8,59349,"gp_mid",-66.55,41.45,"101",91.85,"turonian",32978,-70.4962,36.4408,24,1
+"125376",180659,"col","",5.8,43.2,"Le Beausset",NA,"",1,"Turonian","",93.9,89.8,59946,"gp_mid",NA,NA,"coordinates not computable using this model",91.85,"turonian",33236,11.4065,38.5499,24,1
 "125765",181356,"col","Straight Cliffs",-111.89,37.49,"13km SE of Henrieville, OMNH V1404",NA,"",6,"Turonian","",93.9,89.8,31563,"gp_mid",-71.35,45.37,"101",91.85,"turonian",33338,-77.5237,39.8993,24,1
 "126122",181902,"col","",-96.51,45.2,"Dakota Rose Granite Quarry",NA,"",10,"Turonian","",93.9,89.8,60505,"gp_mid",-51.98,50.29,"101",91.85,"turonian",33424,-60.5477,45.1845,24,1
 "127700",184448,"col","Wadi Daya",-5.41,34.03,"Jebel El Hajer El Jir (middle part of unit)",NA,"",3,"Turonian","",93.9,89.8,61801,"gp_mid",6.25,26.72,"707",91.85,"turonian",33764,0.5858,26.599,24,1

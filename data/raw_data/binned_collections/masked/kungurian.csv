@@ -40,6 +40,7 @@
 "14151",27704,"col","Vale",-99.56,33.73,"Locality KF (Middle Vale Formation)",NA,"three-channel hill, ""fish quarry""",12,"Kungurian","",279.3,272.3,28928,"gp_mid",-29.19,1.89,"101",275.8,"kungurian",2772,-40.5036,0.2573,55,1
 "15315",29467,"col","Upper Chutani",-68.9,-16.2,"San Pablo de Tiquina",NA,"PGAP 13439",2,"Kungurian","",279.3,272.3,8019,"gp_mid",-42.85,-29.05,"201",275.8,"kungurian",2976,-46.4001,-35.4867,55,1
 "15704",29856,"col","Yongde",99.3,24.2,"Yongde",NA,"PGAP 11065",6,"Kungurian","",279.3,272.3,8310,"gp_mid",87.56,-36.13,"616",275.8,"kungurian",3045,96.0401,-36.6143,55,1
+"15856",30008,"col","Tatouhe",131.8,45.6,"Mishan",NA,"PGAP 11095",6,"Kungurian","",279.3,272.3,8290,"gp_mid",137.4,32.91,"628",275.8,"kungurian",3104,146.0009,41.9213,55,1
 "15886",30038,"col","Qubu",87.6,28.7,"Tingri and Dingjye",NA,"PGAP 13400",10,"Kungurian","",279.3,272.3,8007,"gp_mid",65.6,-63.67,"501",275.8,"kungurian",3114,84.5155,-42.9631,55,1
 "16228",30384,"col","Lekskaya Suite",58,57.7,"Matreevo",NA,"PGAP 13330",15,"Kungurian","",279.3,272.3,8240,"gp_mid",44.77,29.58,"302",275.8,"kungurian",3203,31.768,41.0701,55,1
 "16263",30419,"col","Koshelevskaya Suite",57.5,56.5,"Achit",NA,"PGAP 13353",6,"Kungurian","",279.3,272.3,8241,"gp_mid",45.54,28.55,"302",275.8,"kungurian",3214,31.768,41.0701,55,1
@@ -110,8 +111,9 @@
 "22926",38826,"col","Loray",-115.13,39.48,"Robinson Summit, Unit 3",NA,"",2,"Kungurian","",279.3,272.3,10420,"gp_mid",-36.17,13.76,"101",275.8,"kungurian",4778,-46.7847,13.0238,55,1
 "22927",38827,"col","Loray",-115.13,39.48,"Robinson Summit, Unit 5",NA,"",14,"Kungurian","",279.3,272.3,10420,"gp_mid",-36.17,13.76,"101",275.8,"kungurian",4778,-46.7847,13.0238,55,1
 "22928",38828,"col","Loray",-115.13,39.48,"Robinson Summit, Unit 9",NA,"",10,"Kungurian","",279.3,272.3,10420,"gp_mid",-36.17,13.76,"101",275.8,"kungurian",4778,-46.7847,13.0238,55,1
-"23152",39186,"col","",-110.78,28.97,"Loc. 8 - JS-92-48, Sierra Santa Teresa",NA,"",1,"Kungurian","",279.3,272.3,10577,"gp_mid",-40.79,8.87,"104",275.8,"kungurian",4854,-50.0334,3.0711,55,1
+"24477",40949,"col","",-72.99,10.4,"Quebrada Manaure",NA,"",3,"Kungurian","",279.3,272.3,28158,"gp_mid",-36.54,-3.77,"203",275.8,"kungurian",5168,-42.5812,-11.1346,55,1
 "25041",111188,"col","Koshelevka",57.27,57.42,"Posadskij Log, Sylva river",NA,"",1,"Kungurian","",279.3,272.3,36456,"gp_mid",44.69,29.11,"302",275.8,"kungurian",5367,31.768,41.0701,55,1
+"25668",109375,"col","Dyby",138,62,"Kamenistaya River, Sette-Daban Range, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27490,"gp_mid",48.97,66.03,"401",275.8,"kungurian",5579,-12.0063,76.9161,55,1
 "25996",42911,"col","Safetdaron",70.75,38.64,"Tangi-Gor Canyon, Darvaz Mountains",NA,"",5,"Kungurian","",279.3,272.3,11388,"gp_mid",73.74,18.77,"402",275.8,"kungurian",5690,74.9866,-12.7761,55,1
 "25997",42912,"col","Safetdaron",70.87,38.74,"Charymdara-Zidadara interfluve, Location 1174, Darvaz",NA,"",3,"Kungurian","",279.3,272.3,11388,"gp_mid",73.76,18.91,"402",275.8,"kungurian",5691,74.9866,-12.7761,55,1
 "26463",43459,"col","Cathedral Mountain",-103.43,30.22,"USNM700l, Dugout Mountain, Glass Mountains",NA,"Reef 318",27,"Kungurian","",279.3,272.3,11454,"gp_mid",-33.84,0.64,"101",275.8,"kungurian",5781,-44.0048,-0.8022,55,1
@@ -163,6 +165,7 @@
 "27260",44565,"col","Cathedral Mountain",-103.3,30.31,"USNM712o, Hill 5280, Glass Mountains",NA,"",44,"Kungurian","",279.3,272.3,11407,"gp_mid",-33.69,0.66,"101",275.8,"kungurian",6118,-44.0048,-0.8022,55,1
 "27493",44751,"col","Cathedral Mountain",-103.31,30.3,"USNM713p, Clay Slide",NA,"",2,"Kungurian","",279.3,272.3,11454,"gp_mid",-33.7,0.66,"101",275.8,"kungurian",6165,-44.0048,-0.8022,55,1
 "27494",44752,"col","Cathedral Mountain",-103.18,30.37,"USNM713t, Hess Ranch Horst, Glass Mountains",NA,"",4,"Kungurian","",279.3,272.3,11407,"gp_mid",-33.57,0.65,"101",275.8,"kungurian",6166,-44.0048,-0.8022,55,1
+"31363",126064,"col","Lek-Vorkuta",64.05,67.6,"Khal'meryuskoye, borehole KhK-227, depth 148.4 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,40957,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
 "32326",50670,"col","Lashkargaz",73.35,36.85,"CK189, Baroghil E section, Baroghil Pass",NA,"",11,"Kungurian","",279.3,272.3,13536,"gp_mid",76.07,18.92,"601",275.8,"kungurian",7728,78.0309,-12.9832,55,1
 "32327",50671,"col","Lashkargaz",73.35,36.85,"CK190, Baroghil E section, Baroghil Pass",NA,"",4,"Kungurian","",279.3,272.3,13536,"gp_mid",76.07,18.92,"601",275.8,"kungurian",7728,78.0309,-12.9832,55,1
 "32328",50672,"col","Lashkargaz",73.43,36.83,"CK319, Lashkargaz section",NA,"",7,"Kungurian","",279.3,272.3,13536,"gp_mid",76.15,18.9,"601",275.8,"kungurian",7729,78.0309,-12.9832,55,1
@@ -183,6 +186,12 @@
 "33148",51566,"col","H.S. Lee",101.1,4.28,"H.S. Lee Mine No. 8, alatoconchid zone, Kinta Valley",NA,"",10,"Kungurian","",279.3,272.3,13717,"gp_mid",111.54,-32.81,"616",275.8,"kungurian",7926,131.2089,-19.5568,55,1
 "33231",114081,"col","Kapp Starostin",16.63,78.33,"Sveltihel, Unit 1, Spitsbergen",NA,"",8,"Kungurian","",279.3,272.3,33621,"gp_mid",16.52,37.01,"309",275.8,"kungurian",7954,0.1713,38.1597,55,1
 "33266",51676,"col","Kapp Starostin",15.03,77.56,"Ahlstrandodden, Unit 1 (AP1), Svalbard",NA,"",2,"Kungurian","",279.3,272.3,13718,"gp_mid",16.5,36.16,"309",275.8,"kungurian",7963,0.1713,38.1597,55,1
+"33651",52096,"col","Colina",-110.49,31.25,"Rancho La Cueva, 39.6-45.6m",NA,"",9,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"33652",52097,"col","Colina",-110.49,31.25,"Rancho la Cueva, 183.8-184.4 m above base",NA,"",9,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"33653",52098,"col","Colina",-110.49,31.25,"Rancho la Cueva, 191.1 m above base",NA,"",11,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"33654",52099,"col","Colina",-110.49,31.25,"Rancho la Cueva, 192.6 m above base",NA,"",3,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"33655",52100,"col","Colina",-110.49,31.25,"Rancho la Cueva, 195.1 m above base",NA,"",9,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"33657",52101,"col","Colina",-110.49,31.25,"Rancho la Cueva, 214.9-216.5 m above base",NA,"",5,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
 "36923",116126,"col","Qixia",109.23,23.71,"Laibin H64, Hongqiao Section",NA,"",1,"Kungurian","",279.3,272.3,11689,"gp_mid",124.72,-11.44,"611",275.8,"kungurian",8938,133.7184,3.1234,55,1
 "39771",59919,"col","Jamal",56.79,33.98,"Kuh-e Bagh-e Vang, Shotori Mountains, Tabas",NA,"Reef 3408",28,"Kungurian","",279.3,272.3,17203,"gp_mid",59.33,-20.52,"505",275.8,"kungurian",9576,49.4932,-21.0292,55,1
 "41332",61737,"col","Nong Pong",101.2,14.67,"Khao Nong Hoi (KNH), Saraburi area, Nong Pong Formation",NA,"",5,"Kungurian","",279.3,272.3,17790,"gp_mid",125.72,-24.23,"615",275.8,"kungurian",9982,125.416,-12.2161,55,1
@@ -231,6 +240,7 @@
 "44169",66112,"col","",112.93,27.61,"Changlingpu, Tanchiashan, Xiangtan County (Chao coll)",NA,"Tanjiashan",29,"Kungurian","",279.3,272.3,39944,"gp_mid",123.91,-6.38,"611",275.8,"kungurian",10678,134.9409,9.0447,55,1
 "44171",66114,"col","Dangchong",111.26,26.98,"Jiangjiachong, southern Shaoyang City",NA,"",5,"Kungurian","",279.3,272.3,18933,"gp_mid",123.43,-7.91,"611",275.8,"kungurian",10679,134.9409,9.0447,55,1
 "44172",66115,"col","Talata",62.6,69.5,"Liur-yaga Creek, Talata Svita, Pai-Khoy Range",NA,"",3,"Kungurian","",279.3,272.3,18934,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
+"44175",66118,"col","Lekvorkutskaya",59.3,69.95,"Vaigach Island, Sample 51v",NA,"",1,"Kungurian","",279.3,272.3,18934,"gp_mid",33.95,37.94,"302",275.8,"kungurian",10683,15.8521,46.2732,55,1
 "44252",66220,"col","Buffel",150.29,-25.37,"UQ L847, Cracow Station (Dresden Formation)",NA,"",4,"Kungurian","",279.3,272.3,11597,"gp_mid",160.54,-60.72,"801",275.8,"kungurian",10705,150.144,-48.0449,55,1
 "44253",66221,"col","Buffel",150.29,-25.37,"UQ L4820, Buffel Hill, Cracow Station",NA,"",14,"Kungurian","",279.3,272.3,27351,"gp_mid",160.53,-60.72,"801",275.8,"kungurian",10705,150.144,-48.0449,55,1
 "44254",66222,"col","Buffel",150.29,-25.37,"UQ L4821, Buffel Hill, Cracow Station",NA,"",8,"Kungurian","",279.3,272.3,27351,"gp_mid",160.53,-60.72,"801",275.8,"kungurian",10705,150.144,-48.0449,55,1
@@ -277,6 +287,7 @@
 "50539",75961,"col","Hess",-103.15,30.39,"USNM726n, Old Word Ranch, Glass Mountains",NA,"",23,"Kungurian","",279.3,272.3,11454,"gp_mid",-33.55,0.65,"101",275.8,"kungurian",12438,-44.0048,-0.8022,55,1
 "51070",77258,"col","Bagh-e Vang",57.03,34,"Deh-e Mohammad, Shotori Mountains",NA,"",8,"Kungurian","",279.3,272.3,26164,"gp_mid",59.54,-20.49,"505",275.8,"kungurian",12642,49.4932,-21.0292,55,1
 "51690",78402,"col","Shoushangou",126.58,43.15,"Yumuqiao, Shoushangou Fm, Huadian City",NA,"",2,"Kungurian","",279.3,272.3,26384,"gp_mid",128.01,18.16,"604",275.8,"kungurian",12836,128.6197,31.0383,55,1
+"52324",79426,"col","Kozhym",59.53,65.75,"Kozhim River, Kozhym fm., Komi",NA,"",1,"Kungurian","",279.3,272.3,26636,"gp_mid",38.17,35.44,"302",275.8,"kungurian",13004,22.8665,45.2403,55,1
 "53075",81134,"col","Clear Fork",-99.71,32.47,"B.E.G. 220-T-1 (Q-4), 1 mile ENE of Abilene Railway station",NA,"",2,"Kungurian","",279.3,272.3,41989,"gp_mid",-29.95,0.87,"101",275.8,"kungurian",13272,-40.5036,0.2573,55,1
 "53079",81138,"col","Safetdaron",70.75,38.64,"Adamak Rock, Collection 4424, Safetdaron, Darvaz Mountains",NA,"",1,"Kungurian","",279.3,272.3,27327,"gp_mid",73.74,18.77,"402",275.8,"kungurian",5690,74.9866,-12.7761,55,1
 "53085",81144,"col","Lekvorkuta",59.95,67.05,"Adz'vinskoe Coalfield, Well SDK-75, 460 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.03,36.38,"302",275.8,"kungurian",13277,19.3918,45.8104,55,1
@@ -293,6 +304,7 @@
 "53201",81384,"col","Kochusu",74.33,37.94,"Ak-Bura, Kochusu Formation, Pamir Mountains",NA,"",10,"Kungurian","",279.3,272.3,27407,"gp_mid",76.86,20.03,"601",275.8,"kungurian",13319,78.0309,-12.9832,55,1
 "53214",81397,"col","Kochusu",74.4,37.8,"Ak-Koz River, Sample 250/19, Southeastern Pamirs",NA,"",1,"Kungurian","",279.3,272.3,27415,"gp_mid",76.93,19.89,"601",275.8,"kungurian",13325,78.0309,-12.9832,55,1
 "53220",81403,"col","Koshelevskaya",56.94,57.86,"Alexandrovka Village, Sverdlovsk Region",NA,"",1,"Kungurian","",279.3,272.3,27425,"gp_mid",44.19,29.28,"302",275.8,"kungurian",13330,31.768,41.0701,55,1
+"53277",81513,"col","Colina",-109.86,31.42,"AMNH2019, Warren",NA,"",4,"Kungurian","",279.3,272.3,11473,"gp_mid",-37.71,4.76,"101",275.8,"kungurian",13361,-45.8099,2.8402,55,1
 "53350",81592,"col","Bone Spring",-104.88,31.9,"AMNH369, Shirttail Canyon, Guadalupe Mountains",NA,"",63,"Kungurian","",279.3,272.3,11454,"gp_mid",-33.95,2.73,"101",275.8,"kungurian",13376,-43.2662,1.7976,55,1
 "53360",81610,"col","Bone Spring",-104.88,31.32,"AMNH381, Victorio Peak, Sierra Diablo",NA,"",1,"Kungurian","",279.3,272.3,11471,"gp_mid",-34.27,2.25,"101",275.8,"kungurian",13383,-43.2662,1.7976,55,1
 "53367",81617,"col","Bone Spring",-105.93,31.78,"AMNH391, Ruddy Tank, Hueco Mountains",NA,"",13,"Kungurian","",279.3,272.3,11481,"gp_mid",-34.76,3.13,"101",275.8,"kungurian",13390,-43.2662,1.7976,55,1
@@ -333,6 +345,7 @@
 "53563",81991,"col","Bone Spring",-104.92,31.5,"Apache Canyon, second promontory N of lower bench, outside north rim",NA,"",2,"Kungurian","",279.3,272.3,27325,"gp_mid",-34.2,2.41,"101",275.8,"kungurian",12412,-43.2662,1.7976,55,1
 "53617",82076,"col","Reshetnikovo",131.5,43.2,"Artilleriyskiy Spring, Khasanskiy Region, Primorye",NA,"",4,"Kungurian","",279.3,272.3,27678,"gp_mid",136.61,30.59,"628",275.8,"kungurian",13518,144.6712,39.633,55,1
 "53621",82080,"col","Blaine",-100.22,33.23,"Aspermont, 6 miles N, Stonewall County",NA,"",1,"Kungurian","",279.3,272.3,27325,"gp_mid",-29.93,1.74,"101",275.8,"kungurian",13522,-40.5036,0.2573,55,1
+"53624",82095,"col","Reshetnikovo",131.33,44.35,"Atlanikha River, Primorye",NA,"",1,"Kungurian","",279.3,272.3,27678,"gp_mid",136.73,31.75,"628",275.8,"kungurian",13525,146.0009,41.9213,55,1
 "53680",82169,"col","West Arm",146.78,-41.18,"B6a, West Arm, Beaconsfield",NA,"",4,"Kungurian","",279.3,272.3,18569,"gp_mid",175.3,-75.97,"801",275.8,"kungurian",13551,147.6517,-63.3088,55,1
 "53683",82172,"col","West Arm",146.78,-41.18,"B6b, West Arm, Beaconsfield",NA,"",5,"Kungurian","",279.3,272.3,18569,"gp_mid",175.3,-75.97,"801",275.8,"kungurian",13551,147.6517,-63.3088,55,1
 "53687",82176,"col","West Arm",146.78,-41.18,"B6c, West Arm, Beaconsfield",NA,"",2,"Kungurian","",279.3,272.3,18569,"gp_mid",175.3,-75.97,"801",275.8,"kungurian",13551,147.6517,-63.3088,55,1
@@ -376,11 +389,16 @@
 "56375",85863,"col","",149.22,-22.53,"BMR SL643, Yatton Creek",NA,"",5,"Kungurian","",279.3,272.3,27370,"gp_mid",156.73,-58.42,"801",275.8,"kungurian",14436,149.7282,-45.5611,55,1
 "56514",86034,"col","Talata",58,65.5,"Bol'shaya Sinya River, Chernogo Creek, Talata Svita, Southern Chernyschev Ridge",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.91,34.79,"302",275.8,"kungurian",14519,22.258,43.7164,55,1
 "56515",86035,"col","Talata",58,65.5,"Bol'shaya Sinya River, Asselian, Southern Chernyschev Ridge",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.91,34.79,"302",275.8,"kungurian",14519,22.258,43.7164,55,1
+"56517",86037,"col","Talata",61.2,69.1,"Bolshaya Talota River, Outcrop 3, Bed 50, Sample 99, Pai-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,27342,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"56518",86038,"col","Talata",61.2,69.1,"Bolshaya Talota River, Outcrop 3, Bed 6, Sample 61, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"56519",86039,"col","Talata",61.2,69.1,"Bolshaya Talota River, Outcrop 3, Sample 73, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"56520",86040,"col","Talata",61.2,69.1,"Bolshaya Talota River, Outcrop 3, Sample 82, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
 "56530",86127,"col","Tumara",128.35,70.9,"Boskho River, Tumara Gorizont, North Kharaulakh Range",NA,"",2,"Kungurian","",279.3,272.3,27462,"gp_mid",40.17,57.28,"401",275.8,"kungurian",14530,-1.059,68.7669,55,1
 "56538",86152,"col","San Andres",-104.74,32.26,"Boyd 188-6, Last Chance Canyon",NA,"D.W.B. 188-6",8,"Kungurian","",279.3,272.3,11471,"gp_mid",-33.66,2.96,"101",275.8,"kungurian",14537,-43.2662,1.7976,55,1
 "56541",86155,"col","Safetdaron",70.29,37.99,"Boz-Gina River, Darvaz Mountains",NA,"",1,"Kungurian","",279.3,272.3,27414,"gp_mid",73.89,18.04,"402",275.8,"kungurian",14539,74.9866,-12.7761,55,1
 "56543",86157,"col","Kizildzhilga",74.5,37.7,"Boz-Tere River, Middle Kizildzhilga Horizon, Pamir Mountains",NA,"",1,"Kungurian","",279.3,272.3,29052,"gp_mid",77.02,19.79,"601",275.8,"kungurian",14541,78.0309,-12.9832,55,1
 "56839",86597,"col","Chuping",100.24,6.54,"Bukit Tungku Lembu, Perlis State",NA,"",1,"Kungurian","",279.3,272.3,29176,"gp_mid",109.07,-34.08,"616",275.8,"kungurian",14633,129.1368,-18.007,55,1
+"57324",87291,"col","Yrchakh",137.6,61.4,"Burkhala River, T. 1000, Southern Verkhoyan",NA,"",3,"Kungurian","",279.3,272.3,27345,"gp_mid",50.4,66.28,"401",275.8,"kungurian",14836,-12.0063,76.9161,55,1
 "57345",87339,"col","Deep Bay",147.09,-43.22,"C10, Minnie Point, Deep Bay",NA,"",1,"Kungurian","",279.3,272.3,18569,"gp_mid",-178.13,-77.35,"801",275.8,"kungurian",14847,148.357,-65.7904,55,1
 "57346",87340,"col","Deep Bay",147.37,-43.21,"C11, Ford Bay, Bruny Island",NA,"",1,"Kungurian","",279.3,272.3,18569,"gp_mid",-177.51,-77.2,"801",275.8,"kungurian",14848,148.357,-65.7904,55,1
 "57350",87344,"col","Deep Bay",147.09,-43.22,"C9, Minnie Point, Deep Bay",NA,"",2,"Kungurian","",279.3,272.3,18569,"gp_mid",-178.13,-77.35,"801",275.8,"kungurian",14847,148.357,-65.7904,55,1
@@ -396,6 +414,7 @@
 "58678",88905,"col","Lekvorkuta",51.49,62.76,"Chernaya River, Chernorechenskoe coalfield, Pechora Basin",NA,"",3,"Kungurian","",279.3,272.3,27341,"gp_mid",37.98,30.85,"302",275.8,"kungurian",15245,24.68,41.3063,55,1
 "58774",109697,"col","Hess",-103.19,30.36,"USNM709d, Hess Ranch, Glass Mountains",NA,"",1,"Kungurian","",279.3,272.3,11489,"gp_mid",-33.59,0.65,"101",275.8,"kungurian",5845,-44.0048,-0.8022,55,1
 "58982",89347,"col","Qixia",106.81,30.18,"Chuanmu Section, Bed 35, Huaying Mountains",NA,"",2,"Kungurian","",279.3,272.3,29970,"gp_mid",118.38,-8.67,"611",275.8,"kungurian",15350,127.8229,8.8842,55,1
+"59002",89367,"col","Khaldzhin",139,62.5,"Chuchchugunuar River, 15 km from mouth, southern Verkhoyan",NA,"",4,"Kungurian","",279.3,272.3,27341,"gp_mid",47.28,66.03,"401",275.8,"kungurian",15354,-12.0063,76.9161,55,1
 "59027",89392,"col","Cibolo",-104.32,29.85,"Cibolo Creek, east bluff 0.5 miles below Cibolo Ranch, breccia zone",NA,"",11,"Kungurian","",279.3,272.3,23038,"gp_mid",-34.68,0.76,"101",275.8,"kungurian",15362,-44.0048,-0.8022,55,1
 "59107",89596,"col","Cathedral Mountain",-103.31,30.3,"Clay Slide, Glass Mountains (John Britts Owen collection)",NA,"",2,"Kungurian","",279.3,272.3,27325,"gp_mid",-33.7,0.65,"101",275.8,"kungurian",6165,-44.0048,-0.8022,55,1
 "59133",89627,"col","San Andres",-105.72,32.98,"Cloudcroft UNM1324",NA,"",1,"Kungurian","",279.3,272.3,30055,"gp_mid",-33.94,4.02,"101",275.8,"kungurian",15396,-43.2662,1.7976,55,1
@@ -405,11 +424,14 @@
 "59705",90740,"col","Dog Creek",-100.35,33.37,"Croton Falls, Stonewall County",NA,"",37,"Kungurian","",279.3,272.3,894,"gp_mid",-29.94,1.91,"101",275.8,"kungurian",15639,-40.5036,0.2573,55,1
 "59817",91038,"col","Arroyo or Vale",-99.41,33.74,"USNM Locality 40971",NA,"Don's Dump Fish Quarry",1,"Kungurian","",279.3,272.3,30637,"gp_mid",-29.08,1.83,"101",275.8,"kungurian",14402,-40.5036,0.2573,55,1
 "61651",93293,"col","Santa Rosa Flat",-117.73,36.5,"SJS-1217 (4-2), Conglomerate Mesa",NA,"",1,"Kungurian","",279.3,272.3,31568,"gp_mid",-39.75,12.77,"101",275.8,"kungurian",16286,-48.2939,11.006,55,1
+"62850",94838,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-896, 24 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "62851",94839,"col","Lekvorkuta",60.8,67.18,"Adz'va River, Sample Ch-42-90, Talbeyskoe",NA,"",1,"Kungurian","",279.3,272.3,31800,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
 "62852",94840,"col","Lekvorkuta",60.8,67.18,"Adz'va River, Talbeyskoe",NA,"",1,"Kungurian","",279.3,272.3,31800,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
 "62853",94841,"col","Lekvorkuta",59.95,67.05,"Adz'va River, Well BK-1326, 700 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.03,36.38,"302",275.8,"kungurian",13277,19.3918,45.8104,55,1
 "62882",94870,"col","Kapp Starostin",19.04,74.39,"Alfreda Mountain, T. 257/F-1, Bjornoya",NA,"",2,"Kungurian","",279.3,272.3,29169,"gp_mid",19.08,33.61,"309",275.8,"kungurian",16596,3.2844,37.1766,55,1
 "62887",94875,"col","San Andres",-104.72,32.26,"AMNH B188-8, Last Chance Canyon",NA,"",1,"Kungurian","",279.3,272.3,18208,"gp_mid",-33.64,2.95,"101",275.8,"kungurian",16599,-43.2662,1.7976,55,1
+"62894",94882,"col","Colina",-110,31.65,"AMNH1064",NA,"",1,"Kungurian","",279.3,272.3,11474,"gp_mid",-37.67,5.01,"101",275.8,"kungurian",16603,-45.8099,2.8402,55,1
+"62895",94883,"col","Concha",-110,31.65,"AMNH1065",NA,"",1,"Kungurian","",279.3,272.3,11474,"gp_mid",-37.67,5.01,"101",275.8,"kungurian",16603,-45.8099,2.8402,55,1
 "62936",94924,"col","Qixia",117.06,30.65,"Bailujian, Bed 2, Anqing County",NA,"",17,"Kungurian","",279.3,272.3,32358,"gp_mid",123.81,-1.66,"611",275.8,"kungurian",16619,136.9603,12.6673,55,1
 "62937",94925,"col","Qixia",117.06,30.65,"Bailujian, Bed 5, Anqing County",NA,"",1,"Kungurian","",279.3,272.3,32358,"gp_mid",123.81,-1.66,"611",275.8,"kungurian",16619,136.9603,12.6673,55,1
 "62938",94926,"col","Qixia",117.06,30.65,"Bailujian, Bed 7, Anqing County",NA,"",2,"Kungurian","",279.3,272.3,32358,"gp_mid",123.81,-1.66,"611",275.8,"kungurian",16619,136.9603,12.6673,55,1
@@ -428,6 +450,7 @@
 "63066",95060,"col","Dyby",146.5,66.5,"Buordakh River, southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,32349,"gp_mid",8.89,69.33,"405",275.8,"kungurian",16657,-59.7773,77.4425,55,1
 "63067",95061,"col","Dyby",146.5,66.5,"Burandie River, southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,32349,"gp_mid",8.89,69.33,"405",275.8,"kungurian",16657,-59.7773,77.4425,55,1
 "63068",95062,"col","Dzhigdali",157.8,64,"Burgali River, Dzhigdalian horizon, Omolon Basin",NA,"",1,"Kungurian","",279.3,272.3,31819,"gp_mid",12.2,74.57,"405",275.8,"kungurian",16658,-75.1029,73.8963,55,1
+"63267",95255,"col","Palmarito",-70.23,9.63,"Carache, Merida Andes",NA,"",1,"Kungurian","",279.3,272.3,31799,"gp_mid",-34.4,-5.61,"203",275.8,"kungurian",16709,-42.5812,-11.1346,55,1
 "63367",95354,"col","Berriedale",147.19,-42.84,"Collinsvale Quarry, Hobart",NA,"",3,"Kungurian","",279.3,272.3,32369,"gp_mid",-179.08,-77.02,"801",275.8,"kungurian",16737,148.357,-65.7904,55,1
 "63392",95380,"col","Kaibab",-115.4,36.04,"Cottonwood Spring (Cisne locality 19)",NA,"",2,"Kungurian","",279.3,272.3,27841,"gp_mid",-38.57,11.23,"101",275.8,"kungurian",16750,-50.1127,8.0143,55,1
 "63395",95470,"col","Kizidjilginskii",74.86,37.62,"Shindy River, Kizildjilginskii Gorizont, southwest Pamir",NA,"",8,"Kungurian","",279.3,272.3,32465,"gp_mid",77.32,19.72,"601",275.8,"kungurian",16752,78.0309,-12.9832,55,1
@@ -443,6 +466,7 @@
 "63703",95708,"col","Qixia",117.83,26.09,"Guangping DG-12, Datian",NA,"",15,"Kungurian","",279.3,272.3,32510,"gp_mid",127.84,-3.9,"611",275.8,"kungurian",16866,139.0741,8.1198,55,1
 "63704",95709,"col","Qixia",117.83,26.09,"Guangping DG-13, Datian",NA,"",21,"Kungurian","",279.3,272.3,32510,"gp_mid",127.84,-3.9,"611",275.8,"kungurian",16866,139.0741,8.1198,55,1
 "63705",95710,"col","Qixia",117.83,26.09,"Guangping DG-14, Datian",NA,"",8,"Kungurian","",279.3,272.3,32510,"gp_mid",127.84,-3.9,"611",275.8,"kungurian",16866,139.0741,8.1198,55,1
+"63742",95747,"col","Dyby",139,62.5,"Dasaknya River, Upper Dyby River Basin, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27429,"gp_mid",47.28,66.03,"401",275.8,"kungurian",15354,-12.0063,76.9161,55,1
 "63900",95915,"col","Qixia",106.82,26.1,"Baijin, Huishui",NA,"",1,"Kungurian","",279.3,272.3,32576,"gp_mid",121.41,-11.47,"611",275.8,"kungurian",16930,129.6048,4.2079,55,1
 "63902",95917,"col","Qixia",106.08,25.99,"Chang'er, Maoying, Ziyun County",NA,"",1,"Kungurian","",279.3,272.3,32576,"gp_mid",121.03,-12.03,"611",275.8,"kungurian",16931,129.6048,4.2079,55,1
 "63903",95918,"col","Qixia",106.1,25.75,"Changliujing, Ziyun County",NA,"",1,"Kungurian","",279.3,272.3,32576,"gp_mid",121.22,-12.17,"611",275.8,"kungurian",16932,129.6048,4.2079,55,1
@@ -487,6 +511,8 @@
 "65332",98062,"col","Qixia",106.77,29.68,"Shuangshuijing, Qixia Fm, Qinjia, Jiangbei County",NA,"",1,"Kungurian","",279.3,272.3,33913,"gp_mid",118.73,-9.04,"611",275.8,"kungurian",17370,127.8229,8.8842,55,1
 "65333",98063,"col","Qixia",106.96,25.04,"Shiangyang Village, Tian'e County",NA,"Xiangyang",1,"Kungurian","",279.3,272.3,33907,"gp_mid",122.29,-12.09,"611",275.8,"kungurian",17371,132.7824,5.4427,55,1
 "65334",98064,"col","Qixia",104.3,26.9,"Weining",NA,"",1,"Kungurian","",279.3,272.3,33913,"gp_mid",119.23,-12.54,"611",275.8,"kungurian",17372,128.718,6.5468,55,1
+"65378",98116,"col","Lekvorkuta",64.63,67.84,"Khalmeryuskoe Coalfield, Well KhK-839, 394 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.55,38.29,"302",275.8,"kungurian",17389,19.766,47.222,55,1
+"65379",98117,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-907, 289 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "66763",99772,"col","Bagh-e Vang",56.78,33.97,"Kuh-e-Shesh Angosht 66HF103A, Bed 2",NA,"",8,"Kungurian","",279.3,272.3,29925,"gp_mid",59.33,-20.53,"505",275.8,"kungurian",17899,49.4932,-21.0292,55,1
 "66764",99773,"col","Bagh-e Vang",56.78,33.97,"Kuh-e-Shesh Angosht 66HF103a, Bed 3",NA,"",4,"Kungurian","",279.3,272.3,29925,"gp_mid",59.33,-20.53,"505",275.8,"kungurian",17899,49.4932,-21.0292,55,1
 "66765",99774,"col","Bagh-e Vang",56.78,33.97,"Kuh-e-Shesh Angosht 66HF104, Bed 3",NA,"",3,"Kungurian","",279.3,272.3,29925,"gp_mid",59.33,-20.53,"505",275.8,"kungurian",17899,49.4932,-21.0292,55,1
@@ -514,8 +540,11 @@
 "67010",100064,"col","Qixia",110.11,29.58,"Rencunping section, bed 9, RCF12, Sangzhi County",NA,"",1,"Kungurian","",279.3,272.3,34347,"gp_mid",120.78,-6.97,"611",275.8,"kungurian",17997,130.8856,10.0762,55,1
 "67130",100191,"col","Qixia",117.98,30.27,"Yangtiantang, Bed 4, Guankou, Guichi County",NA,"",10,"Kungurian","",279.3,272.3,34381,"gp_mid",124.59,-1.26,"611",275.8,"kungurian",1340,136.9603,12.6673,55,1
 "67131",100192,"col","Qixia",117.98,30.27,"Yangtiantang, Bed 5, Guankou, Guichi County",NA,"",12,"Kungurian","",279.3,272.3,34381,"gp_mid",124.59,-1.26,"611",275.8,"kungurian",1340,136.9603,12.6673,55,1
+"67310",100462,"col","Yrchakh",138.35,61.8,"Kenne River, T. 10/16, Khalyi River Basin, Southern Verkhoyan",NA,"",2,"Kungurian","",279.3,272.3,27345,"gp_mid",49.06,66.29,"401",275.8,"kungurian",18085,-12.0063,76.9161,55,1
 "67396",100649,"col","Khanalichan",138.5,60.75,"Kyutep River, T. 4, Upper Yudoma River Basin, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",50.95,67.03,"401",275.8,"kungurian",18111,-12.2118,79.4157,55,1
 "67403",100656,"col","Sakhana",127.4,71.5,"Lena River Mouth, T. 122, Sakhana Svita, Kharaulakh",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",39.69,56.66,"401",275.8,"kungurian",17961,-3.1894,66.4022,55,1
+"67445",100699,"col","Kobyuma",139.6,63.25,"Suntar River, T. 1087, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",45.51,65.7,"401",275.8,"kungurian",18125,-12.0063,76.9161,55,1
+"67494",100748,"col","Dyby",139,62.5,"Dasaknya River, T. 50/4, Upper Dyby River Basin, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",47.28,66.03,"401",275.8,"kungurian",15354,-12.0063,76.9161,55,1
 "67506",100760,"col","Tumara",129.75,70.5,"Kharaulakh River, North Kharaulakh Range",NA,"",1,"Kungurian","",279.3,272.3,27462,"gp_mid",40.17,57.89,"401",275.8,"kungurian",18137,-4.4811,69.1332,55,1
 "67508",100762,"col","Tumara",127.25,71.9,"Lena river, lower reaches, Tumara Horizon",NA,"",1,"Kungurian","",279.3,272.3,27462,"gp_mid",39.19,56.37,"401",275.8,"kungurian",18138,-3.1894,66.4022,55,1
 "67509",100763,"col","Qixia",114.04,27.65,"Hujiafang, Pingxiang County",NA,"",1,"Kungurian","",279.3,272.3,34487,"gp_mid",124.52,-5.59,"611",275.8,"kungurian",18139,134.9409,9.0447,55,1
@@ -594,6 +623,9 @@
 "68143",101684,"col","Khaldzin",134.75,69.6,"Oyun-Yurege River, Lower Khaldzin Formation, Northern Kharaulakh",NA,"",1,"Kungurian","",279.3,272.3,27927,"gp_mid",39.1,59.74,"401",275.8,"kungurian",18451,-8.047,69.3516,55,1
 "68145",101686,"col","Tabyo",63.5,69.5,"Vas'-Yaga River, Pai-Khoy Mountains",NA,"",3,"Kungurian","",279.3,272.3,42617,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
 "68146",101687,"col","Dzhigdali",159.36,62.78,"Pravyy Vodopadnyy Creek, Anidanthus aagardi Zone, Omolon Massif",NA,"",1,"Kungurian","",279.3,272.3,27429,"gp_mid",15.78,75.63,"405",275.8,"kungurian",18454,-90.4217,76.3046,55,1
+"68150",101691,"col","Khovsgol",109.9,43.55,"Khubsugul Aymak",NA,"",1,"Kungurian","",279.3,272.3,33435,"gp_mid",118.62,34.64,"628",275.8,"kungurian",18457,121.7042,46.4623,55,1
+"68154",101695,"col","",58.7,62.45,"Kos'yu River, western Urals",NA,"",1,"Kungurian","",279.3,272.3,27542,"gp_mid",40.94,33.04,"302",275.8,"kungurian",18459,26.266,44.5671,55,1
+"68170",101723,"col","",59.5,65.75,"Kozhim River, Saraninian horizon, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29345,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "68201",101757,"col","Vil'skaya",52.7,67.05,"Sula River, below mouth of Shchuch'ya River",NA,"",1,"Kungurian","",279.3,272.3,31711,"gp_mid",34.79,34.22,"302",275.8,"kungurian",18481,18.3498,43.0402,55,1
 "68212",101776,"col","Clyde",-99.82,31.74,"USGS 9861, Mustang Creek, Runnels County",NA,"",3,"Kungurian","",279.3,272.3,11476,"gp_mid",-30.41,0.29,"101",275.8,"kungurian",18488,-40.5036,0.2573,55,1
 "68221",101785,"col","Cathedral Mountain",-103.29,30.31,"USNM721u, Hill 5280, Glass Mountains",NA,"",131,"Kungurian","",279.3,272.3,11454,"gp_mid",-33.69,0.65,"101",275.8,"kungurian",18494,-44.0048,-0.8022,55,1
@@ -619,7 +651,10 @@
 "68579",102216,"col","Khalali",159.2,63.7,"Russkaya-Omolonskaya River, Outcrop 31, Bed 2",NA,"",1,"Kungurian","",279.3,272.3,27703,"gp_mid",12.44,75.25,"405",275.8,"kungurian",18663,-90.4217,76.3046,55,1
 "68697",102382,"col","Dzhigdali",159.95,63.8,"Malaya Aulandzha River, Ugol'nyi-Labaznyi interfluve, Omolon Massif",NA,"",1,"Kungurian","",279.3,272.3,27356,"gp_mid",11.58,75.52,"405",275.8,"kungurian",18719,-75.4679,72.3152,55,1
 "68698",102383,"col","Dzhigdali",159.36,62.78,"Pravyy Vodopadnyy Creek, Outcrop 1, Bed 4, Omolon Massif",NA,"",1,"Kungurian","",279.3,272.3,27356,"gp_mid",15.78,75.63,"405",275.8,"kungurian",18454,-90.4217,76.3046,55,1
+"68704",102389,"col","Colina",-110.49,31.25,"Rancho La Cueva 173.7 m",NA,"",1,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
 "68705",102390,"col","Colina",-110.49,31.24,"Rancho La Cueva JS-96-45",NA,"",10,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",18722,-47.3032,1.3094,55,1
+"68706",102391,"col","Colina",-110.49,31.25,"Rancho La Cueva 97RB21",NA,"",1,"Kungurian","",279.3,272.3,13977,"gp_mid",-38.25,4.93,"101",275.8,"kungurian",8036,-45.8099,2.8402,55,1
+"68708",102393,"col","Khovsgol",104.3,42.5,"Dzil'-Khayliste-Khuduk Bore, Khovsgol Formation, Tsagan-Ula Mountains",NA,"",1,"Kungurian","",279.3,272.3,33441,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
 "68709",102394,"col","Gusinozemelskaya",52.53,71.36,"Mezhdusharsky Island, Collection 4-164, Novaya Zemlya",NA,"",2,"Kungurian","",279.3,272.3,29395,"gp_mid",30.8,37.07,"302",275.8,"kungurian",18724,11.6921,44.4064,55,1
 "68729",102489,"col","Koshelevskaya",57.8,56.73,"Podgornaya Village, Krasnoufimsk, Sverdlovsk Region",NA,"",2,"Kungurian","",279.3,272.3,27425,"gp_mid",45.49,28.83,"302",275.8,"kungurian",18738,31.768,41.0701,55,1
 "68730",102490,"col","Koshelevskaya",53.3,59.12,"Sukhaya Rechka Village, Iren River, Perm Region",NA,"",1,"Kungurian","",279.3,272.3,27425,"gp_mid",41.63,28.84,"302",275.8,"kungurian",18739,27.7119,40.3139,55,1
@@ -660,9 +695,11 @@
 "69555",103639,"col","Solikamsk",56.49,59.84,"Tyulkino, PIN collection 3474, Kama River",NA,"",20,"Kungurian","",279.3,272.3,34959,"gp_mid",42.36,30.49,"302",275.8,"kungurian",19073,28.6879,42.0387,55,1
 "69574",103658,"col","Deep Bay",147.1,-43.22,"UNE L1007, Deep Bay",NA,"",1,"Kungurian","",279.3,272.3,27370,"gp_mid",-178.12,-77.34,"801",275.8,"kungurian",19088,148.357,-65.7904,55,1
 "69838",103997,"col","Berserker",150.6,-23.39,"UQ L29, Lakes Creek Quarry, Rockhampton",NA,"",3,"Kungurian","",279.3,272.3,27370,"gp_mid",159.58,-58.78,"801",275.8,"kungurian",18387,149.7282,-45.5611,55,1
+"69840",103999,"col","",152.08,-28.36,"UQ L3038, Rokeby Homestead",NA,"",1,"Kungurian","",279.3,272.3,27370,"gp_mid",166.23,-62.78,"801",275.8,"kungurian",19245,155.7564,-50.0548,55,1
 "69859",104018,"col","Deep Bay",147.51,-42.97,"UQ L3061, PWD Quarry, Junction of South Arm-Cape Deslacs Roads",NA,"",1,"Kungurian","",279.3,272.3,27370,"gp_mid",-177.95,-76.95,"801",275.8,"kungurian",19255,148.357,-65.7904,55,1
 "69860",104019,"col","",147.51,-42.97,"UQ L3062, Swift's Jetty, Middle Arm",NA,"",1,"Kungurian","",279.3,272.3,27370,"gp_mid",-177.95,-76.95,"801",275.8,"kungurian",19255,148.357,-65.7904,55,1
 "70129",105020,"col","Buffel",150.29,-25.38,"Cracow Homestead, 0.5 miles west",NA,"",2,"Kungurian","",279.3,272.3,27372,"gp_mid",160.54,-60.72,"801",275.8,"kungurian",10707,150.144,-48.0449,55,1
+"70169",105063,"col","Lekvorkuta",64.8,67.95,"Khal'mer-Yu, Vodorazdelnyi Creek, Outcrop 10, 5-427/54",NA,"PIN collection 1206",2,"Kungurian","",279.3,272.3,41265,"gp_mid",37.47,38.41,"302",275.8,"kungurian",19384,19.766,47.222,55,1
 "70416",105336,"col","Park City",-113.08,42.4,"Mud Springs, Cassia County",NA,"",3,"Kungurian","",279.3,272.3,27437,"gp_mid",-33.04,15.05,"101",275.8,"kungurian",19472,-42.9359,13.4178,55,1
 "70500",105422,"col","Grange Mudstone",147.18,-42.75,"Mount Nassau, Rayner-Geiss Creek (Grange Mudstone)",NA,"",6,"Kungurian","",279.3,272.3,33459,"gp_mid",-179.37,-76.96,"801",275.8,"kungurian",19533,148.357,-65.7904,55,1
 "70503",105425,"col","Berriedale",147.19,-42.75,"Rathbone's Quarry, Rayner Creek, Mount Nassau",NA,"",17,"Kungurian","",279.3,272.3,33459,"gp_mid",-179.36,-76.96,"801",275.8,"kungurian",18388,148.357,-65.7904,55,1
@@ -851,6 +888,7 @@
 "71498",106886,"col","Grange Mudstone",147.27,-42.9,"Strickland Avenue, west of Cascade",NA,"",3,"Kungurian","",279.3,272.3,32369,"gp_mid",-178.69,-77.02,"801",275.8,"kungurian",19902,148.357,-65.7904,55,1
 "71500",106889,"col","Berserker",150.6,-23.39,"Lakes Creek Quarry, Trachypora horizon, Rockhampton",NA,"",7,"Kungurian","",279.3,272.3,33462,"gp_mid",159.58,-58.78,"801",275.8,"kungurian",18387,149.7282,-45.5611,55,1
 "71846",107305,"col","Qixia",109.23,23.71,"Laibin Daqiao, Laibin County",NA,"",1,"Kungurian","",279.3,272.3,33469,"gp_mid",124.72,-11.44,"611",275.8,"kungurian",8938,133.7184,3.1234,55,1
+"72177",107664,"col","Colina",-110.05,31.66,"USGS 8513, Hill 5320, Tombstone Hills",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.7,5.04,"101",275.8,"kungurian",20127,-45.8099,2.8402,55,1
 "72282",107787,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PU collection 2)",NA,"",37,"Kungurian","",279.3,272.3,40946,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
 "72293",107802,"col","Koshelevka",57.84,57.77,"Barda Locality 3, Krutaya Katushka (SGM VI-198 collection)",NA,"",1,"Kungurian","",279.3,272.3,35851,"gp_mid",44.65,29.56,"302",275.8,"kungurian",20172,31.768,41.0701,55,1
 "72452",107969,"col","Pequop",-114.6,40.77,"SJS-1279, Central Pequop Mountains",NA,"",1,"Kungurian","",279.3,272.3,29891,"gp_mid",-35.01,14.5,"101",275.8,"kungurian",20274,-46.7847,13.0238,55,1
@@ -902,7 +940,9 @@
 "72814",108404,"col","Bone Spring",-104.94,31.5,"PU53e, Apache Canyon, Sierra Diablo",NA,"",1,"Kungurian","",279.3,272.3,15535,"gp_mid",-34.22,2.42,"101",275.8,"kungurian",20361,-43.2662,1.7976,55,1
 "72834",108446,"col","San Andres",-106.71,33.15,"Rhodes Canyon, San Andres Mountains",NA,"",1,"Kungurian","",279.3,272.3,30056,"gp_mid",-34.53,4.63,"101",275.8,"kungurian",20397,-43.2662,1.7976,55,1
 "72913",108529,"col","Fol'k",159.9,63.83,"Munugudzhak River 93-1, Omolon River",NA,"",2,"Kungurian","",279.3,272.3,29690,"gp_mid",11.5,75.49,"405",275.8,"kungurian",20438,-75.4679,72.3152,55,1
+"72914",108530,"col","Lekvorkutskaya",64.17,67.65,"Vorkuta River Outcrop 68, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29690,"gp_mid",37.62,38.04,"302",275.8,"kungurian",20439,19.766,47.222,55,1
 "72915",108531,"col","",159,62.5,"Ogoner River, Dzhigdali Horizon, Omolon Basin, Omolon Massif",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",17.06,75.56,"405",275.8,"kungurian",20440,-90.4217,76.3046,55,1
+"72916",108532,"col","Lekvorkutskaya",64.19,67.65,"Vorkuta River Outcrop 71, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29690,"gp_mid",37.62,38.05,"302",275.8,"kungurian",20441,19.766,47.222,55,1
 "72918",108534,"col","Ozerninskaya",148.75,65,"Faunov Creek 47-1, Zyryanka River, Kolyma Basin",NA,"",1,"Kungurian","",279.3,272.3,29690,"gp_mid",12.58,70.55,"405",275.8,"kungurian",20443,-76.7608,79.3143,55,1
 "72919",108535,"col","Ozerninskaya",148.75,65,"Faunov Creek 47-2, Zyryanka River, Kolyma Basin",NA,"",2,"Kungurian","",279.3,272.3,29690,"gp_mid",12.58,70.55,"405",275.8,"kungurian",20443,-76.7608,79.3143,55,1
 "72920",108536,"col","Ozerninskaya",148.75,65,"Faunov Creek 47-3, Zyryanka River, Kolyma Basin",NA,"",2,"Kungurian","",279.3,272.3,29690,"gp_mid",12.58,70.55,"405",275.8,"kungurian",20443,-76.7608,79.3143,55,1
@@ -920,6 +960,16 @@
 "73748",109480,"col","Solikamsk",45.68,67.75,"Nodtei Cape, Sowerbina-Oriocrassatella Beds, Kanin Peninsula",NA,"",4,"Kungurian","",279.3,272.3,33523,"gp_mid",31.9,32.83,"302",275.8,"kungurian",20618,16.9642,40.3647,55,1
 "73749",109481,"col","",45.71,67.75,"Nodtei Cape, Cancrinella-Schizodus Beds, Kanin Peninsula",NA,"",10,"Kungurian","",279.3,272.3,33523,"gp_mid",31.9,32.84,"302",275.8,"kungurian",20619,16.9642,40.3647,55,1
 "74028",122271,"col","Qixia",112.95,27.65,"Tanjiashan, Xiangtan County (Zhou coll)",NA,"",1,"Kungurian","",279.3,272.3,18305,"gp_mid",123.9,-6.34,"611",275.8,"kungurian",18409,134.9409,9.0447,55,1
+"74057",109801,"col","Ayach'yaga",65.4,67.05,"Polyarnyye Bugry Station, Bore IK-632, 107 m Depth",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",38.59,38.1,"302",275.8,"kungurian",20721,19.766,47.222,55,1
+"74058",109802,"col","Ayach'yaga",65.4,67.05,"Polyarnyye Bugry Station, Bore IK-632, 94 m Depth",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",38.59,38.1,"302",275.8,"kungurian",20721,19.766,47.222,55,1
+"74059",109803,"col","Lekvorkuta",62.15,67.5,"Rogovskaya Anticline, Bore VK-1320, 589.9 m Depth",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.22,37.33,"302",275.8,"kungurian",20722,19.766,47.222,55,1
+"74060",109804,"col","Talata",63.81,67.14,"Usa River, Talata Suite, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
+"74061",109805,"col","Ayach'yaga",62.15,67.5,"Verkne-rogovskoye Deposit, Bore VK-1326, 650-653 m depth",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.22,37.33,"302",275.8,"kungurian",20722,19.766,47.222,55,1
+"74064",109808,"col","Talata",64.18,67.68,"Vorkuta Deposit, Bore K-856, 193-194 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"74065",109809,"col","Talata",64.18,67.68,"Vorkuta Deposit, Bore K-892, 231 m Depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"74066",109810,"col","Talata",64.18,67.68,"Vorkuta Deposit, Bore K-892, 238.5 m Depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"74067",109811,"col","Talata",63,67.5,"Yarvozhskiy Dome, Bore NGK-1, 249.3 m depth",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.46,37.59,"302",275.8,"kungurian",20725,19.766,47.222,55,1
+"74069",109813,"col","Talata",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-134, 179.6 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29808,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
 "74086",109830,"col","Kochusu",74.53,37.81,"Kur-Istyk River, Second Tributary, 1.5 km from mouth",NA,"",2,"Kungurian","",279.3,272.3,27407,"gp_mid",77.03,19.91,"601",275.8,"kungurian",20741,78.0309,-12.9832,55,1
 "74087",109831,"col","Kochusu",74.53,37.81,"Kur-Istyk River, Third Tributary, 0.25 km from mouth",NA,"",1,"Kungurian","",279.3,272.3,27407,"gp_mid",77.03,19.91,"601",275.8,"kungurian",20741,78.0309,-12.9832,55,1
 "74088",109832,"col","Kochusu",74.53,37.81,"Kur-Istyk River, Third Tributary, 0.6 km from mouth",NA,"",1,"Kungurian","",279.3,272.3,27407,"gp_mid",77.03,19.91,"601",275.8,"kungurian",20741,78.0309,-12.9832,55,1
@@ -965,6 +1015,7 @@
 "74196",109945,"col","Gusinozemelskaya",52.39,71.34,"Mezhdusharsky Island, Section 8, Sample 926, Novaya Zemlya",NA,"",3,"Kungurian","",279.3,272.3,27332,"gp_mid",30.78,37.02,"302",275.8,"kungurian",20811,11.6921,44.4064,55,1
 "74197",109946,"col","Gusinozemelskaya",52.39,71.34,"Mezhdusharsky Island, Section 8, Sample 927, Novaya Zemlya",NA,"",3,"Kungurian","",279.3,272.3,27332,"gp_mid",30.78,37.02,"302",275.8,"kungurian",20811,11.6921,44.4064,55,1
 "74212",109961,"col","Karmakula",52.75,72.65,"Pukhovoe Island, Sample 236-41, Pukhovoy Bay, Novaya Zemlya",NA,"",1,"Kungurian","",279.3,272.3,27332,"gp_mid",29.62,37.96,"302",275.8,"kungurian",20815,11.6921,44.4064,55,1
+"74223",109972,"col","Lekvorkuta",59.5,65.75,"Kozhimskoe Coalfield, well IK-118, 92 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27332,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "74224",109973,"col","Ugryumin",52.6,72,"Vadega-2 River, Sample 19045-21, Novaya Zemlya",NA,"",1,"Kungurian","",279.3,272.3,27332,"gp_mid",30.21,37.5,"302",275.8,"kungurian",20818,11.6921,44.4064,55,1
 "74226",109975,"col","Talata",62.6,69.56,"Er'yaga River, Section 620, Bed 6, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.2,38.64,"302",275.8,"kungurian",20820,16.1042,47.5439,55,1
 "74227",109976,"col","Talata",62.6,69.56,"Er'yaga River, Section BE-1, Bed 14, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.2,38.64,"302",275.8,"kungurian",20820,16.1042,47.5439,55,1
@@ -978,7 +1029,17 @@
 "74241",109990,"col","Ufimskiy",45.15,67.35,"Kanin Peninsula, Well 11, 242 m depth",NA,"",2,"Kungurian","",279.3,272.3,27342,"gp_mid",32.03,32.4,"302",275.8,"kungurian",20826,16.9642,40.3647,55,1
 "74242",109991,"col","Ufimskiy",45.15,67.35,"Kanin Peninsula, Well 11, 237 m depth",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",32.03,32.4,"302",275.8,"kungurian",20826,16.9642,40.3647,55,1
 "74245",109994,"col","Ufimskiy",45.7,67.75,"Kanin Peninsula, Well 36, Sample 64",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",31.9,32.84,"302",275.8,"kungurian",20829,16.9642,40.3647,55,1
+"74247",109996,"col","Talata",62.65,68.6,"Khei-Yaga River, Outcrop 187, Sample 30, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
 "74258",110007,"col","Lekvorkuta",59.25,68,"Kozhim River, Section 5, Lekvorkuta Svita, Pechora Basin",NA,"",12,"Kungurian","",279.3,272.3,27342,"gp_mid",35.89,36.75,"302",275.8,"kungurian",20834,19.3918,45.8104,55,1
+"74259",110008,"col","Talata",59.73,65.69,"Kozhim River Section 5, Talata Svita, Pechora Basin",NA,"",18,"Kungurian","",279.3,272.3,27342,"gp_mid",38.29,35.47,"302",275.8,"kungurian",20835,22.8665,45.2403,55,1
+"74260",110009,"col","Talata",59.73,65.69,"Kozhim River Section 5, Sample 26, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.29,35.47,"302",275.8,"kungurian",20835,22.8665,45.2403,55,1
+"74261",110010,"col","Lekvorkuta",59.5,65.75,"Kozhim River, Lekvorkuta Svita, Pechora Basin",NA,"",28,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74262",110011,"col","Talata",59.5,65.75,"Kozhim River, Section 3, Sample 66",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74263",110012,"col","Talata",59.5,65.75,"Kozhim River, Talata Svita, Pechora Basin",NA,"",7,"Kungurian","",279.3,272.3,31800,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74264",110013,"col","Lekvorkuta",59.5,65.75,"Kozhim River, Outcrop 37, Sample 54",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74265",110014,"col","Talata",59.5,65.75,"Kozhim River, Collection 9",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74266",110015,"col","Talata",59.5,65.75,"Kozhim River, Collection 11",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"74267",110016,"col","Talata",59.5,65.75,"Kozhim River, Collection 13",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "74278",110027,"col","Lekvorkuta",62.6,69.5,"Liur-Yaga River, Section 30, Sample 10, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "74279",110028,"col","Lekvorkuta",62.6,69.5,"Liur-Yaga River, Section 30, Sample 9, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "74280",110029,"col","Lekvorkuta",62.6,69.5,"Liur-Yaga River, Section 30, Sample 5, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
@@ -1000,6 +1061,9 @@
 "74373",110135,"col","Talata",64.25,69.4,"Tab-Yo River, Talata suite, Pai-Khoy Range",NA,"",7,"Kungurian","",279.3,272.3,27342,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
 "74374",110136,"col","Talata",64.25,69.4,"Tab-Yo River, Outcrop 100, Sample 2528, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
 "74375",110137,"col","Talata",64.25,69.4,"Tab-Yo River, Outcrop 99, Pai-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,27342,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
+"74391",110153,"col","Lekvorkuta",64.18,67.65,"Vorkuta River Outcrop 37, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",37.63,38.05,"302",275.8,"kungurian",20893,19.766,47.222,55,1
+"74392",110154,"col","Lekvorkuta",64.18,67.65,"Vorkuta River Outcrop 49, Bed 71, Sample 7, Pechora Basin",NA,"",2,"Kungurian","",279.3,272.3,27342,"gp_mid",37.63,38.05,"302",275.8,"kungurian",20893,19.766,47.222,55,1
+"74393",110155,"col","Lekvorkuta",64.17,67.65,"Vorkuta River Outcrop 68, Bed 44, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",37.62,38.04,"302",275.8,"kungurian",20439,19.766,47.222,55,1
 "74395",110157,"col","Lekvorkuta",62.25,68.87,"Yangarei River, Outcrop 26a. Sample 8, Pai-Khoy Mountains",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "74396",110158,"col","",62.25,68.87,"Yangarei River, Pai-Khoy Mountains",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "74397",110159,"col","Lekvorkuta",62.25,68.87,"Yangarei River, Talata Svita, Pai-Khoy Mountains",NA,"",2,"Kungurian","",279.3,272.3,27342,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
@@ -1010,12 +1074,14 @@
 "74420",110181,"col","Adz'va",60.8,67.18,"Adz'va River, Outcrop 10, Sample 15, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
 "74421",110182,"col","",60.8,67.18,"Adz'va River, Section Ch-42, Bed 28, Sample 40, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27342,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
 "74423",110184,"col","Talata",62.6,69.56,"Er'yaga River, Section E-1002, Sample 6, Pai-Khoy Range",NA,"",3,"Kungurian","",279.3,272.3,27343,"gp_mid",35.2,38.64,"302",275.8,"kungurian",20820,16.1042,47.5439,55,1
+"74432",110193,"col","Lekvorkuta",59.5,65.75,"Kozhim River, Outcrop 5, Bed 386, Sample 54a",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "74444",110205,"col","Talata",64.25,69.4,"Tab-Yo River, Outcrop 94, Sample 2435, Pai-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,27343,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
 "74445",110206,"col","Talata",64.25,69.4,"Tab-Yo River, Outcrop 88, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
 "74498",110259,"col","Arkachan",135.3,63.75,"Dzik-Tik-Pit river, Uyana River Basin, western Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,32353,"gp_mid",47.74,63.96,"401",275.8,"kungurian",13753,-5.9972,74.3113,55,1
 "74507",110269,"col","",159.9,63.8,"Mungudzhak River, Kolyma River, Omolon",NA,"",3,"Kungurian","",279.3,272.3,32353,"gp_mid",11.61,75.5,"405",275.8,"kungurian",20931,-75.4679,72.3152,55,1
 "74729",110512,"col","Cathedral Mountain",-103.14,30.41,"YPM 2, Split Tank, Glass Mountains",NA,"",5,"Kungurian","",279.3,272.3,11481,"gp_mid",-33.53,0.66,"101",275.8,"kungurian",21001,-44.0048,-0.8022,55,1
 "75269",111072,"col","",110.79,30.94,"Sintan, Locality N.U. 22, Ichang",NA,"",1,"Kungurian","",279.3,272.3,36343,"gp_mid",120.15,-5.62,"611",275.8,"kungurian",21123,133.9308,11.3385,55,1
+"75325",111128,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Bed 466, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27696,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "75327",111130,"col","",46.28,67.82,"Nodtei River, Section 3, Layer 6, Sample 53, Kanin Peninsula",NA,"",1,"Kungurian","",279.3,272.3,27696,"gp_mid",32.04,33.04,"302",275.8,"kungurian",20825,16.9642,40.3647,55,1
 "75329",111132,"col","Ufimskiy",45.4,67.95,"Sesayakha River, upper reaches, Kanin Peninsula",NA,"",1,"Kungurian","",279.3,272.3,27696,"gp_mid",31.64,32.91,"302",275.8,"kungurian",20854,16.9642,40.3647,55,1
 "75410",111218,"col","Solikamsk",56.49,60.3,"Mogilnikovo, outcrop 2, Vishera River",NA,"",7,"Kungurian","",279.3,272.3,36473,"gp_mid",41.98,30.81,"302",275.8,"kungurian",21149,28.6879,42.0387,55,1
@@ -1094,8 +1160,16 @@
 "75883",111963,"col","Qixia",105.01,26.04,"Longyin, Qixia Fm, Pu'an County",NA,"",3,"Kungurian","",279.3,272.3,36582,"gp_mid",120.31,-12.68,"611",275.8,"kungurian",21263,129.6048,4.2079,55,1
 "75887",111967,"col","Qixia",105.09,26,"Huagang, Qixia Fm, Qinglong County",NA,"",2,"Kungurian","",279.3,272.3,36582,"gp_mid",120.39,-12.66,"611",275.8,"kungurian",21265,129.6048,4.2079,55,1
 "76337",112533,"col","",-131.47,55.37,"George Inlet, Revillagigedo Island",NA,"71ABg173",4,"Kungurian","",279.3,272.3,36639,"gp_mid",-46.39,30.51,"127",275.8,"kungurian",21347,-95.1368,8.2592,55,1
+"76413",112618,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Bed 462, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76414",112619,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Bed 465, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76415",112620,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Bed 468, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76416",112621,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Bed 474, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76417",112622,"col","Kozhim",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Outcrop 5, Beds 459-461, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "76418",112623,"col","Adz'va",60.8,67.18,"Osh-Shor Creek, Outcrop Ch-42, Bed 30, Adz'va River",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
 "76419",112624,"col","Adz'va",60.8,67.18,"Osh-Shor Creek, Outcrop Ch-42, Bed 8, Adz'va River",NA,"",1,"Kungurian","",279.3,272.3,18567,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
+"76433",112641,"col","",59.5,65.75,"Kozhim River, Iren' Horizon, Kozhim-Rudnik settlement",NA,"",3,"Kungurian","",279.3,272.3,33592,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76434",112642,"col","Kozhim-Rudnik",59.5,65.75,"Kozhim River, Kozhim-Rudnik Horizon, Kozhim-Rudnik settlement",NA,"",1,"Kungurian","",279.3,272.3,33592,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"76435",112643,"col","Iren",59.73,65.69,"Kozhim River, Outcrop 5, Point 273",NA,"",1,"Kungurian","",279.3,272.3,33592,"gp_mid",38.29,35.47,"302",275.8,"kungurian",20835,22.8665,45.2403,55,1
 "76436",112644,"col","Solikamsk",58.72,66.25,"Shar'yu River, left tributary of Usa River, Chernyshev Ridge",NA,"",1,"Kungurian","",279.3,272.3,33592,"gp_mid",37.44,35.49,"302",275.8,"kungurian",21370,19.3918,45.8104,55,1
 "76620",112834,"col","Mount Greene",-123.05,56.1,"Mount Greene, Section 150A, Peace River",NA,"",5,"Kungurian","",279.3,272.3,29688,"gp_mid",-28,29.45,"101",275.8,"kungurian",21421,-56.8885,26.8136,55,1
 "76621",112835,"col","Mount Greene",-122.3,55.5,"Pine Pass, Section 145, Peace River area",NA,"",2,"Kungurian","",279.3,272.3,29688,"gp_mid",-28.18,28.73,"101",275.8,"kungurian",21422,-56.8885,26.8136,55,1
@@ -1113,7 +1187,10 @@
 "76812",113039,"col","Toroweap",-114.58,36.42,"Valley of Fire Road, Section 2, Zone 4, Muddy Mountains",NA,"",5,"Kungurian","",279.3,272.3,18929,"gp_mid",-37.81,11.1,"101",275.8,"kungurian",10673,-48.2939,11.006,55,1
 "76813",113040,"col","Toroweap",-114.58,36.42,"Valley of Fire Road, Section 2, Zone 5, Muddy Mountains",NA,"",4,"Kungurian","",279.3,272.3,18929,"gp_mid",-37.81,11.1,"101",275.8,"kungurian",10673,-48.2939,11.006,55,1
 "76826",113053,"col","Cathedral Mountain",-103.45,30.24,"Hill 4861, 4.8 km NW of Dugout Mountain",NA,"",1,"Kungurian","",279.3,272.3,27851,"gp_mid",-33.84,0.66,"101",275.8,"kungurian",21473,-44.0048,-0.8022,55,1
+"76891",113119,"col","Colina",-109.32,32.04,"King of Lead Mine, Chiricahua Mountains",NA,"",1,"Kungurian","",279.3,272.3,33178,"gp_mid",-36.97,4.99,"101",275.8,"kungurian",21515,-45.8099,2.8402,55,1
+"76893",113121,"col","Snyder Hill",-110.47,31.68,"Mustang Mountains, Santa Cruz County",NA,"",2,"Kungurian","",279.3,272.3,33178,"gp_mid",-37.98,5.27,"101",275.8,"kungurian",21517,-45.8099,2.8402,55,1
 "76894",113122,"col","",-112.83,43.35,"Roy, southeast Idaho",NA,"",1,"Kungurian","",279.3,272.3,33178,"gp_mid",-34.4,17.49,"127",275.8,"kungurian",21518,-42.9359,13.4178,55,1
+"76898",113125,"col","Colina",-110.03,31.63,"USGS 8505, Government Draw",NA,"",2,"Kungurian","",279.3,272.3,33178,"gp_mid",-37.71,5.01,"101",275.8,"kungurian",21521,-45.8099,2.8402,55,1
 "76902",113130,"col","",-103.28,30.32,"Iron Mountain water tank",NA,"",1,"Kungurian","",279.3,272.3,30039,"gp_mid",-33.67,0.65,"101",275.8,"kungurian",21524,-44.0048,-0.8022,55,1
 "76904",113132,"col","",-105.62,31.36,"Mosely Ranch road, Finlay Dome",NA,"",2,"Kungurian","",279.3,272.3,36752,"gp_mid",-34.78,2.63,"101",275.8,"kungurian",21526,-43.2662,1.7976,55,1
 "76931",113183,"col","San Andres",-105.82,32.95,"Mountain Park, Otero County",NA,"",1,"Kungurian","",279.3,272.3,41989,"gp_mid",-34.03,4.04,"101",275.8,"kungurian",21540,-43.2662,1.7976,55,1
@@ -1151,6 +1228,7 @@
 "77112",113451,"col","",53.05,67.65,"Kech-Mes Well 1, Kungurian, Malozemelskaya Tundra",NA,"",4,"Kungurian","",279.3,272.3,29169,"gp_mid",34.37,34.73,"302",275.8,"kungurian",20840,18.3498,43.0402,55,1
 "77114",113453,"col","",49.8,69.15,"Kolguev Island, Well 40, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29169,"gp_mid",32.04,34.89,"302",275.8,"kungurian",21625,14.5316,42.5483,55,1
 "77115",113454,"col","Kapp Starostin",14.06,78.04,"Kongressdalen, Grin Garbur, Ausfjord Region, Spitsbergen",NA,"",1,"Kungurian","",279.3,272.3,29169,"gp_mid",16.05,36.54,"309",275.8,"kungurian",21626,0.1713,38.1597,55,1
+"77117",113456,"col","",59.5,65.75,"Kozhim River, Unnamed Kungurian, Pechora Basin",NA,"",2,"Kungurian","",279.3,272.3,29169,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "77124",113463,"col","Kapp Starostin",19.05,74.5,"Medvezhii Island, east coast",NA,"Bjornoya",2,"Kungurian","",279.3,272.3,29169,"gp_mid",19.03,33.72,"309",275.8,"kungurian",21628,3.2844,37.1766,55,1
 "77125",113464,"col","Kapp Starostin",19.05,74.5,"Medvezhii Island, outcrop 488",NA,"Bjornoya",1,"Kungurian","",279.3,272.3,29169,"gp_mid",19.03,33.72,"309",275.8,"kungurian",21628,3.2844,37.1766,55,1
 "77126",113465,"col","Kapp Starostin",19.2,74.43,"Mshcheri Mountain, Outcrop 562, Bjornoya",NA,"",2,"Kungurian","",279.3,272.3,29169,"gp_mid",19.11,33.66,"309",275.8,"kungurian",21629,3.2844,37.1766,55,1
@@ -1180,8 +1258,13 @@
 "77234",113574,"col","",51.85,67.45,"Vydshor Well 108, Kungurian, Malozemelskaya Tundra",NA,"",1,"Kungurian","",279.3,272.3,29169,"gp_mid",34.16,34.26,"302",275.8,"kungurian",21636,18.3498,43.0402,55,1
 "77236",113576,"col","",51.85,67.45,"Vydshor Well 109, Kungurian, Malozemelskaya Tundra",NA,"",3,"Kungurian","",279.3,272.3,29169,"gp_mid",34.16,34.26,"302",275.8,"kungurian",21636,18.3498,43.0402,55,1
 "77242",113582,"col","",51.85,67.45,"Vydshor Well unspecified, Kungurian, Malozemelskaya Tundra",NA,"",1,"Kungurian","",279.3,272.3,29169,"gp_mid",34.16,34.26,"302",275.8,"kungurian",21636,18.3498,43.0402,55,1
+"77520",113895,"col","Lekvorkuta",63.81,67.14,"Eletskoe Coalfield, Well EK-13, 134 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
+"77521",113896,"col","Lekvorkuta",64,67.5,"Vat'yara coalfield, Well BK-1311, 356 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.73,37.9,"302",275.8,"kungurian",21769,19.766,47.222,55,1
 "77522",113897,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1326, 491 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77523",113898,"col","Lekvorkuta",61.6,68.1,"Vashutkinykh lake, Well BK-14, 1062 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",36.45,37.51,"302",275.8,"kungurian",21771,19.3918,45.8104,55,1
+"77524",113899,"col","Talata",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-136, 20 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77526",113901,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-137, 132 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77527",113902,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-109, 21 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77528",113903,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-8, 41 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77529",113904,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-4, 204 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77530",113905,"col","Tab-yo",63.95,69.5,"Tab-Yo River, Tab-Yo Svita, Pai-Khoy Range",NA,"",7,"Kungurian","",279.3,272.3,27341,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
@@ -1190,34 +1273,78 @@
 "77533",113908,"col","Lekvorkuta",57.6,64.25,"Pechora River, around Edzhid-Kyrta mine",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.93,33.85,"302",275.8,"kungurian",21775,22.258,43.7164,55,1
 "77534",113909,"col","Lekvorkuta",59.95,67.05,"Adz'vinskoe Coalfield, Well SDK-75, 62 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.03,36.38,"302",275.8,"kungurian",13277,19.3918,45.8104,55,1
 "77535",113910,"col","",49.8,69.15,"Kolguev Island, Well 140, 1832 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",32.04,34.89,"302",275.8,"kungurian",21625,14.5316,42.5483,55,1
+"77536",113911,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-447, 121 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77537",113912,"col","Lekvorkuta",64.18,67.68,"Nizhnesyryaginskoe Coalfield, Well NSK-256, 217 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77538",113913,"col","Lekvorkuta",59.5,65.75,"Kozhimskoe Coalfield, Well IK-412, 80 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "77539",113914,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-684, 539 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77540",113915,"col","Lekvorkuta",64.18,67.68,"Vorkuta River, Vorkutskoe coalfield, Pechora Basin",NA,"",3,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77541",113916,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-851, 224 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77542",113917,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1471, 58 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77543",113918,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-845, 112 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77544",113919,"col","",48.5,67.15,"Mota River, Northern Timan",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",33.32,33.13,"302",275.8,"kungurian",21776,17.6968,41.6889,55,1
+"77545",113920,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-888, 14 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77546",113921,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-79, 300 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77547",113922,"col","",49.8,69.15,"Kolguev Island, Well 140, 1667 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",32.04,34.89,"302",275.8,"kungurian",21625,14.5316,42.5483,55,1
 "77549",113924,"col","",57.6,64.25,"Edzhid-Kyrta mine, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.93,33.85,"302",275.8,"kungurian",21775,22.258,43.7164,55,1
+"77550",113925,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-4, 26 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77551",113926,"col","Lekvorkuta",59.5,65.75,"Kozhimskoe Coalfield, Well IK-118, 93 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"77552",113927,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-683, 228 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77553",113928,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-144, 155 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77554",113929,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1148, 391 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77555",113930,"col","Lekvorkuta",64.18,67.68,"Nizhnesyryaginskoe Coalfield, Well NSK-182, 309 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77556",113931,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-59, 109 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77557",113932,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-124, 177 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77561",113936,"col","Dyby",137.68,60.05,"Southern Verkhoyan, 30 km north of Yugarenok, Dyby Svita",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",53,67.15,"401",275.8,"kungurian",21782,-12.2118,79.4157,55,1
+"77563",113938,"col","",58.2,64.3,"Shugur River, northern Russian Platform",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",39.09,34.08,"302",275.8,"kungurian",21783,22.8665,45.2403,55,1
 "77564",113939,"col","",49.8,69.15,"Kolguev Island, Well 140, 1575 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",32.04,34.89,"302",275.8,"kungurian",21625,14.5316,42.5483,55,1
+"77565",113940,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-880, 208 m, Pechora Basin",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77566",113941,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-807, 132 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77567",113942,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1306, 210 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
+"77568",113943,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-873, 93 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77569",113944,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-657, 1010 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77570",113945,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-917, 325 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77573",113948,"col","Tab-yo",62.6,69.5,"Liur-Yaga River, Tab-Yo Svita, Pai-Khoy Range",NA,"",7,"Kungurian","",279.3,272.3,27341,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
+"77575",113950,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well VK-831, 186 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77576",113951,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-485, 123 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77577",113952,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1094, 187 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77578",113953,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-892, 124 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
 "77590",113965,"col","",57.24,57.38,"Sylva river near Kishert', western Urals",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",44.71,29.06,"302",275.8,"kungurian",21793,31.768,41.0701,55,1
+"77591",113966,"col","Talata",59.5,65.75,"Kozhim River, upper Talata Svita, Pechora Basin",NA,"",10,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "77592",113967,"col","",54,65,"Salyukinskaya structure, well 254-S, 1281 m, northern Russian platform",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.02,33.21,"302",275.8,"kungurian",21794,21.5584,42.2167,55,1
 "77593",113968,"col","",54.9,61.75,"Myeldino Village, Vychedga River, Komi ASSR",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",40.13,31.26,"302",275.8,"kungurian",21795,25.5167,42.9225,55,1
+"77595",113970,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-109, 100.7 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77596",113971,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-684, 341 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77598",113973,"col","Lekvorkuta",63.78,67.33,"Seydinskoe coalfield, Well SDK-400, 469 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.74,"302",275.8,"kungurian",21797,19.766,47.222,55,1
+"77599",113974,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-651, 536 m, Pechora Basin",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77600",113975,"col","Lekvorkuta",64.63,67.84,"Khalmeryuskoe Coalfield, Well KhK-799, 109 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.55,38.29,"302",275.8,"kungurian",17389,19.766,47.222,55,1
+"77601",113976,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-182, 302 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77602",113977,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well 1725, 466 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77603",113978,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-8, 232 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77604",113979,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-52, 185 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77605",113980,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1083, 148 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77616",113992,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-60, 588 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
 "77617",114412,"col","",133.75,64.4,"Baraya River Basin, upper Khabakh-lower Tumara Svita, Western Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",47.58,63.02,"401",275.8,"kungurian",13615,-5.9972,74.3113,55,1
 "77698",114075,"col","Kapp Starostin",13.8,78.08,"Festningen, Unit 1, Spitsbergen",NA,"",7,"Kungurian","",279.3,272.3,33621,"gp_mid",15.97,36.57,"309",275.8,"kungurian",21828,0.1713,38.1597,55,1
+"77744",114124,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1052, 164 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77748",114128,"col","Talata",64.25,69.4,"Tab-Yo River, lower canyon, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",35.78,39.04,"302",275.8,"kungurian",20885,16.1042,47.5439,55,1
+"77756",114136,"col","Dyby",139,62.5,"Moguchiy River, Dyby River Basin, Southern Verkhoyan",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",47.28,66.03,"401",275.8,"kungurian",15354,-12.0063,76.9161,55,1
 "77779",114158,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-775, 217 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77780",114159,"col","Ufimskiy",54,65,"Udachnaya Structure, well UD-131, 1448 m, Northern Russian Platform",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.02,33.21,"302",275.8,"kungurian",21794,21.5584,42.2167,55,1
+"77784",114163,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-113, 58 m depth, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77785",114164,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well PK-2350, 182 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77786",114165,"col","Khaldzhin",127,71.5,"Nuchcha-Tumsa River, Khaldzhin Svita, Orulgan Mountains",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",39.84,56.56,"401",275.8,"kungurian",21856,-3.1894,66.4022,55,1
 "77787",114166,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1326, 443 m, Pechora Basin",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77789",114168,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1326, 436 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
+"77790",114169,"col","Lekvorkuta",63.81,67.14,"Eletskoe Coalfield, Lekvorkuta Svita, Usa River, Pechora Basin",NA,"",3,"Kungurian","",279.3,272.3,27341,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
+"77792",114171,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, well IK-138, 103 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77793",114172,"col","",57.04,57.42,"Fillipovskiy Cut, Sylva River, Western Urals",NA,"",4,"Kungurian","",279.3,272.3,27341,"gp_mid",44.59,29.01,"302",275.8,"kungurian",21858,31.768,41.0701,55,1
+"77794",114173,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-831, 133 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77795",114174,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1290, 247 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77796",114175,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1260, 247 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77797",114176,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-348, 152 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77798",114177,"col","Ufimskiy",46.4,67.82,"Kanin Peninsula, lower marine Permian",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",32.08,33.07,"302",275.8,"kungurian",20824,16.9642,40.3647,55,1
 "77799",114178,"col","Talata",63.05,69.5,"Saa-Yaga River, upper Talata Svita, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
+"77800",114179,"col","Lekvorkuta",63.81,67.14,"Eletskoe Coalfield, lower Lekvorkuta Svita, Usa River, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
 "77801",114180,"col","Khaldzhin",128,70,"Khochoulakh, Ulakhan-Billyakh River, northern Kharaulakh",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",41.6,57.77,"401",275.8,"kungurian",17970,-1.059,68.7669,55,1
 "77804",114183,"col","Dzhigdali",154.02,67.5,"Kolyma River, 1 km below Labuya Village, Dzhigdali Svita",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",3.16,71.77,"405",275.8,"kungurian",21861,-64.8315,74.8395,55,1
 "77829",114207,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PU collection 1)",NA,"",30,"Kungurian","",279.3,272.3,37072,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
@@ -1225,14 +1352,26 @@
 "77837",114215,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1229, 167 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77838",114216,"col","",57.24,57.38,"Sylva and Kishert' river, western Urals",NA,"",10,"Kungurian","",279.3,272.3,27341,"gp_mid",44.71,29.06,"302",275.8,"kungurian",21793,31.768,41.0701,55,1
 "77842",114220,"col","Talata",63.05,69.5,"Saa-Yaga River, Talata Svita, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
+"77843",114221,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1133, 407 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77844",114222,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1836, 162 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77846",114224,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, well IK-917, 225 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77847",114225,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-145, 87 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77849",114227,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-102, 48 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77850",114228,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well 855, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77851",114229,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-455, 545 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77852",114230,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-1600, 158 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77853",114231,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-300, 160 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"77854",114232,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, well IK-132, 94 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77855",114233,"col","",57.37,58.85,"Kos'va River, Shestaki Village, Southern Urals",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",43.56,30.13,"302",275.8,"kungurian",21881,28.6879,42.0387,55,1
+"77911",114295,"col","Talata",63.81,67.14,"Eletskoe Coalfield, upper Talata Svita, Usa River, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
 "77914",114303,"col","Lekvorkuta",58.72,66.25,"Shar'yu River, Lekvorkuta Svita, Pechora Basin",NA,"",6,"Kungurian","",279.3,272.3,27341,"gp_mid",37.44,35.49,"302",275.8,"kungurian",21370,19.3918,45.8104,55,1
 "77917",114308,"col","Tabyo",63.55,69.55,"Malyy Liur River, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",35.45,38.91,"302",275.8,"kungurian",18450,16.1042,47.5439,55,1
 "77918",114309,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-370, 481 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77919",114310,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-272, 128 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "77920",114311,"col","",57.69,64.05,"Kyrta Settlement, Pechora River, Northern Russian Platform",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",39.14,33.75,"302",275.8,"kungurian",21890,22.258,43.7164,55,1
 "77921",114312,"col","Lekvorkuta",59,66.33,"Zaostrennaya River, lower Lekvorkuta Svita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.44,35.63,"302",275.8,"kungurian",21891,19.3918,45.8104,55,1
 "77922",114313,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-819, 111 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77923",114314,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-749, 207 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77924",114315,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-543, 157 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77930",114320,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, well UK-794, 303 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77931",114321,"col","",58.72,66.25,"Shar'yu River, unspecified Kungurian, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.44,35.49,"302",275.8,"kungurian",21370,19.3918,45.8104,55,1
@@ -1243,8 +1382,15 @@
 "77942",114333,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1260, 277 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77943",114334,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1209, 103 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77944",114335,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1338, 481 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
+"77947",114338,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1176, 391 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77948",114339,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1208, 400 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
+"77949",114340,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-131, 167 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"77950",114341,"col","Talata",60.22,66.04,"Intinskoe coalfield, Well IK-12, 105 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77953",114344,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1326, 538 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"77954",114345,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-14, 1007 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
 "77957",114349,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-82, 136 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77978",114370,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-195, 185 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"77986",114378,"col","Lekvorkuta",63.78,67.33,"Seydinskoe coalfield, Well SDK-399, 246-311 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.74,"302",275.8,"kungurian",21797,19.766,47.222,55,1
 "77987",114379,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1326, 700 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "77988",114380,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-29, 240 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77989",114381,"col","Verkhoyan",127.15,72,"Lena river, near Tit-Ary village, upper Verkhoyan Svita",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",39.09,56.28,"401",275.8,"kungurian",21906,-3.1894,66.4022,55,1
@@ -1252,24 +1398,50 @@
 "77991",114383,"col","",57.23,57.37,"Kishert' River, western Urals",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",44.72,29.05,"302",275.8,"kungurian",21907,31.768,41.0701,55,1
 "77994",114386,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-905, 410 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "77995",114387,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-544, 298 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"77997",114389,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-353, 84 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "77998",114390,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1320, 406 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
+"77999",114391,"col","Lekvorkuta",59.5,65.75,"Kozhimskoe Coalfield, Well IK-118, 250 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "78000",114392,"col","",57.1,48.6,"Kenknyak, well 102, 3746-3748 m, South-Embinskoe rise",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",59.01,20.6,"402",275.8,"kungurian",21909,43.1594,36.452,55,1
 "78001",114393,"col","Lekvorkuta",57.8,66,"Usa River, lower Lekvorkuta Svita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.38,35.05,"302",275.8,"kungurian",21910,22.258,43.7164,55,1
+"78002",114394,"col","Lekvorkuta",59.5,65.75,"Kozhim River, Ayach'yaginskaya Subsvita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"78003",114395,"col","Lekvorkuta",63.92,67.37,"Yunyaginskoe Coalfield, Well YUK-138, 17 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.85,37.81,"302",275.8,"kungurian",20727,19.766,47.222,55,1
+"78007",114399,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1124, 330 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "78008",114400,"col","",48,65,"Vasil'kovskaya structure, Well 145, 1705 m, Timan-Pechora",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",34.89,31.43,"302",275.8,"kungurian",21662,20.7746,40.7449,55,1
 "78010",114402,"col","Lekvorkuta",61.6,68.1,"Vashutkinykh lake, Well BK-1, 380 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",36.45,37.51,"302",275.8,"kungurian",21771,19.3918,45.8104,55,1
 "78011",114403,"col","Lekvorkuta",61.6,68.1,"Vashutkinykh lake, Well BK-14, 863 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",36.45,37.51,"302",275.8,"kungurian",21771,19.3918,45.8104,55,1
+"78012",114404,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1155, 166 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"78013",114405,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well 378, 584 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78014",114406,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-879, 211 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"78015",114407,"col","Talata",64.18,67.68,"Vorkuta River, Upper Talata Svita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78016",114408,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1033, 407 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
+"78017",114409,"col","Lekvorkuta",63.8,67.6,"Vorgashorskoe Coalfield, Well VK-1338, 556 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.57,37.9,"302",275.8,"kungurian",21778,19.766,47.222,55,1
 "78018",114410,"col","Belushkin",52.4,71.35,"Tonkogo Bay, outcrop 7, sample 850, Mezhdusharsky Island, Novaya Zemlya",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",30.78,37.03,"302",275.8,"kungurian",21913,11.6921,44.4064,55,1
 "78020",114413,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-298, 123 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"78022",114415,"col","Lekvorkuta",59.5,65.75,"Kozhimskoe Coalfield, well IK-118, 82 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"78024",114417,"col","Megen",138,62,"Konchim River, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",48.97,66.03,"401",275.8,"kungurian",5579,-12.0063,76.9161,55,1
+"78025",114418,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, well IK-118, 87 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"78030",114423,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-889, 34 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "78031",114424,"col","Lekvorkuta",65,68.8,"Silovaya River, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",36.61,38.93,"302",275.8,"kungurian",21917,16.1042,47.5439,55,1
 "78032",114425,"col","Lekvorkuta",60.55,66.6,"Verkhnerogovskoe coalfield, Well BK-1326, 630 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.66,36.29,"302",275.8,"kungurian",21770,19.3918,45.8104,55,1
 "78034",114427,"col","Lekvorkuta",51.49,62.76,"Chernaya River, lower Lekvorkuta Svita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.98,30.85,"302",275.8,"kungurian",15245,24.68,41.3063,55,1
 "78037",114430,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-835, 344 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
+"78038",114431,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-874, 219 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"78039",114432,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1148, 260 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78041",114434,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-1790, 104 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78042",114435,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-157, 255 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78043",114436,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-644, 88 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "78045",114438,"col","Lekvorkuta",51.49,62.76,"Chernaya River, Lekvorkuta Svita, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.98,30.85,"302",275.8,"kungurian",15245,24.68,41.3063,55,1
+"78050",114443,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-892, 126 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
 "78051",114444,"col","Talata",58,65.5,"Bol'shaya Sinya River, Chernogo Creek, upper Talata Svita, S. Chernyschev Ridge",NA,"",2,"Kungurian","",279.3,272.3,27341,"gp_mid",37.91,34.79,"302",275.8,"kungurian",14519,22.258,43.7164,55,1
+"78052",114445,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-875, 199 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
+"78053",114446,"col","Lekvorkuta",64.18,67.68,"Vorkutskoe Coalfield, Well K-455, 533 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",37.59,38.06,"302",275.8,"kungurian",16588,19.766,47.222,55,1
+"78054",114447,"col","Lekvorkuta",60.22,66.04,"Intinskoe coalfield, Well IK-887, 471 m, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27341,"gp_mid",38.1,35.84,"302",275.8,"kungurian",21773,22.8665,45.2403,55,1
 "78577",115214,"col","Pospelovo",131.9,43.06,"Cape Novosilsky, Russky Island (PIN collection 5306)",NA,"",15,"Kungurian","",279.3,272.3,37323,"gp_mid",136.91,30.4,"628",275.8,"kungurian",22011,144.6712,39.633,55,1
 "78675",117254,"col","Solikamsk",56.49,60.3,"Mogilnikovo, Vishera River (PIN collection 3473)",NA,"PU collection VM",3,"Kungurian","",279.3,272.3,48787,"gp_mid",41.98,30.81,"302",275.8,"kungurian",21149,28.6879,42.0387,55,1
 "78905",115640,"col","Sabine Bay",-107.97,75.95,"GSC 67255, Hiccles Creek, Sabine Peninsula, Melville Island",NA,"",1,"Kungurian","",279.3,272.3,29760,"gp_mid",-2.43,37.17,"106",275.8,"kungurian",22065,-19.5914,36.9768,55,1
+"78942",115784,"col","Zhuravlev",93.7,80.81,"Slabyj Stream, Loc. 20369, Komsomolets Island, Severnaya Zelmya",NA,"",1,"Kungurian","",279.3,272.3,33632,"gp_mid",32.57,45.56,"401",275.8,"kungurian",22091,1.197,55.9169,55,1
 "78954",115798,"col","Bone Spring",-104.75,31.27,"USGS 6983, Baylor Mountains",NA,"",2,"Kungurian","",279.3,272.3,11482,"gp_mid",-34.21,2.15,"101",275.8,"kungurian",22095,-43.2662,1.7976,55,1
+"78959",115875,"col","Yeso",-107.03,33.17,"Engle, San Andres Mountains",NA,"",1,"Kungurian","",279.3,272.3,25634,"gp_mid",-34.73,4.8,"101",275.8,"kungurian",22098,-45.8099,2.8402,55,1
 "79016",115932,"col","Santa Rosa Flat",-117.75,36.52,"S-1704, Conglomerate Mesa",NA,"",1,"Kungurian","",279.3,272.3,37418,"gp_mid",-39.75,12.8,"101",275.8,"kungurian",22118,-48.2939,11.006,55,1
 "79017",115933,"col","Santa Rosa Flat",-117.75,36.52,"S-1709, Conglomerate Mesa",NA,"",1,"Kungurian","",279.3,272.3,37418,"gp_mid",-39.75,12.8,"101",275.8,"kungurian",22118,-48.2939,11.006,55,1
 "79035",115951,"col","Santa Rosa Flat",-117.75,36.49,"79-CM-89, Conglomerate Mesa",NA,"",2,"Kungurian","",279.3,272.3,37418,"gp_mid",-39.77,12.78,"101",275.8,"kungurian",22122,-48.2939,11.006,55,1
@@ -1286,6 +1458,25 @@
 "79141",116239,"col","Camboon",150.51,-24.67,"GSQ D8, Prospect Creek",NA,"",3,"Kungurian","",279.3,272.3,33644,"gp_mid",160.36,-59.99,"801",275.8,"kungurian",22177,150.144,-48.0449,55,1
 "79142",116240,"col","Camboon",150.51,-24.66,"GSQ L2261, Prospect Creek",NA,"",10,"Kungurian","",279.3,272.3,33644,"gp_mid",160.37,-59.99,"801",275.8,"kungurian",22178,150.144,-48.0449,55,1
 "79143",116242,"col","Camboon",150.57,-24.58,"GSQ D109, Scoria Creek",NA,"",1,"Kungurian","",279.3,272.3,33644,"gp_mid",160.41,-59.89,"801",275.8,"kungurian",22179,150.144,-48.0449,55,1
+"79147",116248,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 3",NA,"",8,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79148",116249,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 4",NA,"",3,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79149",116250,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 5",NA,"",3,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79150",116251,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 6",NA,"",7,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79151",116252,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 7",NA,"",9,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79152",116253,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 8",NA,"",4,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79153",116254,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 9",NA,"",15,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79154",116255,"col","Khovsgol",109.9,43.57,"Khovsgol Somon, Unit 10",NA,"",3,"Kungurian","",279.3,272.3,27813,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"79157",116258,"col","Tsagan-Ula",104.3,42.5,"Dzili-Khayliste-Khuduk Bore, Upper Tsagan-Ula Formation, Tsagan-Ula Mountains",NA,"",10,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79161",116265,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 7, Northern Tsagan-Ula Mountains",NA,"",4,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79162",116267,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 8, Northern Tsagan-Ula Mountains",NA,"",7,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79163",116268,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 9, Northern Tsagan-Ula Mountains",NA,"",3,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79164",116269,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 10 Northern Tsagan-Ula Mountains",NA,"",2,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79165",116270,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 11, Northern Tsagan-Ula Mountains",NA,"",7,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79166",116271,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 12, Northern Tsagan-Ula Mountains",NA,"",14,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79167",116273,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 13, Northern Tsagan-Ula Mountains",NA,"",5,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79168",116274,"col","Tsagan-Ula",104.3,42.5,"Khuryin-Chibe-Khuduk Well, Bed 14, Northern Tsagan-Ula Mountains",NA,"",24,"Kungurian","",279.3,272.3,27813,"gp_mid",113.48,34.81,"628",275.8,"kungurian",18723,117.9552,47.5133,55,1
+"79169",116275,"col","Tsagan-Ula",103.55,42.15,"Ulan-Shivenyi-Khuduk Well",NA,"",7,"Kungurian","",279.3,272.3,27813,"gp_mid",112.71,34.63,"628",275.8,"kungurian",22186,117.9552,47.5133,55,1
+"79171",116283,"col","Tsagan-Ula",108.4,42.8,"Chzhirem-Ula Mountain",NA,"",5,"Kungurian","",279.3,272.3,27813,"gp_mid",117.09,34.23,"628",275.8,"kungurian",22188,121.7042,46.4623,55,1
 "79251",116426,"col","Tab-yo",63.95,69.5,"Tab-yu River, lower Tab-yu Svita, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,33646,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
 "79277",116511,"col","Berriedale",147.35,-42.92,"H25, Sandown Village Rest Home",NA,"",1,"Kungurian","",279.3,272.3,18569,"gp_mid",-178.46,-77,"801",275.8,"kungurian",22226,148.357,-65.7904,55,1
 "79278",116513,"col","Berriedale",147.19,-42.75,"H26, Rathbone's Quarry, Granton",NA,"",3,"Kungurian","",279.3,272.3,18569,"gp_mid",-179.34,-76.96,"801",275.8,"kungurian",18388,148.357,-65.7904,55,1
@@ -1299,7 +1490,10 @@
 "79389",116641,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PIN collection 118)",NA,"",27,"Kungurian","",279.3,272.3,37564,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
 "79390",116642,"col","Koshelevka",57.73,57.03,"6 km upstream of the Tisa works, Sylva river (PIN collection 99)",NA,"",5,"Kungurian","",279.3,272.3,37564,"gp_mid",45.22,29.01,"302",275.8,"kungurian",22255,31.768,41.0701,55,1
 "79400",116652,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PIN collection 168)",NA,"",8,"Kungurian","",279.3,272.3,37564,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
+"79455",116713,"col","Dzhiakunian",134.15,49.97,"Gorin-Utanak Interfluve, 10 km from mouth of Utanak River",NA,"",1,"Kungurian","",279.3,272.3,29045,"gp_mid",140.32,36.89,"628",275.8,"kungurian",22272,152.0871,45.3912,55,1
 "79456",116714,"col","Chisyan",135.01,48.54,"Khabarovsk, Rail Bridge across Amur River",NA,"",3,"Kungurian","",279.3,272.3,29045,"gp_mid",140.67,35.38,"628",275.8,"kungurian",22273,150.606,43.1273,55,1
+"79457",116715,"col","Dzhiakunian",134.9,49.83,"Malyy Arkip River, Utanak River Basin",NA,"",1,"Kungurian","",279.3,272.3,29045,"gp_mid",140.88,36.65,"628",275.8,"kungurian",22274,152.0871,45.3912,55,1
+"79458",116716,"col","Utanak",134.37,49.33,"Pochegun' River, Kur River Basin",NA,"",1,"Kungurian","",279.3,272.3,29045,"gp_mid",140.34,36.23,"628",275.8,"kungurian",22275,152.0871,45.3912,55,1
 "79533",116804,"col","",-115.76,39.88,"Diamond Springs, Unit 51",NA,"",11,"Kungurian","",279.3,272.3,37586,"gp_mid",-36.3,14.38,"101",275.8,"kungurian",22318,-46.7847,13.0238,55,1
 "79534",116805,"col","",-115.76,39.88,"Diamond Springs, Unit 52",NA,"",7,"Kungurian","",279.3,272.3,37586,"gp_mid",-36.3,14.38,"101",275.8,"kungurian",22318,-46.7847,13.0238,55,1
 "79535",116806,"col","",-115.76,39.88,"Diamond Springs, Unit 53",NA,"",3,"Kungurian","",279.3,272.3,37586,"gp_mid",-36.3,14.38,"101",275.8,"kungurian",22318,-46.7847,13.0238,55,1
@@ -1352,8 +1546,16 @@
 "81342",118817,"col","Pequop",-114.6,40.77,"SJS-555, Central Pequop Mountains",NA,"",1,"Kungurian","",279.3,272.3,28473,"gp_mid",-35.01,14.5,"101",275.8,"kungurian",20274,-46.7847,13.0238,55,1
 "81343",118818,"col","Pequop",-114.6,40.77,"SJS-1278, Central Pequop Mountains",NA,"",1,"Kungurian","",279.3,272.3,28473,"gp_mid",-35.01,14.5,"101",275.8,"kungurian",20274,-46.7847,13.0238,55,1
 "81366",118844,"col","",102.08,13.66,"Khao Chakan KB-7",NA,"",3,"Kungurian","",279.3,272.3,33709,"gp_mid",127.14,-23.94,"615",275.8,"kungurian",22705,125.0983,-14.8448,55,1
+"81407",118916,"col","Chainaha",81.95,33.38,"Mushirebuca, Yanhu area, Upper Chainaha Formation, Gegyai County",NA,"",11,"Kungurian","",279.3,272.3,33711,"gp_mid",65.62,-31.92,"612",275.8,"kungurian",22723,84.3203,-34.4939,55,1
 "81444",118958,"col","",-103.25,30.38,"Glass Mountain Area (TMM collection)",NA,"",1,"Kungurian","",279.3,272.3,38211,"gp_mid",-33.62,0.69,"101",275.8,"kungurian",22738,-44.0048,-0.8022,55,1
+"81445",118959,"col","Concha",-108.3,31.9,"24 miles southwest of Hachita",NA,"TMM 41645",1,"Kungurian","",279.3,272.3,38211,"gp_mid",-36.35,4.37,"101",275.8,"kungurian",22739,-45.8099,2.8402,55,1
+"81525",119038,"col","Lekvorkuta",63.81,67.14,"Usa River, boring 1528, depth 225-246 m",NA,"",3,"Kungurian","",279.3,272.3,27408,"gp_mid",38.06,37.64,"302",275.8,"kungurian",20723,19.766,47.222,55,1
 "81729",119243,"col","",68.49,34.07,"Ginigar, Section G, Calcaires a Fusulines, Wardak",NA,"",1,"Kungurian","",279.3,272.3,27426,"gp_mid",54.76,-47.59,"506",275.8,"kungurian",22792,66.5666,38.3472,55,1
+"81744",119258,"col","Palmarito",-72.99,10.4,"Quebrada Manaure 12109, E of Manaure",NA,"",3,"Kungurian","",279.3,272.3,33733,"gp_mid",-36.54,-3.77,"203",275.8,"kungurian",5168,-42.5812,-11.1346,55,1
+"81745",119259,"col","Palmarito",-72.99,10.4,"Quebrada Manaure 19062, E of Manaure",NA,"",3,"Kungurian","",279.3,272.3,33733,"gp_mid",-36.54,-3.77,"203",275.8,"kungurian",5168,-42.5812,-11.1346,55,1
+"81746",119260,"col","Palmarito",-72.98,10.4,"Quebrada Manaure 9185, E of Manaure",NA,"",1,"Kungurian","",279.3,272.3,33733,"gp_mid",-36.53,-3.77,"203",275.8,"kungurian",22801,-42.5812,-11.1346,55,1
+"81747",119261,"col","Palmarito",-72.99,10.39,"Quebrada Manaure 9187, E of Manaure",NA,"",1,"Kungurian","",279.3,272.3,33733,"gp_mid",-36.54,-3.77,"203",275.8,"kungurian",22802,-42.5812,-11.1346,55,1
+"81748",119262,"col","Palmarito",-72.88,10.62,"Rio Molino 12086, Magdalena",NA,"",1,"Kungurian","",279.3,272.3,33733,"gp_mid",-36.34,-3.6,"203",275.8,"kungurian",22803,-42.5812,-11.1346,55,1
 "82368",119968,"col","Qixia",109.22,23.71,"Tieqiao Section, Laibin, Bed 22",NA,"",5,"Kungurian","",279.3,272.3,33736,"gp_mid",124.71,-11.45,"611",275.8,"kungurian",22937,133.7184,3.1234,55,1
 "82369",119969,"col","Qixia",109.22,23.71,"Tieqiao Section, Laibin, Bed 23",NA,"",4,"Kungurian","",279.3,272.3,33736,"gp_mid",124.71,-11.45,"611",275.8,"kungurian",22937,133.7184,3.1234,55,1
 "82370",119970,"col","Qixia",109.22,23.71,"Tieqiao Section, Laibin, Bed 24",NA,"",3,"Kungurian","",279.3,272.3,33736,"gp_mid",124.71,-11.45,"611",275.8,"kungurian",22937,133.7184,3.1234,55,1
@@ -1399,11 +1601,13 @@
 "82832",120532,"col","",147.1,-43.22,"Southern Van Diemen's Land (Huon area)",NA,"",3,"Kungurian","",279.3,272.3,38502,"gp_mid",-178.12,-77.34,"801",275.8,"kungurian",19088,148.357,-65.7904,55,1
 "82833",120533,"col","Berriedale",147.27,-42.85,"Southern Van Diemen's Land (Barossa Road)",NA,"",2,"Kungurian","",279.3,272.3,38502,"gp_mid",-178.88,-76.99,"801",275.8,"kungurian",23075,148.357,-65.7904,55,1
 "82874",120600,"col","Berriedale",147.19,-42.75,"Rathbone's Quarry, Granton (Parfrey coll)",NA,"",1,"Kungurian","",279.3,272.3,23016,"gp_mid",-179.36,-76.96,"801",275.8,"kungurian",18388,148.357,-65.7904,55,1
+"82950",120683,"col","",150.51,-35.26,"Coastline between Ulladulla and St. George's Basin",NA,"",1,"Kungurian","",279.3,272.3,23110,"gp_mid",171.79,-69.44,"801",275.8,"kungurian",23114,152.329,-57.9594,55,1
 "82951",120684,"col","Berriedale",147.19,-42.75,"Bridgewater limestone (Tasmanian museum)",NA,"",5,"Kungurian","",279.3,272.3,46870,"gp_mid",-179.36,-76.96,"801",275.8,"kungurian",18388,148.357,-65.7904,55,1
 "82952",120685,"col","Berriedale",147.19,-42.75,"Berriedale Limestone near Bridgewater (Noetling coll)",NA,"",4,"Kungurian","",279.3,272.3,23110,"gp_mid",-179.36,-76.96,"801",275.8,"kungurian",18388,148.357,-65.7904,55,1
 "83075",120810,"col","Qixia",118.96,32.15,"Nanjing Hills (von Richthofen coll)",NA,"",8,"Kungurian","",279.3,272.3,38574,"gp_mid",116.01,13.28,"604",275.8,"kungurian",18143,118.5895,23.5592,55,1
 "83167",120921,"col","Kapp Starostin",15.93,78.53,"Skansen, Billefjorden",NA,"",22,"Kungurian","",279.3,272.3,30162,"gp_mid",16.27,37.14,"309",275.8,"kungurian",23195,0.1713,38.1597,55,1
 "83180",120947,"col","Loray",-114.88,39.01,"UCMP B-6207, Charcoal Ovens Section",NA,"",3,"Kungurian","",279.3,272.3,33765,"gp_mid",-36.32,13.27,"101",275.8,"kungurian",1266,-46.7847,13.0238,55,1
+"83182",120949,"col","Colina",-109.4,31.6,"UCMP B-2978, Pedregosa Mountains",NA,"",1,"Kungurian","",279.3,272.3,16473,"gp_mid",-37.29,4.67,"101",275.8,"kungurian",23205,-45.8099,2.8402,55,1
 "83184",120951,"col","Loray",-114.88,39.01,"UCMP D-5518, Willow Spring, Williams Creek, Charcoal Ovens Section",NA,"",1,"Kungurian","",279.3,272.3,16473,"gp_mid",-36.32,13.27,"101",275.8,"kungurian",1266,-46.7847,13.0238,55,1
 "83185",120952,"col","Loray",-114.88,39.01,"UCMP D-5522, Willow Spring, Williams Creek, Charcoal Ovens Section",NA,"",1,"Kungurian","",279.3,272.3,16473,"gp_mid",-36.32,13.27,"101",275.8,"kungurian",1266,-46.7847,13.0238,55,1
 "83186",120953,"col","Loray",-114.88,39.01,"UCMP D-5527, Willow Spring, Williams Creek, Charcoal Ovens Section",NA,"",1,"Kungurian","",279.3,272.3,16473,"gp_mid",-36.32,13.27,"101",275.8,"kungurian",1266,-46.7847,13.0238,55,1
@@ -1441,9 +1645,20 @@
 "83522",121334,"col","Bone Spring",-104.92,31.49,"PU5, Apache Peak, Sierra Diablo",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-34.21,2.41,"101",275.8,"kungurian",23291,-43.2662,1.7976,55,1
 "83527",121339,"col","Clyde",-99.9,31.68,"B.E.G. 4100, Big bluff on Colorado River, Runnels County",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-30.49,0.28,"101",275.8,"kungurian",23296,-40.5036,0.2573,55,1
 "83528",121340,"col","Clyde",-99.83,31.67,"B.E.G. 8505, Herrings Bluff on Colorado River, Runnels County",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-30.45,0.24,"101",275.8,"kungurian",18520,-40.5036,0.2573,55,1
+"83533",121345,"col","Colina",-109.85,31.41,"USGS 5314, Mule Canyon, Mule Mountains",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.71,4.74,"101",275.8,"kungurian",23301,-45.8099,2.8402,55,1
+"83534",121346,"col","Colina",-109.85,31.5,"USGS 5315, Mule Mountains",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.66,4.81,"101",275.8,"kungurian",23302,-45.8099,2.8402,55,1
 "83535",121347,"col","Hess",-103.15,30.37,"USGS 6690, Hill 5725, Glass Mountains",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-33.55,0.64,"101",275.8,"kungurian",5798,-44.0048,-0.8022,55,1
 "83542",121354,"col","Bone Spring",-104.89,31.48,"USGS 7055, Black John Canyon, Sierra Diablo",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-34.2,2.39,"101",275.8,"kungurian",23307,-43.2662,1.7976,55,1
+"83543",121355,"col","Colina Limestone",-110.04,31.67,"USGS 8188, Military Hill, Tombstone Hills",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.69,5.05,"101",275.8,"kungurian",23308,-45.8099,2.8402,55,1
+"83544",121356,"col","Colina",-109.98,31.59,"USGS 8488, Hill 5501, Mule Mountains",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.7,4.95,"101",275.8,"kungurian",23309,-45.8099,2.8402,55,1
+"83545",121357,"col","Colina",-110.01,31.59,"USGS 8501, Bench Mark 5700, Mule Mountains",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.72,4.97,"101",275.8,"kungurian",23310,-45.8099,2.8402,55,1
+"83546",121358,"col","Colina",-110.01,31.59,"USGS 8502, Bench Mark 5700, Mule Mountains",NA,"",3,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.72,4.97,"101",275.8,"kungurian",23310,-45.8099,2.8402,55,1
+"83547",121359,"col","Colina",-110.01,31.59,"USGS 8503, Bench Mark 5700, Mule Mountains",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.72,4.97,"101",275.8,"kungurian",23310,-45.8099,2.8402,55,1
+"83548",121360,"col","Colina",-110.12,31.72,"USGS 8522, Three Brothers Hills, Tombstone Hills",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.72,5.13,"101",275.8,"kungurian",23311,-45.8099,2.8402,55,1
+"83549",121361,"col","Colina",-110.05,31.65,"USGS 8527, Colina Ridge, Tombstone Hills",NA,"",3,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.71,5.03,"101",275.8,"kungurian",23312,-45.8099,2.8402,55,1
+"83551",121363,"col","Colina",-109.98,31.59,"USGS 8532, Hill 5501, Mule Mountains",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.7,4.95,"101",275.8,"kungurian",23309,-45.8099,2.8402,55,1
 "83552",121364,"col","Bone Spring",-104.86,31.35,"USGS 8539, Victorio Canyon, Sierra Diablo",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-34.25,2.26,"101",275.8,"kungurian",12405,-43.2662,1.7976,55,1
+"83553",121365,"col","Colina",-110.03,31.63,"USGS 8971, Government Draw, Tombstone Hills",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-37.7,5.01,"101",275.8,"kungurian",21521,-45.8099,2.8402,55,1
 "83554",121366,"col","Clyde",-99.75,31.71,"USGS 9842, Grape Creek",NA,"",1,"Kungurian","",279.3,272.3,11481,"gp_mid",-30.37,0.24,"101",275.8,"kungurian",23313,-40.5036,0.2573,55,1
 "83557",121369,"col","Clyde",-99.83,31.74,"USGS 9848, Mustang Creek, Runnels County",NA,"",3,"Kungurian","",279.3,272.3,11481,"gp_mid",-30.42,0.3,"101",275.8,"kungurian",23316,-40.5036,0.2573,55,1
 "83558",121370,"col","Clyde",-99.83,31.67,"USGS 9854, Herrings Bluff, Runnels County",NA,"",2,"Kungurian","",279.3,272.3,11481,"gp_mid",-30.45,0.24,"101",275.8,"kungurian",18520,-40.5036,0.2573,55,1
@@ -1463,6 +1678,12 @@
 "83658",121492,"col","Clyde",-99.85,31.68,"B.E.G. 199-T5-1.3A14, Mustang Creek, Runnels County",NA,"",3,"Kungurian","",279.3,272.3,11477,"gp_mid",-30.45,0.26,"101",275.8,"kungurian",23357,-40.5036,0.2573,55,1
 "83659",121493,"col","Clyde",-99.84,31.68,"B.E.G. 199-T5-1.3A15, Below Mustang Creek, Runnels County",NA,"",3,"Kungurian","",279.3,272.3,11477,"gp_mid",-30.45,0.25,"101",275.8,"kungurian",23358,-40.5036,0.2573,55,1
 "83662",121497,"col","Cathedral Mountain",-103.33,30.32,"USGS 6694, Sullivan Peak, Glass Mountains",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-33.71,0.68,"101",275.8,"kungurian",23361,-44.0048,-0.8022,55,1
+"83665",121500,"col","Colina",-110.01,31.59,"USGS 8388, Mule Mountains",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.72,4.97,"101",275.8,"kungurian",23310,-45.8099,2.8402,55,1
+"83666",121501,"col","Epitaph",-110.07,31.65,"USGS 8515, Colina Ridge",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.72,5.05,"101",275.8,"kungurian",23364,-45.8099,2.8402,55,1
+"83667",121502,"col","Colina",-110.05,31.64,"USGS 8526, Colina Ridge, Tombstone Hills",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.71,5.03,"101",275.8,"kungurian",23365,-45.8099,2.8402,55,1
+"83668",121503,"col","Colina",-110.07,31.66,"USGS 8964, Colina Ridge, Tombstone Hills",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.71,5.05,"101",275.8,"kungurian",23366,-45.8099,2.8402,55,1
+"83671",121506,"col","Colina",-110.01,32.1,"USGS 17393, Walnut Gap, Gunnison Hills",NA,"",2,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.41,5.38,"101",275.8,"kungurian",23369,-45.8099,2.8402,55,1
+"83672",121507,"col","Colina",-110,31.63,"USGS 17394, Government Draw",NA,"",1,"Kungurian","",279.3,272.3,11477,"gp_mid",-37.68,5,"101",275.8,"kungurian",23370,-45.8099,2.8402,55,1
 "83692",121530,"col","Shoushangou",126.6,43.15,"Shoushangou, Shoushangou Fm, Yumuqiao City, Huadian County",NA,"",17,"Kungurian","",279.3,272.3,33594,"gp_mid",128.02,18.15,"604",275.8,"kungurian",23382,128.6197,31.0383,55,1
 "83731",121568,"col","Dzhigdali",159.9,63.83,"Munugudzhak River, Dzhigdalian horizon, Omolon Basin",NA,"",1,"Kungurian","",279.3,272.3,31819,"gp_mid",11.5,75.49,"405",275.8,"kungurian",20438,-75.4679,72.3152,55,1
 "83732",121569,"col","Dzhigdali",159.25,63.1,"Verkhniy Koargychan River, Dzhigdalian horizon, Omolon River",NA,"",1,"Kungurian","",279.3,272.3,31819,"gp_mid",14.63,75.48,"405",275.8,"kungurian",20445,-90.4217,76.3046,55,1
@@ -1500,10 +1721,17 @@
 "84554",122754,"col","Koshelevka",57.23,57.37,"Ust-Kishert Locality",NA,"",2,"Kungurian","",279.3,272.3,34980,"gp_mid",44.72,29.05,"302",275.8,"kungurian",21907,31.768,41.0701,55,1
 "84563",122856,"col","Koshelevka",57.84,57.77,"Barda, Krutaya Katushka (PIN collection 4909)",NA,"",2,"Kungurian","",279.3,272.3,34932,"gp_mid",44.65,29.56,"302",275.8,"kungurian",20172,31.768,41.0701,55,1
 "84564",122857,"col","Koshelevka",57.84,57.78,"Barda Locality (PIN collection 4902)",NA,"",1,"Kungurian","",279.3,272.3,34932,"gp_mid",44.64,29.57,"302",275.8,"kungurian",3465,31.768,41.0701,55,1
+"84565",122859,"col","Lek-Vorkuta",64.13,67.77,"Vorkuta Deposit, Borehole K-384, Depth 360.1 m ",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"84566",122860,"col","Lek-Vorkuta",64.13,67.77,"Verkhne-Syr’yaginskoe, borehole VSK-186, depth 144 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39161,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"84567",122862,"col","Lek-Vorkuta",64.05,67.6,"Khal'meryuskoye, borehole KhK-650, depth 187 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39161,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
 "84568",122863,"col","Vryheid",28.5,-25.5,"Farm Haakdoorndontein 119 JR",NA,"",4,"Kungurian","",279.3,272.3,39166,"gp_mid",-26.83,-63.81,"701",275.8,"kungurian",1624,-11.0401,-69.3562,55,1
 "84569",122864,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PIN collection 1452)",NA,"",2,"Kungurian","",279.3,272.3,39167,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
 "84590",122885,"col","Solikamsk",56.47,60.44,"Iasva river",NA,"",1,"Kungurian","",279.3,272.3,48479,"gp_mid",41.85,30.9,"302",275.8,"kungurian",23631,28.6879,42.0387,55,1
 "84829",123225,"col","Lashkargaz",73.35,36.85,"CK188, Baroghil E section, Baroghil Pass",NA,"",2,"Kungurian","",279.3,272.3,13537,"gp_mid",76.07,18.92,"601",275.8,"kungurian",7728,78.0309,-12.9832,55,1
+"85119",123532,"col","Lek-Vorkuta",64.13,67.77,"Verkhne-Syr’yaginskoe, borehole VSK-86, depth 284 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"85120",123533,"col","Lek-Vorkuta",64.13,67.77,"Verkhne-Syr’yaginskoe, borehole VSK-325, depth 212 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"85121",123536,"col","Lekvorkuta",64.13,67.77,"Nizhne-Syryaginskoe deposit, Borehole NSK-83, Depth 162.8 m ",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"85122",123537,"col","Lek-Vorkuta",64.13,67.77,"Verkhne-Syr’yaginskoe, borehole VSK-133, depth 285.1-286.0 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "85199",123621,"col","Qixia",107.4,24.97,"Luofu, Nandan County",NA,"",1,"Kungurian","",279.3,272.3,35242,"gp_mid",122.63,-11.84,"611",275.8,"kungurian",23873,132.7824,5.4427,55,1
 "85224",123646,"col","Qixia",113.35,27,"Yantoushan, Youxian County",NA,"",1,"Kungurian","",279.3,272.3,35242,"gp_mid",124.63,-6.48,"611",275.8,"kungurian",23889,134.9409,9.0447,55,1
 "85385",123817,"col","Tumara",133.4,64.5,"Sedelichan River, T. 1207, Sartang River Basin, Western Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",47.62,62.84,"401",275.8,"kungurian",23947,-5.9972,74.3113,55,1
@@ -1512,6 +1740,7 @@
 "85537",124018,"col","Qixia",112.44,25.49,"Shamuchong, Qixia Fm, Linwu County",NA,"",3,"Kungurian","",279.3,272.3,35245,"gp_mid",125.27,-8.07,"611",275.8,"kungurian",23990,135.9382,6.7481,55,1
 "85540",124021,"col","Qixia",112.96,27.65,"Xiaohe, Xingtan County",NA,"",4,"Kungurian","",279.3,272.3,35245,"gp_mid",123.9,-6.33,"611",275.8,"kungurian",23993,134.9409,9.0447,55,1
 "85541",124022,"col","Qixia",112.96,27.65,"Xiaohe, upper Qixia Fm, Xingtan County",NA,"",3,"Kungurian","",279.3,272.3,35245,"gp_mid",123.9,-6.33,"611",275.8,"kungurian",23993,134.9409,9.0447,55,1
+"85563",124099,"col","Yrchakh",138.35,61.8,"Khalyya River, T. 92, Southern Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",49.06,66.29,"401",275.8,"kungurian",18085,-12.0063,76.9161,55,1
 "85564",124100,"col","Mugochan",133.75,64.4,"Baraya River Basin, T. 25, Western Verkhoyan",NA,"",1,"Kungurian","",279.3,272.3,27345,"gp_mid",47.58,63.02,"401",275.8,"kungurian",13615,-5.9972,74.3113,55,1
 "85683",124241,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (PIN collection 212)",NA,"",8,"Kungurian","",279.3,272.3,40018,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
 "85718",124284,"col","Koshelevka",57.84,57.77,"Barda Locality 3, Krutaya Katushka (POKM Collection 7699)",NA,"",2,"Kungurian","",279.3,272.3,40055,"gp_mid",44.65,29.56,"302",275.8,"kungurian",20172,31.768,41.0701,55,1
@@ -1519,20 +1748,34 @@
 "85759",124338,"col","Qixia",115.3,30,"Vallée du Yang-tsee-Kiang",NA,"",1,"Kungurian","",279.3,272.3,32502,"gp_mid",123.38,-3.25,"611",275.8,"kungurian",24037,136.9603,12.6673,55,1
 "86383",125087,"col","Nabeyama",139.6,36.4,"KY1, Yamasuge quarry, Kuzu area",NA,"",7,"Kungurian","",279.3,272.3,40562,"gp_mid",135.79,12.35,"610",275.8,"kungurian",24231,160.8594,25.0712,55,1
 "86843",125785,"col","Park City",-111.82,42.96,"Grizzly Creek, Caribou County",NA,"",1,"Kungurian","",279.3,272.3,27437,"gp_mid",-31.92,14.91,"101",275.8,"kungurian",24363,-42.9359,13.4178,55,1
+"87145",126166,"col","Vorkutskoy",62.65,68.6,"Khey-Yaga River, outcrop 227, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
+"87146",126167,"col","Vorkutskoy",62.65,68.6,"Khey-Yaga River, outcrop 227, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
 "87148",126169,"col","Vorkutskoy",62.25,68.87,"Yangarey River, Outcrop 1827, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "87149",126170,"col","Vorkutskoy",62.25,68.87,"Yangarey River, Outcrop 1830, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
+"87150",126171,"col","Vorkutskoy",61.25,69.2,"Kharyuchey River, Outcrop 1980, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
 "87151",126172,"col","Vorkutskoy",63.95,69.5,"Tab-yu River, outcrop 123, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
 "87152",126173,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 34, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87153",126174,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 35, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87154",126175,"col","Vorkutskoy",63.95,69.5,"Tab-yu River, outcrop 109, bed d, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
 "87155",126176,"col","Vorkutskoy",63.05,69.5,"Saa-Yaga River, outcrop 133, bed v, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
 "87156",126177,"col","Vorkutskoy",62.6,69.56,"Er-Yaga River, outcrop 80, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.2,38.64,"302",275.8,"kungurian",20820,16.1042,47.5439,55,1
+"87157",126178,"col","Talata",61.25,69.2,"Bol'shie Yursuki River, outcrop 1027, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
 "87158",126179,"col","Talata",63.05,69.5,"Saa-Yaga River, outcrop 135, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
+"87159",126180,"col","Talata",62.65,68.6,"Khey-Yaga River, outcrop 233, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
 "87160",126181,"col","Vorkutskoy",62.25,68.87,"Yangarey River, Outcrop 303, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "87162",126183,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 227, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
 "87163",126184,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 229, bed d, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
 "87164",126185,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 230, bed g, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
 "87165",126186,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 233, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
+"87166",126187,"col","",61.2,69.1,"Bolshaya Talata River, Outcrop 414, bed g, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87167",126188,"col","",61.2,69.1,"Bolshaya Talata River, Outcrop 426, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87168",126189,"col","",61.25,69.2,"Bol'shie Yursuki River, outcrop 1011, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
+"87169",126190,"col","Talata",61.25,69.2,"Bol'shie Yursuki River, outcrop 1027, bed b, Pay-Khoy Range",NA,"",3,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
+"87170",126191,"col","Talata",61.25,69.2,"Bol'shie Yursuki River, outcrop 1028, bed a, Pay-Khoy Range",NA,"",3,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
+"87171",126192,"col","Talata",61.2,69.1,"Malaya Talata River, Outcrop 376, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87172",126193,"col","",61.2,69.1,"Malaya Talata River, Outcrop 1512, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87173",126194,"col","",61.2,69.1,"Malaya Talata River, Outcrop 1513, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87174",126195,"col","",61.2,69.1,"Interfluve of Bel'kovskaya and Malaya Talata River, Outcrop 465, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
 "87175",126196,"col","",63.05,69.5,"Saa-Yaga River, outcrop 197, bed e, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
 "87176",126197,"col","",63.05,69.5,"Saa-Yaga River, outcrop 197, bed zh, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
 "87177",126198,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 32, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
@@ -1553,14 +1796,22 @@
 "87192",126213,"col","Talata",63.95,69.5,"Tab-yu River, outcrop 118, bed a, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
 "87193",126214,"col","Talata",63.95,69.5,"Tab-yu River, outcrop 122, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.6,39,"302",275.8,"kungurian",21774,16.1042,47.5439,55,1
 "87194",126215,"col","Talata",63.05,69.5,"Saa-Yaga River, outcrop 144, bed g, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
+"87195",126216,"col","Talata",62.65,68.6,"Khey-Yaga River, outcrop 225, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
+"87196",126217,"col","Talata",62.65,68.6,"Khey-Yaga River, outcrop 229, bed g, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
+"87197",126218,"col","Talata",62.65,68.6,"Khey-Yaga River, outcrop 925, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
 "87198",126219,"col","",62.25,68.87,"Yangarey River, Outcrop 149, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "87199",126220,"col","Talata",62.6,69.5,"Liur-Yaga River, Zhuruyka creek, outcrop 101, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87200",126221,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 229, bed g, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
 "87201",126222,"col","Talata",62.6,69.56,"Er-Yaga River, outcrop 54, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.2,38.64,"302",275.8,"kungurian",20820,16.1042,47.5439,55,1
+"87202",126223,"col","Talata",61.25,69.2,"Bol'shie Yursuki River, outcrop 1017, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.23,38.05,"302",275.8,"kungurian",24443,15.8521,46.2732,55,1
+"87203",126224,"col","Vorkutskoy",58.27,68.82,"Kholengo island at mouth of Kara Bay, outcrop 1",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",34.8,36.97,"302",275.8,"kungurian",24444,15.8521,46.2732,55,1
+"87204",126225,"col","Vorkutskoy",61.2,69.1,"Bolshaya Talata River, Outcrop 85, bed a, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
 "87205",126226,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 102, bed v, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87206",126227,"col","",62.6,69.5,"Liur-Yaga River, outcrop 172, Pay-Khoy Range",NA,"",2,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87207",126228,"col","Talata",63.05,69.5,"Saa-Yaga River, outcrop 316, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
 "87208",126229,"col","",63.5,69.5,"Vas'-Yaga River, outcrop 238, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.49,38.87,"302",275.8,"kungurian",18453,16.1042,47.5439,55,1
+"87209",126230,"col","",61.2,69.1,"Malaya Talata River, Outcrop 347, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"87210",126231,"col","",61.2,69.1,"Malaya Talata River, Outcrop 371, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
 "87211",126232,"col","",62.25,68.87,"Yangarey River, Outcrop 1287, bed v, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.83,38.15,"302",275.8,"kungurian",20895,16.1042,47.5439,55,1
 "87212",126233,"col","",62.6,69.5,"Zhuruyka creek, outcrop 100, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87213",126234,"col","",63.05,69.5,"Saa-Yaga River, outcrop 144, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.37,38.74,"302",275.8,"kungurian",21859,16.1042,47.5439,55,1
@@ -1580,9 +1831,23 @@
 "87228",126249,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 98, bed e, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87229",126250,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 102, bed b, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
 "87230",126251,"col","Vorkutskoy",62.6,69.5,"Liur-Yaga River, outcrop 171, bed a, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,40982,"gp_mid",35.26,38.61,"302",275.8,"kungurian",10680,16.1042,47.5439,55,1
+"87813",127046,"col","Inta",64.13,67.77,"Upper Syr'yaga coalfield, borehole VSK-352, depth 123.4 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"87814",127047,"col","Lek-Vorkuta",64.05,67.6,"Khal'mer-Yu coalfield, borehole KhK-371, depth 88 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"87815",127048,"col","Lekvorkuta",64.18,67.65,"Vorkuta locality, Outcrop 49, Bed 13b, Pechora Basin",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.63,38.05,"302",275.8,"kungurian",20893,19.766,47.222,55,1
+"87816",127049,"col","Lek-vorkuta",64.13,67.77,"Upper Syr'yaga coalfield, borehole VSK-608, depth 1446.7 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"87817",127050,"col","Lek-Vorkuta",64.11,67.33,"Yun'yaga coalfield, borehole YuK-1, depth 247.6 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.94,37.84,"302",275.8,"kungurian",24536,19.766,47.222,55,1
+"87818",127051,"col","Lek-Vorkuta",64.05,67.6,"Khal'mer-Yu coalfield, borehole KhK-997, depth 717.7 m",NA,"PIN collection 1631",2,"Kungurian","",279.3,272.3,41265,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"87819",127052,"col","",64.13,67.77,"Upper Syr'yaga coalfield, borehole VSK-607, depth 1015.5 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"87820",127053,"col","Lek-Vorkuta",64.05,67.6,"Khal'mer-Yu coalfield, borehole KhK-972, depth 346.5 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"87821",127054,"col","Inta",64.05,67.6,"Khal'mer-Yu coalfield, borehole KhK-993, depth 328 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"87822",127055,"col","Lek-Vorkuta",64.13,67.77,"Upper Syr'yaga coalfield, borehole VSK-14, depth 128.3 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"87823",127056,"col","Lek-Vorkuta",64.13,67.77,"Vorkuta Deposit, Borehole K-1297, Depth 884.4-884.8 m ",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"87824",127057,"col","",64.13,67.77,"Upper Syr'yaga coalfield, borehole VSK-195, depth 129.0-129.2 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,41265,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "88239",127788,"col","Road Canyon",-103.43,30.22,"Dugout Mountain collection 7-15",NA,"",1,"Kungurian","",279.3,272.3,41763,"gp_mid",-33.83,0.64,"101",275.8,"kungurian",5781,-44.0048,-0.8022,55,1
 "88612",128219,"col","Bone Spring",-104.88,31.88,"Bone Canyon, south wall near mouth",NA,"",1,"Kungurian","",279.3,272.3,41872,"gp_mid",-33.96,2.71,"101",275.8,"kungurian",13465,-43.2662,1.7976,55,1
 "88613",128220,"col","Bone Spring",-104.88,31.88,"Bone Canyon, short distance south of mouth",NA,"",1,"Kungurian","",279.3,272.3,41872,"gp_mid",-33.96,2.71,"101",275.8,"kungurian",13465,-43.2662,1.7976,55,1
+"88667",128416,"col","",101.9,17.32,"TF369, highway 210 km 95, east of Wang Saphung",NA,"",7,"Kungurian","",279.3,272.3,41946,"gp_mid",123.55,-22.36,"615",275.8,"kungurian",24786,123.6136,-10.4477,55,1
+"88668",128417,"col","",101.89,17.3,"Highway 210 km 104, east of Wang Saphung",NA,"",3,"Kungurian","",279.3,272.3,41946,"gp_mid",123.55,-22.39,"615",275.8,"kungurian",24787,123.6136,-10.4477,55,1
 "88701",128463,"col","",102.09,13.66,"Khao Chakan KB-8",NA,"",2,"Kungurian","",279.3,272.3,33709,"gp_mid",127.14,-23.94,"615",275.8,"kungurian",24800,125.0983,-14.8448,55,1
 "88704",128467,"col","",97.7,18.09,"TF326, Nam Mae Khongkha creek, Amphoe Mae Sariang",NA,"",1,"Kungurian","",279.3,272.3,41953,"gp_mid",95.18,-37.7,"616",275.8,"kungurian",24803,104.7001,-35.4063,55,1
 "88705",128468,"col","",98.65,16.86,"TF1327, Mae Ka Sa Fall, Mae Ramad area",NA,"",1,"Kungurian","",279.3,272.3,41953,"gp_mid",96.69,-36.76,"616",275.8,"kungurian",24804,104.7001,-35.4063,55,1
@@ -1647,6 +1912,13 @@
 "89372",129536,"col","",55.57,29.3,"PK67, Kaviz section",NA,"",1,"Kungurian","",279.3,272.3,42127,"gp_mid",55.5,-23.75,"512",275.8,"kungurian",24934,48.9276,-26.0023,55,1
 "89373",129537,"col","",55.57,29.3,"PK68, Kaviz section",NA,"",2,"Kungurian","",279.3,272.3,42127,"gp_mid",55.5,-23.75,"512",275.8,"kungurian",24934,48.9276,-26.0023,55,1
 "89374",129538,"col","",55.57,29.3,"PK70, Kaviz section",NA,"",1,"Kungurian","",279.3,272.3,42127,"gp_mid",55.5,-23.75,"512",275.8,"kungurian",24934,48.9276,-26.0023,55,1
+"89609",129988,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-5",NA,"",3,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89610",129989,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-6",NA,"",1,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89611",129990,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-7",NA,"",3,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89612",129991,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-8",NA,"",2,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89613",129992,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-9",NA,"",1,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89614",129993,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-14",NA,"",3,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
+"89615",129994,"col","Hovsugol",109.9,43.57,"Hovsugol section, bed HV-15",NA,"",2,"Kungurian","",279.3,272.3,41707,"gp_mid",118.62,34.66,"628",275.8,"kungurian",22182,121.7042,46.4623,55,1
 "89664",130064,"col","Safetdaron",70.31,38.12,"Oingaron Village, sample 1014-2-1",NA,"",14,"Kungurian","",279.3,272.3,42203,"gp_mid",73.81,18.15,"402",275.8,"kungurian",25011,74.9866,-12.7761,55,1
 "89666",130066,"col","Safetdaron",70.31,38.12,"Oingaron Village, sample 1014a",NA,"",4,"Kungurian","",279.3,272.3,42203,"gp_mid",73.81,18.15,"402",275.8,"kungurian",25011,74.9866,-12.7761,55,1
 "89669",130069,"col","Safetdaron",70.31,38.12,"Oingaron Village, sample 1014-7",NA,"",4,"Kungurian","",279.3,272.3,42203,"gp_mid",73.81,18.15,"402",275.8,"kungurian",25011,74.9866,-12.7761,55,1
@@ -1706,11 +1978,19 @@
 "91120",131768,"col","Bone Spring",-104.88,31.9,"USGS 5697d, Guadalupe Mountains",NA,"",1,"Kungurian","",279.3,272.3,11483,"gp_mid",-33.95,2.73,"101",275.8,"kungurian",13376,-43.2662,1.7976,55,1
 "91550",132339,"col","Safetdaron",70.29,37.99,"Obi-Niou River below Lyangar village, Darvaz Mountains",NA,"",1,"Kungurian","",279.3,272.3,42616,"gp_mid",73.89,18.04,"402",275.8,"kungurian",14539,74.9866,-12.7761,55,1
 "91551",132340,"col","Safetdaron",70.48,38.45,"Obiravnou River, Ak-Tash region, Darvaz Mountains",NA,"",1,"Kungurian","",279.3,272.3,42616,"gp_mid",73.7,18.49,"402",275.8,"kungurian",25397,74.9866,-12.7761,55,1
+"91552",132342,"col","",61.2,69.1,"Malaya Talata River, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,42617,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"91553",132343,"col","Vorkutskoy",61.2,69.1,"Bolshaya Talata River, Pay-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,42617,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
 "91660",132458,"col","Qixia",118.59,28.73,"Hejiashan, 1637-H4-2, Jiangshan County",NA,"",1,"Kungurian","",279.3,272.3,42667,"gp_mid",126.14,-1.77,"611",275.8,"kungurian",22953,141.0936,11.808,55,1
 "91674",132473,"col","Nong Pong",101.2,14.67,"Khao Nong Hoi, Amphoe Munglek",NA,"",3,"Kungurian","",279.3,272.3,33510,"gp_mid",125.72,-24.23,"615",275.8,"kungurian",9982,125.416,-12.2161,55,1
+"91677",132480,"col","Kozhimrudnitskaya",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Beds 428-429, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29690,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
+"91678",132481,"col","Kozhimrudnitskaya",59.5,65.75,"Kozhim River, Kozhim-Rudnik Settlement, Bed 318, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,29690,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "92020",132962,"col","Qixia",118.96,32.15,"Qixia Mountain, Nanjing City (NIGP)",NA,"",1,"Kungurian","",279.3,272.3,33905,"gp_mid",116.02,13.28,"604",275.8,"kungurian",18143,118.5895,23.5592,55,1
+"92021",132963,"col","Qixia",98.73,29.55,"Jiaoga district, Markam County",NA,"",1,"Kungurian","",279.3,272.3,33905,"gp_mid",83.1,-34.07,"612",275.8,"kungurian",25541,95.7299,-23.7678,55,1
 "92109",133069,"col","Ufimskiy",46.4,67.82,"Kanin Peninsula, outcrop 5069",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",32.08,33.07,"302",275.8,"kungurian",20824,16.9642,40.3647,55,1
 "92149",133115,"col","Adz'va",60.8,67.18,"Adz'va River, Outcrop Ch-43, Sample 5/7, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",37.15,36.72,"302",275.8,"kungurian",13278,19.3918,45.8104,55,1
+"92150",133116,"col","Lekvorkuta",59.73,65.69,"Kozhim River Section 5, Bed 318, Pechora Basin",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",38.29,35.47,"302",275.8,"kungurian",20835,22.8665,45.2403,55,1
+"92151",133117,"col","Talata",61.2,69.1,"Bolshaya Talota River, Outcrop 23, Pai-Khoy Range",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",35.32,37.97,"302",275.8,"kungurian",14521,15.8521,46.2732,55,1
+"92152",133118,"col","Lekvorkuta",59.5,65.75,"Kozhim River, Outcrop 5, Bed 386, Sample 45v",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",38.16,35.43,"302",275.8,"kungurian",18464,22.8665,45.2403,55,1
 "92156",133122,"col","",49.75,66.97,"Sula River, outcrop 76, Northern Timan Mountains",NA,"",1,"Kungurian","",279.3,272.3,27343,"gp_mid",33.89,33.35,"302",275.8,"kungurian",20872,17.6968,41.6889,55,1
 "92165",133135,"col","",159.25,63,"Kozlyatnik Creek, Avlanda Basin",NA,"",1,"Kungurian","",279.3,272.3,32353,"gp_mid",15.01,75.51,"405",275.8,"kungurian",25571,-90.4217,76.3046,55,1
 "92359",133511,"col","Verkhoyan",129.5,70.5,"Kungas-Yurege River, Northern Kharaulakh",NA,"",1,"Kungurian","",279.3,272.3,27317,"gp_mid",40.27,57.83,"401",275.8,"kungurian",17202,-4.4811,69.1332,55,1
@@ -1732,6 +2012,7 @@
 "95911",137913,"col","Tak Fa",100.6,15.34,"07LB04-17, Phu Lam Yai, Nakhon Sawan-Lopburi",NA,"",4,"Kungurian","",279.3,272.3,44109,"gp_mid",124.77,-24.41,"615",275.8,"kungurian",26797,125.416,-12.2161,55,1
 "95923",137925,"col","Tak Fa",100.59,15.38,"07LB09-1, Khao Phu Chongkho, Nakhon Sawan-Lopburi",NA,"",3,"Kungurian","",279.3,272.3,44109,"gp_mid",124.73,-24.41,"615",275.8,"kungurian",26799,125.416,-12.2161,55,1
 "95924",137926,"col","Tak Fa",100.59,15.38,"07LB09-2, Khao Phu Chongkho, Nakhon Sawan-Lopburi",NA,"",2,"Kungurian","",279.3,272.3,44109,"gp_mid",124.73,-24.41,"615",275.8,"kungurian",26799,125.416,-12.2161,55,1
+"96137",138143,"col","Lek-Vorkuta",64.05,67.6,"Khal'meryuskoye, borehole KhK-364, depth 125.5 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,44178,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
 "99098",141552,"col","Qixia",119,32.05,"Kongshan Hill, Nanjing",NA,"",6,"Kungurian","",279.3,272.3,46073,"gp_mid",115.97,13.18,"604",275.8,"kungurian",27415,118.5895,23.5592,55,1
 "99638",142159,"col","Qixia",119.1,32.15,"AV-28, Guanshan Section, Longtan, Nanjing City",NA,"",4,"Kungurian","",279.3,272.3,47187,"gp_mid",116.11,13.21,"604",275.8,"kungurian",27503,118.5895,23.5592,55,1
 "99639",142161,"col","Qixia",119.1,32.15,"AV-29, Guanshan Section, Longtan, Nanjing City",NA,"",2,"Kungurian","",279.3,272.3,47187,"gp_mid",116.11,13.21,"604",275.8,"kungurian",27503,118.5895,23.5592,55,1
@@ -1783,6 +2064,7 @@
 "102234",145695,"col","Kapp Starostin",16.05,77.23,"Polakkfjellet, bed 23",NA,"",6,"Kungurian","",279.3,272.3,47123,"gp_mid",16.91,35.94,"309",275.8,"kungurian",27921,0.1713,38.1597,55,1
 "102298",145990,"col","Qixia",110.75,30.64,"By76, Shangzhuyan, Maanshan, Changyang district",NA,"",12,"Kungurian","",279.3,272.3,47186,"gp_mid",120.36,-5.85,"611",275.8,"kungurian",27946,133.9308,11.3385,55,1
 "102299",145991,"col","Qixia",110.75,30.64,"By222, Zhangjianao, Maanshan, Changyang district",NA,"",9,"Kungurian","",279.3,272.3,47186,"gp_mid",120.36,-5.85,"611",275.8,"kungurian",27946,133.9308,11.3385,55,1
+"102320",146186,"col","Lek-Vorkuta",64.13,67.77,"Lower Syryaginskoe deposit, Vorkuta",NA,"PIN collection 1631",3,"Kungurian","",279.3,272.3,47219,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "102321",146187,"col","",57.84,64.22,"Shchugor River (PIN collection 1377",NA,"",1,"Kungurian","",279.3,272.3,47219,"gp_mid",39.04,33.91,"302",275.8,"kungurian",27951,22.258,43.7164,55,1
 "102393",146263,"col","Qixia",110.57,30.68,"BY74, Taoshuping, Maanshan area",NA,"",1,"Kungurian","",279.3,272.3,47247,"gp_mid",120.22,-5.94,"611",275.8,"kungurian",17359,130.8856,10.0762,55,1
 "102395",146266,"col","Qixia",120.14,30.22,"Chiuyaoshan, black impure limestone, Hangchow",NA,"Jiuyaoshan",2,"Kungurian","",279.3,272.3,47249,"gp_mid",125.76,0.2,"611",275.8,"kungurian",27961,139.9764,14.0584,55,1
@@ -1864,6 +2146,7 @@
 "105893",150251,"col","Bone Spring",-104.8,31.61,"R.E. King 491, Delaware Mountains",NA,"",12,"Kungurian","",279.3,272.3,18203,"gp_mid",-34.05,2.45,"101",275.8,"kungurian",28438,-43.2662,1.7976,55,1
 "105901",150259,"col","Cathedral Mountain",-103.45,30.2,"R.E. King 238, Old Payne Ranch, Del Norte Mountains",NA,"",4,"Kungurian","",279.3,272.3,18203,"gp_mid",-33.86,0.64,"101",275.8,"kungurian",28442,-44.0048,-0.8022,55,1
 "105904",150262,"col","Bone Spring",-105,31.54,"R.E. King 495, Sierra Diablo",NA,"",3,"Kungurian","",279.3,272.3,18203,"gp_mid",-34.23,2.48,"101",275.8,"kungurian",28444,-43.2662,1.7976,55,1
+"106132",150513,"col","Baliqliq",78.74,40.54,"SKK203, Subashi, Keping County",NA,"",4,"Kungurian","",279.3,272.3,48145,"gp_mid",80.39,22.79,"601",275.8,"kungurian",28486,68.4824,47.0891,55,1
 "106138",150554,"col","Cathedral Mountain",-103.3,30.29,"R.E. King 13, Hill 4910, Glass Mountains",NA,"",10,"Kungurian","",279.3,272.3,18203,"gp_mid",-33.7,0.64,"101",275.8,"kungurian",21547,-44.0048,-0.8022,55,1
 "106139",150555,"col","Cathedral Mountain",-103.35,30.29,"R.E. King 27, Hill 4929, Glass Mountains",NA,"",3,"Kungurian","",279.3,272.3,18203,"gp_mid",-33.73,0.66,"101",275.8,"kungurian",19609,-44.0048,-0.8022,55,1
 "106140",150556,"col","Skinner Ranch",-103.34,30.26,"R.E. King 38, Hill 5300, Glass Mountains",NA,"",15,"Kungurian","",279.3,272.3,18203,"gp_mid",-33.75,0.64,"101",275.8,"kungurian",5833,-44.0048,-0.8022,55,1
@@ -1956,6 +2239,7 @@
 "106914",151477,"col","Hess",-103.16,30.38,"R.E. King 112, Hess Canyon, Glass Mountains",NA,"",1,"Kungurian","",279.3,272.3,18203,"gp_mid",-33.55,0.65,"101",275.8,"kungurian",5797,-44.0048,-0.8022,55,1
 "106941",151508,"col","",-104.87,31.48,"R.E. King 462, Hill 4520, Sierra Diablo",NA,"",1,"Kungurian","",279.3,272.3,18203,"gp_mid",-34.18,2.37,"101",275.8,"kungurian",13418,-43.2662,1.7976,55,1
 "106945",151512,"col","Cibolo",-104.36,29.95,"University of Texas Tf, Chinati Mountains",NA,"",1,"Kungurian","",279.3,272.3,18203,"gp_mid",-34.66,0.86,"101",275.8,"kungurian",28702,-44.0048,-0.8022,55,1
+"106993",151567,"col","Lek-Vorkuta",64.13,67.77,"Vorkuta (PIN collection 1631)",NA,"",5,"Kungurian","",279.3,272.3,48441,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "107349",152055,"col","Lekvorkuta",57.54,66.01,"Usinskoe coalfield, Well UK-252, 293.7 m, Pechora Basin",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,48747,"gp_mid",37.29,34.98,"302",275.8,"kungurian",15138,22.258,43.7164,55,1
 "107354",152060,"col","Koshelevka",57.84,57.77,"Barda, Krutaya Katushka (PIN collection 212)",NA,"",1,"Kungurian","",279.3,272.3,37942,"gp_mid",44.65,29.56,"302",275.8,"kungurian",20172,31.768,41.0701,55,1
 "108240",153457,"col","Nabeyama",139.6,36.4,"KY4 (silicified blocks), Yamasuge, Kuzu area",NA,"",2,"Kungurian","",279.3,272.3,49521,"gp_mid",135.8,12.35,"610",275.8,"kungurian",24231,160.8594,25.0712,55,1
@@ -1965,6 +2249,7 @@
 "109967",155819,"col","Koshelevka",57.84,57.77,"Barda Locality, Krutaya Katushka (Zalessky collection)",NA,"",14,"Kungurian","",279.3,272.3,50995,"gp_mid",44.65,29.56,"302",275.8,"kungurian",20172,31.768,41.0701,55,1
 "109971",155825,"col","Koshelevka",57.23,57.37,"Sylva River above Zapolinskogo log",NA,"",2,"Kungurian","",279.3,272.3,50995,"gp_mid",44.72,29.05,"302",275.8,"kungurian",21907,31.768,41.0701,55,1
 "110654",157042,"col","Koshelevka",57.72,57.03,"Chekarda, Sylva River (Mauer collection)",NA,"PIN collection 1317",1,"Kungurian","",279.3,272.3,47763,"gp_mid",45.21,29,"302",275.8,"kungurian",3703,31.768,41.0701,55,1
+"113086",160744,"col","Lek-Vorkuta",64.13,67.77,"Vorkuta Deposit, Borehole K-138, Depth 278.5 m",NA,"PIN collection 1206",1,"Kungurian","",279.3,272.3,52440,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "113088",160746,"col","",57.77,55.58,"Koshelevka River, Tributary of Aya River, Ufa Basin",NA,"",1,"Kungurian","",279.3,272.3,53809,"gp_mid",46.41,28.01,"302",275.8,"kungurian",30386,34.7551,40.0219,55,1
 "114082",161939,"col","Koshelevka",57.85,57.77,"Barda Locality, Krasnaya Glinka",NA,"",3,"Kungurian","",279.3,272.3,53766,"gp_mid",44.65,29.57,"302",275.8,"kungurian",30607,31.768,41.0701,55,1
 "114270",162193,"col","Pospelovo",131.95,43.17,"Ob'yasnenie river, south side of Komarov Mountain",NA,"",1,"Kungurian","",279.3,272.3,52825,"gp_mid",136.98,30.51,"628",275.8,"kungurian",30654,144.6712,39.633,55,1
@@ -1973,6 +2258,7 @@
 "120676",173161,"col","Solikamsk",56.46,60.45,"Kolva River, Pokcha, well 1 at mouth of Kemzelka river",NA,"",1,"Kungurian","",279.3,272.3,56279,"gp_mid",41.84,30.9,"302",275.8,"kungurian",32072,28.6879,42.0387,55,1
 "120677",173162,"col","Solikamsk",56.49,60.3,"Mogilnikovo, above post D.T.PK. 6-20-1946, Vishera River",NA,"",1,"Kungurian","",279.3,272.3,56279,"gp_mid",41.98,30.81,"302",275.8,"kungurian",21149,28.6879,42.0387,55,1
 "120877",173727,"col","Solikamsk",56.78,57.99,"Troitsa (PIN collection 5333)",NA,"",4,"Kungurian","",279.3,272.3,56634,"gp_mid",44.02,29.31,"302",275.8,"kungurian",32143,31.768,41.0701,55,1
+"121210",174628,"col","Lek-Vorkuta",64.63,67.84,"Khalmeryuskoe Field, borehole KhK-231, 152.6 m (PIN collection 1631)",NA,"",1,"Kungurian","",279.3,272.3,57022,"gp_mid",37.55,38.29,"302",275.8,"kungurian",17389,19.766,47.222,55,1
 "122972",177003,"col","Vale",-99.57,33.67,"Locality KA Quarry site",NA,"",5,"Kungurian","",279.3,272.3,58444,"gp_mid",-29.23,1.84,"101",275.8,"kungurian",14397,-40.5036,0.2573,55,1
 "122974",177005,"col","Vale",-99.57,33.67,"Locality KA High Channel site",NA,"",1,"Kungurian","",279.3,272.3,58444,"gp_mid",-29.23,1.84,"101",275.8,"kungurian",14397,-40.5036,0.2573,55,1
 "122982",177014,"col","Vale",-99.6,33.7,"Locality KD Quarry site",NA,"",3,"Kungurian","",279.3,272.3,58444,"gp_mid",-29.23,1.88,"101",275.8,"kungurian",1484,-40.5036,0.2573,55,1
@@ -2044,7 +2330,16 @@
 "134456",197622,"col","Sheshmian",52.18,54.51,"A1, Karkali Section, Sheshma River (lower)",NA,"",3,"Kungurian","",279.3,272.3,67364,"gp_mid",44.63,25.03,"302",275.8,"kungurian",35339,33.5023,38.1038,55,1
 "134711",197911,"col","Sheshma",52.12,54.52,"Shugurovo (Ufimian)",NA,"",2,"Kungurian","",279.3,272.3,67364,"gp_mid",44.6,25.01,"302",275.8,"kungurian",35383,33.5023,38.1038,55,1
 "134712",197912,"col","",52.17,54.1,"Kamyshla Village (Lower Kazanian type region)",NA,"",54,"Kungurian","",279.3,272.3,67364,"gp_mid",44.93,24.72,"302",275.8,"kungurian",35384,33.5023,38.1038,55,1
+"136269",201683,"col","Lekvorkuta",64.13,67.77,"Upper Syr-Yaga, borehole VK-1571, depth 111.3 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,69013,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"136270",201684,"col","Inta",64.05,67.6,"Khalmer-Yu, borehole KhK-861, depth 194.7 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,69013,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
 "140230",207420,"col","Vale",-99.66,32.4,"Taylor County, WPA Site 9",NA,"John Guitar estate, Work Project No.13107",1,"Kungurian","",279.3,272.3,71451,"gp_mid",-29.95,0.79,"101",275.8,"kungurian",36929,-40.5036,0.2573,55,1
+"141149",208868,"col","Lekvorkuta",64.05,67.6,"Halmeryu coalfield, borehole HK-966, depth 355.4 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"141150",208869,"col","Inta",64.13,67.77,"Vorkuta Field, Borehole K-1304, Depth 626.0 m ",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"141151",208870,"col","",64.13,67.77,"Verkhne-Syryaginskoe deposit, borehole NCK-133, depth 285.19-286.0 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,39530,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
+"141152",208871,"col","Lekvorkuta",62.65,68.6,"Khey-Yaga River, outcrop 3, bed 9",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
+"141153",208872,"col","Lekvorkuta",62.65,68.6,"Khey-Yaga River, outcrop 3, bed 14",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",36.22,38.11,"302",275.8,"kungurian",20831,19.766,47.222,55,1
+"141154",208873,"col","Lekvorkuta",64.05,67.6,"Halmeryu coalfield, borehole KhK-780, depth 298.0 m",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",37.64,37.98,"302",275.8,"kungurian",7438,19.766,47.222,55,1
+"141155",208874,"col","Lekvorkuta",64.13,67.77,"Vorkuta Field, Borehole K-1348, Depth 1140.2 m ",NA,"PIN collection 1631",1,"Kungurian","",279.3,272.3,72090,"gp_mid",37.49,38.1,"302",275.8,"kungurian",23627,19.766,47.222,55,1
 "143193",211737,"col","",131.31,34.27,"Kaerimizu, Akiyoshi Plateau",NA,"",3,"Kungurian","",279.3,272.3,35954,"gp_mid",128.64,13.57,"610",275.8,"kungurian",37544,156.6347,19.8205,55,1
 "143194",211738,"col","",131.31,34.27,"Kaerimizu, Akago-mura",NA,"",1,"Kungurian","",279.3,272.3,31783,"gp_mid",128.64,13.57,"610",275.8,"kungurian",37544,156.6347,19.8205,55,1
 "143546",212245,"col","Lashkargaz",73.38,36.87,"Yarkhun River, 2.5 miles north of Baroghil Ailak",NA,"",1,"Kungurian","",279.3,272.3,73286,"gp_mid",76.1,18.93,"601",275.8,"kungurian",37666,78.0309,-12.9832,55,1

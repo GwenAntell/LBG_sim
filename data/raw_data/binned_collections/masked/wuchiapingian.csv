@@ -32,6 +32,8 @@
 "13750",26378,"col","Kingscourt Gypsum",-6.78,53.9,"Upper Mudstone Member n Kingscourt",NA,"",7,"Wuchiapingian","",259.9,254.17,6998,"gp_mid",17.69,26.07,"313",257.035,"wuchiapingian",2534,8.6767,24.2345,51,1
 "13829",26905,"col","Werra",6.53,51.5,"Copper Shale Mb T1 Rossenray shaft Kamp-Lintfort",26241,"",16,"Wuchiapingian","",259.9,254.17,7261,"gp_mid",26.83,24.53,"315",257.035,"wuchiapingian",2401,18.5943,26.351,51,1
 "13891",27107,"col","St Bees Evaporite",-3.23,54.12,"Grey Siltstones St Bees Evaporite Formation Roosecote borehole Barrow-in-Furnes",NA,"",14,"Wuchiapingian","",259.9,254.17,7473,"gp_mid",19.99,26.42,"315",257.035,"wuchiapingian",2697,10.8015,25.183,51,1
+"15304",29456,"col","Burngrove",148.8,-23.3,"Burngrove",NA,"PGAP 13421",29,"Wuchiapingian","",259.9,254.17,8235,"gp_mid",136.86,-68.65,"801",257.035,"wuchiapingian",2969,141.8967,-51.9984,51,1
+"15360",29512,"col","Nanlong",108.6,19.1,"Dongfang (Hainan Island)",NA,"PGAP 12096",0,"Wuchiapingian","",259.9,254.17,8313,"gp_mid",109.41,-23.49,"611",257.035,"wuchiapingian",2999,127.3433,1.9794,51,1
 "15361",29513,"col","Toba",97.7,31.3,"Toba, Qamdo District",NA,"PGAP 12076",36,"Wuchiapingian","",259.9,254.17,8101,"gp_mid",80.09,-15.39,"612",257.035,"wuchiapingian",3000,97.6504,-2.6868,51,1
 "15621",29773,"col","Longtan",120.2,30.8,"Huzhou",NA,"PGAP 12055",5,"Wuchiapingian","",259.9,254.17,8319,"gp_mid",115.85,-9.04,"611",257.035,"wuchiapingian",3015,135.6608,13.633,51,1
 "15623",29775,"col","Wulinshan",119.7,29.8,"Tongwu",NA,"PGAP 12188",15,"Wuchiapingian","",259.9,254.17,8319,"gp_mid",115.83,-10.13,"611",257.035,"wuchiapingian",3016,135.6608,13.633,51,1
@@ -532,6 +534,12 @@
 "54492",83195,"col","Blenheim",148.13,-20.95,"BMR B270a, Exmoor Homestead",NA,"",4,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",136.14,-66.23,"801",257.035,"wuchiapingian",13775,142.3554,-49.5153,51,1
 "54496",83199,"col","Blenheim",148.13,-20.94,"BMR B683, Exmoor Homestead",NA,"",3,"Wuchiapingian","",259.9,254.17,14254,"gp_mid",136.14,-66.23,"801",257.035,"wuchiapingian",13779,142.3554,-49.5153,51,1
 "54498",83201,"col","Blenheim",148.13,-20.94,"BMR B712, Nebo Synclinorium",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",136.14,-66.22,"801",257.035,"wuchiapingian",13779,142.3554,-49.5153,51,1
+"54513",83216,"col","",148.18,-22.11,"BMR CL12/1, Pelecypod Bed, Capella Block",NA,"",6,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",135.81,-67.38,"801",257.035,"wuchiapingian",13790,141.8967,-51.9984,51,1
+"54514",83217,"col","",148.18,-22.11,"BMR CL12/2, Clarkei Bed, Capella Block",NA,"",3,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",135.81,-67.38,"801",257.035,"wuchiapingian",13790,141.8967,-51.9984,51,1
+"54534",83265,"col","",148.23,-22.73,"BMR CL225/1, Clarkei Bed, Capella Block",NA,"",3,"Wuchiapingian","",259.9,254.17,42917,"gp_mid",135.68,-68,"801",257.035,"wuchiapingian",13799,141.8967,-51.9984,51,1
+"54535",83266,"col","",148.25,-22.7,"BMR CL25/1, Pelecypod Bed, Capella Block",NA,"",2,"Wuchiapingian","",259.9,254.17,42917,"gp_mid",135.74,-67.98,"801",257.035,"wuchiapingian",13800,141.8967,-51.9984,51,1
+"54536",83267,"col","",148.3,-22.75,"BMR CL50/1, Capella Block",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",135.84,-68.03,"801",257.035,"wuchiapingian",13801,141.8967,-51.9984,51,1
+"54546",83277,"col","",148.92,-22.95,"BMR Du387, Foxleigh Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",137.29,-68.31,"801",257.035,"wuchiapingian",13809,141.8967,-51.9984,51,1
 "55325",84363,"col","Hardman",124.06,-18.15,"BMR FL220, Luluigui Homestead",NA,"",3,"Wuchiapingian","",259.9,254.17,27553,"gp_mid",95.31,-54.39,"801",257.035,"wuchiapingian",14067,108.8933,-40.7058,51,1
 "55470",84586,"col","Hardman",124.64,-18.31,"BMR H21, Mount Hardman",NA,"",1,"Wuchiapingian","",259.9,254.17,27933,"gp_mid",95.92,-54.85,"801",257.035,"wuchiapingian",12195,108.8933,-40.7058,51,1
 "55478",84594,"col","Hardman",124.64,-18.31,"BMR KLB10, Mount Hardman",NA,"",1,"Wuchiapingian","",259.9,254.17,27553,"gp_mid",95.92,-54.85,"801",257.035,"wuchiapingian",12195,108.8933,-40.7058,51,1
@@ -542,7 +550,9 @@
 "55483",84599,"col","Hardman",124.72,-18.33,"BMR KLC14, Mount Cedric",NA,"",2,"Wuchiapingian","",259.9,254.17,27553,"gp_mid",96,-54.91,"801",257.035,"wuchiapingian",14129,108.8933,-40.7058,51,1
 "55484",84600,"col","Hardman",124.6,-17.96,"BMR KLC40, Moffatt's Bore, Nerrima Station",NA,"",3,"Wuchiapingian","",259.9,254.17,27553,"gp_mid",96.22,-54.54,"801",257.035,"wuchiapingian",14130,108.8933,-40.7058,51,1
 "55660",84836,"col","Werra",8.88,51.26,"Korbach Fissure",NA,"Fisseler quarry, Korbacher Spalte, Steinbruch Fisseler",5,"Wuchiapingian","",259.9,254.17,28485,"gp_mid",28.46,24.55,"315",257.035,"wuchiapingian",14193,18.5943,26.351,51,1
+"55829",85052,"col","Blenheim",148.4,-21.55,"BMR MC553, Homevale-Elphinstone Road",NA,"",1,"Wuchiapingian","",259.9,254.17,14254,"gp_mid",136.54,-66.86,"801",257.035,"wuchiapingian",14248,141.8967,-51.9984,51,1
 "55831",85054,"col","Blenheim",148.21,-21.06,"BMR MC803, Blenheim Homestead",NA,"",10,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",136.28,-66.35,"801",257.035,"wuchiapingian",14250,142.3554,-49.5153,51,1
+"55832",85055,"col","Blenheim",148.45,-21.36,"BMR MC957, Mount Cona Creek",NA,"",2,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",136.72,-66.68,"801",257.035,"wuchiapingian",14251,141.8967,-51.9984,51,1
 "56050",85331,"col","Hardman",124.6,-17.95,"BMR NG282, Moffatt's Bore, Nerrima Station",NA,"",1,"Wuchiapingian","",259.9,254.17,27308,"gp_mid",96.23,-54.53,"801",257.035,"wuchiapingian",14347,108.8933,-40.7058,51,1
 "56188",85484,"col","Werra",11.52,51.52,"Mansfeld mining district",NA,"Mansfelder Revier, Mansfelder Mulde, Mansfelder Land, Kupferschiefer, Copper Shale, Wolfsschacht, Otto-Schacht",5,"Wuchiapingian","",259.9,254.17,28876,"gp_mid",30.18,25.11,"315",257.035,"wuchiapingian",14384,20.7124,27.6348,51,1
 "56410",85898,"col","Condamine",151.9,-28,"BMR TH195, Condamine Block",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",144.15,-73.59,"801",257.035,"wuchiapingian",14465,146.9023,-57.3085,51,1
@@ -562,6 +572,7 @@
 "56811",86531,"col","Park City",-111.05,41.71,"Brazer Canyon, Crawford Mountains, Rich County",NA,"",1,"Wuchiapingian","",259.9,254.17,27437,"gp_mid",-30.39,23.78,"101",257.035,"wuchiapingian",14620,-42.4812,18.5326,51,1
 "56812",86532,"col","Wegener Halvo",-20.13,74.36,"Breccia River, LK622, Wollaston Foreland",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.16,41.04,"102",257.035,"wuchiapingian",14542,6.4744,38.8293,51,1
 "56813",86533,"col","Foldvik Creek",-24.04,71.9,"Breithorn Glacier (Biskop Alfs Glacier), Scoresby Land",NA,"",1,"Wuchiapingian","",259.9,254.17,29160,"gp_mid",22.3,38.41,"102",257.035,"wuchiapingian",14621,6.4335,36.1194,51,1
+"56829",86565,"col","Wegener Halvo",-20.75,74.14,"Brinkley Bjerg, Clavering Ø",NA,"",4,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",23,40.79,"102",257.035,"wuchiapingian",14624,5.3259,38.4591,51,1
 "56837",86595,"col","Wargal",71.74,32.74,"Budikheyl, Middle Productus-limestone, Salt Range",NA,"",2,"Wuchiapingian","",259.9,254.17,27464,"gp_mid",52.05,-38.06,"501",257.035,"wuchiapingian",14631,70.7581,-25.6235,51,1
 "56840",86598,"col","Longtan",105.83,26.43,"Bulang Section BM1, Puding County",NA,"",1,"Wuchiapingian","",259.9,254.17,27402,"gp_mid",104.86,-17,"611",257.035,"wuchiapingian",14634,122.8863,8.9324,51,1
 "56841",86599,"col","Longtan",105.83,26.43,"Bulang Section BM2, Puding County",NA,"",1,"Wuchiapingian","",259.9,254.17,27402,"gp_mid",104.86,-17,"611",257.035,"wuchiapingian",14634,122.8863,8.9324,51,1
@@ -609,6 +620,8 @@
 "58928",89228,"col","Wargal",72.15,32.4,"Chita-wan, brown limestone, upper region, Middle Productus-limestone, Salt Range",NA,"Chittawan",1,"Wuchiapingian","",259.9,254.17,27333,"gp_mid",51.8,-38.5,"501",257.035,"wuchiapingian",15326,70.7581,-25.6235,51,1
 "58959",89320,"col","Nayixiong",91.05,33.98,"Gongri, Bed 8, Mount Geladundong Area, Anduo County, Zizhi District",NA,"",5,"Wuchiapingian","",259.9,254.17,29960,"gp_mid",74.37,-12.6,"612",257.035,"wuchiapingian",15336,92.0445,1.0142,51,1
 "58964",89329,"col","Chapsay",70.43,38.3,"Choyleptuk River, Darvaz Mountains",NA,"",1,"Wuchiapingian","",259.9,254.17,27414,"gp_mid",82.47,30.46,"402",257.035,"wuchiapingian",15341,77.944,6.7797,51,1
+"59033",89398,"col","Wegener Halvo",-21.58,74.38,"Cirkusdal, Northern Clavering Ø",NA,"",7,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.98,"102",257.035,"wuchiapingian",15367,5.3259,38.4591,51,1
+"59034",89399,"col","Blenheim",148.5,-22.35,"BMR CL21/5, Tay Glen Crossing, Phillips Creek",NA,"",2,"Wuchiapingian","",259.9,254.17,42917,"gp_mid",136.48,-67.67,"801",257.035,"wuchiapingian",15368,141.8967,-51.9984,51,1
 "59093",89577,"col","Ford",-1.44,54.91,"Claxheugh Railway Cutting 1, Sunderland",NA,"",6,"Wuchiapingian","",259.9,254.17,6813,"gp_mid",21.08,27.3,"315",257.035,"wuchiapingian",5874,12.925,26.1672,51,1
 "59094",89578,"col","Ford",-1.44,54.91,"Claxheugh Railway Cutting 2, Sunderland",NA,"",4,"Wuchiapingian","",259.9,254.17,6813,"gp_mid",21.08,27.3,"315",257.035,"wuchiapingian",5874,12.925,26.1672,51,1
 "59095",89579,"col","Ford",-1.44,54.91,"Claxheugh Railway Cutting 3, Sunderland",NA,"",1,"Wuchiapingian","",259.9,254.17,6813,"gp_mid",21.08,27.3,"315",257.035,"wuchiapingian",5874,12.925,26.1672,51,1
@@ -727,15 +740,22 @@
 "63959",95974,"col","Wujiaping",106.1,25.75,"Ziyun County Unspecified",NA,"",2,"Wuchiapingian","",259.9,254.17,32576,"gp_mid",105.27,-17.61,"611",257.035,"wuchiapingian",16933,123.2107,6.4532,51,1
 "64404",96754,"col","Depot Island",-22.5,71.64,"Depot O, LK13, Nathorsts Fjord, Wegener Halvo",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.96,38.24,"102",257.035,"wuchiapingian",17088,6.4335,36.1194,51,1
 "64429",96799,"col","Productus Shale",80.3,30.53,"Dharma No. XI, Lissar Valley, Johar",NA,"",7,"Wuchiapingian","",259.9,254.17,27602,"gp_mid",53.04,-45.64,"501",257.035,"wuchiapingian",17096,74.0024,-31.8892,51,1
+"64432",96802,"col","Wegener Halvo",-20.75,74.15,"Diabase Haven, Herschell Bjerg, LK1030, Clavering Ø",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23,40.8,"102",257.035,"wuchiapingian",17099,5.3259,38.4591,51,1
 "64434",96804,"col","Shuizhutang",112.4,24.92,"Bao'an, Lianyang County",NA,"",1,"Wuchiapingian","",259.9,254.17,27742,"gp_mid",111.25,-16.91,"611",257.035,"wuchiapingian",17101,129.9816,7.4642,51,1
 "64437",96807,"col","Phosphoria",-111.51,42.69,"Divide between Trail and Wood Canyon, Soda Springs, Caribou County",NA,"",1,"Wuchiapingian","",259.9,254.17,27437,"gp_mid",-30.24,24.8,"101",257.035,"wuchiapingian",17102,-42.4812,18.5326,51,1
+"64438",96808,"col","Wegener Halvo",-21.6,74.33,"Djaevlekloften, Clavering Ø",NA,"",7,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.93,"102",257.035,"wuchiapingian",17103,5.3259,38.4591,51,1
+"64439",96809,"col","Wegener Halvo",-21.6,74.33,"Djaevlekloften, LK20, Clavering Ø",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.93,"102",257.035,"wuchiapingian",17103,5.3259,38.4591,51,1
+"64440",96810,"col","Wegener Halvo",-21.6,74.33,"Djaevlekloften, LK7, Clavering Ø",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.93,"102",257.035,"wuchiapingian",17103,5.3259,38.4591,51,1
 "64469",96855,"col","Zechstein",6.55,51.49,"Friedrich-Heinrich Colliery, Hoerstgen ventilation shaft 4, 280-282 m",NA,"",1,"Wuchiapingian","",259.9,254.17,33052,"gp_mid",26.84,24.53,"315",257.035,"wuchiapingian",17114,18.5943,26.351,51,1
 "64470",96856,"col","Zechstein",6.55,51.49,"Friedrich-Heinrich Colliery, Hoerstgen ventilation shaft 4, 280-285 m",NA,"",12,"Wuchiapingian","",259.9,254.17,33052,"gp_mid",26.84,24.53,"315",257.035,"wuchiapingian",17114,18.5943,26.351,51,1
 "64477",96863,"col","Longtan",113.14,27.7,"Shitangpu, Lukou Town, Zhuzhou City",NA,"",13,"Wuchiapingian","",259.9,254.17,33067,"gp_mid",111.03,-14.06,"611",257.035,"wuchiapingian",17119,129.5532,9.9281,51,1
+"64547",97013,"col","Wegener Halvo",-21.58,74.38,"Dolomitdal, Clavering Ø",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.98,"102",257.035,"wuchiapingian",15367,5.3259,38.4591,51,1
+"64548",97014,"col","Wegener Halvo",-21.58,74.38,"Dolomitdal, LK37, Clavering Ø",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.65,40.98,"102",257.035,"wuchiapingian",15367,5.3259,38.4591,51,1
 "64552",97018,"col","Longtan",119.75,31,"Donggangjie, Changxing County",NA,"",1,"Wuchiapingian","",259.9,254.17,31822,"gp_mid",115.41,-9,"611",257.035,"wuchiapingian",17143,135.6608,13.633,51,1
 "64644",97112,"col","Longtan",115.77,28.2,"Dongshengling Kuangqu, Fengcheng County",NA,"",1,"Wuchiapingian","",259.9,254.17,31822,"gp_mid",113.13,-12.84,"611",257.035,"wuchiapingian",17161,132.878,10.5262,51,1
 "64645",97113,"col","Loping",115.77,28.2,"Dongshengling, Fengcheng County",NA,"",11,"Wuchiapingian","",259.9,254.17,31822,"gp_mid",113.13,-12.84,"611",257.035,"wuchiapingian",17161,132.878,10.5262,51,1
 "64646",97114,"col","Loping",115.77,28.2,"Dongshengling, Laoshan Mb, Fengcheng County",NA,"",13,"Wuchiapingian","",259.9,254.17,31822,"gp_mid",113.13,-12.84,"611",257.035,"wuchiapingian",17161,132.878,10.5262,51,1
+"64702",97204,"col","Karita",132.63,34.61,"Omata, Locality 6, Yachiyo-Town",NA,"",12,"Wuchiapingian","",259.9,254.17,33149,"gp_mid",126.05,1.78,"610",257.035,"wuchiapingian",17166,149.5573,19.8995,51,1
 "64743",97212,"col","Park City",-111.83,40.78,"Dry Creek Canyon, Wasatch Mountains",NA,"",1,"Wuchiapingian","",259.9,254.17,22655,"gp_mid",-31.42,23.21,"101",257.035,"wuchiapingian",17170,-43.6459,16.2931,51,1
 "64760",97229,"col","Julfa",45.53,38.97,"Dorasham 2, Dzhulfian Stage",NA,"",35,"Wuchiapingian","",259.9,254.17,27321,"gp_mid",55.68,3.45,"512",257.035,"wuchiapingian",8071,48.0231,-8.0339,51,1
 "64788",97261,"col","Douling",112.5,26.55,"Douling, Changning (Douling Fm, Upper Mb)",NA,"",22,"Wuchiapingian","",259.9,254.17,33175,"gp_mid",110.83,-15.33,"611",257.035,"wuchiapingian",17185,129.5532,9.9281,51,1
@@ -766,6 +786,7 @@
 "67972",101459,"col","Loping",114.25,27.51,"Dabeitou, Loping Fm, Anfu County",NA,"",1,"Wuchiapingian","",259.9,254.17,34593,"gp_mid",112.05,-13.93,"611",257.035,"wuchiapingian",18349,129.5532,9.9281,51,1
 "67974",101461,"col","Longtan",119.7,31.08,"Dameishan Section, Longtan Fm, Changxing County",NA,"",1,"Wuchiapingian","",259.9,254.17,34593,"gp_mid",115.34,-8.94,"611",257.035,"wuchiapingian",18350,135.6608,13.633,51,1
 "68013",101540,"col","Gilgurry Mudstone",152.32,-28.32,"UQ L3318, Crooked Creek",NA,"",1,"Wuchiapingian","",259.9,254.17,33431,"gp_mid",145.44,-73.92,"801",257.035,"wuchiapingian",18376,146.9023,-57.3085,51,1
+"68038",101573,"col","Blenheim",148.18,-22.11,"UQ L3135, Little Charwell Creek",NA,"",5,"Wuchiapingian","",259.9,254.17,27376,"gp_mid",135.81,-67.38,"801",257.035,"wuchiapingian",13790,141.8967,-51.9984,51,1
 "68054",101589,"col","Condamine",151.9,-28,"UQ L3525, Parish Wildash, Condamine Block",NA,"",3,"Wuchiapingian","",259.9,254.17,33432,"gp_mid",144.15,-73.59,"801",257.035,"wuchiapingian",14465,146.9023,-57.3085,51,1
 "68061",101596,"col","Douling",112.5,26.39,"Yanhu Section, Changning County",NA,"",3,"Wuchiapingian","",259.9,254.17,18305,"gp_mid",110.88,-15.48,"611",257.035,"wuchiapingian",18411,129.5532,9.9281,51,1
 "68088",101623,"col","Loping",114.45,27.91,"Lucun Section, Bed 1, Yichun County",NA,"",4,"Wuchiapingian","",259.9,254.17,34603,"gp_mid",112.09,-13.49,"611",257.035,"wuchiapingian",18427,132.878,10.5262,51,1
@@ -810,6 +831,13 @@
 "68754",102516,"col","Lyudyanza",132.86,42.79,"Nakhodka Quarry, Collection 169, Primorye",NA,"",5,"Wuchiapingian","",259.9,254.17,9785,"gp_mid",141.11,20.59,"628",257.035,"wuchiapingian",10281,145.9306,38.2144,51,1
 "68756",102518,"col","Lyudyanza",132.86,42.79,"Nakhodka Quarry, Collection 171, Primorye",NA,"",1,"Wuchiapingian","",259.9,254.17,9785,"gp_mid",141.11,20.59,"628",257.035,"wuchiapingian",10281,145.9306,38.2144,51,1
 "68760",102522,"col","Lyudyanza",133.01,42.82,"Sestra Mountain, Collection 150, Partizanskaya River, Primorye",NA,"",10,"Wuchiapingian","",259.9,254.17,9785,"gp_mid",141.23,20.57,"628",257.035,"wuchiapingian",18750,145.9306,38.2144,51,1
+"69079",103023,"col","Blenheim",148.49,-21.45,"GSQ D227, Elphinstone-Homevale Road",NA,"",3,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",136.8,-66.77,"801",257.035,"wuchiapingian",18855,141.8967,-51.9984,51,1
+"69081",103025,"col","Blenheim",148.51,-21.43,"GSQ D229, Eel Creek, Homevale Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",136.85,-66.76,"801",257.035,"wuchiapingian",18857,141.8967,-51.9984,51,1
+"69086",103030,"col","Blenheim",148.28,-22.95,"GSQ D238, Isabella Creek, Woollamba Station",NA,"",2,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",135.71,-68.23,"801",257.035,"wuchiapingian",18861,141.8967,-51.9984,51,1
+"69087",103031,"col","",149.5,-23.5,"GSQ D239, Bundaleer Station",NA,"",2,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",138.55,-68.93,"801",257.035,"wuchiapingian",18862,141.8967,-51.9984,51,1
+"69088",103032,"col","Blenheim",148.5,-21.45,"GSQ D24, Ridge Between Oaky and Cooper Creeks, Homevale",NA,"",2,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",136.81,-66.78,"801",257.035,"wuchiapingian",18863,141.8967,-51.9984,51,1
+"69090",103034,"col","Blenheim",148.5,-21.45,"GSQ D25, Ridge Between Oaky and Cooper Creeks, Homevale",NA,"",2,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",136.81,-66.78,"801",257.035,"wuchiapingian",18863,141.8967,-51.9984,51,1
+"69091",103035,"col","Blenheim",148.4,-21.55,"GSQ D26, Homevale-Elphinstone Road",NA,"",2,"Wuchiapingian","",259.9,254.17,39464,"gp_mid",136.54,-66.86,"801",257.035,"wuchiapingian",14248,141.8967,-51.9984,51,1
 "69092",103036,"col","Blenheim",148.21,-21.06,"GSQ D27, Blenheim Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",136.28,-66.35,"801",257.035,"wuchiapingian",14250,142.3554,-49.5153,51,1
 "69262",103242,"col","",98.5,37,"Baluogenguole River 695III-31, Zhongwunong mountain, northern Qaidam Basin",NA,"",1,"Wuchiapingian","",259.9,254.17,33552,"gp_mid",104.13,20.61,"602",257.035,"wuchiapingian",18938,104.222,39.6782,51,1
 "69347",103393,"col","Condamine",152.18,-28.34,"GSQ L2590, Lucky Valley Creek, Elbow Valley",NA,"",7,"Wuchiapingian","",259.9,254.17,34894,"gp_mid",144.99,-73.94,"801",257.035,"wuchiapingian",18968,146.9023,-57.3085,51,1
@@ -827,6 +855,9 @@
 "69530",103612,"col","",97.4,37.4,"Xiaodawatu River section 695III-42, Zhongwunong, Northern Qaidam Basin",NA,"",1,"Wuchiapingian","",259.9,254.17,33552,"gp_mid",103.79,21.52,"602",257.035,"wuchiapingian",19061,104.222,39.6782,51,1
 "69722",103859,"col","Condamine",151.9,-28,"UQ L1250, Condamine Block",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",144.15,-73.59,"801",257.035,"wuchiapingian",14465,146.9023,-57.3085,51,1
 "69726",103863,"col","Condamine",151.9,-28,"UQ L1307, Condamine Block",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",144.15,-73.59,"801",257.035,"wuchiapingian",14465,146.9023,-57.3085,51,1
+"69761",103903,"col","Blenheim",148.51,-21.43,"UQ L1643, Eel Creek, Nebo",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",136.85,-66.76,"801",257.035,"wuchiapingian",18857,141.8967,-51.9984,51,1
+"69866",104025,"col","Blenheim",148.28,-22.95,"UQ L3136, Wollombi Station",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",135.72,-68.23,"801",257.035,"wuchiapingian",18861,141.8967,-51.9984,51,1
+"69867",104026,"col","",149.05,-23.05,"UQ L3137, Bundaleer Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,27370,"gp_mid",137.57,-68.43,"801",257.035,"wuchiapingian",19257,141.8967,-51.9984,51,1
 "69916",104754,"col","Poldarsa",45.62,60.61,"Isady Locality (Mutovino, PIN collection 3840)",NA,"",131,"Wuchiapingian","",259.9,254.17,35056,"gp_mid",47.22,40.26,"302",257.035,"wuchiapingian",19276,30.2026,46.0942,51,1
 "69924",104762,"col","Blenheim",148.13,-20.94,"UQ L4643, Bowen River, Exmoor Homestead",NA,"",17,"Wuchiapingian","",259.9,254.17,35115,"gp_mid",136.13,-66.22,"801",257.035,"wuchiapingian",13779,142.3554,-49.5153,51,1
 "69925",104763,"col","Blenheim",148.13,-20.94,"UQ L4645, Bowen River, Exmoor Homestead",NA,"",13,"Wuchiapingian","",259.9,254.17,35115,"gp_mid",136.12,-66.22,"801",257.035,"wuchiapingian",13779,142.3554,-49.5153,51,1
@@ -880,16 +911,99 @@
 "71840",107299,"col","Heshan",108.86,23.77,"Matan section Act438, Heshan",NA,"",1,"Wuchiapingian","",259.9,254.17,29592,"gp_mid",108.33,-18.92,"611",257.035,"wuchiapingian",7627,126.5996,6.9242,51,1
 "71841",107300,"col","Heshan",108.86,23.77,"Matan section Act444, south bank, Heshan",NA,"",1,"Wuchiapingian","",259.9,254.17,29592,"gp_mid",108.33,-18.92,"611",257.035,"wuchiapingian",7627,126.5996,6.9242,51,1
 "71842",107301,"col","Heshan",108.86,23.77,"Matan section Act430, south bank, Heshan",NA,"",1,"Wuchiapingian","",259.9,254.17,29592,"gp_mid",108.33,-18.92,"611",257.035,"wuchiapingian",7627,126.5996,6.9242,51,1
+"71886",107356,"col","Macmillan",148.5,-23.25,"UDC1, Lyra Park",NA,"",8,"Wuchiapingian","",259.9,254.17,29742,"gp_mid",136.13,-68.56,"801",257.035,"wuchiapingian",20001,141.8967,-51.9984,51,1
+"71887",107357,"col","Macmillan",148.6,-23.03,"UDC2, Cattle Creek, Mount Stuart Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,29742,"gp_mid",136.47,-68.35,"801",257.035,"wuchiapingian",20002,141.8967,-51.9984,51,1
 "71888",107358,"col","Productus Shale",79.86,30.96,"Kiunglung Camp, SW of Niti Pass",NA,"",16,"Wuchiapingian","",259.9,254.17,27602,"gp_mid",53.37,-45.12,"501",257.035,"wuchiapingian",20003,74.0024,-31.8892,51,1
 "71889",107359,"col","Productus Shale",80.71,30.41,"Mankshang Pass, Kuti Yangti Valley, Byans",NA,"",1,"Wuchiapingian","",259.9,254.17,27602,"gp_mid",53.1,-46.02,"501",257.035,"wuchiapingian",20004,76.974,-33.9693,51,1
+"71894",107364,"col","Wegener Halvo",-20.74,74.15,"Fiskeelv, Martiniakalk, Southern Clavering Ø",NA,"",13,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.01,40.8,"102",257.035,"wuchiapingian",20009,5.3259,38.4591,51,1
+"71895",107365,"col","Wegener Halvo",-20.66,74.28,"Forposten, Avantpostbjerg, Clavering Ø",NA,"",14,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23,40.93,"102",257.035,"wuchiapingian",20010,5.3259,38.4591,51,1
+"71896",107366,"col","Wegener Halvo",-20.75,74.15,"Fossilelv, Southern Clavering Ø",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23,40.8,"102",257.035,"wuchiapingian",17099,5.3259,38.4591,51,1
 "71897",107367,"col","Wegener Halvo",-20.07,74.35,"Groensedalen, LK8, Wollaston Foreland",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.19,41.03,"102",257.035,"wuchiapingian",20011,6.4744,38.8293,51,1
 "71898",107368,"col","Wegener Halvo",-20.07,74.35,"Groensedalen, Wollaston Foreland",NA,"",6,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.19,41.03,"102",257.035,"wuchiapingian",20011,6.4744,38.8293,51,1
 "71899",107369,"col","Wegener Halvo",-22.6,71.68,"Kap Brown, LK6, Wegener Halvo",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.91,38.27,"102",257.035,"wuchiapingian",20012,6.4335,36.1194,51,1
+"71900",107370,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 100",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71901",107371,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 12",NA,"",6,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71902",107372,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 138",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71903",107373,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 15",NA,"",8,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71904",107374,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 154",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71905",107375,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 166",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71906",107376,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 21",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71907",107377,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 27",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71908",107378,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 29",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71909",107379,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 3",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71910",107380,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 37",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71911",107381,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 4",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71912",107382,"col","Wegener Halvo",-21.58,74.03,"Kap Stosch Block 5",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.74,40.63,"102",257.035,"wuchiapingian",20014,5.3259,38.4591,51,1
+"71913",107383,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 74",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71914",107384,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 8",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71915",107385,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 92",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71916",107386,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 93",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71917",107387,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 96",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71918",107388,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 99",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71931",107406,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block LK518",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71932",107407,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block LK551",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71933",107408,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block LK564",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71934",107409,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block LK582",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71935",107410,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Na",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71936",107411,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block N-Bs",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71937",107412,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Nf",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71938",107413,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Ni",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71939",107414,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block No",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71940",107415,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Nr",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71941",107416,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Nu",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71958",107436,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Exotic Blocks",NA,"",6,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71959",107437,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch, ""Productus"" Beds",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"71960",107438,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK1, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71961",107439,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK10, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71962",107440,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK11, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71963",107441,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK12, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71964",107442,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK17, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71965",107443,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK18, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71966",107444,"col","Ravnefjeld",-21.7,74.06,"Kap Stosch, LK2, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71967",107445,"col","Wegener Halvo",-21.6,74.03,"Kap Stosch, LK273, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.73,40.63,"102",257.035,"wuchiapingian",20031,5.3259,38.4591,51,1
+"71968",107446,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK28, Hold With Hope Land",NA,"",13,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71969",107447,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK29, Hold With Hope Land",NA,"",8,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71970",107448,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK4, Hold With Hope Land",NA,"",5,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71971",107449,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK461, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71972",107450,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK49, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71973",107451,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK50, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71974",107452,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK6, Hold With Hope Land",NA,"",7,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71975",107453,"col","Wegener Halvo",-21.89,74.01,"Kap Stosch, LK631, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.63,40.6,"102",257.035,"wuchiapingian",20032,5.3259,38.4591,51,1
+"71976",107454,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK7, Hold With Hope Land",NA,"",6,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71977",107455,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, LK70, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71978",107456,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N18, River 8, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71979",107457,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N19, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71980",107458,"col","Wegener Halvo",-21.47,74.02,"Kap Stosch, N22, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.78,40.63,"102",257.035,"wuchiapingian",20034,5.3259,38.4591,51,1
+"71981",107459,"col","Wegener Halvo",-21.48,74.02,"Kap Stosch, N24, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.78,40.63,"102",257.035,"wuchiapingian",20035,5.3259,38.4591,51,1
+"71982",107460,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N30, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71983",107461,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N32, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71984",107462,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N33, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71985",107463,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N34, River 8, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71986",107464,"col","Wegener Halvo",-21.5,74.03,"Kap Stosch, N35, River 8, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.77,40.64,"102",257.035,"wuchiapingian",20033,5.3259,38.4591,51,1
+"71987",107465,"col","Wegener Halvo",-21.46,74.02,"Kap Stosch, N38, River 9, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.78,40.63,"102",257.035,"wuchiapingian",20036,5.3259,38.4591,51,1
+"71988",107466,"col","Wegener Halvo",-21.63,73.97,"Kap Stosch, N45, River 16, Hold With Hope Land",NA,"",5,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.73,40.58,"102",257.035,"wuchiapingian",20037,5.3259,38.4591,51,1
+"71989",107467,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N45a, Rivers 13-14, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71990",107468,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, N46, River 2, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71991",107469,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N47, Rivers 13-14, Hold With Hope Land",NA,"",5,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71992",107470,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N48, Rivers 13-14, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71993",107471,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, N49, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71994",107472,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, N50, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"71995",107473,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N51, Rivers 13-15, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71996",107474,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N53, Rivers 13-14, Hold With Hope Land",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71997",107475,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N54, Rivers 13-14, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71998",107476,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N55, Rivers 13-14, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"71999",107477,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, N56, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"72000",107478,"col","Wegener Halvo",-21.44,74,"Kap Stosch, N57, Rivers 13-14, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"72001",107479,"col","Wegener Halvo",-21.7,74.06,"Kap Stosch, N58, Hold With Hope Land",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"72002",107480,"col","Wegener Halvo",-21.46,74.02,"Kap Stosch, N65, River 9, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.78,40.63,"102",257.035,"wuchiapingian",20036,5.3259,38.4591,51,1
 "72033",107513,"col","Wegener Halvo",-22.37,71.61,"Kollen, Sailor's Collection, Nathorsts Fjord",NA,"",11,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.02,38.22,"102",257.035,"wuchiapingian",20050,6.4335,36.1194,51,1
 "72034",107514,"col","Wegener Halvo",-22.37,71.61,"Kollen, Save-Soderbergh collection, east side, Nathorsts Fjord",NA,"",9,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.02,38.22,"102",257.035,"wuchiapingian",20050,6.4335,36.1194,51,1
 "72035",107515,"col","Wegener Halvo",-22.37,71.61,"Kollen, Save-Soderbergh collection, north side, Nathorsts Fjord",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.02,38.22,"102",257.035,"wuchiapingian",20050,6.4335,36.1194,51,1
 "72036",107516,"col","Wegener Halvo",-20.1,74.39,"Kuppelpasset, Wollaston Foreland",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.16,41.06,"102",257.035,"wuchiapingian",20051,6.4744,38.8293,51,1
 "72037",107517,"col","Wegener Halvo",-22.05,73.55,"Ladderbjerg, Gauss Halvo",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.69,40.14,"102",257.035,"wuchiapingian",20052,6.4335,36.1194,51,1
+"72038",107518,"col","Wegener Halvo",-20.7,74.32,"Malmquists Plateau, Martiniakalk facies, Clavering Ø",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.97,40.97,"102",257.035,"wuchiapingian",20053,5.3259,38.4591,51,1
+"72039",107519,"col","Wegener Halvo",-20.7,74.32,"Malmquists Plateau, Productus limestone facies, Clavering Ø",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.97,40.97,"102",257.035,"wuchiapingian",20053,5.3259,38.4591,51,1
+"72040",107520,"col","Wegener Halvo",-20.7,74.32,"Malmquists Plateau, gray crinoidal limestone, Clavering Ø",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.97,40.97,"102",257.035,"wuchiapingian",20053,5.3259,38.4591,51,1
 "72041",107521,"col","Wegener Halvo",-22.7,73.32,"Margrethedal, Martiniakalk, Gauss Halvo",NA,"",14,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.51,39.88,"102",257.035,"wuchiapingian",20054,6.4335,36.1194,51,1
 "72042",107522,"col","Wegener Halvo",-22.64,71.68,"Nathorsts Fjord, SII-315, Wegener Halvo",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.9,38.26,"102",257.035,"wuchiapingian",20055,6.4335,36.1194,51,1
 "72043",107523,"col","Wegener Halvo",-22.64,71.68,"Nathorsts Fjord, SII-318, Wegener Halvo",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.9,38.26,"102",257.035,"wuchiapingian",20055,6.4335,36.1194,51,1
@@ -899,8 +1013,10 @@
 "72047",107527,"col","Wegener Halvo",-20.06,74.42,"Permdal, Red Series, Wollaston Foreland",NA,"",5,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.17,41.1,"102",257.035,"wuchiapingian",20056,6.4744,38.8293,51,1
 "72048",107528,"col","Wegener Halvo",-20.06,74.42,"Permdal, yellow blocks, Wollaston Foreland",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.17,41.1,"102",257.035,"wuchiapingian",20056,6.4744,38.8293,51,1
 "72049",107529,"col","Wegener Halvo",-19.8,74.4,"Permpas, Wollaston Foreland",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.27,41.09,"102",257.035,"wuchiapingian",20057,6.4744,38.8293,51,1
+"72050",107530,"col","Wegener Halvo",-20.79,74.21,"Productuselv, Clavering Ø",NA,"",22,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.97,40.86,"102",257.035,"wuchiapingian",20058,5.3259,38.4591,51,1
 "72051",107531,"col","Wegener Halvo",-20.27,74.41,"Sandstensdal, Wollaston Foreland",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.1,41.08,"102",257.035,"wuchiapingian",20059,6.4744,38.8293,51,1
 "72052",107532,"col","Wegener Halvo",-20.27,74.41,"Sandstensdal, Wollaston Foreland",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.1,41.08,"102",257.035,"wuchiapingian",20059,6.4744,38.8293,51,1
+"72053",107533,"col","Wegener Halvo",-24.55,71.43,"Schucherts Flod, Productus ledge, Scoresby Land",NA,"",19,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.19,37.92,"102",257.035,"wuchiapingian",20060,5.1161,35.7542,51,1
 "72054",107534,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, 7a, Northern Scoresby Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
 "72055",107535,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, B(10), Northern Scoresby Land",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
 "72056",107536,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, B(8), Northern Scoresby Land",NA,"",12,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
@@ -915,6 +1031,12 @@
 "72065",107545,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, Section 1, Bed 8, Northern Scoresby Land",NA,"",11,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
 "72066",107546,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, Section 4, Bed 8, Northern Scoresby Land",NA,"",10,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
 "72067",107547,"col","Wegener Halvo",-23.9,72.1,"Sieburgdal, Section 5, Bed 8a, Northern Scoresby Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.32,38.62,"102",257.035,"wuchiapingian",20061,6.4335,36.1194,51,1
+"72068",107548,"col","Wegener Halvo",-20.64,74.14,"Sneugleelv, Martiniakalk, Southern Clavering Ø",NA,"",2,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.04,40.8,"102",257.035,"wuchiapingian",20062,5.3259,38.4591,51,1
+"72069",107549,"col","Wegener Halvo",-20.64,74.14,"Sneugleelv, bryozoan limestone, Southern Clavering Ø",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.04,40.8,"102",257.035,"wuchiapingian",20062,5.3259,38.4591,51,1
+"72070",107550,"col","Wegener Halvo",-21.17,73.97,"Stilles Ø, Hold With Hope Land",NA,"",4,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.9,40.59,"102",257.035,"wuchiapingian",20063,5.3259,38.4591,51,1
+"72071",107551,"col","Wegener Halvo",-20.74,74.15,"Fiskeelv, Productus limestone, Southern Clavering Ø",NA,"",3,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",23.01,40.8,"102",257.035,"wuchiapingian",20009,5.3259,38.4591,51,1
+"72079",107559,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block Nd",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"72080",107560,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 6",NA,"",1,"Wuchiapingian","",259.9,254.17,27481,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
 "72166",107653,"col","Ford",-1.44,54.92,"Hylton Castle Road Cutting 1 (Biolithite), Rotherfield Road, Sunderland",NA,"",1,"Wuchiapingian","",259.9,254.17,27449,"gp_mid",21.08,27.31,"315",257.035,"wuchiapingian",20119,12.925,26.1672,51,1
 "72171",107658,"col","Zechstein",13.3,54.36,"Samtens 101 borehole, 1736.86-1739.35 m, Rügen Island",NA,"",1,"Wuchiapingian","",259.9,254.17,35797,"gp_mid",30.67,28.12,"315",257.035,"wuchiapingian",20123,21.0445,30.9677,51,1
 "72172",107659,"col","Zechstein",13.3,54.36,"Samtens 101 borehole, 1744.05-1747.7 m, Rügen Island",NA,"",1,"Wuchiapingian","",259.9,254.17,35797,"gp_mid",30.67,28.12,"315",257.035,"wuchiapingian",20123,21.0445,30.9677,51,1
@@ -927,6 +1049,8 @@
 "72247",107747,"col","Wujiaping",109.73,30.58,"Jianyangba coal mine, bed 6, Jianshi County",NA,"",1,"Wuchiapingian","",259.9,254.17,35825,"gp_mid",107.26,-12.14,"611",257.035,"wuchiapingian",20156,125.8401,11.8677,51,1
 "72248",107748,"col","Wujiaping",109.73,30.58,"Jianyangba coal mine, bed 3, Jianshi County",NA,"",2,"Wuchiapingian","",259.9,254.17,35825,"gp_mid",107.26,-12.14,"611",257.035,"wuchiapingian",20156,125.8401,11.8677,51,1
 "72249",107749,"col","Wujiaping",109.73,30.58,"Jianyangba coal mine, bed 2, Jianshi County",NA,"",3,"Wuchiapingian","",259.9,254.17,35825,"gp_mid",107.26,-12.14,"611",257.035,"wuchiapingian",20156,125.8401,11.8677,51,1
+"72272",107777,"col","",-21,74.15,"Clavering Ø, south coast",NA,"",2,"Wuchiapingian","",259.9,254.17,35835,"gp_mid",22.91,40.78,"102",257.035,"wuchiapingian",20160,5.3259,38.4591,51,1
+"72273",107778,"col","",-21.7,74.5,"Hold With Hope Land, north coast",NA,"",2,"Wuchiapingian","",259.9,254.17,35835,"gp_mid",22.58,41.09,"102",257.035,"wuchiapingian",20161,5.3259,38.4591,51,1
 "72299",107809,"col","Dalong",111.65,27.62,"Guanshan, Dalong Fm, Lower Mb, Lianyuan County",NA,"",2,"Wuchiapingian","",259.9,254.17,27724,"gp_mid",109.76,-14.53,"611",257.035,"wuchiapingian",18547,129.5532,9.9281,51,1
 "72304",107814,"col","Dalong",112.94,26.23,"Huangnijiang, Dalong Formation, Lower Member, Leiyang County",NA,"",6,"Wuchiapingian","",259.9,254.17,27724,"gp_mid",111.32,-15.51,"611",257.035,"wuchiapingian",20180,129.9816,7.4642,51,1
 "72306",107816,"col","Douling",111.32,27.08,"Mayuanli, Jiugongqiao, Shaoyang County",NA,"",13,"Wuchiapingian","",259.9,254.17,27724,"gp_mid",109.62,-15.13,"611",257.035,"wuchiapingian",20182,129.5532,9.9281,51,1
@@ -954,6 +1078,11 @@
 "72650",108190,"col","Longtan",106.1,25.9,"Yemaojing Section, Gouchang, Ziyun County",NA,"",1,"Wuchiapingian","",259.9,254.17,32416,"gp_mid",105.23,-17.47,"611",257.035,"wuchiapingian",20341,123.2107,6.4532,51,1
 "72651",108191,"col","Longtan",107.5,26.25,"Zhifang Section, southern Duyun County",NA,"",2,"Wuchiapingian","",259.9,254.17,32416,"gp_mid",106.42,-16.83,"611",257.035,"wuchiapingian",20315,126.2225,9.3962,51,1
 "72652",108192,"col","Longtan",105.1,26.03,"Zhongying, Longtan Fm, Qinglong County",NA,"",12,"Wuchiapingian","",259.9,254.17,32416,"gp_mid",104.28,-17.54,"611",257.035,"wuchiapingian",17376,123.2107,6.4532,51,1
+"72869",108481,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5 (Flugel coll)",NA,"",1,"Wuchiapingian","",259.9,254.17,33496,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"72870",108482,"col","Wegener Halvo",-21.84,74.02,"Cape Stosch T67-88, River 1",NA,"",18,"Wuchiapingian","",259.9,254.17,33497,"gp_mid",22.65,40.61,"102",257.035,"wuchiapingian",20408,5.3259,38.4591,51,1
+"72871",108483,"col","Wegener Halvo",-21.8,74.04,"Cape Stosch T67-83, River 2",NA,"",5,"Wuchiapingian","",259.9,254.17,33497,"gp_mid",22.66,40.63,"102",257.035,"wuchiapingian",20409,5.3259,38.4591,51,1
+"72872",108484,"col","Wegener Halvo",-21.42,74.01,"Cape Stosch T67-101, Locality 1325, River 13 east",NA,"",3,"Wuchiapingian","",259.9,254.17,33497,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20410,5.3259,38.4591,51,1
+"72873",108485,"col","Ravnefjeld",-21.4,74,"Cape Stosch T67-104, Locality 1375, River 14 west",NA,"",1,"Wuchiapingian","",259.9,254.17,33497,"gp_mid",22.81,40.61,"102",257.035,"wuchiapingian",20411,5.3259,38.4591,51,1
 "72912",108527,"col","Chhidru",72.1,32.41,"Wargal, lower Chhidru Formation, Salt Range",NA,"",1,"Wuchiapingian","",259.9,254.17,33501,"gp_mid",51.8,-38.46,"501",257.035,"wuchiapingian",15496,70.7581,-25.6235,51,1
 "73129",108743,"col","Phosphoria",-111.14,42.66,"East Sage Creek",NA,"",7,"Wuchiapingian","",259.9,254.17,33506,"gp_mid",-29.98,24.66,"101",257.035,"wuchiapingian",20455,-42.4812,18.5326,51,1
 "73130",108744,"col","Phosphoria",-111.15,42.64,"South Sage Creek A",NA,"",6,"Wuchiapingian","",259.9,254.17,33506,"gp_mid",-30.01,24.64,"101",257.035,"wuchiapingian",20456,-42.4812,18.5326,51,1
@@ -1316,6 +1445,27 @@
 "78607",115251,"col","",102.62,3.54,"Jengka Pass M40B",NA,"",22,"Wuchiapingian","",259.9,254.17,13975,"gp_mid",104.86,-27.29,"619",257.035,"wuchiapingian",8035,116.1883,-19.4295,51,1
 "78977",115893,"col","Ravnefjeld",-22.58,73.46,"Gastisdal, Gauss Halvo",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.52,40.02,"102",257.035,"wuchiapingian",22109,6.4335,36.1194,51,1
 "78978",115894,"col","Ravnefjeld",-22.2,73.4,"Giesecke Bjerge, Gauss Halvo",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.67,39.98,"102",257.035,"wuchiapingian",22110,6.4335,36.1194,51,1
+"78979",115895,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 10",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78981",115897,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 137",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78982",115898,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 179",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78983",115899,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 180",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78984",115900,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 181",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78985",115901,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 185",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78986",115902,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 19",NA,"",2,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78987",115903,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 285",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78988",115904,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 304",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78989",115905,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 42",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78990",115906,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 43",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78991",115907,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 45",NA,"",2,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78992",115908,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 46",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78993",115909,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 60",NA,"",2,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78994",115910,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 65",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"78995",115911,"col","Wegener Halvo",-20.75,74.17,"Karolbjerg, Clavering O",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",23,40.82,"102",257.035,"wuchiapingian",22112,5.3259,38.4591,51,1
+"78996",115912,"col","Wegener Halvo",-20.75,74.16,"Locality 2334, Clavering O",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",23,40.81,"102",257.035,"wuchiapingian",22113,5.3259,38.4591,51,1
+"78998",115914,"col","Wegener Halvo",-20.72,74.2,"Zachengrat, Clavering O",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",23,40.85,"102",257.035,"wuchiapingian",22115,5.3259,38.4591,51,1
+"78999",115915,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 7",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"79000",115916,"col","Ravnefjeld",-20.74,74.15,"Fiskeelv Ma52, Southern Clavering Ø",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",23.01,40.8,"102",257.035,"wuchiapingian",20009,5.3259,38.4591,51,1
+"79001",115917,"col","Ravnefjeld",-21.7,74.06,"Kap Stosch, LK14, Hold With Hope Land",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
 "79063",116015,"col","Nayixiong",91.05,33.98,"Gongri, Bed 6, Mount Geladundong Area, Anduo County, Zizhi District",NA,"",6,"Wuchiapingian","",259.9,254.17,29961,"gp_mid",74.37,-12.6,"612",257.035,"wuchiapingian",15336,92.0445,1.0142,51,1
 "79064",116016,"col","Nayixiong",91.05,33.98,"Gongri, Bed 18, Mount Geladundong Area, Anduo County, Zizhi District",NA,"",4,"Wuchiapingian","",259.9,254.17,29961,"gp_mid",74.37,-12.6,"612",257.035,"wuchiapingian",15336,92.0445,1.0142,51,1
 "79119",116166,"col","Ford",-1.57,54.22,"Nosterfield near Tanfield",NA,"",1,"Wuchiapingian","",259.9,254.17,37447,"gp_mid",21.06,26.6,"315",257.035,"wuchiapingian",22164,12.925,26.1672,51,1
@@ -1324,7 +1474,16 @@
 "79122",116169,"col","Ford",-1.39,54.88,"Tunstal Hill, Durham",NA,"",1,"Wuchiapingian","",259.9,254.17,37448,"gp_mid",21.11,27.27,"315",257.035,"wuchiapingian",2380,12.925,26.1672,51,1
 "79123",116170,"col","Ford",-1.4,53.79,"Garforth Cliff quarry, near Leeds",NA,"",1,"Wuchiapingian","",259.9,254.17,37450,"gp_mid",21.22,26.19,"315",257.035,"wuchiapingian",22166,12.925,26.1672,51,1
 "79124",116171,"col","Ford",-1.4,53.79,"Selby",NA,"",1,"Wuchiapingian","",259.9,254.17,37450,"gp_mid",21.22,26.19,"315",257.035,"wuchiapingian",22166,12.925,26.1672,51,1
+"79228",116372,"col","Wegener Halvo",-21.7,74.06,"GGU 29652, Kap Stosch",NA,"",2,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79229",116373,"col","Ravnefjeld",-21.7,74.06,"GGU 9346, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79230",116374,"col","Ravnefjeld",-21.7,74.06,"GGU 9347, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79231",116375,"col","Ravnefjeld",-21.7,74.06,"GGU 9348, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79232",116376,"col","Ravnefjeld",-21.7,74.06,"GGU 9349, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79233",116377,"col","Ravnefjeld",-21.7,74.06,"GGU 9354, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79234",116378,"col","Ravnefjeld",-21.7,74.06,"GGU 9355, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
+"79235",116379,"col","Ravnefjeld",-21.7,74.06,"GGU 9372, Kap Stosch",NA,"",1,"Wuchiapingian","",259.9,254.17,33645,"gp_mid",22.69,40.65,"102",257.035,"wuchiapingian",20030,5.3259,38.4591,51,1
 "79259",116443,"col","",105.86,23.77,"Heshan Section, Upper Permian",NA,"",1,"Wuchiapingian","",259.9,254.17,33647,"gp_mid",105.51,-19.59,"611",257.035,"wuchiapingian",22217,123.2107,6.4532,51,1
+"79476",116742,"col","Blenheim",148.5,-21.46,"BMR M418, Mackay Area",NA,"",1,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",136.81,-66.78,"801",257.035,"wuchiapingian",22287,141.8967,-51.9984,51,1
 "79482",116748,"col","Blenheim",148.21,-21.05,"BMR MC423a, Blenheim Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",136.28,-66.34,"801",257.035,"wuchiapingian",22292,142.3554,-49.5153,51,1
 "79483",116749,"col","Blenheim",148.21,-21.05,"BMR MC423b, Blenheim Homestead",NA,"",1,"Wuchiapingian","",259.9,254.17,37509,"gp_mid",136.28,-66.34,"801",257.035,"wuchiapingian",22292,142.3554,-49.5153,51,1
 "79487",116754,"col","Julfa",45.53,38.98,"Dorasham, Araxilevis Beds, Dzhulfa Gorge, Arax River",NA,"",14,"Wuchiapingian","",259.9,254.17,27321,"gp_mid",55.67,3.46,"512",257.035,"wuchiapingian",21022,48.0231,-8.0339,51,1
@@ -1630,7 +1789,6 @@
 "83134",120878,"col","Mujiucuo",89.99,30.74,"Xinji section, Mujiucuo Fm, Xainza Area",NA,"",3,"Wuchiapingian","",259.9,254.17,25510,"gp_mid",70.04,-41.66,"613",257.035,"wuchiapingian",23175,84.9074,-35.302,51,1
 "83145",120895,"col","Degerböls",-85.68,81.06,"GSC 47846, van Hauen Pass, Ellesmere Island",NA,"",5,"Wuchiapingian","",259.9,254.17,31808,"gp_mid",9.72,51.1,"106",257.035,"wuchiapingian",23183,-8.3546,46.0161,51,1
 "83168",120927,"col","Zechstein",18.4,54.76,"Puck Bay",NA,"",4,"Wuchiapingian","",259.9,254.17,38620,"gp_mid",33.83,29.24,"302",257.035,"wuchiapingian",23196,23.012,32.3168,51,1
-"83175",120942,"col","Aring",102.29,5,"FSKN-73, Sungai Relai",NA,"",8,"Wuchiapingian","",259.9,254.17,33761,"gp_mid",103.19,-27.07,"619",257.035,"wuchiapingian",23202,121.8168,-16.3778,51,1
 "83227",121006,"col","Shaiwa",106.15,25.61,"Shaiwa Section (Lower), Ziyun County",NA,"",21,"Wuchiapingian","",259.9,254.17,27812,"gp_mid",105.34,-17.74,"611",257.035,"wuchiapingian",19427,123.2107,6.4532,51,1
 "83270",121055,"col","Heshan",108.87,23.82,"Heshan, Laibin County",NA,"",1,"Wuchiapingian","",259.9,254.17,35243,"gp_mid",108.33,-18.87,"611",257.035,"wuchiapingian",7626,126.5996,6.9242,51,1
 "83271",121056,"col","Longtan",113.57,25,"Huaping, Longtan Fm, Qujiang County",NA,"",1,"Wuchiapingian","",259.9,254.17,35243,"gp_mid",112.27,-16.51,"611",257.035,"wuchiapingian",23222,129.9816,7.4642,51,1
@@ -1689,6 +1847,16 @@
 "83860",121700,"col","Longtan",105.28,26.14,"Heilajia Section HP37-9, Langdai County",NA,"",1,"Wuchiapingian","",259.9,254.17,33781,"gp_mid",104.42,-17.39,"611",257.035,"wuchiapingian",22931,123.2107,6.4532,51,1
 "83891",121731,"col","Longtan",112.43,25.58,"Yuanjia, Jiahe Region (Longtan Fm)",NA,"",42,"Wuchiapingian","",259.9,254.17,33778,"gp_mid",111.06,-16.28,"611",257.035,"wuchiapingian",23469,129.9816,7.4642,51,1
 "83895",121735,"col","Tramway",173.81,-40.9,"GS7636, Otarawao Bay, west D'Urville Island (P26/f6004)",NA,"",1,"Wuchiapingian","",259.9,254.17,23013,"gp_mid",-154.05,-87.8,"806",257.035,"wuchiapingian",23472,156.1783,-76.2364,51,1
+"84022",121972,"col","Ravnefjeld",-21.42,73.99,"Spath Plateau, River 14",NA,"",5,"Wuchiapingian","",259.9,254.17,38798,"gp_mid",22.81,40.6,"102",257.035,"wuchiapingian",23482,5.3259,38.4591,51,1
+"84023",121973,"col","Ravnefjeld",-21.42,73.99,"Spath Plateau, between River 14 and 16",NA,"",4,"Wuchiapingian","",259.9,254.17,38798,"gp_mid",22.81,40.6,"102",257.035,"wuchiapingian",23482,5.3259,38.4591,51,1
+"84024",121974,"col","Ravnefjeld",-21.55,74.02,"Spath Plateau, between River 8 and 9",NA,"",3,"Wuchiapingian","",259.9,254.17,38798,"gp_mid",22.75,40.63,"102",257.035,"wuchiapingian",23483,5.3259,38.4591,51,1
+"84025",121975,"col","Ravnefjeld",-21.47,74,"Spath Plateau, between River 13 and 14",NA,"",1,"Wuchiapingian","",259.9,254.17,38798,"gp_mid",22.79,40.61,"102",257.035,"wuchiapingian",23484,5.3259,38.4591,51,1
+"84026",121976,"col","Wegener Halvo",-20.65,74.14,"Hirds Fox Farm, Clavering Insel",NA,"",1,"Wuchiapingian","",259.9,254.17,38798,"gp_mid",23.04,40.79,"102",257.035,"wuchiapingian",23485,5.3259,38.4591,51,1
+"84126",122142,"col","",-21.84,74.02,"Cape Stosch, Section F, 120 m",NA,"",5,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",22.65,40.61,"102",257.035,"wuchiapingian",20408,5.3259,38.4591,51,1
+"84128",122144,"col","Wegener Halvo",-21.84,74.02,"Cape Stosch, loose block of Brachiopod limestone",NA,"",1,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",22.65,40.61,"102",257.035,"wuchiapingian",20408,5.3259,38.4591,51,1
+"84129",122145,"col","Wegener Halvo",-20.65,74.14,"Hirds Fox Farm, altitude 130 m",NA,"",1,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",23.04,40.79,"102",257.035,"wuchiapingian",23485,5.3259,38.4591,51,1
+"84130",122146,"col","Wegener Halvo",-20.65,74.14,"Hirds Fox Farm, Martinia limestone",NA,"",2,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",23.04,40.79,"102",257.035,"wuchiapingian",23485,5.3259,38.4591,51,1
+"84131",122147,"col","",-21.84,74.02,"Cape Stosch, Section F, 190 m",NA,"",1,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",22.65,40.61,"102",257.035,"wuchiapingian",20408,5.3259,38.4591,51,1
 "84132",122148,"col","Ravnefjeld",-22.7,73.32,"Margrethe Valley",NA,"",1,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",22.5,39.88,"102",257.035,"wuchiapingian",20054,6.4335,36.1194,51,1
 "84133",122149,"col","",-23.5,72.4,"Mount Konungaborgen, Traill Island, altitude 680 m",NA,"",1,"Wuchiapingian","",259.9,254.17,38889,"gp_mid",22.41,38.93,"102",257.035,"wuchiapingian",23521,6.4335,36.1194,51,1
 "84312",122376,"col","Raisby",-1.41,54.93,"Fulwell Hill, old quarry, fish bed, Sunderland",NA,"",1,"Wuchiapingian","",259.9,254.17,38985,"gp_mid",21.1,27.32,"315",257.035,"wuchiapingian",23569,12.925,26.1672,51,1
@@ -2022,6 +2190,7 @@
 "90678",131198,"col","Zechstein",13.29,54.62,"Wiek 101 borehole, 996.55-1000.0 m depth, Rügen Island",NA,"",1,"Wuchiapingian","",259.9,254.17,42391,"gp_mid",30.6,28.37,"302",257.035,"wuchiapingian",25191,21.0445,30.9677,51,1
 "90735",131275,"col","",132.81,42.76,"Cape Popov, Trudnyy Peninsula (TsGM coll)",NA,"",1,"Wuchiapingian","",259.9,254.17,42399,"gp_mid",141.06,20.58,"628",257.035,"wuchiapingian",25209,145.9306,38.2144,51,1
 "90778",131700,"col","Raisby",-1.41,54.93,"Fulwell Hill, old quarry, fish bed, Sunderland (Enniskillen coll.)",NA,"",3,"Wuchiapingian","",259.9,254.17,38893,"gp_mid",21.1,27.32,"315",257.035,"wuchiapingian",23569,12.925,26.1672,51,1
+"90841",131451,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5 (Legányi coll)",NA,"",1,"Wuchiapingian","",259.9,254.17,42435,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
 "91055",131701,"col","Raisby",-1.41,54.93,"Fulwell Hill, old quarry, fish bed, Sunderland (Egerton coll.)",NA,"",1,"Wuchiapingian","",259.9,254.17,38893,"gp_mid",21.1,27.32,"315",257.035,"wuchiapingian",23569,12.925,26.1672,51,1
 "91056",131702,"col","Raisby",-1.41,54.93,"Fulwell Hill, old quarry, fish bed, Sunderland (BMNH coll.)",NA,"",2,"Wuchiapingian","",259.9,254.17,38893,"gp_mid",21.1,27.32,"315",257.035,"wuchiapingian",23569,12.925,26.1672,51,1
 "91058",131704,"col","",-1.61,54.63,"Midderidge (BMNH fish collection)",NA,"",9,"Wuchiapingian","",259.9,254.17,38893,"gp_mid",21,27.01,"315",257.035,"wuchiapingian",15504,12.925,26.1672,51,1
@@ -2040,6 +2209,7 @@
 "91675",132474,"col","Kuling",77.35,33,"Chumik Marpo section, Himachal Pradesh",NA,"",2,"Wuchiapingian","",259.9,254.17,42676,"gp_mid",54.7,-42.33,"501",257.035,"wuchiapingian",25425,75.9176,-30.0043,51,1
 "91722",132541,"col","Tuoba",98.58,29.8,"6 miles north of Markam",NA,"",1,"Wuchiapingian","",259.9,254.17,42700,"gp_mid",80.93,-16.86,"612",257.035,"wuchiapingian",25432,97.2377,-5.1527,51,1
 "91727",132553,"col","Chidantan",99.08,30.02,"Shengba, Batang County",NA,"",7,"Wuchiapingian","",259.9,254.17,42700,"gp_mid",98.11,-14.53,"611",257.035,"wuchiapingian",25437,97.2377,-5.1527,51,1
+"91837",132704,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 101",NA,"",1,"Wuchiapingian","",259.9,254.17,29053,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
 "91881",132757,"col","Ford",-1.41,54.89,"Humbleton Hill, Durham (PIN coll)",NA,"",1,"Wuchiapingian","",259.9,254.17,27318,"gp_mid",21.1,27.28,"315",257.035,"wuchiapingian",20679,12.925,26.1672,51,1
 "91883",132759,"col","Wargal",71.56,32.97,"Kalabagh, Wargal Fm, Salt Range (Noetling coll)",NA,"",3,"Wuchiapingian","",259.9,254.17,27318,"gp_mid",52.28,-37.84,"501",257.035,"wuchiapingian",20585,70.7581,-25.6235,51,1
 "92325",133410,"col","Zechstein",14.87,52.08,"Rybaki 17 borehole, 1964.5-1966.1 m depth",NA,"",4,"Wuchiapingian","",259.9,254.17,42965,"gp_mid",32.29,26.12,"315",257.035,"wuchiapingian",25597,22.8041,28.9837,51,1
@@ -2056,6 +2226,9 @@
 "94584",136250,"col","",105.6,27.15,"Koya coal mine, Locality T69, Tatinghsien",NA,"",2,"Wuchiapingian","",259.9,254.17,43577,"gp_mid",104.48,-16.35,"611",257.035,"wuchiapingian",26401,122.8863,8.9324,51,1
 "94585",136251,"col","",106.87,28.38,"Kuomaiya, Locality T316, SSE of Hsinchan, Tsunyi-hsien",NA,"",1,"Wuchiapingian","",259.9,254.17,43577,"gp_mid",105.33,-14.89,"611",257.035,"wuchiapingian",26402,122.8863,8.9324,51,1
 "94586",136252,"col","",107.89,25.4,"Weichai, Locality T254, Lipohsien",NA,"",1,"Wuchiapingian","",259.9,254.17,43577,"gp_mid",107,-17.57,"611",257.035,"wuchiapingian",26403,126.5996,6.9242,51,1
+"94694",136371,"col","",-21.44,74,"Kap Stosch, River 14",NA,"",3,"Wuchiapingian","",259.9,254.17,43240,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
+"94695",136372,"col","",-21.46,74.02,"Kap Stosch, between rivers 8 and 9",NA,"",3,"Wuchiapingian","",259.9,254.17,43240,"gp_mid",22.78,40.63,"102",257.035,"wuchiapingian",20036,5.3259,38.4591,51,1
+"94696",136373,"col","",-21.44,74,"Kap Stosch, River 13",NA,"",1,"Wuchiapingian","",259.9,254.17,43240,"gp_mid",22.8,40.62,"102",257.035,"wuchiapingian",20038,5.3259,38.4591,51,1
 "95429",137395,"col","Hambast",52.44,31.56,"SG2, Baghuk Mountain",NA,"",2,"Wuchiapingian","",259.9,254.17,43974,"gp_mid",59.4,-5.07,"512",257.035,"wuchiapingian",26665,52.3598,-16.6809,51,1
 "95430",137396,"col","Hambast",52.44,31.56,"SG9, Baghuk Mountain",NA,"",5,"Wuchiapingian","",259.9,254.17,43974,"gp_mid",59.4,-5.07,"512",257.035,"wuchiapingian",26665,52.3598,-16.6809,51,1
 "95431",137397,"col","Hambast",52.44,31.56,"SG34, Baghuk Mountain",NA,"",3,"Wuchiapingian","",259.9,254.17,43974,"gp_mid",59.4,-5.07,"512",257.035,"wuchiapingian",26665,52.3598,-16.6809,51,1
@@ -2120,6 +2293,48 @@
 "102231",145692,"col","Kapp Starostin",16.22,77.01,"Treskelen section, Hovtinden member",NA,"",7,"Wuchiapingian","",259.9,254.17,47122,"gp_mid",23.91,50.21,"309",257.035,"wuchiapingian",22529,0.8096,47.2714,51,1
 "102232",145693,"col","Kapp Starostin",15.03,77.56,"Ahlstrandodden section A-5a",NA,"",5,"Wuchiapingian","",259.9,254.17,47122,"gp_mid",23.24,50.63,"309",257.035,"wuchiapingian",7964,0.8096,47.2714,51,1
 "102233",145694,"col","Kapp Starostin",14.78,77.53,"Reinodden section R-5b",NA,"",4,"Wuchiapingian","",259.9,254.17,47122,"gp_mid",23.18,50.58,"309",257.035,"wuchiapingian",7961,0.8096,47.2714,51,1
+"102311",146174,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 143/1980",NA,"",6,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102312",146175,"col","Nagyvisnyo",20.5,48.15,"Mályinka-8 borehole, sample Ma 8/51",NA,"",8,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.74,4.61,"308",257.035,"wuchiapingian",27948,28.4004,26.6369,51,1
+"102313",146176,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/5/9/1980",NA,"",5,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102314",146179,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 161/1980",NA,"",7,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102315",146180,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V 4/10/1980",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102317",146182,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/4/1980",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102332",146199,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 125/1980",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102333",146200,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó 4 borehole, Mihalovits quarry, sample Nv 4/45",NA,"",18,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102334",146201,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/24",NA,"",11,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102335",146202,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 17/1980",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102336",146203,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/1/7/1980",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102337",146204,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 128/1980",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102338",146205,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/20",NA,"",8,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102340",146207,"col","Nagyvisnyo",20.48,48.17,"Dédestapolcsány-11 borehole, sample Dt 11/26",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.76,4.63,"308",257.035,"wuchiapingian",27954,28.4004,26.6369,51,1
+"102342",146209,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/22",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102343",146210,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/17",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102344",146211,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 27/1977",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102345",146212,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/44",NA,"",9,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102346",146214,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 134/1980",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102347",146215,"col","Nagyvisnyo",20.43,48.14,"West of Mihalovits quarry, sample Bükk A-26/1978",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102348",146216,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 26/1977",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102349",146217,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 159/1980",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102350",146218,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/4/4",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102351",146219,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/1/1980",NA,"",4,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102352",146220,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/4/1/1980",NA,"",5,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102353",146221,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 13/1980",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102354",146222,"col","Nagyvisnyo",20.48,48.17,"Dédestapolcsány-11 borehole, sample Dt 11/7",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.76,4.63,"308",257.035,"wuchiapingian",27954,28.4004,26.6369,51,1
+"102355",146223,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/32",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102356",146224,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 42/1980",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102358",146226,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Bükk 30/1977",NA,"",6,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102365",146233,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 156/1980",NA,"",4,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102368",146236,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyo 4 borehole, Mihalovits quarry, sample Nv 4/26",NA,"",7,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102369",146238,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó 4 borehole, Mihalovits quarry, sample Nv 4/47",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102371",146240,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 10/1980",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102374",146243,"col","Nagyvisnyo",20.5,48.15,"Mályinka-8 borehole, sample Ma 8/38",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.74,4.61,"308",257.035,"wuchiapingian",27948,28.4004,26.6369,51,1
+"102375",146244,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Bükk 28/1977",NA,"",2,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102376",146245,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 165/1980",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102377",146246,"col","Nagyvisnyo",20.43,48.14,"Mihalovits quarry, sample Bükk 107/1980",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102378",146247,"col","Nagyvisnyo",20.5,48.15,"Mályinka-8 borehole, sample Ma 8/45",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.74,4.61,"308",257.035,"wuchiapingian",27948,28.4004,26.6369,51,1
+"102379",146248,"col","Nagyvisnyo",20.43,48.14,"West of Mihalovits quarry, sample Bükk 3/1979",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.65,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102380",146249,"col","Nagyvisnyo",20.43,48.14,"Nagyvisnyó Railway Cut 5, sample Nv V/1/6/1980",NA,"",3,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.72,4.64,"308",257.035,"wuchiapingian",20407,28.4004,26.6369,51,1
+"102381",146250,"col","Nagyvisnyo",20.5,48.15,"Mályinka-8 borehole, sample Ma 8/60",NA,"",1,"Wuchiapingian","",259.9,254.17,47207,"gp_mid",39.74,4.61,"308",257.035,"wuchiapingian",27948,28.4004,26.6369,51,1
 "102494",146378,"col","",107.47,32.17,"Wutaishan, Liangfengya, Bazhong",NA,"",1,"Wuchiapingian","",259.9,254.17,47293,"gp_mid",104.94,-11.08,"611",257.035,"wuchiapingian",27981,125.4506,14.3388,51,1
 "105109",149230,"col","Wujiaping",113.93,29.72,"Guanyinshan section, bed 3, Puqi",NA,"",5,"Wuchiapingian","",259.9,254.17,36523,"gp_mid",111.06,-11.93,"611",257.035,"wuchiapingian",28260,129.1183,12.3914,51,1
 "105110",149231,"col","Wujiaping",113.93,29.72,"Guanyinshan section, bed 2, Puqi",NA,"",20,"Wuchiapingian","",259.9,254.17,36523,"gp_mid",111.06,-11.93,"611",257.035,"wuchiapingian",28260,129.1183,12.3914,51,1
@@ -2218,6 +2433,8 @@
 "109566",155136,"col","Julfa",45.58,38.73,"Zal I, Sample 20",NA,"",1,"Wuchiapingian","",259.9,254.17,50567,"gp_mid",55.65,3.21,"512",257.035,"wuchiapingian",29331,47.3439,-10.4423,51,1
 "109567",155137,"col","Julfa",45.58,38.73,"Zal I, Sample 24",NA,"",7,"Wuchiapingian","",259.9,254.17,50567,"gp_mid",55.65,3.21,"512",257.035,"wuchiapingian",29331,47.3439,-10.4423,51,1
 "109568",155138,"col","Julfa",45.58,38.73,"Zal I, Sample 25",NA,"",2,"Wuchiapingian","",259.9,254.17,50567,"gp_mid",55.65,3.21,"512",257.035,"wuchiapingian",29331,47.3439,-10.4423,51,1
+"110356",156574,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch (Oslo Museum collection)",NA,"",5,"Wuchiapingian","",259.9,254.17,51325,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
+"110357",156575,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch (Kopenhagen collection)",NA,"",2,"Wuchiapingian","",259.9,254.17,51325,"gp_mid",22.7,40.63,"102",257.035,"wuchiapingian",20013,5.3259,38.4591,51,1
 "110427",156730,"col","Julfa",45.52,38.94,"JU120, Main Valley section, Kuh-e Ali Bashi",NA,"",1,"Wuchiapingian","",259.9,254.17,51383,"gp_mid",55.66,3.42,"512",257.035,"wuchiapingian",22768,48.0231,-8.0339,51,1
 "110428",156731,"col","Julfa",45.51,38.94,"JU1, NW of Main Valley section, Kuh-e Ali Bashi",NA,"",1,"Wuchiapingian","",259.9,254.17,51383,"gp_mid",55.65,3.43,"512",257.035,"wuchiapingian",20141,48.0231,-8.0339,51,1
 "113672",161465,"col","Ford",-1.41,54.89,"Humbleton Hill, Durham (BMNH coll)",NA,"",1,"Wuchiapingian","",259.9,254.17,52613,"gp_mid",21.1,27.28,"315",257.035,"wuchiapingian",20679,12.925,26.1672,51,1

@@ -3,13 +3,14 @@ dir.create("./results/bimodal/")
 
 library(parallel)
 
-cl <- makeCluster(detectCores()-2)
+cl <- makeCluster(detectCores()-1)
 
 clusterExport(cl=cl, varlist = list("reps", "species", "bimodal", "libs", "sim_dist"), envir=environment())
 
 clusterEvalQ(cl = cl, expr = lapply(libs, require, character.only = TRUE)) 
 
-for(i in 1:nlayers(bimodal)){
+for(i in 1:raster::nlayers(bimodal)){
+  
   r <- bimodal[[i]]
   name <- names(r)
   clusterExport(cl=cl, varlist = list("r"), envir=environment())

@@ -18,7 +18,11 @@
 "13608",25887,"col","",-1,40,"Barranco de la Canada C206",NA,"",8,"Middle Toarcian","",182,175.6,7068,"gp_mid",20.99,28.21,"304",178.8,"toarcian",2622,22.8427,26.8063,39,1
 "13609",25888,"col","",-1,40,"Barranco de la Canada C208",NA,"",9,"Middle Toarcian","",182,175.6,7068,"gp_mid",20.99,28.21,"304",178.8,"toarcian",2622,22.8427,26.8063,39,1
 "15237",29389,"col","",-70.1,-40,"Picun Leufu",NA,"PGAP 506",4,"Toarcian","",182.7,174.1,8024,"gp_mid",-16.98,-40.22,"291",178.4,"toarcian",2943,-21.0401,-43.9646,39,1
+"16755",30913,"col","Sandzhar Suite",67.2,38.2,"Baysuntau",NA,"PGAP 645",10,"Toarcian","",182.7,174.1,8210,"gp_mid",85.35,42.25,"402",178.4,"toarcian",3387,91.0836,50.8347,39,1
 "16769",30927,"col","",70.3,38.2,"Gring",NA,"PGAP 625",38,"Toarcian","",182.7,174.1,8267,"gp_mid",88.46,43.09,"402",178.4,"toarcian",3397,97.079,48.5073,39,1
+"16772",30930,"col","",68.6,38.7,"Khodzhamaston",NA,"PGAP 626",44,"Toarcian","",182.7,174.1,8267,"gp_mid",86.51,43.1,"402",178.4,"toarcian",3400,91.0836,50.8347,39,1
+"16773",30931,"col","",68.8,38.7,"Lyuchob",NA,"PGAP 624",28,"Toarcian","",182.7,174.1,8267,"gp_mid",86.71,43.15,"402",178.4,"toarcian",3401,91.0836,50.8347,39,1
+"16774",30932,"col","",66.4,37.7,"Kugitangtau Ridge",NA,"PGAP 623",21,"Toarcian","",182.7,174.1,8267,"gp_mid",84.78,41.56,"402",178.4,"toarcian",3402,91.0836,50.8347,39,1
 "17617",31839,"col","",-0.22,46.98,"Echinodermata, Marls of the Variabilis zone, Thouars",NA,"",18,"Middle Toarcian","",182,175.6,8552,"gp_mid",22.01,35.01,"305",178.8,"toarcian",3562,25.0228,36.0462,39,1
 "17767",31988,"col","",11.15,51.8,"Toarcian, Quedlinburg, Germany",NA,"",16,"Late Toarcian","",180.1,175.6,8568,"gp_mid",29.76,41.14,"315",177.85,"toarcian",3586,30.0429,43.9528,39,1
 "18919",33345,"col","Beacon Limestone",-2.85,50.94,"ILM-9934, Seavington section 1, Ilminster",NA,"",9,"Bifrons","",182,175.6,8861,"gp_mid",18.74,38.43,"315",178.8,"toarcian",3782,20.8724,37.1688,39,1
@@ -109,9 +113,13 @@
 "22824",38638,"col","",10.1,48.83,"South-Germany, Wasseralfingen",NA,"",2,"Late Toarcian","",180.1,175.6,10359,"gp_mid",30.05,38.11,"305",177.85,"toarcian",4739,31.8079,41.8215,39,1
 "22825",38639,"col","",11.45,49.3,"South-Germany, Berg bei Neumarkt",NA,"",4,"Late Toarcian","",180.1,175.6,10359,"gp_mid",30.96,38.81,"305",177.85,"toarcian",4740,31.8079,41.8215,39,1
 "22826",38640,"col","",8.42,47.67,"South-Germany, Wutach",NA,"",2,"Late Toarcian","",180.1,175.6,10359,"gp_mid",29.1,36.68,"305",177.85,"toarcian",4741,30.6439,38.4206,39,1
+"25505",42255,"col","",-0.9,52.63,"Tilton, Leicestershire",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",20.12,39.93,"315",178.4,"toarcian",5515,21.9944,40.5773,39,1
+"25506",42256,"col","",-1.1,52.23,"Dodford, Northamptonshire",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",20.09,39.51,"315",178.4,"toarcian",5516,21.9944,40.5773,39,1
 "25510",42260,"col","",-2.9,50.92,"Ilminster, Somerset",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",19.1,37.97,"315",178.4,"toarcian",5520,20.8724,37.1688,39,1
+"25512",42262,"col","",-0.73,52.4,"Glendon cutting, Northamptonshire",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",20.32,39.73,"315",178.4,"toarcian",5522,21.9944,40.5773,39,1
 "25514",42264,"col","",-2.52,50.95,"Yeovil Sands, Dorset",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",19.39,38.05,"315",178.4,"toarcian",5524,20.8724,37.1688,39,1
 "25516",42266,"col","",-1.07,54.6,"East Scar, Yorckshire",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",19.35,41.81,"315",178.4,"toarcian",5525,20.4093,42.7794,39,1
+"25517",42267,"col","",-1.37,52.02,"Bloxham, Oxfordshire",NA,"",1,"Toarcian","",182.7,174.1,11186,"gp_mid",19.96,39.26,"315",178.4,"toarcian",5526,21.9944,40.5773,39,1
 "30841",48466,"col","",11.35,49.53,"Altdorf, close to Nürnberg, 2. Laibsteinlage",NA,"",1,"Toarcian","",182.7,174.1,12952,"gp_mid",30.79,39.01,"305",178.4,"toarcian",7270,31.8079,41.8215,39,1
 "30842",48467,"col","",11.35,49.53,"Altdorf, close to Nürnberg, 1. Laibsteinlage",NA,"",1,"Toarcian","",182.7,174.1,12952,"gp_mid",30.79,39.01,"305",178.4,"toarcian",7270,31.8079,41.8215,39,1
 "30932",48566,"col","Wazzant",-6.8,31.45,"Acforcid, Wazzant",NA,"Azilal",2,"Toarcian","",182.7,174.1,12963,"gp_mid",7.7,26.12,"714",178.4,"toarcian",7299,0.3905,26.1765,39,1
@@ -187,6 +195,7 @@
 "34734",53219,"col","",-126.8,55.85,"GSC loc. 90952 - Hazelton",NA,"",2,"Middle Toarcian","",182,175.6,15025,"gp_mid",-57.34,36.13,"127",178.8,"toarcian",8442,-50.2342,38.7504,39,1
 "34735",53220,"col","",-126.79,55.86,"GSC loc. 90953 - Hazelton",NA,"",2,"Middle Toarcian","",182,175.6,15025,"gp_mid",-57.34,36.14,"127",178.8,"toarcian",8443,-50.2342,38.7504,39,1
 "34736",53221,"col","",-126.33,55.49,"GSC loc. 90984 - Hazelton",NA,"",4,"Toarcian","",182.7,174.1,14361,"gp_mid",-56.48,36.34,"127",178.4,"toarcian",8441,-50.2342,38.7504,39,1
+"34737",53222,"col","",-123.02,51.11,"GSC loc. 94869 - Taseko Lakes",NA,"",3,"Middle Toarcian","",182,175.6,14361,"gp_mid",-52.22,33.01,"127",178.8,"toarcian",8444,-62.0135,18.0663,39,1
 "34739",53224,"col","",-136.16,61.46,"GSC loc. C-80897 - Aishihik Lake",NA,"",2,"Toarcian","",182.7,174.1,14361,"gp_mid",-49.43,44.75,"123",178.4,"toarcian",8445,-51.5729,47.1314,39,1
 "34751",53236,"col","",-136.35,62.27,"GSC loc. C-81306 - Carmacks",NA,"",2,"Toarcian","",182.7,174.1,14361,"gp_mid",-48.86,45.46,"123",178.4,"toarcian",8449,-51.5729,47.1314,39,1
 "34752",53237,"col","Takwahoni",-133.08,58.65,"GSC loc. C-86503 - Tulsequah",NA,"",6,"Middle Toarcian","",182,175.6,15025,"gp_mid",-62.69,37.07,"127",178.8,"toarcian",8450,-51.7411,41.7939,39,1
@@ -223,8 +232,11 @@
 "35134",53620,"col","",-129.52,55.7,"GSC loc. C-117280 - Nass River",NA,"",4,"Middle Toarcian","",182,175.6,14361,"gp_mid",-58.92,35.29,"127",178.8,"toarcian",8551,-61.8594,24.8283,39,1
 "35341",53823,"col","",-120.83,49.08,"GSC loc. C-212407 - Hope",NA,"",2,"Toarcian","",182.7,174.1,14361,"gp_mid",-49.29,32.23,"127",178.4,"toarcian",8598,-46.4045,33.0489,39,1
 "36046",55636,"col","Whiteaves",-132.02,53.19,"GSC loc. C-80782 - Moresby Island",NA,"",3,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.4,41.38,"128",178.8,"toarcian",8791,-63.8364,23.1001,39,1
+"36047",55637,"col","Last Creek",-123.03,51.11,"GSC loc. 94781 - Taseko Lakes",NA,"",2,"Toarcian","",182.7,174.1,15025,"gp_mid",-51.89,33.37,"127",178.4,"toarcian",8792,-62.0135,18.0663,39,1
+"36048",55638,"col","Last Creek",-123.02,51.11,"GSC loc. 94814 - Taseko Lakes",NA,"",1,"Toarcian","",182.7,174.1,15025,"gp_mid",-51.89,33.37,"127",178.4,"toarcian",8444,-62.0135,18.0663,39,1
 "36052",55642,"col","Whiteaves",-132.27,53.42,"GSC loc. C-159883 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8388,-63.8364,23.1001,39,1
 "36054",55644,"col","Whiteaves",-132.27,53.42,"GSC loc. C-157715 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8388,-63.8364,23.1001,39,1
+"36055",55645,"col","",-125.1,55.81,"GSC loc. C-189742 - Manson River",NA,"",3,"Late Toarcian","",180.1,175.6,15025,"gp_mid",-46.88,36.94,"123",177.85,"toarcian",8794,-46.8466,38.5318,39,1
 "36082",55675,"col","Spatsizi",-128.87,57.49,"GSC loc. C-90741 - Spatsizi River",NA,"",3,"Middle Toarcian","",182,175.6,15025,"gp_mid",-59.55,37.05,"127",178.8,"toarcian",8798,-49.2063,41.1229,39,1
 "36083",55676,"col","Spatsizi",-128.87,57.49,"GSC loc. C-90742 - Spatsizi River",NA,"",2,"Middle Toarcian","",182,175.6,15025,"gp_mid",-59.55,37.05,"127",178.8,"toarcian",8798,-49.2063,41.1229,39,1
 "36084",55678,"col","Spatsizi",-128.87,57.49,"GSC loc. C-90743 - Spatsizi River",NA,"",4,"Middle Toarcian","",182,175.6,15025,"gp_mid",-59.55,37.05,"127",178.8,"toarcian",8798,-49.2063,41.1229,39,1
@@ -259,6 +271,8 @@
 "36181",55804,"col","Whiteaves",-132.26,53.42,"GSC loc. C-87203 - Graham Island",NA,"",3,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8391,-63.8364,23.1001,39,1
 "36184",55807,"col","Whiteaves",-132.27,53.42,"GSC loc. C-158061 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8388,-63.8364,23.1001,39,1
 "36275",55917,"col","Whiteaves",-132.27,53.42,"GSC loc. C-87146 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8388,-63.8364,23.1001,39,1
+"36281",55923,"col","Last Creek",-123.03,51.11,"GSC loc. 94870 - Taseko Lakes",NA,"",1,"Middle Toarcian","Late Toarcian",182,175.6,15025,"gp_mid",-52.22,33.01,"127",178.8,"toarcian",8792,-62.0135,18.0663,39,1
+"36282",55924,"col","Last Creek",-123.03,51.11,"GSC loc. 94851 - Taseko Lakes",NA,"",1,"Late Toarcian","",180.1,175.6,15025,"gp_mid",-51.89,33.37,"127",177.85,"toarcian",8792,-62.0135,18.0663,39,1
 "36486",56219,"col","Spatsizi",-128.97,57.62,"GSC loc. C-103138 - Spatsizi River",NA,"",3,"Middle Toarcian","",182,175.6,15025,"gp_mid",-59.68,37.13,"127",178.8,"toarcian",8543,-49.2063,41.1229,39,1
 "36592",56339,"col","Whiteaves",-132.26,53.42,"GSC loc. C-158032 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8391,-63.8364,23.1001,39,1
 "36593",56340,"col","Whiteaves",-132.27,53.42,"GSC loc. C-176569 - Graham Island",NA,"",2,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8388,-63.8364,23.1001,39,1
@@ -268,6 +282,7 @@
 "36597",56344,"col","Whiteaves",-132.05,53.2,"GSC loc. C-81726 - Maude Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.41,41.4,"128",178.8,"toarcian",8871,-63.8364,23.1001,39,1
 "36598",56345,"col","Spatsizi",-128.97,57.62,"GSC loc. C-103130 - Spatsizi River",NA,"",2,"Middle Toarcian","Late Toarcian",182,175.6,15025,"gp_mid",-59.68,37.13,"127",178.8,"toarcian",8543,-49.2063,41.1229,39,1
 "36599",56346,"col","Spatsizi",-128.97,57.62,"GSC loc. C-103135 - Spatsizi River",NA,"",2,"Middle Toarcian","Late Toarcian",182,175.6,15025,"gp_mid",-59.68,37.13,"127",178.8,"toarcian",8543,-49.2063,41.1229,39,1
+"36600",56347,"col","",-125.13,55.82,"GSC loc. 93186 - Manson River",NA,"",2,"Late Toarcian","",180.1,175.6,15025,"gp_mid",-46.9,36.95,"123",177.85,"toarcian",8872,-46.8466,38.5318,39,1
 "36601",56348,"col","Spatsizi",-128.87,57.49,"GSC loc. C-90815 - Spatsizi River",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-59.55,37.05,"127",178.8,"toarcian",8798,-49.2063,41.1229,39,1
 "36602",56349,"col","Spatsizi",-128.87,57.49,"GSC loc. C-90817 - Spatsizi River",NA,"",3,"Late Toarcian","",180.1,175.6,15025,"gp_mid",-59.19,37.48,"127",177.85,"toarcian",8798,-49.2063,41.1229,39,1
 "36603",56350,"col","Spatsizi",-129.57,57.86,"GSC loc. C-103428 - Spatsizi River",NA,"",3,"Middle Toarcian","Late Toarcian",182,175.6,15025,"gp_mid",-60.17,37.2,"127",178.8,"toarcian",8873,-51.7411,41.7939,39,1
@@ -333,6 +348,7 @@
 "37822",57831,"col","Whiteaves",-132.05,53.2,"GSC loc. C-81913 - Maude Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.41,41.4,"128",178.8,"toarcian",8871,-63.8364,23.1001,39,1
 "37823",57832,"col","Fernie",-114.87,49.92,"GSC loc. 31430 - Rocky Mountains",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-37.96,35.74,"101",178.8,"toarcian",9122,-43.1755,36.207,39,1
 "37824",57833,"col","Last Creek",-123.01,53.1,"GSC loc. 94767 - Taseko Lakes",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-53.35,34.77,"127",178.8,"toarcian",9123,-48.4929,35.7107,39,1
+"37825",57834,"col","Last Creek",-123.03,51.11,"GSC loc. 94837 - Taseko Lakes",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-52.22,33.01,"127",178.8,"toarcian",8792,-62.0135,18.0663,39,1
 "37826",57835,"col","Whiteaves",-131.61,52.96,"GSC loc. C-159873 - Louise Island",NA,"",3,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.2,41.08,"128",178.8,"toarcian",8876,-63.8364,23.1001,39,1
 "37827",57836,"col","Whiteaves",-132.26,53.42,"GSC loc. C-149676 - Graham Island",NA,"",2,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8391,-63.8364,23.1001,39,1
 "37828",57837,"col","Whiteaves",-132.26,53.42,"GSC loc. C-149677 - Graham Island",NA,"",1,"Middle Toarcian","",182,175.6,15025,"gp_mid",-73.47,41.65,"128",178.8,"toarcian",8391,-63.8364,23.1001,39,1
@@ -544,6 +560,7 @@
 "49096",73785,"col","",-4.02,42.58,"Barrios de Villadiego section, benthic forams, 45 m",NA,"",29,"Late Toarcian","",180.1,175.6,24720,"gp_mid",20.07,31.04,"304",177.85,"toarcian",12056,21.2789,30.3146,39,1
 "49272",73968,"col","",53.44,35.71,"Sharif-Abad, Alborz Mountains",NA,"",2,"Toarcian","",182.7,174.1,24835,"gp_mid",73.12,36.13,"505",178.4,"toarcian",12107,77.5107,43.6007,39,1
 "50553",75984,"col","",11.93,53.32,"Bore Marnitz 1/59, depth 674.9-685.0 m, Mecklenburg-Vorpommern",NA,"",8,"Late Toarcian","",180.1,175.6,25714,"gp_mid",29.75,42.73,"315",177.85,"toarcian",12443,30.0429,43.9528,39,1
+"51041",77228,"col","",-5.75,34.15,"Fert el Bir, Meknes",NA,"",1,"Late Toarcian","",180.1,175.6,26147,"gp_mid",NA,NA,"coordinates not computable using this model",177.85,"toarcian",12629,1.6446,28.4144,39,1
 "51557",78216,"col","",-3.48,42.75,"Quintanaopia area, Burgos",NA,"",7,"Toarcian","",182.7,174.1,26346,"gp_mid",20.57,31.02,"304",178.4,"toarcian",12788,21.2789,30.3146,39,1
 "52105",78990,"col","",-127.75,54.75,"GSC 4990 Telkwa-Zymoetz Rivers",NA,"",1,"Toarcian","",182.7,174.1,26536,"gp_mid",-56.96,35.32,"127",178.4,"toarcian",12940,-50.2342,38.7504,39,1
 "59459",90424,"col","",3.02,43.94,"Tournemire",NA,"",1,"Late Toarcian","",180.1,175.6,30380,"gp_mid",25.84,32.12,"305",177.85,"toarcian",15552,29.2554,34.9956,39,1
@@ -822,6 +839,7 @@
 "80719",118020,"col","Beacon Limeston",-2.84,50.94,"scree from the Roadcut near Seavington St. Michael, Somerset",NA,"",2,"Toarcian","",182.7,174.1,37967,"gp_mid",19.14,37.99,"315",178.4,"toarcian",22596,20.8724,37.1688,39,1
 "80746",118053,"col","Beacon Limestone",-2.77,50.74,"Junction Bed & Marlstone, Dorset, UK",NA,"",1,"Toarcian","",182.7,174.1,37967,"gp_mid",19.25,37.81,"315",178.4,"toarcian",22604,20.8724,37.1688,39,1
 "81008",118471,"col","Alum Shale",-0.61,54.49,"'Alum Shale' (Main Alum Shales, Harpoceras bifrons), Whitby-Saltwick, Yorkshire",NA,"",2,"Bifrons","",182,175.6,38162,"gp_mid",19.28,42.21,"315",178.8,"toarcian",22664,20.4093,42.7794,39,1
+"81352",118829,"col","",-0.69,52.3,"Wellingborough",NA,"",1,"Bifrons","",182,175.6,29856,"gp_mid",19.97,40.09,"315",178.8,"toarcian",22701,21.9944,40.5773,39,1
 "81481",118994,"col","",17.69,47.14,"Bakony Mts., Szentgál, Gombáspuszta, section Fg–I Bed No. 18",NA,"",1,"Late Toarcian","",180.1,175.6,38219,"gp_mid",38.75,25.45,"308",177.85,"toarcian",22750,18.75,47.5,39,1
 "81482",118995,"col","",17.69,47.14,"Bakony Mts., Szentgál, Gombáspuszta, section Fg–I Bed No. 21",NA,"",1,"Late Toarcian","",180.1,175.6,38219,"gp_mid",38.75,25.45,"308",177.85,"toarcian",22750,18.75,47.5,39,1
 "81868",119392,"col","Turmiel",-2.46,40.62,"Sierra Palomera section, Bed No.245",NA,"",4,"Bifrons","",182,175.6,38292,"gp_mid",20.11,29.22,"304",178.8,"toarcian",22837,19.9519,28.099,39,1
@@ -870,6 +888,7 @@
 "84939",123345,"col","",3.83,43.77,"Pic-Saint-Loup",NA,"",1,"Toarcian","",182.7,174.1,39117,"gp_mid",26.55,32.09,"305",178.4,"toarcian",23772,29.2554,34.9956,39,1
 "84940",123346,"col","",3.52,44.49,"Venède",NA,"",1,"Toarcian","",182.7,174.1,39117,"gp_mid",26.1,32.73,"305",178.4,"toarcian",23773,29.2554,34.9956,39,1
 "84941",123347,"col","",3.52,44.49,"Rivière-sur-Tarn",NA,"",1,"Toarcian","",182.7,174.1,39117,"gp_mid",26.1,32.73,"305",178.4,"toarcian",23773,29.2554,34.9956,39,1
+"85511",123990,"col","",-0.67,52.54,"Gretton",NA,"",1,"Toarcian","",182.7,174.1,39932,"gp_mid",20.33,39.87,"315",178.4,"toarcian",23983,21.9944,40.5773,39,1
 "85620",124156,"col","",-1.58,46.41,"Anse Saint-Nicolas, à Jard-sur-Mer (Vendée), Bed No. 46",NA,"",1,"Bifrons","",182,175.6,39935,"gp_mid",21.07,34.23,"305",178.8,"toarcian",24005,25.0228,36.0462,39,1
 "85621",124157,"col","",-1.58,46.41,"Anse Saint-Nicolas, à Jard-sur-Mer (Vendée), Bed No. 47",NA,"",1,"Bifrons","",182,175.6,39935,"gp_mid",21.07,34.23,"305",178.8,"toarcian",24005,25.0228,36.0462,39,1
 "85622",124158,"col","",-1.58,46.41,"Anse Saint-Nicolas, à Jard-sur-Mer (Vendée), Bed No. 48",NA,"",4,"Bifrons","",182,175.6,39935,"gp_mid",21.07,34.23,"305",178.8,"toarcian",24005,25.0228,36.0462,39,1
@@ -1072,14 +1091,17 @@
 "87531",126639,"col","",-1.83,41.07,"Fuentelsaz section (Iberian Range), Bed No. 104",NA,"",1,"Late Toarcian","",180.1,175.6,41112,"gp_mid",21.05,28.98,"304",177.85,"toarcian",24491,22.8427,26.8063,39,1
 "89622",130005,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-190.4m",NA,"",1,"Late Toarcian","",180.1,175.6,42193,"gp_mid",-18.05,-39.5,"291",177.85,"toarcian",24999,-21.0401,-43.9646,39,1
 "89623",130006,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-219.7 m",NA,"",15,"Late Toarcian","",180.1,175.6,42193,"gp_mid",-18.05,-39.5,"291",177.85,"toarcian",24999,-21.0401,-43.9646,39,1
+"91171",131834,"col","",-0.95,52.19,"Stowe-Nine-Churches, Northamptonshire (BMNH)",NA,"",1,"Toarcian","",182.7,174.1,38893,"gp_mid",20.23,39.49,"315",178.4,"toarcian",25294,21.9944,40.5773,39,1
 "91272",131923,"col","",9.29,48.55,"Metzingen, near Reutlingen (BMNH fish Coll.)",NA,"",2,"Toarcian","",182.7,174.1,38893,"gp_mid",29.5,37.69,"305",178.4,"toarcian",25336,30.6439,38.4206,39,1
 "91273",131924,"col","",9.53,48.65,"Ohmden, Würtemberg (BMNH coll)",NA,"",7,"Toarcian","",182.7,174.1,38893,"gp_mid",29.66,37.83,"305",178.4,"toarcian",23524,11.25,47.5,39,1
+"91277",131928,"col","",13.29,54.65,"Banz, BMNH fish Coll.",NA,"",1,"Toarcian","",182.7,174.1,38893,"gp_mid",30.21,44.25,"302",178.4,"toarcian",25338,30.8001,47.2547,39,1
 "91278",131929,"col","",-1.98,52.02,"Dumbleton, Gloucestershire (BMNH Coll.)",NA,"",3,"Toarcian","",182.7,174.1,38893,"gp_mid",19.48,39.17,"315",178.4,"toarcian",25339,19.3397,39.5371,39,1
 "91362",132036,"col","",-2.29,50.93,"Ilminster, Somerset (BMNH Coll.)",NA,"",4,"Toarcian","",182.7,174.1,38893,"gp_mid",19.57,38.07,"315",178.4,"toarcian",25367,20.8724,37.1688,39,1
 "91363",132037,"col","",9.14,48.48,"Ohmenhausen, BMNH fish Coll.",NA,"",1,"Toarcian","",182.7,174.1,38893,"gp_mid",29.4,37.59,"305",178.4,"toarcian",25368,30.6439,38.4206,39,1
 "91384",132073,"col","",-2,51.99,"Alderton, near Cheltenham (BMNH Coll.)",NA,"",4,"Toarcian","",182.7,174.1,38893,"gp_mid",19.48,39.14,"315",178.4,"toarcian",25374,19.3397,39.5371,39,1
 "91964",132859,"col","",11,50.13,"Near Banz Monastery, Trimeusel, Mains River",NA,"Klosters Banz, Banz Abbey",2,"Toarcian","",182.7,174.1,42779,"gp_mid",30.29,39.52,"305",178.4,"toarcian",25528,31.8079,41.8215,39,1
 "91968",132866,"col","",11.45,49.3,"Ludwigs Canal, near Berg",NA,"Ludwigskanal",1,"Late Toarcian","",180.1,175.6,42779,"gp_mid",30.96,38.81,"305",177.85,"toarcian",4740,31.8079,41.8215,39,1
+"92362",133537,"col","",-0.67,52.54,"English Upper Lias (Brodie Coll)",NA,"",1,"Toarcian","",182.7,174.1,50041,"gp_mid",20.33,39.87,"315",178.4,"toarcian",23983,21.9944,40.5773,39,1
 "92432",133652,"col","",4.67,45.88,"Belmont d’Azergues (Lafarge quarry), Middle Toarcian (bifrons/variabilis)",NA,"",11,"Middle Toarcian","",182,175.6,45493,"gp_mid",26.32,34.78,"305",178.8,"toarcian",25625,29.2554,34.9956,39,1
 "92662",133926,"col","",174.76,-38.1,"McF B4, Ururoa Point (R15/f015)",NA,"",3,"Toarcian","",182.7,174.1,43142,"gp_mid",73.99,-74.22,"806",178.4,"toarcian",25695,21.1567,-85.8919,39,1
 "92671",133935,"col","",174.76,-38.11,"McF B3, Ururoa Point (R15/f032)",NA,"",3,"Toarcian","",182.7,174.1,43142,"gp_mid",73.98,-74.22,"806",178.4,"toarcian",10260,21.1567,-85.8919,39,1
@@ -1257,6 +1279,7 @@
 "98945",141390,"col","",6.11,49.48,"Dudelange-Zoufftgen Section, Bed 12",NA,"",3,"Thouarsense","",180.1,175.6,45978,"gp_mid",26.64,38.01,"315",177.85,"toarcian",27384,28.9957,40.6131,39,1
 "99099",141630,"col","",5.75,49.64,"Halanzy, Rue des Vergers",NA,"",1,"Toarcian","",182.7,174.1,46047,"gp_mid",26.3,38.1,"315",178.4,"toarcian",27416,28.9957,40.6131,39,1
 "99160",141632,"col","",5.8,49.57,"Aubange, Fleche",NA,"",6,"Toarcian","",182.7,174.1,46060,"gp_mid",26.36,38.04,"315",178.4,"toarcian",27433,28.9957,40.6131,39,1
+"99588",142107,"col","",-1.14,52.35,"Crick, Upper Lias",NA,"",1,"Toarcian","",182.7,174.1,33960,"gp_mid",20.03,39.61,"315",178.4,"toarcian",27492,21.9944,40.5773,39,1
 "99617",142135,"col","Potami",23.02,37.73,"Angelokastro village, probably Potami Fm, sample GR 267",NA,"",9,"Middle Toarcian","Late Toarcian",182,175.6,46169,"gp_mid",33,17.3,"307",178.8,"toarcian",27498,22.5,37.5,39,1
 "100019",142620,"col","",5.75,49.64,"Rue des Verges, SE of Halanzy (IGPH)",NA,"",1,"Toarcian","",182.7,174.1,46213,"gp_mid",26.3,38.1,"315",178.4,"toarcian",27416,28.9957,40.6131,39,1
 "101520",144440,"col","",8.45,48.3,"Frittlingen",NA,"Ichthyosaur locality",1,"Toarcian","",182.7,174.1,46688,"gp_mid",28.91,37.29,"305",178.4,"toarcian",27746,30.6439,38.4206,39,1
@@ -1496,6 +1519,10 @@
 "103327",147299,"col","",39.68,40.35,"Asagi (Gökdere) section, bed 18",NA,"",1,"Toarcian","",182.7,174.1,47495,"gp_mid",58.49,36.79,"511",178.4,"toarcian",28034,61.3841,31.6526,39,1
 "103328",147300,"col","",39.68,40.35,"Asagi (Gökdere) section, bed 21",NA,"",2,"Toarcian","",182.7,174.1,47495,"gp_mid",58.49,36.79,"511",178.4,"toarcian",28034,61.3841,31.6526,39,1
 "103329",147301,"col","",39.68,40.35,"Asagi (Gökdere) section, bed 22",NA,"",1,"Toarcian","",182.7,174.1,47495,"gp_mid",58.49,36.79,"511",178.4,"toarcian",28034,61.3841,31.6526,39,1
+"103674",147691,"col","",-9.41,39.36,"Cabo Carvoeiro, Peniche, bed P.652",NA,"",1,"Thouarsense","",180.1,175.6,47513,"gp_mid",14.2,29.89,"304",177.85,"toarcian",28060,14.1416,30.8212,39,1
+"103675",147692,"col","",-9.41,39.36,"Cabo Carvoeiro, Peniche, bed P.654",NA,"",1,"Thouarsense","",180.1,175.6,47513,"gp_mid",14.2,29.89,"304",177.85,"toarcian",28060,14.1416,30.8212,39,1
+"103676",147693,"col","",-9.41,39.36,"Cabo Carvoeiro, Peniche, bed P.658",NA,"",1,"Thouarsense","",180.1,175.6,47513,"gp_mid",14.2,29.89,"304",177.85,"toarcian",28060,14.1416,30.8212,39,1
+"103677",147694,"col","",-9.41,39.36,"Cabo Carvoeiro, Peniche, bed P.691",NA,"",1,"Thouarsense","",180.1,175.6,47513,"gp_mid",14.2,29.89,"304",177.85,"toarcian",28060,14.1416,30.8212,39,1
 "103842",147866,"col","Alum Shale",-0.6,54.49,"Foreshore between Whitby and Saltwick Nab, bed 49",NA,"",2,"Bifrons","",182,175.6,47572,"gp_mid",19.29,42.21,"315",178.8,"toarcian",28072,20.4093,42.7794,39,1
 "103843",147867,"col","Alum Shale",-0.6,54.49,"Foreshore between Whitby and Saltwick Nab, bed 50",NA,"",1,"Bifrons","",182,175.6,47572,"gp_mid",19.29,42.21,"315",178.8,"toarcian",28072,20.4093,42.7794,39,1
 "103844",147868,"col","Alum Shale",-0.6,54.49,"Foreshore between Whitby and Saltwick Nab, bed 51",NA,"",4,"Bifrons","",182,175.6,47572,"gp_mid",19.29,42.21,"315",178.8,"toarcian",28072,20.4093,42.7794,39,1
@@ -1809,6 +1836,7 @@
 "112043",159400,"col","",-2.74,50.72,"Pink Rock, near Bothenhampton",NA,"",1,"Bifrons","",182,175.6,52103,"gp_mid",18.88,38.24,"315",178.8,"toarcian",30026,20.8724,37.1688,39,1
 "112044",159401,"col","",-2.58,51.39,"Bed 7, Maes Knoll, eastern flank overlooking New Barn Farm",NA,"",1,"Late Toarcian","",180.1,175.6,52103,"gp_mid",19.21,38.48,"315",177.85,"toarcian",30027,19.3397,39.5371,39,1
 "112045",159402,"col","",-2.58,51.39,"Bed 6, Maes Knoll, eastern flank overlooking New Barn Farm",NA,"",1,"Late Toarcian","",180.1,175.6,52103,"gp_mid",19.21,38.48,"315",177.85,"toarcian",30027,19.3397,39.5371,39,1
+"112046",159403,"col","",-1.38,52.02,"Bloxham Station, near Banbury (communis zone)",NA,"",1,"Bifrons","",182,175.6,52103,"gp_mid",19.54,39.71,"315",178.8,"toarcian",30028,21.9944,40.5773,39,1
 "112047",159404,"col","",-2.74,50.72,"Shipton Long Lane, near Bothenhampton (Brown stone bed)",NA,"",1,"Thouarsense","",180.1,175.6,52103,"gp_mid",19.28,37.8,"315",177.85,"toarcian",30026,20.8724,37.1688,39,1
 "112048",159405,"col","",-2.61,51.15,"Pennard Hills, Upper Lias",NA,"",1,"Toarcian","",182.7,174.1,52103,"gp_mid",19.26,38.23,"315",178.4,"toarcian",30029,20.8724,37.1688,39,1
 "112071",159436,"col","",-2.88,50.96,"Barrington near Ilminster",NA,"",1,"Toarcian","",182.7,174.1,52103,"gp_mid",19.1,38.01,"315",178.4,"toarcian",30035,20.8724,37.1688,39,1
@@ -2115,9 +2143,11 @@
 "129039",186707,"col","Fernie",-115.52,51.76,"RTMP L2428, East tributary of Bighorn Creek, Ya Ha Tinda",NA,"",1,"Bifrons","",182,175.6,62619,"gp_mid",-38.03,37.62,"101",178.8,"toarcian",34167,-42.4631,38.6422,39,1
 "131575",191474,"col","",13.38,37.83,"Rocca Busambra",NA,"",7,"Toarcian","",182.7,174.1,64599,"gp_mid",NA,NA,"coordinates not computable using this model",178.4,"toarcian",34654,22.4982,22.5241,39,1
 "131846",191986,"col","Rosso Ammonitico",12.84,42.58,"Polino area",NA,"",1,"Bifrons","",182,175.6,64850,"gp_mid",32.26,26.43,"307",178.8,"toarcian",34699,11.25,42.5,39,1
+"133467",195988,"col","Beacon Limestone",-1.41,52.08,"Wroxton Pit, Wroxton",NA,"",1,"Toarcian","",182.7,174.1,66694,"gp_mid",19.9,39.31,"315",178.4,"toarcian",35094,21.9944,40.5773,39,1
 "133572",196148,"col","Bridport Sand",-2.63,50.94,"Yeovil (Yeovil Sands)",NA,"",1,"Late Toarcian","",180.1,175.6,66694,"gp_mid",19.3,38.03,"315",177.85,"toarcian",30036,20.8724,37.1688,39,1
 "133627",196237,"col","Beacon Limestone",-2.91,50.92,"Ilminster (Bifrons zone, BMNH)",NA,"",1,"Bifrons","",182,175.6,66694,"gp_mid",18.69,38.41,"315",178.8,"toarcian",35128,20.8724,37.1688,39,1
 "133628",196238,"col","Beacon Limestone",-2.91,50.92,"Ilminster (Bifrons zone, SM)",NA,"",1,"Bifrons","",182,175.6,66694,"gp_mid",18.69,38.41,"315",178.8,"toarcian",35128,20.8724,37.1688,39,1
+"136341",201839,"col","Yeba",92.17,30.15,"Dezhong Section, 21P5, Yangmugang",NA,"Lhasa Basin",12,"Toarcian","",182.7,174.1,18699,"gp_mid",95.49,2.18,"613",178.4,"toarcian",35764,108.6378,1.6197,39,1
 "136577",202125,"col","",12.68,43.5,"Val Tenetra",NA,"",1,"Toarcian","",182.7,174.1,69238,"gp_mid",33.24,26.54,"307",178.4,"toarcian",35819,11.25,42.5,39,1
 "136578",202126,"col","",12.64,42.67,"SS3 Flaminia Km",NA,"",1,"Toarcian","",182.7,174.1,69238,"gp_mid",32.44,26.14,"307",178.4,"toarcian",35820,11.25,42.5,39,1
 "136579",202127,"col","",12.64,43.51,"Burano NW",NA,"",1,"Toarcian","",182.7,174.1,69238,"gp_mid",33.24,26.57,"307",178.4,"toarcian",35821,11.25,42.5,39,1

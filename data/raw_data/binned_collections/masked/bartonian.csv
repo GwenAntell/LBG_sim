@@ -1,10 +1,26 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"1107",2452,"col","Crockett",-96.37,30.67,"Little Brazos River, TX; upstream from rt 21 bridge",NA,"Brazos",43,"Bartonian","",41.3,38,72,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"1108",2453,"col","Lisbon",-87.8,31.5,"Little Stave Creek, uppermost Lisbon shells, 3.5' above burrowed surface (sequen",NA,"ACl-4-a1",84,"Bartonian","",41.3,38,72,"gp_mid",-70.57,35.14,"109",39.65,"bartonian",330,-77.1208,31.453,14,1
+"1116",2454,"col","Lisbon",-87.8,31.5,"Little Stave Creek, uppermost Lisbon shell bed, 3.5' above burrowed surface; bag",NA,"ACl-4-a2",66,"Bartonian","",41.3,38,72,"gp_mid",-70.57,35.14,"109",39.65,"bartonian",330,-77.1208,31.453,14,1
 "1409",2959,"col","",31.25,30.05,"Egypt 9 (Mokattam)",NA,"",31,"Bartonian","",41.3,38,130,"gp_mid",32.83,18.53,"715",39.65,"bartonian",424,24.7711,24.3624,14,1
 "1410",2960,"col","",30.83,29.32,"Egypt 10 (Fayium)",NA,"",27,"Bartonian","",41.3,38,130,"gp_mid",32.4,17.82,"715",39.65,"bartonian",425,24.7711,24.3624,14,1
+"1566",3312,"col","",-75.12,9.68,"C.A.S. locality 31694, Colombia",NA,"",37,"Bartonian","",41.3,38,182,"gp_mid",-61.91,9.3,"203",39.65,"bartonian",453,-68.9993,5.4215,14,1
 "1581",3494,"col","Sables a Nummulites variolarius",2.5,49.25,"Saint-Vast-les-Mello, Barisseuse",NA,"",343,"Bartonian","",41.3,38,201,"gp_mid",8.04,42.54,"315",39.65,"bartonian",455,-1.7355,47.6486,14,1
+"1584",3505,"col","Moodys Branch",-87.8,31.5,"ACl-7 (Moodys Branch)",NA,"",9,"Bartonian","",41.3,38,124,"gp_mid",-70.57,35.14,"109",39.65,"bartonian",330,-77.1208,31.453,14,1
+"1585",3506,"col","Moodys Branch",-87.78,31.71,"ACl-12",NA,"",4,"Bartonian","",41.3,38,124,"gp_mid",-70.49,35.34,"109",39.65,"bartonian",458,-77.1208,31.453,14,1
+"1586",3507,"col","Moodys Branch",-86.77,31.26,"ACon-3",NA,"",5,"Bartonian","",41.3,38,124,"gp_mid",-69.57,34.74,"109",39.65,"bartonian",459,-77.1208,31.453,14,1
+"1587",3508,"col","Moodys Branch",-86.48,31.31,"ACov-2 (Moodys Branch)",NA,"",14,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1588",3509,"col","Moodys Branch",-86.48,31.31,"ACov-3",NA,"",10,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1589",3510,"col","Moodys Branch",-86.48,31.31,"ACov-4 (Moodys Branch)",NA,"",14,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1590",3511,"col","Moodys Branch",-86.48,31.31,"ACov-15",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1591",3512,"col","Moodys Branch",-86.48,31.31,"ACov-16",NA,"",9,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1592",3513,"col","Moodys Branch",-86.48,31.31,"ACov-17 (Moodys Branch)",NA,"",2,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
+"1593",3514,"col","Moodys Branch",-86.48,31.31,"ACov-19 (Moodys Branch)",NA,"",4,"Bartonian","",41.3,38,124,"gp_mid",-69.27,34.73,"109",39.65,"bartonian",460,-77.1208,31.453,14,1
 "1594",3515,"col","Moodys Branch",-85.86,31.03,"AGe-1 (Moodys Branch)",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-68.71,34.36,"109",39.65,"bartonian",461,-77.3954,28.9643,14,1
 "1595",3516,"col","Moodys Branch",-85.85,31.03,"AGe-3 (Moodys Branch)",NA,"",12,"Bartonian","",41.3,38,124,"gp_mid",-68.69,34.35,"109",39.65,"bartonian",462,-77.3954,28.9643,14,1
 "1596",3517,"col","Moodys Branch",-84.86,30.71,"AHo-1 (Moodys Branch)",NA,"",2,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,"bartonian",463,-77.3954,28.9643,14,1
+"1597",3518,"col","Moodys Branch",-87.58,31.55,"AMo-4 (Moodys Branch)",NA,"",12,"Bartonian","",41.3,38,124,"gp_mid",-70.33,35.15,"109",39.65,"bartonian",464,-77.1208,31.453,14,1
+"1598",3519,"col","Moodys Branch",-87.58,31.55,"AMo-6 (Moodys Branch)",NA,"",2,"Bartonian","",41.3,38,124,"gp_mid",-70.33,35.15,"109",39.65,"bartonian",464,-77.1208,31.453,14,1
 "1599",3520,"col","Moodys Branch",-87.94,31.14,"AWa-2 (Moodys Branch)",NA,"",11,"Bartonian","",41.3,38,124,"gp_mid",-70.8,34.81,"109",39.65,"bartonian",465,-77.3954,28.9643,14,1
 "1600",3525,"col","Moodys Branch",-84.86,30.71,"GEa-5 (Moodys Branch)",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,"bartonian",463,-77.3954,28.9643,14,1
 "1601",3526,"col","Moodys Branch",-84.86,30.71,"GEa-6 (Moodys Branch)",NA,"",3,"Bartonian","",41.3,38,124,"gp_mid",-67.77,33.87,"109",39.65,"bartonian",463,-77.3954,28.9643,14,1
@@ -15,6 +31,17 @@
 "1703",3719,"col","",2.2,49.02,"Ezanville, Beauchamp (France)",NA,"",3,"Bartonian","",41.3,38,234,"gp_mid",7.75,42.32,"305",39.65,"bartonian",497,-1.7355,47.6486,14,1
 "1704",3720,"col","",2.2,49.02,"Beauchamp, France",NA,"",8,"Bartonian","",41.3,38,234,"gp_mid",7.75,42.32,"305",39.65,"bartonian",497,-1.7355,47.6486,14,1
 "1705",3721,"col","",2.17,49.07,"Guepelle, France",NA,"",12,"Bartonian","",41.3,38,234,"gp_mid",7.72,42.37,"305",39.65,"bartonian",498,-1.7355,47.6486,14,1
+"2506",5311,"col","Gosport Sand",-87.9,31.52,"Little Stave Creek 1 (Gosport Sand, AL)",NA,"",53,"Bartonian","",41.3,38,315,"gp_mid",-70.67,35.18,"109",39.65,"bartonian",917,-77.1208,31.453,14,1
+"2507",5312,"col","Gosport Sand",-87.9,31.52,"Little Stave Creek 2 (Gosport Sand, AL)",NA,"",53,"Bartonian","",41.3,38,315,"gp_mid",-70.67,35.18,"109",39.65,"bartonian",917,-77.1208,31.453,14,1
+"2508",5316,"col","Gosport Sand",-87.9,31.52,"Little Stave Creek 3 (Gosport Sand, AL)",NA,"",21,"Bartonian","",41.3,38,315,"gp_mid",-70.67,35.18,"109",39.65,"bartonian",917,-77.1208,31.453,14,1
+"2509",5318,"col","Gosport Sand",-87.9,31.52,"LIttle Stave Creek 4 (Gosport Sand, AL)",NA,"",58,"Bartonian","",41.3,38,315,"gp_mid",-70.67,35.18,"109",39.65,"bartonian",917,-77.1208,31.453,14,1
+"2510",5320,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 1 (Gosport Sand, AL)",NA,"",59,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2511",5321,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 2 (Gosport Sand, AL)",NA,"",61,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2512",5322,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 3 (Gosport Sand, AL)",NA,"",69,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2513",5330,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 4 (Gosport Sand, AL)",NA,"",51,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2514",5332,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 5 (Gosport Sand, AL)",NA,"",42,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2515",5334,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 6 (Gosport Sand, AL)",NA,"",35,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"2516",5335,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff 7 (Gosport Sand, AL)",NA,"",28,"Bartonian","",41.3,38,315,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
 "2523",5354,"col","Santee Limestone",-79.69,33.33,"GE-1 (Santee Limestone, South Carolina)",NA,"",67,"Bartonian","",41.3,38,318,"gp_mid",-61.9,35.53,"109",39.65,"bartonian",925,-69.7624,30.8565,14,1
 "2524",5353,"col","Santee Limestone",-80.15,33.38,"BE-8 (Santee Limestone, South Carolina)",NA,"",29,"Bartonian","",41.3,38,318,"gp_mid",-62.34,35.66,"109",39.65,"bartonian",926,-69.7624,30.8565,14,1
 "2525",5345,"col","Santee Limestone",-80.1,33.41,"BE-1 (Santee Limestone, South Carolina)",NA,"",29,"Bartonian","",41.3,38,318,"gp_mid",-62.29,35.69,"109",39.65,"bartonian",927,-69.7624,30.8565,14,1
@@ -32,6 +59,12 @@
 "2590",5482,"col","Santee Limestone",-79.46,33.24,"Santee River (Santee LS, S. Carolina)",NA,"",1,"Bartonian","",41.3,38,319,"gp_mid",-61.69,35.4,"109",39.65,"bartonian",972,-69.7624,30.8565,14,1
 "2591",5483,"col","Santee Limestone",-80.54,33.57,"USGS 4586 (Santee LS, S. Carolina)",NA,"",1,"Bartonian","",41.3,38,319,"gp_mid",-62.69,35.92,"109",39.65,"bartonian",973,-69.7624,30.8565,14,1
 "2592",5484,"col","Santee Limestone",-80.15,33.38,"canal (Santee Limestone, S. Carolina)",NA,"",1,"Bartonian","",41.3,38,319,"gp_mid",-62.34,35.66,"109",39.65,"bartonian",926,-69.7624,30.8565,14,1
+"2939",2441,"col","Lisbon",-88.1,31.76,"Coffeeville, AL, middle fault block, bed C oysters, bag #2",NA,"ACl-3-c2",49,"Bartonian","",41.3,38,72,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"2940",2440,"col","Lisbon",-88.1,31.76,"Coffeeville, AL, middle fault block, oyster bed at base of shell bed",NA,"ACl-3-c1",41,"Bartonian","",41.3,38,72,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"2947",2443,"col","Lisbon",-88.1,31.76,"Coffeeville, AL, middle fault block, above oysters, bag #1",NA,"ACl-3-d",49,"Bartonian","",41.3,38,72,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"2948",2416,"col","Lisbon",-88.1,31.76,"Coffeeville Landing, south fault block, lowermost shell bed",NA,"ACl-3-a",82,"Bartonian","",41.3,38,72,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"2949",2417,"col","Lisbon",-88.1,31.76,"Coffeeville Landing, south fault block, above highest oyster bed",NA,"ACl-3-b",78,"Bartonian","",41.3,38,72,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"3233",7317,"col","Moodys Branch",-87.8,31.5,"Clarke County",NA,"ACl-1",14,"Bartonian","",41.3,38,471,"gp_mid",-70.57,35.14,"109",39.65,"bartonian",330,-77.1208,31.453,14,1
 "3236",7321,"col","Crystal River Limestone",-85.23,30.77,"Jackson County, Florida #15",NA,"FJ-15",19,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,"bartonian",1097,-77.3954,28.9643,14,1
 "3250",7324,"col","Crystal River Limestone",-82.61,29.65,"Alachua County, Florida #2",NA,"FA-2",31,"Bartonian","",41.3,38,471,"gp_mid",-65.74,32.44,"109",39.65,"bartonian",1099,-73.7049,28.6626,14,1
 "3251",7322,"col","Crystal River Limestone",-82.61,29.65,"Alachua County, Florida #1",NA,"FA-1",34,"Bartonian","",41.3,38,471,"gp_mid",-65.74,32.44,"109",39.65,"bartonian",1099,-73.7049,28.6626,14,1
@@ -42,22 +75,37 @@
 "3256",7330,"col","Crystal River",-85.23,30.77,"Jackson County #6",NA,"FJ-6",44,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,"bartonian",1097,-77.3954,28.9643,14,1
 "3259",7331,"col","Pachuta Marl",-87.94,31.14,"Washington County, Alabama",NA,"AW-1",33,"Bartonian","",41.3,38,471,"gp_mid",-70.8,34.81,"109",39.65,"bartonian",465,-77.3954,28.9643,14,1
 "3260",7332,"col","Bumpnose",-85.23,30.77,"Jackson County,Florida #9",NA,"FJ-9",26,"Bartonian","",41.3,38,471,"gp_mid",-68.12,33.99,"109",39.65,"bartonian",1097,-77.3954,28.9643,14,1
+"3658",7437,"col","Stone City",-96.69,30.53,"Nelson 1",NA,"",87,"Bartonian","",41.3,38,466,"gp_mid",-79.97,35.65,"101",39.65,"bartonian",1186,-88.5305,29.8933,14,1
+"3659",7438,"col","Stone City",-96.69,30.53,"Nelson 2",NA,"",99,"Bartonian","",41.3,38,466,"gp_mid",-79.97,35.65,"101",39.65,"bartonian",1186,-88.5305,29.8933,14,1
+"3660",7439,"col","Stone City",-96.69,30.53,"Nelson 3",NA,"",102,"Bartonian","",41.3,38,466,"gp_mid",-79.97,35.65,"101",39.65,"bartonian",1186,-88.5305,29.8933,14,1
 "3670",8676,"col","Drazinda",70.12,29.95,"Fossil Bed F.1986, Rakhi Nala",NA,"",32,"Bartonian","",41.3,38,599,"gp_mid",71.65,11.01,"501",39.65,"bartonian",1187,64.0062,17.3491,14,1
 "3671",183819,"col","Drazinda",70.12,29.95,"Fossil Bed F.1995, Rakhi Nala",NA,"",18,"Bartonian","",41.3,38,599,"gp_mid",71.65,11.01,"501",39.65,"bartonian",1187,64.0062,17.3491,14,1
 "4070",11290,"col","",67.77,25.97,"Maliri, Sind, Pakistan",NA,"Reef 3170",16,"Bartonian","",41.3,38,4154,"gp_mid",68.51,7.75,"501",39.65,"bartonian",1313,61.8374,19.9304,14,1
 "4226",11596,"col","Drazinda",70.43,30.78,"Bari Nadi 4",NA,"Ro3",2,"Bartonian","",41.3,38,6010,"gp_mid",72.14,11.74,"501",39.65,"bartonian",1361,64.0062,17.3491,14,1
 "4883",12847,"col","Calcaire de Saint-Ouen",3.35,49.13,"Grisolles",NA,"",43,"Bartonian","",41.3,38,12522,"gp_mid",8.78,42.39,"315",39.65,"bartonian",1471,-1.7355,47.6486,14,1
 "4948",13064,"col","Drazinda",70.44,30.79,"Bari Nadi 3",NA,"Ro2",2,"Bartonian","",41.3,38,6010,"gp_mid",72.15,11.74,"501",39.65,"bartonian",1495,64.0062,17.3491,14,1
+"7907",16848,"col","Gosport",-87.9,31.5,"Little Stave Creek",NA,"",20,"Bartonian","",41.3,38,3052,"gp_mid",-70.67,35.16,"109",39.65,"bartonian",1871,-77.1208,31.453,14,1
 "12797",24109,"col","",-2.62,50.98,"Highcliffs sands/Cliff End Beds, near Mudeford",NA,"",56,"Bartonian","",41.3,38,6818,"gp_mid",3.71,44.53,"315",39.65,"bartonian",2385,-8.8375,47.2394,14,1
 "14887",28979,"col","Drazinda",70.46,30.78,"Bari Nadi 1",NA,"",1,"Bartonian","",41.3,38,8327,"gp_mid",72.17,11.72,"501",39.65,"bartonian",2898,64.0062,17.3491,14,1
 "14888",28980,"col","Drazinda",70.47,30.76,"Bari Nadi 2",NA,"",1,"Bartonian","",41.3,38,8327,"gp_mid",72.17,11.71,"501",39.65,"bartonian",2899,64.0062,17.3491,14,1
 "16985",31173,"col","La Meseta",-56.65,-64.24,"RV-8200, Seymour Island",NA,"DVP 6/84, RV 8200",55,"Bartonian","",41.3,38,8393,"gp_mid",-66.44,-62.42,"803",39.65,"bartonian",3441,-57.2879,-66.274,14,1
 "17361",31584,"col","",3.7,49.22,"Arcis le Ponsart",NA,"",8,"Bartonian","",41.3,38,8517,"gp_mid",9.09,42.46,"315",39.65,"bartonian",3506,-1.7355,47.6486,14,1
+"17494",31718,"col","",7.77,47.32,"Egerkingen, Huppersand fissure",NA,"Egerkingen, Egerkingen Old Collection",28,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"17495",31719,"col","",7.77,47.32,"Egerkingen, gamma fissure",NA,"Egerkingen",19,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"17496",31720,"col","",7.77,47.32,"Egerkingen, alpha fissure",NA,"Egerkingen",43,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"17497",31721,"col","",7.77,47.32,"Egerkingen, beta fissure",NA,"Egerkingen",27,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"17498",31722,"col","",7.77,47.32,"Egerkingen, Gray Marls fissure",NA,"Egerkingen",13,"Bartonian","",41.3,38,8545,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"17520",31742,"col","",7.25,47,"Mormont Eclepens",NA,"Eclepens Gare",36,"Bartonian","",41.3,38,8517,"gp_mid",12.06,40.1,"305",39.65,"bartonian",3536,2.1668,45.379,14,1
+"18507",32905,"col","Ameki",7.52,5.56,"Ameki, SE of",NA,"",30,"Bartonian","",41.3,38,8817,"gp_mid",7.66,-3.49,"701",39.65,"bartonian",3710,2.0132,0.0837,14,1
+"18508",32906,"col","Ameki",7,6,"Port Harcourt RR",NA,"",3,"Bartonian","",41.3,38,8818,"gp_mid",7.21,-2.98,"701",39.65,"bartonian",3711,2.0132,0.0837,14,1
+"18521",32921,"col","Cook Mountain",-95.91,31.13,"Two Mile Creek",NA,"Locality 145-T-71, Bureau of Economic Geology, University of Texas, Houston Land",1,"Bartonian","",41.3,38,8335,"gp_mid",-79.02,36.12,"101",39.65,"bartonian",3722,-88.5305,29.8933,14,1
 "20220",34995,"col","Avon Park",-81.51,27.6,"Avon Park Formation (Florida) fauna",NA,"Avon Park Formation fauna",2,"Bartonian","",41.3,38,9411,"gp_mid",-65.1,30.24,"109",39.65,"bartonian",4049,-73.9612,26.173,14,1
 "21551",36866,"col","Cowlitz",-122.93,46.4,"UCMP Loc. 7162 - Cowlitz River [Cowlitz Fm]",NA,"",2,"Bartonian","",41.3,38,9870,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",4376,-112.0929,48.4682,14,1
 "22914",38814,"col","""Caliza de Peguera""",2.83,39.68,"Binissalem, Island of Mallorca",NA,"",10,"Bartonian","",41.3,38,10603,"gp_mid",NA,NA,"coordinates not computable using this model",39.65,"bartonian",4772,-1.0989,37.7538,14,1
 "23094",39014,"col","Creechbarrow Limestone",-2.12,50.65,"Creechbarrow Hill",NA,"",99,"Bartonian","",41.3,38,10516,"gp_mid",4.11,44.17,"315",39.65,"bartonian",4826,-8.8375,47.2394,14,1
 "24263",40731,"col","Cowlitz",-122.84,46.46,"Cowlitz Formation",NA,"",1,"Bartonian","",41.3,38,10972,"gp_mid",-100.84,52.61,"129",39.65,"bartonian",5131,-112.0929,48.4682,14,1
+"24324",40794,"col","",28.45,41.15,"Level 3, Bartonian, Catalca-Karacakoy, Turkey",NA,"",7,"Bartonian","",41.3,38,11023,"gp_mid",29.59,28.1,"308",39.65,"bartonian",5144,24.9939,39.4001,14,1
+"24770",41427,"col","Stone City",-96.54,30.63,"Bed D, Stone City Bluff",NA,"",14,"Bartonian","",41.3,38,59836,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
 "25183",41908,"col","""Cardita Series""",33.07,29.08,"Gebel Tanka (""Cardita Series""), Egypt -Tawadros (2001)",NA,"""Cardita Series"", Gebel Tanka",8,"Bartonian","",41.3,38,11199,"gp_mid",33.91,17.42,"508",39.65,"bartonian",5432,28.011,24.1455,14,1
 "25184",41909,"col","""Green Beds""",32.97,29.25,"Wadi Gharandal (""Green Beds""), Egypt -Tawadros (2001)",NA,"""Green Beds"", Wadi Gharandal",4,"Bartonian","",41.3,38,11199,"gp_mid",33.84,17.6,"508",39.65,"bartonian",5433,28.011,24.1455,14,1
 "25185",41910,"col","""Gypseous Marls""",32.97,29.25,"Wadi Gharandal (""Gypseous Marls""), Egypt -Tawadros (2001)",NA,"""Gypseous Marls"", Wadi Gharandal",4,"Bartonian","",41.3,38,11199,"gp_mid",33.84,17.6,"508",39.65,"bartonian",5433,28.011,24.1455,14,1
@@ -78,12 +126,20 @@
 "25322",42058,"col","Saqqara Limestone",31.22,29.94,"Saqqara (Saqqara Limestone), Egypt -Tawadros (2001)",NA,"Saqqara Limestone, Saqqara",1,"Bartonian","",41.3,38,11199,"gp_mid",32.8,18.43,"715",39.65,"bartonian",5455,24.7711,24.3624,14,1
 "25395",42134,"col","Zallah",17.83,28.83,"Zallah Oasis - Unit 2, Zallah Formation",NA,"",7,"Bartonian","",41.3,38,11199,"gp_mid",20.46,18.38,"715",39.65,"bartonian",5479,14.0706,24.6076,14,1
 "25396",42135,"col","Zallah",17.83,28.83,"Zallah Oasis, Burolet - Unit 1, Zallah Formation",NA,"",2,"Bartonian","",41.3,38,11199,"gp_mid",20.46,18.38,"715",39.65,"bartonian",5479,14.0706,24.6076,14,1
+"26137",180309,"col","Stone City",-96.54,30.63,"Bed A, Stone City Bluff",NA,"",1,"Bartonian","",41.3,38,59836,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
+"26177",43110,"col","Crockett",-96.37,30.67,"Crockett L1: Bryan, Brazos County, TX",NA,"",3,"Bartonian","",41.3,38,11405,"gp_mid",-79.61,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"26178",43111,"col","Crockett",-96.32,30.67,"Crockett L2: Campbell's Creek, Brazos County, TX",NA,"",2,"Bartonian","",41.3,38,11405,"gp_mid",-79.55,35.72,"101",39.65,"bartonian",5718,-88.5305,29.8933,14,1
+"26179",43112,"col","Crockett",-96.5,31.03,"Crockett L3: San Antonio-Nacogdoches, Robertson County, TX",NA,"",1,"Bartonian","",41.3,38,11405,"gp_mid",-79.66,36.11,"101",39.65,"bartonian",5719,-88.5305,29.8933,14,1
+"26206",43135,"col","Stone City",-96.62,30.52,"Stone City: Brazos River, Burleson County, TX",NA,"",1,"Bartonian","",41.3,38,11405,"gp_mid",-79.9,35.62,"101",39.65,"bartonian",5727,-88.5305,29.8933,14,1
 "28239",45626,"col","Giushi",31.28,30.04,"Gebel Mokattam, upper",NA,"Schweinfurth IV, Cairo, Egypt",6,"Bartonian","",41.3,38,11953,"gp_mid",32.86,18.52,"715",39.65,"bartonian",6400,24.7711,24.3624,14,1
 "28422",45817,"col","",13.01,47.93,"St. Pankraz",NA,"",3,"Bartonian","",41.3,38,12165,"gp_mid",17.24,40.84,"305",39.65,"bartonian",6496,5.5882,42.7957,14,1
+"30490",48096,"col","Gosport",-87.52,31.56,"US 84 east",NA,"",1,"Bartonian","",41.3,38,12879,"gp_mid",-70.27,35.15,"109",39.65,"bartonian",7151,-77.1208,31.453,14,1
 "30552",48159,"col","Orizzonte di Roncà",11.29,45.81,"Monte Duello",NA,"Monte Zuello",15,"Bartonian","",41.3,38,36621,"gp_mid",17.37,36.45,"307",39.65,"bartonian",7173,10.2197,40.0805,14,1
 "31326",49137,"col","",64.67,41,"Dzheroi 2",NA,"Dzheroi II",4,"Bartonian","",41.3,38,38167,"gp_mid",63.93,35.14,"402",39.65,"bartonian",7425,58.9066,41.7663,14,1
 "31343",49152,"col","Shorym",51.65,44.57,"Ussak",NA,"",2,"Bartonian","",41.3,38,12996,"gp_mid",51.72,37.91,"402",39.65,"bartonian",7428,46.8085,45.9788,14,1
 "31368",126059,"col","Shark River",-74.01,40.18,"Belmar",NA,"",1,"Bartonian","",41.3,38,40953,"gp_mid",-54.3,41.21,"109",39.65,"bartonian",7441,-65.2469,38.0357,14,1
+"31377",126111,"col","",-126.47,49.39,"Hesquiat",NA,"Hesquiat Point",2,"Bartonian","",41.3,38,40955,"gp_mid",-108.33,58.17,"128",39.65,"bartonian",7446,-115.2212,51.2942,14,1
+"31379",126109,"col","Nestucca",-124,45.05,"Salmon River at Cascade Head",NA,"",2,"Bartonian","",41.3,38,40955,"gp_mid",-102.39,51.29,"129",39.65,"bartonian",7448,-112.6878,46.001,14,1
 "31759",49749,"col","",22.58,51.24,"Siemien section (2.60-3.30 m), Poland",NA,"2.60-3.30",9,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,"bartonian",7564,16.2685,48.8316,14,1
 "31760",49751,"col","",22.58,51.24,"Siemien section (3.30-3.90 m), Poland",NA,"3.30-3.90",19,"Bartonian","",41.3,38,13353,"gp_mid",25.75,43.99,"302",39.65,"bartonian",7564,16.2685,48.8316,14,1
 "31761",49750,"col","",22.58,51.24,"Upper Eocene of Siemien-Luszawa region",NA,"",30,"Bartonian","",41.3,38,13352,"gp_mid",25.75,43.99,"302",39.65,"bartonian",7564,16.2685,48.8316,14,1
@@ -92,6 +148,9 @@
 "31857",49882,"col","Avon Park",-82.65,29.01,"Florida Lime Works quarry",NA,"Dolime Minerals Quarry",53,"Bartonian","",41.3,38,12993,"gp_mid",-65.93,31.82,"109",39.65,"bartonian",7590,-73.7049,28.6626,14,1
 "32029",50149,"col","Otaio Limonitic Greensand",170.93,-44.52,"S118/f520",NA,"GS 5304",13,"Bartonian","",41.3,38,13479,"gp_mid",-159.87,-46.07,"807",39.65,"bartonian",7650,-170.0259,-54.7007,14,1
 "32033",50157,"col","Island Sandstone",171.54,-42.11,"S37/f577",NA,"GS 3608",3,"Bartonian","",41.3,38,13482,"gp_mid",-168.52,-49.57,"806",39.65,"bartonian",7652,-169.3768,-52.2307,14,1
+"32115",50356,"col","Tortachilla Limestone",138.47,-35.13,"Christies Beach, Port Noarlunga section",NA,"",1,"Bartonian","",41.3,38,13527,"gp_mid",148.17,-55.13,"801",39.65,"bartonian",7682,132.899,-55.6255,14,1
+"32117",50358,"col","Tortachilla Limestone",138.66,-34.88,"Campbelltown",NA,"",1,"Bartonian","",41.3,38,13527,"gp_mid",148.29,-54.84,"801",39.65,"bartonian",7683,132.899,-55.6255,14,1
+"32119",50360,"col","Tortachilla Limestone",138.01,-34.3,"Northern Yorke Peninsula",NA,"",1,"Bartonian","",41.3,38,13527,"gp_mid",147.09,-54.45,"801",39.65,"bartonian",7684,132.899,-55.6255,14,1
 "33686",52130,"col","Waihao",171.1,-44.16,"S102/f2 - Kakahu River, Canterbury",NA,"Collection #2588 (Hendy PhD); GS #163",4,"Bartonian","",41.3,38,14008,"gp_mid",-159.67,-45.7,"807",39.65,"bartonian",8044,-170.0259,-54.7007,14,1
 "33687",52131,"col","Waihao",171.1,-44.16,"S102/f3 - Kakahu River, Canterbury",NA,"Collection #2589 (Hendy PhD); GS #164",15,"Bartonian","",41.3,38,14008,"gp_mid",-159.67,-45.7,"807",39.65,"bartonian",8044,-170.0259,-54.7007,14,1
 "33766",52204,"col","Cowlitz",-122.96,46.4,"Turritella-Tivela assemblage - Cowlitz Formation",NA,"",72,"Bartonian","",41.3,38,14035,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",8087,-112.0929,48.4682,14,1
@@ -133,29 +192,77 @@
 "49028",73639,"col","Guépelle",2.4,49.02,"Ophuiroidea, Sablière du Plessis-Gassot, Auversien",NA,"",2,"Bartonian","",41.3,38,24697,"gp_mid",7.93,42.31,"305",39.65,"bartonian",12037,-1.7355,47.6486,14,1
 "49091",73780,"col","Paracas",-75.64,-14.67,"Archaeocete Valley, Paracas, AV-15",NA,"",1,"Bartonian","",41.3,38,36484,"gp_mid",-64.4,-14.93,"201",39.65,"bartonian",12053,-66.5647,-19.2331,14,1
 "50732",76569,"col","Fulra",68.8,23.4,"Fulra Fm",NA,"",1,"Bartonian","",41.3,38,25879,"gp_mid",68.7,5.03,"501",39.65,"bartonian",12530,58.9758,10.7348,14,1
+"51125",77352,"col","Yegua",-96.65,30.53,"J. H. Giesenschlag property",NA,"",1,"Bartonian","",41.3,38,26179,"gp_mid",-79.93,35.64,"101",39.65,"bartonian",12644,-88.5305,29.8933,14,1
 "51128",77358,"col","La Meseta",-56.69,-64.29,"Snow Hill, next to",NA,"",6,"Bartonian","",41.3,38,26183,"gp_mid",-66.49,-62.47,"803",39.65,"bartonian",12646,-57.2879,-66.274,14,1
 "51902",78656,"col","Cowlitz",-123.42,46.33,"Nehalem River corals",NA,"",2,"Bartonian","",41.3,38,26445,"gp_mid",-101.51,52.53,"129",39.65,"bartonian",12896,-112.0929,48.4682,14,1
 "52426",79674,"col","Mokattam",30.59,29.59,"Kamelpass",NA,"",8,"Bartonian","",41.3,38,29185,"gp_mid",32.2,18.11,"715",39.65,"bartonian",13035,24.7711,24.3624,14,1
 "52427",79675,"col","",9.4,35.58,"Oued Kouki",NA,"",1,"Bartonian","",41.3,38,26771,"gp_mid",13.77,25.99,"714",39.65,"bartonian",13036,7.2063,29.8754,14,1
 "52637",80171,"col","Soldado",-62.01,10.08,"Bed No. 6, Soldado Rock [Soldado Fm]",NA,"",1,"Bartonian","",41.3,38,26958,"gp_mid",-48.85,8.67,"201",39.65,"bartonian",13120,-56.1521,6.1463,14,1
 "53162",81264,"col","Gosport Sand",-83.42,32.68,"GTw-1 Gosport",NA,"",8,"Bartonian","",41.3,38,124,"gp_mid",-65.82,35.55,"109",39.65,"bartonian",466,-73.4362,31.1517,14,1
+"53164",81266,"col","Gosport Sand",-87.8,31.5,"ACl-4 Gosport",NA,"",170,"Bartonian","",41.3,38,124,"gp_mid",-70.57,35.14,"109",39.65,"bartonian",330,-77.1208,31.453,14,1
+"53166",81275,"col","Gosport Sand",-87.58,31.57,"ACl-8 Gosport",NA,"",24,"Bartonian","",41.3,38,124,"gp_mid",-70.33,35.17,"109",39.65,"bartonian",13301,-77.1208,31.453,14,1
+"53167",81278,"col","Gosport Sand",-87.57,31.53,"AMo-4 Gosport",NA,"",71,"Bartonian","",41.3,38,124,"gp_mid",-70.32,35.14,"109",39.65,"bartonian",13302,-77.1208,31.453,14,1
+"53168",81279,"col","Gosport Sand",-87.57,31.53,"AMo-6 Gosport",NA,"",14,"Bartonian","",41.3,38,124,"gp_mid",-70.32,35.14,"109",39.65,"bartonian",13302,-77.1208,31.453,14,1
 "53169",81282,"col","Gosport Sand",-87.93,31.13,"AWa-2 Gosport",NA,"",64,"Bartonian","",41.3,38,124,"gp_mid",-70.79,34.81,"109",39.65,"bartonian",13303,-77.3954,28.9643,14,1
+"53474",81849,"col","",-95.78,31.12,"Leona - Cook Mountain Fm [Nautiloida]",NA,"",0,"Bartonian","",41.3,38,27587,"gp_mid",-78.88,36.08,"101",39.65,"bartonian",13439,-88.5305,29.8933,14,1
 "53477",81852,"col","Cowlitz",-122.96,46.4,"Cowlitz River - Cowlitz Fm [Nautiloida]",NA,"",1,"Bartonian","",41.3,38,27587,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",8087,-112.0929,48.4682,14,1
 "53580",82031,"col","Pauji",-71.64,10.65,"Cañada Honda, Maracaibo",NA,"",1,"Bartonian","",41.3,38,27659,"gp_mid",-58.37,9.98,"203",39.65,"bartonian",13498,-64.779,4.9241,14,1
 "53585",82040,"col","Giralia Calcarenite",114.05,-22.67,"GIR-1, Giralia-Cardabia Range",NA,"",1,"Bartonian","",41.3,38,18233,"gp_mid",111,-46.55,"801",39.65,"bartonian",13502,97.9057,-42.428,14,1
 "53586",82039,"col","Giralia Calcarenite",114.05,-22.67,"GIR-2, Giralia-Cardabia Range",NA,"",3,"Bartonian","",41.3,38,18233,"gp_mid",111,-46.55,"801",39.65,"bartonian",13502,97.9057,-42.428,14,1
 "53587",82041,"col","Giralia Calcarenite",114.2,-22.6,"GIR-3, Giralia-Cardabia Range",NA,"",1,"Bartonian","",41.3,38,18233,"gp_mid",111.2,-46.48,"801",39.65,"bartonian",13503,97.9057,-42.428,14,1
+"54529",83251,"col","Gosport Sand",-87.52,31.54,"Claiborne Bluff, G. F. Harris collection",NA,"",7,"Bartonian","",41.3,38,27954,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
 "55094",84022,"col","Shark River",-74.17,40.2,"Farmingdale",NA,"Freehold and Squankum Company",12,"Bartonian","",41.3,38,13420,"gp_mid",-54.45,41.26,"109",39.65,"bartonian",13990,-65.2469,38.0357,14,1
 "55394",84510,"col","Aydim",53.15,15.68,"Aydim",NA,"",1,"Bartonian","",41.3,38,28323,"gp_mid",NA,NA,"coordinates not computable using this model",39.65,"bartonian",14102,44.3143,5.4627,14,1
+"55786",85002,"col","Borova",19,49.02,"Jaseno, patch reef",NA,"Reef 3903",4,"Bartonian","",41.3,38,28528,"gp_mid",24.89,37.62,"308",39.65,"bartonian",14220,12.6358,48.5802,14,1
+"55787",85003,"col","Borova",18.38,48.67,"Skacany",NA,"",1,"Bartonian","",41.3,38,28529,"gp_mid",24.26,37.43,"308",39.65,"bartonian",14221,12.4346,43.6875,14,1
+"57202",87139,"col","Cook Mountain",-97.15,30,"Smithville, loc. 1231, Wheelock Member",NA,"",3,"Bartonian","",41.3,38,29333,"gp_mid",-80.57,35.2,"101",39.65,"bartonian",14794,-88.5305,29.8933,14,1
+"57205",87142,"col","Stone City",-96.54,30.63,"Brazos River, loc. 1279, topmost Stone City",NA,"",2,"Bartonian","",41.3,38,29333,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
+"57239",87177,"col","Gosport Sand",-87.5,31.53,"Claiborne Bluff, loc. 56",NA,"",3,"Bartonian","",41.3,38,29333,"gp_mid",-70.25,35.13,"109",39.65,"bartonian",14802,-77.1208,31.453,14,1
+"57953",88091,"col","Claiborne Sand",-87.5,31.53,"Claiborne",NA,"",30,"Bartonian","",41.3,38,13490,"gp_mid",-70.25,35.13,"109",39.65,"bartonian",14802,-77.1208,31.453,14,1
+"58127",88278,"col","",-75.17,9.75,"El Carmen, 6 mi. W of (Horizon F)",NA,"",48,"Bartonian","",41.3,38,29642,"gp_mid",-61.95,9.37,"203",39.65,"bartonian",15083,-68.9993,5.4215,14,1
+"58129",88279,"col","",-75.17,9.75,"El Carmen, 6 mi. SW of (Horizon F)",NA,"",9,"Bartonian","",41.3,38,29642,"gp_mid",-61.95,9.37,"203",39.65,"bartonian",15083,-68.9993,5.4215,14,1
+"58130",88280,"col","",-75.17,9.75,"Caracolí, 1 mi. N of (Horizon C)",NA,"",4,"Bartonian","",41.3,38,29642,"gp_mid",-61.95,9.37,"203",39.65,"bartonian",15083,-68.9993,5.4215,14,1
 "58193",88341,"col","Drazinda",70.23,30.9,"Baher Dabh Shumali",NA,"",7,"Bartonian","",41.3,38,7933,"gp_mid",72,11.89,"501",39.65,"bartonian",15113,64.0062,17.3491,14,1
+"58826",92237,"col","Cook Mountain",-96.39,30.9,"M 404",NA,"",7,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"59123",89614,"col","Moodys Branch",-88.04,31.57,"St. Stephens Quarry, Moodys Branch Formation",NA,"Saint Stephens, Lone Star Cement Quarry",2,"Bartonian","",41.3,38,30048,"gp_mid",-70.8,35.25,"109",39.65,"bartonian",15393,-77.1208,31.453,14,1
+"59124",89615,"col","Gosport Sand",-88.04,31.57,"St. Stephens Quarry, Gosport Sand Formation",NA,"Saint Stephens, Lone Star Cement Quarry",4,"Bartonian","",41.3,38,30048,"gp_mid",-70.8,35.25,"109",39.65,"bartonian",15393,-77.1208,31.453,14,1
 "59243",90021,"col","Paracas",-75.64,-14.67,"Archaeocete Valley, Paracas, AV-17",NA,"",1,"Bartonian","",41.3,38,36484,"gp_mid",-64.4,-14.93,"201",39.65,"bartonian",12053,-66.5647,-19.2331,14,1
 "59244",90022,"col","Paracas",-75.64,-14.67,"Archaeocete Valley, Paracas, AV-19",NA,"",1,"Bartonian","",41.3,38,36484,"gp_mid",-64.4,-14.93,"201",39.65,"bartonian",12053,-66.5647,-19.2331,14,1
+"59487",90454,"col","Cook Mountain",-96.53,30.62,"PRI 727",NA,"",46,"Bartonian","",41.3,38,11845,"gp_mid",-79.79,35.71,"101",39.65,"bartonian",15561,-88.5305,29.8933,14,1
+"59502",90469,"col","Lisbon",-87.5,31.53,"PRI 734",NA,"",98,"Bartonian","",41.3,38,11845,"gp_mid",-70.25,35.13,"109",39.65,"bartonian",14802,-77.1208,31.453,14,1
+"59507",90474,"col","Gosport Sand",-88.05,31.53,"PRI 1057",NA,"",7,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.22,"109",39.65,"bartonian",15568,-77.1208,31.453,14,1
+"59609",90600,"col","Gosport Sand",-87.52,31.54,"PRI 1423",NA,"MGS 28",458,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"59612",90603,"col","Lisbon",-87.5,31.53,"PRI 2163",NA,"",12,"Bartonian","",41.3,38,11845,"gp_mid",-70.25,35.13,"109",39.65,"bartonian",14802,-77.1208,31.453,14,1
+"59632",90634,"col","Moodys Branch",-88.05,31.53,"PRI 1565",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.22,"109",39.65,"bartonian",15568,-77.1208,31.453,14,1
+"59633",90640,"col","McBean",-85.03,31.6,"PRI 2217",NA,"",12,"Bartonian","",41.3,38,11845,"gp_mid",-67.72,34.77,"109",39.65,"bartonian",15619,-77.1208,31.453,14,1
+"59642",90656,"col","Crockett",-96.37,30.67,"PRI 3554",NA,"",64,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"59734",90817,"col","Cook Mountain",-96.39,30.9,"PRI 746",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"59761",90885,"col","Cook Mountain",-96.38,30.9,"PRI 766",NA,"",19,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15668,-88.5305,29.8933,14,1
+"59762",90886,"col","Cook Mountain",-97.14,30,"PRI 767",NA,"",19,"Bartonian","",41.3,38,11845,"gp_mid",-80.55,35.2,"101",39.65,"bartonian",15669,-88.5305,29.8933,14,1
 "59886",91118,"col","McBean",-80.86,33.49,"PRI 2262",NA,"",12,"Bartonian","",41.3,38,11845,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
 "60426",91762,"col","Santee Limestone",-80.01,33.2,"M 165",NA,"",19,"Bartonian","",41.3,38,11845,"gp_mid",-62.25,35.46,"109",39.65,"bartonian",15889,-69.7624,30.8565,14,1
 "60429",91765,"col","McBean",-81.28,33.5,"M 168",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-63.45,35.98,"109",39.65,"bartonian",15891,-73.4362,31.1517,14,1
+"60435",91771,"col","Cook Mountain",-98.55,28.92,"M 180",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-82.26,34.35,"101",39.65,"bartonian",15894,-88.5305,29.8933,14,1
+"60454",91790,"col","Yegua",-96.29,30.89,"M 192",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.48,35.94,"101",39.65,"bartonian",15899,-88.5305,29.8933,14,1
+"60460",91796,"col","Cook Mountain",-96.37,30.67,"M 200",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60461",91797,"col","Cook Mountain",-96.37,30.67,"M 202",NA,"",7,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60462",91798,"col","Cook Mountain",-96.37,30.67,"M 203",NA,"",4,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60463",91799,"col","Cook Mountain",-96.37,30.67,"M 205",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60478",91814,"col","Cook Mountain",-96.94,30.18,"M 228",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-80.3,35.35,"101",39.65,"bartonian",15911,-88.5305,29.8933,14,1
+"60480",91816,"col","Cook Mountain",-95.86,31.18,"M 230",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-78.96,36.15,"101",39.65,"bartonian",15912,-88.5305,29.8933,14,1
+"60498",91835,"col","Avon Park Limestone",-96.39,30.9,"M 247",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"60499",91836,"col","Moodys Branch",-98.3,28.75,"M 427",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-82.04,34.15,"101",39.65,"bartonian",15919,-88.5305,29.8933,14,1
+"60501",91838,"col","Cook Mountain",-96.39,30.9,"M 250",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"60502",91839,"col","Cook Mountain",-96.39,30.9,"M 251",NA,"",11,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"60503",91840,"col","Cook Mountain",-96.39,30.9,"M 255",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
 "60521",91857,"col","Cook Mountain",-99.27,26.91,"M 277",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-83.44,32.49,"101",39.65,"bartonian",15929,-88.8019,27.4046,14,1
 "60544",91880,"col","Cook Mountain",-99.15,26.43,"M 291",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-83.41,32,"101",39.65,"bartonian",15945,-88.8019,27.4046,14,1
 "60551",91887,"col","McBean",-82.02,33.09,"M 59",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.3,35.71,"109",39.65,"bartonian",15947,-73.4362,31.1517,14,1
+"60558",91894,"col","Crockett",-96.82,30.36,"M 224",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"60559",91895,"col","Cook Mountain",-96.82,30.36,"M 226",NA,"",6,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"60697",92033,"col","Cook Mountain",-87.52,31.54,"M 303",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"60699",92035,"col","Cook Mountain",-87.52,31.54,"M 305",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"60700",92036,"col","Cook Mountain",-87.52,31.54,"M 306",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
 "60709",92045,"col","Moodys Branch",-82.14,29.19,"M 692",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-65.37,31.91,"109",39.65,"bartonian",1100,-73.7049,28.6626,14,1
 "60745",92086,"col","S'Envestida Calcarenite",2.95,39.15,"Cala de Santa Maria, Cabrera Island",NA,"",1,"Bartonian","",41.3,38,30997,"gp_mid",NA,NA,"coordinates not computable using this model",39.65,"bartonian",15982,-1.0989,37.7538,14,1
 "60812",92152,"col","Moodys Branch",-84.58,30.9,"M 324",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-67.43,34.01,"109",39.65,"bartonian",16009,-77.3954,28.9643,14,1
@@ -163,8 +270,16 @@
 "60857",92198,"col","McBean",-80.65,33.6,"M 369",NA,"",8,"Bartonian","",41.3,38,11845,"gp_mid",-62.79,35.97,"109",39.65,"bartonian",16028,-73.4362,31.1517,14,1
 "60858",92199,"col","McBean",-80.86,33.49,"M 370",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
 "60859",92200,"col","McBean",-80.86,33.49,"M 371",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
+"60861",92202,"col","Cook Mountain",-98.55,28.92,"M 376",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-82.26,34.35,"101",39.65,"bartonian",15894,-88.5305,29.8933,14,1
+"60863",92204,"col","Cook Mountain",-97.22,30.67,"M 377",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-80.49,35.87,"101",39.65,"bartonian",16031,-88.5305,29.8933,14,1
+"60865",92206,"col","Cook Mountain",-96.37,30.67,"M 379",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60866",92207,"col","Cook Mountain",-96.37,30.67,"M 382",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.6,35.74,"101",39.65,"bartonian",329,-88.5305,29.8933,14,1
+"60877",92218,"col","Yegua",-96.82,30.36,"M 394",NA,"",6,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"60879",92220,"col","Cook Mountain",-96.11,30.97,"M 396",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.26,35.99,"101",39.65,"bartonian",16039,-88.5305,29.8933,14,1
+"60905",92248,"col","Cook Mountain",-98.16,29.13,"M 416",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-81.81,34.51,"101",39.65,"bartonian",16049,-88.5305,29.8933,14,1
 "60907",92250,"col","Moodys Branch",-82.73,29.25,"M 43",NA,"",1,"Bartonian","",41.3,38,35012,"gp_mid",-65.96,32.07,"109",39.65,"bartonian",16050,-73.7049,28.6626,14,1
 "60922",92265,"col","McBean",-81.97,33.47,"M 64",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.16,36.07,"109",39.65,"bartonian",16057,-73.4362,31.1517,14,1
+"60924",92267,"col","Cook Mountain",-88.09,31.82,"M 7",NA,"",6,"Bartonian","",41.3,38,11845,"gp_mid",-70.79,35.51,"109",39.65,"bartonian",16059,-77.1208,31.453,14,1
 "60940",92283,"col","Moodys Branch",-92.94,30.94,"M 91",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-75.98,35.45,"101",39.65,"bartonian",16067,-84.8077,29.5809,14,1
 "60961",92308,"col","McBean",-80.86,33.49,"PRI 708",NA,"",52,"Bartonian","",41.3,38,11845,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
 "60993",92355,"col","McBean",-80.86,33.49,"PRI 707",NA,"",57,"Bartonian","",41.3,38,11845,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
@@ -177,13 +292,73 @@
 "61093",92489,"col","McBean",-80.09,33.56,"Sta. 5580 - Pooser's Hill [McBean Fm]",NA,"Sta. 2012",49,"Bartonian","",41.3,38,31145,"gp_mid",-62.24,35.83,"109",39.65,"bartonian",16120,-69.7624,30.8565,14,1
 "61094",92490,"col","McBean",-80.87,33.49,"Sta. 2021 - Old Brickyard, Orangeburg [McBean Fm]",NA,"",18,"Bartonian","",41.3,38,31145,"gp_mid",-63.03,35.9,"109",39.65,"bartonian",16121,-73.4362,31.1517,14,1
 "61096",92492,"col","McBean",-80.65,33.6,"Sta. 4589 - Keitt's Ravine [McBean Fm]",NA,"",17,"Bartonian","",41.3,38,31145,"gp_mid",-62.79,35.97,"109",39.65,"bartonian",16028,-73.4362,31.1517,14,1
+"61238",92698,"col","Gosport Sand",-87.53,31.54,"TU 78 - Claiborne Bluff [Gosport Sand]",NA,"",5,"Bartonian","",41.3,38,31182,"gp_mid",-70.28,35.14,"109",39.65,"bartonian",16152,-77.1208,31.453,14,1
+"62069",93892,"col","Yegua",-96.93,30.28,"Orell's Crossing Horizon No. 5",NA,"Elm Creek",5,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62070",93893,"col","Yegua",-96.93,30.28,"Orell's Crossing Horizon No. 4",NA,"Elm Creek",2,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62071",93894,"col","Yegua",-96.93,30.28,"Orell's Crossing Horizon No. 3",NA,"Elm Creek",12,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62072",93895,"col","Yegua",-96.93,30.28,"Orell's Crossing Horizon No. 2",NA,"Elm Creek",12,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62073",93896,"col","Yegua",-96.93,30.28,"Orell's Crossing Horizon No. 1",NA,"Elm Creek",9,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62074",93897,"col","Yegua",-96.93,30.28,"Horizon at Evergreen Crossing",NA,"Elm Creek",23,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62075",93898,"col","Yegua",-96.93,30.28,"Horizon at Price's Crossing",NA,"Elm Creek",13,"Bartonian","",41.3,38,31929,"gp_mid",-80.28,35.45,"101",39.65,"bartonian",16446,-88.5305,29.8933,14,1
+"62217",94040,"col","Gosport",-87.95,31.53,"Little Stave Creek Ostracoda",NA,"",29,"Bartonian","",41.3,38,31952,"gp_mid",-70.71,35.2,"109",39.65,"bartonian",16464,-77.1208,31.453,14,1
 "64500",96949,"col","Giushi",31.3,30.04,"Schweinfurth XXIII",NA,"",0,"Bartonian","",41.3,38,33107,"gp_mid",32.87,18.52,"715",39.65,"bartonian",17124,24.7711,24.3624,14,1
 "64501",96950,"col","Giushi",31.27,30.03,"Schweinfurth VII",NA,"",1,"Bartonian","",41.3,38,29185,"gp_mid",32.85,18.51,"715",39.65,"bartonian",17125,24.7711,24.3624,14,1
 "64502",96951,"col","Gehannam",30.16,29.36,"Wadi Gehannam",NA,"",1,"Bartonian","",41.3,38,33106,"gp_mid",31.79,17.9,"715",39.65,"bartonian",17126,24.7711,24.3624,14,1
+"65527",98271,"col","Gosport Sand",-87.58,31.55,"PRI 1061",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.33,35.15,"109",39.65,"bartonian",464,-77.1208,31.453,14,1
+"65528",98272,"col","Gosport Sand",-87.89,31.51,"PRI 1062",NA,"MGS 29",15,"Bartonian","",41.3,38,11845,"gp_mid",-70.66,35.17,"109",39.65,"bartonian",17448,-77.1208,31.453,14,1
+"65529",98273,"col","Moodys Branch",-87.89,31.51,"PRI 1072",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-70.66,35.17,"109",39.65,"bartonian",17448,-77.1208,31.453,14,1
+"65530",98274,"col","Yazoo or Moodys Branch",-87.78,31.71,"PRI 1109",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.49,35.34,"109",39.65,"bartonian",458,-77.1208,31.453,14,1
+"65550",98294,"col","Gosport Sand",-87.89,31.73,"M 431",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.61,35.38,"109",39.65,"bartonian",17461,-77.1208,31.453,14,1
+"65552",98296,"col","Moodys Branch",-87.89,31.51,"M 433",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.66,35.17,"109",39.65,"bartonian",17448,-77.1208,31.453,14,1
+"65553",98297,"col","Gosport Sand",-87.89,31.51,"M 434",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.66,35.17,"109",39.65,"bartonian",17448,-77.1208,31.453,14,1
+"65557",98301,"col","Gosport Sand",-88.02,31.63,"M 649",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-70.76,35.31,"109",39.65,"bartonian",17462,-77.1208,31.453,14,1
+"65559",98303,"col","Moodys Branch",-88.06,31.54,"M 651",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.23,"109",39.65,"bartonian",17464,-77.1208,31.453,14,1
+"65562",98306,"col","Cook Mountain",-86.48,31.3,"M 654",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-69.27,34.72,"109",39.65,"bartonian",17467,-77.1208,31.453,14,1
+"65566",98310,"col","Cook Mountain",-85.64,31.46," M 655",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-68.38,34.74,"109",39.65,"bartonian",17469,-77.1208,31.453,14,1
+"65589",98333,"col","Gosport Sand",-87.52,31.54,"PRI 104",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65590",98334,"col","Moodys Branch",-87.52,31.54,"PRI 1040",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65591",98335,"col","Moodys Branch",-87.52,31.54,"PRI 1043",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65592",98336,"col","Crockett",-87.52,31.54,"PRI 139",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65599",98355,"col","Lisbon",-87.52,31.54,"PRI 2161",NA,"",52,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65601",98357,"col","Cook Mountain",-87.52,31.54,"M 17",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65602",98358,"col","Cook Mountain",-87.52,31.54,"M 18",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65603",98359,"col","Cook Mountain",-87.55,31.6,"M 426",NA,"",4,"Bartonian","",41.3,38,11845,"gp_mid",-70.29,35.2,"109",39.65,"bartonian",17484,-77.1208,31.453,14,1
+"65604",98360,"col","Gosport Sand",-87.32,31.53,"M 438",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.08,35.09,"109",39.65,"bartonian",17485,-77.1208,31.453,14,1
+"65610",98366,"col","Moodys Branch",-87.52,31.54,"M 662",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65613",98369,"col","Cook Mountain",-87.52,31.54,"M 665",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"65629",98386,"col","Moodys Branch",-88.06,31.54,"PRI 1056",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.23,"109",39.65,"bartonian",17464,-77.1208,31.453,14,1
+"65630",98387,"col","Gosport Sand",-88.06,31.54,"M 307",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.23,"109",39.65,"bartonian",17464,-77.1208,31.453,14,1
+"65631",98388,"col","Gosport Sand",-88.06,31.54,"M 308",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-70.82,35.23,"109",39.65,"bartonian",17464,-77.1208,31.453,14,1
 "65804",98573,"col","McBean",-81.95,33.24,"PRI 1568",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.19,35.85,"109",39.65,"bartonian",17558,-73.4362,31.1517,14,1
 "65849",98622,"col","McBean",-82.1,33.31,"M 694",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.32,35.94,"109",39.65,"bartonian",17576,-73.4362,31.1517,14,1
 "65857",98630,"col","McBean",-81.9,33.15,"M 695",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-64.16,35.74,"109",39.65,"bartonian",17577,-73.4362,31.1517,14,1
+"65863",98636,"col","Moodys Branch",-85.05,31.61,"M 701",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-67.74,34.78,"109",39.65,"bartonian",17580,-77.1208,31.453,14,1
 "65868",98641,"col","McBean",-82.2,33.45,"M 459",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-64.39,36.09,"109",39.65,"bartonian",17582,-73.4362,31.1517,14,1
+"65940",98712,"col","Cook Mountain",-97,30,"M 538",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.41,35.18,"101",39.65,"bartonian",17611,-88.5305,29.8933,14,1
+"65941",98713,"col","Crockett",-97.16,30,"M 539",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.58,35.2,"101",39.65,"bartonian",17612,-88.5305,29.8933,14,1
+"65954",98726,"col","Stone City",-97.16,30,"M 540",NA,"",4,"Bartonian","",41.3,38,11845,"gp_mid",-80.58,35.2,"101",39.65,"bartonian",17612,-88.5305,29.8933,14,1
+"65957",98729,"col","Cook Mountain",-97.32,30.11,"M 792",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-80.72,35.34,"101",39.65,"bartonian",17624,-88.5305,29.8933,14,1
+"65973",98745,"col","Cook Mountain",-96.32,30.65,"M 201",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.56,35.71,"101",39.65,"bartonian",17630,-88.5305,29.8933,14,1
+"65975",98747,"col","Cook Mountain",-96.36,30.86,"M 381",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-79.55,35.92,"101",39.65,"bartonian",17632,-88.5305,29.8933,14,1
+"65976",98748,"col","Stone City",-96.33,30.63,"M 543",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.58,35.69,"101",39.65,"bartonian",17633,-88.5305,29.8933,14,1
+"65977",98749,"col","Cook Mountain",-96.36,30.86,"M 544",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.55,35.92,"101",39.65,"bartonian",17632,-88.5305,29.8933,14,1
+"65984",98756,"col","Cook Mountain",-96.63,30.5,"M 869",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.92,35.61,"101",39.65,"bartonian",17637,-88.5305,29.8933,14,1
+"65985",98757,"col","Crockett",-96.69,30.53,"M 910",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.97,35.65,"101",39.65,"bartonian",1186,-88.5305,29.8933,14,1
+"66061",98832,"col","Cook Mountain",-97.16,30,"M 556",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.58,35.2,"101",39.65,"bartonian",17612,-88.5305,29.8933,14,1
+"66062",98833,"col","Cook Mountain",-97.16,30,"M 557",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.58,35.2,"101",39.65,"bartonian",17612,-88.5305,29.8933,14,1
+"66066",98837,"col","Crockett",-99.1,28.83,"M 417",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-82.86,34.35,"101",39.65,"bartonian",17676,-88.5305,29.8933,14,1
+"66111",98883,"col","Cook Mountain",-96.96,30.3,"M 223",NA,"",7,"Bartonian","",41.3,38,11845,"gp_mid",-80.31,35.46,"101",39.65,"bartonian",17693,-88.5305,29.8933,14,1
+"66112",98884,"col","Cook Mountain",-96.82,30.36,"M 225",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"66113",98885,"col","Cook Mountain",-96.82,30.36,"M 227",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"66114",98886,"col","Cook Mountain",-96.82,30.36,"M 820",NA,"",5,"Bartonian","",41.3,38,11845,"gp_mid",-80.15,35.5,"101",39.65,"bartonian",15949,-88.5305,29.8933,14,1
+"66118",98890,"col","Yegua",-96.96,30.3,"M 573",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-80.31,35.46,"101",39.65,"bartonian",17693,-88.5305,29.8933,14,1
+"66119",98891,"col","Yegua",-96.96,30.3,"M 875",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-80.31,35.46,"101",39.65,"bartonian",17693,-88.5305,29.8933,14,1
+"66249",99025,"col","Crockett",-96.39,30.9,"M 425",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"66250",99026,"col","Cook Mountain",-96.39,30.9,"M 600",NA,"",12,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"66251",99027,"col","Cook Mountain",-96.39,30.9,"M 601",NA,"",4,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"66252",99028,"col","Crockett",-96.39,30.9,"M 602",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
+"66264",99040,"col","Cook Mountain",-96.54,29.71,"M 603",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-80,34.82,"101",39.65,"bartonian",17752,-88.5305,29.8933,14,1
+"66296",99072,"col","Cook Mountain",-98.16,29.13,"M 623",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-81.81,34.51,"101",39.65,"bartonian",16049,-88.5305,29.8933,14,1
 "66301",99077,"col","Crockett",-99.11,26.71,"M 625",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-83.31,32.27,"101",39.65,"bartonian",17760,-88.8019,27.4046,14,1
 "66302",99078,"col","Cook Mountain",-99.27,26.91,"M 846",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-83.44,32.49,"101",39.65,"bartonian",15929,-88.8019,27.4046,14,1
 "66308",99085,"col","McBean",-80.78,33.67,"M 171",NA,"",15,"Bartonian","",41.3,38,11845,"gp_mid",-62.9,36.05,"109",39.65,"bartonian",17765,-73.4362,31.1517,14,1
@@ -200,8 +375,11 @@
 "66401",99202,"col","Avon Park Limestone",-82.67,29.03,"M 47",NA,"",4,"Bartonian","",41.3,38,11845,"gp_mid",-65.94,31.85,"109",39.65,"bartonian",17803,-73.7049,28.6626,14,1
 "66402",99203,"col","",-82.73,29.25,"M 49",NA,"",3,"Bartonian","",41.3,38,11845,"gp_mid",-65.96,32.07,"109",39.65,"bartonian",16050,-73.7049,28.6626,14,1
 "66403",99204,"col","Cook Mountain and Avon Park Limestone",-82.73,29.25,"M 690",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-65.96,32.07,"109",39.65,"bartonian",16050,-73.7049,28.6626,14,1
+"66435",99253,"col","Cook Mountain",-96.54,30.63,"M 537",NA,"",2,"Bartonian","",41.3,38,11845,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
 "66488",99343,"col","Gibralter limestone",-77.18,18.32,"M 637",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",NA,NA,"coordinates not computable using this model",39.65,"bartonian",17828,-81.7943,12.8939,14,1
 "66744",99752,"col","Tupelo Bay",-80.26,33.35,"Martin Marietta Orangeburg Quarry",NA,"",1,"Bartonian","",41.3,38,34295,"gp_mid",-62.46,35.65,"109",39.65,"bartonian",17889,-69.7624,30.8565,14,1
+"67699",101111,"col","Gosport Sand",-87.84,31.42,"MGS 77",NA,"",1,"Bartonian","",41.3,38,11842,"gp_mid",-70.63,35.07,"109",39.65,"bartonian",18240,-77.1208,31.453,14,1
+"67700",101112,"col","Moodys Branch",-87.52,31.54,"MGS 78",NA,"",1,"Bartonian","",41.3,38,11842,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
 "68249",101813,"col","Capusu",23.45,46.68,"Savadisla",NA,"",8,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,"bartonian",18505,15.8904,44.1593,14,1
 "68250",101814,"col","Capusu",23.43,46.73,"Lona",NA,"",5,"Bartonian","",41.3,38,34618,"gp_mid",27.45,34.49,"308",39.65,"bartonian",18506,15.8904,44.1593,14,1
 "68251",101815,"col","Inucu",23.2,46.85,"Leghia",NA,"",3,"Bartonian","",41.3,38,34618,"gp_mid",27.31,34.65,"308",39.65,"bartonian",18507,15.8904,44.1593,14,1
@@ -236,10 +414,10 @@
 "68353",101959,"col","Capusu",23.03,46.78,"Valeni",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.15,34.63,"308",39.65,"bartonian",18516,15.8904,44.1593,14,1
 "68354",101960,"col","Inucu",23.45,46.68,"Savadisla",NA,"",2,"Bartonian","",41.3,38,34618,"gp_mid",27.44,34.44,"308",39.65,"bartonian",18505,15.8904,44.1593,14,1
 "71340",106485,"col","",-99.27,26.91,"M 420",NA,"",1,"Bartonian","",41.3,38,35561,"gp_mid",-83.44,32.49,"101",39.65,"bartonian",15929,-88.8019,27.4046,14,1
+"71341",106486,"col","Cook Mountain",-96.39,30.9,"M 252a",NA,"",2,"Bartonian","",41.3,38,35561,"gp_mid",-79.57,35.96,"101",39.65,"bartonian",15292,-88.5305,29.8933,14,1
 "71342",106487,"col","Cook Mountain",-99.27,26.91,"M 253a",NA,"",1,"Bartonian","",41.3,38,35561,"gp_mid",-83.44,32.49,"101",39.65,"bartonian",15929,-88.8019,27.4046,14,1
 "71526",106915,"col","McBean",-84.23,32.07,"M 61",NA,"",1,"Bartonian","",41.3,38,11845,"gp_mid",-66.8,35.1,"109",39.65,"bartonian",19913,-73.4362,31.1517,14,1
 "71531",106920,"col","McBean",-80.86,33.49,"PRI 1538",NA,"",1,"Bartonian","",41.3,38,35561,"gp_mid",-63.02,35.9,"109",39.65,"bartonian",15724,-73.4362,31.1517,14,1
-"72032",107512,"col","Piney Point",-77.09,37.61,"Pamunkey River-near Putneys Mill",NA,"",22,"Bartonian","",41.3,38,35783,"gp_mid",-58.13,39.25,"109",39.65,"bartonian",20049,-69.1943,35.834,14,1
 "76886",113114,"col","",34.6,45.05,"Bilohirsk",NA,"Belogorsk",1,"Bartonian","",41.3,38,36744,"gp_mid",36.4,37.85,"302",39.65,"bartonian",21510,28.0502,44.6426,14,1
 "76887",113115,"col","Shorym",51.49,43.79,"Karagaly",NA,"",2,"Bartonian","",41.3,38,36745,"gp_mid",51.64,37.13,"402",39.65,"bartonian",21511,46.8085,45.9788,14,1
 "76888",113116,"col","Shorym",51.75,43.8,"Kuyulus",NA,"",3,"Bartonian","",41.3,38,36745,"gp_mid",51.88,37.16,"402",39.65,"bartonian",21512,46.8085,45.9788,14,1
@@ -257,6 +435,7 @@
 "86238",124905,"col","Gehannam",30.06,29.31,"Wadi Hitan ZV-80",NA,"",1,"Bartonian","",41.3,38,40452,"gp_mid",31.69,17.86,"715",39.65,"bartonian",24181,24.7711,24.3624,14,1
 "91591",132381,"col","Kiev",33.13,49.08,"Nagornoye",NA,"Nagirne, Nagorno, Nagornoe",5,"Bartonian","",41.3,38,42656,"gp_mid",34.99,41.86,"302",39.65,"bartonian",25406,27.2751,49.6148,14,1
 "91603",132393,"col","Kiev",39.65,48.45,"Beloskelevatoye",NA,"Beloskelevatoe",2,"Bartonian","",41.3,38,42656,"gp_mid",40.75,41.35,"302",39.65,"bartonian",25410,35.1242,47.6652,14,1
+"92082",133042,"col","Gosport",-86.55,31.29,"Acree Mill Creek",NA,"",21,"Bartonian","",41.3,38,42872,"gp_mid",-69.35,34.73,"109",39.65,"bartonian",25558,-77.1208,31.453,14,1
 "92988",134300,"col","Tupelo Bay",-79.67,33.33,"Martin Marietta Berkeley Quarry, Cross Member",NA,"Cross Quarry, Martin Marietta Aggregates Quarry",9,"Bartonian","",41.3,38,14111,"gp_mid",-61.87,35.53,"109",39.65,"bartonian",25788,-69.7624,30.8565,14,1
 "96960",139020,"col","Cowlitz",-122.93,46.4,"UW 1, Cowlitz Formation",NA,"",51,"Bartonian","",41.3,38,44425,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",4376,-112.0929,48.4682,14,1
 "97985",140096,"col","",30.48,29.19,"WR05-01",NA,"",1,"Bartonian","",41.3,38,45230,"gp_mid",32.07,17.71,"715",39.65,"bartonian",27272,24.7711,24.3624,14,1
@@ -281,6 +460,13 @@
 "112597",160105,"col","Cowlitz",-122.94,46.4,"UCMP Loc. A-1543 - Cowlitz River [Cowlitz Fm]",NA,"",2,"Bartonian","",41.3,38,52252,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",30219,-112.0929,48.4682,14,1
 "112598",160106,"col","Cowlitz",-122.94,46.4,"UCMP Loc. B-4255 - Cowtliz Fm type section [Cowlitz Fm]",NA,"",1,"Bartonian","",41.3,38,52252,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",30219,-112.0929,48.4682,14,1
 "112599",160107,"col","Cowlitz",-122.94,46.4,"UCMP Loc. B-5835 - Cowtliz Fm type section [Cowlitz Fm]",NA,"",1,"Bartonian","",41.3,38,52252,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",30219,-112.0929,48.4682,14,1
+"113936",161762,"col","Szoc Limestone",17.55,47.1,"Ajka",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",22.94,36.15,"308",39.65,"bartonian",30554,12.4346,43.6875,14,1
+"113937",161763,"col","Szoc Limestone",17.8,47.22,"Penzesgyor (Ree-hegy)",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.19,36.2,"308",39.65,"bartonian",30555,12.4346,43.6875,14,1
+"113938",161764,"col","Szoc Limestone",17.81,47.18,"Harskut (Hkt/c borehole)",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.18,36.16,"308",39.65,"bartonian",30556,12.4346,43.6875,14,1
+"113939",161765,"col","Szoc Limestone",17.94,47.3,"Dudar-218 borehole",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",23.33,36.24,"308",39.65,"bartonian",30557,12.4346,43.6875,14,1
+"113940",161766,"col","Padrag Marl",18.19,47.31,"Balinka-224 borehole",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.53,36.2,"308",39.65,"bartonian",30558,12.4346,43.6875,14,1
+"113946",161772,"col","Padrag Marl",18.19,47.31,"Balinka-239 borehole",NA,"",1,"Bartonian","",41.3,38,52691,"gp_mid",23.53,36.2,"308",39.65,"bartonian",30558,12.4346,43.6875,14,1
+"113947",161773,"col","Padrag Marl",18.66,47.72,"Tokod (Padrag Marl)",NA,"",2,"Bartonian","",41.3,38,52691,"gp_mid",24.07,36.48,"308",39.65,"bartonian",30564,12.4346,43.6875,14,1
 "114067",161922,"col","",-123.32,46.76,"CSUN Loc. 1567 - Garrard Creek [Crescent/McIntosh Fm transition]",NA,"",27,"Bartonian","",41.3,38,52745,"gp_mid",-101.32,52.95,"129",39.65,"bartonian",30603,-112.0929,48.4682,14,1
 "114068",161923,"col","",-123.32,46.76,"CSUN Loc. 1569 - Garrard Creek [Crescent/McIntosh Fm transition]",NA,"",13,"Bartonian","",41.3,38,52745,"gp_mid",-101.32,52.95,"129",39.65,"bartonian",30603,-112.0929,48.4682,14,1
 "114069",161924,"col","",-123.32,46.76,"CSUN Loc. 1570 - Garrard Creek [Crescent/McIntosh Fm transition]",NA,"",33,"Bartonian","",41.3,38,52745,"gp_mid",-101.32,52.95,"129",39.65,"bartonian",30603,-112.0929,48.4682,14,1
@@ -290,6 +476,9 @@
 "117426",167714,"col","Drazinda",69.5,29.2,"Sori Nala",NA,"",1,"Bartonian","",41.3,38,54771,"gp_mid",70.91,10.43,"501",39.65,"bartonian",31503,64.0062,17.3491,14,1
 "117427",167715,"col","Drazinda",70.43,30.78,"Bari Nadi [general]",NA,"",1,"Bartonian","",41.3,38,54771,"gp_mid",72.14,11.74,"501",39.65,"bartonian",1361,64.0062,17.3491,14,1
 "117429",167716,"col","Drazinda",70.43,30.78,"Bhogna Dad",NA,"Ro5",2,"Bartonian","",41.3,38,12078,"gp_mid",72.14,11.74,"501",39.65,"bartonian",1361,64.0062,17.3491,14,1
+"118112",169204,"col","",-61.47,10.28,"Bontour Point, San Fernando",NA,"",1,"Bartonian","",41.3,38,27587,"gp_mid",-48.29,8.83,"201",39.65,"bartonian",31630,-52.4408,6.3096,14,1
+"119726",171291,"col","Tortachilla Limestone",138.47,-35.14,"Christies Beach (AUGD collection)",NA,"",1,"Bartonian","",41.3,38,55713,"gp_mid",148.18,-55.13,"801",39.65,"bartonian",31886,132.899,-55.6255,14,1
+"119731",171296,"col","",138.56,-35.08,"Happy Valley (SAM collection)",NA,"",1,"Bartonian","",41.3,38,55713,"gp_mid",148.27,-55.05,"801",39.65,"bartonian",31888,132.899,-55.6255,14,1
 "119737",171302,"col","Werillup",121.25,-33.74,"Lort River",NA,"",2,"Bartonian","",41.3,38,55714,"gp_mid",122.71,-57.1,"801",39.65,"bartonian",31893,105.9799,-53.1537,14,1
 "119738",171305,"col","Werillup",117.88,-35.02,"Near Albany",NA,"",1,"Bartonian","",41.3,38,55714,"gp_mid",117.77,-58.68,"801",39.65,"bartonian",28869,100.1751,-55.2651,14,1
 "119739",171303,"col","Werillup",121.92,-33.79,"Esperance (WAM collection)",NA,"",1,"Bartonian","",41.3,38,55714,"gp_mid",123.73,-57.07,"801",39.65,"bartonian",31894,110.9955,-55.8939,14,1
@@ -299,6 +488,7 @@
 "121977",175734,"col","Aridal",-13.89,25.09,"Gueran",NA,"Guerran, Garouan, Garouaz, Punta Güera, Punta Güeran, Krebb Afedeira",24,"Bartonian","",41.3,38,57556,"gp_mid",-9.61,19.18,"714",39.65,"bartonian",32325,-18.693,21.4809,14,1
 "122643",176638,"col","Orizzonte di Ronca",11.23,45.53,"de Croce Grande, San Giovanni Ilarione",NA,"",1,"Bartonian","",41.3,38,57958,"gp_mid",17.19,36.19,"307",39.65,"bartonian",32508,10.2197,40.0805,14,1
 "122752",176769,"col","Orizzonte di Ronca",11.28,45.48,"Roncà",NA,"",8,"Bartonian","",41.3,38,58315,"gp_mid",17.21,36.14,"307",39.65,"bartonian",27768,10.2197,40.0805,14,1
+"122765",176783,"col","Cook Mountain",-95.87,31.15,"145-T-52: Two-Mile Creek",NA,"",1,"Bartonian","",41.3,38,58334,"gp_mid",-78.98,36.13,"101",39.65,"bartonian",32538,-88.5305,29.8933,14,1
 "123025",180197,"col","",15.62,-27.39,"Eoridge",NA,"",10,"Bartonian","",41.3,38,59813,"gp_mid",11.19,-37.2,"701",39.65,"bartonian",30955,8.0742,-32.7196,14,1
 "123034",177068,"col","Sables de Cresnes",2.04,49.18,"Le Quoniam near Haravilliers (Pacaud collection)",NA,"",15,"Bartonian","",41.3,38,58495,"gp_mid",7.62,42.5,"305",39.65,"bartonian",32586,-1.7355,47.6486,14,1
 "123291",177581,"col","",3.61,49.26,"Chéry-Chartreuve",NA,"Chéry Chartreuve",37,"Bartonian","",41.3,38,58591,"gp_mid",9.02,42.51,"315",39.65,"bartonian",32631,-1.7355,47.6486,14,1
@@ -310,11 +500,20 @@
 "123554",178155,"col","Sables de Cresnes",2.02,49.2,"Cresnes, Neuville-Bosq",NA,"",21,"Bartonian","",41.3,38,26566,"gp_mid",7.6,42.51,"305",39.65,"bartonian",32735,-1.7355,47.6486,14,1
 "123753",178456,"col","Orizzonte di Ronca",10.98,45.42,"de San Pietro, San Giovanni Ilarione",NA,"",1,"Bartonian","",41.3,38,57958,"gp_mid",16.94,36.15,"307",39.65,"bartonian",32789,10.2197,40.0805,14,1
 "124358",179128,"col","Sables Moyens",3.11,49.04,"Vendrest",NA,"",6,"Bartonian","",41.3,38,58837,"gp_mid",8.56,42.3,"315",39.65,"bartonian",32958,-1.7355,47.6486,14,1
+"124876",179837,"col","Tortachilla Limestone",138.47,-35.14,"Christies Beach, Gulf St. Vincent",NA,"",1,"Bartonian","",41.3,38,59655,"gp_mid",148.18,-55.14,"801",39.65,"bartonian",31886,132.899,-55.6255,14,1
+"124880",179841,"col","Tortachilla Limestone",138.47,-35.23,"Maslin Bay, south of Uncle Tom's Cabin",NA,"",1,"Bartonian","",41.3,38,13527,"gp_mid",148.23,-55.22,"801",39.65,"bartonian",33087,132.899,-55.6255,14,1
+"124992",179952,"col","",138.56,-35.08,"Happy Valley (Dennant collection)",NA,"",1,"Bartonian","",41.3,38,59709,"gp_mid",148.27,-55.05,"801",39.65,"bartonian",31888,132.899,-55.6255,14,1
 "125064",180151,"col","La Meseta",-56.67,-64.24,"Seymour Island (Institute of Polar Studies location 15)",NA,"",1,"Bartonian","",41.3,38,59803,"gp_mid",-66.46,-62.42,"803",39.65,"bartonian",9091,-57.2879,-66.274,14,1
 "125076",180207,"col","La Meseta",-56.65,-64.24,"Mammal site (Telm 5)",NA,"",1,"Bartonian","",41.3,38,56258,"gp_mid",-66.44,-62.42,"803",39.65,"bartonian",3441,-57.2879,-66.274,14,1
+"125109",180378,"col","Stone City",-96.54,30.63,"Bed B, Stone City Bluff",NA,"",1,"Bartonian","",41.3,38,59836,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
 "125119",180392,"col","Cowlitz",-122.93,46.41,"UCMP IP12603, Cowlitz River",NA,"",1,"Bartonian","",41.3,38,59868,"gp_mid",-100.95,52.56,"129",39.65,"bartonian",33175,-112.0929,48.4682,14,1
 "125139",180413,"col","Cowlitz",-122.96,46.41,"UCMP A3436, Olequah Creek, just below the falls",NA,"",1,"Bartonian","",41.3,38,59868,"gp_mid",-100.99,52.57,"129",39.65,"bartonian",33189,-112.0929,48.4682,14,1
 "125184",180457,"col","Cowlitz",-122.93,46.4,"Bend in Cowlitz River, east of Vader",NA,"",3,"Bartonian","",41.3,38,59881,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",4376,-112.0929,48.4682,14,1
+"126373",182385,"col","",7.39,47.32,"La Verrerie de Roches fissures",NA,"",13,"Bartonian","",41.3,38,60673,"gp_mid",12.21,40.41,"305",39.65,"bartonian",33458,2.1668,45.379,14,1
+"126455",182607,"col","",6.5,46.66,"Les Alleveys",NA,"",28,"Bartonian","",41.3,38,60780,"gp_mid",11.37,39.79,"305",39.65,"bartonian",33486,2.1668,45.379,14,1
+"126639",182806,"col","",7.77,47.32,"Egerkingen and Oberbuchsiten (General locality)",NA,"Egerkingen",8,"Bartonian","",41.3,38,60954,"gp_mid",12.54,40.4,"305",39.65,"bartonian",3525,2.1668,45.379,14,1
+"126811",183158,"col","",6.6,46.78,"Chamblon",NA,"",2,"Bartonian","",41.3,38,60954,"gp_mid",11.47,39.9,"305",39.65,"bartonian",33553,2.1668,45.379,14,1
+"127241",183808,"col","Gosport Sand",-87.51,31.55,"Claiborne (Cossmann collection)",NA,"",1,"Bartonian","",41.3,38,61368,"gp_mid",-70.26,35.14,"109",39.65,"bartonian",33675,-77.1208,31.453,14,1
 "127252",183820,"col","Drazinda",70.12,29.95,"Fossil Bed F.1987, Rakhi Nala",NA,"",2,"Bartonian","",41.3,38,599,"gp_mid",71.65,11.01,"501",39.65,"bartonian",1187,64.0062,17.3491,14,1
 "127253",183821,"col","Drazinda",70.12,29.95,"Fossil Bed F.1996, Rakhi Nala",NA,"",3,"Bartonian","",41.3,38,599,"gp_mid",71.65,11.01,"501",39.65,"bartonian",1187,64.0062,17.3491,14,1
 "127254",183822,"col","Drazinda",70.12,29.95,"Fossil Bed F.2756, Rakhi Nala",NA,"",1,"Bartonian","",41.3,38,599,"gp_mid",71.65,11.01,"501",39.65,"bartonian",1187,64.0062,17.3491,14,1
@@ -356,6 +555,13 @@
 "128882",186474,"col","Shorym Svita",51.79,43.4,"Karagiye Depression",NA,"",2,"Bartonian","",41.3,38,59519,"gp_mid",51.95,36.76,"402",39.65,"bartonian",34124,47.1502,43.4906,14,1
 "128933",186567,"col","Guabirotuba",-49.34,-25.51,"Curitiba",NA,"Guabirotuba Fauna",13,"Bartonian","",41.3,38,62545,"gp_mid",-38.91,-27.75,"201",39.65,"bartonian",34131,-39.1379,-28.0471,14,1
 "129331",187028,"col","",39.81,44.74,"Pshekha River, Gorny Luch, Eocene",NA,"Gornyi Luch",5,"Bartonian","",41.3,38,62738,"gp_mid",41.08,37.65,"302",39.65,"bartonian",34110,35.5002,45.1786,14,1
+"130911",190267,"col","Szoc Limestone",17.28,47,"Csabrendek, Great Quarry (N. millecaput limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.68,36.11,"308",39.65,"bartonian",34485,12.4346,43.6875,14,1
+"130912",190268,"col","Szoc Limestone",17.28,47,"Csabrendek, Great Quarry (Bartonian limestone)",NA,"",1,"Bartonian","",41.3,38,63995,"gp_mid",22.68,36.11,"308",39.65,"bartonian",34485,12.4346,43.6875,14,1
+"130913",190269,"col","Szoc Limestone",17.28,47,"Csabrendek, Great Quarry (N. millecaput and N. perforatus limestone)",NA,"",1,"Bartonian","",41.3,38,63995,"gp_mid",22.68,36.11,"308",39.65,"bartonian",34485,12.4346,43.6875,14,1
+"130917",190273,"col","Szoc Limestone",17.35,46.99,"Nagytarkany, Ceseteberek quarry (N. millecaput limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.73,36.09,"308",39.65,"bartonian",34488,12.4346,43.6875,14,1
+"130919",190275,"col","Szoc Limestone",17.36,46.99,"Nagytarkany, Nyires farm",NA,"",1,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,"bartonian",34490,12.4346,43.6875,14,1
+"130920",190276,"col","Szoc Limestone",17.36,46.99,"Nagytarkany, Nagytarkay-9 bauxite lens (N. millecaput marly limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,"bartonian",34490,12.4346,43.6875,14,1
+"130921",190277,"col","Szoc Limestone",17.36,46.99,"Nagytarkany, Nagytarkay-9 bauxite lens (N. millecaput limestone)",NA,"",2,"Bartonian","",41.3,38,63995,"gp_mid",22.75,36.09,"308",39.65,"bartonian",34490,12.4346,43.6875,14,1
 "131358",190871,"col","",3.15,49.15,"Montmarlet (Aisne)",NA,"",1,"Bartonian","",41.3,38,64169,"gp_mid",8.61,42.41,"315",39.65,"bartonian",34587,-1.7355,47.6486,14,1
 "131648",191736,"col","La Meseta",-56.66,-64.24,"WP27, Seymour Island",NA,"",1,"Bartonian","",41.3,38,12079,"gp_mid",-66.45,-62.42,"803",39.65,"bartonian",9089,-57.2879,-66.274,14,1
 "131649",191737,"col","La Meseta",-56.67,-64.24,"WP33, Seymour Island",NA,"",1,"Bartonian","",41.3,38,12079,"gp_mid",-66.46,-62.42,"803",39.65,"bartonian",9091,-57.2879,-66.274,14,1
@@ -369,6 +575,7 @@
 "131657",191745,"col","La Meseta",-56.68,-64.24,"WP47, Seymour Island",NA,"",1,"Bartonian","",41.3,38,12079,"gp_mid",-66.46,-62.42,"803",39.65,"bartonian",34667,-57.2879,-66.274,14,1
 "131658",191746,"col","La Meseta",-56.67,-64.24,"WP25, Seymour Island",NA,"",1,"Bartonian","",41.3,38,12079,"gp_mid",-66.46,-62.42,"803",39.65,"bartonian",9091,-57.2879,-66.274,14,1
 "135630",200105,"col","Cowlitz",-122.96,46.4,"UW 319",NA,"",10,"Bartonian","",41.3,38,58580,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",8087,-112.0929,48.4682,14,1
+"135888",200856,"col","Spencer",-123.26,44.01,"A-854",NA,"",0,"Bartonian","",41.3,38,63268,"gp_mid",-101.74,50.21,"129",39.65,"bartonian",35660,-112.6878,46.001,14,1
 "136086",201094,"col","Cowlitz",-122.96,46.4,"UW 315",NA,"",5,"Bartonian","",41.3,38,53200,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",8087,-112.0929,48.4682,14,1
 "136087",201095,"col","Cowlitz",-122.96,46.4,"UW 316",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",8087,-112.0929,48.4682,14,1
 "136088",201097,"col","Cowlitz",-122.97,46.4,"UW 316",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-100.99,52.56,"129",39.65,"bartonian",35698,-112.0929,48.4682,14,1
@@ -380,7 +587,17 @@
 "136096",201122,"col","Cowlitz",-122.97,46.41,"UW 325",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-100.99,52.57,"129",39.65,"bartonian",35702,-112.0929,48.4682,14,1
 "136097",201123,"col","Cowlitz",-122.97,46.41,"UW 326",NA,"",2,"Bartonian","",41.3,38,53200,"gp_mid",-100.99,52.57,"129",39.65,"bartonian",35702,-112.0929,48.4682,14,1
 "136098",201124,"col","Cowlitz",-122.93,46.4,"UW 329",NA,"",22,"Bartonian","",41.3,38,53200,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",4376,-112.0929,48.4682,14,1
+"136100",201126,"col","Cowlitz",-123.02,46.19,"UW 336",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-101.1,52.36,"129",39.65,"bartonian",35703,-112.6878,46.001,14,1
+"136101",201127,"col","Cowlitz",-123.02,46.2,"UW 337",NA,"",3,"Bartonian","",41.3,38,53200,"gp_mid",-101.09,52.36,"129",39.65,"bartonian",35704,-112.6878,46.001,14,1
+"136102",201128,"col","Cowlitz",-123.02,46.2,"UW 340",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-101.09,52.36,"129",39.65,"bartonian",35704,-112.6878,46.001,14,1
+"136103",201129,"col","Cowlitz",-123.02,46.2,"UW 341",NA,"",1,"Bartonian","",41.3,38,53200,"gp_mid",-101.09,52.37,"129",39.65,"bartonian",35704,-112.6878,46.001,14,1
+"136104",201130,"col","Cowlitz",-123.02,46.21,"UW 342",NA,"",2,"Bartonian","",41.3,38,53200,"gp_mid",-101.09,52.37,"129",39.65,"bartonian",35705,-112.6878,46.001,14,1
+"136105",201131,"col","Cowlitz",-123.02,46.2,"UW 343",NA,"",3,"Bartonian","",41.3,38,53200,"gp_mid",-101.09,52.37,"129",39.65,"bartonian",35704,-112.6878,46.001,14,1
+"136106",201132,"col","Cowlitz",-123.04,46.23,"UW 347",NA,"",3,"Bartonian","",41.3,38,53200,"gp_mid",-101.11,52.4,"129",39.65,"bartonian",35706,-112.6878,46.001,14,1
 "136108",201134,"col","Cowlitz",-122.3,46.26,"UW 370",NA,"",2,"Bartonian","",41.3,38,53200,"gp_mid",-100.27,52.37,"129",39.65,"bartonian",35708,-112.0929,48.4682,14,1
+"136164",201281,"col","Spencer",-123.42,44.85,"Helmick Hill",NA,"",6,"Bartonian","",41.3,38,32147,"gp_mid",-101.77,51.05,"129",39.65,"bartonian",35720,-112.6878,46.001,14,1
+"136608",202156,"col","Nestucca",-124.02,44.34,"Locality 8 & 9",NA,"",1,"Bartonian","",41.3,38,61684,"gp_mid",-102.53,50.6,"129",39.65,"bartonian",35838,-112.6878,46.001,14,1
+"136694",202252,"col","Nanggulan",110.18,-7.73,"Nanggulan, northwest",NA,"",24,"Bartonian","",41.3,38,61617,"gp_mid",122.87,-4.78,"620",39.65,"bartonian",35851,112.8089,0.7005,14,1
 "136726",202287,"col","Drazinda",70.15,31.53,"Parwara",NA,"CM-6",0,"Bartonian","",41.3,38,12078,"gp_mid",72.11,12.52,"501",39.65,"bartonian",35863,66.413,26.9619,14,1
 "136727",202288,"col","Drazinda",70.49,30.69,"Sanghar Lahar",NA,"GS-167",0,"Bartonian","",41.3,38,12078,"gp_mid",72.17,11.64,"501",39.65,"bartonian",35864,64.0062,17.3491,14,1
 "136748",202309,"col","Drazinda",70.35,30.1,"Dalana Nala",NA,"Da3",1,"Bartonian","",41.3,38,12078,"gp_mid",71.88,11.1,"501",39.65,"bartonian",35871,64.0062,17.3491,14,1
@@ -388,12 +605,58 @@
 "136751",202312,"col","Drazinda",70.46,30.78,"Kawnki Bod",NA,"",0,"Bartonian","",41.3,38,12078,"gp_mid",72.17,11.72,"501",39.65,"bartonian",2898,64.0062,17.3491,14,1
 "136753",202314,"col","Drazinda",70.19,31.62,"N Domanda Post, W-2",NA,"",2,"Bartonian","",41.3,38,12078,"gp_mid",72.17,12.6,"501",39.65,"bartonian",35875,66.413,26.9619,14,1
 "137477",203164,"col","Tukwila",-122.25,47.48,"Western King County Tukwila Checklist",NA,"",82,"Bartonian","",41.3,38,69674,"gp_mid",-99.99,53.57,"129",39.65,"bartonian",35972,-112.0929,48.4682,14,1
+"138275",204582,"col","Tortachilla Limestone",138.47,-35.23,"Maslin Beach",NA,"",1,"Bartonian","",41.3,38,70170,"gp_mid",148.23,-55.22,"801",39.65,"bartonian",33087,132.899,-55.6255,14,1
+"138375",204728,"col","Moodys Branch",-86.57,31.28,"Fall Creek mouth",NA,"",1,"Bartonian","",41.3,38,70263,"gp_mid",-69.37,34.72,"109",39.65,"bartonian",36234,-77.1208,31.453,14,1
+"138764",205222,"col","Cook Mountain",-97.07,30.02,"11-T-70A",NA,"Pinoak Creek",17,"Bartonian","",41.3,38,28119,"gp_mid",-80.48,35.21,"101",39.65,"bartonian",36396,-88.5305,29.8933,14,1
+"138796",205264,"col","Cook Mountain",-95.63,31.03,"2MC - Two Mile Creek",NA,"",40,"Bartonian","",41.3,38,28119,"gp_mid",-78.75,35.97,"101",39.65,"bartonian",36408,-88.5305,29.8933,14,1
+"138797",205265,"col","Cook Mountain",-95.92,31.14,"2MC-B Two Mile Creek",NA,"",15,"Bartonian","",41.3,38,28119,"gp_mid",-79.03,36.12,"101",39.65,"bartonian",36409,-88.5305,29.8933,14,1
+"138798",205266,"col","Cook Mountain",-95.9,31.12,"2MC-C Two Mile Creek",NA,"",106,"Bartonian","",41.3,38,28119,"gp_mid",-79.01,36.1,"101",39.65,"bartonian",36410,-88.5305,29.8933,14,1
+"138799",205267,"col","Cook Mountain",-95.95,31.09,"2MC-O Two Mile Creek",NA,"",194,"Bartonian","",41.3,38,28119,"gp_mid",-79.07,36.08,"101",39.65,"bartonian",36411,-88.5305,29.8933,14,1
+"138803",205271,"col","Cook Mountain",-95.94,31.11,"2MC-S Two Mile Creek",NA,"",141,"Bartonian","",41.3,38,28119,"gp_mid",-79.06,36.1,"101",39.65,"bartonian",36413,-88.5305,29.8933,14,1
+"138894",205410,"col","Cook Mountain",-95.73,31.2,"AF",NA,"Trinity River",264,"Bartonian","",41.3,38,28119,"gp_mid",-78.81,36.16,"101",39.65,"bartonian",36452,-88.5305,29.8933,14,1
+"138895",205411,"col","Cook Mountain",-95.73,31.2,"AF-2",NA,"Trinity River",8,"Bartonian","",41.3,38,28119,"gp_mid",-78.81,36.16,"101",39.65,"bartonian",36452,-88.5305,29.8933,14,1
+"138896",205412,"col","Cook Mountain",-95.72,31.22,"AF-H",NA,"Alabama Ferry Hill",5,"Bartonian","",41.3,38,28119,"gp_mid",-78.8,36.17,"101",39.65,"bartonian",36453,-88.5305,29.8933,14,1
+"138906",205422,"col","Cook Mountain",-96.56,30.62,"BCR",NA,"Brazos River",311,"Bartonian","",41.3,38,28119,"gp_mid",-79.81,35.72,"101",39.65,"bartonian",36459,-88.5305,29.8933,14,1
+"138907",205423,"col","Cook Mountain",-96.56,30.63,"BCR-2",NA,"Brazos River",3,"Bartonian","",41.3,38,28119,"gp_mid",-79.81,35.73,"101",39.65,"bartonian",36460,-88.5305,29.8933,14,1
+"138908",205424,"col","Cook Mountain",-96.56,30.62,"BCR-H",NA,"Copper Creek",19,"Bartonian","",41.3,38,28119,"gp_mid",-79.81,35.72,"101",39.65,"bartonian",36459,-88.5305,29.8933,14,1
+"138909",205425,"col","Cook Mountain",-96.56,30.62,"BCR-U",NA,"Copper Creek",13,"Bartonian","",41.3,38,28119,"gp_mid",-79.81,35.72,"101",39.65,"bartonian",36459,-88.5305,29.8933,14,1
+"138910",205426,"col","Cook Mountain",-95.84,31.19,"BEAR",NA,"Bear Branch, Two Mile Creek",11,"Bartonian","",41.3,38,28119,"gp_mid",-78.93,36.16,"101",39.65,"bartonian",36461,-88.5305,29.8933,14,1
+"138913",205429,"col","Cook Mountain",-97.14,29.95,"Borden Creek",NA,"",57,"Bartonian","",41.3,38,28119,"gp_mid",-80.57,35.15,"101",39.65,"bartonian",36463,-88.5305,29.8933,14,1
+"138914",205430,"col","Cook Mountain",-96.55,30.63,"BR",NA,"Brazos River",206,"Bartonian","",41.3,38,28119,"gp_mid",-79.8,35.73,"101",39.65,"bartonian",36464,-88.5305,29.8933,14,1
+"138916",205432,"col","Cook Mountain",-96.54,30.63,"BR-D",NA,"Brazos River",1,"Bartonian","",41.3,38,28119,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
+"138917",205433,"col","Cook Mountain",-96.54,30.63,"BR-LL",NA,"Brazos River",121,"Bartonian","",41.3,38,28119,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
+"138919",205435,"col","Cook Mountian",-96.55,30.63,"BR-SPARTA",NA,"Brazos River",4,"Bartonian","",41.3,38,28119,"gp_mid",-79.8,35.73,"101",39.65,"bartonian",36464,-88.5305,29.8933,14,1
+"138921",205437,"col","Cook Mountain",-96.54,30.63,"BR-WH",NA,"Brazos River",1,"Bartonian","",41.3,38,28119,"gp_mid",-79.79,35.72,"101",39.65,"bartonian",5276,-88.5305,29.8933,14,1
+"138922",205438,"col","Gosport Sand",-87.52,31.54,"CB",NA,"Alabama River (Claiborne Bluff)",156,"Bartonian","",41.3,38,28119,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"138927",205443,"col","Gosport Sand",-87.52,31.54,"CLAIB",NA,"Alabama River (Claiborne Bluff)",1,"Bartonian","",41.3,38,28119,"gp_mid",-70.27,35.14,"109",39.65,"bartonian",918,-77.1208,31.453,14,1
+"138940",205456,"col","Cook Mountain",-96.28,31.11,"DUNR",NA,"Dunn's Ranch",36,"Bartonian","",41.3,38,28119,"gp_mid",-79.41,36.15,"101",39.65,"bartonian",36480,-88.5305,29.8933,14,1
+"138944",205460,"col","Yegua",-96.99,30.24,"ELMC-O",NA,"Elm Creek",30,"Bartonian","",41.3,38,28119,"gp_mid",-80.35,35.41,"101",39.65,"bartonian",36481,-88.5305,29.8933,14,1
+"138945",205461,"col","Yegua",-96.98,30.24,"ELMC-P",NA,"Elm Creek",55,"Bartonian","",41.3,38,28119,"gp_mid",-80.34,35.41,"101",39.65,"bartonian",36482,-88.5305,29.8933,14,1
+"138949",205465,"col","Cook Mountain",-96.62,30.59,"FM1362",NA,"",2,"Bartonian","",41.3,38,28119,"gp_mid",-79.88,35.7,"101",39.65,"bartonian",36486,-88.5305,29.8933,14,1
+"138957",205473,"col","Cook Mountain",-97.58,29.49,"GONZ",NA,"US 90/US 183\r\n\r\n",1,"Bartonian","",41.3,38,28119,"gp_mid",-81.13,34.77,"101",39.65,"bartonian",36491,-88.5305,29.8933,14,1
+"138964",205480,"col","Cook Mountain",-96.52,30.64,"LB",NA,"Little Brazos River\r\n\r\n",241,"Bartonian","",41.3,38,28119,"gp_mid",-79.77,35.73,"101",39.65,"bartonian",36496,-88.5305,29.8933,14,1
+"138965",205481,"col","Cook Mountain",-96.52,30.63,"LB-2",NA,"Little Brazos River\r\n\r\n",121,"Bartonian","",41.3,38,28119,"gp_mid",-79.77,35.72,"101",39.65,"bartonian",36497,-88.5305,29.8933,14,1
+"138966",205482,"col","Cook Mountain",-96.52,30.64,"LB-B",NA,"Little Brazos River\r\n\r\n",1,"Bartonian","",41.3,38,28119,"gp_mid",-79.77,35.73,"101",39.65,"bartonian",36496,-88.5305,29.8933,14,1
+"138967",205483,"col","Yegua",-96.51,30.63,"LB-BR",NA,"Bryan\r\n\r\n",83,"Bartonian","",41.3,38,28119,"gp_mid",-79.76,35.72,"101",39.65,"bartonian",36498,-88.5305,29.8933,14,1
+"138968",205484,"col","Cook Mountain",-96.52,30.64,"LB-LL",NA,"Little Brazos River\r\n\r\n",142,"Bartonian","",41.3,38,28119,"gp_mid",-79.77,35.73,"101",39.65,"bartonian",36496,-88.5305,29.8933,14,1
+"138969",205485,"col","Cook Mountain",-96.52,30.64,"LB-U",NA,"Little Brazos River\r\n\r\n",184,"Bartonian","",41.3,38,28119,"gp_mid",-79.77,35.73,"101",39.65,"bartonian",36496,-88.5305,29.8933,14,1
+"138970",205486,"col","Yegua",-96.99,30.24,"LEE-1",NA,"Orel's Crossing\r\n\r\n",26,"Bartonian","",41.3,38,28119,"gp_mid",-80.35,35.41,"101",39.65,"bartonian",36481,-88.5305,29.8933,14,1
+"138972",205488,"col","Gosport Sand",-87.91,31.55,"LSC",NA,"Jackson\r\n\r\n\r\n",9,"Bartonian","",41.3,38,28119,"gp_mid",-70.67,35.21,"109",39.65,"bartonian",36499,-77.1208,31.453,14,1
+"138973",205489,"col","Gosport Sand",-87.91,31.55,"LSC-G",NA,"Little Slave Creek\r\n\r\n\r\n\r\n",397,"Bartonian","",41.3,38,28119,"gp_mid",-70.67,35.21,"109",39.65,"bartonian",36499,-77.1208,31.453,14,1
+"138999",205515,"col","Cook Mountain",-97.08,30.07,"PIN",NA,"Pinoak Creek\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",94,"Bartonian","",41.3,38,28119,"gp_mid",-80.48,35.26,"101",39.65,"bartonian",36516,-88.5305,29.8933,14,1
+"139000",205516,"col","Cook Mountain",-87.3,32.1,"Pine Barren",NA,"",1,"Bartonian","",41.3,38,28119,"gp_mid",-69.91,35.65,"109",39.65,"bartonian",36517,-77.1208,31.453,14,1
 "139003",205519,"col","Cook Mountain",-93.65,31.24,"PRI-Columbus",NA,"Sabine River\r\n\r\n",2,"Bartonian","",41.3,38,28119,"gp_mid",-76.65,35.86,"101",39.65,"bartonian",36520,-84.8077,29.5809,14,1
+"139015",205531,"col","Cook Mountain",-97.09,29.99,"SF",NA,"Shipps Ford\r\n\r\n",78,"Bartonian","",41.3,38,28119,"gp_mid",-80.51,35.18,"101",39.65,"bartonian",36525,-88.5305,29.8933,14,1
 "139390",206017,"col","Aridal",-13.32,25.15,"Sabkha of Lebreij, Bartonian",NA,"",7,"Bartonian","",41.3,38,70668,"gp_mid",-9.06,19.14,"714",39.65,"bartonian",36653,-18.693,21.4809,14,1
 "139824",206558,"col","Drazinda",65.78,28.09,"Drug Tehsil",NA,"",2,"Bartonian","",41.3,38,70997,"gp_mid",66.31,22.37,"506",39.65,"bartonian",36781,60.0978,15.614,14,1
+"139978",206888,"col","Tortachilla Limestone",138.47,-35.23,"Maslin Bay, Aldinga (University of Canterbury collection)",NA,"",2,"Bartonian","",41.3,38,71189,"gp_mid",148.23,-55.22,"801",39.65,"bartonian",33087,132.899,-55.6255,14,1
 "140097",207129,"col","Cowlitz",-122.93,46.4,"CAS loc. 183",NA,"LACMIP loc. 22536",58,"Bartonian","",41.3,38,71303,"gp_mid",-100.96,52.56,"129",39.65,"bartonian",4376,-112.0929,48.4682,14,1
+"140278",207514,"col","Cowlitz",-123.57,45.87,"USGS 15255",NA,"",1,"Bartonian","",41.3,38,10878,"gp_mid",-101.77,52.08,"129",39.65,"bartonian",36944,-112.6878,46.001,14,1
+"140290",207526,"col","Cowlitz",-123.3,45.49,"USGS 15533",NA,"",1,"Bartonian","",41.3,38,10878,"gp_mid",-101.53,51.68,"129",39.65,"bartonian",36952,-112.6878,46.001,14,1
 "140435",207777,"col","Submeseta",-56.62,-64.24,"IAA 4/12",NA,"",1,"Bartonian","",41.3,38,71672,"gp_mid",-66.41,-62.42,"803",39.65,"bartonian",37016,-57.2879,-66.274,14,1
 "140442",207786,"col","",11.25,45.42,"Soave",NA,"",16,"Bartonian","",41.3,38,71693,"gp_mid",17.16,36.09,"307",39.65,"bartonian",37018,10.2197,40.0805,14,1
+"141661",209519,"col","Gosport Sand",-88.1,31.76,"ACl-14",NA,"",2,"Bartonian","",41.3,38,71232,"gp_mid",-70.81,35.45,"109",39.65,"bartonian",1013,-77.1208,31.453,14,1
+"141662",209520,"col","Gosport Sand",-88.02,31.59,"ACl-15",NA,"",27,"Bartonian","",41.3,38,71232,"gp_mid",-70.77,35.27,"109",39.65,"bartonian",37241,-77.1208,31.453,14,1
 "142802",211071,"col","Gehlberg",11,52.14,"Alversdorf",NA,"",2,"Bartonian","",41.3,38,72902,"gp_mid",15.72,45.11,"315",39.65,"bartonian",37471,5.0387,50.5854,14,1
 "142806",211080,"col","Gehlberg",10.99,52.16,"Tagebau Treue, Bartonian",NA,"Treue 3, Nordwand",1,"Bartonian","",41.3,38,72902,"gp_mid",15.72,45.12,"315",39.65,"bartonian",37473,5.0387,50.5854,14,1
 "142886",211299,"col","Bandah",70.47,27.15,"Bandah",NA,"",7,"Bartonian","",41.3,38,72958,"gp_mid",71.18,8.23,"501",39.65,"bartonian",37491,63.466,14.9036,14,1

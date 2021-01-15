@@ -26,14 +26,14 @@
 "15327",29479,"col","",-51.8,-30.2,"Fazenda Goulart",NA,"PGAP 11021",10,"Sakmarian","",295.5,290.1,8017,"gp_mid",-37.26,-50.72,"201",292.8,"sakmarian",2978,-34.9405,-56.4736,57,1
 "15328",29480,"col","",-51.5,-30.3,"Morro Papaleo",NA,"PGAP 11020",18,"Sakmarian","",295.5,290.1,8017,"gp_mid",-36.99,-50.94,"201",292.8,"sakmarian",2981,-34.9405,-56.4736,57,1
 "15331",29483,"col","",-52.5,-30,"Acampamento Velho",NA,"PGAP 13193",5,"Sakmarian","",295.5,290.1,8183,"gp_mid",-37.93,-50.24,"201",292.8,"sakmarian",2983,-34.9405,-56.4736,57,1
+"15332",29484,"col","",-50.5,-23.9,"Cambui",NA,"PGAP 13195",15,"Sakmarian","",295.5,290.1,8183,"gp_mid",-31.25,-45.72,"201",292.8,"sakmarian",2984,-29.7034,-52.5641,57,1
+"15333",29485,"col","",-50.4,-25.3,"Teixeira Soares",NA,"PGAP 13196",13,"Sakmarian","",295.5,290.1,8183,"gp_mid",-32.04,-47.01,"201",292.8,"sakmarian",2985,-29.7034,-52.5641,57,1
 "15336",29488,"col","",-47.3,-22.9,"Monte Mor",NA,"PGAP 13197",6,"Sakmarian","",295.5,290.1,8183,"gp_mid",-26.82,-46.08,"201",292.8,"sakmarian",2988,-28.6137,-50.1584,57,1
 "15346",29498,"col","",-54,-30.2,"Parana Basin",NA,"PGAP 13178",3,"Sakmarian","",295.5,290.1,8215,"gp_mid",-39.82,-49.75,"201",292.8,"sakmarian",2980,-34.9405,-56.4736,57,1
 "15352",29504,"col","",-47.8,-23.1,"Parana Basin",NA,"PGAP 13177",5,"Sakmarian","",295.5,290.1,8215,"gp_mid",-27.54,-46.07,"201",292.8,"sakmarian",2995,-28.6137,-50.1584,57,1
 "15988",30140,"col","Karharbari",92.9,27.2,"Arunachal",NA,"PGAP 13301",7,"Sakmarian","",295.5,290.1,8166,"gp_mid",79.37,-69.71,"501",292.8,"sakmarian",3148,95.0107,-44.7368,57,1
-"15990",30142,"col","Karharbari",82.3,23.2,"Chirimiri",NA,"PGAP 13299",13,"Sakmarian","",295.5,290.1,8166,"gp_mid",52.26,-66.74,"501",292.8,"sakmarian",3150,69.7715,-52.1482,57,1
+"15994",30146,"col","Karharbari",86.3,23.7,"Jharia",NA,"PGAP 13294",7,"Sakmarian","",295.5,290.1,8166,"gp_mid",59.64,-69.21,"501",292.8,"sakmarian",3154,74.5224,-54.1196,57,1
 "15996",30148,"col","Karharbari",75.3,33,"Kashmir",NA,"PGAP 13300",5,"Sakmarian","",295.5,290.1,8166,"gp_mid",60.27,-55.8,"501",292.8,"sakmarian",3156,71.214,-40.1876,57,1
-"15997",30149,"col","Karharbari",81.1,23.3,"Pali",NA,"PGAP 13297",34,"Sakmarian","",295.5,290.1,8166,"gp_mid",50.87,-65.79,"501",292.8,"sakmarian",3157,69.7715,-52.1482,57,1
-"15999",30151,"col","Karharbari",80.9,23.4,"Umaria",NA,"PGAP 13298",5,"Sakmarian","",295.5,290.1,8166,"gp_mid",50.81,-65.58,"501",292.8,"sakmarian",3159,69.7715,-52.1482,57,1
 "16316",30472,"col","Lower Kosyinskian Suite",58.5,66.3,"Kozhim-1",NA,"PGAP 13377",12,"Sakmarian","",295.5,290.1,8242,"gp_mid",34.27,32.75,"302",292.8,"sakmarian",3229,16.8362,44.6017,57,1
 "16367",30523,"col","",57.5,55,"Sim",NA,"PGAP 13382",4,"Sakmarian","",295.5,290.1,8241,"gp_mid",43.87,25.16,"302",292.8,"sakmarian",3253,32.2138,39.2107,57,1
 "20637",35513,"col","Piqiang",77.93,39.75,"Uzunbulak Section, Reef Core, Piqiang, Artux City",NA,"Reef 3295",9,"Sakmarian","",295.5,290.1,9594,"gp_mid",83.48,19.15,"601",292.8,"sakmarian",4123,75.8355,52.0528,57,1
@@ -45,7 +45,13 @@
 "22944",38844,"col","",-115.06,36.65,"Wamp Spring, Unit 39",NA,"",4,"Sakmarian","",295.5,290.1,10478,"gp_mid",-39.25,8.82,"101",292.8,"sakmarian",4784,-49.3978,9.3032,57,1
 "22945",38845,"col","",-115.06,36.65,"Wamp Spring, Unit 40",NA,"",3,"Sakmarian","",295.5,290.1,10478,"gp_mid",-39.25,8.82,"101",292.8,"sakmarian",4784,-49.3978,9.3032,57,1
 "22946",38846,"col","",-115.06,36.64,"Wamp Spring, Supplementary Unit A",NA,"",10,"Sakmarian","",295.5,290.1,10478,"gp_mid",-39.26,8.81,"101",292.8,"sakmarian",4785,-49.3978,9.3032,57,1
+"23126",39150,"col","Hueco",-106.88,32.37,"Robledo Mountains L-03011",NA,"",17,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.66,1.27,"101",292.8,"sakmarian",4840,-47.0015,1.1139,57,1
+"23127",39151,"col","Hueco",-106.88,32.37,"Robledo Mountains L-03017",NA,"",15,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.66,1.27,"101",292.8,"sakmarian",4840,-47.0015,1.1139,57,1
+"23129",39152,"col","Hueco",-106.88,32.37,"Robledo Mountains L-03018",NA,"",8,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.66,1.27,"101",292.8,"sakmarian",4840,-47.0015,1.1139,57,1
 "23130",39153,"col","Hueco",-106.87,32.37,"Robledo Mountains UNM-1465",NA,"",30,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.66,1.27,"101",292.8,"sakmarian",4842,-44.4686,0.0501,57,1
+"23131",39154,"col","Hueco",-106.88,32.37,"Robledo Mountains L-03012",NA,"",54,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.67,1.27,"101",292.8,"sakmarian",4840,-47.0015,1.1139,57,1
+"23132",39155,"col","Hueco",-106.88,32.37,"Robledo Mountains L-03013",NA,"",51,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.67,1.27,"101",292.8,"sakmarian",4840,-47.0015,1.1139,57,1
+"23133",39156,"col","Hueco",-106.91,32.37,"Robledo Mountains L-03014",NA,"",8,"Sakmarian","",295.5,290.1,10570,"gp_mid",-36.69,1.28,"101",292.8,"sakmarian",4843,-47.0015,1.1139,57,1
 "23148",39182,"col","",-110.78,28.98,"Loc. 4 - JS-93-7, Sierra Santa Teresa, Section 4",NA,"",1,"Sakmarian","",295.5,290.1,10577,"gp_mid",-42.14,6.28,"104",292.8,"sakmarian",4851,-51.2179,1.3875,57,1
 "23149",39183,"col","",-110.78,28.95,"Loc. 5 - JS-92-59B, Sierra Santa Teresa",NA,"",1,"Sakmarian","",295.5,290.1,10577,"gp_mid",-42.17,6.27,"104",292.8,"sakmarian",4852,-51.2179,1.3875,57,1
 "23150",39184,"col","",-110.8,28.95,"Loc. 6 - JS-91-134, Sierra Santa Teresa",NA,"",1,"Sakmarian","",295.5,290.1,10577,"gp_mid",-42.18,6.28,"104",292.8,"sakmarian",4853,-51.2179,1.3875,57,1
@@ -183,9 +189,12 @@
 "38027",58079,"col","Burnett",151.35,-24.95,"134-5, Yarrol Section 134, Burnett Formation",NA,"",1,"Sakmarian","",295.5,290.1,15600,"gp_mid",164.17,-56.85,"801",292.8,"sakmarian",9154,150.6306,-45.9505,57,1
 "38028",58080,"col","Burnett",151.35,-24.95,"134-6, Yarrol Section 134, Burnett Formation",NA,"",2,"Sakmarian","",295.5,290.1,15600,"gp_mid",164.17,-56.85,"801",292.8,"sakmarian",9154,150.6306,-45.9505,57,1
 "38029",58081,"col","Burnett",151.35,-24.95,"134-8, Yarrol Section 134, Burnett Formation",NA,"",1,"Sakmarian","",295.5,290.1,15600,"gp_mid",164.17,-56.85,"801",292.8,"sakmarian",9154,150.6306,-45.9505,57,1
+"40063",60366,"col","",58.22,58.22,"Koiva River, section 59, Interval 8, Beds 50-54",NA,"",2,"Sakmarian","",295.5,290.1,17361,"gp_mid",41.47,27.58,"302",292.8,"sakmarian",9678,30.152,42.0634,57,1
 "40775",61133,"col","Gechang",78.05,32.02,"Pin Valley, Spiti region, lower Gechang Formation",NA,"",1,"Sakmarian","",295.5,290.1,17564,"gp_mid",61.74,-58.19,"501",292.8,"sakmarian",9843,80.8684,-35.9047,57,1
 "40780",61138,"col","Ryozensan",136.36,35.26,"Gongen-dani Valley, SR-1, Mount Ryozen-san, Shiga Prefecture",NA,"Reef 3435",3,"Sakmarian","",295.5,290.1,17571,"gp_mid",138.62,13.04,"610",292.8,"sakmarian",9845,168.4266,12.7223,57,1
 "40781",61139,"col","Ryozensan",136.37,35.25,"Gongen-dani Valley, SR-2, Mount Ryozen-san, Shiga Prefecture",NA,"Reef 3435",3,"Sakmarian","",295.5,290.1,17571,"gp_mid",138.62,13.03,"610",292.8,"sakmarian",9846,168.4266,12.7223,57,1
+"40886",61255,"col","Upper Pseudoschwagerina",13.22,46.57,"Zweikofel, Upper Pseudoschwagerina Formation, Carnic Alps",NA,"",10,"Sakmarian","",295.5,290.1,17614,"gp_mid",29.48,-10.09,"307",292.8,"sakmarian",9877,21.2603,14.7483,57,1
+"40887",61256,"col","Upper Pseudoschwagerina",13.3,46.57,"Garnitzenbach, Upper Pseudoschwagerina Formation, Carnic Alps",NA,"",8,"Sakmarian","",295.5,290.1,17614,"gp_mid",29.51,-10.14,"307",292.8,"sakmarian",9878,21.2603,14.7483,57,1
 "41105",61506,"col","Dingjiazhai",99.28,25.15,"Woniusi Section, Dingjiazhai B, Baoshan Block",NA,"",1,"Sakmarian","",295.5,290.1,17736,"gp_mid",93.6,-44.7,"616",292.8,"sakmarian",9935,98.1964,-38.0839,57,1
 "41106",61507,"col","Dingjiazhai",99.14,25.08,"Yangnaiqiao, Baoshan Block",NA,"",2,"Sakmarian","",295.5,290.1,17736,"gp_mid",93.76,-44.8,"616",292.8,"sakmarian",9936,98.1964,-38.0839,57,1
 "41107",61508,"col","Dingjiazhai",99.27,25.15,"Jinjisi Section, Baoshan Block",NA,"",1,"Sakmarian","",295.5,290.1,17736,"gp_mid",93.61,-44.71,"616",292.8,"sakmarian",9937,98.1964,-38.0839,57,1
@@ -211,6 +220,7 @@
 "50440",75826,"col","",-131.1,57.8,"GSC 43287 (SE-157d-59), Telegraph Creek, Stikine",NA,"",5,"Sakmarian","",295.5,290.1,25622,"gp_mid",-45.85,30.44,"127",292.8,"sakmarian",12395,-60.652,36.9521,57,1
 "50443",75829,"col","",-131,56.8,"GSC 43289 (SE-156a-59), Iskut River, Stikine",NA,"",2,"Sakmarian","",295.5,290.1,25622,"gp_mid",-46.05,29.45,"127",292.8,"sakmarian",12398,-60.652,36.9521,57,1
 "50445",75831,"col","",-131.13,57.97,"GSC 43295 (SE-155c-59), Telegraph Creek, Stikine",NA,"",2,"Sakmarian","",295.5,290.1,25622,"gp_mid",-45.83,30.6,"127",292.8,"sakmarian",12399,-60.652,36.9521,57,1
+"50526",121511,"col","Alacran Mountain",-107.71,31.92,"USNM725, Tres Hermanas Mountains",NA,"",1,"Sakmarian","",295.5,290.1,11477,"gp_mid",-37.49,1.33,"101",292.8,"sakmarian",12432,-47.0015,1.1139,57,1
 "50540",75962,"col","Hueco",-106.49,31.83,"USNM720b, White Spur, Franklin Mountains",NA,"",14,"Sakmarian","",295.5,290.1,11454,"gp_mid",-36.72,0.64,"101",292.8,"sakmarian",12439,-44.4686,0.0501,57,1
 "53189",81372,"col","",57.85,50.21,"Aidaralash Creek, Bed 36/1",NA,"",1,"Sakmarian","",295.5,290.1,27403,"gp_mid",47.85,22.04,"302",292.8,"sakmarian",13309,37.955,37.0608,57,1
 "53190",81373,"col","",57.85,50.21,"Aidaralash Creek, Bed 36/2",NA,"",11,"Sakmarian","",295.5,290.1,27403,"gp_mid",47.85,22.04,"302",292.8,"sakmarian",13309,37.955,37.0608,57,1
@@ -235,6 +245,7 @@
 "56508",86028,"col","",57.65,62.67,"Bolshaya Anyo River, Sakmarian, Il'cha River Basin",NA,"",3,"Sakmarian","",295.5,290.1,27343,"gp_mid",37.36,30.22,"302",292.8,"sakmarian",14513,22.9763,41.8635,57,1
 "56835",86578,"col","Gusinaya",63.85,68.75,"Brus-Yagovosh Creek, Lower Kara River, Pai-Khoy Range",NA,"",1,"Sakmarian","",295.5,290.1,29171,"gp_mid",33.2,35.81,"302",292.8,"sakmarian",14629,13.5429,46.2605,57,1
 "57342",87336,"col","Akachan",139,62.5,"Buyundzha River, T. 14019, Southern Verkhoyan",NA,"",2,"Sakmarian","",295.5,290.1,27345,"gp_mid",37.49,60.79,"401",292.8,"sakmarian",14844,-40.2557,81.3484,57,1
+"57349",87343,"col","Bundella",147.03,-43.2,"C3, Wheatley's Bay, Cygnet",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.86,-73.71,"801",292.8,"sakmarian",14851,150.1301,-63.7188,57,1
 "57581",87598,"col","Treskelodden",16.23,77,"Treskelen Peninsula, Treskelodden Formation",NA,"",1,"Sakmarian","",295.5,290.1,29468,"gp_mid",14.72,32.5,"309",292.8,"sakmarian",14915,-1.7052,36.5837,57,1
 "58064",88214,"col","Calytrix",126.09,-20.35,"Calytrix 1 Bore, Barbwire Terrace, Canning Basin",NA,"",20,"Sakmarian","",295.5,290.1,29623,"gp_mid",119.41,-57.86,"801",292.8,"sakmarian",15050,121.3944,-41.8068,57,1
 "58086",88235,"col","Wreford",-96.78,39.08,"Camp Funston, Geary County",NA,"Kellett 43",26,"Sakmarian","",295.5,290.1,29629,"gp_mid",-26.12,2.27,"101",292.8,"sakmarian",15060,-35.5757,3.7525,57,1
@@ -249,6 +260,7 @@
 "58286",88432,"col","Sokolov",57.5,70.8,"Cape Perovskiy, Collection 13800-3a, Novaya Zemlya",NA,"",2,"Sakmarian","",295.5,290.1,29395,"gp_mid",29.62,35.09,"302",292.8,"sakmarian",15149,13.0665,43.7192,57,1
 "58352",88498,"col","Crouse",-96.62,39.34,"Carnahan Creek Recration Area, east side of Tuttle Creek Lake",NA,"",1,"Sakmarian","",295.5,290.1,29693,"gp_mid",-25.88,2.43,"101",292.8,"sakmarian",15154,-35.5757,3.7525,57,1
 "58491",88651,"col","Carolyn",124.91,-18.71,"Carolyn Bore, Mount Tuckfield",NA,"",5,"Sakmarian","",295.5,290.1,28321,"gp_mid",117.46,-56.18,"801",292.8,"sakmarian",15190,116.9857,-39.0494,57,1
+"58500",88660,"col","Golden Valley",146.95,-43.45,"Cave Hill, Ida Bay",NA,"",1,"Sakmarian","",295.5,290.1,14254,"gp_mid",-175.32,-73.92,"801",292.8,"sakmarian",15198,150.1301,-63.7188,57,1
 "58521",88694,"col","Bazardarin",73.85,37.97,"Chakobay, Bazardarin Fm, Limestone",NA,"",2,"Sakmarian","",295.5,290.1,27409,"gp_mid",80.17,17.33,"601",292.8,"sakmarian",15208,77.0615,-21.6089,57,1
 "58522",88695,"col","Bazardarin",73.85,37.97,"Chakobay, Bazardarin Fm, Siltstone",NA,"",5,"Sakmarian","",295.5,290.1,27409,"gp_mid",80.17,17.33,"601",292.8,"sakmarian",15208,77.0615,-21.6089,57,1
 "58679",88906,"col","Turuzov",111.9,74.95,"Chernokhrebetnaya River, Outcrop 767, Bed A, Taimyr Peninsula",NA,"",2,"Sakmarian","",295.5,290.1,27355,"gp_mid",37.99,45.23,"401",292.8,"sakmarian",15246,-2.8457,68.58,57,1
@@ -300,6 +312,7 @@
 "63721",95726,"col","Kangkelin",81.18,41.87,"Laohutai KG2-III-29, Baicheng",NA,"",1,"Sakmarian","",295.5,290.1,32520,"gp_mid",81.67,23.4,"407",292.8,"sakmarian",16878,75.4964,55.8149,57,1
 "63722",95727,"col","Kangkelin",81.18,41.87,"Laohutai KG2-III-32, Baicheng",NA,"",1,"Sakmarian","",295.5,290.1,32520,"gp_mid",81.67,23.4,"407",292.8,"sakmarian",16878,75.4964,55.8149,57,1
 "63723",95728,"col","Kangkelin",81.18,41.87,"Laohutai KG2-III-35, Baicheng",NA,"",1,"Sakmarian","",295.5,290.1,32520,"gp_mid",81.67,23.4,"407",292.8,"sakmarian",16878,75.4964,55.8149,57,1
+"63741",95746,"col","Darlington",148.08,-42.57,"Darlington, just above Eurydesma beds, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,32369,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
 "63753",95758,"col","Maping",106.61,26.25,"Datiankan, Maling, Huaxi, Guiyang",NA,"",1,"Sakmarian","",295.5,290.1,32416,"gp_mid",129.86,-11.3,"611",292.8,"sakmarian",16895,139.1248,2.9866,57,1
 "63804",95809,"col","Lenox Hills",-103.33,30.27,"Decie Ranch House, 2.75 miles North, Glass Mountains",NA,"",1,"Sakmarian","",295.5,290.1,27325,"gp_mid",-35.42,-2.21,"101",292.8,"sakmarian",16911,-45.2278,-2.5438,57,1
 "63809",95816,"col","Echii",130.6,64.6,"Delenzha River, Lower Echii Horizon, Tumara River Basin, Western Verkhoyan",NA,"",1,"Sakmarian","",295.5,290.1,27927,"gp_mid",41.69,57.09,"401",292.8,"sakmarian",16916,-16.4148,79.8246,57,1
@@ -307,7 +320,10 @@
 "63993",96008,"col","Darwin Canyon",-117.52,36.3,"SJS-908, Darwin Canyon",NA,"",2,"Sakmarian","",295.5,290.1,32585,"gp_mid",-40.99,9.87,"101",292.8,"sakmarian",16990,-49.3978,9.3032,57,1
 "63997",96012,"col","Bird Spring",-114.72,36.87,"SJS-1218, Farrier",NA,"",1,"Sakmarian","",295.5,290.1,32585,"gp_mid",-38.9,8.81,"101",292.8,"sakmarian",16993,-49.3978,9.3032,57,1
 "64428",96797,"col","Langmariaga",89,31,"Derilangma, Langmariaga Fm, Xainza County",NA,"",1,"Sakmarian","",295.5,290.1,27800,"gp_mid",78.97,-52.31,"613",292.8,"sakmarian",12191,91.6447,-39.2575,57,1
+"64550",97016,"col","Golden Valley",146.28,-41.33,"Don River Bridge, Roland Highway",NA,"",1,"Sakmarian","",295.5,290.1,14254,"gp_mid",178.16,-72.79,"801",292.8,"sakmarian",17141,150.1301,-63.7188,57,1
 "64712",97202,"col","",67.81,33.88,"Doni Yarchi",NA,"",14,"Sakmarian","",295.5,290.1,27451,"gp_mid",55.32,-50.23,"506",292.8,"sakmarian",17168,72.156,43.5434,57,1
+"64756",97225,"col","Kawai",133.06,34.72,"Kogoro K-2, Hiroshima Prefecture",NA,"",18,"Sakmarian","",295.5,290.1,33165,"gp_mid",135.84,13.62,"610",292.8,"sakmarian",17176,165.5616,11.4623,57,1
+"64757",97226,"col","Kawai",133.06,34.72,"Kogoro K-3 (Kw-46), Hiroshima Prefecture",NA,"",1,"Sakmarian","",295.5,290.1,33165,"gp_mid",135.84,13.62,"610",292.8,"sakmarian",17176,165.5616,11.4623,57,1
 "64776",97245,"col","",67.53,33.51,"Dorf Dala, 18 km W of Bukhara-e-Nawar",NA,"",3,"Sakmarian","",295.5,290.1,27468,"gp_mid",54.65,-50.22,"506",292.8,"sakmarian",17179,76.4308,-27.8766,57,1
 "64777",97246,"col","",67.55,33.5,"Dorf Nau-Bauri, Dacht-e-Nawar",NA,"",3,"Sakmarian","",295.5,290.1,27468,"gp_mid",54.65,-50.25,"506",292.8,"sakmarian",17180,76.4308,-27.8766,57,1
 "64799",97272,"col","Buckskin Mountain",-116,40.76,"Dry Suzie Creek, Carlin Canyon",NA,"",2,"Sakmarian","",295.5,290.1,33178,"gp_mid",-37.04,12.39,"101",292.8,"sakmarian",17194,-47.8769,11.306,57,1
@@ -318,6 +334,7 @@
 "64826",97303,"col","Tastuba",57.89,55.7,"Duvan Mountain, Southern Urals",NA,"",1,"Sakmarian","",295.5,290.1,33188,"gp_mid",43.46,25.79,"302",292.8,"sakmarian",17213,32.2138,39.2107,57,1
 "64827",97304,"col","",57.89,55.7,"Duvan Reef, Yaroslavska",NA,"",2,"Sakmarian","",295.5,290.1,46656,"gp_mid",43.46,25.79,"302",292.8,"sakmarian",17213,32.2138,39.2107,57,1
 "64894",97375,"col","Ol'chan",139,62.5,"Ol'chan Stream, T. 036/81a, Tompo River Basin, Southern Verkhoyan",NA,"",2,"Sakmarian","",295.5,290.1,27345,"gp_mid",37.49,60.79,"401",292.8,"sakmarian",14844,-40.2557,81.3484,57,1
+"65316",98045,"col","Mount Mark",-125.62,49.68,"Marble Meadows",NA,"",16,"Sakmarian","",295.5,290.1,33910,"gp_mid",-54.24,36.33,"128",292.8,"sakmarian",17358,-99.071,-2.9921,57,1
 "67201",100332,"col","Bazardarin",74.58,37.62,"Kastanat-Djilga 1, Bazardarin Fm",NA,"",10,"Sakmarian","",295.5,290.1,46639,"gp_mid",80.77,16.98,"601",292.8,"sakmarian",18057,77.0615,-21.6089,57,1
 "67202",100333,"col","Bazardarin",74.03,37.89,"Kurteke 1, Bazardarin Fm, Limestone",NA,"",27,"Sakmarian","",295.5,290.1,27409,"gp_mid",80.32,17.25,"601",292.8,"sakmarian",18058,77.0615,-21.6089,57,1
 "67203",100334,"col","Bazardarin",74.03,37.89,"Kurteke 1, Bazardarin Fm, Siltstone",NA,"",3,"Sakmarian","",295.5,290.1,27409,"gp_mid",80.32,17.25,"601",292.8,"sakmarian",18058,77.0615,-21.6089,57,1
@@ -395,7 +412,6 @@
 "67556",100810,"col","Chuanshan",120.1,30.83,"Qianzhou, Wuxing County",NA,"",1,"Sakmarian","",295.5,290.1,34487,"gp_mid",132.48,1.12,"611",292.8,"sakmarian",18173,150.5343,10.1004,57,1
 "67559",100813,"col","Chuanshan",119.62,31.3,"Qinglongshan, Upper Chuanshan Fm, Yixing County",NA,"",2,"Sakmarian","",295.5,290.1,34487,"gp_mid",121.73,11.57,"604",292.8,"sakmarian",18175,121.2689,18.7481,57,1
 "67580",100834,"col","Chuanshan",120.57,31.27,"Wenhuashan, Upper Chuanshan Fm, Wuxian County",NA,"",1,"Sakmarian","",295.5,290.1,34487,"gp_mid",132.29,1.69,"611",292.8,"sakmarian",18184,121.2689,18.7481,57,1
-"67871",101284,"col","",80.8,23.55,"Narsarha Railway Cut, Umaria",NA,"",1,"Sakmarian","",295.5,290.1,27339,"gp_mid",50.99,-65.42,"501",292.8,"sakmarian",18296,69.7715,-52.1482,57,1
 "67872",101285,"col","Callytharra",114.3,-26,"GSWA 44594, Yaringa Run",NA,"",1,"Sakmarian","",295.5,290.1,27339,"gp_mid",96.27,-61.86,"801",292.8,"sakmarian",18297,101.5573,-44.9904,57,1
 "68192",101747,"col","Pelskaya",49,67.6,"Belaya River, near mouth, northern Timan",NA,"",1,"Sakmarian","",295.5,290.1,31711,"gp_mid",30.29,30.74,"302",292.8,"sakmarian",18476,15.3525,40.4436,57,1
 "68193",101748,"col","Pelskaya",47.95,67.1,"Bolshaya Pokayama creek, Pelskaya Fm, Volonga River",NA,"",1,"Sakmarian","",295.5,290.1,31711,"gp_mid",30.38,30.1,"302",292.8,"sakmarian",18477,15.3525,40.4436,57,1
@@ -429,12 +445,33 @@
 "70325",105234,"col","Treskelodden",16.1,77.04,"Kruseryggen, coral horizon III, Hornsund, Spitsbergen",NA,"",3,"Sakmarian","",295.5,290.1,33455,"gp_mid",14.67,32.52,"309",292.8,"sakmarian",19440,-1.7052,36.5837,57,1
 "70326",105235,"col","Treskelodden",16.1,77.04,"Kruseryggen, coral horizon IV, Hornsund, Spitsbergen",NA,"",2,"Sakmarian","",295.5,290.1,33455,"gp_mid",14.67,32.52,"309",292.8,"sakmarian",19440,-1.7052,36.5837,57,1
 "70327",105236,"col","Treskelodden",16.1,77.04,"Kruseryggen, coral horizon V, Hornsund, Spitsbergen",NA,"",6,"Sakmarian","",295.5,290.1,33455,"gp_mid",14.67,32.52,"309",292.8,"sakmarian",19440,-1.7052,36.5837,57,1
+"70553",105475,"col","Darlington",148.08,-42.57,"Fossil Cliffs, ""Spirifer"" zone, Maria Island",NA,"",6,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"70554",105476,"col","Darlington",148.08,-42.57,"Fossil Cliffs, Darlington Limestone, Maria Island",NA,"",3,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"70556",105478,"col","Spreyton",146.43,-41.28,"Great Bend of the Mersey River, Spreyton Fm, Latrobe",NA,"",14,"Sakmarian","",295.5,290.1,32513,"gp_mid",178.34,-72.68,"801",292.8,"sakmarian",19567,150.1301,-63.7188,57,1
+"70557",105479,"col","Bundella",147.1,-43.19,"Green Point, Cygnet",NA,"",2,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.77,-73.66,"801",292.8,"sakmarian",19568,150.1301,-63.7188,57,1
+"70558",105480,"col","Kansas Creek",146.24,-41.58,"Kansas Creek, Western Bluff",NA,"",2,"Sakmarian","",295.5,290.1,32513,"gp_mid",178.68,-73,"801",292.8,"sakmarian",19569,150.1301,-63.7188,57,1
+"70559",105481,"col","Billop",147,-42,"Lake River, Great Western Tiers (EP 168585)",NA,"",5,"Sakmarian","",295.5,290.1,32513,"gp_mid",-178.95,-72.9,"801",292.8,"sakmarian",19570,150.1301,-63.7188,57,1
+"70560",105482,"col","Bundella",147.08,-43.19,"Langdons Hill, Cygnet",NA,"",2,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.78,-73.67,"801",292.8,"sakmarian",19571,150.1301,-63.7188,57,1
+"70561",105483,"col","Bundella",146.6,-42.8,"Maydena",NA,"",2,"Sakmarian","",295.5,290.1,32513,"gp_mid",-177.66,-73.67,"801",292.8,"sakmarian",19572,150.1301,-63.7188,57,1
 "70562",105484,"col","Swifts Jetty Sandstone",146.84,-41.19,"Middle Arm, Beaconsfield",NA,"",14,"Sakmarian","",295.5,290.1,32513,"gp_mid",178.84,-72.4,"801",292.8,"sakmarian",19573,149.2224,-61.2542,57,1
+"70563",105485,"col","Bundella",146.38,-42.94,"Mount Anne",NA,"",1,"Sakmarian","",295.5,290.1,28778,"gp_mid",-177.69,-73.88,"801",292.8,"sakmarian",19574,150.1301,-63.7188,57,1
+"70564",105486,"col","Bundella",146.47,-42.75,"Mount Mueller",NA,"",1,"Sakmarian","",295.5,290.1,28778,"gp_mid",-178.02,-73.7,"801",292.8,"sakmarian",19575,150.1301,-63.7188,57,1
+"70565",105487,"col","Bundella",146.37,-42.83,"Mount Wedge",NA,"",1,"Sakmarian","",295.5,290.1,28778,"gp_mid",-178,-73.81,"801",292.8,"sakmarian",19576,150.1301,-63.7188,57,1
+"70566",105488,"col","Bundella",145.27,-42.62,"Point Hibbs",NA,"",3,"Sakmarian","",295.5,290.1,32513,"gp_mid",179.39,-74.24,"801",292.8,"sakmarian",19577,150.1301,-63.7188,57,1
+"70567",105489,"col","Glencoe",146.73,-42.63,"Quamby Brook, Golden Valley",NA,"",8,"Sakmarian","",295.5,290.1,35248,"gp_mid",-177.87,-73.48,"801",292.8,"sakmarian",19578,150.1301,-63.7188,57,1
+"70568",105490,"col","Inglis",145.7,-41.35,"Scolyers Hill, Hellyer Gorge",NA,"",6,"Sakmarian","",295.5,290.1,32513,"gp_mid",177.11,-73.1,"801",292.8,"sakmarian",19579,150.1301,-63.7188,57,1
+"70569",105491,"col","Bundella",147.25,-43.06,"Snug River, Channel Highway roadcut",NA,"",2,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.83,-73.49,"801",292.8,"sakmarian",19580,150.1301,-63.7188,57,1
+"70570",105492,"col","Bundella",147.25,-43.05,"Snug-Margate area",NA,"",3,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.87,-73.49,"801",292.8,"sakmarian",19581,150.1301,-63.7188,57,1
+"70571",105493,"col","Bundella",147.12,-43.14,"Tobys Hill, Cygnet",NA,"",7,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.84,-73.62,"801",292.8,"sakmarian",19582,150.1301,-63.7188,57,1
+"70572",105494,"col","Bundella",147.03,-43.2,"Wheatleys Bay, Cygnet",NA,"",7,"Sakmarian","",295.5,290.1,32513,"gp_mid",-175.86,-73.71,"801",292.8,"sakmarian",14851,150.1301,-63.7188,57,1
+"70573",105495,"col","Spreyton",146.43,-41.28,"Great Bend of the Mersey River, lower Spreyton Fm, Latrobe",NA,"",2,"Sakmarian","",295.5,290.1,28778,"gp_mid",178.34,-72.68,"801",292.8,"sakmarian",19567,150.1301,-63.7188,57,1
+"70576",105498,"col","Bundella",147.16,-43.17,"Nicholls Rivulet, Cygnet",NA,"",2,"Sakmarian","",295.5,290.1,28778,"gp_mid",-175.71,-73.61,"801",292.8,"sakmarian",19585,150.1301,-63.7188,57,1
 "70577",105499,"col","",146.55,-41.17,"Port Sorell",NA,"",5,"Sakmarian","",295.5,290.1,28778,"gp_mid",178.28,-72.54,"801",292.8,"sakmarian",19586,149.2224,-61.2542,57,1
 "70637",105583,"col","Lenox Hills",-103.35,30.25,"USNM707p, Lenox Hills, Glass Mountains",NA,"",5,"Sakmarian","",295.5,290.1,11454,"gp_mid",-35.44,-2.21,"101",292.8,"sakmarian",5835,-45.2278,-2.5438,57,1
 "70763",105756,"col","Hueco",-104.86,31.06,"USNM719, Threemile Peak, Van Horn",NA,"",4,"Sakmarian","",295.5,290.1,11481,"gp_mid",-36.04,-0.8,"101",292.8,"sakmarian",19648,-45.2278,-2.5438,57,1
 "71128",106156,"col","Lenox Hills",-103.35,30.25,"USNM737u, Lenox Hills, Glass Mountains",NA,"",11,"Sakmarian","",295.5,290.1,11454,"gp_mid",-35.45,-2.21,"101",292.8,"sakmarian",5835,-45.2278,-2.5438,57,1
 "71440",106669,"col","",-120.07,50.67,"GSC C-87090f (MO80/2f), Canada Lafarge Cement Quarry, Kamloops",NA,"",21,"Sakmarian","",295.5,290.1,13585,"gp_mid",-40.09,22.35,"127",292.8,"sakmarian",19879,-56.588,19.8166,57,1
+"71499",106887,"col","Bundella",147.36,-42.92,"Porter's Hill, Sandy Bay",NA,"",1,"Sakmarian","",295.5,290.1,32369,"gp_mid",-176,-73.34,"801",292.8,"sakmarian",19903,150.1301,-63.7188,57,1
 "71501",106890,"col","Wreford",-96.41,38.23,"CH19UUH, Chase County",NA,"",3,"Sakmarian","",295.5,290.1,32471,"gp_mid",-26.31,1.4,"101",292.8,"sakmarian",19904,-36.6877,1.5129,57,1
 "71502",106891,"col","Wreford",-96.45,38.19,"CH29Sc, Chase County",NA,"",1,"Sakmarian","",295.5,290.1,32471,"gp_mid",-26.36,1.38,"101",292.8,"sakmarian",19905,-36.6877,1.5129,57,1
 "71503",106892,"col","Wreford",-96.47,38.18,"CH32Sp (brach-moll ls), Chase County",NA,"",1,"Sakmarian","",295.5,290.1,32471,"gp_mid",-26.38,1.37,"101",292.8,"sakmarian",7819,-36.6877,1.5129,57,1
@@ -494,6 +531,8 @@
 "72386",107901,"col","Asitka",-129.55,56.68,"GSC C-177015, Mount Skowill",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-45.18,29.16,"127",292.8,"sakmarian",20224,-60.652,36.9521,57,1
 "72390",107905,"col","Belcher Channel",-95.03,76.95,"GSC C-1948, West Mount Russell, Devon Island",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-1.02,31.81,"106",292.8,"sakmarian",20220,-15.7892,34.5626,57,1
 "72391",107906,"col","Belcher Channel",-95.04,76.96,"GSC C-1950, South of Whitmore Point, Devon Island",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-1.01,31.82,"106",292.8,"sakmarian",20229,-15.7892,34.5626,57,1
+"72412",107928,"col","",-118.72,53.44,"GSC C-229944, Vega Basin",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-29.18,22.79,"101",292.8,"sakmarian",20241,-41.7421,22.6453,57,1
+"72413",107929,"col","Belcourt",-118.68,53.42,"GSC C-229982, Head of Mowitch Creek",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-29.19,22.76,"101",292.8,"sakmarian",20242,-41.7421,22.6453,57,1
 "72414",107930,"col","Raanes",-100.71,76.75,"GSC C-246003, Helena Island",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-2.12,32.73,"106",292.8,"sakmarian",20204,-17.2909,35.6218,57,1
 "72415",107931,"col","Raanes",-85.97,81.28,"GSC C-31579, Otto Fiord, Ellesmere Island",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",4.14,33.47,"106",292.8,"sakmarian",20243,-10.8998,37.8861,57,1
 "72416",107932,"col","Raanes",-95.37,76.96,"GSC C-32858, Lyall River, Grinnell Peninsula, Devon Island",NA,"",1,"Sakmarian","",295.5,290.1,29891,"gp_mid",-1.07,31.88,"106",292.8,"sakmarian",20203,-15.7892,34.5626,57,1
@@ -639,6 +678,7 @@
 "75432",111241,"col","Sterlitamak",57.7,55,"Simskiy Zavod Village, Southern Urals",NA,"",1,"Sakmarian","",295.5,290.1,33580,"gp_mid",43.95,25.24,"302",292.8,"sakmarian",21160,32.2138,39.2107,57,1
 "75561",111398,"col","Khan",56.17,33.26,"Gachal Section KH16, KH18, KH22, Godar-e-Gachal Range, Robat-e Khan",NA,"",10,"Sakmarian","",295.5,290.1,29966,"gp_mid",55.33,-29.23,"505",292.8,"sakmarian",21177,49.3047,-25.0414,57,1
 "75562",111399,"col","Khan",56.17,33.26,"Gachal Section KH2 and KH13, Godar-e-Gachal Range, Robat-e Khan",NA,"",5,"Sakmarian","",295.5,290.1,29966,"gp_mid",55.33,-29.23,"505",292.8,"sakmarian",21177,49.3047,-25.0414,57,1
+"76626",112840,"col","Telford",-115.05,49.8,"Telford Creek, Section 20, Top Telford Formation",NA,"",4,"Sakmarian","",295.5,290.1,29688,"gp_mid",-36.74,21.19,"127",292.8,"sakmarian",21424,-41.537,19.2223,57,1
 "76827",113054,"col","Hueco",-105.95,31.69,"Hueco Mountains, south end, Moyle 202a",NA,"",1,"Sakmarian","",295.5,290.1,27851,"gp_mid",-36.43,0.25,"101",292.8,"sakmarian",21474,-44.4686,0.0501,57,1
 "76892",113120,"col","",-115.32,39.13,"Limestone Peak, Hayden Canyon, Jakes Valley",NA,"",2,"Sakmarian","",295.5,290.1,33178,"gp_mid",-37.75,10.83,"101",292.8,"sakmarian",21516,-47.8769,11.306,57,1
 "76897",113127,"col","Nura Nura",124.52,-18.04,"Nura Nura Outcamp (3 miles E)",NA,"",2,"Sakmarian","",295.5,290.1,28545,"gp_mid",116.84,-55.5,"801",292.8,"sakmarian",14231,116.9857,-39.0494,57,1
@@ -735,6 +775,18 @@
 "79261",116445,"col","Olive Series",73.09,32.8,"Mount Chel, 0.5 miles NNE",NA,"",5,"Sakmarian","",295.5,290.1,29968,"gp_mid",57.97,-54.48,"501",292.8,"sakmarian",22218,74.2697,-32.6941,57,1
 "79263",116447,"col","Olive Series",72.98,32.71,"Ratuchha, 4 furlongs WNW near Choya Saidan Shah",NA,"",5,"Sakmarian","",295.5,290.1,29968,"gp_mid",57.75,-54.46,"501",292.8,"sakmarian",22220,74.2697,-32.6941,57,1
 "79264",116448,"col","Olive Series",72.98,32.71,"Hill slopes opposite Ratuchha",NA,"",6,"Sakmarian","",295.5,290.1,29968,"gp_mid",57.75,-54.46,"501",292.8,"sakmarian",22220,74.2697,-32.6941,57,1
+"79276",116510,"col","Glencoe",146.73,-41.63,"GV7, Bogan Road, Golden Valley",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",179.67,-72.78,"801",292.8,"sakmarian",22225,150.1301,-63.7188,57,1
+"79286",116523,"col","Bundella",147.19,-42.74,"H41, Lyell Highway, Rathbone's Farm, Granton",NA,"",3,"Sakmarian","",295.5,290.1,18569,"gp_mid",-176.77,-73.31,"801",292.8,"sakmarian",22228,150.1301,-63.7188,57,1
+"79287",116524,"col","Bundella",147.36,-42.92,"H43, Porter's Hill, Taroona",NA,"",10,"Sakmarian","",295.5,290.1,18569,"gp_mid",-176,-73.34,"801",292.8,"sakmarian",19903,150.1301,-63.7188,57,1
+"79290",116527,"col","",148.08,-42.56,"M1, Fossil Cliffs, Maria Island",NA,"",2,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79291",116528,"col","",148.08,-42.56,"M2, Fossil Cliffs, Maria Island",NA,"",2,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79292",116529,"col","Darlington",148.08,-42.56,"M4, Fossil Cliffs, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79293",116530,"col","",148.08,-42.56,"M5, Fossil Cliffs, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79294",116531,"col","Darlington",148.08,-42.56,"M8, Fossil Cliffs, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79323",116570,"col","",148.08,-42.56,"M15, Fossil Cliffs, Maria Island",NA,"",2,"Sakmarian","",295.5,290.1,18569,"gp_mid",-175.73,-72.71,"801",292.8,"sakmarian",22230,150.1301,-63.7188,57,1
+"79339",116586,"col","Bundella",147.3,-42.12,"T14, Tunbridge Tier DDH Well, 417 m depth",NA,"",2,"Sakmarian","",295.5,290.1,18569,"gp_mid",-178.13,-72.83,"801",292.8,"sakmarian",22240,150.1301,-63.7188,57,1
+"79340",116587,"col","Bundella",147.3,-42.12,"T15, Tunbridge Tier DDH Well, 439.5 m depth",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-178.13,-72.83,"801",292.8,"sakmarian",22240,150.1301,-63.7188,57,1
+"79341",116588,"col","Bundella",147.3,-42.12,"T17, Tunbridge Tier DDH Well, 449.9 m depth",NA,"",1,"Sakmarian","",295.5,290.1,18569,"gp_mid",-178.13,-72.83,"801",292.8,"sakmarian",22240,150.1301,-63.7188,57,1
 "79346",116594,"col","Wreford",-96.26,39.12,"Homestead Road, 1.7 miles E of Highway K99, Riley County",NA,"",1,"Sakmarian","",295.5,290.1,33648,"gp_mid",-25.76,2.1,"101",292.8,"sakmarian",22242,-35.5757,3.7525,57,1
 "79451",116710,"col","Bonete",-61.72,-38.15,"Upper Arroyo Piedra Azul, Bed BM13, Sierra Pillahuinco",NA,"",1,"Sakmarian","",295.5,290.1,29161,"gp_mid",-54.7,-52.88,"202",292.8,"sakmarian",22268,-50.2669,-61.1978,57,1
 "79452",132803,"col","Bonete",-61.7,-38.17,"Western slope of Cerro Bonete, Bed BM13, Sierra Pillahuinco",NA,"",3,"Sakmarian","",295.5,290.1,29161,"gp_mid",-54.69,-52.89,"202",292.8,"sakmarian",22269,-50.2669,-61.1978,57,1
@@ -850,6 +902,8 @@
 "81523",119036,"col","",57.99,55.37,"Morozov Farm, Yuryuzan' River",NA,"",1,"Sakmarian","",295.5,290.1,33729,"gp_mid",43.77,25.61,"302",292.8,"sakmarian",22765,32.2138,39.2107,57,1
 "81591",119105,"col","Poole",124.52,-18.04,"Nura Nura Ridge",NA,"",2,"Sakmarian","",295.5,290.1,28546,"gp_mid",116.84,-55.5,"801",292.8,"sakmarian",14231,116.9857,-39.0494,57,1
 "81731",119245,"col","Wardak B",68.46,34.05,"Katagay Ghar, Section K, Wardak",NA,"",7,"Sakmarian","",295.5,290.1,27426,"gp_mid",56.02,-50.6,"506",292.8,"sakmarian",22794,72.156,43.5434,57,1
+"81734",119248,"col","Darlington",148.08,-42.57,"Fossil Cliffs, Erratic Zone, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,27727,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"81735",119249,"col","Darlington",148.08,-42.57,"Fossil Cliffs, Quarry, Maria Island",NA,"",1,"Sakmarian","",295.5,290.1,27727,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
 "81786",119302,"col","Turuzov",105.6,74.32,"Khutudu-Tari River, Outcrop 86, Taimyr Peninsula",NA,"",3,"Sakmarian","",295.5,290.1,27355,"gp_mid",40.08,44.24,"401",292.8,"sakmarian",22817,1.3664,67.4491,57,1
 "81790",119306,"col","Turuzov",105.6,74.32,"Labrentiya River, Outcrop 321, Taimyr Peninsula",NA,"",1,"Sakmarian","",295.5,290.1,27355,"gp_mid",40.08,44.24,"401",292.8,"sakmarian",22817,1.3664,67.4491,57,1
 "81794",119310,"col","Turuzov",110.9,75.05,"Osipa River, Outcrop 458, Bed B, Taimyr Peninsula",NA,"",1,"Sakmarian","",295.5,290.1,27355,"gp_mid",38.11,44.97,"401",292.8,"sakmarian",22822,-2.8457,68.58,57,1
@@ -861,9 +915,12 @@
 "82612",120240,"col","Wreford",-96.52,39.65,"MS21UUH, Morris County",NA,"",1,"Sakmarian","",295.5,290.1,32470,"gp_mid",-25.65,2.66,"101",292.8,"sakmarian",19932,-35.5757,3.7525,57,1
 "82613",120241,"col","Wreford",-96.43,39.06,"RY13LSh, Riley County",NA,"",1,"Sakmarian","",295.5,290.1,32470,"gp_mid",-25.89,2.12,"101",292.8,"sakmarian",7783,-35.5757,3.7525,57,1
 "82619",120247,"col","Wreford",-96.15,38.87,"Eskridge, mile marker 292, 4 km NW on Highway 4",NA,"",1,"Sakmarian","",295.5,290.1,33740,"gp_mid",-25.81,1.84,"101",292.8,"sakmarian",23012,-35.5757,3.7525,57,1
+"82797",120459,"col","Bundella",147.36,-42.92,"Southern Van Diemen's Land (Porter Hill shoreline)",NA,"",7,"Sakmarian","",295.5,290.1,38502,"gp_mid",-176.01,-73.34,"801",292.8,"sakmarian",19903,150.1301,-63.7188,57,1
 "82803",120469,"col","Copacabana",-69.2,-16.02,"Island of Titicaca",NA,"",9,"Sakmarian","",295.5,290.1,36160,"gp_mid",-46.33,-30.5,"201",292.8,"sakmarian",23060,-48.4085,-37.1319,57,1
 "82864",120590,"col","",98.77,7.75,"Ko Phi Phi, Phuket Group",NA,"",1,"Sakmarian","",295.5,290.1,23014,"gp_mid",115.27,-38.23,"616",292.8,"sakmarian",23088,117.3049,-32.1235,57,1
 "82876",120602,"col","Kansas Creek",145.61,-41.22,"QML1247, Blackwells Road",NA,"",1,"Sakmarian","",295.5,290.1,23016,"gp_mid",176.63,-73.05,"801",292.8,"sakmarian",23094,149.2224,-61.2542,57,1
+"82944",120676,"col","Darlington",148.08,-42.57,"Maria Island, siltstone member of Darlington Limestone",NA,"",2,"Sakmarian","",295.5,290.1,23109,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"82954",120687,"col","Billop",147.2,-41.94,"Miller's Bluff",NA,"",1,"Sakmarian","",295.5,290.1,23111,"gp_mid",-178.75,-72.75,"801",292.8,"sakmarian",23115,150.1301,-63.7188,57,1
 "82960",120693,"col","Arcturus",-114.92,39.01,"UCMP B-6201, Water Canyon",NA,"",1,"Sakmarian","",295.5,290.1,33747,"gp_mid",-37.6,10.52,"101",292.8,"sakmarian",23118,-47.8769,11.306,57,1
 "82968",120701,"col","Pequop",-114.9,39.03,"UCMP B-6222, Ward Mountain",NA,"",2,"Sakmarian","",295.5,290.1,33747,"gp_mid",-37.57,10.54,"101",292.8,"sakmarian",23120,-47.8769,11.306,57,1
 "82969",120702,"col","Arcturus",-114.9,39.04,"UCMP B-6229, Peak 10,160",NA,"",1,"Sakmarian","",295.5,290.1,33747,"gp_mid",-37.56,10.55,"101",292.8,"sakmarian",23121,-47.8769,11.306,57,1
@@ -892,6 +949,10 @@
 "83538",121350,"col","Hueco Canyon",-105.16,31.14,"USGS 7003a, Eagle Flat, Sierra Diablo",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-36.21,-0.59,"101",292.8,"sakmarian",23304,-45.2278,-2.5438,57,1
 "83609",121439,"col","Hueco Canyon",-105.18,31.15,"USGS 14432, Eagle Flats",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-36.21,-0.57,"101",292.8,"sakmarian",23333,-45.2278,-2.5438,57,1
 "83617",121447,"col","Hueco",-105.94,32.37,"USNM712i, McGregor Ranch, Orogrande",NA,"",3,"Sakmarian","",295.5,290.1,11481,"gp_mid",-36.03,0.8,"101",292.8,"sakmarian",23335,-44.4686,0.0501,57,1
+"83620",121449,"col","Alacran Mountain",-107.58,32.05,"USNM722, Gym Peak, Florida Mountains",NA,"",2,"Sakmarian","",295.5,290.1,11481,"gp_mid",-37.33,1.37,"101",292.8,"sakmarian",23337,-47.0015,1.1139,57,1
+"83621",121450,"col","Alacran Mountain",-107.58,32.05,"USNM723, Gym Peak, Florida Mountains",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-37.33,1.37,"101",292.8,"sakmarian",23337,-47.0015,1.1139,57,1
+"83622",121451,"col","Alacran Mountain",-107.58,32.05,"USNM724, Gym Peak, Florida Mountains",NA,"",4,"Sakmarian","",295.5,290.1,11481,"gp_mid",-37.33,1.37,"101",292.8,"sakmarian",23337,-47.0015,1.1139,57,1
+"83623",121452,"col","Alacran Mountain",-107.58,32.05,"USNM726, Gym Peak, Florida Mountains",NA,"",2,"Sakmarian","",295.5,290.1,11481,"gp_mid",-37.33,1.37,"101",292.8,"sakmarian",23337,-47.0015,1.1139,57,1
 "83633",121464,"col","Coleman Junction",-99.43,31.77,"USNM, Santa Fe railway cut",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-31.8,-2.81,"101",292.8,"sakmarian",23341,-41.7169,-1.5092,57,1
 "83635",121468,"col","Sedwick",-99.6,31.48,"USNM, near Stacy, McCulloch County",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-32.09,-2.98,"101",292.8,"sakmarian",23343,-41.7169,-1.5092,57,1
 "83636",121469,"col","Hueco",-105.97,31.84,"YPM, half a mile north of Hueco Inn",NA,"",1,"Sakmarian","",295.5,290.1,11481,"gp_mid",-36.35,0.39,"101",292.8,"sakmarian",23344,-44.4686,0.0501,57,1
@@ -1032,6 +1093,51 @@
 "89217",129195,"col","Bird Spring",-117.07,35.95,"S-1842, Striped Butte",NA,"",1,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.95,9.37,"101",292.8,"sakmarian",20306,-51.2412,6.3312,57,1
 "89219",129198,"col","Bird Spring",-117.07,35.95,"S-1914, Striped Butte",NA,"",3,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.95,9.37,"101",292.8,"sakmarian",20306,-51.2412,6.3312,57,1
 "89221",129200,"col","Bird Spring",-117.07,35.95,"S-1915, Striped Butte",NA,"",6,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.95,9.37,"101",292.8,"sakmarian",20306,-51.2412,6.3312,57,1
+"89236",129281,"col","Zweikofel",13.22,46.58,"ZK 29A, Zweikofel, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89237",129282,"col","Zweikofel",13.22,46.58,"ZK 56, Zweikofel, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89238",129283,"col","Zweikofel",13.22,46.58,"ZK 57, Zweikofel, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89240",129284,"col","Zweikofel",13.22,46.58,"ZK 58, Zweikofel, Carnic Alps",NA,"",5,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89241",129238,"col","Grenzland",13.23,46.57,"SL 1a, Rudnig Alm, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89242",129239,"col","Grenzland",13.23,46.57,"SL 1b, Rudnig Alm, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89243",129285,"col","Zweikofel",13.22,46.58,"ZK 65, Zweikofel, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89244",129240,"col","Grenzland",13.23,46.57,"SL 1c, Rudnig Alm, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89245",129241,"col","Grenzland",13.23,46.57,"SL 3, Rudnig Alm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89246",129286,"col","Zweikofel",13.22,46.58,"ZK 66A, Zweikofel, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89247",129242,"col","Grenzland",13.23,46.57,"SL 4a, Rudnig Alm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89248",129243,"col","Grenzland",13.23,46.57,"SL 4b, Rudnig Alm, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89249",129287,"col","Zweikofel",13.22,46.58,"ZK 71A, Zweikofel, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89250",129244,"col","Grenzland",13.23,46.57,"SL 5a, Rudnig Alm, Carnic Alps",NA,"",5,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89251",129245,"col","Grenzland",13.23,46.57,"SL 5b, Rudnig Alm, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89253",129246,"col","Grenzland",13.23,46.57,"SL 5c, Rudnig Alm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89254",129247,"col","Grenzland",13.23,46.57,"SL 7b, Rudnig Alm, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89255",129248,"col","Grenzland",13.23,46.57,"SL 7c, Rudnig Alm, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89256",129289,"col","Zweikofel",13.22,46.58,"ZK 206, Zweikofel, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89257",129249,"col","Grenzland",13.23,46.57,"SL 7d, Rudnig Alm, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24918,21.2603,14.7483,57,1
+"89258",129250,"col","Grenzland",13.23,46.58,"GR 3, Trogkar section, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89259",129251,"col","Grenzland",13.23,46.58,"GR 6, Trogkar section, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89260",129255,"col","Grenzland",13.23,46.58,"GR 12, Trogkar section, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89261",129252,"col","Grenzland",13.23,46.58,"GR 7, Trogkar section, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89262",129253,"col","Grenzland",13.23,46.58,"GR 10, Trogkar section, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89263",129254,"col","Grenzland",13.23,46.58,"GR 11, Trogkar section, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89264",129256,"col","Grenzland",13.23,46.58,"GR 13, Trogkar section, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89265",129257,"col","Grenzland",13.23,46.58,"GR 14, Trogkar section, Carnic Alps",NA,"",5,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89266",129258,"col","Grenzland",13.23,46.58,"GR 15, Trogkar section, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89267",129259,"col","Grenzland",13.23,46.58,"GR 16, Trogkar section, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89286",129279,"col","Grenzland",13.22,46.58,"ZK 9, Zweikofel, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89287",129280,"col","Zweikofel",13.22,46.58,"ZK 28A, Zweikofel, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89288",129290,"col","Zweikofel",13.22,46.58,"ZK 225, Zweikofel, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89289",129291,"col","Zweikofel",13.22,46.58,"ZK 223, Zweikofel, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89291",129293,"col","Zweikofel",13.23,46.58,"HZV/RK, Trogkar, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24919,21.2603,14.7483,57,1
+"89299",129301,"col","Zweikofel",13.33,46.58,"GB 46a, Garnitzenklamm, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89300",129302,"col","Zweikofel",13.33,46.58,"GB 47, Garnitzenklamm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89301",129303,"col","Zweikofel",13.33,46.58,"GB 48b, Garnitzenklamm, Carnic Alps",NA,"",3,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89302",129304,"col","Zweikofel",13.33,46.58,"GB 49, Garnitzenklamm, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89303",129305,"col","Zweikofel",13.33,46.58,"GB 53A, Garnitzenklamm, Carnic Alps",NA,"",6,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89304",129306,"col","Zweikofel",13.33,46.58,"GB 75, Garnitzenklamm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89305",129307,"col","Zweikofel",13.33,46.58,"GB 87, Garnitzenklamm, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89306",129308,"col","Zweikofel",13.33,46.58,"GB 88, Garnitzenklamm, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89307",129309,"col","Zweikofel",13.33,46.58,"GB 132, Garnitzenklamm, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
+"89308",129310,"col","Zweikofel",13.33,46.58,"GB 153, Garnitzenklamm, Carnic Alps",NA,"",2,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
 "89345",129360,"col","",56.72,51.54,"SUC 16A, bed 30, Kondurovka, southern Urals",NA,"",6,"Sterlitamakian","",293,290.1,42086,"gp_mid",46.36,22.51,"302",291.55,"sakmarian",22525,35.1267,38.1707,57,1
 "89393",129557,"col","Bird Spring",-117.07,35.95,"S-1923, Striped Butte",NA,"",1,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.95,9.37,"101",292.8,"sakmarian",20306,-51.2412,6.3312,57,1
 "89394",129560,"col","Bird Spring",-117.07,35.95,"S-1928, Striped Butte",NA,"",3,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.95,9.37,"101",292.8,"sakmarian",20306,-51.2412,6.3312,57,1
@@ -1041,7 +1147,29 @@
 "89398",129570,"col","Bird Spring",-117.29,36.45,"S-1232, Panamint Butte",NA,"",4,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.74,9.86,"101",292.8,"sakmarian",24940,-49.3978,9.3032,57,1
 "89399",129571,"col","Bird Spring",-117.34,36.42,"S-1911, Panamint Butte",NA,"",2,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.79,9.87,"101",292.8,"sakmarian",24941,-49.3978,9.3032,57,1
 "89400",129572,"col","Bird Spring",-117.3,36.44,"S-1913, Panamint Butte",NA,"",1,"Sakmarian","",295.5,290.1,42046,"gp_mid",-40.76,9.85,"101",292.8,"sakmarian",24942,-49.3978,9.3032,57,1
+"89486",129690,"col","Zweikofel",13.26,46.61,"Block in Doberbach, Trogkofel area, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.53,-10.09,"307",292.8,"sakmarian",24964,21.2603,14.7483,57,1
+"89487",129691,"col","Zweikofel",13.22,46.58,"Trogkofel area, Carnic Alps",NA,"",4,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.49,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"89488",129692,"col","Zweikofel",13.26,46.61,"Dobergraben, block above bosen Tritt, Trogkofel area, Carnic Alps",NA,"",5,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.53,-10.09,"307",292.8,"sakmarian",24964,21.2603,14.7483,57,1
+"89489",129693,"col","Zweikofel",13.28,46.61,"Scree at Troppelach, Carnic Alps",NA,"Tröpolach, Tröppelach",1,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.54,-10.11,"307",292.8,"sakmarian",24965,21.2603,14.7483,57,1
+"89490",129694,"col","Zweikofel",13.29,46.6,"Rubble in Oselitzenbach, Carnic Alps",NA,"",7,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.54,-10.11,"307",292.8,"sakmarian",24966,21.2603,14.7483,57,1
+"89491",129695,"col","Zweikofel",13.23,46.56,"Troghohe, Carnic Alps",NA,"Troghöhe",10,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.49,-10.1,"307",292.8,"sakmarian",24967,21.2603,14.7483,57,1
+"89492",129696,"col","Zweikofel",13.24,46.61,"Moraine block in Ruhrmilchgraben, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42142,"gp_mid",29.53,-10.08,"307",292.8,"sakmarian",24968,21.2603,14.7483,57,1
 "89571",129806,"col","Bird Spring",-117.3,36.44,"S-1912, Panamint Butte",NA,"",3,"Sakmarian","",295.5,290.1,42150,"gp_mid",-40.76,9.85,"101",292.8,"sakmarian",24942,-49.3978,9.3032,57,1
+"89636",130024,"col","",-108.4,31.64,"Sample 428, Borrego",NA,"",4,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89637",130025,"col","",-108.4,31.64,"Sample 429, Borrego",NA,"",5,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89638",130026,"col","",-108.4,31.64,"Sample 430, Borrego",NA,"",2,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89639",130027,"col","",-108.4,31.64,"Sample 431, Borrego",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89640",130028,"col","",-108.4,31.64,"Sample 432, Borrego",NA,"",2,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89641",130029,"col","",-108.4,31.64,"Sample 433, Borrego",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89642",130030,"col","",-108.4,31.64,"Sample 434, Borrego",NA,"",3,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89643",130031,"col","",-108.4,31.64,"Sample 435, Borrego",NA,"",2,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.13,1.46,"101",292.8,"sakmarian",25003,-47.0015,1.1139,57,1
+"89654",130054,"col","",-108.34,31.64,"Sample 150, New Well Peak",NA,"",3,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89655",130055,"col","",-108.34,31.64,"Sample 151, New Well Peak",NA,"",5,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89656",130056,"col","",-108.34,31.64,"Sample 152, New Well Peak",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89657",130057,"col","",-108.34,31.64,"Sample 153, New Well Peak",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89658",130058,"col","",-108.34,31.64,"Sample 155, New Well Peak",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89659",130059,"col","",-108.34,31.64,"Sample 156, New Well Peak",NA,"",1,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
+"89660",130060,"col","",-108.34,31.64,"Sample 158, New Well Peak",NA,"",4,"Sakmarian","",295.5,290.1,42149,"gp_mid",-38.09,1.43,"101",292.8,"sakmarian",25007,-47.0015,1.1139,57,1
 "89679",130081,"col","Khoridzhskaya",70.22,37.94,"Shagon Village, sample D7-2",NA,"",1,"Sakmarian","",295.5,290.1,42203,"gp_mid",77.4,15.06,"402",292.8,"sakmarian",25015,73.9059,-21.1453,57,1
 "89680",130082,"col","Khoridzhskaya",70.89,38.69,"Charymdara River, sample D5",NA,"",10,"Sakmarian","",295.5,290.1,42203,"gp_mid",77.37,15.97,"402",292.8,"sakmarian",25016,73.9059,-21.1453,57,1
 "89682",130085,"col","Khoridzhskaya",70.89,38.69,"Charymdara River, sample D6",NA,"",2,"Sakmarian","",295.5,290.1,42203,"gp_mid",77.37,15.97,"402",292.8,"sakmarian",25016,73.9059,-21.1453,57,1
@@ -1128,6 +1256,8 @@
 "90365",130828,"col","Speiser Shale",-96.49,38.69,"Road cut, Butler Co. up. up. Speiser Sh.",NA,"",1,"Sakmarian","",295.5,290.1,42284,"gp_mid",-26.13,1.82,"101",292.8,"sakmarian",7782,-36.6877,1.5129,57,1
 "90366",130829,"col","Speiser Shale",-96.7,37.25,"Road cut on Hwy 38, Cowley Co., low. low. up. Speiser Sh.",NA,"",3,"Sakmarian","",295.5,290.1,42284,"gp_mid",-27.01,0.67,"101",292.8,"sakmarian",25130,-36.6877,1.5129,57,1
 "90607",131120,"col","Lenox Hills",-103.33,30.26,"About 2.5 miles NNE of oil derrick, Wedin's ranch, Glass Mountains",NA,"",1,"Sakmarian","",295.5,290.1,42377,"gp_mid",-35.43,-2.21,"101",292.8,"sakmarian",24835,-45.2278,-2.5438,57,1
+"90651",131169,"col","Grenzland",13.22,46.58,"ZK/O 11, Zweikofel, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.5,-10.09,"307",292.8,"sakmarian",24916,21.2603,14.7483,57,1
+"90652",131170,"col","Zweikofel",13.33,46.58,"GB 64a, Garnitzenklamm, Carnic Alps",NA,"",1,"Sakmarian","",295.5,290.1,42086,"gp_mid",29.53,-10.15,"307",292.8,"sakmarian",24929,21.2603,14.7483,57,1
 "90657",131176,"col","Hueco Canyon",-105.83,31.67,"Hueco Canyon formation, HM-15-W-18",NA,"",3,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.36,0.18,"101",292.8,"sakmarian",25187,-44.4686,0.0501,57,1
 "90658",131177,"col","Hueco Canyon",-105.83,31.67,"HWW-7.5-NE-1, Powwow Canyon, Hueco Mountains",NA,"",4,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.36,0.18,"101",292.8,"sakmarian",25187,-44.4686,0.0501,57,1
 "90659",131178,"col","Hueco Canyon",-105.83,31.67,"HWW-7.5-SE-2, Hueco Tanks, Hueco Mountains",NA,"",3,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.36,0.18,"101",292.8,"sakmarian",25187,-44.4686,0.0501,57,1
@@ -1199,8 +1329,10 @@
 "91116",131762,"col","Hueco Canyon",-106.05,32,"Section 9, bed 9, New Mexico-Texas state line, Hueco Mountains",NA,"",6,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.31,0.56,"101",292.8,"sakmarian",25277,-44.4686,0.0501,57,1
 "91117",131763,"col","Hueco Canyon",-106.05,32,"Section 9, bed 10, New Mexico-Texas state line, Hueco Mountains",NA,"",6,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.31,0.56,"101",292.8,"sakmarian",25277,-44.4686,0.0501,57,1
 "91118",131764,"col","Hueco Canyon",-106.05,32,"Section 9, bed 11, New Mexico-Texas state line, Hueco Mountains",NA,"",6,"Sakmarian","",295.5,290.1,42387,"gp_mid",-36.31,0.56,"101",292.8,"sakmarian",25277,-44.4686,0.0501,57,1
+"91124",131773,"col","",146.49,-41.6,"UQ L3047, Western Creek",NA,"",2,"Sakmarian","",295.5,290.1,42917,"gp_mid",179.18,-72.88,"801",292.8,"sakmarian",25280,150.1301,-63.7188,57,1
 "91655",132452,"col","Schwagerina Limestone",56.2,56.33,"Tra-Tau near Sterlitamak, Schwagerina Limestone",NA,"",2,"Sakmarian","",295.5,290.1,37596,"gp_mid",42.23,25.51,"302",292.8,"sakmarian",15528,29.2165,40.176,57,1
 "91656",132453,"col","Schwagerina Limestone",56.7,54.6,"Kazarmenyy Kamen, Sim River, Schwagerina Limestone",NA,"",1,"Sakmarian","",295.5,290.1,37596,"gp_mid",43.85,24.55,"302",292.8,"sakmarian",22383,32.2138,39.2107,57,1
+"91679",132482,"col","Billop",147.09,-41.92,"Creek west of Miller's Bluff",NA,"",1,"Sakmarian","",295.5,290.1,35248,"gp_mid",-178.98,-72.79,"801",292.8,"sakmarian",25426,150.1301,-63.7188,57,1
 "91914",132805,"col","Bonete",-61.7,-38.17,"Western slope of Cerro Bonete, Bed BM12, Sierra Pillahuinco",NA,"",2,"Sakmarian","",295.5,290.1,29161,"gp_mid",-54.69,-52.89,"202",292.8,"sakmarian",22269,-50.2669,-61.1978,57,1
 "91915",132806,"col","Bonete",-61.7,-38.15,"Northwestern flank of Cerro Bonete, Bed BM12, Sierra Pillahuinco",NA,"",1,"Sakmarian","",295.5,290.1,29161,"gp_mid",-54.68,-52.88,"202",292.8,"sakmarian",25499,-50.2669,-61.1978,57,1
 "91916",132807,"col","Bonete",-61.78,-37.99,"Southeastern flank of Cerro Nortero, middle Bonete Fm, Sierra de las Tunas",NA,"",2,"Sakmarian","",295.5,290.1,29161,"gp_mid",-54.6,-52.72,"202",292.8,"sakmarian",15859,-50.2669,-61.1978,57,1
@@ -1231,6 +1363,7 @@
 "92227",133277,"col","",57.67,55.06,"road cut of Ufa-Chelyabinsk, Sim",NA,"",1,"Sakmarian","",295.5,290.1,42920,"gp_mid",43.89,25.27,"302",292.8,"sakmarian",25579,32.2138,39.2107,57,1
 "92284",133339,"col","Nura Nura",124.46,-18.1,"Near Mount Wynne, Fitzroy Basin",NA,"",1,"Sakmarian","",295.5,290.1,15626,"gp_mid",116.75,-55.55,"801",292.8,"sakmarian",13772,116.9857,-39.0494,57,1
 "92341",133439,"col","Ryozensan limestone",136.38,35.27,"Ryozensan, Inukami-gun, Ryozensan limestone",NA,"",1,"Sakmarian","",295.5,290.1,42990,"gp_mid",138.64,13.05,"610",292.8,"sakmarian",25609,168.4266,12.7223,57,1
+"92481",133745,"col","Brumby",147,-41.75,"Road cutting below Poatina township",NA,"",2,"Sakmarian","",295.5,290.1,42917,"gp_mid",-179.55,-72.72,"801",292.8,"sakmarian",25637,150.1301,-63.7188,57,1
 "93006",134319,"col","Longyin",105.22,24.7,"GP17, Bunuo section, Changme district, Longlin county",NA,"",7,"Sakmarian","",295.5,290.1,43207,"gp_mid",130.37,-13.23,"611",292.8,"sakmarian",25794,139.9111,0.6134,57,1
 "93007",134320,"col","Longyin",105.22,24.7,"GP19, Bunuo section, Changme district, Longlin county",NA,"",6,"Sakmarian","",295.5,290.1,43207,"gp_mid",130.37,-13.23,"611",292.8,"sakmarian",25794,139.9111,0.6134,57,1
 "93008",134321,"col","Longyin",105.22,24.7,"GP20, Bunuo section, Changme district, Longlin county",NA,"",74,"Sakmarian","",295.5,290.1,43207,"gp_mid",130.37,-13.23,"611",292.8,"sakmarian",25794,139.9111,0.6134,57,1
@@ -1242,6 +1375,9 @@
 "95891",137893,"col","Pha Nok Khao",101.88,17.11,"08LO07-1, Sak Chai quarry, Loei",NA,"",4,"Sakmarian","",295.5,290.1,44109,"gp_mid",133.8,-21.91,"615",292.8,"sakmarian",26793,133.1032,-13.7847,57,1
 "95892",137894,"col","Pha Nok Khao",101.88,17.11,"08LO07-8, Sak Chai quarry, Loei",NA,"",1,"Sakmarian","",295.5,290.1,44109,"gp_mid",133.8,-21.91,"615",292.8,"sakmarian",26793,133.1032,-13.7847,57,1
 "96886",138947,"col","Munugudzhak",159.9,63.9,"Munugudzhak River 11-3/VG-77",NA,"",5,"Sakmarian","",295.5,290.1,44642,"gp_mid",6.15,65.84,"405",292.8,"sakmarian",20967,-95.0713,70.3216,57,1
+"97438",139502,"col","Taciba",-49.97,-26.17,"Butiá quarry, Mafra Municipality",NA,"",3,"Sakmarian","",295.5,290.1,44851,"gp_mid",-32.11,-47.96,"201",292.8,"sakmarian",27159,-29.7034,-52.5641,57,1
+"98275",140455,"col","Shanxi",110.99,35.99,"Gancaoshan, Xiangning County",NA,"",14,"Sakmarian","",295.5,290.1,45465,"gp_mid",118.62,19.61,"604",292.8,"sakmarian",27318,116.8436,23.8548,57,1
+"98644",140933,"col","Shanxi",110.99,35.99,"Renmazhuang, Xiangning County",NA,"",9,"Sakmarian","",295.5,290.1,51133,"gp_mid",118.61,19.61,"604",292.8,"sakmarian",27318,116.8436,23.8548,57,1
 "101357",144251,"col","Garrison",-96.51,38.35,"Two miles southeast of Cottonwood Falls",NA,"",1,"Sakmarian","",295.5,290.1,46638,"gp_mid",-26.32,1.54,"101",292.8,"sakmarian",27708,-36.6877,1.5129,57,1
 "101358",144252,"col","Eiss",-96.4,39.47,"Pottawatomie County",NA,"",1,"Sakmarian","",295.5,290.1,46638,"gp_mid",-25.68,2.46,"101",292.8,"sakmarian",27709,-35.5757,3.7525,57,1
 "101412",144311,"col","",56.05,53.38,"Termen-Elga, well 17, 1182-1192 m",NA,"",1,"Sakmarian","",295.5,290.1,46656,"gp_mid",44.53,23.43,"302",292.8,"sakmarian",27717,35.1267,38.1707,57,1
@@ -1286,12 +1422,23 @@
 "101783",144831,"col","Chili",56.16,33.27,"USB2218-42, Godar-e-Gachal section",NA,"",6,"Sakmarian","",295.5,290.1,46860,"gp_mid",55.32,-29.22,"505",292.8,"sakmarian",27814,49.3047,-25.0414,57,1
 "101784",144832,"col","Chili",56.16,33.27,"USB2218-44, Godar-e-Gachal section",NA,"",1,"Sakmarian","",295.5,290.1,46860,"gp_mid",55.32,-29.22,"505",292.8,"sakmarian",27814,49.3047,-25.0414,57,1
 "101785",144833,"col","Chili",56.16,33.27,"USB2218-45, Godar-e-Gachal section",NA,"",3,"Sakmarian","",295.5,290.1,46860,"gp_mid",55.32,-29.22,"505",292.8,"sakmarian",27814,49.3047,-25.0414,57,1
+"101786",144834,"col","Darlington",148.08,-42.57,"Fossil Cliffs, Maria Island (UQ coll)",NA,"",2,"Sakmarian","",295.5,290.1,46867,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
 "101791",144839,"col","Burnett",151.34,-25.01,"UQ L1932, Yarrol",NA,"",5,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.2,-56.91,"801",292.8,"sakmarian",27815,150.6306,-45.9505,57,1
 "101792",144840,"col","Burnett",151.34,-24.99,"UQ L1937, Yarrol",NA,"",4,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.19,-56.89,"801",292.8,"sakmarian",27816,150.6306,-45.9505,57,1
 "101793",144841,"col","Burnett",151.34,-24.99,"UQ L1936, Yarrol",NA,"",3,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.19,-56.89,"801",292.8,"sakmarian",27816,150.6306,-45.9505,57,1
 "101794",144842,"col","Burnett",151.35,-25.02,"UQ L2067, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.23,-56.92,"801",292.8,"sakmarian",27817,150.6306,-45.9505,57,1
 "101795",144843,"col","Burnett",151.35,-25.02,"UQ L2068, Yarrol",NA,"",4,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.24,-56.92,"801",292.8,"sakmarian",27817,150.6306,-45.9505,57,1
 "101796",144844,"col","Burnett",151.34,-25,"Northwest of Lorray homestead, Monto District",NA,"",1,"Sakmarian","",295.5,290.1,46867,"gp_mid",164.19,-56.91,"801",292.8,"sakmarian",27818,150.6306,-45.9505,57,1
+"101799",144847,"col","Bundella",147.36,-42.92,"Shoreline opposite Riverview Hotel, Channel Highway",NA,"",1,"Sakmarian","",295.5,290.1,46867,"gp_mid",-176.01,-73.34,"801",292.8,"sakmarian",19903,150.1301,-63.7188,57,1
+"101815",144863,"col","Bundella",147.36,-42.92,"Porter's Hill (Johnston coll)",NA,"",8,"Sakmarian","",295.5,290.1,46870,"gp_mid",-176,-73.34,"801",292.8,"sakmarian",19903,150.1301,-63.7188,57,1
+"101817",144865,"col","",146.43,-41.28,"Mersey, upper marine beds",NA,"",2,"Sakmarian","",295.5,290.1,46870,"gp_mid",178.34,-72.68,"801",292.8,"sakmarian",19567,150.1301,-63.7188,57,1
+"101818",144866,"col","Darlington",148.08,-42.57,"Maria Island (Johnston coll)",NA,"",4,"Sakmarian","",295.5,290.1,46870,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"101820",144868,"col","Bundella",147.36,-42.91,"One Tree Point (Johnston coll)",NA,"",2,"Sakmarian","",295.5,290.1,46870,"gp_mid",-176.04,-73.34,"801",292.8,"sakmarian",27828,150.1301,-63.7188,57,1
+"101821",144869,"col","",146.67,-42.81,"River Styx",NA,"",3,"Sakmarian","",295.5,290.1,46870,"gp_mid",-177.51,-73.64,"801",292.8,"sakmarian",27829,150.1301,-63.7188,57,1
+"101823",144871,"col","",146.52,-41.62,"Cheshunt",NA,"",1,"Sakmarian","",295.5,290.1,46870,"gp_mid",179.29,-72.89,"801",292.8,"sakmarian",27831,150.1301,-63.7188,57,1
+"101828",144876,"col","Darlington",148.08,-42.57,"Kilama, Neu-Sud-Wales",NA,"Fossil Cliff, Maria Island",1,"Sakmarian","",295.5,290.1,46874,"gp_mid",-175.69,-72.72,"801",292.8,"sakmarian",16888,150.1301,-63.7188,57,1
+"101850",144898,"col","Woody Island",147.23,-42.82,"Collinsvale Road, just west of junction with Glen Lusk Road",NA,"",1,"Sakmarian","",295.5,290.1,46867,"gp_mid",-176.52,-73.34,"801",292.8,"sakmarian",27843,150.1301,-63.7188,57,1
+"101851",144899,"col","Bundella",147.17,-42.75,"Between Parramore and Geiss Creeks, Lyell Highway, Bridgewater",NA,"",1,"Sakmarian","",295.5,290.1,46867,"gp_mid",-176.78,-73.33,"801",292.8,"sakmarian",27844,150.1301,-63.7188,57,1
 "101857",144905,"col","",150.95,-24.65,"One mile west of Cania",NA,"",1,"Sakmarian","",295.5,290.1,46867,"gp_mid",163.33,-56.75,"801",292.8,"sakmarian",27849,150.6306,-45.9505,57,1
 "101906",144983,"col","Burnett",151.36,-24.97,"UQ L2081, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.21,-56.87,"801",292.8,"sakmarian",27867,150.6306,-45.9505,57,1
 "101907",144987,"col","Burnett",151.33,-25,"UQ L1935, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.19,-56.91,"801",292.8,"sakmarian",27868,150.6306,-45.9505,57,1
@@ -1300,6 +1447,7 @@
 "101910",145011,"col","Burnett",151.34,-25,"UQ L1934, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.2,-56.91,"801",292.8,"sakmarian",27818,150.6306,-45.9505,57,1
 "101912",145048,"col","Burnett",151.36,-24.98,"UQ L2133, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.21,-56.87,"801",292.8,"sakmarian",19221,150.6306,-45.9505,57,1
 "101915",145060,"col","Burnett",151.37,-24.97,"UQ L2080, Yarrol",NA,"",1,"Sakmarian","",295.5,290.1,26800,"gp_mid",164.21,-56.87,"801",292.8,"sakmarian",19233,150.6306,-45.9505,57,1
+"105236",149384,"col","",-108.38,31.64,"Locality 6938, New Well Peak",NA,"",1,"Sakmarian","",295.5,290.1,47815,"gp_mid",-38.12,1.45,"101",292.8,"sakmarian",28296,-47.0015,1.1139,57,1
 "105318",149553,"col","",59.69,27.7,"Sarab section PSH22, Dalgan area",NA,"",1,"Sakmarian","",295.5,290.1,47913,"gp_mid",58.89,-34.79,"505",292.8,"sakmarian",25238,52.7503,-30.1619,57,1
 "105319",149554,"col","",59.69,27.7,"Sarab section PSH23, Dalgan area",NA,"",1,"Sakmarian","",295.5,290.1,47913,"gp_mid",58.89,-34.79,"505",292.8,"sakmarian",25238,52.7503,-30.1619,57,1
 "105514",149859,"col","Hueco Canyon",-106.05,31.83,"R.E. King 395, Hueco Mountains",NA,"",4,"Sakmarian","",295.5,290.1,18203,"gp_mid",-36.42,0.41,"101",292.8,"sakmarian",28378,-44.4686,0.0501,57,1
@@ -1336,6 +1484,7 @@
 "106917",151480,"col","Hueco Canyon",-105.99,31.86,"R.E. King 404, Powwow Canyon, Hueco Mountains",NA,"",1,"Sakmarian","",295.5,290.1,18203,"gp_mid",-36.36,0.41,"101",292.8,"sakmarian",28692,-44.4686,0.0501,57,1
 "106918",151481,"col","Hueco Canyon",-105.98,31.84,"R.E. King 407, Powwow Canyon, Hueco Mountains",NA,"",1,"Sakmarian","",295.5,290.1,18203,"gp_mid",-36.36,0.39,"101",292.8,"sakmarian",28693,-44.4686,0.0501,57,1
 "106919",151482,"col","Hueco Canyon",-105.97,31.9,"R.E. King 409, Powwow Canyon, Hueco Mountains",NA,"",1,"Sakmarian","",295.5,290.1,18203,"gp_mid",-36.32,0.43,"101",292.8,"sakmarian",28542,-44.4686,0.0501,57,1
+"109583",155153,"col","Taciba",-50.45,-25.39,"Baitaca, Teixeira Soares region (Baitaca siltstone)",NA,"",14,"Sakmarian","",295.5,290.1,50570,"gp_mid",-32.15,-47.07,"201",292.8,"sakmarian",29333,-29.7034,-52.5641,57,1
 "110600",156978,"col","Poole",122.26,-16.83,"Perindi 1, Core 1, 875.86 m depth",NA,"",1,"Sakmarian","",295.5,290.1,51414,"gp_mid",113.25,-54.15,"801",292.8,"sakmarian",29574,116.9857,-39.0494,57,1
 "110601",156979,"col","Poole",122.26,-16.83,"Perindi 1, Core 1, 875.69 m depth",NA,"",1,"Sakmarian","",295.5,290.1,51414,"gp_mid",113.25,-54.15,"801",292.8,"sakmarian",29574,116.9857,-39.0494,57,1
 "117597",167925,"col","Calytrix",125.12,-19.46,"Pasminco BW 9 well, 178.8-180.3 m depth",NA,"",7,"Sakmarian","",295.5,290.1,54907,"gp_mid",117.77,-56.94,"801",292.8,"sakmarian",31551,116.6899,-41.5392,57,1
@@ -1344,6 +1493,8 @@
 "120481",172396,"col","Echiiskaya",130.71,64.62,"Delendzha River, outcrop 2c/09, bed 14",NA,"",1,"Sakmarian","",295.5,290.1,56033,"gp_mid",41.6,57.1,"401",292.8,"sakmarian",32034,-16.4148,79.8246,57,1
 "120482",172397,"col","Echiiskaya",130.71,64.62,"Delendzha River, outcrop 2c/09, bed 13",NA,"",1,"Sakmarian","",295.5,290.1,56033,"gp_mid",41.6,57.1,"401",292.8,"sakmarian",32034,-16.4148,79.8246,57,1
 "123109",177144,"col","Speiser Shale",-96.15,38.87,"1.5 miles NW of Eskridge",NA,"Roadcut on Kansas State Highway 99",1,"Sakmarian","",295.5,290.1,58524,"gp_mid",-25.81,1.84,"101",292.8,"sakmarian",23012,-35.5757,3.7525,57,1
+"123252",177461,"col","Taciba",-50.51,-25.15,"Restinga, Imbituva",NA,"",1,"Sakmarian","",295.5,290.1,58637,"gp_mid",-32.08,-46.83,"201",292.8,"sakmarian",32611,-29.7034,-52.5641,57,1
+"123253",177462,"col","Taciba",-50.45,-25.39,"Baitaca, Teixeira Soares region (Passinho shale)",NA,"",3,"Sakmarian","",295.5,290.1,58637,"gp_mid",-32.15,-47.07,"201",292.8,"sakmarian",29333,-29.7034,-52.5641,57,1
 "124649",179595,"col","Speiser Shale",-96.71,39.23,"Keats, Riley County",NA,"",1,"Sakmarian","",295.5,290.1,59481,"gp_mid",-26,2.37,"101",292.8,"sakmarian",33022,-35.5757,3.7525,57,1
 "125597",180979,"col","Wreford",-96.11,38.86,"Eskridge locality",NA,"",4,"Sakmarian","",295.5,290.1,60089,"gp_mid",-25.79,1.82,"101",292.8,"sakmarian",33286,-35.5757,3.7525,57,1
 "127865",184687,"col","Orn",28.38,71.5,"LA7, Coral boundstones, core 7128/6-1, Orn Fm.",NA,"Reef 3053",4,"Sakmarian","",295.5,290.1,61885,"gp_mid",21.07,29.17,"302",292.8,"sakmarian",33801,6.1384,36.7771,57,1

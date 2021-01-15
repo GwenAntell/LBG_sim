@@ -1,5 +1,18 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"4470",112385,"col","Qinglong",119,32.15,"Hushan, basal Qinglong Fm, Nanjing City",NA,"",2,"Griesbachian","",252.17,251.3,34166,"gp_mid",115.25,4.31,"604",251.735,"induan",1424,122.9588,29.1493,49,1
 "12261",22903,"col","Wordie Creek",-24,72,"Schuchert Dal and Wordie Creek Fm Greenland xx cm",NA,"",0,"Griesbachian","",252.17,251.3,6587,"gp_mid",22.23,41.81,"102",251.735,"induan",2267,6.416,36.5699,49,1
+"13074",24642,"col","",23,43.5,"Stara Planina",NA,"Balkans, Eastern Serbia",5,"Induan","",252.17,251.2,6929,"gp_mid",37.39,4.39,"308",251.685,"induan",2452,34.2089,24.5783,49,1
+"13112",24701,"col","",10,51.5,"Bremke",NA,"",5,"Induan","",252.17,251.2,6929,"gp_mid",29.64,28.3,"315",251.685,"induan",2472,20.8034,28.1265,49,1
+"13113",24702,"col","",9.4,51.8,"Furstenberg",NA,"",5,"Induan","",252.17,251.2,6929,"gp_mid",29.15,28.52,"315",251.685,"induan",2473,20.8034,28.1265,49,1
+"13114",24703,"col","",9.4,51.6,"Karlshafen",NA,"",3,"Induan","",252.17,251.2,6929,"gp_mid",29.2,28.32,"315",251.685,"induan",2474,20.8034,28.1265,49,1
+"13115",24704,"col","",9.6,51.7,"Schieshaus",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",29.32,28.44,"315",251.685,"induan",2475,20.8034,28.1265,49,1
+"13116",24705,"col","",9.4,51.5,"Hombressen",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",29.22,28.22,"315",251.685,"induan",2476,20.8034,28.1265,49,1
+"13117",24706,"col","",11.8,51.5,"Mansfelder Mulde",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",30.88,28.53,"305",251.685,"induan",2477,20.8034,28.1265,49,1
+"13118",24707,"col","Hardegsen",11.8,51.8,"Bernburg",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",30.81,28.82,"315",251.685,"induan",2478,20.8034,28.1265,49,1
+"13119",24708,"col","Solling",11.8,51.8,"Bernburg, Niegripp, Schonebeck",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",30.81,28.82,"315",251.685,"induan",2478,20.8034,28.1265,49,1
+"13123",24712,"col","",9.6,51.9,"Bodenwerder",NA,"",1,"Induan","",252.17,251.2,6929,"gp_mid",29.27,28.64,"315",251.685,"induan",2482,20.8034,28.1265,49,1
+"14384",28204,"col","Alcsutdoboz Limestone",18.62,47.42,"Alcsutdoboz Limestone Fm Alcsutdoboz-2 borehole 920.0 to 919.0m Alcsutdoboz",NA,"",0,"Griesbachian","",252.17,251.3,7691,"gp_mid",39.21,9.03,"308",251.735,"induan",2807,28.5274,27.1343,49,1
+"14385",28205,"col","Alcsutdoboz Limestone",18.62,47.42,"Alcsutdoboz Limestone Fm Alcsutdoboz-2 borehole 919.1 to 918.0m Alcsutdoboz",NA,"",0,"Griesbachian","",252.17,251.3,7691,"gp_mid",39.21,9.03,"308",251.735,"induan",2807,28.5274,27.1343,49,1
 "14471",28396,"col","Vokhminskaya",45.91,57.88,"Spasskoye settlement (Vokhma Formation), PIN 1025",NA,"Vetluga River; Spasskoe village",19,"Induan","",252.17,251.2,4302,"gp_mid",50.48,41.35,"302",251.685,"induan",2824,33.3228,45.2164,49,1
 "14472",28397,"col","Vokhminskaya",46.25,57.31,"Bol'shoe Sidorovo (Vokhma Formation)",NA,"Usta River; Bol. Sidorovo; Bolshoe Sidorovo; Bolshoye Sidorovo",1,"Induan","",252.17,251.2,4302,"gp_mid",51.06,40.94,"302",251.685,"induan",2825,33.3228,45.2164,49,1
 "14473",28398,"col","Vokhminskaya",49,58,"Konaki settlement (Vokhma Formation)",NA,"Vyatka River, Vokhma horizon",1,"Induan","",252.17,251.2,4302,"gp_mid",52.31,42.27,"302",251.685,"induan",2826,34.9277,46.8952,49,1
@@ -21,10 +34,16 @@
 "18836",33251,"col","Dinwoody",-111.43,42.22,"D-3: D(A) Paris Canyon/Bear Lake",NA,"",9,"Griesbachian","",252.17,251.3,8833,"gp_mid",-31.16,25.57,"101",251.735,"induan",3773,-42.4983,18.6608,49,1
 "18838",33253,"col","Dinwoody",-111,42,"D-4: D(A) Paris Canyon/Bear Lake",NA,"",10,"Griesbachian","",252.17,251.3,8833,"gp_mid",-30.94,25.24,"101",251.735,"induan",3774,-42.4983,18.6608,49,1
 "20263",35043,"col","Ximatang",103.86,24.02,"Ximatang section",NA,"",2,"Griesbachian","",252.17,251.3,51768,"gp_mid",104.32,-16.6,"611",251.735,"induan",4062,121.0554,8.0781,49,1
+"21704",37037,"col","Kopanaskya",55.72,51.34,"Blumenthal 1 locality",NA,"Blyumental-1, locality 27 (Tverdokhlebov et al, 2003); Burtya River basin, Saratov Univ 104/13, 19",3,"Induan","",252.17,251.2,9808,"gp_mid",61.14,38.51,"302",251.685,"induan",4424,44.5676,47.7835,49,1
 "24386",40863,"col","Mianwali",71.64,32.81,"Zaluch Nala, Locality 3, Bed 8",NA,"",1,"Dienerian","",252.17,251.3,11136,"gp_mid",52.44,-34.31,"501",251.735,"induan",5152,70.5574,-24.8544,49,1
 "24387",110932,"col","Mianwali",71.64,32.81,"Zaluch Nala, Locality 3, Bed 7",NA,"",2,"Griesbachian","",252.17,251.3,11136,"gp_mid",52.44,-34.31,"501",251.735,"induan",5152,70.5574,-24.8544,49,1
+"24552",41082,"col","Qinglong",119.05,32.15,"Longtan Section ACT916, Nanjing City",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.28,4.28,"604",251.735,"induan",5199,122.9588,29.1493,49,1
+"24553",112380,"col","Yinkeng",119.71,31.08,"Zhongxin Dadui Quarry Act733, Meishan, Changxing County",NA,"",2,"Griesbachian","",252.17,251.3,33589,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
 "24893",41560,"col","Mianwali",71.82,32.51,"USNM9157, Khan Zaman Nala, Salt Range",NA,"",1,"Griesbachian","",252.17,251.3,11135,"gp_mid",52.16,-34.56,"501",251.735,"induan",5321,70.5574,-24.8544,49,1
 "24894",41561,"col","Mianwali",71.82,32.51,"USNM9158, Khan Zaman Nala, Salt Range",NA,"",1,"Griesbachian","",252.17,251.3,11135,"gp_mid",52.16,-34.56,"501",251.735,"induan",5321,70.5574,-24.8544,49,1
+"26652",43788,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 11, Huzhou city",NA,"",20,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"26653",43789,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 12, Huzhou city",NA,"",6,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"26654",43790,"col","Yinkeng",120.1,30.87,"Beds 15-17, Yinkeng Formation, Huangzhishan section, Huzhou city, Zhejiang",NA,"",7,"Griesbachian","",252.17,251.3,11539,"gp_mid",117.4,-7.1,"611",251.735,"induan",5883,133.7688,14.9063,49,1
 "26716",43852,"col","Blind Fiord",-95.38,80.55,"GSC 32373, Arthaber Creek, Axel Heiberg Island",NA,"",7,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.72,54.78,"106",251.735,"induan",5908,-10.0509,47.1879,49,1
 "26718",43854,"col","Blind Fiord",-95.5,80.67,"South Coast of Bjarnason Island (GSc 32364)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,"induan",5909,-10.0509,47.1879,49,1
 "26720",43856,"col","Blind Fiord",-95.37,80.55,"GSC 32367, Arthaber Creek, Axel Heiberg Island",NA,"",4,"Dienerian","",252.17,251.3,17934,"gp_mid",5.72,54.78,"106",251.735,"induan",5910,-10.0509,47.1879,49,1
@@ -39,6 +58,8 @@
 "26790",44025,"col","",78.05,32.08,"Gaichund",NA,"",2,"Griesbachian","",252.17,251.3,11558,"gp_mid",54.04,-39.62,"501",251.735,"induan",5926,75.6344,-29.2789,49,1
 "26792",44028,"col","",80.17,30.83,"Shalshal Cliff",NA,"",20,"Griesbachian","",252.17,251.3,11558,"gp_mid",53.49,-41.78,"501",251.735,"induan",5928,73.7112,-31.1467,49,1
 "26998",44295,"col","Dinwoody",-114.33,41.25,"AMNH Locality B8246, Dinwoody Fm, Nevada",NA,"",1,"Griesbachian","",252.17,251.3,11472,"gp_mid",-33.79,25.56,"101",251.735,"induan",5999,-42.4983,18.6608,49,1
+"27032",112382,"col","Qinglong",120.3,31.14,"Xishan, Wuxing County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",117.48,-6.8,"611",251.735,"induan",6027,133.7688,14.9063,49,1
+"27033",112383,"col","Qinglong",120.59,31.3,"Ducun well 6, Wuxian County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",117.68,-6.56,"611",251.735,"induan",6028,122.9588,29.1493,49,1
 "27127",44447,"col","Werfen",13,46,"Gartnerkofel-1 core, Carnic Alps, Austria, Werfen Fm",NA,"",10,"Griesbachian","",252.17,251.3,11621,"gp_mid",36.15,11.81,"307",251.735,"induan",6081,18.2412,12.3332,49,1
 "27131",44451,"col","Werfen",11.85,46.38,"Mazzin Member, Werfen Fm, Tereso, Dolomites",NA,"",8,"Griesbachian","",252.17,251.3,11624,"gp_mid",36.16,12.7,"307",251.735,"induan",6084,24.0494,24.0758,49,1
 "27171",44491,"col","Dinwoody",-112.3,44.76,"Blacktail Creek, MT-4",NA,"",10,"Griesbachian","",252.17,251.3,11667,"gp_mid",-34.46,29.71,"127",251.735,"induan",6108,-41.323,20.903,49,1
@@ -61,7 +82,6 @@
 "27373",44656,"col","Werfen",11.8,46.4,"Uomo GOM2",NA,"",4,"Dienerian","",252.17,251.3,11667,"gp_mid",36.16,12.74,"307",251.735,"induan",6135,24.0494,24.0758,49,1
 "27495",44753,"col","Lang Son",106.74,21.86,"Lang Son Section, Locality T02, Lang Son Province",NA,"",1,"Induan","",252.17,251.2,30057,"gp_mid",107.35,-18.43,"611",251.685,"induan",6167,121.3144,5.5914,49,1
 "27526",44783,"col","Song Sai Gon",106.5,11.5,"Basal Member, Song Sai Gon Formation, Ta Thiet Basin, S Vietnam",NA,"",4,"Induan","",252.17,251.2,11693,"gp_mid",107.98,-27.64,"615",251.685,"induan",6183,119.3408,-6.3058,49,1
-"27560",44817,"col","Gua Musang",102,4.92,"Lower Gua Musang Formation, Gua Musang, Central Malaysia",NA,"",2,"Induan","",252.17,251.2,11693,"gp_mid",103.22,-23.29,"619",251.685,"induan",6203,119.8455,-14.1312,49,1
 "28475",45895,"col","Feixiangguan",106.5,29.92,"Laolongdong L2",NA,"",13,"Induan","",252.17,251.2,12225,"gp_mid",105.99,-10.47,"611",251.685,"induan",6532,120.5265,13.051,49,1
 "30300",47904,"col","Feixianguan",106,29,"Laolongdong L3B",NA,"",5,"Induan","",252.17,251.2,12225,"gp_mid",105.67,-11.44,"611",251.685,"induan",7082,120.5265,13.051,49,1
 "30317",47921,"col","Blind Fiord",-95.5,80.67,"South Coast of Bjarnason Island (GSC 34001)",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",5.84,54.87,"106",251.735,"induan",5909,-10.0509,47.1879,49,1
@@ -132,6 +152,12 @@
 "30457",48061,"col","Wordie Creek",-23,71,"East ridge of Walter Martin Bjerg Unit 2",NA,"",10,"Griesbachian","",252.17,251.3,12856,"gp_mid",22.89,40.88,"102",251.735,"induan",7133,7.4786,34.2247,49,1
 "30460",48064,"col","Wordie Creek",-23,71,"East ridge of Walter Martin Bjerg Unit 3",NA,"",8,"Griesbachian","",252.17,251.3,12856,"gp_mid",22.89,40.88,"102",251.735,"induan",7133,7.4786,34.2247,49,1
 "30461",48065,"col","Wordie Creek",-23,71,"East ridge of Walter Martin Bjerg Unit 4",NA,"",1,"Griesbachian","",252.17,251.3,12856,"gp_mid",22.89,40.88,"102",251.735,"induan",7133,7.4786,34.2247,49,1
+"30507",48113,"col","Wordie Creek",-21.42,73.88,"South -south-west of Cape Stosch 1",NA,"",21,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.74,43.8,"102",251.735,"induan",7160,5.2871,38.9051,49,1
+"30508",48114,"col","Wordie Creek",-21.42,73.88,"South -south-west of Cape Stosch 2",NA,"",9,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.74,43.8,"102",251.735,"induan",7160,5.2871,38.9051,49,1
+"30509",48115,"col","Wordie Creek",-21.42,73.88,"Cape Stosch",NA,"",12,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.74,43.8,"102",251.735,"induan",7160,5.2871,38.9051,49,1
+"30515",48121,"col","Wordie Creek",-21.38,73.85,"West of Little Finsch Island",NA,"Locality IX",9,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.76,43.77,"102",251.735,"induan",7161,5.2871,38.9051,49,1
+"30516",48122,"col","Wordie Creek",-21.38,73.95,"About 4km E of Little Finsch Island",NA,"Locality XI",2,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.73,43.87,"102",251.735,"induan",7162,5.2871,38.9051,49,1
+"30517",48123,"col","Wordie Creek",-21,74.27,"Hird's Fox Farm on Clavering Island",NA,"",10,"Griesbachian","",252.17,251.3,12885,"gp_mid",22.78,44.2,"102",251.735,"induan",7163,5.2871,38.9051,49,1
 "30791",48398,"col","",130,65,"Beriozovy Creek Unit 1",NA,"",2,"Griesbachian","",252.17,251.3,12928,"gp_mid",78.87,76.41,"401",251.735,"induan",3662,-9.0044,80.0685,49,1
 "30796",48403,"col","",130,65,"Beriozovy Creek Unit 2",NA,"",0,"Griesbachian","",252.17,251.3,12928,"gp_mid",78.87,76.41,"401",251.735,"induan",3662,-9.0044,80.0685,49,1
 "30799",48406,"col","",130,65,"Beriozovy Creek Unit 3",NA,"",1,"Dienerian","",252.17,251.3,12928,"gp_mid",78.87,76.41,"401",251.735,"induan",3662,-9.0044,80.0685,49,1
@@ -162,6 +188,17 @@
 "30970",48609,"col","Kockatea Shale",115,-29.5,"Beagle Ridge (BMR No. 10) Bore 1",NA,"",5,"Griesbachian","",252.17,251.3,12967,"gp_mid",69.07,-53.39,"801",251.735,"induan",7312,91.6281,-48.3349,49,1
 "30971",48610,"col","Kockatea Shale",115,-29,"Beagle Ridge (BMR No. 10) Bore 2",NA,"",1,"Griesbachian","",252.17,251.3,12967,"gp_mid",69.76,-53.1,"801",251.735,"induan",7313,91.6281,-48.3349,49,1
 "30972",48611,"col","Kockatea Shale",115,-29,"Beagle Ridge (BMR No. 10) Bore 3",NA,"",1,"Griesbachian","",252.17,251.3,12967,"gp_mid",69.76,-53.1,"801",251.735,"induan",7313,91.6281,-48.3349,49,1
+"31149",48898,"col","Qinglong",120,31,"Meishan section Bed 27 c-d",NA,"",2,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31150",48899,"col","Qinglong",120,31,"Meishan section Bed 28",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31151",48900,"col","Qinglong",120,31,"Meishan section Bed 29",NA,"",9,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31152",48901,"col","Qinglong",120,31,"Meishan section Bed 30",NA,"",3,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31153",48902,"col","Qinglong",120,31,"Meishan section Bed 31",NA,"",0,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31154",48903,"col","Qinglong",120,31,"Meishan section Bed 32",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31155",48904,"col","Qinglong",120,31,"Meishan section Bed 33",NA,"",0,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31156",48905,"col","Qinglong",120,31,"Meishan section Bed 34",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31157",48906,"col","Qinglong",120,31,"Meishan section Bed 35",NA,"",2,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31158",48907,"col","Qinglong",120,31,"Meishan section Bed 36",NA,"",3,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
+"31159",48909,"col","Qinglong",120,31,"Meishan section Bed 37",NA,"",4,"Griesbachian","",252.17,251.3,13055,"gp_mid",117.27,-7,"611",251.735,"induan",7385,133.7688,14.9063,49,1
 "31166",48919,"col","Kangshare",104.73,24.73,"Selong Section Bed 22",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,"induan",7388,121.0554,8.0781,49,1
 "31167",48920,"col","Kangshare",104.73,24.73,"Selong Section Bed 23",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,"induan",7388,121.0554,8.0781,49,1
 "31168",48921,"col","Kangshare",104.73,24.73,"Selong Section Bed 24",NA,"",0,"Griesbachian","",252.17,251.3,13058,"gp_mid",105.05,-15.81,"611",251.735,"induan",7388,121.0554,8.0781,49,1
@@ -186,6 +223,7 @@
 "40196",60516,"col","Luolou",107.58,28.83,"Shangba tracksite",NA,"",1,"Induan","",252.17,251.2,16852,"gp_mid",107.09,-11.42,"611",251.685,"induan",9707,123.8406,13.4231,49,1
 "40204",60525,"col","Daye",117.35,29.17,"Yangou Section Y11 (Bed 20), Leping County",NA,"",5,"Griesbachian","",252.17,251.3,17398,"gp_mid",115.53,-9.37,"611",251.735,"induan",9709,130.4617,14.3523,49,1
 "40205",60526,"col","Daye",117.35,29.17,"Yangou Section Y12 (Bed 21), Leping County",NA,"",4,"Griesbachian","",252.17,251.3,17398,"gp_mid",115.53,-9.37,"611",251.735,"induan",9709,130.4617,14.3523,49,1
+"40993",61369,"col","Gerennavar Limestone",20.45,48.08,"Gerennavar Section, Gerennavar Limestone, Bükk Mountains",NA,"",14,"Griesbachian","Dienerian",252.17,251.3,17616,"gp_mid",40.41,8.29,"308",251.735,"induan",9907,28.5274,27.1343,49,1
 "41348",61804,"col","Werfen",11.85,46.38,"Dolomites region, Werfen Formation, Mazzin Member",NA,"",1,"Griesbachian","",252.17,251.3,17825,"gp_mid",36.16,12.7,"307",251.735,"induan",6084,24.0494,24.0758,49,1
 "41349",61805,"col","Werfen",11.6,46.4,"Costalunga, Dolomites region, Werfen Formation, Siusi Member",NA,"",1,"Griesbachian","Dienerian",252.17,251.3,17825,"gp_mid",36.1,12.86,"307",251.735,"induan",9991,24.0494,24.0758,49,1
 "41350",61806,"col","Werfen",11.85,46.38,"Passo San Pelegrino, Werfen Formation, Gastropod Oolite Member, Dolomites",NA,"",2,"Dienerian","",252.17,251.3,17825,"gp_mid",36.16,12.7,"307",251.735,"induan",6084,24.0494,24.0758,49,1
@@ -210,7 +248,10 @@
 "41786",62473,"col","Grayling",-122.92,55.67,"Grayling Fm - GSC 84197, Clearwater Creek",NA,"",2,"Dienerian","",252.17,251.3,18044,"gp_mid",-31.77,40.94,"101",251.735,"induan",10108,-57.2236,30.4899,49,1
 "41787",62474,"col","Sulphur Mountain",-122.21,55.21,"Phroso Siltstone, Sulphur Mountain Fm - GSC 84225, West Burnt River",NA,"",1,"Dienerian","",252.17,251.3,18045,"gp_mid",-31.63,40.34,"101",251.735,"induan",10109,-57.2236,30.4899,49,1
 "41788",62475,"col","Sulphur Mountain",-122.21,55.21,"Phroso Siltstone, Sulphur Mountain Fm - GSC 84227, West Burnt River",NA,"",1,"Dienerian","",252.17,251.3,18045,"gp_mid",-31.63,40.34,"101",251.735,"induan",10109,-57.2236,30.4899,49,1
+"42409",63508,"col","Yinkeng",119.75,30,"Baoqing, basal Yinkeng Fm, Changxing County",NA,"",9,"Griesbachian","",252.17,251.3,13680,"gp_mid",117.35,-8.02,"611",251.735,"induan",10212,133.7688,14.9063,49,1
 "42410",63509,"col","Yinkeng",106.79,26.7,"Pingqiao, Yinkeng Fm, Zhijin County",NA,"",1,"Griesbachian","",252.17,251.3,13680,"gp_mid",106.69,-13.62,"611",251.735,"induan",10213,120.7931,10.5647,49,1
+"42411",63510,"col","Qinglong",119.1,32.15,"Longtan, Act703, Nanjing City",NA,"",1,"Griesbachian","",252.17,251.3,13680,"gp_mid",115.31,4.25,"604",251.735,"induan",10214,122.9588,29.1493,49,1
+"42412",63511,"col","Qinglong",119,32.15,"Hushan, Act710, Nanjing City",NA,"",2,"Griesbachian","",252.17,251.3,13680,"gp_mid",115.25,4.31,"604",251.735,"induan",1424,122.9588,29.1493,49,1
 "42413",63512,"col","Kayitou",104.38,25.83,"Qingyun Section Bed 50 (FQ-36), Fuyuan County",NA,"",7,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,"induan",10215,121.0554,8.0781,49,1
 "48576",72298,"col","Werfen",11.5,46.72,"East of Bolzano (Gastropods)",NA,"",3,"Griesbachian","",252.17,251.3,17399,"gp_mid",36.37,13.05,"307",251.735,"induan",11915,24.0494,24.0758,49,1
 "48741",73222,"col","Mikin",78.02,31.97,"Muth MO6 Bed 13A",NA,"",4,"Induan","",252.17,251.2,24526,"gp_mid",53.89,-39.65,"501",251.685,"induan",11948,75.6344,-29.2789,49,1
@@ -240,9 +281,11 @@
 "55201",84173,"col","Werfen",11.51,46.29,"Tesero, Tesero section, Werfen Formation, Tereso Oolite, Te-29",NA,"",1,"Griesbachian","",252.17,251.3,28165,"gp_mid",35.97,12.87,"307",251.735,"induan",14017,24.0494,24.0758,49,1
 "55262",84275,"col","Werfen",11.51,46.29,"Tesero, Tesero section, Werfen Formation, Mazzin, Te-33",NA,"",1,"Griesbachian","",252.17,251.3,28165,"gp_mid",35.97,12.87,"307",251.735,"induan",14017,24.0494,24.0758,49,1
 "55844",85070,"col","",106.87,25.55,"Dajiang I, Great Bank of Guizhou",NA,"Reef 157",2,"Griesbachian","",252.17,251.3,28576,"gp_mid",106.93,-14.76,"611",251.735,"induan",14257,121.0554,8.0781,49,1
+"55869",85126,"col","Yinkeng",120.4,31.5,"Xishan, Yinkeng Formation Bed 14, Suzhou County",NA,"",3,"Griesbachian","",252.17,251.3,28638,"gp_mid",115.62,3,"604",251.735,"induan",14269,122.9588,29.1493,49,1
 "55870",85127,"col","Yelang",105.28,26.14,"Zhongzai section, Bed 15b, Liuzhi County",NA,"",13,"Griesbachian","",252.17,251.3,28638,"gp_mid",105.39,-14.36,"611",251.735,"induan",14270,121.0554,8.0781,49,1
 "55871",85128,"col","Kayitou",104.02,26.25,"Mide Section, Bed 47, Xuanwei",NA,"",2,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.22,-14.38,"611",251.735,"induan",14271,120.7931,10.5647,49,1
 "55872",85129,"col","Kayitou",104.47,25.95,"Tucheng Section, Bed 12, Panxian",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.66,-14.63,"611",251.735,"induan",14272,121.0554,8.0781,49,1
+"55873",85130,"col","Yinkeng",119.99,30.92,"Huangzishan, Yinkeng Bed 7, Huzhou",NA,"",2,"Griesbachian","",252.17,251.3,28638,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
 "56167",85463,"col","",80,30.85,"Shalshal Cliff near Rimkin Paiar, Otoceras Beds",NA,"",39,"Griesbachian","",252.17,251.3,28858,"gp_mid",53.43,-41.64,"501",251.735,"induan",14374,73.7112,-31.1467,49,1
 "56168",85464,"col","",79.87,30.97,"Niti Pass near Kiunglang",NA,"",4,"Griesbachian","",252.17,251.3,28858,"gp_mid",53.51,-41.49,"501",251.735,"induan",14375,73.7112,-31.1467,49,1
 "56469",85957,"col","",45.15,57.12,"Krasnye Baki",NA,"Krasnie Baki, Vetluga River",1,"Induan","",252.17,251.2,29011,"gp_mid",50.49,40.49,"302",251.685,"induan",14496,33.3228,45.2164,49,1
@@ -309,6 +352,8 @@
 "64401",96751,"col","",106.54,21.76,"Deo Lan Section, Locality 80, Lang Son Province",NA,"",2,"Induan","",252.17,251.2,30057,"gp_mid",107.18,-18.55,"611",251.685,"induan",17087,121.3144,5.5914,49,1
 "64402",96752,"col","",106.54,21.76,"Deo Lan Section, Locality 81, Lang Son Province",NA,"",2,"Induan","",252.17,251.2,30057,"gp_mid",107.18,-18.55,"611",251.685,"induan",17087,121.3144,5.5914,49,1
 "64403",96753,"col","",106.54,21.76,"Deo Lan Section, Locality 82, Lang Son Province",NA,"",1,"Induan","",252.17,251.2,30057,"gp_mid",107.18,-18.55,"611",251.685,"induan",17087,121.3144,5.5914,49,1
+"64505",96954,"col","Candelaria",-118.06,38.3,"Candelaria, lower horizon",NA,"",6,"Griesbachian","",252.17,251.3,33111,"gp_mid",-38.01,24.06,"101",251.735,"induan",17129,-47.5219,15.4702,49,1
+"64506",96955,"col","Candelaria",-118.06,38.14,"Candelaria, upper horizon",NA,"",7,"Dienerian","",252.17,251.3,33111,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
 "64578",97046,"col","",131.2,66,"Echiy River, Dienerian, Dulgalakh Basin, Yana River",NA,"",1,"Dienerian","",252.17,251.3,33136,"gp_mid",74.52,76.9,"401",251.735,"induan",17151,-9.0044,80.0685,49,1
 "64603",97071,"col","Luolou",107.69,22.27,"Dongpan section, bed 13-6, Fusui County",NA,"",2,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,"induan",17159,124.7747,5.9798,49,1
 "64604",97072,"col","Luolou",107.69,22.27,"Dongpan section, bed 13-7, Fusui County",NA,"",8,"Griesbachian","",252.17,251.3,33140,"gp_mid",108.21,-17.89,"611",251.735,"induan",17159,124.7747,5.9798,49,1
@@ -321,6 +366,9 @@
 "65166",97861,"col","Kashkaechkinskaya",73.07,38.35,"Dzhilga-Kul' Lake, Lower Kashkaechkinskaya Svita",NA,"",6,"Griesbachian","",252.17,251.3,33828,"gp_mid",85.83,34.53,"402",251.735,"induan",17312,78.3008,10.744,49,1
 "65167",97862,"col","Kashkaechkinskaya",73.3,38.25,"Zapadnyi Pshart River, at mouth of Dzhankaindy River",NA,"",2,"Induan","",252.17,251.2,33828,"gp_mid",86.08,34.55,"402",251.685,"induan",17313,81.3279,10.8313,49,1
 "65168",97863,"col","Kashkaechkinskaya",73.82,38.4,"Dzhamantal",NA,"",1,"Induan","",252.17,251.2,33828,"gp_mid",88.17,38.14,"601",251.685,"induan",17314,81.3279,10.8313,49,1
+"65229",97930,"col","Yinkeng",119.7,31.08,"Meishan 04A27c, Bed 27c, Meishan A",NA,"",1,"Griesbachian","",252.17,251.3,33840,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"65230",97931,"col","Yinkeng",119.7,31.08,"Meishan 04A27d, Bed 27d, Meishan A",NA,"",1,"Griesbachian","",252.17,251.3,33840,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"65231",97932,"col","Yinkeng",119.7,31.08,"Meishan 04A29, Bed 29a, Meishan A",NA,"",3,"Griesbachian","",252.17,251.3,33840,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
 "65479",98223,"col","",106.35,26.7,"Lijiachong, Lindai, Lower Triassic, Qingzhen County",NA,"",3,"Griesbachian","",252.17,251.3,31822,"gp_mid",106.29,-13.68,"611",251.735,"induan",17419,120.7931,10.5647,49,1
 "65710",98483,"col","Ximatang",103.81,23.77,"Huanglishu, Pingzhen, Yanshan County",NA,"",1,"Griesbachian","",252.17,251.3,33125,"gp_mid",104.29,-16.86,"611",251.735,"induan",17518,121.0554,8.0781,49,1
 "65726",98499,"col","Ximatang",104.75,23.98,"Ma'anshan, Guangnan County",NA,"",1,"Induan","",252.17,251.2,33125,"gp_mid",105.16,-16.56,"611",251.685,"induan",17528,121.0554,8.0781,49,1
@@ -332,12 +380,6 @@
 "65789",98560,"col","Blind Fiord",-90.2,81.13,"GSC 28440, 225 feet above base, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,"induan",17552,-9.3157,46.7728,49,1
 "65790",98561,"col","Blind Fiord",-90.2,81.13,"GSC 28441, talus, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,"induan",17552,-9.3157,46.7728,49,1
 "65792",98563,"col","Blind Fiord",-90.2,81.13,"GSC 28663, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,17934,"gp_mid",7.43,54.6,"106",251.735,"induan",17552,-9.3157,46.7728,49,1
-"66844",99882,"col","",101.98,4.73,"AB3, North Pahang",NA,"",2,"Induan","",252.17,251.2,33715,"gp_mid",103.39,-23.39,"619",251.685,"induan",17940,119.8455,-14.1312,49,1
-"66845",99883,"col","",101.97,4.78,"FPhN7, south Kelantan",NA,"",3,"Induan","",252.17,251.2,33715,"gp_mid",103.34,-23.37,"619",251.685,"induan",17941,119.8455,-14.1312,49,1
-"66846",99884,"col","",101.97,4.78,"FPhN9, south Kelantan",NA,"",1,"Induan","",252.17,251.2,33715,"gp_mid",103.33,-23.38,"619",251.685,"induan",17941,119.8455,-14.1312,49,1
-"66847",99885,"col","",101.99,4.74,"KNM9, North Pahang",NA,"",1,"Induan","",252.17,251.2,33715,"gp_mid",103.38,-23.38,"619",251.685,"induan",17942,119.8455,-14.1312,49,1
-"66848",99886,"col","",101.99,4.74,"KNM10, North Pahang",NA,"",1,"Induan","",252.17,251.2,33715,"gp_mid",103.38,-23.38,"619",251.685,"induan",17942,119.8455,-14.1312,49,1
-"66849",99887,"col","",101.99,4.74,"KNM12, North Pahang",NA,"",1,"Induan","",252.17,251.2,33715,"gp_mid",103.38,-23.38,"619",251.685,"induan",17942,119.8455,-14.1312,49,1
 "66851",99889,"col","",136.9,64.1,"Allakha-Sokh Creek, Tompo River Basin",NA,"",1,"Griesbachian","",252.17,251.3,33466,"gp_mid",83.48,79.35,"401",251.735,"induan",17944,-27.2688,79.9004,49,1
 "66863",99901,"col","",107.45,26.7,"Paomuchong, Longli County",NA,"",1,"Griesbachian","",252.17,251.3,34341,"gp_mid",107.3,-13.54,"611",251.735,"induan",17947,124.1568,10.9423,49,1
 "67914",101333,"col","Yelang",105.35,26.13,"Liuzhai section, bed 12",NA,"",2,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,"induan",18316,121.0554,8.0781,49,1
@@ -391,7 +433,21 @@
 "70211",105113,"col","Feixianguan",104.1,26.2,"Xuanwei County, Feixianguan Fm",NA,"",1,"Dienerian","",252.17,251.3,35163,"gp_mid",104.3,-14.42,"611",251.735,"induan",19400,121.0554,8.0781,49,1
 "70212",105114,"col","Feixianguan",105.45,28.15,"Xuyong County, Feixianguan Fm member 2",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.29,-12.34,"611",251.735,"induan",19401,120.7931,10.5647,49,1
 "70213",105115,"col","Yelang",106.9,27.7,"Zunyi County, Yelang Fm",NA,"",1,"Induan","",252.17,251.2,35163,"gp_mid",106.65,-12.62,"611",251.685,"induan",19402,124.1568,10.9423,49,1
+"70214",105116,"col","Yinkeng",119.71,31.08,"Meishan Bed 36, Layer 7",NA,"",1,"Griesbachian","",252.17,251.3,17392,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"70215",105117,"col","Yinkeng",119.71,31.08,"Meishan Bed 36, Layer 12",NA,"",1,"Griesbachian","",252.17,251.3,17392,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"70216",105118,"col","Yinkeng",119.71,31.08,"Meishan Bed 36, Layer 16",NA,"",1,"Griesbachian","",252.17,251.3,17392,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"70217",105119,"col","Yinkeng",119.71,31.08,"Meishan Bed 36, Layer 17",NA,"",1,"Griesbachian","",252.17,251.3,17392,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
 "70220",105123,"col","Feixianguan",106.42,29.73,"Taiping Section, bed 11 (upper)",NA,"",1,"Griesbachian","",252.17,251.3,27897,"gp_mid",105.94,-10.67,"611",251.735,"induan",19403,120.5265,13.051,49,1
+"70307",105216,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 25 (new), Huzhou city",NA,"",8,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70308",105217,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 26 (new), Huzhou city",NA,"",5,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70309",105218,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 27 (new), Huzhou city",NA,"",7,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70310",105219,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 28 (new), Huzhou city",NA,"",5,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70311",105220,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 29 (new), Huzhou city",NA,"",17,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70312",105221,"col","Huangzhishan",119.99,30.92,"Huangzhishan section, Bed 30 (new), Huzhou city",NA,"",39,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70313",105222,"col","Yinkeng",119.99,30.92,"Huangzhishan section, Bed 31 (new), Huzhou city",NA,"",6,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70314",105223,"col","Yinkeng",119.99,30.92,"Huangzhishan section, Bed 32 (new), Huzhou city",NA,"",2,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70315",105224,"col","Yinkeng",119.99,30.92,"Huangzhishan section, Bed 33 (new), Huzhou city",NA,"",1,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
+"70316",105225,"col","Yinkeng",119.99,30.92,"Huangzhishan section, Bed 34 (new), Huzhou city",NA,"",1,"Griesbachian","",252.17,251.3,31712,"gp_mid",117.29,-7.08,"611",251.735,"induan",5882,133.7688,14.9063,49,1
 "70337",105257,"col","Toad",-123.48,56.74,"GSC 56180, Chowade River (UCR)",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",-31.37,42.01,"101",251.735,"induan",19443,-40.9141,35.2031,49,1
 "70338",105258,"col","Toad",-123.48,56.74,"GSC 56181, Chowade River (UCR)",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",-31.37,42.01,"101",251.735,"induan",19443,-40.9141,35.2031,49,1
 "70339",105259,"col","Toad",-123.48,56.74,"GSC 56182, Chowade River (UCR)",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",-31.37,42.01,"101",251.735,"induan",19443,-40.9141,35.2031,49,1
@@ -429,6 +485,12 @@
 "70480",105402,"col","Woodside",-111.45,42.08,"Peale Mountain, Woodside Fm, Bear Lake County",NA,"",1,"Dienerian","",252.17,251.3,27437,"gp_mid",-31.24,25.45,"101",251.735,"induan",19516,-42.4983,18.6608,49,1
 "70481",105403,"col","Dinwoody",-111.38,42.88,"Sheep Creek, Caribou County",NA,"",1,"Griesbachian","",252.17,251.3,27437,"gp_mid",-30.83,26.17,"101",251.735,"induan",19517,-42.4983,18.6608,49,1
 "70482",105404,"col","Dinwoody",-111.46,42.69,"Wood Canyon, upper Dinwoody Fm, Caribou County",NA,"",1,"Dienerian","",252.17,251.3,27437,"gp_mid",-30.98,26.01,"101",251.735,"induan",19518,-42.4983,18.6608,49,1
+"71367",106526,"col","Candelaria",-118.06,38.14,"Candelaria SU1321-K",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"71368",106527,"col","Candelaria",-118.06,38.14,"Candelaria SU1321-X",NA,"",4,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"71369",106528,"col","Candelaria",-118.06,38.14,"Candelaria SU1321-D",NA,"",2,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"71370",106529,"col","Candelaria",-118.06,38.14,"Candelaria SU1321",NA,"",3,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"71371",106530,"col","Candelaria",-118.06,38.14,"Candelaria CAND1",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"71372",106531,"col","Candelaria",-118.06,38.14,"Candelaria SU887",NA,"",3,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
 "71409",106639,"col","Luolou",106.88,24.59,"Waili South W163, Fengshan",NA,"",14,"Griesbachian","",252.17,251.3,31742,"gp_mid",107.09,-15.71,"611",251.735,"induan",19874,124.4677,8.4612,49,1
 "71418",106648,"col","Luolou",106.88,24.59,"Waili South W81, Fengshan",NA,"",3,"Dienerian","",252.17,251.3,31742,"gp_mid",107.09,-15.71,"611",251.735,"induan",19874,124.4677,8.4612,49,1
 "71433",106663,"col","Lanchengquxia",80.7,30.72,"Gyanyima Section, Bed 12 (Y12-41), Zanda County",NA,"",4,"Griesbachian","",252.17,251.3,33461,"gp_mid",53.6,-42.24,"501",251.735,"induan",19876,76.6322,-33.2535,49,1
@@ -470,6 +532,11 @@
 "73922",109656,"col","Mianwali",71.83,32.59,"Ganjaroh, Locality 5, Bed 9",NA,"",1,"Dienerian","",252.17,251.3,11136,"gp_mid",52.25,-34.54,"501",251.735,"induan",20668,70.5574,-24.8544,49,1
 "73929",109663,"col","Yelang",105.28,26.14,"Zhongzai Section, Bed 17, Liuzhi County",NA,"",2,"Griesbachian","",252.17,251.3,33541,"gp_mid",105.39,-14.36,"611",251.735,"induan",14270,121.0554,8.0781,49,1
 "74005",109750,"col","Woodside",-111.17,42.62,"USGS 76-PC",NA,"",1,"Dienerian","",252.17,251.3,29015,"gp_mid",-30.79,25.86,"101",251.735,"induan",20691,-42.4983,18.6608,49,1
+"74040",109784,"col","",119.06,32.17,"Chinglungshan CLS6, Longtanzhen",NA,"",2,"Induan","",252.17,251.2,33544,"gp_mid",115.29,4.28,"604",251.685,"induan",20710,122.9588,29.1493,49,1
+"74041",109785,"col","",119.07,32.17,"Chinglungshan CLS15, China Cement Factory, Longtanzhen",NA,"",5,"Dienerian","",252.17,251.3,33544,"gp_mid",115.3,4.28,"604",251.735,"induan",20711,122.9588,29.1493,49,1
+"74043",109787,"col","",119.04,32.08,"Tayaoshan CLS22, Tangshuichen, Chuyung",NA,"",2,"Griesbachian","",252.17,251.3,33544,"gp_mid",115.22,4.23,"604",251.735,"induan",20712,122.9588,29.1493,49,1
+"74044",109788,"col","",119.7,31.08,"Tameishan CH1, Changhsing",NA,"",3,"Griesbachian","",252.17,251.3,33544,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"74045",109789,"col","",119.7,31.08,"Tameishan CH2, Changhsing",NA,"",3,"Induan","",252.17,251.2,33544,"gp_mid",117,-6.99,"611",251.685,"induan",17328,133.7688,14.9063,49,1
 "74046",109790,"col","",117.5,30.6,"Kueichih, Loc. 714",NA,"",1,"Griesbachian","",252.17,251.3,33544,"gp_mid",115.29,-7.96,"611",251.735,"induan",20713,130.4617,14.3523,49,1
 "74048",109792,"col","Daye",114.76,30.17,"Paoan, Loc 807, Tayeh",NA,"",1,"Griesbachian","",252.17,251.3,33544,"gp_mid",113.08,-8.94,"611",251.735,"induan",20714,130.4617,14.3523,49,1
 "74049",109793,"col","",115.5,29.9,"Chaometang, Wuhsueh, Kwangchi",NA,"",1,"Induan","",252.17,251.2,33544,"gp_mid",113.77,-9.06,"611",251.685,"induan",20715,130.4617,14.3523,49,1
@@ -560,6 +627,16 @@
 "75393",111200,"col","",106.67,25.54,"Dawen PDW-099",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "75394",111201,"col","",106.67,25.54,"Dawen PDW-102",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "75395",111202,"col","",106.67,25.54,"Dawen PDW-106",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
+"75739",111653,"col","Yinkeng",119.71,31.08,"Meishan, Bed 25a, Changxing County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"75740",111654,"col","Yinkeng",119.71,31.08,"Meishan, Bed 25b, Changxing County",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"75741",111655,"col","Yinkeng",119.71,31.08,"Meishan, Bed 26, Changxing County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"75742",111657,"col","Yinkeng",119.71,31.08,"Meishan, Bed 27, Changxing County",NA,"",7,"Griesbachian","",252.17,251.3,36523,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"75801",111749,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT1, Changxing County",NA,"",1,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"75802",111750,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT3, Changxing County",NA,"",2,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"75803",111751,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT4, Changxing County",NA,"",1,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"75804",111752,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT5, Changxing County",NA,"",4,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"75805",111753,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT6, Changxing County",NA,"",7,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"75806",111754,"col","Yinkeng",119.7,31.08,"Meishan, 90ACT9, Changxing County",NA,"",1,"Griesbachian","",252.17,251.3,33176,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
 "75888",111971,"col","Daye",112.95,25.4,"Yizhang County, ACN 203",NA,"",1,"Griesbachian","",252.17,251.3,13680,"gp_mid",112.54,-13.94,"611",251.735,"induan",21266,127.8759,8.9079,49,1
 "75889",111975,"col","Feixianguan",105.29,26.15,"Heilajia Section Bed 10 (HG-1), Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,"induan",21267,121.0554,8.0781,49,1
 "75890",111976,"col","Feixianguan",105.29,26.15,"Heilajia Section Bed 10 (HG-2), Liuzhi County",NA,"",3,"Griesbachian","",252.17,251.3,33770,"gp_mid",105.4,-14.35,"611",251.735,"induan",21267,121.0554,8.0781,49,1
@@ -577,6 +654,17 @@
 "76032",112122,"col","Kayitou",104.38,25.83,"Qingyun Section Bed 56 (FQ-49,48), Fuyuan County",NA,"",2,"Griesbachian","",252.17,251.3,33770,"gp_mid",104.59,-14.75,"611",251.735,"induan",10215,121.0554,8.0781,49,1
 "76034",112124,"col","Kayitou",104.41,25.66,"Huoshaopu, Sample Panhuo1, Panxian County",NA,"",1,"Griesbachian","",252.17,251.3,27402,"gp_mid",104.64,-14.93,"611",251.735,"induan",21283,121.0554,8.0781,49,1
 "76213",112367,"col","Yinkeng",118.02,30.81,"Yashan Y1, Nanling County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.68,-7.64,"611",251.735,"induan",21323,130.4617,14.3523,49,1
+"76214",112368,"col","Qinglong",120.39,31.49,"Xin'an Northern 4 well, Wuxi County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.61,3,"604",251.735,"induan",21324,122.9588,29.1493,49,1
+"76216",112370,"col","Yinkeng",119.7,31.08,"Meishan Act741, Changxing County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"76220",112374,"col","Yinkeng",119.71,31.08,"Zhongxin Dadui Quarry Act31, Meishan, Changxing County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"76224",112378,"col","Yinkeng",119.7,31.08,"Meishan well 1, Changxing County",NA,"",2,"Griesbachian","",252.17,251.3,33589,"gp_mid",117,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"76225",112379,"col","Yinkeng",119.78,31.23,"Baiyangtang Act814, Hufu, Yixing County",NA,"",2,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.05,3.18,"604",251.735,"induan",21326,133.7688,14.9063,49,1
+"76227",112387,"col","Yinkeng",117.85,31.64,"Majiashan Section, lower Yinkeng Fm, Chaoxian, Chaohu City",NA,"",3,"Griesbachian","",252.17,251.3,33589,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"76228",112388,"col","Yinkeng",117.88,31.67,"Guimenguan, Yinkeng Fm, Chaoxian County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",114.24,4.66,"604",251.735,"induan",21329,119.9202,30.5591,49,1
+"76230",112390,"col","Yinkeng",119.78,31.23,"Baiyangtang, Yinkeng Fm, Yixing County",NA,"",2,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.05,3.18,"604",251.735,"induan",21326,133.7688,14.9063,49,1
+"76231",112391,"col","Qinglong",120.59,31.3,"Ducun drill core, Wuxian County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",117.68,-6.56,"611",251.735,"induan",6028,122.9588,29.1493,49,1
+"76232",112392,"col","Qinglong",119.05,32.15,"Longtan Section, Qinglong Fm, Nanjing City",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.28,4.28,"604",251.735,"induan",5199,122.9588,29.1493,49,1
+"76233",112393,"col","Yinkeng",117.88,31.67,"Pingdingshan Section, Yinkeng Fm, Chaoxian County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",114.24,4.66,"604",251.735,"induan",21329,119.9202,30.5591,49,1
 "76234",112394,"col","Yinkeng",116.1,30.15,"Zuoshan, Yinkeng Formation, Susong County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",114.22,-8.69,"611",251.735,"induan",21330,130.4617,14.3523,49,1
 "76235",112395,"col","Yinkeng",118.02,30.81,"Yashan, Yinkeng Fm, Nanling County",NA,"",1,"Griesbachian","",252.17,251.3,33589,"gp_mid",115.68,-7.64,"611",251.735,"induan",21323,130.4617,14.3523,49,1
 "76242",112402,"col","Luolou",108.87,23.77,"Matan Section Act572, Bed 38, Heshan",NA,"",2,"Griesbachian","",252.17,251.3,33590,"gp_mid",109.08,-16.24,"611",251.735,"induan",21331,124.4677,8.4612,49,1
@@ -655,6 +743,7 @@
 "77493",113869,"col","Daye",107.22,26.61,"Wenjiangsi Section, Triassic Bed 19, Guiding",NA,"",1,"Dienerian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,"induan",21756,124.1568,10.9423,49,1
 "77494",113870,"col","Daye",107.22,26.61,"Wenjiangsi Section, Triassic Bed 20, Guiding",NA,"",5,"Dienerian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,"induan",21756,124.1568,10.9423,49,1
 "77495",113871,"col","Daye",107.22,26.61,"Wenjiangsi Section, Triassic Beds 16-21, Guiding",NA,"",9,"Griesbachian","",252.17,251.3,33616,"gp_mid",107.1,-13.66,"611",251.735,"induan",21756,124.1568,10.9423,49,1
+"77758",114138,"col","",136.85,63.5,"Tirekhtyakh River, western Verkhoyan",NA,"",1,"Induan","",252.17,251.2,27341,"gp_mid",86.72,79.31,"401",251.685,"induan",21849,-19.2828,82.651,49,1
 "78277",114720,"col","",106.67,25.54,"Dawen PDW-108",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "78278",114721,"col","",106.67,25.54,"Dawen PDW-112",NA,"",2,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "78279",114722,"col","",106.67,25.54,"Dawen PDW-118",NA,"",3,"Griesbachian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
@@ -684,8 +773,21 @@
 "78303",114746,"col","",106.67,25.54,"Dawen PDW-296",NA,"",1,"Dienerian","",252.17,251.3,36240,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "78595",115240,"col","Oono",133.82,34.81,"Mitsu Area, Loc 6, Okayama City",NA,"",2,"Induan","",252.17,251.2,33623,"gp_mid",129.54,2.77,"610",251.685,"induan",22023,150.0591,22.6642,49,1
 "78956",115800,"col","Mianwali",71.8,32.67,"Nammal Gorge section 4, bed 25 (K6-27A)",NA,"",2,"Dienerian","",252.17,251.3,11136,"gp_mid",52.33,-34.49,"501",251.735,"induan",22096,70.5574,-24.8544,49,1
+"78980",115896,"col","Wegener Halvo",-21.7,74.03,"Kap Stosch Block 11",NA,"",3,"Griesbachian","",252.17,251.3,29053,"gp_mid",22.59,43.93,"102",251.735,"induan",22111,5.2871,38.9051,49,1
 "79066",116029,"col","Werfen",11.41,46.03,"Borgo Valsugana",NA,"",3,"Dienerian","",252.17,251.3,28984,"gp_mid",35.7,12.83,"307",251.735,"induan",22135,18.2412,12.3332,49,1
 "79067",116033,"col","Werfen",11.18,46.06,"Cimirlo",NA,"",3,"Dienerian","",252.17,251.3,28984,"gp_mid",35.67,12.99,"307",251.735,"induan",22136,18.2412,12.3332,49,1
+"79188",116316,"col","Yinkeng",119.7,31.08,"Meishan 06MD90",NA,"",11,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79189",116317,"col","Yinkeng",119.7,31.08,"Meishan 06MD119",NA,"",2,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79190",116318,"col","Yinkeng",119.7,31.08,"Meishan 06MD121",NA,"",4,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79191",116319,"col","Yinkeng",119.7,31.08,"Meishan 06MD125'",NA,"",4,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79192",116320,"col","Yinkeng",119.7,31.08,"Meishan 06MD128",NA,"",6,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79193",116321,"col","Yinkeng",119.7,31.08,"Meishan 06MD131",NA,"",1,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79194",116322,"col","Yinkeng",119.7,31.08,"Meishan 06MD135",NA,"",1,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79195",116323,"col","Helongshan",119.7,31.08,"Meishan 06MD142",NA,"",7,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79196",116324,"col","Helongshan",119.7,31.08,"Meishan 06MD143",NA,"",3,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79197",116325,"col","Helongshan",119.7,31.08,"Meishan 06MD144",NA,"",4,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79198",116326,"col","Helongshan",119.7,31.08,"Meishan 06MD146",NA,"",3,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
+"79199",116327,"col","Helongshan",119.7,31.08,"Meishan 06MD147",NA,"",1,"Griesbachian","",252.17,251.3,37489,"gp_mid",117.01,-6.99,"611",251.735,"induan",17328,133.7688,14.9063,49,1
 "79236",116380,"col","Kayitou",104.02,26.25,"Mide Section, Bed 54, Xuanwei",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.22,-14.38,"611",251.735,"induan",14271,120.7931,10.5647,49,1
 "79237",116381,"col","Kayitou",104.47,25.95,"Tucheng Section, Bed 20, Panxian",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",104.66,-14.63,"611",251.735,"induan",14272,121.0554,8.0781,49,1
 "79238",116382,"col","Yelang",105.28,26.14,"Zhongzai Section, Bed 21, Liuzhi County",NA,"",1,"Griesbachian","",252.17,251.3,28638,"gp_mid",105.39,-14.36,"611",251.735,"induan",14270,121.0554,8.0781,49,1
@@ -715,22 +817,326 @@
 "80915",118297,"col","Elikah",45.51,38.94,"Julfa Section, Bed 69, Kuh-e Ali Bashi",NA,"",1,"Induan","",252.17,251.2,33703,"gp_mid",56.83,7.8,"512",251.685,"induan",22639,52.9251,-2.4005,49,1
 "80916",118298,"col","Elikah",45.51,38.94,"Julfa Section, Bed 71, Kuh-e Ali Bashi",NA,"",1,"Induan","",252.17,251.2,33703,"gp_mid",56.83,7.8,"512",251.685,"induan",22639,52.9251,-2.4005,49,1
 "80917",118299,"col","Elikah",45.51,38.94,"Julfa Section, Bed 73, Kuh-e Ali Bashi",NA,"",1,"Induan","",252.17,251.2,33703,"gp_mid",56.83,7.8,"512",251.685,"induan",22639,52.9251,-2.4005,49,1
+"81016",118489,"col","Wordie Creek",-21.61,74.04,"Cape Stosch, plateau west of River 6, Locality 201",NA,"",9,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22665,5.2871,38.9051,49,1
+"81017",118490,"col","Wordie Creek",-21.61,74.04,"Cape Stosch, plateau west of River 6, Locality 202",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22665,5.2871,38.9051,49,1
+"81018",118491,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, plateau west of River 6, Locality 203",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81019",118492,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, plateau west of River 6, Locality 204",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81020",118493,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 205",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81021",118494,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 206",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81022",118495,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 207",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81023",118496,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 209",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81024",118497,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 208",NA,"",4,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81025",118498,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 210",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81026",118499,"col","Wordie Creek",-21.64,74.03,"Cape Stosch, plateau west of River 6, Locality 212",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.61,43.93,"102",251.735,"induan",22667,5.2871,38.9051,49,1
+"81027",118500,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 171",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81028",118501,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 171-172",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81029",118502,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 174-175",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81030",118503,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 176",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81031",118504,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 177",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81032",118505,"col","Wordie Creek",-21.6,74.03,"Cape Stosch, River 6, Locality 178",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.94,"102",251.735,"induan",22668,5.2871,38.9051,49,1
+"81033",118506,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of River 6 (Knolden), Locality 180",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81034",118507,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of River 6 (Knolden), Locality 181",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81035",118508,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of River 6 (Knolden), Locality 182",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81036",118509,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 102",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81037",118510,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 103",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81038",118511,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 106",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81039",118512,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 107",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81040",118513,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 108",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81041",118514,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 109",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81042",118515,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 110",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81043",118516,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 112",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81044",118517,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 65",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81045",118518,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 66",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81046",118519,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 68",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81047",118520,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 69",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81048",118521,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 70",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81049",118522,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 71-72",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81050",118523,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 73",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81051",118524,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 115-116",NA,"",9,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81052",118525,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) west, locality 117-118",NA,"",12,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81053",118526,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) east, locality 158",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81054",118527,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) east, locality 159",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81055",118528,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) east, locality 160",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81056",118529,"col","Wordie Creek",-21.63,74.03,"Cape Stosch, Stegocephalian Ridge (River 7) east, locality 161",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22670,5.2871,38.9051,49,1
+"81057",118530,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 163",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81058",118531,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 164",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81059",118532,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 165",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81060",118533,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 166",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81061",118534,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 167",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81062",118535,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 168",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81063",118536,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 169",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81064",118537,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 1, locality 170",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81065",118538,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 137",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81066",118539,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 138",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81067",118540,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 139",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81068",118541,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 140",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81069",118542,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 141",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81070",118543,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 142",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81071",118544,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 143",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81072",118545,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 144",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81073",118546,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 145",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81074",118547,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 146",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81075",118548,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 147",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81076",118549,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 148",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81077",118550,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 149",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81078",118551,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 150",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81079",118552,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 2, locality 151",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81080",118553,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 84",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81081",118554,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 85",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81082",118555,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 86",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81083",118556,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 87",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81084",118557,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 88",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81085",118558,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau (River 7) west 3, locality 89",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81086",118559,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau center, locality 15",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81087",118560,"col","Wordie Creek",-21.62,74.03,"Cape Stosch, Fish Plateau center, locality 9,13,16,22",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.62,43.93,"102",251.735,"induan",22666,5.2871,38.9051,49,1
+"81088",118561,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 93",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81089",118562,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 94",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81090",118563,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 95",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81091",118564,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 96",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81092",118565,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 97",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81093",118566,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, between rivers 8 and 9 (Pyramiden, west), locality 99",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81094",118567,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, west of river 9 (Pyramiden, east), locality 187",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81095",118568,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, west of river 9 (Pyramiden, east), locality 188",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81096",118569,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, west of river 9 (Pyramiden, east), locality 189",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81097",118570,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, west of river 9 (Pyramiden, east), locality 190",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81098",118571,"col","Wordie Creek",-21.57,74.02,"Cape Stosch, west of river 9 (Pyramiden, east), locality 220",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.64,43.93,"102",251.735,"induan",22671,5.2871,38.9051,49,1
+"81099",118572,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 221",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81100",118573,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 229",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81101",118574,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 231",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81102",118575,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 232",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81103",118576,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 233",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81104",118577,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 234,235",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81105",118578,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (upper), locality 98",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81106",118579,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (lower), locality 53",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81107",118580,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (lower), locality 54",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81108",118581,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (lower), locality 55",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81109",118582,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (lower), locality 57",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81110",118583,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (lower), locality 59",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81111",118584,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 223",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81112",118585,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 224",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81113",118586,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 225",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81114",118587,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 226-227",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81115",118588,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 228",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81116",118589,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 230",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81117",118590,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, upper), locality 240",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81118",118591,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, lower), locality 215",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81119",118592,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, lower), locality 216,263",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81120",118593,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, lower), locality 217",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81121",118594,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, lower), locality 236",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81122",118595,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, river 9 (Falkeryg, lower), locality 237",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81123",118596,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 245",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81124",118597,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 246",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81125",118598,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 247",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81126",118599,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 248",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81127",118600,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 249,250",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81128",118601,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 252",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81129",118602,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 253,256",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81130",118603,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 254",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81131",118604,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 257",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81132",118605,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 258",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81133",118606,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 259",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81134",118607,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft (river 9) center, locality 262",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81135",118608,"col","Wordie Creek",-21.59,74.02,"Cape Stosch, Rævekløft,  immediately west, locality 705",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22672,5.2871,38.9051,49,1
+"81136",118609,"col","Wordie Creek",-21.6,74.01,"Cape Stosch, Rævekløft,  immediately west, locality 706",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22673,5.2871,38.9051,49,1
+"81137",118610,"col","Wordie Creek",-21.6,74.01,"Cape Stosch, Rævekløft,  immediately west, locality 707",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22673,5.2871,38.9051,49,1
+"81138",118611,"col","Wordie Creek",-21.6,74.01,"Cape Stosch, Rævekløft,  immediately west, locality 708",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22673,5.2871,38.9051,49,1
+"81139",118612,"col","Wordie Creek",-21.59,74.01,"Cape Stosch, Rævekløft,  immediately east, locality 709",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22674,5.2871,38.9051,49,1
+"81140",118613,"col","Wordie Creek",-21.59,74.01,"Cape Stosch, Rævekløft,  immediately east, locality 710",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22674,5.2871,38.9051,49,1
+"81141",118614,"col","Wordie Creek",-21.59,74.01,"Cape Stosch, Rævekløft,  immediately east, locality 711",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.63,43.92,"102",251.735,"induan",22674,5.2871,38.9051,49,1
+"81142",118615,"col","Wordie Creek",-21.54,74.01,"Cape Stosch, river 11, locality 686",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.66,43.92,"102",251.735,"induan",22675,5.2871,38.9051,49,1
+"81143",118616,"col","Wordie Creek",-21.54,74.01,"Cape Stosch, river 11, locality 687",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.66,43.92,"102",251.735,"induan",22675,5.2871,38.9051,49,1
+"81144",118617,"col","Wordie Creek",-21.54,74.01,"Cape Stosch, river 11, locality 690,436",NA,"",13,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.66,43.92,"102",251.735,"induan",22675,5.2871,38.9051,49,1
+"81145",118618,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13 west 1, locality 491-492",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81146",118619,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13 west 1, locality 493",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81147",118620,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13 west 1, locality 494",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81148",118621,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 2, locality 454",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81149",118622,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 2, locality 455",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81150",118623,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 2, locality 456",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81151",118624,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 2, locality 457",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81152",118625,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 3, locality 663",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81153",118626,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 3, locality 664",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81154",118627,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 3, locality 665",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81155",118628,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 3, locality 666",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81156",118629,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 3, locality 668",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81157",118630,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 4, locality 669",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81158",118631,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 4, locality 670-671",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81159",118632,"col","Wordie Creek",-21.5,74,"Cape Stosch, river 13 west 4, locality 673",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22677,5.2871,38.9051,49,1
+"81160",118633,"col","Wordie Creek",-21.51,74,"Cape Stosch, river 13 west 5, locality 562",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22678,5.2871,38.9051,49,1
+"81161",118634,"col","Wordie Creek",-21.51,74,"Cape Stosch, river 13 west 5, locality 563",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22678,5.2871,38.9051,49,1
+"81162",118635,"col","Wordie Creek",-21.51,74,"Cape Stosch, river 13 west 5, locality 564-565",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.91,"102",251.735,"induan",22678,5.2871,38.9051,49,1
+"81163",118636,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 1, locality 519",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.68,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81164",118637,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 1, locality 520",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.68,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81165",118638,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 1, locality 521",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.68,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81166",118639,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 2, locality 533",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81167",118640,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 2, locality 534",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81168",118641,"col","Wordie Creek",-21.47,74,"Cape Stosch, river 13 east 2, locality 535",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22679,5.2871,38.9051,49,1
+"81169",118642,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 547",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81170",118643,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 549",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81171",118644,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 551",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81172",118645,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 552",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81173",118646,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 554",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81174",118647,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 555",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81175",118648,"col","Wordie Creek",-21.46,74,"Cape Stosch, river 13 east 3, locality 556",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22680,5.2871,38.9051,49,1
+"81176",118649,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Smalleryg) west, locality 445",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81177",118650,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Smalleryg) west, locality 475,476",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81178",118651,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Smalleryg) east, locality 397",NA,"",11,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81179",118652,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 367",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81180",118653,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 368",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81181",118654,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 370",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81182",118655,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 371",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81183",118656,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 372",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81184",118657,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 373",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81185",118658,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 374",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81186",118659,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 375",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81187",118660,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, a), locality 376",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81188",118661,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 675",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81189",118662,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 676",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81190",118663,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 678",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81191",118664,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 679",NA,"",9,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81192",118665,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 680",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81193",118666,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 681",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81194",118667,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 682",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81195",118668,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 683",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81196",118669,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 684",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81197",118670,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 693",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81198",118671,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, west, b), locality 694",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81199",118672,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 715,716",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81200",118673,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 717",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81201",118674,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 718",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81202",118675,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 719",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81203",118676,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 720",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81204",118677,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 721",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81205",118678,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, a), locality 723,724",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81206",118679,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, b), locality 656",NA,"",5,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81207",118680,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, b), locality 658",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81208",118681,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, b), locality 659,660",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81209",118682,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Kilen, east, b), locality 661",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81210",118683,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 413",NA,"",11,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81211",118684,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 730",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81212",118685,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 731",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81213",118686,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 732",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81214",118687,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 733",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81215",118688,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 734",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81216",118689,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 735",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81217",118690,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 736",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81218",118691,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 737",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81219",118692,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 284",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81220",118693,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 286",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81221",118694,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 287",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81222",118695,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 290",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81223",118696,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 291",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81224",118697,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 292",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81225",118698,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 294",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81226",118699,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 295",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81227",118700,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 297",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81228",118701,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 298",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81229",118702,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 309-310",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81230",118703,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, a), locality 391",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81231",118704,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, a), locality 392",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81232",118705,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, a), locality 393",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81233",118706,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, b), locality 384",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81234",118707,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, b), locality 385",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81235",118708,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, b), locality 386",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81236",118709,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, b), locality 387",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81237",118710,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Blokdal, b), locality 388",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81238",118711,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 356,355",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81239",118712,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 357",NA,"",7,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81240",118713,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 359",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81241",118714,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 360",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81242",118715,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 362",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81243",118716,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 363",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81244",118717,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 9), locality 364",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81245",118718,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau (Ridge 12), locality 643",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81246",118719,"col","Wordie Creek",-21.45,74,"Mount Steensby, Locality 815",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81247",118720,"col","Wordie Creek",-21.45,74,"Mount Steensby, Locality 816",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81248",118721,"col","Wordie Creek",-21.45,74,"Mount Steensby, Locality 813",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81249",118722,"col","Wordie Creek",-21.45,74,"Mount Steensby, Locality 808",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81250",118723,"col","Wordie Creek",-21.45,74,"Red River (river 22), locality 803",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81251",118724,"col","Wordie Creek",-21.45,74,"Red River (river 22), locality 807",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81252",118725,"col","Wordie Creek",-21.45,74,"West of River 23, locality 789",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81253",118726,"col","Wordie Creek",-21.45,74,"West of River 23, locality 792",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81254",118727,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 101",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81255",118728,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 119",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81256",118729,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 120",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81257",118730,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 121",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81258",118731,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 122",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81259",118732,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 123",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81260",118733,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 125",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81261",118734,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 126",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81262",118735,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 127,135",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81263",118736,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 128",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81264",118737,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 129",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81265",118738,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 130",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81266",118739,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 131",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81267",118740,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 132",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81268",118741,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 133",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81269",118742,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, section 7, locality 134",NA,"",2,"Dienerian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81270",118743,"col","Wordie Creek",-21,74.15,"Söderbergh Plateau, locality 780, Clavering Island",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.81,44.09,"102",251.735,"induan",22684,5.2871,38.9051,49,1
+"81271",118744,"col","Wordie Creek",-21,74.15,"Mount Brinkley and Söderberg plateau, localities 777, 778, 787, Clavering Island",NA,"",13,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.81,44.09,"102",251.735,"induan",22684,5.2871,38.9051,49,1
 "81272",118745,"col","Wordie Creek",-22.7,71.6,"Wegener Peninsula, locality 170",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.87,41.49,"102",251.735,"induan",22685,6.416,36.5699,49,1
 "81273",118746,"col","Wordie Creek",-22.7,71.6,"Wegener Peninsula, locality 171",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.87,41.49,"102",251.735,"induan",22685,6.416,36.5699,49,1
 "81274",118747,"col","Wordie Creek",-22.7,71.6,"Wegener Peninsula, locality 172",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.87,41.49,"102",251.735,"induan",22685,6.416,36.5699,49,1
 "81280",118753,"col","Wordie Creek",-22.75,71.69,"Paradigma Mountain, locality 27, Nathorst Fjord",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.82,41.57,"102",251.735,"induan",22686,6.416,36.5699,49,1
 "81281",118754,"col","Wordie Creek",-22.4,71.6,"Snelejedalen, southwest side, locality 56, Nathorst Fjord",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.99,41.51,"102",251.735,"induan",22687,6.416,36.5699,49,1
 "81282",118755,"col","Wordie Creek",-23.5,72.41,"Moon Valley, locality 599-600, central Traill Island",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.33,42.24,"102",251.735,"induan",22688,6.416,36.5699,49,1
+"81283",118756,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14 (Smalleryg) east, locality 399",NA,"",6,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81284",118757,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 701",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81285",118758,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 638",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81286",118759,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 582",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81287",118760,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 453",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81288",118761,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 560",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81289",118762,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 629",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81290",118763,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, river 1, locality 264",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81291",118764,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, river 1, locality 266",NA,"",3,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81292",118765,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, river 1, locality 604",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81293",118766,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, river 1, locality 606",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81294",118775,"col","Wordie Creek",-21.45,74,"Cape Stosch, locality 243 (Vishnuites beds)",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81295",118767,"col","Wordie Creek",-21.7,74.05,"Cape Stosch, river 1, locality 610",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22683,5.2871,38.9051,49,1
+"81296",118779,"col","Wordie Creek",-21.7,74.06,"Cape Stosch, locality 616",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.58,43.95,"102",251.735,"induan",22689,5.2871,38.9051,49,1
+"81297",118768,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 378",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81298",118769,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 300",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81299",118770,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 377",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81300",118771,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16 (Otocerasdal), locality 278",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81301",118772,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 452",NA,"",4,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81302",118773,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 575",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81303",118774,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 15, locality 726",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81304",118776,"col","Wordie Creek",-21.45,74,"Cape Stosch, locality 243 (Ophiceras beds)",NA,"",2,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81305",118777,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 648",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81306",118778,"col","Wordie Creek",-21.5,74.01,"Cape Stosch, river 10, locality 691",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22690,5.2871,38.9051,49,1
+"81307",118780,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 653",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81308",118781,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14, locality 447",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81309",118782,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 16, locality 404",NA,"",1,"Dienerian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
+"81310",118783,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 514",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81311",118784,"col","Wordie Creek",-21.49,74,"Cape Stosch, river 13, locality 583",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.67,43.92,"102",251.735,"induan",22676,5.2871,38.9051,49,1
+"81312",118785,"col","Wordie Creek",-21.45,74,"Cape Stosch, Stensiö Plateau, locality 634",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.69,43.91,"102",251.735,"induan",22682,5.2871,38.9051,49,1
+"81313",118786,"col","Wordie Creek",-21.63,74.04,"Cape Stosch, east of No 3 (Knolden), Locality 114",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.61,43.94,"102",251.735,"induan",22669,5.2871,38.9051,49,1
+"81314",118787,"col","Wordie Creek",-21.42,73.99,"Cape Stosch, river 14, locality 346",NA,"",1,"Griesbachian","",252.17,251.3,33700,"gp_mid",22.7,43.9,"102",251.735,"induan",22681,5.2871,38.9051,49,1
 "81531",119045,"col","Elikah",45.52,38.94,"Kuh-e Ali Bashi, Locality 1, Bed 22",NA,"",1,"Griesbachian","",252.17,251.3,13063,"gp_mid",56.84,7.79,"512",251.735,"induan",7392,52.9251,-2.4005,49,1
 "81753",119267,"col","Zalishan",102.95,33.95,"Saierlangshan Section, Bed 16-1",NA,"",7,"Induan","",252.17,251.2,11701,"gp_mid",106.8,16.9,"602",251.685,"induan",22805,106.0331,37.7161,49,1
+"81927",119473,"col","Yinkeng",119.71,31.08,"Meishan section Z, AEL882, Bed 27c",NA,"",2,"Griesbachian","",252.17,251.3,38340,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"81928",119474,"col","Yinkeng",119.71,31.08,"Meishan section Z, AEL882-4, Bed 27d",NA,"",1,"Griesbachian","",252.17,251.3,38340,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"81929",119475,"col","Yinkeng",119.71,31.08,"Meishan section Z, AEL883, Bed 28",NA,"",1,"Griesbachian","",252.17,251.3,38340,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
 "82345",119945,"col","Feixianguan",105.07,26.51,"Lanba Section Tc-2, Shuicheng County",NA,"",1,"Griesbachian","",252.17,251.3,31606,"gp_mid",105.15,-14.01,"611",251.735,"induan",22932,120.7931,10.5647,49,1
 "82351",119951,"col","Kayitou",104.5,25.94,"Laowuji Section PL27-34, Panxian County",NA,"",1,"Griesbachian","",252.17,251.3,31606,"gp_mid",104.7,-14.64,"611",251.735,"induan",21280,121.0554,8.0781,49,1
 "82595",120223,"col","",15.32,78.57,"Mt. Congress, lowest Triassic bone-bed",NA,"",5,"Dienerian","",252.17,251.3,38416,"gp_mid",22.27,54.9,"309",251.735,"induan",23002,0.6657,47.6976,49,1
+"82655",120308,"col","Candelaria",-118.06,38.14,"Candelaria JJ14-08",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82657",120309,"col","Candelaria",-118.06,38.14,"Candelaria JJ1-09",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82658",120310,"col","Candelaria",-118.06,38.14,"Candelaria JJ4-09",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82659",120311,"col","Candelaria",-118.06,38.14,"Candelaria JJ17-08",NA,"",2,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82660",120312,"col","Candelaria",-118.06,38.14,"Candelaria JJ15-08",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82661",120313,"col","Candelaria",-118.06,38.14,"Candelaria JJ6-09",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82662",120314,"col","Candelaria",-118.06,38.14,"Candelaria JJ5-09",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82663",120315,"col","Candelaria",-118.06,38.14,"Candelaria JJ4-10",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82664",120316,"col","Candelaria",-118.06,38.14,"Candelaria JJ3-10",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82665",120317,"col","Candelaria",-118.06,38.14,"Candelaria 98-COL-11",NA,"",1,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
+"82666",120318,"col","Candelaria",-118.06,38.14,"Candelaria, Claraia beds (Jenks coll)",NA,"",2,"Dienerian","",252.17,251.3,35617,"gp_mid",-38.09,23.91,"101",251.735,"induan",17130,-47.5219,15.4702,49,1
 "82900",120631,"col","Feixianguan",106.92,28.96,"Wansheng, Qijiang County",NA,"",1,"Griesbachian","",252.17,251.3,38564,"gp_mid",106.49,-11.37,"611",251.735,"induan",22481,123.8406,13.4231,49,1
 "82901",120632,"col","Feixianguan",106.45,30.13,"Yanjingqi, Hechuan County",NA,"",2,"Griesbachian","",252.17,251.3,38564,"gp_mid",105.92,-10.27,"611",251.735,"induan",23105,120.5265,13.051,49,1
 "82903",120634,"col","Feixianguan",103.42,29.58,"Longmendong, Feixianguan Formation member 4, Emei Mountain",NA,"",3,"Dienerian","",252.17,251.3,38564,"gp_mid",103.33,-11.12,"611",251.735,"induan",23106,120.5265,13.051,49,1
 "83040",120775,"col","Daye",113.9,29.7,"Guanyinshan section, lower Daye Formation, Puqi County",NA,"",1,"Griesbachian","",252.17,251.3,13437,"gp_mid",112.45,-9.56,"611",251.735,"induan",23145,127.1523,13.8574,49,1
 "83043",120778,"col","Daye",106.85,30.3,"Huayingshan Section, lower Daye Formation, Linshui County",NA,"",1,"Griesbachian","",252.17,251.3,13437,"gp_mid",106.24,-10.05,"611",251.735,"induan",23147,120.5265,13.051,49,1
+"83051",120786,"col","Yinkeng",119.71,31.08,"Meishan Section, lower Yinkeng Formation, Changxing County",NA,"",2,"Griesbachian","",252.17,251.3,13437,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
+"83146",120896,"col","",-22.42,74.2,"Cape Stosch on Hold-with-Hope",NA,"",10,"Griesbachian","",252.17,251.3,38540,"gp_mid",22.27,44.05,"102",251.735,"induan",23184,5.2871,38.9051,49,1
 "83173",120933,"col","Middle Sakamena",45.37,-21.59,"Sakeny, District Beroroha",NA,"",1,"Dienerian","",252.17,251.3,38627,"gp_mid",27.06,-39.12,"702",251.735,"induan",23200,32.1935,-46.7442,49,1
 "83343",121128,"col","Majiaoling",107.55,23.5,"Taiping, Bed 1, Pingguo County",NA,"",8,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,"induan",23251,124.7747,5.9798,49,1
 "83344",121129,"col","Majiaoling",107.55,23.5,"Taiping, Bed 2 (lower), Pingguo County",NA,"",13,"Griesbachian","",252.17,251.3,33769,"gp_mid",107.88,-16.69,"611",251.735,"induan",23251,124.7747,5.9798,49,1
@@ -746,12 +1152,15 @@
 "83357",121142,"col","Majiaoling",107.02,23.47,"Zuodeng, Majiaoling Fm, Tiandong County",NA,"",2,"Induan","",252.17,251.2,33769,"gp_mid",107.38,-16.79,"611",251.685,"induan",23253,124.7747,5.9798,49,1
 "83512",121324,"col","Feixianguan",105.3,26.1,"Lojiayakou KL004a, Langdai County",NA,"",5,"Griesbachian","",252.17,251.3,26661,"gp_mid",105.41,-14.39,"611",251.735,"induan",23285,121.0554,8.0781,49,1
 "83513",121325,"col","Yelang",105.25,27.3,"Yanzhikou KY123b, Bijie County",NA,"",4,"Griesbachian","",252.17,251.3,26661,"gp_mid",105.22,-13.21,"611",251.735,"induan",23286,120.7931,10.5647,49,1
+"84088",122049,"col","Wordie Creek",-22.42,74.2,"Neviatiakdal, Ostlokaliteten, Kap Stosch",NA,"",1,"Griesbachian","",252.17,251.3,38846,"gp_mid",22.27,44.05,"102",251.735,"induan",23184,5.2871,38.9051,49,1
+"84089",122050,"col","Wordie Creek",-22.42,74.2,"Neviatiakdal, Vestlokaliteten, Kap Stosch",NA,"",1,"Griesbachian","",252.17,251.3,38846,"gp_mid",22.27,44.05,"102",251.735,"induan",23184,5.2871,38.9051,49,1
 "85228",123650,"col","Feixianguan",104.66,28.06,"Muai, Junlian County",NA,"",1,"Induan","",252.17,251.2,39776,"gp_mid",104.59,-12.51,"611",251.685,"induan",23890,120.7931,10.5647,49,1
 "85296",123717,"col","Feixianguan",106.45,30.13,"Yanjingxi, Feixianguan Fm, Hechuan County",NA,"",3,"Induan","",252.17,251.2,39785,"gp_mid",105.92,-10.27,"611",251.685,"induan",23105,120.5265,13.051,49,1
 "85299",123720,"col","",104.72,28.44,"Gongxian outskirts",NA,"",1,"Griesbachian","",252.17,251.3,39785,"gp_mid",104.6,-12.13,"611",251.735,"induan",23926,120.7931,10.5647,49,1
 "85300",123721,"col","",104.52,28.43,"Xiqueqi, Gaoxian County",NA,"",1,"Griesbachian","",252.17,251.3,39785,"gp_mid",104.43,-12.16,"611",251.735,"induan",23927,120.7931,10.5647,49,1
 "85302",123723,"col","Feixianguan",104.72,28.44,"Gongxian outskirts, Feixianguan Fm",NA,"",2,"Induan","",252.17,251.2,39785,"gp_mid",104.6,-12.13,"611",251.685,"induan",23926,120.7931,10.5647,49,1
 "85303",123724,"col","Feixianguan",104.23,28.11,"Yanjin suburbs, Feixianguan Fm",NA,"",1,"Induan","",252.17,251.2,39785,"gp_mid",104.2,-12.51,"611",251.685,"induan",23928,120.7931,10.5647,49,1
+"86799",125731,"col","Yinkeng",119.71,31.08,"Meishan quarry D, bed 27",NA,"",1,"Griesbachian","",252.17,251.3,27897,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
 "87744",126964,"col","Feixianguan",109.5,30.3,"Enshi County, Feixianguan Fm member 1",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",108.54,-9.71,"611",251.735,"induan",24523,123.8406,13.4231,49,1
 "87745",126966,"col","Feixianguan",105.32,28.31,"Gusong, Feixianguan Fm member 2, Xuyong County",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",105.16,-12.2,"611",251.735,"induan",19394,120.7931,10.5647,49,1
 "87746",126967,"col","Ximatang",104.2,24,"Qiubei County, lower Ximatang Formation",NA,"",1,"Griesbachian","",252.17,251.3,35163,"gp_mid",104.64,-16.6,"611",251.735,"induan",17550,121.0554,8.0781,49,1
@@ -768,6 +1177,10 @@
 "88488",128064,"col","",157.3,64.5,"Russkiy Island, Primorye",NA,"",1,"Induan","",252.17,251.2,41832,"gp_mid",-119.98,84.76,"405",251.685,"induan",24718,-93.4748,71.7733,49,1
 "88538",128144,"col","",157.3,64.5,"Russkiy Island, Proptychites zone, Primorye (IGiG coll)",NA,"",1,"Dienerian","",252.17,251.3,41832,"gp_mid",-119.98,84.76,"405",251.735,"induan",24718,-93.4748,71.7733,49,1
 "88570",128176,"col","Werfen",18.45,43.83,"Trebevic hillside, near Sarajevo",NA,"",1,"Induan","",252.17,251.2,41867,"gp_mid",35.99,7.39,"307",251.685,"induan",24753,21.6388,12.4474,49,1
+"90087",130539,"col","Wordie Creek",-21.37,73.97,"Cape Stosch, Gaffeldol",NA,"",1,"Griesbachian","",252.17,251.3,38264,"gp_mid",22.73,43.89,"102",251.735,"induan",25081,5.2871,38.9051,49,1
+"90088",130540,"col","Wordie Creek",-21.45,73.89,"Cape Stosch, Spath Plateau, River 13",NA,"",1,"Griesbachian","",252.17,251.3,38264,"gp_mid",22.72,43.8,"102",251.735,"induan",25082,5.2871,38.9051,49,1
+"90089",130543,"col","Wordie Creek",-21.45,73.89,"Cape Stosch, Spath Plateau",NA,"",1,"Griesbachian","",252.17,251.3,38264,"gp_mid",22.72,43.8,"102",251.735,"induan",25082,5.2871,38.9051,49,1
+"90090",130541,"col","Wordie Creek",-25.47,73.25,"Kiledalens E. Vaeg",NA,"",1,"Griesbachian","",252.17,251.3,38264,"gp_mid",21.36,42.96,"102",251.735,"induan",25083,5.0933,36.1994,49,1
 "90091",130542,"col","",48.97,-13.45,"Ankitohazo Basin",NA,"",1,"Dienerian","",252.17,251.3,38264,"gp_mid",37.2,-35.49,"702",251.735,"induan",25084,38.8469,-37.335,49,1
 "91673",132471,"col","Elikah",45.52,38.98,"Araxes River canyon, bed 15",NA,"",1,"Griesbachian","",252.17,251.3,42668,"gp_mid",56.85,7.83,"512",251.735,"induan",25424,52.9251,-2.4005,49,1
 "91706",132525,"col","Daye",106.66,25.57,"Dajiang 05PAJ30, Luodian",NA,"",3,"Griesbachian","",252.17,251.3,42695,"gp_mid",106.74,-14.77,"611",251.735,"induan",25431,121.0554,8.0781,49,1
@@ -792,6 +1205,7 @@
 "94471",136053,"col","",139.14,63.1,"Setorym Creek, Induan, Vostochnaya Khandyga River Basin",NA,"",1,"Induan","",252.17,251.2,43132,"gp_mid",89.35,80.31,"401",251.685,"induan",19955,-32.2167,82.2824,49,1
 "94781",136568,"col","Mianwali",73.87,33.55,"Chideru, Salt Range",NA,"",1,"Induan","",252.17,251.2,43683,"gp_mid",54.07,-35.82,"501",251.685,"induan",26464,66.1305,-31.4624,49,1
 "94965",136858,"col","Daye",110.11,29.58,"Rencunping, unit 28",NA,"",1,"Griesbachian","",252.17,251.3,43754,"gp_mid",109.19,-10.32,"611",251.735,"induan",26518,123.8406,13.4231,49,1
+"94979",136872,"col","Yinkeng",117.85,31.64,"Majiashan, unit 20",NA,"",3,"Griesbachian","",252.17,251.3,43754,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
 "95536",137502,"col","Grayling",-124.49,58.73,"GSC 42372, Dunedin River",NA,"",6,"Dienerian","",252.17,251.3,11541,"gp_mid",-30.49,43.97,"101",251.735,"induan",26690,-40.9141,35.2031,49,1
 "95680",137677,"col","Toad",-123.17,56.5,"GSC 46470, Needham Creek",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",-31.34,41.72,"101",251.735,"induan",26730,-40.9141,35.2031,49,1
 "95785",137782,"col","Blind Fiord",-95.37,80.54,"GSC 47551, Arthaber Creek, Axel Heiberg Island",NA,"",2,"Dienerian","",252.17,251.3,11541,"gp_mid",5.71,54.77,"106",251.735,"induan",7092,-10.0509,47.1879,49,1
@@ -809,7 +1223,24 @@
 "95955",137957,"col","Blind Fiord",-88.45,80.99,"GSC 51664, Otto Fiord, Svartefjeld Peninsula, Ellesmere Island",NA,"",1,"Griesbachian","",252.17,251.3,11541,"gp_mid",7.61,54.31,"106",251.735,"induan",18958,-9.3157,46.7728,49,1
 "95994",137996,"col","Blind Fiord",-94.47,80.49,"GSC 64725, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Dienerian","",252.17,251.3,11541,"gp_mid",5.81,54.63,"106",251.735,"induan",7090,-10.0509,47.1879,49,1
 "96521",138560,"col","Daye",111.06,29.45,"Changtanhe section",NA,"",2,"Griesbachian","",252.17,251.3,44367,"gp_mid",110.04,-10.3,"611",251.735,"induan",26956,127.1523,13.8574,49,1
+"96835",138894,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 1",NA,"",4,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96836",138895,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 2",NA,"",2,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96837",138896,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 3",NA,"",3,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96838",138897,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 4",NA,"",5,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96839",138898,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 5",NA,"",5,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96840",138899,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 6",NA,"",5,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96841",138900,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 7",NA,"",5,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96842",138901,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 8",NA,"",7,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
+"96843",138902,"col","Köveskal Dolomite",17.61,46.88,"Köveskal Borehole Kk-9, Sample 9",NA,"",8,"Induan","",252.17,251.2,26197,"gp_mid",38.41,9.38,"308",251.685,"induan",27013,28.5274,27.1343,49,1
 "97000",139060,"col","Lower Ceratite Limestone",71.79,32.55,"Chiddru Chi61, Salt Range",NA,"Chhidru",2,"Dienerian","",252.17,251.3,44696,"gp_mid",52.19,-34.52,"501",251.735,"induan",27069,70.5574,-24.8544,49,1
+"97959",140069,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN61",NA,"",15,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97960",140070,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN62",NA,"",20,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97961",140071,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN63",NA,"",9,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97962",140072,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN64",NA,"",5,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97963",140073,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN65",NA,"",8,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97964",140074,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN66",NA,"",1,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97965",140075,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN67",NA,"",12,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
+"97966",140076,"col","Gerennavar",20.47,48.1,"Bálvany North 08BAN69",NA,"",5,"Griesbachian","",252.17,251.3,45210,"gp_mid",40.44,8.28,"308",251.735,"induan",27266,28.5274,27.1343,49,1
 "98179",140340,"col","Yelang",105.35,26.13,"Liuzhai section, bed 10",NA,"",1,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,"induan",18316,121.0554,8.0781,49,1
 "98180",204565,"col","Yelang",105.35,26.13,"Liuzhai section, bed 14",NA,"",1,"Griesbachian","",252.17,251.3,70166,"gp_mid",105.45,-14.36,"611",251.735,"induan",18316,121.0554,8.0781,49,1
 "98424",140685,"col","Lower Ceratite Limestone",71.79,32.55,"Chiddru Chi51, Salt Range",NA,"Chhidru",2,"Dienerian","",252.17,251.3,44696,"gp_mid",52.19,-34.52,"501",251.735,"induan",27069,70.5574,-24.8544,49,1
@@ -850,7 +1281,19 @@
 "101022",143845,"col","Lower Ceratite Limestone",72,32.5,"Nanga, lowest Lower Ceratite Limestone, Salt Range",NA,"",2,"Dienerian","",252.17,251.3,33112,"gp_mid",52.21,-34.71,"501",251.735,"induan",27662,70.5574,-24.8544,49,1
 "101026",143849,"col","Lower Ceratite Limestone",72.2,32.44,"Khoora, middle region of Lower Ceratite Limestone, Salt Range",NA,"",1,"Dienerian","",252.17,251.3,33112,"gp_mid",52.2,-34.89,"501",251.735,"induan",27659,70.5574,-24.8544,49,1
 "101027",143850,"col","Lower Ceratite Limestone",72.2,32.44,"West of Khoora, lower region of Lower Ceratite Limestone, Salt Range",NA,"",1,"Dienerian","",252.17,251.3,33112,"gp_mid",52.2,-34.89,"501",251.735,"induan",27659,70.5574,-24.8544,49,1
+"101047",143870,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Ridge VIII-IX, Myalina kochi horizon",NA,"Kap Stosch",7,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101048",143871,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Spath Plateau, Stegocephalian Ridge",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101049",143872,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Stensiö Plateau, Ridge IX",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101050",143873,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Stensiö Plateau, Ridge IX, lower Proptychites Beds",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101051",143874,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Stensiö Plateau, Ridge IX, upper Proptychites Beds",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101052",143875,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Spath Plateau, Neviatiak Valley",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101053",143876,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Ridge III, Myalina kochi horizon",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101054",143877,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Spath Plateau, Smalleryg",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101055",143878,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, Stensiö Plateau, Ridge VIII, upper Proptychites Beds",NA,"Kap Stosch",1,"Induan","",252.17,251.2,46549,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101056",143882,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, West of River 7",NA,"Kap Stosch",1,"Induan","",252.17,251.2,34248,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
+"101057",143883,"col","Wordy Creek",-21.69,74.03,"Cape Stosch, River 13, northern slopes Spath Plateau",NA,"Kap Stosch",1,"Induan","",252.17,251.2,34248,"gp_mid",22.59,43.93,"102",251.685,"induan",27677,5.2871,38.9051,49,1
 "102400",146272,"col","",105.48,26.48,"Chihchinghsien",NA,"",1,"Griesbachian","",252.17,251.3,26094,"gp_mid",105.53,-14,"611",251.735,"induan",27964,120.7931,10.5647,49,1
+"102498",146383,"col","Yinkeng",119.71,31.08,"Meishan D, Changxing County (ZMNH coll)",NA,"",1,"Griesbachian","",252.17,251.3,47298,"gp_mid",117.01,-6.99,"611",251.735,"induan",5200,133.7688,14.9063,49,1
 "104467",148515,"col","Feixianguan",107.82,32.94,"Shaofanggou section, Xixiang County, bed 8",NA,"",2,"Griesbachian","",252.17,251.3,47676,"gp_mid",106.69,-7.32,"611",251.735,"induan",28154,123.5178,15.9035,49,1
 "104473",148523,"col","Daye",106.85,30.3,"Huaying Section, bed 48, Linshui",NA,"",6,"Dienerian","",252.17,251.3,36523,"gp_mid",106.24,-10.05,"611",251.735,"induan",23147,120.5265,13.051,49,1
 "104474",148524,"col","Daye",106.85,30.3,"Huaying Section, bed 47, Linshui",NA,"",2,"Dienerian","",252.17,251.3,36523,"gp_mid",106.24,-10.05,"611",251.735,"induan",23147,120.5265,13.051,49,1
@@ -911,6 +1354,12 @@
 "105039",149150,"col","Yelang",106.4,29.49,"Liangfengya, beds 25-24, Zhongliangshan",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",105.97,-10.91,"611",251.735,"induan",22483,120.5265,13.051,49,1
 "105040",149151,"col","Yelang",106.4,29.49,"Liangfengya, bed 23, Zhongliangshan",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",105.97,-10.91,"611",251.735,"induan",22483,120.5265,13.051,49,1
 "105054",149171,"col","",49.34,-12.47,"Ambarakaraka and Andogozobé (BMNH collection)",NA,"",4,"Dienerian","",252.17,251.3,47759,"gp_mid",38.3,-34.97,"702",251.735,"induan",28255,38.8469,-37.335,49,1
+"105071",149192,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 23, Caoxian",NA,"",4,"Dienerian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"105072",149193,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 20, Caoxian",NA,"",1,"Griesbachian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"105073",149194,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 19, Caoxian",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"105074",149195,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 18, Caoxian",NA,"",1,"Griesbachian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"105075",149196,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 17, Caoxian",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
+"105076",149197,"col","Yinkeng",117.85,31.64,"Majiashan section, bed 16, Caoxian",NA,"",6,"Griesbachian","",252.17,251.3,36523,"gp_mid",114.2,4.66,"604",251.735,"induan",21328,119.9202,30.5591,49,1
 "105080",149201,"col","Majiaoling",109.28,23.6,"Paoshui Section, bed 33, Laibin County",NA,"",2,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,"induan",28258,124.7747,5.9798,49,1
 "105081",149202,"col","Majiaoling",109.28,23.6,"Paoshui Section, bed 32, Laibin County",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,"induan",28258,124.7747,5.9798,49,1
 "105082",149203,"col","Majiaoling",109.28,23.6,"Paoshui Section, bed 31, Laibin County",NA,"",3,"Griesbachian","",252.17,251.3,36523,"gp_mid",109.49,-16.34,"611",251.735,"induan",28258,124.7747,5.9798,49,1
@@ -988,10 +1437,16 @@
 "106666",151147,"col","Kayitou",104.42,25.66,"Huopu coal mine section, bed 7, Panxian County",NA,"",9,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,"induan",28622,121.0554,8.0781,49,1
 "106667",151148,"col","Kayitou",104.42,25.66,"Huopu coal mine section, bed 6, Panxian County",NA,"",5,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,"induan",28622,121.0554,8.0781,49,1
 "106668",151149,"col","Kayitou",104.42,25.66,"Huopu coal mine section, bed 5, Panxian County",NA,"",4,"Griesbachian","",252.17,251.3,36523,"gp_mid",104.65,-14.93,"611",251.735,"induan",28622,121.0554,8.0781,49,1
+"108159",153362,"col","",-21.72,74.06,"Kap Stosch area, Fish-zone II",NA,"",6,"Griesbachian","",252.17,251.3,49394,"gp_mid",22.57,43.95,"102",251.735,"induan",29025,5.2871,38.9051,49,1
+"108162",153364,"col","",-21.72,74.06,"Kap Stosch area, Fish-zone V",NA,"",6,"Griesbachian","",252.17,251.3,49394,"gp_mid",22.57,43.95,"102",251.735,"induan",29025,5.2871,38.9051,49,1
+"108163",153366,"col","",-21.72,74.06,"Kap Stosch area, Fish-zone IV",NA,"",4,"Griesbachian","",252.17,251.3,49394,"gp_mid",22.57,43.95,"102",251.735,"induan",29025,5.2871,38.9051,49,1
+"108164",153365,"col","",-21.72,74.06,"Kap Stosch area, Fish-zone III",NA,"",4,"Griesbachian","",252.17,251.3,49394,"gp_mid",22.57,43.95,"102",251.735,"induan",29025,5.2871,38.9051,49,1
+"108165",153367,"col","",-21.72,74.06,"Kap Stosch area, Fish-zone VI",NA,"",1,"Griesbachian","",252.17,251.3,49394,"gp_mid",22.57,43.95,"102",251.735,"induan",29025,5.2871,38.9051,49,1
 "108170",153373,"col","",48.9,-13.5,"Ambarakaraka, Ankitohazo basin (BMNH)",NA,"",16,"Dienerian","",252.17,251.3,49405,"gp_mid",37.09,-35.48,"702",251.735,"induan",29027,38.8469,-37.335,49,1
 "108171",153374,"col","",48.9,-13.5,"Ambarakaraka, Ankitohazo basin",NA,"",6,"Dienerian","",252.17,251.3,49405,"gp_mid",37.09,-35.48,"702",251.735,"induan",29027,38.8469,-37.335,49,1
 "108176",153378,"col","",48.9,-13.5,"Ambarakaraka, Ankitohazo basin (MP)",NA,"",13,"Dienerian","",252.17,251.3,49405,"gp_mid",37.09,-35.48,"702",251.735,"induan",29027,38.8469,-37.335,49,1
 "108208",153411,"col","Vardebukta",16.21,77.03,"Hornsund",NA,"",4,"Dienerian","",252.17,251.3,49435,"gp_mid",23.53,53.54,"309",251.735,"induan",22571,0.6657,47.6976,49,1
+"108349",153655,"col","",-24.55,71.23,"Gurreholm Bjaerg, NW Jameson land",NA,"",2,"Griesbachian","",252.17,251.3,49725,"gp_mid",22.18,41.02,"102",251.735,"induan",29072,6.0123,33.8154,49,1
 "108369",153677,"col","",49.05,-13.32,"Ambodipo (MNHN fish)",NA,"",2,"Dienerian","",252.17,251.3,49727,"gp_mid",37.37,-35.44,"702",251.735,"induan",29080,38.8469,-37.335,49,1
 "108372",153680,"col","",48.98,-13.26,"Markubai (MNHN fish)",NA,"",1,"Dienerian","",252.17,251.3,49727,"gp_mid",37.35,-35.35,"702",251.735,"induan",29083,38.8469,-37.335,49,1
 "108375",153682,"col","",48.86,-13.36,"Ambarakaraka, near the Ifasy river (MHNH fish)",NA,"",1,"Dienerian","",252.17,251.3,49727,"gp_mid",37.17,-35.35,"702",251.735,"induan",29086,38.8469,-37.335,49,1
@@ -1014,6 +1469,7 @@
 "110764",157352,"col","Feixianguan",104.69,24.94,"Xiongwu section",NA,"",8,"Griesbachian","",252.17,251.3,51768,"gp_mid",104.98,-15.61,"611",251.735,"induan",29637,121.0554,8.0781,49,1
 "113400",161082,"col","Werfen",11.64,46.38,"Malga Panna, Moena, Val di Fassa",NA,"",1,"Griesbachian","",252.17,251.3,52500,"gp_mid",36.09,12.82,"307",251.735,"induan",30444,24.0494,24.0758,49,1
 "113401",161083,"col","Werfen",11.46,46.29,"Cavalese, Fiemme Valley",NA,"",2,"Dienerian","",252.17,251.3,52500,"gp_mid",35.96,12.9,"307",251.735,"induan",30445,24.0494,24.0758,49,1
+"113402",161084,"col","Aracs",17.88,46.97,"Balatonfüred",NA,"",1,"Dienerian","",252.17,251.3,52500,"gp_mid",38.57,9.26,"308",251.735,"induan",30446,28.5274,27.1343,49,1
 "115719",165006,"col","Werfen",11.75,46.65,"AG-1, Aferer Geisler section",NA,"",5,"Griesbachian","",252.17,251.3,53993,"gp_mid",36.38,12.87,"307",251.735,"induan",30948,24.0494,24.0758,49,1
 "115720",165007,"col","Werfen",11.75,46.65,"AG-2, Aferer Geisler section",NA,"",7,"Griesbachian","",252.17,251.3,53993,"gp_mid",36.38,12.87,"307",251.735,"induan",30948,24.0494,24.0758,49,1
 "115721",165008,"col","Werfen",11.75,46.65,"AG-3, Aferer Geisler section",NA,"",5,"Griesbachian","",252.17,251.3,53993,"gp_mid",36.38,12.87,"307",251.735,"induan",30948,24.0494,24.0758,49,1
@@ -1197,6 +1653,10 @@
 "131935",192165,"col","Vetlugian Series",52.24,52.48,"Shulayevka, Samara River Basin (Locality 140)",NA,"Shulaevka I",2,"Induan","",252.17,251.2,30410,"gp_mid",58.04,38.42,"302",251.685,"induan",34718,42.6869,45.8978,49,1
 "132271",192907,"col","Ceratite Marls",71.8,32.66,"Nammal Nala NAM101d, Salt Range",NA,"",9,"Dienerian","",252.17,251.3,65498,"gp_mid",52.32,-34.49,"501",251.735,"induan",34794,70.5574,-24.8544,49,1
 "133322",195796,"col","Kamennyi Yar",51.7,52.81,"Kamennyi Dol gully (lower)",NA,"",1,"Induan","",252.17,251.2,66639,"gp_mid",57.47,38.54,"302",251.685,"induan",35044,42.6869,45.8978,49,1
+"133331",195805,"col","Sukhorechka",54.5,51.87,"Obshchii Syrt Highland",NA,"Obschy Syrt",8,"Induan","",252.17,251.2,66659,"gp_mid",59.96,38.58,"302",251.685,"induan",35047,44.5676,47.7835,49,1
+"133337",195811,"col","Kopanskaya",55.91,52.16,"Astrakhanovka I (Locality 12)",NA,"",2,"Induan","",252.17,251.2,28844,"gp_mid",60.73,39.27,"302",251.685,"induan",35049,44.5676,47.7835,49,1
+"133346",195820,"col","Kopanskaya",55.79,51.71,"Gryaznushka (Locality 25)",NA,"",1,"Induan","",252.17,251.2,28844,"gp_mid",60.95,38.85,"302",251.685,"induan",35051,44.5676,47.7835,49,1
+"133350",195824,"col","Kopanskaya",54.66,51.4,"Nikolskoe (Locality 39) ",NA,"",2,"Induan","",252.17,251.2,28844,"gp_mid",60.37,38.22,"302",251.685,"induan",35053,44.5676,47.7835,49,1
 "133360",195834,"col","Kopanskaya",54.18,51.85,"Perevolotskoe (Locality 53)",NA,"",1,"Induan","",252.17,251.2,28844,"gp_mid",59.75,38.47,"302",251.685,"induan",35059,42.6869,45.8978,49,1
 "133375",195852,"col","Kopanskaya",53.08,52.3,"Kamenny Yar III (lower) (Locality 87)",NA,"",2,"Induan","",252.17,251.2,28844,"gp_mid",58.72,38.52,"302",251.685,"induan",35068,42.6869,45.8978,49,1
 "133386",195867,"col","Kopanskaya",52.96,52.32,"Fedorovka II (lower) (Locality 94)",NA,"",2,"Induan","",252.17,251.2,28844,"gp_mid",58.62,38.5,"302",251.685,"induan",35070,42.6869,45.8978,49,1
@@ -1222,6 +1682,8 @@
 "133521",196053,"col","Kopanskaya",52.08,52.86,"Vetlyanovsky I (lower) (Locality 175)",NA,"",3,"Induan","",252.17,251.2,28844,"gp_mid",57.69,38.7,"302",251.685,"induan",35115,42.6869,45.8978,49,1
 "133549",196088,"col","Kopanskaya",50.43,52.85,"Yablonovo-Vragskoe (Locality 202)",NA,"",2,"Induan","",252.17,251.2,28844,"gp_mid",56.59,38.21,"302",251.685,"induan",35119,40.7938,44.0492,49,1
 "133553",196092,"col","Kopanskaya",50.48,52.45,"Bolsheglushitzkoe II (Locality 206)",NA,"",1,"Induan","",252.17,251.2,28844,"gp_mid",56.87,37.87,"302",251.685,"induan",35122,40.7938,44.0492,49,1
+"134047",196948,"col","Kap Stosch",-21.5,73.8,"Blue River, East Greenland, top of the section",NA,"",7,"Dienerian","",252.17,251.3,67083,"gp_mid",22.73,43.71,"102",251.735,"induan",35214,5.2871,38.9051,49,1
+"134048",196949,"col","Kap Stosch",-21.5,73.8,"Blue River, East Greenland, bioherm",NA,"Reef 4235",1,"Dienerian","",252.17,251.3,67083,"gp_mid",22.73,43.71,"102",251.735,"induan",35214,5.2871,38.9051,49,1
 "134106",197045,"col","Dalong",105.92,26.38,"Xinmin section, bed 48 (upper)",NA,"",2,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,"induan",35229,120.7931,10.5647,49,1
 "134107",197046,"col","Daye",105.92,26.38,"Xinmin section, bed 51",NA,"",1,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,"induan",35229,120.7931,10.5647,49,1
 "134108",197047,"col","Daye",105.92,26.38,"Xinmin section, bed 55",NA,"",1,"Griesbachian","",252.17,251.3,67107,"gp_mid",105.94,-14.05,"611",251.735,"induan",35229,120.7931,10.5647,49,1
@@ -1309,6 +1771,7 @@
 "135110",198889,"col","Daye",106.87,26.51,"GJ-35, Gujiao section",NA,"",6,"Griesbachian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1
 "135111",198890,"col","Daye",106.87,26.51,"GJ-40, Gujiao section",NA,"",7,"Dienerian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1
 "135112",198891,"col","Daye",106.87,26.51,"GJ-41, Gujiao section",NA,"",3,"Dienerian","",252.17,251.3,67748,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1
+"135985",200962,"col","Purple Claystones",102.13,19.88,"Laosuchus-type locality",NA,"Ban Houaytan District, right bank of the Mekong River",1,"Induan","",252.17,251.2,68866,"gp_mid",100.3,-21.37,"615",251.685,"induan",35685,111.8611,-2.618,49,1
 "136003",200981,"col","Daye",106.66,25.57,"Dajiang-1",NA,"",1,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.74,-14.77,"611",251.735,"induan",25431,121.0554,8.0781,49,1
 "136004",200982,"col","Daye",106.65,25.59,"Rongbao-1",NA,"",14,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.73,-14.75,"611",251.735,"induan",35689,121.0554,8.0781,49,1
 "136005",200983,"col","Daye",106.76,25.58,"Youjianzhai-1",NA,"",8,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.74,"611",251.735,"induan",35690,121.0554,8.0781,49,1
@@ -1342,6 +1805,7 @@
 "136033",201011,"col","Daye",106.67,25.54,"Dawen-5",NA,"",2,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "136034",201012,"col","Daye",106.67,25.54,"Dawen-6",NA,"",11,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.75,-14.79,"611",251.735,"induan",21128,121.0554,8.0781,49,1
 "136035",201013,"col","Daye",106.76,25.57,"Dongjiawen-8",NA,"",28,"Griesbachian","",252.17,251.3,67174,"gp_mid",106.83,-14.75,"611",251.735,"induan",35691,121.0554,8.0781,49,1
+"136298",201714,"col","Yinkeng",119.99,30.92,"Huangzishan",NA,"",6,"Induan","",252.17,251.2,69021,"gp_mid",117.29,-7.08,"611",251.685,"induan",5882,133.7688,14.9063,49,1
 "137474",203159,"col","Servino",9.42,45.98,"Valsassina, Cügnoletta Valley",NA,"",6,"Induan","",252.17,251.2,69656,"gp_mid",35.08,14.08,"307",251.685,"induan",35971,18.2412,12.3332,49,1
 "137482",203170,"col","Dinwoody",-110.81,42.85,"McDougal Pass, Salt River Range",NA,"MacDougal Pass",1,"Induan","",252.17,251.2,69681,"gp_mid",-30.42,25.97,"101",251.685,"induan",35976,-42.4983,18.6608,49,1
 "137483",203171,"col","Dinwoody",-111.7,42.91,"'Post-Claraia beds' near Henry",NA,"",1,"Induan","",252.17,251.2,69681,"gp_mid",-31.06,26.28,"101",251.685,"induan",19513,-42.4983,18.6608,49,1
@@ -1349,6 +1813,7 @@
 "137485",203173,"col","Dinwoody",-110.93,42.08,"'Lingula beds' near Cokeville",NA,"Stauffer Chemical Company phosphate mine",1,"Induan","",252.17,251.2,69681,"gp_mid",-30.85,25.3,"101",251.685,"induan",35978,-42.4983,18.6608,49,1
 "137486",203174,"col","Woodside/Dinwoody",-111.69,42.92,"Bear Creek, Reservoir Mountain",NA,"near Henry",1,"Induan","",252.17,251.2,69681,"gp_mid",-31.05,26.29,"101",251.685,"induan",35979,-42.4983,18.6608,49,1
 "137487",203175,"col","Dinwoody",-111.25,42.32,"Montpelier Canyon, Lingula zone",NA,"",2,"Griesbachian","",252.17,251.3,69681,"gp_mid",-30.99,25.61,"101",251.735,"induan",19514,-42.4983,18.6608,49,1
+"137529",203221,"col","Candelaria",-118.03,38.13,"Candelaria Hills, eastern portion",NA,"",4,"Dienerian","",252.17,251.3,69701,"gp_mid",-38.06,23.89,"101",251.735,"induan",35995,-47.5219,15.4702,49,1
 "138402",204768,"col","Daye",106.87,26.51,"GJ-11, Gujiao section",NA,"",2,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1
 "138403",204769,"col","Daye",106.87,26.51,"GJ-16, Gujiao section",NA,"",5,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1
 "138404",204770,"col","Daye",106.87,26.51,"GJ-17, Gujiao section",NA,"",6,"Griesbachian","",252.17,251.3,70290,"gp_mid",106.8,-13.8,"611",251.735,"induan",35477,120.7931,10.5647,49,1

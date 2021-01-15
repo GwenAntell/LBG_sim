@@ -1,10 +1,12 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"103",1295,"col","",-89.87,37,"Jablonski & Raup Locality 3",NA,"",60,"Maastrichtian","",72.1,66,40,"gp_mid",-53.58,43.52,"101",69.05,"maastrichtian",29,-65.3963,40.5296,20,1
 "104",1296,"col","",-95.98,33.1,"Jablonski & Raup Locality 4",NA,"",73,"Maastrichtian","",72.1,66,40,"gp_mid",-61.92,41.89,"101",69.05,"maastrichtian",30,-74.489,36.9958,20,1
 "105",1297,"col","",-96.72,31.4,"Jablonski & Raup Locality 6",NA,"",61,"Maastrichtian","",72.1,66,40,"gp_mid",-63.52,40.53,"101",69.05,"maastrichtian",31,-74.489,36.9958,20,1
 "106",1298,"col","",-97.53,30.25,"Jablonski & Raup Locality 7",NA,"",66,"Maastrichtian","",72.1,66,40,"gp_mid",-64.91,39.71,"101",69.05,"maastrichtian",32,-75.1175,34.5484,20,1
 "107",1299,"col","",-97.83,29.82,"Jablonski & Raup Locality 8",NA,"",63,"Maastrichtian","",72.1,66,40,"gp_mid",-65.43,39.4,"101",69.05,"maastrichtian",33,-75.1175,34.5484,20,1
 "108",1300,"col","",-99.05,29.27,"Jablonski & Raup Locality 9",NA,"",59,"Maastrichtian","",72.1,66,40,"gp_mid",-66.96,39.25,"101",69.05,"maastrichtian",34,-75.1175,34.5484,20,1
 "109",1301,"col","",-100.48,28.7,"Jablonski & Raup Locality 10",NA,"",52,"Maastrichtian","",72.1,66,40,"gp_mid",-68.73,39.15,"101",69.05,"maastrichtian",35,-79.5769,32.738,20,1
+"110",1302,"col","",-93.65,33.75,"Jablonski & Raup Locality 11",NA,"",30,"Maastrichtian","",72.1,66,40,"gp_mid",-59.17,41.76,"101",69.05,"maastrichtian",36,-69.954,38.774,20,1
 "111",1303,"col","",-88.93,34.62,"Jablonski & Raup Locality 12",NA,"",128,"Maastrichtian","",72.1,66,40,"gp_mid",-53.93,41.04,"101",69.05,"maastrichtian",37,-66.1294,38.0947,20,1
 "112",1304,"col","",-88.97,33.78,"Jablonski & Raup Locality 14",NA,"",54,"Maastrichtian","",72.1,66,40,"gp_mid",-54.4,40.28,"101",69.05,"maastrichtian",38,-66.1294,38.0947,20,1
 "113",1305,"col","",-88.35,32.73,"Jablonski & Raup Locality 15",NA,"",76,"Maastrichtian","",72.1,66,40,"gp_mid",-54.31,39.11,"101",69.05,"maastrichtian",39,-66.8152,35.6556,20,1
@@ -12,6 +14,8 @@
 "115",1307,"col","",-86,31.97,"Jablonski & Raup Locality 17",NA,"",79,"Maastrichtian","",72.1,66,40,"gp_mid",-52.35,37.64,"109",69.05,"maastrichtian",41,-63.0321,34.9678,20,1
 "116",1308,"col","",-85.22,31.83,"Jablonski & Raup Locality 18",NA,"",115,"Maastrichtian","",72.1,66,40,"gp_mid",-51.64,37.26,"109",69.05,"maastrichtian",42,-63.0321,34.9678,20,1
 "117",1309,"col","",-85.1,31.72,"Jablonski & Raup Locality 19",NA,"",113,"Maastrichtian","",72.1,66,40,"gp_mid",-51.58,37.12,"109",69.05,"maastrichtian",43,-63.0321,34.9678,20,1
+"118",1310,"col","",-79.38,33.85,"Jablonski & Raup Locality 20",NA,"",71,"Maastrichtian","",72.1,66,40,"gp_mid",-44.98,37.19,"109",69.05,"maastrichtian",44,-54.8807,36.0077,20,1
+"119",1311,"col","",-77.95,34.27,"Jablonski & Raup Locality 21",NA,"",81,"Maastrichtian","",72.1,66,40,"gp_mid",-43.41,37.1,"109",69.05,"maastrichtian",45,-54.8807,36.0077,20,1
 "120",1312,"col","",-76.85,38.92,"Jablonski & Raup Locality 22",NA,"",67,"Maastrichtian","",72.1,66,40,"gp_mid",-39.9,40.97,"109",69.05,"maastrichtian",46,-49.7074,40.1646,20,1
 "121",1313,"col","",-74.12,40.4,"Jablonski & Raup Locality 23",NA,"",142,"Maastrichtian","",72.1,66,40,"gp_mid",-36.52,41.4,"109",69.05,"maastrichtian",47,-49.7074,40.1646,20,1
 "123",1315,"col","",131,33.5,"Jablonski & Raup Locality 25",NA,"",42,"Maastrichtian","",72.1,66,40,"gp_mid",122.4,38.09,"610",69.05,"maastrichtian",49,128.4516,37.5234,20,1
@@ -20,6 +24,7 @@
 "127",1319,"col","",16.67,43.33,"Jablonski & Raup Locality 42",NA,"",23,"Maastrichtian","",72.1,66,40,"gp_mid",23.49,25.85,"307",69.05,"maastrichtian",53,18.0092,31.3379,20,1
 "128",1320,"col","",-101,45.5,"Jablonski & Raup Locality 44",NA,"",51,"Maastrichtian","",72.1,66,40,"gp_mid",-59.56,54.78,"101",69.05,"maastrichtian",54,-74.5106,49.8295,20,1
 "129",1321,"col","",22,51,"Jablonski & Raup Locality 46",NA,"",95,"Maastrichtian","",72.1,66,40,"gp_mid",28.42,37.32,"302",69.05,"maastrichtian",55,21.2123,44.4262,20,1
+"130",1322,"col","",47,-18,"Jablonski & Raup Locality 47",NA,"",72,"Maastrichtian","",72.1,66,40,"gp_mid",44.14,-38.67,"702",69.05,"maastrichtian",56,43.3966,-30.0695,20,1
 "132",1324,"col","",4,50.5,"Jablonski & Raup Locality 60",NA,"",27,"Maastrichtian","",72.1,66,40,"gp_mid",14.06,38.15,"315",69.05,"maastrichtian",58,4.4199,44.0131,20,1
 "133",1325,"col","",-2,50,"Jablonski & Raup Locality 61",NA,"",33,"Maastrichtian","",72.1,66,40,"gp_mid",9.14,38.33,"305",69.05,"maastrichtian",59,-2.2821,44.0067,20,1
 "134",1326,"col","",6,51,"Jablonski & Raup Locality 62",NA,"",99,"Maastrichtian","",72.1,66,40,"gp_mid",15.76,38.45,"315",69.05,"maastrichtian",60,7.7721,44.0507,20,1
@@ -32,6 +37,7 @@
 "142",1334,"col","",44,49,"Jablonski & Raup Locality 83",NA,"",70,"Maastrichtian","",72.1,66,40,"gp_mid",45.87,35.13,"302",69.05,"maastrichtian",67,41.582,45.6235,20,1
 "144",1336,"col","",-75,-4,"Jablonski & Raup Locality 88",NA,"",35,"Maastrichtian","",72.1,66,40,"gp_mid",-53.7,-3.52,"201",69.05,"maastrichtian",69,-57.6724,-7.336,20,1
 "145",1337,"col","",176,63,"Jablonski & Raup Locality 89",NA,"",32,"Maastrichtian","",72.1,66,40,"gp_mid",154.47,75.76,"485",69.05,"maastrichtian",70,177.685,71.9581,20,1
+"146",1338,"col","",-104,43,"Jablonski & Raup Locality 90",NA,"",15,"Maastrichtian","",72.1,66,40,"gp_mid",-64.72,53.47,"101",69.05,"maastrichtian",71,-79.4209,48.0444,20,1
 "147",1339,"col","",-100.5,46.5,"Jablonski & Raup Locality 97",NA,"",31,"Maastrichtian","",72.1,66,40,"gp_mid",-58.22,55.51,"101",69.05,"maastrichtian",72,-73.5023,52.2478,20,1
 "148",1340,"col","",-53,71,"Jablonski & Raup Locality 101",NA,"",10,"Maastrichtian","",72.1,66,40,"gp_mid",0.15,59.03,"102",69.05,"maastrichtian",73,-19.5102,62.0148,20,1
 "149",1341,"col","",173,-35,"Jablonski & Raup Locality 106",NA,"",51,"Maastrichtian","",72.1,66,40,"gp_mid",-163.57,-48.41,"806",69.05,"maastrichtian",74,-161.4589,-55.3718,20,1
@@ -44,6 +50,7 @@
 "158",1350,"col","",57.17,38.42,"Jablonski & Raup Locality 127",NA,"",54,"Maastrichtian","",72.1,66,40,"gp_mid",57.71,25.26,"402",69.05,"maastrichtian",82,52.3127,33.2621,20,1
 "159",1351,"col","",79,11,"Jablonski & Raup Locality 128",NA,"",150,"Maastrichtian","",72.1,66,40,"gp_mid",65.18,-41.7,"501",69.05,"maastrichtian",83,58.9602,-31.2408,20,1
 "160",1352,"col","",-86.67,31.83,"Jablonski & Raup Locality 130",NA,"",18,"Maastrichtian","",72.1,66,40,"gp_mid",-53.07,37.74,"109",69.05,"maastrichtian",84,-63.0321,34.9678,20,1
+"163",1355,"col","",27.83,-33.17,"Jablonski & Raup Locality 135",NA,"",4,"Maastrichtian","",72.1,66,40,"gp_mid",17.81,-51.33,"701",69.05,"maastrichtian",87,16.5236,-43.5558,20,1
 "164",1356,"col","",-102.18,25.5,"Jablonski & Raup Locality 140",NA,"",18,"Maastrichtian","",72.1,66,40,"gp_mid",-71.87,36.62,"101",69.05,"maastrichtian",88,-80.1252,30.282,20,1
 "165",1357,"col","",-70,-42.5,"Jablonski & Raup Locality 142",NA,"",32,"Maastrichtian","",72.1,66,40,"gp_mid",-57.62,-42.12,"291",69.05,"maastrichtian",89,-55.9326,-44.9534,20,1
 "166",1358,"col","",36,32,"Jablonski & Raup Locality 146",NA,"",36,"Maastrichtian","",72.1,66,40,"gp_mid",37.54,10.2,"503",69.05,"maastrichtian",90,35.1951,18.311,20,1
@@ -51,9 +58,11 @@
 "171",1363,"col","",30,26,"Jablonski & Raup Locality 163",NA,"",77,"Maastrichtian","",72.1,66,40,"gp_mid",32.4,6.52,"715",69.05,"maastrichtian",95,26.6942,13.3001,20,1
 "172",1364,"col","",20,32,"Jablonski & Raup Locality 164",NA,"",14,"Maastrichtian","",72.1,66,40,"gp_mid",24.74,13.97,"715",69.05,"maastrichtian",96,17.2695,21.8247,20,1
 "173",1365,"col","",9,35,"Jablonski & Raup Locality 165",NA,"",44,"Maastrichtian","",72.1,66,40,"gp_mid",16.19,19.07,"714",69.05,"maastrichtian",97,7.5838,25.715,20,1
+"174",1366,"col","",-17,15,"Jablonski & Raup Locality 166",NA,"",8,"Maastrichtian","",72.1,66,40,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",98,-20.9811,10.6996,20,1
 "178",1370,"col","",15,31,"Jablonski & Raup Locality 179",NA,"",123,"Maastrichtian","",72.1,66,40,"gp_mid",20.23,13.93,"715",69.05,"maastrichtian",102,13.5068,19.7865,20,1
 "179",1371,"col","",-72,-50,"Jablonski & Raup Locality 185",NA,"",46,"Maastrichtian","",72.1,66,40,"gp_mid",-62.33,-49,"291",69.05,"maastrichtian",103,-56.6382,-52.4391,20,1
 "184",1376,"col","",33,-26,"Jablonski & Raup Locality 192",NA,"",44,"Maastrichtian","",72.1,66,40,"gp_mid",26.76,-45.31,"701",69.05,"maastrichtian",108,26.1749,-36.8289,20,1
+"185",1377,"col","",114,-23,"Jablonski & Raup Locality 193",NA,"",20,"Maastrichtian","",72.1,66,40,"gp_mid",114.79,-53.91,"801",69.05,"maastrichtian",109,99.6657,-47.8257,20,1
 "186",1378,"col","",-0.48,38.35,"Jablonski & Raup Locality 195",NA,"",22,"Maastrichtian","",72.1,66,40,"gp_mid",8.84,26.11,"304",69.05,"maastrichtian",110,1.5031,31.462,20,1
 "187",1379,"col","",16.1,47.83,"Jablonski & Raup Locality 196",NA,"",39,"Maastrichtian","",72.1,66,40,"gp_mid",26.22,29.67,"307",69.05,"maastrichtian",111,14.0438,38.9649,20,1
 "188",1380,"col","",20,45,"Jablonski & Raup Locality 197",NA,"",61,"Maastrichtian","",72.1,66,40,"gp_mid",26.73,25.79,"308",69.05,"maastrichtian",112,23.2591,33.0102,20,1
@@ -75,6 +84,34 @@
 "205",1397,"col","",35,38,"Jablonski & Raup Locality 228",NA,"",47,"Maastrichtian","",72.1,66,40,"gp_mid",38.32,19.04,"504",69.05,"maastrichtian",128,33.6346,27.614,20,1
 "206",1398,"col","",38.25,37.77,"Jablonski & Raup Locality 229",NA,"",26,"Maastrichtian","",72.1,66,40,"gp_mid",40.84,15.33,"503",69.05,"maastrichtian",129,36.5147,23.1565,20,1
 "207",1399,"col","",49.27,10.27,"Jablonski & Raup Locality 230",NA,"",21,"Maastrichtian","",72.1,66,40,"gp_mid",47.63,-10.49,"709",69.05,"maastrichtian",130,43.8607,-2.5731,20,1
+"431",1576,"col","Fox Hills",-104.27,43.27,"Fox Hills Sandstone (USGS D4349)",NA,"",1,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"432",1579,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2120)",NA,"",1,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"433",1582,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2118)",NA,"",15,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"434",1584,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2117)",NA,"",5,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"435",1585,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2117)",NA,"",0,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"436",1586,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1982, D1983, D1984)",NA,"",31,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"437",1587,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2116)",NA,"",3,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"438",1588,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1981)",NA,"",8,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"439",1589,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1980)",NA,"",2,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"440",1590,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1979)",NA,"",3,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"441",1591,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1977)",NA,"",4,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"442",1592,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1976)",NA,"",1,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"443",1593,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1975)",NA,"",7,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"444",1594,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1974, 1978)",NA,"",8,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"445",1595,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1973)",NA,"",7,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"446",1596,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1972)",NA,"",2,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"447",1597,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1972)",NA,"",0,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"449",1575,"col","Pierre Shale",-104.27,43.27,"USGS D2121 [Pierre Shale]",NA,"",6,"Early Maastrichtian","",70.6,66,45,"gp_mid",-65.5,53.71,"101",68.3,"maastrichtian",144,-79.4209,48.0444,20,1
+"450",1577,"col","Pierre Shale",-104.27,43.27,"USGS D1987 [Pierre Shale]",NA,"",6,"Early Maastrichtian","",70.6,66,45,"gp_mid",-65.5,53.71,"101",68.3,"maastrichtian",144,-79.4209,48.0444,20,1
+"451",1578,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1986)",NA,"",4,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"452",1580,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2914)",NA,"",1,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"453",1581,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D2119)",NA,"",4,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"454",1583,"col","Pierre Shale",-104.27,43.25,"Pierre Shale (USGS D1958)",NA,"",16,"Maastrichtian","",72.1,66,45,"gp_mid",-64.85,53.78,"101",69.05,"maastrichtian",145,-79.4209,48.0444,20,1
+"455",1615,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1970, D1971)",NA,"",0,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"456",1614,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1970, D1971)",NA,"",4,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"457",1616,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1969)",NA,"",2,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
+"458",1617,"col","Pierre Shale",-104.27,43.25,"Pierre Shale (USGS D1966)",NA,"",1,"Maastrichtian","",72.1,66,45,"gp_mid",-64.85,53.78,"101",69.05,"maastrichtian",145,-79.4209,48.0444,20,1
+"459",1618,"col","Pierre Shale",-104.27,43.27,"Pierre Shale (USGS D1968)",NA,"",4,"Maastrichtian","",72.1,66,45,"gp_mid",-64.84,53.79,"101",69.05,"maastrichtian",144,-79.4209,48.0444,20,1
 "1414",2965,"col","",12.47,55.47,"Nye Klov 1",NA,"",8,"Maastrichtian","",72.1,66,132,"gp_mid",21.61,42.32,"302",69.05,"maastrichtian",428,10.8997,49.1086,20,1
 "1415",2966,"col","",12.47,55.47,"Nye Klov 2",NA,"",12,"Maastrichtian","",72.1,66,132,"gp_mid",21.61,42.32,"302",69.05,"maastrichtian",428,10.8997,49.1086,20,1
 "1416",2967,"col","",12.47,55.47,"Nye Klow 3",NA,"",17,"Maastrichtian","",72.1,66,132,"gp_mid",21.61,42.32,"302",69.05,"maastrichtian",428,10.8997,49.1086,20,1
@@ -350,6 +387,28 @@
 "2088",4339,"col","Providence",-85,31.82,"Sohl and Koch OFR # 306",NA,"Hatcher Well 1; USGS # 32804",10,"Early Maastrichtian","",70.6,66,281,"gp_mid",-52.03,37.13,"109",68.3,"maastrichtian",663,-63.0321,34.9678,20,1
 "2089",4340,"col","Providence",-85,31.82,"Sohl and Koch OFR # 307",NA,"Hatcher Well 1; USGS # 32805 : 6",5,"Early Maastrichtian","",70.6,66,281,"gp_mid",-52.03,37.13,"109",68.3,"maastrichtian",663,-63.0321,34.9678,20,1
 "2090",4341,"col","Providence",-85,31.82,"Sohl and Koch OFR # 308",NA,"Hatcher Well 1; USGS # 32807 : 8",14,"Early Maastrichtian","",70.6,66,281,"gp_mid",-52.03,37.13,"109",68.3,"maastrichtian",663,-63.0321,34.9678,20,1
+"2091",4342,"col","Peedee",-79.8,34.04,"Sohl and Koch OFR # 351",NA,"Elim; USGS # 32231",25,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.89,37.47,"109",68.3,"maastrichtian",664,-54.8807,36.0077,20,1
+"2092",4343,"col","Peedee",-79.82,34.03,"Sohl and Koch OFR # 352",NA,"Lynches Mill; USGS # 32232",25,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.91,37.47,"109",68.3,"maastrichtian",665,-54.8807,36.0077,20,1
+"2093",4344,"col","Peedee",-79.52,33.99,"Sohl and Koch OFR # 353",NA,"Dewitt fts Bluff; USGS # 32235",45,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.64,37.34,"109",68.3,"maastrichtian",666,-54.8807,36.0077,20,1
+"2094",4345,"col","Peedee",-79.45,33.91,"Sohl and Koch OFR # 354",NA,"Davis Landing-2; USGS # 32328",12,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.62,37.24,"109",68.3,"maastrichtian",667,-54.8807,36.0077,20,1
+"2095",4346,"col","Peedee",-79.45,33.91,"Sohl and Koch OFR # 356",NA,"Davis Landing-1; USGS # 32079",23,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.62,37.24,"109",68.3,"maastrichtian",667,-54.8807,36.0077,20,1
+"2096",4347,"col","Peedee",-79.43,33.9,"Sohl and Koch OFR # 357",NA,"Dead river Landing-2; USGS # 32330",29,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.6,37.22,"109",68.3,"maastrichtian",668,-54.8807,36.0077,20,1
+"2097",4348,"col","Peedee",-79.41,33.89,"Sohl and Koch OFR # 358",NA,"Allison fts Landing-4; USGS # 32081",9,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.59,37.2,"109",68.3,"maastrichtian",669,-54.8807,36.0077,20,1
+"2098",4349,"col","Peedee",-79.41,33.89,"Sohl and Koch OFR # 359",NA,"Allison fts Landing-5; USGS # 32332",17,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.59,37.2,"109",68.3,"maastrichtian",669,-54.8807,36.0077,20,1
+"2099",4350,"col","Peedee",-79.43,33.9,"Sohl and Koch OFR # 361",NA,"Dead river-1; USGS # 32329",49,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.6,37.22,"109",68.3,"maastrichtian",668,-54.8807,36.0077,20,1
+"2100",4351,"col","Peedee",-79.41,33.89,"Sohl and Koch OFR # 362",NA,"Allison fts Landing-2; USGS # 32331",49,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.59,37.2,"109",68.3,"maastrichtian",669,-54.8807,36.0077,20,1
+"2101",4352,"col","Peedee",-79.41,33.89,"Sohl and Koch OFR # 363",NA,"Allison fts Landing-3; USGS # 32334",36,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.59,37.2,"109",68.3,"maastrichtian",669,-54.8807,36.0077,20,1
+"2102",4353,"col","Peedee",-79.41,33.89,"Sohl and Koch OFR # 364",NA,"Allison fts Landing-1; USGS # 32233",33,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.59,37.2,"109",68.3,"maastrichtian",669,-54.8807,36.0077,20,1
+"2103",4354,"col","Peedee",-79.25,33.83,"Sohl and Koch OFR # 365",NA,"Honey Lake; USGS # 32344",72,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.47,37.1,"109",68.3,"maastrichtian",670,-54.8807,36.0077,20,1
+"2104",4355,"col","Peedee",-79.39,33.86,"Sohl and Koch OFR # 366",NA,"Honey Lake; USGS # 32344",78,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.58,37.17,"109",68.3,"maastrichtian",671,-54.8807,36.0077,20,1
+"2105",4356,"col","Peedee",-79.33,33.78,"Sohl and Koch OFR # 367",NA,"Smith Mill; USGS # 32333",7,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.57,37.08,"109",68.3,"maastrichtian",672,-54.8807,36.0077,20,1
+"2106",4357,"col","Peedee",-79.33,33.78,"Sohl and Koch OFR # 368",NA,"Smith Mill-2; USGS # 32334",10,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.57,37.08,"109",68.3,"maastrichtian",672,-54.8807,36.0077,20,1
+"2107",4358,"col","Peedee",-79.33,33.78,"Sohl and Koch OFR # 369",NA,"Smith Mill-4; USGS # 32336",11,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.57,37.08,"109",68.3,"maastrichtian",672,-54.8807,36.0077,20,1
+"2108",4359,"col","Peedee",-79.33,33.78,"Sohl and Koch OFR # 371",NA,"Smith Mill-3; USGS # 32335",18,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.57,37.08,"109",68.3,"maastrichtian",672,-54.8807,36.0077,20,1
+"2109",4360,"col","Peedee",-79.3,33.76,"Sohl and Koch OFR # 372",NA,"Pine bluff-1; USGS # 32341",6,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.55,37.05,"109",68.3,"maastrichtian",673,-54.8807,36.0077,20,1
+"2110",4361,"col","Peedee",-79.3,33.76,"Sohl and Koch OFR # 373",NA,"Pine bluff-2; USGS # 32342",9,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.55,37.05,"109",68.3,"maastrichtian",673,-54.8807,36.0077,20,1
+"2111",4362,"col","Peedee",-79.3,33.76,"Sohl and Koch OFR # 374",NA,"Pine bluff-3; USGS # 32343",23,"Late Maastrichtian","",70.6,66,281,"gp_mid",-45.55,37.05,"109",68.3,"maastrichtian",673,-54.8807,36.0077,20,1
+"2112",4363,"col","Peedee",-77.95,34.27,"Sohl and Koch OFR # 391",NA,"Hilton Park; USGS # 33104",25,"Late Maastrichtian","",70.6,66,281,"gp_mid",-44.01,37.08,"109",68.3,"maastrichtian",45,-54.8807,36.0077,20,1
 "2115",4366,"col","Severn",-76.85,38.89,"Sohl and Koch OFR # 415",NA,"Central Ave; USGS # 28858",76,"Late Maastrichtian","",70.6,66,281,"gp_mid",-40.53,40.93,"109",68.3,"maastrichtian",675,-49.7074,40.1646,20,1
 "2116",4367,"col","Severn",-76.85,38.89,"Sohl and Koch OFR # 416",NA,"Central Ave; USGS # 28858",71,"Late Maastrichtian","",70.6,66,281,"gp_mid",-40.53,40.93,"109",68.3,"maastrichtian",675,-49.7074,40.1646,20,1
 "2117",4368,"col","Severn",-76.85,38.89,"Sohl and Koch OFR # 417",NA,"Central Ave; USGS # 28858",126,"Late Maastrichtian","",70.6,66,281,"gp_mid",-40.53,40.93,"109",68.3,"maastrichtian",675,-49.7074,40.1646,20,1
@@ -366,6 +425,15 @@
 "2128",4379,"col","Sandy Hook",-74,40.41,"Sohl and Koch OFR # 472",NA,"Water Witch Station; USGS # 16277",25,"Maastrichtian","",72.1,66,281,"gp_mid",-36.41,41.37,"109",69.05,"maastrichtian",681,-49.7074,40.1646,20,1
 "2129",4380,"col","Sandy Hook",-74.12,40.4,"Sohl and Koch OFR # 474",NA,"Middleton; USGS # 31170",85,"Maastrichtian","",72.1,66,281,"gp_mid",-36.53,41.4,"109",69.05,"maastrichtian",47,-49.7074,40.1646,20,1
 "2130",4381,"col","Tinton",-74.19,40.39,"Sohl and Koch OFR # 480",NA,"Beers Hill; USGS # 31176 : 28868",11,"Late Maastrichtian","",70.6,66,281,"gp_mid",-37.22,41.41,"109",68.3,"maastrichtian",682,-49.7074,40.1646,20,1
+"2131",4382,"col","Owl Creek",-89.85,37,"Sohl and Koch OFR # 511",NA,"Ardeola; USGS # 16452",35,"Late Maastrichtian","",70.6,66,282,"gp_mid",-54.18,43.46,"101",68.3,"maastrichtian",683,-65.3963,40.5296,20,1
+"2132",4383,"col","Owl Creek",-89.85,37,"Sohl and Koch OFR # 512",NA,"Ardeola; USGS # 16429",42,"Late Maastrichtian","",70.6,66,282,"gp_mid",-54.18,43.46,"101",68.3,"maastrichtian",683,-65.3963,40.5296,20,1
+"2133",4384,"col","Owl Creek",-89.85,37.02,"Sohl and Koch OFR # 514",NA,"Ardeola; USGS # 16430",17,"Late Maastrichtian","",70.6,66,282,"gp_mid",-54.18,43.48,"101",68.3,"maastrichtian",684,-65.3963,40.5296,20,1
+"2134",4385,"col","Owl Creek",-89.87,37,"Sohl and Koch OFR # 516",NA,"Ardeola; USGS # 19090",84,"Late Maastrichtian","",70.6,66,282,"gp_mid",-54.21,43.47,"101",68.3,"maastrichtian",29,-65.3963,40.5296,20,1
+"2135",4386,"col","Owl Creek",-89.88,36.98,"Sohl and Koch OFR # 518",NA,"Ardeola; USGS # 16451",39,"Late Maastrichtian","",70.6,66,282,"gp_mid",-54.23,43.46,"101",68.3,"maastrichtian",685,-65.3963,40.5296,20,1
+"2136",4387,"col","Arkadelphia marl",-93.07,34.13,"Sohl and Koch OFR # 531",NA,"Arkadelphia; USGS # 18880",3,"Maastrichtian","",72.1,66,282,"gp_mid",-58.38,41.92,"101",69.05,"maastrichtian",686,-69.954,38.774,20,1
+"2137",4388,"col","Arkadelphia marl",-93.59,33.75,"Sohl and Koch OFR # 534",NA,"Hope; USGS # 8214",9,"Maastrichtian","",72.1,66,282,"gp_mid",-59.11,41.74,"101",69.05,"maastrichtian",687,-69.954,38.774,20,1
+"2138",4389,"col","Arkadelphia marl",-93.64,33.75,"Sohl and Koch OFR # 536",NA,"Hope; USGS # 12937",10,"Maastrichtian","",72.1,66,282,"gp_mid",-59.16,41.75,"101",69.05,"maastrichtian",688,-69.954,38.774,20,1
+"2139",4390,"col","Arkadelphia marl",-93.65,33.76,"Sohl and Koch OFR # 538",NA,"Hope; USGS # 12936 : 13411",27,"Maastrichtian","",72.1,66,282,"gp_mid",-59.17,41.76,"101",69.05,"maastrichtian",689,-69.954,38.774,20,1
 "2140",4391,"col","Arkadelphia marl",-93.66,33.73,"Sohl and Koch OFR # 540",NA,"Hope; USGS # 7466",13,"Maastrichtian","",72.1,66,282,"gp_mid",-59.19,41.74,"101",69.05,"maastrichtian",690,-70.6337,36.3327,20,1
 "2141",4392,"col","Arkadelphia marl",-93.66,33.73,"Sohl and Koch OFR # 542",NA,"Hope; USGS # 7467 : 8213",8,"Maastrichtian","",72.1,66,282,"gp_mid",-59.19,41.74,"101",69.05,"maastrichtian",690,-70.6337,36.3327,20,1
 "2142",4393,"col","Corsicana Marl",-94.51,33.53,"Sohl and Koch OFR # 601",NA,"Malta; USGS # 5432 : 5310",8,"Late Maastrichtian","",70.6,66,282,"gp_mid",-60.79,41.75,"101",68.3,"maastrichtian",691,-70.6337,36.3327,20,1
@@ -654,6 +722,13 @@
 "3486",7576,"col","Prairie Bluff",-88.65,33.61,"Sohl 079",NA,"Roadcut on Mississippi State highway 10, 2.5 miles E of Pheba, Clay Co., Miss.",4,"Late Maastrichtian","",70.6,66,463,"gp_mid",-54.78,39.96,"101",68.3,"maastrichtian",1160,-66.8152,35.6556,20,1
 "3487",7587,"col","Ripley",-90,34.25,"Sohl 035",NA,"Pit of Mississippi Minerals Co., 3.4 miles NE of Pontotoc, Pontotoc Co., Miss.",1,"Maastrichtian","",72.1,66,463,"gp_mid",-55.19,41.04,"101",69.05,"maastrichtian",1161,-66.1294,38.0947,20,1
 "3488",7590,"col","Ripley",-88.95,34.73,"Sohl 006",NA,"Roadcut on NE-facing slope of Hall Creek, a tributary of the Tallahatchie River, 2.9 miles (airline) SW of Dumas, Tippah Co., MS ",85,"Early Maastrichtian","",70.6,66,463,"gp_mid",-54.5,41.09,"101",68.3,"maastrichtian",1158,-66.1294,38.0947,20,1
+"3493",7614,"col","Peedee",-78.64,35.77,"USGS 31797",NA,"Donoho Creek Landing",24,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3494",7615,"col","Peedee",-78.64,35.77,"USGS 31799",NA,"Robinsons Landing",22,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3495",7616,"col","Peedee",-78.64,35.77,"USGS 31801",NA,"Browns Landing",32,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3497",7618,"col","Peedee",-78.64,35.77,"USGS 31827",NA,"Robinsons Landing",11,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3507",7628,"col","Peedee",-78.64,35.77,"USGS 31864",NA,"Robinsons Landing",4,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3508",7629,"col","Peedee",-78.64,35.77,"USGS 31865",NA,"Robinsons Landing",8,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
+"3509",7630,"col","Peedee",-78.64,35.77,"USGS 31866",NA,"Donoho Creek Landing",12,"Late Maastrichtian","",70.6,66,467,"gp_mid",-43.9,38.68,"109",68.3,"maastrichtian",1164,-54.8807,36.0077,20,1
 "3511",7556,"col","Kemp Clay",-97.74,30.27,"USGS 14162",NA,"Willow Creek, below the Austin highway, 5 miles west by north of Elgin, Travis County; ",4,"Maastrichtian","",72.1,66,444,"gp_mid",-65.13,39.79,"101",69.05,"maastrichtian",1153,-75.1175,34.5484,20,1
 "3512",7497,"col","Neylandville Marl",-96.31,32.59,"USGS 07550",NA,"Cut of Texas and new Orleans R. R., 1 mile east of Gastonia, 4 miles E of Crandall, Kaufman County;",9,"Maastrichtian","",72.1,66,444,"gp_mid",-62.52,41.51,"101",69.05,"maastrichtian",1165,-74.489,36.9958,20,1
 "3513",7554,"col","Neylandville Marl",-96.98,30.85,"USGS 14132",NA,"Gully 100 yards north of the Cameron-Burkholtz road, 7 miles west of Cameron, 1 miles west of Pettibone station, Milam County; ",3,"Maastrichtian","",72.1,66,444,"gp_mid",-64.05,40.1,"101",69.05,"maastrichtian",1166,-75.1175,34.5484,20,1
@@ -776,26 +851,37 @@
 "4962",67811,"col","Sânpetru",23.09,45.49,"Pui, Barbat River",NA,"Pui 1983",18,"Late Maastrichtian","",70.6,66,55945,"gp_mid",28.82,25.13,"308",68.3,"maastrichtian",1501,21.5826,39.4338,20,1
 "4998",13142,"col","Hell Creek",-106.1,47.8,"Bug Creek Anthills",NA,"Bug Creek, BCA, OMNH V1173",66,"Maastrichtian","",72.1,66,4377,"gp_mid",-63.32,58.43,"101",69.05,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5016",13184,"col","Hell Creek",-106.18,47.83,"Harbicht Hill Locality",NA,"",1,"Maastrichtian","",72.1,66,3198,"gp_mid",-63.38,58.48,"101",69.05,"maastrichtian",1520,-77.5314,52.8981,20,1
+"5022",13210,"col","Yacoraite",-65.27,-24.3,"Aguas Calientes, Arroyo el Morterito",NA,"El Ceibal",3,"Maastrichtian","Early Maastrichtian",72.1,66,4386,"gp_mid",-48.12,-25.23,"201",69.05,"maastrichtian",1526,-47.1505,-27.7657,20,1
 "5026",13218,"col","Calcarenites du Jadet",0.95,43.14,"Le Jadet Quarry (upper)",NA,"Saint-Martory",11,"Late Maastrichtian","",70.6,66,4388,"gp_mid",9.76,31.33,"305",68.3,"maastrichtian",1527,1.8743,36.4525,20,1
 "5029",67808,"col","Sânpetru",23.09,45.49,"Pui 1, Sibisel Valley",NA,"FGGUB P1",9,"Maastrichtian","",72.1,66,19377,"gp_mid",29.01,24.94,"308",69.05,"maastrichtian",1501,21.5826,39.4338,20,1
 "5068",13306,"col","Yacoraite",-66,-25.5,"Quebrada del Tapón tracksite",NA,"Leonardi locality 94",5,"Maastrichtian","",72.1,66,6049,"gp_mid",-49.12,-26.27,"201",69.05,"maastrichtian",1542,-50.9858,-27.6266,20,1
+"5069",13307,"col","Lecho",-65.37,-26.07,"Estancia ""El Brete"" (PVL)",NA,"",18,"Early Maastrichtian","",70.6,66,55175,"gp_mid",-48.95,-27.03,"201",68.3,"maastrichtian",1543,-47.1505,-27.7657,20,1
 "5070",13308,"col","",-69.47,-41.35,"Monton-Ilo tracksite",NA,"Ingeniero Jacobacci, Leonardi locality 22",2,"Late Maastrichtian","",70.6,66,6051,"gp_mid",-57.01,-41.21,"291",68.3,"maastrichtian",1544,-55.9326,-44.9534,20,1
 "5089",13331,"col","La Posa",1.08,42.11,"Biscarri, Isona",NA,"",2,"Late Maastrichtian","",70.6,66,36723,"gp_mid",10.87,30.12,"304",68.3,"maastrichtian",1553,1.8743,36.4525,20,1
 "5090",13332,"col","",6.3,43.58,"Upper-Var syncline (PROXY)",NA,"",1,"Maastrichtian","",72.1,66,5968,"gp_mid",14.69,31.08,"305",69.05,"maastrichtian",1554,7.0017,37.7633,20,1
 "5092",13334,"col","Densus-Ciula",22.85,45.6,"Tuştea-Oltoane nesting site",NA,"Valioara; Tuştea Oltoane; Tuştea nesting site",15,"Maastrichtian","",72.1,66,5971,"gp_mid",28.92,25.13,"308",69.05,"maastrichtian",1556,21.5826,39.4338,20,1
 "5102",13366,"col","Phosphorite Unit",36.03,32.02,"Ruseifa phosphate mine",NA,"",31,"Maastrichtian","",72.1,66,31056,"gp_mid",37.57,10.21,"503",69.05,"maastrichtian",1562,35.1951,18.311,20,1
 "5554",14495,"col","Prince Creek",-151.6,70,"Pediomys Point, Colville River",NA,"",7,"Edmontonian","",70.6,66,19442,"gp_mid",-104.73,89.13,"103",68.3,"maastrichtian",1647,-123.1272,80.5589,20,1
+"5564",14505,"col","Lance",-104.53,43.18,"Altman Blowout",NA,"UCMP V-5616",66,"Lancian","",70.6,66,3880,"gp_mid",-65.86,53.71,"101",68.3,"maastrichtian",1654,-79.4209,48.0444,20,1
 "5565",14506,"col","Hell Creek",-106.2,47.63,"Bad Mouth Turtle (Reworked)",NA,"UCMP V-87153 (in part)",3,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
 "5568",14509,"col","Hell Creek",-106.2,47.63,"BC Bone-anza (Reworked)",NA,"UCMP V-87040 (in part)",2,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
+"5569",14510,"col","Lance",-104.5,43,"Beardsley Blowout",NA,"UCMP V-5720",2,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5570",14511,"col","Lance",-104.6,43.1,"Beecher's Quarry",NA,"",3,"Lancian","",70.6,66,14177,"gp_mid",-65.99,53.66,"101",68.3,"maastrichtian",1659,-79.4209,48.0444,20,1
 "5575",14516,"col","Hell Creek",-106.1,47.8,"Bug Creek Anthills (Reworked)",NA,"UCMP V-65127, V-70201",27,"Lancian","",70.6,66,962,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5576",14517,"col","Hell Creek",-106.1,47.8,"Bug Creek West (Reworked)",NA,"",12,"Lancian","",70.6,66,962,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
+"5578",14519,"col","Lance",-104.57,43.15,"Bushy Tailed Blowout",NA,"UCMP V-5711 (BTB locality)",110,"Lancian","",70.6,66,1239,"gp_mid",-65.92,53.69,"101",68.3,"maastrichtian",1664,-79.4209,48.0444,20,1
 "5580",14521,"col","Hell Creek",-106.65,47.65,"Cole Anthill 2",NA,"UCMP V-76167",4,"Lancian","",70.6,66,960,"gp_mid",-64.78,58.38,"101",68.3,"maastrichtian",1665,-77.5314,52.8981,20,1
+"5581",14522,"col","Lance",-104.65,43.25,"Cow Creek Site 1",NA,"UCMP V-5621",12,"Lancian","",70.6,66,1239,"gp_mid",-65.94,53.81,"101",68.3,"maastrichtian",1666,-79.4209,48.0444,20,1
+"5583",14524,"col","Lance",-104.57,43.22,"Curiosity Point",NA,"UCMP V-5623",15,"Lancian","",70.6,66,1239,"gp_mid",-65.87,53.75,"101",68.3,"maastrichtian",1667,-79.4209,48.0444,20,1
+"5586",14527,"col","Lance",-104.5,43,"Dwarf Lighthouse (UCMP V-5622)",NA,"",23,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5587",14528,"col","Hell Creek",-106.1,47.8,"Eagle High (Reworked)",NA,"UCMP V-87051 (in part)",2,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5588",14529,"col","Hell Creek",-106.1,47.8,"Eagle Nest Channel 1 (Reworked)",NA,"UCMP V-87028 (in part)",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5589",14530,"col","Hell Creek",-106.1,47.8,"Eagle Nest Channel 2 (Reworked)",NA,"UCMP V-87029 (in part)",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5590",14531,"col","Hell Creek",-106.1,47.8,"Eagle South (Reworked)",NA,"UCMP V-87052 (in part)",2,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5591",14532,"col","Hell Creek",-104.5,46.3,"Ekalaka",NA,"",6,"Lancian","",70.6,66,1242,"gp_mid",-63.48,56.51,"101",68.3,"maastrichtian",1670,-77.5314,52.8981,20,1
 "5596",14537,"col","Hell Creek",-103.1,45.5,"Eureka Quarry, SDSM loc. V637",NA,"",49,"Lancian","",70.6,66,66164,"gp_mid",-62.55,55.37,"101",68.3,"maastrichtian",1673,-74.5106,49.8295,20,1
+"5597",14538,"col","Lance",-104.53,43.17,"False Disciple Point",NA,"UCMP V-5817",46,"Lancian","",70.6,66,1239,"gp_mid",-65.87,53.7,"101",68.3,"maastrichtian",1674,-79.4209,48.0444,20,1
+"5602",14543,"col","Ferris",-106.85,41.94,"Ferris Formation (UW V-92046)",NA,"Three and a Half Teeth",19,"Lancian","",70.6,66,1419,"gp_mid",-69.33,53.27,"101",68.3,"maastrichtian",1677,-79.4209,48.0444,20,1
 "5605",14546,"col","Hell Creek",-106.4,47.52,"Flat Creek 1",NA,"UCMP V-73083",22,"Lancian","",70.6,66,960,"gp_mid",-64.61,58.18,"101",68.3,"maastrichtian",1680,-77.5314,52.8981,20,1
 "5606",14547,"col","Hell Creek",-106.4,47.52,"Flat Creek 2",NA,"UCMP V-73084",4,"Lancian","",70.6,66,960,"gp_mid",-64.61,58.18,"101",68.3,"maastrichtian",1680,-77.5314,52.8981,20,1
 "5607",14548,"col","Hell Creek",-106.42,47.52,"Flat Creek 3",NA,"UCMP V-73085",17,"Lancian","",70.6,66,960,"gp_mid",-64.63,58.19,"101",68.3,"maastrichtian",1681,-77.5314,52.8981,20,1
@@ -803,23 +889,46 @@
 "5609",14550,"col","Hell Creek",-106.38,47.6,"Flint's Stones",NA,"UCMP V-76145",3,"Lancian","",70.6,66,960,"gp_mid",-64.52,58.25,"101",68.3,"maastrichtian",1682,-77.5314,52.8981,20,1
 "5613",14554,"col","",-105.6,45.4,"FV-15",NA,"",1,"Lancian","",70.6,66,960,"gp_mid",-65.43,56.04,"101",68.3,"maastrichtian",1685,-78.5247,50.4751,20,1
 "5615",14556,"col","Hell Creek",-106.1,47.8,"Grass Patch (Reworked)",NA,"UCMP V-87073 (in part)",2,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
+"5616",14557,"col","Lance",-104.37,43.3,"Greasewood Creek",NA,"SDSM V-685",22,"Lancian","",70.6,66,774,"gp_mid",-65.59,53.77,"101",68.3,"maastrichtian",1687,-79.4209,48.0444,20,1
 "5618",14559,"col","Hell Creek",-106.3,47.58,"Gynnoskus",NA,"UCMP V-73089",13,"Lancian","",70.6,66,960,"gp_mid",-64.44,58.21,"101",68.3,"maastrichtian",1689,-77.5314,52.8981,20,1
+"5620",14561,"col","Lance",-104.5,43,"Hanson Locality",NA,"SDSM V-852",4,"Lancian","",70.6,66,3640,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5621",14562,"col","Hell Creek",-106.18,47.87,"Harbicht Hill (Reworked)",NA,"UCMP V-71203",13,"Lancian","",70.6,66,3198,"gp_mid",-64.06,58.43,"101",68.3,"maastrichtian",1691,-77.5314,52.8981,20,1
 "5622",14563,"col","Hell Creek",-106.43,47.6,"Harmonica Hollow",NA,"UCMP V-74106",5,"Lancian","",70.6,66,960,"gp_mid",-64.58,58.27,"101",68.3,"maastrichtian",1692,-77.5314,52.8981,20,1
+"5623",14564,"col","Lance",-104.5,43,"Hatcherella Anthill",NA,"UCMP V-5617",4,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5624",14565,"col","Lance",-104.57,43.17,"Hatcher No. 1 (UCMP V-5003)",NA,"Lance Quarry 1; Mammal locality No. 1",43,"Lancian","",70.6,66,14177,"gp_mid",-65.91,53.71,"101",68.3,"maastrichtian",1693,-79.4209,48.0444,20,1
+"5625",14566,"col","Lance",-104.49,43.13,"Hatcher No. 2 (UCMP V-5815)",NA,"Lance Quarry 2",68,"Lancian","",70.6,66,14177,"gp_mid",-65.85,53.65,"101",68.3,"maastrichtian",1694,-79.4209,48.0444,20,1
+"5626",14567,"col","Lance",-104.49,43.15,"Hatcher No. 3 (UCMP V-5816)",NA,"Lance Quarry 3, Lull's Locality 3",10,"Lancian","",70.6,66,14177,"gp_mid",-65.83,53.67,"101",68.3,"maastrichtian",1695,-79.4209,48.0444,20,1
+"5629",14570,"col","Lance",-104.52,43.25,"Howard Locality",NA,"UCMP V-5709",19,"Lancian","",70.6,66,1239,"gp_mid",-65.79,53.77,"101",68.3,"maastrichtian",1698,-79.4209,48.0444,20,1
 "5630",14571,"col","Fox Hills",-101.8,45,"Iron Lightning Member Type Locality",NA,"",4,"Lancian","",70.6,66,3520,"gp_mid",-61.5,54.51,"101",68.3,"maastrichtian",1699,-74.5106,49.8295,20,1
 "5631",14572,"col","Hell Creek",-106.1,47.8,"Jaw Breaker (Reworked)",NA,"UCMP V-86031 (in part)",4,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5634",14575,"col","Hell Creek",-106.2,47.65,"Juniper Tree West (Reworked)",NA,"UCMP V-87151 (in part)",12,"Lancian","",70.6,66,2255,"gp_mid",-64.27,58.24,"101",68.3,"maastrichtian",1701,-77.5314,52.8981,20,1
 "5635",14576,"col","Hell Creek",-106.1,47.8,"Ken's Saddle",NA,"",12,"Lancian","",70.6,66,3198,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
+"5636",14577,"col","Lance",-104.58,43.23,"Kent 1",NA,"UCMP V-5618",17,"Lancian","",70.6,66,1239,"gp_mid",-65.88,53.77,"101",68.3,"maastrichtian",1702,-79.4209,48.0444,20,1
+"5637",14578,"col","Lance",-104.5,43,"Kent 2",NA,"UCMP V-5715",5,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5638",14579,"col","Lance",-104.5,43,"Kent 484",NA,"UCMP V-5820",17,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5639",14580,"col","Hell Creek",-106.1,47.8,"K-Mark Channel",NA,"KMark II; UCMP V-85092",27,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5640",14581,"col","",-104.2,40.8,"Laramie Formation",NA,"",3,"Lancian","",70.6,66,1247,"gp_mid",-67.08,51.43,"101",68.3,"maastrichtian",1703,-80.2362,45.6074,20,1
 "5642",14583,"col","Hell Creek",-106.2,47.63,"Little Roundtop (Reworked)",NA,"UCMP V-87098 (in part)",8,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
+"5644",14585,"col","Lance",-104.64,43.12,"Lull 2 Quarry (UCMP V-5620)",NA,"Lull's Locality 2",128,"Late Maastrichtian","",70.6,66,1239,"gp_mid",-66.02,53.68,"101",68.3,"maastrichtian",1706,-79.4209,48.0444,20,1
+"5645",14586,"col","Lance",-104.46,43.19,"Lull's Locality 4",NA,"Lance Quarry 4",4,"Lancian","",70.6,66,14177,"gp_mid",-65.77,53.69,"101",68.3,"maastrichtian",1707,-79.4209,48.0444,20,1
+"5646",14587,"col","Lance",-104.64,43.12,"Lull's Locality 5",NA,"Lance Quarry 5",12,"Lancian","",70.6,66,14177,"gp_mid",-66.02,53.68,"101",68.3,"maastrichtian",1706,-79.4209,48.0444,20,1
+"5647",14588,"col","Lance",-104.64,43.12,"Lull's Locality 6",NA,"Lance Quarry 6",3,"Lancian","",70.6,66,14177,"gp_mid",-66.02,53.68,"101",68.3,"maastrichtian",1706,-79.4209,48.0444,20,1
+"5648",14589,"col","Lance",-104.58,43.11,"Lull's Locality 7",NA,"Lance Quarry 7",11,"Lancian","",70.6,66,14177,"gp_mid",-65.97,53.66,"101",68.3,"maastrichtian",1708,-79.4209,48.0444,20,1
+"5649",14590,"col","Lance",-104.5,43,"Lull's Locality 8",NA,"Lance Quarry 8",7,"Lancian","",70.6,66,14177,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5650",14591,"col","Lance",-104.61,43.2,"Lull's Locality 9",NA,"Lance Quarry 9",17,"Lancian","",70.6,66,14177,"gp_mid",-65.94,53.75,"101",68.3,"maastrichtian",1709,-79.4209,48.0444,20,1
+"5651",14592,"col","Lance",-104.62,43.16,"Lull's Locality 10",NA,"Lance Quarry 10",5,"Lancian","",70.6,66,14177,"gp_mid",-65.97,53.72,"101",68.3,"maastrichtian",1710,-79.4209,48.0444,20,1
+"5652",14593,"col","Lance",-104.5,43,"Lull's Locality 11",NA,"Lance Quarry 11",1,"Lancian","",70.6,66,14177,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5654",14595,"col","Hell Creek",-106.1,47.8,"McKenna Hollow",NA,"",4,"Lancian","",70.6,66,3198,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
+"5655",14596,"col","Lance",-104.57,43.15,"McNally No. 1",NA,"McNalley; UCMP V-5713",19,"Lancian","",70.6,66,1239,"gp_mid",-65.92,53.69,"101",68.3,"maastrichtian",1664,-79.4209,48.0444,20,1
 "5656",14597,"col","Hell Creek",-104.8,47.1,"Muddy Tork",NA,"JHH L6205",10,"Lancian","",70.6,66,1985,"gp_mid",-63.15,57.32,"101",68.3,"maastrichtian",1711,-77.5314,52.8981,20,1
 "5657",14598,"col","Lance",-104.62,43.8,"Nern-Baker",NA,"UCMP V-5619",28,"Lancian","",70.6,66,1239,"gp_mid",-65.51,54.3,"101",68.3,"maastrichtian",1712,-78.5247,50.4751,20,1
 "5659",14600,"col","Hell Creek",-106.55,47.7,"O'Conner's Site",NA,"",1,"Lancian","",70.6,66,2332,"gp_mid",-64.63,58.39,"101",68.3,"maastrichtian",1714,-77.5314,52.8981,20,1
+"5660",14601,"col","Lance",-104.5,43,"Oil Tank Lookout (UCMP V-5624)",NA,"",8,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5663",14604,"col","Hell Creek",-103.1,45.5,"Joe Painter Quarry",NA,"",11,"Lancian","",70.6,66,3705,"gp_mid",-62.55,55.37,"101",68.3,"maastrichtian",1673,-74.5106,49.8295,20,1
 "5664",14605,"col","Hell Creek",-106.5,47.73,"Penick Coulee 7",NA,"UCMP V-76161",3,"Lancian","",70.6,66,960,"gp_mid",-64.54,58.41,"101",68.3,"maastrichtian",1716,-77.5314,52.8981,20,1
+"5665",14606,"col","Lance",-104.58,43.14,"Peterson's Quarry",NA,"",22,"Lancian","",70.6,66,14177,"gp_mid",-65.94,53.68,"101",68.3,"maastrichtian",1717,-79.4209,48.0444,20,1
 "5667",14608,"col","Hell Creek",-105.6,45.4,"Powderville Post Office",NA,"",7,"Lancian","",70.6,66,1247,"gp_mid",-65.43,56.04,"101",68.3,"maastrichtian",1685,-78.5247,50.4751,20,1
+"5668",14609,"col","Lance",-104.53,43.23,"Premolar Site",NA,"UCMP V-5625",10,"Lancian","",70.6,66,1239,"gp_mid",-65.82,53.76,"101",68.3,"maastrichtian",1719,-79.4209,48.0444,20,1
 "5669",14610,"col","Hell Creek",-103.3,46.1,"PTRM V92067",NA,"",52,"Lancian","",70.6,66,1984,"gp_mid",-62.3,55.96,"101",68.3,"maastrichtian",1720,-78.5247,50.4751,20,1
 "5670",14611,"col","Hell Creek",-104.8,47.1,"Q.V. Locality",NA,"JHH L6261",2,"Lancian","",70.6,66,1985,"gp_mid",-63.15,57.32,"101",68.3,"maastrichtian",1711,-77.5314,52.8981,20,1
 "5671",14612,"col","Fox Hills",-102.3,44.5,"Red Owl Quarry",NA,"SDSM V-701",14,"Lancian","",70.6,66,3705,"gp_mid",-62.43,54.22,"101",68.3,"maastrichtian",1721,-74.5106,49.8295,20,1
@@ -830,10 +939,16 @@
 "5681",14622,"col","Hell Creek",-106.1,47.8,"Tedrow Quarry B (Reworked)",NA,"UCMP V-87070 (in part)",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5682",14623,"col","Hell Creek",-106.2,47.63,"Tedrow Quarry C (Reworked)",NA,"UCMP V-87071 (in part)",7,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
 "5683",14624,"col","Hell Creek",-106.2,47.63,"Tedrow Quarry D (Reworked)",NA,"UCMP V-87072 (in part)",20,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
+"5684",14625,"col","Lance",-104.5,43,"Thompson No. 1",NA,"UCMP V-5920",5,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5685",14626,"col","Lance",-104.5,43,"Thompson No. 2",NA,"UCMP V-5921",2,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5686",14627,"col","Hell Creek",-106.1,47.8,"Three Buttes 1 (Reworked)",NA,"UCMP V-87078 (in part)",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5687",14628,"col","Hell Creek",-106.1,47.8,"Three Buttes 6 (Reworked)",NA,"UCMP V-87083",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5688",14629,"col","Hell Creek",-106.2,47.63,"Three Buttes 7 (Reworked)",NA,"UCMP V-87084",2,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.23,"101",68.3,"maastrichtian",1655,-77.5314,52.8981,20,1
 "5699",14640,"col","Laramie",-104.49,40.39,"Ken's Site",NA,"UCM Loc. 77062; DMNH loc. 3426; UWBM loc. C1099",38,"Lancian","",70.6,66,717,"gp_mid",-67.66,51.14,"101",68.3,"maastrichtian",1729,-80.2362,45.6074,20,1
+"5700",14641,"col","Lance",-104.5,43,"UCMP V-5002",NA,"",7,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5701",14642,"col","Lance",-104.5,43,"UCMP V-5004",NA,"",5,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
+"5702",14643,"col","Lance",-104.47,43.2,"Little People Blowout",NA,"UCMP V-5818",9,"Lancian","",70.6,66,1239,"gp_mid",-65.77,53.71,"101",68.3,"maastrichtian",1730,-79.4209,48.0444,20,1
+"5703",14644,"col","Lance",-104.5,43,"UCMP V-5919",NA,"",4,"Lancian","",70.6,66,1239,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5704",14645,"col","Hell Creek",-106.1,47.8,"Upper Tedrow Channel (Reworked)",NA,"UCMP V-88037",1,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5705",14646,"col","Hell Creek",-106.1,47.8,"Up-Up-The Creek 1 (Reworked)",NA,"UCMP V-87034 (in part)",3,"Lancian","",70.6,66,2255,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "5706",14647,"col","Hell Creek",-106.18,47.62,"Up-Up-The Creek 1A (Reworked)",NA,"UCMP V-87035 (in part)",12,"Lancian","",70.6,66,2255,"gp_mid",-64.28,58.21,"101",68.3,"maastrichtian",1731,-77.5314,52.8981,20,1
@@ -844,6 +959,7 @@
 "5711",14652,"col","Hell Creek",-104.8,47.1,"Vashus Locality",NA,"JHH L6239",2,"Lancian","",70.6,66,1985,"gp_mid",-63.15,57.32,"101",68.3,"maastrichtian",1711,-77.5314,52.8981,20,1
 "5712",14653,"col","Hell Creek",-106.28,47.6,"Wild Horse Basin",NA,"UCMP V-75178",37,"Lancian","",70.6,66,960,"gp_mid",-64.41,58.22,"101",68.3,"maastrichtian",1732,-77.5314,52.8981,20,1
 "5713",14654,"col","Hell Creek",-106.27,47.6,"Windy Hill",NA,"UCMP V-72207",37,"Lancian","",70.6,66,960,"gp_mid",-64.39,58.22,"101",68.3,"maastrichtian",1733,-77.5314,52.8981,20,1
+"5715",14656,"col","Lance",-104.5,43,"Zerbst Locality",NA,"SDSM V-851",5,"Lancian","",70.6,66,3640,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "5733",14674,"col","Hell Creek",-106.1,47.8,"Chris's Bonebed (CBB)",NA,"MPM 2256",21,"Late Maastrichtian","",70.6,66,2333,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
 "11529",74562,"col","",19.37,42.43,"Fundina and Risan Reefs, Montenegro",NA,"Reef 3616",27,"Maastrichtian","",72.1,66,25060,"gp_mid",24.67,23.96,"307",69.05,"maastrichtian",2124,20.8476,30.0396,20,1
 "11534",74536,"col","",42.95,38.28,"Sivertan Hill, Gevas, rudist biostromes",NA,"Reef 1250",11,"Maastrichtian","",72.1,66,25021,"gp_mid",44.69,14.99,"503",69.05,"maastrichtian",2126,39.646,22.4369,20,1
@@ -853,6 +969,7 @@
 "11557",74526,"col","",1.24,42.17,"Coll de Nargó",NA,"Coll de Nargó area, Coll de Nargó Syncline",6,"Early Maastrichtian","",70.6,66,25015,"gp_mid",11.02,30.15,"304",68.3,"maastrichtian",2136,1.8743,36.4525,20,1
 "11636",74558,"col","Vrbovac Beds",22.08,43.8,"Vrbovac Reef",NA,"Reef 2648",45,"Maastrichtian","",72.1,66,25060,"gp_mid",27.31,23.95,"308",69.05,"maastrichtian",2178,21.5826,39.4338,20,1
 "11641",74557,"col","",-0.62,38.77,"Barranc del Raco, Bocairente, rudist thicket",NA,"Reef 1960",19,"Late Maastrichtian","",70.6,66,25059,"gp_mid",8.68,27.09,"304",68.3,"maastrichtian",2180,1.6832,33.9574,20,1
+"12085",22638,"col","Lance",-104.48,43.35,"Baculum Draconis Quarry (BDQ)",NA,"ETE Locality 1512, Baculum Draconis Quarry (BDQ), ",10,"Maastrichtian","",72.1,66,5739,"gp_mid",-65.01,53.93,"101",69.05,"maastrichtian",2205,-79.4209,48.0444,20,1
 "12104",67196,"col","Marnes d'Auzas",0.95,43.2,"Cassagnau 2",NA,"",16,"Late Maastrichtian","",70.6,66,12506,"gp_mid",9.77,31.38,"305",68.3,"maastrichtian",2210,1.8743,36.4525,20,1
 "12105",67197,"col","Gerhartsreiter Schichten",12.61,47.81,"Bad Adelholzen",NA,"Siegsdorf",3,"Late Maastrichtian","",70.6,66,19176,"gp_mid",20.17,34.85,"305",68.3,"maastrichtian",2211,10.8151,38.6662,20,1
 "12317",22983,"col","",46.3,-15.83,"Baonamary M1, Majunga, Madagascar",NA,"KT 100",5,"Maastrichtian","Late Maastrichtian",72.1,66,6621,"gp_mid",43.42,-36.48,"702",69.05,"maastrichtian",2286,39.3627,-27.4789,20,1
@@ -903,6 +1020,7 @@
 "13628",25923,"col","Hell Creek",-103.86,46.3,"KJ87110 CENSUS",NA,"KJ88130",24,"Lancian","",70.6,66,7941,"gp_mid",-62.76,56.32,"101",68.3,"maastrichtian",2629,-77.5314,52.8981,20,1
 "13629",25924,"col","Hell Creek",-103.79,46.12,"KJ87152",NA,"",2,"Lancian","",70.6,66,7941,"gp_mid",-62.82,56.14,"101",68.3,"maastrichtian",2630,-78.5247,50.4751,20,1
 "13741",26369,"col","Sânpetru",22.93,45.58,"Nălaţ-Vad",NA,"Nalat-Vad; Nalatvad",15,"Late Maastrichtian","",70.6,66,37235,"gp_mid",28.77,25.27,"308",68.3,"maastrichtian",2638,21.5826,39.4338,20,1
+"13800",26760,"col","Lance",-104.48,43.05,"Dragon's Grave bonebed (PROXY)",NA,"Edmontosaurus bonebed",11,"Late Maastrichtian","",70.6,66,7389,"gp_mid",-65.9,53.57,"101",68.3,"maastrichtian",2657,-79.4209,48.0444,20,1
 "13819",26818,"col","Navesink",-75.17,39.78,"Inversand Company marl pit, Sewell (Navesink)",NA,"KT loc. 428",43,"Early Maastrichtian","",70.6,66,35500,"gp_mid",-38.47,41.18,"109",68.3,"maastrichtian",2661,-49.7074,40.1646,20,1
 "14068",27562,"col","Severn",-76.86,38.91,"Severn Formation Locality A (Cattail Brook)",NA,"Loc. 1 of Brouwers and Hazel 1978",3,"Maastrichtian","",72.1,66,61518,"gp_mid",-39.91,40.97,"109",69.05,"maastrichtian",2740,-49.7074,40.1646,20,1
 "14069",27563,"col","Severn",-76.85,38.91,"Severn Formation Locality B (Landover)",NA,"McCormick, Inglewood",11,"Maastrichtian","",72.1,66,773,"gp_mid",-39.9,40.96,"109",69.05,"maastrichtian",2741,-49.7074,40.1646,20,1
@@ -1003,6 +1121,8 @@
 "23727",39906,"col","Shimonada siltstone & Kitaama Sandstone",135.42,34.47,"Izumi Mountains, Izumi Group, Honshu",1396,"",6,"Maastrichtian","",72.1,66,10664,"gp_mid",126.25,40.43,"610",69.05,"maastrichtian",4956,129.907,41.3582,20,1
 "24176",40603,"col","",142.22,42.77,"Hetonai Area, Hakobuchi Group, Hokkaido",1396,"",4,"Maastrichtian","",72.1,66,10664,"gp_mid",128.16,50.19,"610",69.05,"maastrichtian",5114,138.6454,49.9328,20,1
 "24177",40604,"col","",142.43,42.87,"Hidaka Area, Hakobuchi Group, Hokkaido",1396,"",1,"Maastrichtian","",72.1,66,10664,"gp_mid",134.47,47.29,"609",69.05,"maastrichtian",5115,138.6454,49.9328,20,1
+"24314",40784,"col","",-17.11,14.56,"Echinoidea, Maastrichtian, Poponguine, Senegal",NA,"",1,"Maastrichtian","",72.1,66,11020,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",5140,-20.9811,10.6996,20,1
+"24871",41538,"col","Miria Marl",114.09,-23.02,"Cardabia Station [Miria Marl]",NA,"",3,"Maastrichtian","",72.1,66,46317,"gp_mid",114.94,-53.92,"801",69.05,"maastrichtian",5310,99.6657,-47.8257,20,1
 "26951",185404,"col","Moreno",-121.19,37.41,"CAS 29652, Little Salado Creek",NA,"",3,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.09,50.23,"130",69.05,"maastrichtian",5978,-97.323,42.8374,20,1
 "27803",45096,"col","Yacoraite",-65.95,-25.4,"Quebrada de la Escalera, Valle del Tonco tracksite",NA,"Leonardi locality 21",2,"Maastrichtian","",72.1,66,11748,"gp_mid",-49.05,-26.18,"201",69.05,"maastrichtian",6254,-50.9858,-27.6266,20,1
 "27805",45098,"col","Hell Creek",-103.96,45.95,"PTRM V91007, Doaks Butte",NA,"",18,"Maastrichtian","",72.1,66,11749,"gp_mid",-62.46,56.11,"101",69.05,"maastrichtian",6255,-78.5247,50.4751,20,1
@@ -1088,9 +1208,27 @@
 "28054",45439,"col","Conques",0.73,42.27,"Blasi 4, Arén",NA,"",5,"Late Maastrichtian","",70.6,66,17660,"gp_mid",10.61,30.32,"304",68.3,"maastrichtian",6314,1.8743,36.4525,20,1
 "28055",45440,"col","Conques",0.73,42.27,"Blasi 5, Arén",NA,"",5,"Late Maastrichtian","",70.6,66,17660,"gp_mid",10.61,30.32,"304",68.3,"maastrichtian",6314,1.8743,36.4525,20,1
 "28288",45675,"col","Ravenscrag",-106.38,49.37,"Wood Mountain, Rocky Creek",NA,"L&W locality 13, Morgan Creek",24,"Maastrichtian","",72.1,66,12049,"gp_mid",-62.21,59.9,"101",69.05,"maastrichtian",6433,-76.4206,55.3119,20,1
+"28292",45679,"col","Ripley",-90.03,37.32,"Chronister well",NA,"",10,"Maastrichtian","",72.1,66,17004,"gp_mid",-53.56,43.87,"101",69.05,"maastrichtian",6437,-65.3963,40.5296,20,1
 "28333",45728,"col","Lance",-106.58,49.04,"Rocky Creek plants (Lance)",NA,"",4,"Maastrichtian","",72.1,66,12103,"gp_mid",-62.74,59.67,"101",69.05,"maastrichtian",6458,-76.4206,55.3119,20,1
+"28458",45878,"col","Lance",-104.41,43.44,"Seven Mile Creek (AMNH)",NA,"L&W locality 30, Locality 17",7,"Maastrichtian","",72.1,66,9259,"gp_mid",-64.87,53.99,"101",69.05,"maastrichtian",6523,-79.4209,48.0444,20,1
 "28459",45879,"col","Hell Creek",-105.11,45.55,"east side, Powder River drainage, CCM V03",NA,"Ekalaka Ankylosaurus site",1,"Maastrichtian","",72.1,66,11822,"gp_mid",-64.08,56.11,"101",69.05,"maastrichtian",6524,-78.5247,50.4751,20,1
+"28650",46119,"col","Lance",-104.46,42.2,"Buck Creek pens, Johnson Brothers Ranch",NA,"Triceratops type site, Lance Creek, Guernsey, Three-Nine",1,"Maastrichtian","",72.1,66,10620,"gp_mid",-65.79,52.87,"101",69.05,"maastrichtian",6590,-79.4209,48.0444,20,1
+"28651",46120,"col","Laramie",-105.39,42.58,"Hatcher Springs, Johnson Brothers' ranch",NA,"Trachodon longiceps type",5,"Maastrichtian","",72.1,66,12304,"gp_mid",-66.58,53.51,"101",69.05,"maastrichtian",6591,-79.4209,48.0444,20,1
+"28659",46125,"col","Laramie",-105.39,42.58,"Johnson Brothers' ranch",NA,"",6,"Maastrichtian","",72.1,66,12304,"gp_mid",-66.58,53.51,"101",69.05,"maastrichtian",6591,-79.4209,48.0444,20,1
+"28660",46126,"col","Laramie",-104.65,43.12,"Middle Fork, Dry Creek",NA,"T. serratus type, Lance Creek",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.36,53.77,"101",69.05,"maastrichtian",6593,-79.4209,48.0444,20,1
+"28661",46127,"col","Laramie",-104.65,43.12,"Middle Fork, Dry Creek",NA,"T. prorsus type, Lance Creek",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.36,53.77,"101",69.05,"maastrichtian",6593,-79.4209,48.0444,20,1
+"28662",46128,"col","Lance",-104.91,43.17,"Dry Creek (USNM)",NA,"",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.63,53.9,"101",69.05,"maastrichtian",6594,-79.4209,48.0444,20,1
+"28663",46129,"col","Laramie",-104.91,43.14,"1.5 miles below U-L ranch",NA,"USNM 4842",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.64,53.88,"101",69.05,"maastrichtian",6595,-79.4209,48.0444,20,1
+"28664",46130,"col","Laramie",-104.61,43.24,"Lance Creek, near mouth of Lightning Creek",NA,"T. elatus type site",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.24,53.87,"101",69.05,"maastrichtian",6596,-79.4209,48.0444,20,1
+"28665",46131,"col","Lance",-104.55,43.16,"2 miles southeast of U-L Ranch, Buck Creek",NA,"T. obtusus type, Lance Creek",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.23,53.78,"101",69.05,"maastrichtian",6597,-79.4209,48.0444,20,1
+"28666",46132,"col","Lance",-104.64,43.19,"Lance Creek, 1.5 miles south of Lightning Creek",NA,"Triceratops brevicornus type",1,"Maastrichtian","",72.1,66,14728,"gp_mid",-65.31,53.84,"101",69.05,"maastrichtian",6598,-79.4209,48.0444,20,1
+"28667",46133,"col","Laramie",-104.57,43.23,"3 miles southwest of Lightning Creek",NA,"Diceratops type, Lance Creek",1,"Maastrichtian","",72.1,66,14728,"gp_mid",-65.2,53.85,"101",69.05,"maastrichtian",6599,-79.4209,48.0444,20,1
+"28668",46134,"col","Lance",-104.65,43.23,"north side, Lightning Creek",NA,"Torosaurus latus type, Lance Creek",2,"Maastrichtian","",72.1,66,12251,"gp_mid",-65.29,53.87,"101",69.05,"maastrichtian",6600,-79.4209,48.0444,20,1
+"28669",46135,"col","Lance",-104.63,43.24,"divide between Cow Creek and Lightning Creek",NA,"Torosaurus gladius type, Lance Creek",1,"Maastrichtian","",72.1,66,12251,"gp_mid",-65.26,53.87,"101",69.05,"maastrichtian",6601,-79.4209,48.0444,20,1
+"28670",46136,"col","Lance",-104.55,43.18,"ridge between Buck Creek and Lance Creek",NA,"Triceratops flabellatus type",2,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.21,53.8,"101",69.05,"maastrichtian",6602,-79.4209,48.0444,20,1
+"28673",46138,"col","Laramie",-104.61,43.18,"west side, Lance Creek",NA,"T. sulcatus type",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.27,53.81,"101",69.05,"maastrichtian",6604,-79.4209,48.0444,20,1
 "28674",46139,"col","Denver",-105.04,39.73,"Windsor Addition, Highland",NA,"B. alticornis type site",1,"Maastrichtian","",72.1,66,9054,"gp_mid",-68.04,50.79,"101",69.05,"maastrichtian",6605,-80.2362,45.6074,20,1
+"28736",46209,"col","Lance",-104.59,43.27,"north of Lance Creek",NA,"Claosaurus annectens plesiotype",1,"Maastrichtian","",72.1,66,12334,"gp_mid",-65.19,53.89,"101",69.05,"maastrichtian",6641,-79.4209,48.0444,20,1
 "28737",46210,"col","Laramie",-104.76,40.91,"Owl Creek (UCM Loc. 80013)",NA,"L&W locality 43, Lone Tree Creek",3,"Maastrichtian","",72.1,66,12319,"gp_mid",-66.98,51.79,"101",69.05,"maastrichtian",6642,-80.2362,45.6074,20,1
 "28738",46211,"col","Dawson Arkose",-104.65,38.86,"south side, Jimmy Camp Creek",NA,"L&W locality 44",3,"Maastrichtian","",72.1,66,53144,"gp_mid",-68.13,49.87,"101",69.05,"maastrichtian",6643,-80.2362,45.6074,20,1
 "28965",46437,"col","Conques",0.58,42.32,"Serraduy",NA,"",2,"Late Maastrichtian","",70.6,66,53564,"gp_mid",10.5,30.39,"304",68.3,"maastrichtian",6711,1.8743,36.4525,20,1
@@ -1240,8 +1378,10 @@
 "30915",48540,"col","Maevarano",46.58,-15.9,"South of Berivotra",NA,"",1,"Maastrichtian","",72.1,66,12935,"gp_mid",43.76,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
 "30916",48541,"col","Maevarano",46.6,-15.73,"La route Majunga-Ambalabe",NA,"",1,"Maastrichtian","",72.1,66,12935,"gp_mid",43.78,-36.39,"702",69.05,"maastrichtian",7289,39.3627,-27.4789,20,1
 "30921",48551,"col","Lance",-103.92,45.93,"Arnett Creek",NA,"L&W locality 35, F5",4,"Maastrichtian","",72.1,66,48210,"gp_mid",-62.44,56.08,"101",69.05,"maastrichtian",7294,-78.5247,50.4751,20,1
+"30924",48558,"col","Lance",-106.84,42.05,"Seminoe dinosaur site (USNM 7724)",NA,"",1,"Maastrichtian","",72.1,66,10606,"gp_mid",-68.58,53.46,"101",69.05,"maastrichtian",7296,-79.4209,48.0444,20,1
 "30936",48570,"col","New Egypt",-75.16,39.73,"West Jersey Marl Company's Pit, Barnsboro",NA,"Dryptosaurus & Laelaps type site, Barnesboro, Gloucester, Mantua",16,"Late Maastrichtian","",70.6,66,15621,"gp_mid",-38.49,41.13,"109",68.3,"maastrichtian",7302,-49.7074,40.1646,20,1
 "30983",48622,"col","Hell Creek",-106.31,47.57,"LACM V3152",NA,"",2,"Late Maastrichtian","",70.6,66,14862,"gp_mid",-64.47,58.2,"101",68.3,"maastrichtian",7315,-77.5314,52.8981,20,1
+"30987",48626,"col","Lance",-104.57,43.27,"Thescelosaurus type, Dogie Creek",NA,"Doegie Creek",1,"Late Maastrichtian","",70.6,66,13458,"gp_mid",-65.84,53.8,"101",68.3,"maastrichtian",7318,-79.4209,48.0444,20,1
 "30990",48629,"col","Hell Creek",-106.19,47.94,"18 miles east of Lismas (AMNH)",NA,"",3,"Late Maastrichtian","",70.6,66,12319,"gp_mid",-64,58.5,"101",68.3,"maastrichtian",7321,-77.5314,52.8981,20,1
 "31081",48726,"col","Al-Khod Conglomerate",58.12,23.57,"southeast of Al-Khod",NA,"Al-Khawd",4,"Maastrichtian","",72.1,66,13007,"gp_mid",55.36,-1.51,"503",69.05,"maastrichtian",7355,49.872,5.2936,20,1
 "31082",48727,"col","Grey Garumnian",1.79,42.18,"Fumanya tracksite",NA,"Fumanya Sud, South, North, Mina Tumi, Mina Esquirol",6,"Early Maastrichtian","",70.6,66,13021,"gp_mid",11.48,30.08,"304",68.3,"maastrichtian",7356,1.8743,36.4525,20,1
@@ -1264,6 +1404,7 @@
 "31243",49000,"col","Denver",-105.1,39.68,"Beaver Creek Valley (YPM 542)",NA,"Ornithomimus type, Green Mountain",1,"Late Maastrichtian","",70.6,66,12250,"gp_mid",-68.78,50.66,"101",68.3,"maastrichtian",7399,-80.2362,45.6074,20,1
 "31248",49005,"col","Lance",-105.84,48.29,"Sheba Mountain, Sieber Ranch (AMNH)",NA,"Tyrannosaurus rex type, Fort Peck, Hell Creek",1,"Maastrichtian","",72.1,66,9259,"gp_mid",-62.59,58.78,"101",69.05,"maastrichtian",7402,-77.5314,52.8981,20,1
 "31251",49016,"col","Hell Creek",-106.16,47.84,"Sand Arroyo/ Prairie Elk Creek (AMNH)",NA,"Sand Creek",2,"Maastrichtian","",72.1,66,13079,"gp_mid",-63.35,58.48,"101",69.05,"maastrichtian",7403,-77.5314,52.8981,20,1
+"31409",49238,"col","Lance",-104.53,43.34,"Schneider Creek",NA,"Claosaurus annectens type, Lance Creek",2,"Maastrichtian","",72.1,66,9095,"gp_mid",-65.08,53.94,"101",69.05,"maastrichtian",7459,-79.4209,48.0444,20,1
 "31598",49523,"col","Denver",-105.2,39.75,"southwest end, South Table Mountain",NA,"",4,"Maastrichtian","",72.1,66,55544,"gp_mid",-68.21,50.86,"101",69.05,"maastrichtian",7515,-80.2362,45.6074,20,1
 "31599",49524,"col","Laramie",-106.86,40.29,"Bijou Creek (USG&GS)",NA,"",6,"Maastrichtian","",72.1,66,53327,"gp_mid",-69.75,51.84,"101",69.05,"maastrichtian",7516,-80.2362,45.6074,20,1
 "31600",49525,"col","Arapahoe",-104.87,39.92,"Brighton area, Henderson (1)",NA,"T. galeus type",1,"Maastrichtian","",72.1,66,7835,"gp_mid",-67.72,50.91,"101",69.05,"maastrichtian",7517,-80.2362,45.6074,20,1
@@ -1299,7 +1440,12 @@
 "31630",49556,"col","Denver",-104.89,39.89,"High Pointe Village ceratopsian site",NA,"",1,"Maastrichtian","",72.1,66,13266,"gp_mid",-67.77,50.9,"101",69.05,"maastrichtian",7544,-80.2362,45.6074,20,1
 "31997",50082,"col","Lance",-101.2,45.75,"Standing Rock Indian Reservation (USNM)",NA,"",6,"Maastrichtian","",72.1,66,13456,"gp_mid",-59.58,55.07,"101",69.05,"maastrichtian",7641,-74.5106,49.8295,20,1
 "31999",50084,"col","Lance",-103.49,45.2,"Deer's Ears Butte",NA,"Deer Ears",1,"Maastrichtian","",72.1,66,12059,"gp_mid",-62.54,55.29,"101",69.05,"maastrichtian",7642,-78.5247,50.4751,20,1
+"32000",50085,"col","Lance",-104.57,43.27,"Lance Creek near Dogie Creek",NA,"Doegie Creek",1,"Late Maastrichtian","",70.6,66,13458,"gp_mid",-65.84,53.8,"101",68.3,"maastrichtian",7318,-79.4209,48.0444,20,1
+"32002",50086,"col","Lance",-105.24,42.65,"Schneider Creek (USNM 8091)",NA,"",1,"Maastrichtian","",72.1,66,13463,"gp_mid",-66.36,53.52,"101",69.05,"maastrichtian",7643,-79.4209,48.0444,20,1
+"32003",50087,"col","Lance",-104.6,43.27,"south side of Doegie Creek",NA,"Dogie Creek, Lance Creek, Bull Creek",1,"Maastrichtian","",72.1,66,12304,"gp_mid",-65.2,53.9,"101",69.05,"maastrichtian",7644,-79.4209,48.0444,20,1
 "32004",50088,"col","Hell Creek",-106.7,47.64,"Cattle Creek",NA,"",1,"Maastrichtian","",72.1,66,13466,"gp_mid",-64.14,58.47,"101",69.05,"maastrichtian",7645,-77.5314,52.8981,20,1
+"32580",50930,"col","Lance",-104.67,43.28,"Lance Creek, south of Dogie Creek",NA,"T. ingens type, Doegie Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.27,53.93,"101",69.05,"maastrichtian",7762,-79.4209,48.0444,20,1
+"32581",50931,"col","Lance",-104.71,43.14,"east of Lance Creek",NA,"T. calicornis type",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.42,53.81,"101",69.05,"maastrichtian",7763,-79.4209,48.0444,20,1
 "32877",51252,"col","Maevarano",46.52,-15.93,"Maevarano, Betsiboka River",NA,"",2,"Maastrichtian","",72.1,66,19185,"gp_mid",43.67,-36.59,"702",69.05,"maastrichtian",7848,39.3627,-27.4789,20,1
 "33046",51420,"col","",-9.42,30.44,"Tagannt n'ait Salah tracksite",NA,"Agadir",5,"Maastrichtian","",72.1,66,13676,"gp_mid",-0.89,19.5,"707",69.05,"maastrichtian",7894,-10.3982,23.9455,20,1
 "33129",51521,"col","Maastricht",5.62,50.78,"Zichen (IRSNB)",NA,"Sichen, Maastricht",3,"Late Maastrichtian","",70.6,66,13701,"gp_mid",15.02,38.39,"315",68.3,"maastrichtian",7920,4.4199,44.0131,20,1
@@ -1309,7 +1455,25 @@
 "33453",51889,"col","Prince Creek",-151.52,69.83,"Kikak-Tegoseak Quarry",NA,"Kikak Creek, Kekak-Tegoseak",34,"Late Maastrichtian","",70.6,66,13817,"gp_mid",-107.56,88.97,"103",68.3,"maastrichtian",7980,-123.1272,80.5589,20,1
 "33454",51890,"col","Prince Creek",-151.58,70.07,"Liscomb Quarry (TMM/UAM)",NA,"Colville River",12,"Early Maastrichtian","",70.6,66,12790,"gp_mid",-101.99,89.19,"103",68.3,"maastrichtian",7981,-123.1272,80.5589,20,1
 "33631",52903,"col","Hell Creek",-106.27,47.67,"Coke's Pachy, UCMP V-88074",NA,"",1,"Maastrichtian","",72.1,66,14263,"gp_mid",-63.63,58.36,"101",69.05,"maastrichtian",8025,-77.5314,52.8981,20,1
+"33663",52106,"col","Lance",-104.62,43.15,"9 miles southwest of Warren Post Office",NA,"Buck Creek, Lance Creek",2,"Maastrichtian","",72.1,66,14577,"gp_mid",-65.31,53.79,"101",69.05,"maastrichtian",8038,-79.4209,48.0444,20,1
+"33664",52107,"col","Lance",-104.2,41.91,"1.5 miles up Horse Creek (41 ft)",NA,"Torrington",1,"Late Maastrichtian","",70.6,66,53986,"gp_mid",-66.35,52.45,"101",68.3,"maastrichtian",8039,-79.4209,48.0444,20,1
+"34209",52681,"col","Lance",-104.66,43.3,"Lance Creek, south side of Doegie Creek",NA,"Dogie Creek, Bull Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.25,53.94,"101",69.05,"maastrichtian",8274,-79.4209,48.0444,20,1
+"34210",52682,"col","Lance",-104.62,43.26,"between Doegie Creek and Cow Creek",NA,"Dogie Creek, Bull Creek, Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.24,53.89,"101",69.05,"maastrichtian",8275,-79.4209,48.0444,20,1
+"34211",52683,"col","Lance",-104.66,43.2,"south side of Lightning Creek",NA,"Lance Creek",2,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.32,53.85,"101",69.05,"maastrichtian",8276,-79.4209,48.0444,20,1
+"34212",52684,"col","Lance",-104.55,43.22,"Lance Creek, southwest of Warren",NA,"",2,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.18,53.83,"101",69.05,"maastrichtian",8277,-79.4209,48.0444,20,1
+"34213",52685,"col","Lance",-104.55,43.21,"Lance Creek, southwest of Warren",NA,"",2,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.19,53.83,"101",69.05,"maastrichtian",8278,-79.4209,48.0444,20,1
+"34214",52686,"col","Lance",-104.55,43.16,"Lance Creek, north side of Buck Creek",NA,"",2,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.23,53.78,"101",69.05,"maastrichtian",6597,-79.4209,48.0444,20,1
+"34215",52687,"col","Lance",-104.56,43.13,"between Lance Creek and Buck Creek",NA,"",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.26,53.76,"101",69.05,"maastrichtian",8279,-79.4209,48.0444,20,1
+"34216",52688,"col","Lance",-104.48,43.16,"west side of Buck Creek",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.14,53.76,"101",69.05,"maastrichtian",8280,-79.4209,48.0444,20,1
+"34217",52689,"col","Lance",-104.48,43.16,"west side of Buck Creek",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.15,53.76,"101",69.05,"maastrichtian",8280,-79.4209,48.0444,20,1
+"34218",52690,"col","Lance",-104.47,43.21,"south of Warren, Lance Creek",NA,"",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.1,53.8,"101",69.05,"maastrichtian",8281,-79.4209,48.0444,20,1
+"34219",52691,"col","Lance",-104.46,43.19,"west side of Buck Creek",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.11,53.78,"101",69.05,"maastrichtian",1707,-79.4209,48.0444,20,1
+"34220",52692,"col","Lance",-104.47,43.19,"west side of Buck Creek",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.12,53.78,"101",69.05,"maastrichtian",8282,-79.4209,48.0444,20,1
+"34221",52693,"col","Lance",-104.54,43.16,"between Lance Creek and Buck Creek",NA,"",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.22,53.78,"101",69.05,"maastrichtian",8283,-79.4209,48.0444,20,1
+"34222",52694,"col","Lance",-104.42,43.31,"Greasewood Creek",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,14177,"gp_mid",-64.97,53.88,"101",69.05,"maastrichtian",8284,-79.4209,48.0444,20,1
+"34223",52695,"col","Lance",-104.51,43.18,"Lance Creek (YPM 1891 general)",NA,"",3,"Maastrichtian","",72.1,66,14177,"gp_mid",-65.17,53.79,"101",69.05,"maastrichtian",8285,-79.4209,48.0444,20,1
 "34358",52836,"col","Frenchman",-106.35,49.12,"Killdeer Badlands",NA,"",1,"Late Maastrichtian","",70.6,66,14226,"gp_mid",-63.13,59.59,"101",68.3,"maastrichtian",8326,-76.4206,55.3119,20,1
+"34390",52871,"col","Lance",-104.07,43.13,"Alkali Creek (USNM)",NA,"",2,"Maastrichtian","",72.1,66,9095,"gp_mid",-64.71,53.6,"101",69.05,"maastrichtian",8334,-79.4209,48.0444,20,1
 "34421",52904,"col","Hell Creek",-106.3,47.67,"Jason's Pachycephalosaur, UCMP V-86026",NA,"",1,"Maastrichtian","",72.1,66,14263,"gp_mid",-63.66,58.37,"101",69.05,"maastrichtian",8352,-77.5314,52.8981,20,1
 "34568",53054,"col","Navesink",-75.14,39.77,"Hungerford & Terry Corporation pit",NA,"Sewell",3,"Maastrichtian","",72.1,66,9209,"gp_mid",-37.83,41.17,"109",69.05,"maastrichtian",8385,-49.7074,40.1646,20,1
 "34636",53122,"col","Navesink",-75.31,39.75,"Swedesboro (Navesink)",NA,"L&W locality 3d",1,"Early Maastrichtian","",70.6,66,17161,"gp_mid",-38.62,41.2,"109",68.3,"maastrichtian",8406,-49.7074,40.1646,20,1
@@ -1335,10 +1499,15 @@
 "35505",54002,"col","Hell Creek",-104.16,45.5,"Sand Creek, Carter County (CMNH 7541)",NA,"Nanotyrannus type",1,"Maastrichtian","",72.1,66,14592,"gp_mid",-63.04,55.77,"101",69.05,"maastrichtian",8633,-78.5247,50.4751,20,1
 "35574",54080,"col","Hell Creek",-106.28,47.81,"Sand Arroyo",NA,"AMNH 5034",1,"Late Maastrichtian","",70.6,66,54103,"gp_mid",-64.22,58.41,"101",68.3,"maastrichtian",8643,-77.5314,52.8981,20,1
 "35575",54081,"col","Hell Creek",-105.98,47.68,"near head of Rock Creek",NA,"AMNH 5031",1,"Maastrichtian","",72.1,66,54103,"gp_mid",-63.28,58.28,"101",69.05,"maastrichtian",8644,-77.5314,52.8981,20,1
+"35648",54176,"col","Lance",-104.61,43.49,"Horse Shoe Bend (no. 7)",NA,"",1,"Maastrichtian","",72.1,66,14648,"gp_mid",-65.06,54.1,"101",69.05,"maastrichtian",8663,-79.4209,48.0444,20,1
+"35649",54177,"col","Lance",-104.61,43.49,"Horse Shoe Bend (no. 8)",NA,"",1,"Maastrichtian","",72.1,66,14648,"gp_mid",-65.06,54.1,"101",69.05,"maastrichtian",8663,-79.4209,48.0444,20,1
+"35650",54178,"col","Lance",-104.61,43.49,"Horse Shoe Bend, South Schneider Creek (no. 13)",NA,"Senckenberg mummy",1,"Maastrichtian","",72.1,66,12385,"gp_mid",-65.06,54.1,"101",69.05,"maastrichtian",8663,-79.4209,48.0444,20,1
+"35651",54179,"col","Lance",-104.37,43.3,"between Greaswood & Buggy Creeks (no. 11)",NA,"",1,"Maastrichtian","",72.1,66,14648,"gp_mid",-64.92,53.85,"101",69.05,"maastrichtian",1687,-79.4209,48.0444,20,1
 "35762",55268,"col","Maevarano",46.58,-15.91,"MAD93-01 (SUNY)",NA,"",9,"Maastrichtian","",72.1,66,14771,"gp_mid",43.75,-36.57,"702",69.05,"maastrichtian",3635,39.3627,-27.4789,20,1
 "35763",55269,"col","Maevarano",46.58,-15.91,"MAD93-34 (SUNY)",NA,"",7,"Maastrichtian","",72.1,66,14771,"gp_mid",43.75,-36.57,"702",69.05,"maastrichtian",3635,39.3627,-27.4789,20,1
 "35764",55270,"col","Maevarano",46.6,-15.9,"MAD93-73 (SUNY)",NA,"",6,"Maastrichtian","",72.1,66,14771,"gp_mid",43.78,-36.56,"702",69.05,"maastrichtian",8697,39.3627,-27.4789,20,1
 "35765",55271,"col","Maevarano",46.58,-15.91,"MAD96-07 (SUNY)",NA,"",5,"Maastrichtian","",72.1,66,14771,"gp_mid",43.75,-36.57,"702",69.05,"maastrichtian",3635,39.3627,-27.4789,20,1
+"35784",55299,"col","Miria",114.35,-22.68,"Giralia Station",NA,"",1,"Late Maastrichtian","",70.6,66,14792,"gp_mid",115.17,-53.21,"801",68.3,"maastrichtian",8701,99.6657,-47.8257,20,1
 "35794",55322,"col","Kita-Ama",134.9,34.35,"Sumoto hadrosaur site",NA,"",2,"Early Maastrichtian","",70.6,66,14805,"gp_mid",125.69,40.28,"610",68.3,"maastrichtian",8706,129.907,41.3582,20,1
 "35810",55338,"col","Maastricht",5.68,50.85,"near Maastricht (BMNH)",NA,"Huene 96, Betasuchus",1,"Late Maastrichtian","",70.6,66,17351,"gp_mid",15.09,38.45,"315",68.3,"maastrichtian",3615,7.7721,44.0507,20,1
 "35822",55354,"col","Hell Creek",-106.22,47.6,"Jack's Bay 5, UCMP V-84186",NA,"",1,"Maastrichtian","",72.1,66,14848,"gp_mid",-63.63,58.28,"101",69.05,"maastrichtian",8715,-77.5314,52.8981,20,1
@@ -1351,6 +1520,15 @@
 "37031",57008,"col","Mahadek",91.33,25.27,"Dirang 1, Meghalaya",NA,"",1,"Maastrichtian","",72.1,66,15376,"gp_mid",84.54,-31.63,"501",69.05,"maastrichtian",8978,75.7579,-20.6352,20,1
 "37074",57062,"col","Mahadek",91.35,25.23,"Dirang 2, Meghalaya",NA,"",1,"Maastrichtian","",72.1,66,15376,"gp_mid",84.55,-31.67,"501",69.05,"maastrichtian",8997,75.7579,-20.6352,20,1
 "37135",159019,"col","Arén",1.09,42.13,"Barranc de la Posa (layer 76)",NA,"Barranco de la Posa",18,"Maastrichtian","",72.1,66,52007,"gp_mid",11.08,29.55,"304",69.05,"maastrichtian",2135,1.8743,36.4525,20,1
+"37145",57159,"col","Lance",-104.6,43.07,"Purple Shale Beds, UCMP V-5714",NA,"",6,"Maastrichtian","",72.1,66,803,"gp_mid",-65.35,53.71,"101",69.05,"maastrichtian",9023,-79.4209,48.0444,20,1
+"37146",57158,"col","Lance",-104.5,43.23,"Outhouse, UCMP 5710",NA,"",3,"Maastrichtian","",72.1,66,803,"gp_mid",-65.12,53.83,"101",69.05,"maastrichtian",9024,-79.4209,48.0444,20,1
+"37169",57161,"col","Lance",-104.57,43.07,"Subterfuge Quarry, UCMP V-5717",NA,"",2,"Maastrichtian","",72.1,66,803,"gp_mid",-65.31,53.7,"101",69.05,"maastrichtian",9041,-79.4209,48.0444,20,1
+"37170",57162,"col","Lance",-104.58,43.12,"Richard I. Blowout, UCMP V-5719",NA,"",4,"Maastrichtian","",72.1,66,803,"gp_mid",-65.29,53.75,"101",69.05,"maastrichtian",9042,-79.4209,48.0444,20,1
+"37171",57163,"col","Lance",-104.62,43.27,"Blackberry Prospect, UCMP V-5917",NA,"",4,"Maastrichtian","",72.1,66,803,"gp_mid",-65.22,53.9,"101",69.05,"maastrichtian",9043,-79.4209,48.0444,20,1
+"37174",57166,"col","Lance",-104.65,43.27,"Fish Tooth Hill, UCMP V-5918",NA,"",9,"Maastrichtian","",72.1,66,803,"gp_mid",-65.26,53.91,"101",69.05,"maastrichtian",9044,-79.4209,48.0444,20,1
+"37176",57168,"col","Lance",-104.53,43.28,"Savage 1, UCMP V-5922",NA,"",7,"Maastrichtian","",72.1,66,803,"gp_mid",-65.12,53.89,"101",69.05,"maastrichtian",9045,-79.4209,48.0444,20,1
+"37177",57169,"col","Lance",-104.58,43.15,"Big Debris Blowout, UCMP V-5712",NA,"",1,"Maastrichtian","",72.1,66,803,"gp_mid",-65.27,53.78,"101",69.05,"maastrichtian",9046,-79.4209,48.0444,20,1
+"37178",57170,"col","Lance",-104.6,43.27,"Hadrosaur site, UCMP V-5916",NA,"",1,"Maastrichtian","",72.1,66,803,"gp_mid",-65.21,53.89,"101",69.05,"maastrichtian",7644,-79.4209,48.0444,20,1
 "37233",57233,"col","El Haria",8.71,36.19,"El Kef, El-Kef-II-(-)1-5",NA,"",44,"Maastrichtian","",72.1,66,15480,"gp_mid",16.29,20.28,"714",69.05,"maastrichtian",6965,7.5838,25.715,20,1
 "37234",57234,"col","El Haria",8.71,36.19,"El Kef, El-Kef-II-(-)5-10",NA,"",44,"Maastrichtian","",72.1,66,15480,"gp_mid",16.29,20.28,"714",69.05,"maastrichtian",6965,7.5838,25.715,20,1
 "37235",57235,"col","El Haria",8.71,36.19,"El Kef, El-Kef-II-(-)10-15",NA,"",43,"Maastrichtian","",72.1,66,15480,"gp_mid",16.29,20.28,"714",69.05,"maastrichtian",6965,7.5838,25.715,20,1
@@ -1505,6 +1683,7 @@
 "37671",57671,"col","El Haria",9.1,35.95,"Elles, Elles-II-45-50",NA,"",10,"Maastrichtian","",72.1,66,15481,"gp_mid",16.55,19.96,"714",69.05,"maastrichtian",9063,7.5838,25.715,20,1
 "37672",57672,"col","El Haria",9.1,35.95,"Elles, Elles-II-55-60",NA,"",7,"Maastrichtian","",72.1,66,15481,"gp_mid",16.55,19.96,"714",69.05,"maastrichtian",9063,7.5838,25.715,20,1
 "37673",57673,"col","El Haria",9.1,35.95,"Elles, Elles-II-65-70",NA,"",9,"Maastrichtian","",72.1,66,15481,"gp_mid",16.55,19.96,"714",69.05,"maastrichtian",9063,7.5838,25.715,20,1
+"37753",57764,"col","Lance",-105.53,42.97,"hadrosaur ""mummy"" (AMNH)",NA,"",1,"Maastrichtian","",72.1,66,36149,"gp_mid",-66.47,53.9,"101",69.05,"maastrichtian",9106,-79.4209,48.0444,20,1
 "37754",57765,"col","Hell Creek",-106.76,47.57,"Cook Ranch, Crooked Creek (AMNH)",NA,"",1,"Maastrichtian","",72.1,66,58850,"gp_mid",-64.27,58.43,"101",69.05,"maastrichtian",9107,-77.5314,52.8981,20,1
 "37778",57788,"col","Ciolo Limestone",18.38,39.85,"Ciolo Cove algae, Italy",NA,"",7,"Late Maastrichtian","",70.6,66,15551,"gp_mid",22.22,22.44,"307",68.3,"maastrichtian",9118,19.5445,27.8148,20,1
 "37905",57915,"col","Navesink",-74.22,40.31,"Big Brook (Navesink)",NA,"",41,"Maastrichtian","",72.1,66,40648,"gp_mid",-36.67,41.36,"109",69.05,"maastrichtian",9134,-49.7074,40.1646,20,1
@@ -1541,10 +1720,13 @@
 "39668",59780,"col","",5.61,43.49,"Le Rousset",NA,"ERR, Rousset-Erben, La Bégude",3,"Late Maastrichtian","",70.6,66,46006,"gp_mid",13.74,31.17,"305",68.3,"maastrichtian",9551,5.3019,36.2892,20,1
 "39669",59782,"col","",5.68,43.47,"Arc River",NA,"",1,"Maastrichtian","",72.1,66,17127,"gp_mid",14.15,31.03,"305",69.05,"maastrichtian",9552,7.0017,37.7633,20,1
 "39670",59783,"col","",5.58,43.52,"Bastien, Saint-Antonin eggshell site",NA,"",1,"Maastrichtian","",72.1,66,17127,"gp_mid",14.08,31.09,"305",69.05,"maastrichtian",9553,5.3019,36.2892,20,1
+"39720",59866,"col","Peedee",-77.86,34.42,"Asteroidea, Peedee fm., Martin Marieta Quarry, Rocky Point",NA,"",4,"Maastrichtian","",72.1,66,17185,"gp_mid",-43.25,37.21,"109",69.05,"maastrichtian",9563,-54.8807,36.0077,20,1
 "39731",59877,"col","Kallamedu",78.98,11.16,"northwest of Kallamedu village",NA,"",3,"Late Maastrichtian","",70.6,66,17189,"gp_mid",66.05,-40.23,"501",68.3,"maastrichtian",8562,58.9602,-31.2408,20,1
 "39888",60169,"col","Hell Creek",-104.55,45.89,"Burpee Museum loc. K-12",NA,"Jane site",13,"Late Maastrichtian","",70.6,66,17309,"gp_mid",-63.86,56.16,"101",68.3,"maastrichtian",3883,-78.5247,50.4751,20,1
+"39891",60172,"col","Lance",-104.7,43.37,"Zerbst Ranch Tracksite",NA,"",8,"Lancian","",70.6,66,17313,"gp_mid",-65.91,53.93,"101",68.3,"maastrichtian",9623,-79.4209,48.0444,20,1
 "40075",60378,"col","Maevarano",46.58,-15.9,"RN4, Berivotra sauropod",NA,"Berifitra",1,"Maastrichtian","",72.1,66,17369,"gp_mid",43.76,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
 "40157",60474,"col","La Posa",0.8,42.08,"Sant Esteve de la Sarga, Moró",NA,"Tremp, Moror, Alsina, Alzina",7,"Early Maastrichtian","",70.6,66,55388,"gp_mid",10.63,30.13,"304",68.3,"maastrichtian",9704,1.8743,36.4525,20,1
+"40230",60555,"col","Lance",-104.67,43.28,"Dogie Creek drainage",NA,"",1,"Maastrichtian","",72.1,66,33282,"gp_mid",-65.27,53.93,"101",69.05,"maastrichtian",7762,-79.4209,48.0444,20,1
 "40865",61234,"col","",-0.67,40.75,"Cirugeda 1",NA,"",1,"Maastrichtian","",72.1,66,17597,"gp_mid",9.27,28.49,"304",69.05,"maastrichtian",9867,1.6832,33.9574,20,1
 "40866",61235,"col","",-0.67,40.75,"Cirugeda 2",NA,"",1,"Maastrichtian","",72.1,66,17597,"gp_mid",9.27,28.49,"304",69.05,"maastrichtian",9867,1.6832,33.9574,20,1
 "40942",61321,"col","Calizas de Lychnus",-3.52,41.98,"Quintanilla del Coco",NA,"",20,"Maastrichtian","",72.1,66,37147,"gp_mid",7.2,30.17,"304",69.05,"maastrichtian",9889,-1.5591,36.6397,20,1
@@ -1556,6 +1738,7 @@
 "41221",61624,"col","",5.93,43.63,"Les Bréguières (LBR)",NA,"",2,"Late Maastrichtian","",70.6,66,14215,"gp_mid",14.03,31.27,"305",68.3,"maastrichtian",9957,7.0017,37.7633,20,1
 "41333",61738,"col","Kemp Clay",-96,33.25,"Kemp Clay Formation",NA,"Kemp Clay, located in the north bank of the South Sulphur River, situated approximately five miles from Commerce, Hunt County,Texas(U.S.A).",41,"Late Maastrichtian","",70.6,66,17766,"gp_mid",-62.47,41.96,"101",68.3,"maastrichtian",9983,-74.489,36.9958,20,1
 "41351",61807,"col","New Egypt",-74.57,40.1,"New Egypt Formation",NA,"",17,"Late Maastrichtian","",70.6,66,17824,"gp_mid",-37.73,41.27,"109",68.3,"maastrichtian",9992,-49.7074,40.1646,20,1
+"41428",61888,"col","Lance",-105.24,42.65,"Schneider Creek [CM]",NA,"",1,"Maastrichtian","",72.1,66,17876,"gp_mid",-66.36,53.52,"101",69.05,"maastrichtian",7643,-79.4209,48.0444,20,1
 "41803",62496,"col","Maastricht",5.83,50.86,"Valkenburg aan de Geul",NA,"",4,"Late Maastrichtian","",70.6,66,44455,"gp_mid",15.21,38.44,"315",68.3,"maastrichtian",10112,7.7721,44.0507,20,1
 "42915",64300,"col","",23.22,38.45,"Akraifnion, Boeotia",NA,"",4,"Maastrichtian","",72.1,66,18332,"gp_mid",24.89,19.02,"307",69.05,"maastrichtian",10345,21.2486,24.2856,20,1
 "42917",64302,"col","",22.63,38.36,"Antikyra, Kefallinia Peninsula, Boeotia",NA,"Reef 2645",7,"Maastrichtian","",72.1,66,18332,"gp_mid",24.43,19.2,"307",69.05,"maastrichtian",10346,21.2486,24.2856,20,1
@@ -1563,6 +1746,9 @@
 "43015",64429,"col","Hell Creek",-105.12,46.26,"Hockett, Powder River (AMNH)",NA,"",1,"Maastrichtian","",72.1,66,18611,"gp_mid",-63.51,56.75,"101",69.05,"maastrichtian",10376,-77.5314,52.8981,20,1
 "43025",64439,"col","Ocozocoautla",-93.08,16.93,"Ocozocoautla Fm., bed 2016",NA,"",15,"Early Maastrichtian","",70.6,66,18615,"gp_mid",-66.21,25.72,"205",68.3,"maastrichtian",10381,-74.0181,21.6246,20,1
 "43026",64440,"col","Ocozocoautla",-93.08,16.93,"Ocozocoautla Fm., bed 2011",NA,"",2,"Early Maastrichtian","",70.6,66,18615,"gp_mid",-66.21,25.72,"205",68.3,"maastrichtian",10381,-74.0181,21.6246,20,1
+"43116",64644,"col","Lance",-104.41,43.44,"Seven Mile Creek (USNM)",NA,"",1,"Maastrichtian","",72.1,66,12773,"gp_mid",-64.87,53.99,"101",69.05,"maastrichtian",6523,-79.4209,48.0444,20,1
+"43117",64645,"col","Lance",-104.55,43.16,"YPM 335, Lance Creek",NA,"",1,"Maastrichtian","",72.1,66,14074,"gp_mid",-65.23,53.78,"101",69.05,"maastrichtian",6597,-79.4209,48.0444,20,1
+"43239",64833,"col","Quiriquina",-71.68,-33.36,"Algarrobo (Estratos de Quebrada Municipalidad)",NA,"",2,"Late Maastrichtian","",70.6,66,18713,"gp_mid",-56.89,-33.04,"291",68.3,"maastrichtian",10435,-55.2342,-34.9677,20,1
 "43471",65221,"col","Muwaqqar Chalk-Marl",36.27,30.75,"Al Hasa Mine",NA,"",4,"Maastrichtian","",72.1,66,18800,"gp_mid",37.44,8.93,"503",69.05,"maastrichtian",10518,34.5638,15.8849,20,1
 "43472",65222,"col","",36.09,29.99,"Eshidiya Mine",NA,"",10,"Early Maastrichtian","",70.6,66,18800,"gp_mid",37.03,8.52,"503",68.3,"maastrichtian",10519,34.5638,15.8849,20,1
 "43473",65223,"col","",36.38,29.8,"Naqb Etaik",NA,"",13,"Early Maastrichtian","",70.6,66,18800,"gp_mid",37.23,8.27,"503",68.3,"maastrichtian",10520,34.5638,15.8849,20,1
@@ -1729,6 +1915,7 @@
 "48391",72067,"col","Moreno Grande",-120.93,36.87,"Area 8: Ortigalita Creek, E side of Diablo Range, Merced",NA,"",1,"Early Maastrichtian","",70.6,66,24379,"gp_mid",-85.51,49.52,"130",68.3,"maastrichtian",11866,-97.323,42.8374,20,1
 "48393",72069,"col","",-121.83,37.92,"Area 7: Deer Valley and Martinez, Contra Costa",NA,"",1,"Late Maastrichtian","",70.6,66,24379,"gp_mid",-86.19,50.72,"130",68.3,"maastrichtian",11867,-97.323,42.8374,20,1
 "48394",72070,"col","Moreno",-121.22,37.07,"Area 8: Pacheco Pass, E side of Diablo Range",NA,"",1,"Late Maastrichtian","",70.6,66,24379,"gp_mid",-85.77,49.77,"130",68.3,"maastrichtian",11868,-97.323,42.8374,20,1
+"48448",72145,"col","Lance",-104.47,43.38,"UW Pachycephalosaur site",NA,"",1,"Lancian","",70.6,66,24421,"gp_mid",-65.65,53.87,"101",68.3,"maastrichtian",11882,-79.4209,48.0444,20,1
 "48563",72285,"col","Calcaires à Baculites",-1.35,49.43,"Asteroidea, Calcaires a Baculites, Maestrichtien, Fresville, Manche",NA,"",6,"Maastrichtian","",72.1,66,17476,"gp_mid",9.53,37.7,"305",69.05,"maastrichtian",11911,1.0688,43.9984,20,1
 "48692",73148,"col","Titanosarcolites Limestone",-78.13,18.42,"Jerusalem Mountain Inlier, Parish of Hanover [Titanosarcolites Lmst]",27650,"",3,"Maastrichtian","",72.1,66,24580,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",11937,-72.8418,17.8385,20,1
 "48705",73168,"col","Titanosarcolites Limestone",-77.88,18.3,"Marchmont Inlier, St. James Parish",NA,"",4,"Maastrichtian","",72.1,66,24580,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",11940,-72.8418,17.8385,20,1
@@ -1816,7 +2003,13 @@
 "49757",74608,"col","Arén",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 82, Pyrenees",NA,"",2,"Early Maastrichtian","",70.6,66,25067,"gp_mid",10.64,30.07,"304",68.3,"maastrichtian",12157,1.8743,36.4525,20,1
 "49758",74609,"col","Arén",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 83, Pyrenees",NA,"",7,"Early Maastrichtian","",70.6,66,25067,"gp_mid",10.64,30.07,"304",68.3,"maastrichtian",12157,1.8743,36.4525,20,1
 "49866",74810,"col","Ocozocoautla",-93.37,16.8,"Ocozocoautla, Chiapas",NA,"",12,"Maastrichtian","",72.1,66,25213,"gp_mid",-65.99,25.76,"205",69.05,"maastrichtian",12212,-74.0181,21.6246,20,1
+"50025",75105,"col","",4.47,16.97,"Tigarouba",NA,"",1,"Maastrichtian","",72.1,66,25315,"gp_mid",7.23,2.8,"714",69.05,"maastrichtian",12268,1.0166,9.027,20,1
+"50088",75291,"col","Ferris",-106.85,41.94,"UW V-92039, The Beautiful Tiger Moth",NA,"",0,"Lancian","",70.6,66,2236,"gp_mid",-69.33,53.27,"101",68.3,"maastrichtian",1677,-79.4209,48.0444,20,1
+"50089",75292,"col","Ferris",-106.85,41.94,"UW V-92040, Fade to Black",NA,"",5,"Lancian","",70.6,66,2236,"gp_mid",-69.33,53.27,"101",68.3,"maastrichtian",1677,-79.4209,48.0444,20,1
+"50090",75293,"col","Ferris",-106.85,41.94,"UW V-93028, Strange Daze",NA,"",2,"Lancian","",70.6,66,2236,"gp_mid",-69.33,53.27,"101",68.3,"maastrichtian",1677,-79.4209,48.0444,20,1
+"50091",75294,"col","Ferris",-106.85,41.94,"UW V-93009, Lost Boys",NA,"",7,"Lancian","",70.6,66,2236,"gp_mid",-69.33,53.27,"101",68.3,"maastrichtian",1677,-79.4209,48.0444,20,1
 "50631",76211,"col","La Maçana",1.27,41.37,"Figuerola 2, Unit 1",NA,"",2,"Early Maastrichtian","",70.6,66,25834,"gp_mid",10.86,29.36,"304",68.3,"maastrichtian",4295,1.8743,36.4525,20,1
+"50782",76719,"col","",-17.08,14.57,"Corals, Maastrichtian, Popenguine, Senegal",NA,"",6,"Maastrichtian","",72.1,66,25958,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",12553,-20.9811,10.6996,20,1
 "50784",76728,"col","Moreno",-120.69,36.5,"Toxochelyid, UCMP V79088",NA,"",1,"Maastrichtian","",72.1,66,42682,"gp_mid",-84.84,49.25,"130",69.05,"maastrichtian",12555,-97.323,42.8374,20,1
 "50785",76729,"col","Moreno",-120.69,36.5,"Staebler's Turtle 2, UCMP V79052",NA,"CSUF-118A",2,"Maastrichtian","",72.1,66,25965,"gp_mid",-84.84,49.25,"130",69.05,"maastrichtian",12555,-97.323,42.8374,20,1
 "50786",76730,"col","Moreno",-120.69,36.5,"Panoche Hills 11, UCMP V782080",NA,"CNS-80-109",1,"Maastrichtian","",72.1,66,25965,"gp_mid",-84.84,49.25,"130",69.05,"maastrichtian",12555,-97.323,42.8374,20,1
@@ -1844,9 +2037,14 @@
 "51491",78130,"col","Ripley",-85.14,31.78,"USGS 858, Alexander Landing",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.19,37.14,"109",68.3,"maastrichtian",645,-63.0321,34.9678,20,1
 "51492",78131,"col","Ripley",-85.12,31.72,"USGS 859, Chattahoochee River",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.2,37.07,"109",68.3,"maastrichtian",12766,-63.0321,34.9678,20,1
 "51493",78132,"col","Peedee",-78.89,33.69,"USGS 16435, Myrtle Beach",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-45.19,36.85,"109",68.3,"maastrichtian",12767,-55.5661,33.5719,20,1
+"51494",78133,"col","Peedee",-77.29,35.25,"Wadsworth marl pit, Craven",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-42.89,37.75,"109",68.3,"maastrichtian",12768,-54.8807,36.0077,20,1
+"51495",78134,"col","Peedee",-77.87,34.46,"USGS 12262, New Rocky Point Quarry",NA,"",2,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-43.84,37.22,"109",68.3,"maastrichtian",12769,-54.8807,36.0077,20,1
 "51519",78173,"col","",-76.85,38.9,"Brightseat, Prince George's",NA,"",2,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-40.53,40.93,"109",68.3,"maastrichtian",12772,-49.7074,40.1646,20,1
+"51525",78179,"col","Nacatoch Sand",-93.06,34.15,"USGS 13541, Ouachita River",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-58.97,41.86,"101",68.3,"maastrichtian",12776,-69.954,38.774,20,1
 "51526",78180,"col","Ripley",-88.83,34.6,"Bullock's old mill, Dumas",NA,"",1,"Maastrichtian","",72.1,66,26335,"gp_mid",-53.84,40.99,"101",69.05,"maastrichtian",12777,-66.1294,38.0947,20,1
 "51528",78182,"col","Ripley",-88.01,32.51,"USGS 11663, Coatopa",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-54.68,38.74,"101",68.3,"maastrichtian",12778,-63.0321,34.9678,20,1
+"51529",78183,"col","Marlbrook Marl",-93.14,34.08,"USGS 7460, Big Deciper Creek",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-59.08,41.83,"101",68.3,"maastrichtian",12779,-69.954,38.774,20,1
+"51530",78184,"col","Nacatoch Sand",-93.65,33.8,"USGS 7469, Washington",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-59.76,41.73,"101",68.3,"maastrichtian",12780,-69.954,38.774,20,1
 "51536",78190,"col","Mount Laurel",-75.64,39.55,"Marl pit east of St. Georges",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-39.03,41.12,"109",68.3,"maastrichtian",12783,-49.7074,40.1646,20,1
 "51538",78195,"col","Prairie Bluff Chalk",-88.93,34.43,"USGS 9604, Wallerville",NA,"",2,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-54.64,40.81,"101",68.3,"maastrichtian",12785,-66.1294,38.0947,20,1
 "51543",78200,"col","Prairie Bluff Chalk",-88.21,32.6,"USGS 18143, Sumter",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-54.84,38.89,"101",68.3,"maastrichtian",12786,-66.8152,35.6556,20,1
@@ -1866,6 +2064,9 @@
 "53038",81042,"col","Hell Creek",-106.28,47.65,"Coyote Basin Trike (UCMP V-99216)",NA,"",1,"Lancian","",70.6,66,27184,"gp_mid",-64.35,58.27,"101",68.3,"maastrichtian",13258,-77.5314,52.8981,20,1
 "53475",81850,"col","Hornerstown",-74.1,40.3,"Cook's Pit, Tinton Falls",NA,"",2,"Late Maastrichtian","",70.6,66,27587,"gp_mid",-37.19,41.3,"109",68.3,"maastrichtian",679,-49.7074,40.1646,20,1
 "53571",81999,"col","Navesink",-75.16,39.76,"Barnsboro ""greensand"" (Navesink)",NA,"Barnesboro",11,"Maastrichtian","",72.1,66,15634,"gp_mid",-37.85,41.17,"109",69.05,"maastrichtian",13495,-49.7074,40.1646,20,1
+"53583",82037,"col","Miria",114.08,-23.02,"Remarkable Hill, Giralia-Cardabia Range - Miria Fm [Nautiloidea]",NA,"",1,"Maastrichtian","",72.1,66,18233,"gp_mid",114.92,-53.92,"801",69.05,"maastrichtian",13500,99.6657,-47.8257,20,1
+"53888",82388,"col","",114.08,-23.02,"Loc. A, Remarkable Hill",NA,"",7,"Maastrichtian","",72.1,66,27754,"gp_mid",114.92,-53.92,"801",69.05,"maastrichtian",13500,99.6657,-47.8257,20,1
+"53889",82389,"col","",114.08,-23.02,"Loc. B, Remarkable Hill",NA,"",10,"Maastrichtian","",72.1,66,27754,"gp_mid",114.92,-53.92,"801",69.05,"maastrichtian",13500,99.6657,-47.8257,20,1
 "53896",82396,"col","Ciolo Limestone",18.42,40.03,"Cava Soframa [Ciolo Limestone",NA,"",4,"Early Maastrichtian","",70.6,66,27758,"gp_mid",22.35,22.57,"307",68.3,"maastrichtian",13599,19.5445,27.8148,20,1
 "53897",82397,"col","Ciolo Limestone",18.42,40.02,"Cava Due [Ciolo Limestone",NA,"",1,"Early Maastrichtian","",70.6,66,27758,"gp_mid",22.35,22.56,"307",68.3,"maastrichtian",13600,19.5445,27.8148,20,1
 "53898",82398,"col","Ciolo Limestone",18.39,39.84,"Ciolo Cove [Ciolo Limestone",NA,"",16,"Late Maastrichtian","",70.6,66,27758,"gp_mid",22.21,22.43,"307",68.3,"maastrichtian",13601,19.5445,27.8148,20,1
@@ -1903,6 +2104,8 @@
 "54525",83238,"col","Prairie Bluff",-86.78,32.05,"Braggs-Upper Prairie Bluff",NA,"",95,"Late Maastrichtian","",70.6,66,27936,"gp_mid",-53.68,37.92,"109",68.3,"maastrichtian",13793,-63.0321,34.9678,20,1
 "54526",83239,"col","Ripley",-86.78,32.05,"Braggs-Ripley",NA,"",56,"Maastrichtian","",72.1,66,27936,"gp_mid",-53.08,37.97,"109",69.05,"maastrichtian",13793,-63.0321,34.9678,20,1
 "54560",83299,"col","Hell Creek",-106.8,46.38,"Castle Butte (USNM)",NA,"L&W locality 26",1,"Maastrichtian","",72.1,66,12332,"gp_mid",-65.33,57.37,"101",69.05,"maastrichtian",13816,-77.5314,52.8981,20,1
+"54562",83302,"col","Peedee",-78.27,34.4,"Black Rock Landing, Cape Fear River [PeeDee]",NA,"milepost 37, USGS 3449, USGS 5371",15,"Late Maastrichtian","",70.6,66,64076,"gp_mid",-44.25,37.3,"109",68.3,"maastrichtian",13818,-54.8807,36.0077,20,1
+"54565",83308,"col","Intertrappean ",72.83,19.16,"Amboli Quarry",NA,"Jogeshwari",1,"Late Maastrichtian","",70.6,66,27976,"gp_mid",63.81,-30.44,"501",68.3,"maastrichtian",13821,56.6698,-19.0735,20,1
 "54567",83310,"col","Dakhla",26.54,29.99,"Ammonite Hill interdunal channel 31 (271080/1)",NA,"",3,"Maastrichtian","",72.1,66,27976,"gp_mid",29.99,10.94,"715",69.05,"maastrichtian",13823,23.7425,18.5919,20,1
 "54577",83331,"col","Severn",-76.71,38.96,"Belair Drive stream, Bowie",NA,"",47,"Maastrichtian","",72.1,66,27982,"gp_mid",-39.74,40.96,"109",69.05,"maastrichtian",13829,-49.7074,40.1646,20,1
 "54794",83613,"col","Fuentes",-72.03,-52.55,"Loc. 1, Bahia Altamirano [Fuentes Fm]",NA,"",5,"Late Maastrichtian","",70.6,66,27997,"gp_mid",-63.75,-51.56,"291",68.3,"maastrichtian",13878,-56.9287,-54.9331,20,1
@@ -1932,6 +2135,31 @@
 "54928",83792,"col","Moreno",-121.79,37.92,"CAS 2539, Deer Valley",NA,"",8,"Maastrichtian","",72.1,66,11610,"gp_mid",-85.62,50.84,"130",69.05,"maastrichtian",13923,-97.323,42.8374,20,1
 "54929",83793,"col","Moreno",-121.78,37.91,"CAS 25707, Deer Valley",NA,"",12,"Maastrichtian","",72.1,66,11610,"gp_mid",-85.61,50.83,"130",69.05,"maastrichtian",13924,-97.323,42.8374,20,1
 "54930",83794,"col","Moreno",-121.71,37.85,"Kellogg Creek [Garzas Sand, Moreno Fm]",NA,"",6,"Maastrichtian","",72.1,66,11610,"gp_mid",-85.55,50.76,"130",69.05,"maastrichtian",13925,-97.323,42.8374,20,1
+"54940",83839,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 1, Giralia Range [Korojon Calcarenite]",NA,"",2,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54942",83841,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 2, Giralia Range [Korojon Calcarenite]",NA,"",2,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54943",83842,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 4, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54944",83843,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 5, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54945",83844,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 10, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54946",83845,"col","Korojon Calcarenite",114.19,-22.74,"Loc. 12, Giralia Range [Miria Fm]",NA,"",19,"Maastrichtian","",72.1,66,11131,"gp_mid",115.05,-53.64,"801",69.05,"maastrichtian",13927,99.6657,-47.8257,20,1
+"54947",83846,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 21, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54948",83847,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 24, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54949",83848,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 26, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54950",83849,"col","Korojon Calcarenite",114.35,-22.68,"Loc. 3, Giralia Range [Korojon Calcarenite]",NA,"",1,"Maastrichtian","",72.1,66,28100,"gp_mid",115.3,-53.57,"801",69.05,"maastrichtian",8701,99.6657,-47.8257,20,1
+"54951",83850,"col","Miria",114.12,-22.89,"Loc. 6, Giralia Range [Miria Fm]",NA,"",16,"Maastrichtian","",72.1,66,11131,"gp_mid",114.96,-53.79,"801",69.05,"maastrichtian",13928,99.6657,-47.8257,20,1
+"54952",83851,"col","Miria",114.12,-22.88,"Loc. 7, Giralia Range [Miria Fm]",NA,"",11,"Maastrichtian","",72.1,66,11131,"gp_mid",114.96,-53.78,"801",69.05,"maastrichtian",13929,99.6657,-47.8257,20,1
+"54953",157784,"col","Miria",114.11,-22.87,"Loc. 8, Giralia Range [Miria Fm]",NA,"",5,"Maastrichtian","",72.1,66,11131,"gp_mid",114.96,-53.77,"801",69.05,"maastrichtian",13930,99.6657,-47.8257,20,1
+"54954",83852,"col","Miria Calcarenite",114.25,-22.67,"Loc. 15, Giralia Range [Miria Fm]",NA,"",17,"Maastrichtian","",72.1,66,11131,"gp_mid",115.15,-53.56,"801",69.05,"maastrichtian",13931,99.6657,-47.8257,20,1
+"54955",83853,"col","Miria",114.24,-22.7,"Loc. 16, Giralia Range [Miria Fm]",NA,"",18,"Maastrichtian","",72.1,66,28100,"gp_mid",115.13,-53.59,"801",69.05,"maastrichtian",13932,99.6657,-47.8257,20,1
+"54956",83854,"col","Miria",114.22,-22.69,"Loc. 19, Giralia Range [Miria Fm]",NA,"",10,"Maastrichtian","",72.1,66,11131,"gp_mid",115.1,-53.59,"801",69.05,"maastrichtian",13933,99.6657,-47.8257,20,1
+"54957",83855,"col","Miria",114.22,-22.69,"Loc. 20, Giralia Range [Miria Fm]",NA,"",12,"Maastrichtian","",72.1,66,11131,"gp_mid",115.1,-53.59,"801",69.05,"maastrichtian",13933,99.6657,-47.8257,20,1
+"54958",83856,"col","Miria",114.17,-22.8,"Loc. 22, Giralia Range [Miria Fm]",NA,"",8,"Maastrichtian","",72.1,66,11131,"gp_mid",115.03,-53.7,"801",69.05,"maastrichtian",13934,99.6657,-47.8257,20,1
+"54959",83857,"col","Miria",114.23,-22.68,"Loc. 25, Giralia Range [Miria Fm]",NA,"",17,"Maastrichtian","",72.1,66,11131,"gp_mid",115.11,-53.57,"801",69.05,"maastrichtian",13935,99.6657,-47.8257,20,1
+"54961",83859,"col","Miria",114.19,-22.74,"Loc. 12, Giralia Range [Korojon Calcarenite]",NA,"",2,"Maastrichtian","",72.1,66,28100,"gp_mid",115.05,-53.64,"801",69.05,"maastrichtian",13927,99.6657,-47.8257,20,1
+"54962",83860,"col","Miria",114.26,-22.68,"Loc. 21, Giralia Range [Miria Fm]",NA,"",6,"Maastrichtian","",72.1,66,11131,"gp_mid",115.16,-53.58,"801",69.05,"maastrichtian",13937,99.6657,-47.8257,20,1
+"54963",83861,"col","Miria",114.22,-22.68,"Loc. 24, Giralia Range [Miria Fm]",NA,"",6,"Maastrichtian","",72.1,66,11131,"gp_mid",115.11,-53.58,"801",69.05,"maastrichtian",13938,99.6657,-47.8257,20,1
+"54964",83862,"col","Miria",114.1,-22.92,"Loc. 5, Giralia Range [Miria Fm]",NA,"",14,"Maastrichtian","",72.1,66,11131,"gp_mid",114.94,-53.82,"801",69.05,"maastrichtian",13939,99.6657,-47.8257,20,1
+"54965",83863,"col","Miria",114.26,-22.68,"Loc. 26, Giralia Range [Miria Fm]",NA,"",5,"Maastrichtian","",72.1,66,11131,"gp_mid",115.16,-53.58,"801",69.05,"maastrichtian",13937,99.6657,-47.8257,20,1
+"54966",83864,"col","",114.08,-22.99,"Loc. 3, Giralia Range [Miria Fm]",NA,"",5,"Maastrichtian","",72.1,66,11131,"gp_mid",114.92,-53.89,"801",69.05,"maastrichtian",13940,99.6657,-47.8257,20,1
 "55282",84299,"col","Laramie",-105.21,39.74,"Fossil Trace Golf Course",NA,"",2,"Maastrichtian","",72.1,66,28246,"gp_mid",-68.23,50.85,"101",69.05,"maastrichtian",14044,-80.2362,45.6074,20,1
 "55336",84446,"col","Maastricht",5.67,50.8,"CBR-Romontbos Quarry (Base of Valkenburg Mbr.)",NA,"Cimenterie Belge Réunie",2,"Late Maastrichtian","",70.6,66,28287,"gp_mid",15.07,38.4,"315",68.3,"maastrichtian",3611,7.7721,44.0507,20,1
 "55342",84455,"col","Hell Creek",-103.95,46.29,"""Dakota"" site, Marmarth",NA,"",1,"Maastrichtian","",72.1,66,28299,"gp_mid",-62.17,56.41,"101",69.05,"maastrichtian",14071,-77.5314,52.8981,20,1
@@ -2030,6 +2258,7 @@
 "58365",88511,"col","Fox Hills",-100.88,45.14,"Black Hills [Timber Lake Mbr, Fox Hills Fm]",NA,"",57,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.39,54.35,"101",68.3,"maastrichtian",15155,-74.5106,49.8295,20,1
 "58366",88512,"col","Pierre Shale",-100.88,45.14,"Black Hills [Elk Butte Mbr, Pierre Shale]",NA,"",6,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.39,54.35,"101",68.3,"maastrichtian",15155,-74.5106,49.8295,20,1
 "58367",88513,"col","Pierre Shale",-101.22,45.19,"Locality 32, Moreau River",NA,"",1,"Early Maastrichtian","",70.6,66,29676,"gp_mid",-60.73,54.5,"101",68.3,"maastrichtian",15156,-74.5106,49.8295,20,1
+"58368",178588,"col","Fox Hills",-104.35,43.18,"RB103, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.66,53.65,"101",68.3,"maastrichtian",15157,-79.4209,48.0444,20,1
 "58369",88514,"col","Pierre Shale",-101.13,45.75,"Corson Co. [Mobridge Mbr, Pierre Shale]",NA,"",4,"Early Maastrichtian","",70.6,66,29676,"gp_mid",-60.19,54.97,"101",68.3,"maastrichtian",15158,-74.5106,49.8295,20,1
 "58748",88987,"col","Hell Creek",-104.83,45.77,"BMRP 2001.1",NA,"",1,"Maastrichtian","",72.1,66,29828,"gp_mid",-63.59,56.22,"101",69.05,"maastrichtian",15270,-78.5247,50.4751,20,1
 "58749",88988,"col","Hell Creek",-104.77,45.79,"BMRP 2007.1",NA,"",1,"Maastrichtian","",72.1,66,29828,"gp_mid",-63.5,56.22,"101",69.05,"maastrichtian",15271,-78.5247,50.4751,20,1
@@ -2039,7 +2268,9 @@
 "59356",90228,"col","Pierre Shale",-102.7,43.92,"Creston",NA,"",3,"Maastrichtian","",72.1,66,30285,"gp_mid",-62.62,53.89,"101",69.05,"maastrichtian",15482,-74.5106,49.8295,20,1
 "59357",90229,"col","Pierre Shale",-102.98,43.92,"Thomson Butte",NA,"Thompson Butte",3,"Maastrichtian","",72.1,66,30285,"gp_mid",-62.94,53.98,"101",69.05,"maastrichtian",15483,-74.5106,49.8295,20,1
 "59358",90230,"col","Pierre Shale",-100.43,45.53,"Mobridge",NA,"",3,"Maastrichtian","",72.1,66,30285,"gp_mid",-58.93,54.63,"101",69.05,"maastrichtian",15484,-74.5106,49.8295,20,1
+"59524",90498,"col","Nacatoch",-93.07,34.15,"High Bluff",NA,"Locality AC-1; North of Arkadelphia",2,"Late Maastrichtian","",70.6,66,30447,"gp_mid",-58.98,41.87,"101",68.3,"maastrichtian",15580,-69.954,38.774,20,1
 "59525",90499,"col","Saratoga",-93.92,33.73,"Southwest of Saratoga",NA,"Locality AHe-1",1,"Early Maastrichtian","",70.6,66,30447,"gp_mid",-60.07,41.75,"101",68.3,"maastrichtian",15581,-70.6337,36.3327,20,1
+"59526",90500,"col","Saratoga",-93.92,34.75,"Saratoga Chalk Type Locality",NA,"Locality AH-1; North Edge of Saratoga",12,"Early Maastrichtian","",70.6,66,30447,"gp_mid",-59.55,42.69,"101",68.3,"maastrichtian",15582,-69.954,38.774,20,1
 "59700",90734,"col","",22.23,47.06,"Nagy-Bároth",NA,"",1,"Maastrichtian","",72.1,66,13876,"gp_mid",29.47,26.57,"308",69.05,"maastrichtian",15638,20.5301,39.6576,20,1
 "59722",90760,"col","Prairie Bluff",-88.78,33.46,"MSU campus, Starkville [Prairie Bluff Fm]",NA,"",1,"Late Maastrichtian","",70.6,66,30546,"gp_mid",-54.99,39.86,"101",68.3,"maastrichtian",15651,-66.8152,35.6556,20,1
 "59724",90762,"col","Meerssen Chalk",5.67,50.82,"Albert Canal, near Neercanne [Meerssen Chalk]",NA,"",2,"Late Maastrichtian","",70.6,66,30548,"gp_mid",15.07,38.42,"315",68.3,"maastrichtian",15652,7.7721,44.0507,20,1
@@ -2079,6 +2310,7 @@
 "60099",91388,"col","Monte Cassio Flysch",10.92,44.53,"Sample Ca 13 [Monte Cassio Flysch]",NA,"",14,"Early Maastrichtian","",70.6,66,30754,"gp_mid",20.41,29.5,"307",68.3,"maastrichtian",15783,16.6623,34.8465,20,1
 "60413",91744,"col","Marnes Rouges Inférieures",2.21,42.93,"Campagne-sur-Aude (C II)",NA,"Rennes-le-Château, Espéraza",2,"Early Maastrichtian","",70.6,66,30925,"gp_mid",10.78,30.97,"305",68.3,"maastrichtian",8518,5.3019,36.2892,20,1
 "60414",91745,"col","Marnes Rouges Inférieures",2.22,42.93,"Espéraza-La Roquette",NA,"Campagne-sur-Aude",1,"Early Maastrichtian","",70.6,66,30925,"gp_mid",10.79,30.97,"305",68.3,"maastrichtian",15881,5.3019,36.2892,20,1
+"60927",92270,"col","Miria",114,-22.73,"Toothawarra Creek",NA,"",1,"Late Maastrichtian","",70.6,66,31087,"gp_mid",114.64,-53.28,"801",68.3,"maastrichtian",16060,99.6657,-47.8257,20,1
 "61064",92448,"col","La Posa",0.99,42.17,"Orcau-2 tracksite",NA,"",3,"Early Maastrichtian","",70.6,66,31167,"gp_mid",10.8,30.18,"304",68.3,"maastrichtian",16113,1.8743,36.4525,20,1
 "61646",93273,"col","Rugen",14.05,54.01,"Försterei Stagniess, Uckeritz, Insel Usedom",NA,"",3,"Maastrichtian","",72.1,66,31538,"gp_mid",22.58,40.77,"315",69.05,"maastrichtian",16282,14.1856,49.1897,20,1
 "61822",93562,"col","Guinea Corn",-77.4,18.15,"Grantham, bed D6",NA,"",8,"Late Maastrichtian","",70.6,66,31693,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",14175,-72.8418,17.8385,20,1
@@ -2114,6 +2346,7 @@
 "65074",97712,"col","Dakhla",27,25.42,"Great Sand Sea, Western Desert",NA,"",1,"Maastrichtian","",72.1,66,33392,"gp_mid",29.63,6.37,"715",69.05,"maastrichtian",17266,23.2149,13.6176,20,1
 "65104",97798,"col","Hell Creek",-103.56,45.71,"Niemi Ranch",NA,"",1,"Late Maastrichtian","",70.6,66,33794,"gp_mid",-62.89,55.7,"101",68.3,"maastrichtian",17275,-78.5247,50.4751,20,1
 "65118",97813,"col","Sebes",23.57,45.99,"Sebe Glod (SbG/A)",NA,"Sebes Glod",12,"Early Maastrichtian","",70.6,66,33802,"gp_mid",29.44,25.36,"308",68.3,"maastrichtian",17277,21.5826,39.4338,20,1
+"65147",97842,"col","Owl Creek",-89.83,36.93,"Crowleys Ridge",NA,"",1,"Late Maastrichtian","",70.6,66,33807,"gp_mid",-54.21,43.4,"101",68.3,"maastrichtian",17298,-65.3963,40.5296,20,1
 "65160",97855,"col","Maastricht",5.68,50.82,"ENCI Quarry, Maastricht B.V.  [Emael Member, Maastricht Fm]",NA,"",2,"Late Maastrichtian","",70.6,66,33824,"gp_mid",15.08,38.41,"315",68.3,"maastrichtian",17307,7.7721,44.0507,20,1
 "65177",97872,"col","Paso del Sapo",-70,-42.67,"Cañadón del Loro",NA,"",1,"Late Maastrichtian","",70.6,66,33831,"gp_mid",-57.95,-42.39,"291",68.3,"maastrichtian",17316,-55.9326,-44.9534,20,1
 "65248",97948,"col","Sânpetru",22.9,45.54,"Sânpetru-Scoabă",NA,"Scoabă; La Scoabă",4,"Late Maastrichtian","",70.6,66,33860,"gp_mid",28.74,25.25,"308",68.3,"maastrichtian",17335,21.5826,39.4338,20,1
@@ -2122,6 +2355,7 @@
 "66547",99441,"col","Hell Creek",-105.3,45.38,"Chalk Buttes, near Powderville",NA,"East Fork of the Little Powder River",3,"Maastrichtian","",72.1,66,34199,"gp_mid",-64.42,56.02,"101",69.05,"maastrichtian",17838,-78.5247,50.4751,20,1
 "66641",99588,"col","Maevarano",46.58,-15.9,"MAD93-36 (SUNY)",NA,"",1,"Maastrichtian","",72.1,66,34251,"gp_mid",43.75,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
 "66642",99589,"col","Hell Creek",-104,46.46,"PTRM V95018 (Silty Mudstone)",NA,"",7,"Maastrichtian","",72.1,66,34252,"gp_mid",-62.09,56.59,"101",69.05,"maastrichtian",2615,-77.5314,52.8981,20,1
+"66837",99864,"col","Lance",-105.05,43.43,"West of McKeow's Ranch",NA,"Cheyenne River",1,"Maastrichtian","",72.1,66,13456,"gp_mid",-65.59,54.18,"101",69.05,"maastrichtian",17936,-79.4209,48.0444,20,1
 "67056",100110,"col","Hell Creek",-105.63,47.95,"Southeast of Lismas",NA,"",1,"Maastrichtian","",72.1,66,13457,"gp_mid",-62.66,58.41,"101",69.05,"maastrichtian",18009,-77.5314,52.8981,20,1
 "67204",100356,"col","Conway",172.58,-43.05,"Waipara River",NA,"",1,"Early Maastrichtian","",70.6,66,34446,"gp_mid",-144.06,-49.62,"807",68.3,"maastrichtian",18059,-155.1954,-60.8859,20,1
 "68446",102073,"col","Coon Creek",-88.43,35.33,"South of Enville",NA,"",1,"Maastrichtian","",72.1,66,34683,"gp_mid",-53.05,41.53,"101",69.05,"maastrichtian",18587,-66.1294,38.0947,20,1
@@ -2141,6 +2375,7 @@
 "71314",106433,"col","",-128.13,69.37,"Locality P6502, Section I (sample 3)",NA,"Anderson River",2,"Maastrichtian","",72.1,66,35475,"gp_mid",-38.83,81.56,"101",69.05,"maastrichtian",19838,-84.31,77.7792,20,1
 "71315",106434,"col","",-128.13,69.37,"Locality P6502, Section I (sample 4)",NA,"Anderson River",5,"Maastrichtian","",72.1,66,35475,"gp_mid",-38.83,81.56,"101",69.05,"maastrichtian",19838,-84.31,77.7792,20,1
 "71316",106435,"col","",-128.13,69.37,"Locality P6502, Section I (sample 5)",NA,"Anderson River",3,"Maastrichtian","",72.1,66,35475,"gp_mid",-38.83,81.56,"101",69.05,"maastrichtian",19838,-84.31,77.7792,20,1
+"71350",106495,"col","Miria",114.31,-22.7,"West Tank, Giralia Station",NA,"",1,"Late Maastrichtian","",70.6,66,35580,"gp_mid",115.11,-53.23,"801",68.3,"maastrichtian",19855,99.6657,-47.8257,20,1
 "71476",106705,"col","",12.38,-14.27,"Bentiaba",NA,"Sao Nicolau",18,"Maastrichtian","",72.1,66,48111,"gp_mid",6.39,-29.39,"701",69.05,"maastrichtian",19892,3.2264,-24.2341,20,1
 "71488",106757,"col","Conway",172.58,-43.06,"Waipara River, upstream from Laidmore Bridge (M3/f9254)",NA,"S68/314, 318-9, 766, 1254",15,"Late Maastrichtian","",70.6,66,35643,"gp_mid",-144.06,-49.63,"807",68.3,"maastrichtian",19898,-155.1954,-60.8859,20,1
 "72021",107501,"col","Prairie Bluff Chalk",-88.08,32.92,"Near West Greene",NA,"",1,"Maastrichtian","",72.1,66,35777,"gp_mid",-53.95,39.2,"101",69.05,"maastrichtian",20044,-63.0321,34.9678,20,1
@@ -2175,6 +2410,7 @@
 "78323",114766,"col","Yacoraite",-65.95,-25.38,"Quebrada La Escalera, Rio Tonco",NA,"Dolichochampsa minima type locality",3,"Maastrichtian","",72.1,66,37194,"gp_mid",-49.04,-26.17,"201",69.05,"maastrichtian",21976,-50.9858,-27.6266,20,1
 "78324",114767,"col","Yacoraite",-66.25,-24.35,"Corral Negro",NA,"Acay Oeste",4,"Maastrichtian","",72.1,66,55175,"gp_mid",-49.11,-25.1,"201",69.05,"maastrichtian",21977,-50.9858,-27.6266,20,1
 "78384",114828,"col","Maevarano",46.32,-15.72,"Mahajanga Basin",NA,"Miadanasuchus (""Trematochampsa"") oblita type locality",1,"Maastrichtian","",72.1,66,37204,"gp_mid",43.45,-36.36,"702",69.05,"maastrichtian",21986,39.3627,-27.4789,20,1
+"78474",114954,"col","Ménaka",2,18.33,"Iullemmeden basin",NA,"Mali-8",13,"Maastrichtian","",72.1,66,37222,"gp_mid",5.35,4.76,"714",69.05,"maastrichtian",21993,1.0166,9.027,20,1
 "78485",114971,"col","El Molino",-65.81,-19.52,"La Palca village",NA,"",1,"Maastrichtian","",72.1,66,37227,"gp_mid",-47.64,-20.44,"201",69.05,"maastrichtian",21995,-50.7552,-22.631,20,1
 "78492",115004,"col","Sard",23.5,46.03,"Cuptorului Hill (DC)",NA,"",5,"Early Maastrichtian","",70.6,66,37235,"gp_mid",29.41,25.42,"308",68.3,"maastrichtian",21996,21.5826,39.4338,20,1
 "78493",115012,"col","Sard",23.58,46.11,"Barabant (Bb)",NA,"Borbánd",1,"Early Maastrichtian","",70.6,66,37252,"gp_mid",29.52,25.45,"308",68.3,"maastrichtian",21997,21.5826,39.4338,20,1
@@ -2196,6 +2432,8 @@
 "80859",118210,"col","Maevarano",46.05,-15.98,"MAD03-23",NA,"",2,"Maastrichtian","",72.1,66,38067,"gp_mid",43.11,-36.62,"702",69.05,"maastrichtian",21970,39.3627,-27.4789,20,1
 "80860",118211,"col","Maevarano",46.05,-15.98,"MAD05-59",NA,"",1,"Maastrichtian","",72.1,66,38067,"gp_mid",43.11,-36.62,"702",69.05,"maastrichtian",21970,39.3627,-27.4789,20,1
 "80959",118381,"col","Hell Creek",-103.95,46.29,"Bucklin Township, near Marmarth",NA,"Gamerabaena sonsalla type locality",5,"Late Maastrichtian","",70.6,66,38136,"gp_mid",-62.87,56.33,"101",68.3,"maastrichtian",14071,-77.5314,52.8981,20,1
+"81004",118461,"col","Lance",-104.29,43.24,"Lance Creek area (non-specific)",NA,"",5,"Late Maastrichtian","",70.6,66,14538,"gp_mid",-65.54,53.69,"101",68.3,"maastrichtian",22662,-79.4209,48.0444,20,1
+"81005",118466,"col","Lance",-104.43,42.76,"Niobrara county, Lance Formation (1892 AMNH expedition)",NA,"",2,"Late Maastrichtian","",70.6,66,14538,"gp_mid",-66.04,53.29,"101",68.3,"maastrichtian",22663,-79.4209,48.0444,20,1
 "81496",119007,"col","Hell Creek",-106.58,47.7,"Crooked Creek",NA,"",7,"Late Maastrichtian","",70.6,66,38233,"gp_mid",-64.66,58.4,"101",68.3,"maastrichtian",22754,-77.5314,52.8981,20,1
 "81498",119009,"col","Hell Creek",-106.68,46.27,"Cameron collection (near Forsyth and Snow Creek)",NA,"",1,"Late Maastrichtian","",70.6,66,38233,"gp_mid",-65.97,57.15,"101",68.3,"maastrichtian",22755,-77.5314,52.8981,20,1
 "81502",119013,"col","Shimonada",134.75,34.2,"Nadaokawa, Minamiawaji City",NA,"Awaji Island",1,"Early Maastrichtian","",70.6,66,38237,"gp_mid",125.61,40.09,"610",68.3,"maastrichtian",22756,129.907,41.3582,20,1
@@ -2210,10 +2448,13 @@
 "83677",121514,"col","Maastricht",5.67,50.79,"Nekum Member",NA,"",1,"Maastrichtian","",72.1,66,38747,"gp_mid",15.45,38.28,"315",69.05,"maastrichtian",10843,7.7721,44.0507,20,1
 "84424",122541,"col","Maevarano",46.05,-15.98,"MAD05-61",NA,"",1,"Maastrichtian","",72.1,66,39063,"gp_mid",43.11,-36.62,"702",69.05,"maastrichtian",21970,39.3627,-27.4789,20,1
 "84425",122542,"col","Maevarano",46.58,-15.9,"MAD07-66 (SUNY)",NA,"Berivotra",1,"Maastrichtian","",72.1,66,39063,"gp_mid",43.76,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
+"84605",122902,"col","Lance",-104.47,43.02,"Niobrara County, United States Geological Survey",NA,"",2,"Late Maastrichtian","",70.6,66,13462,"gp_mid",-65.9,53.54,"101",68.3,"maastrichtian",23634,-79.4209,48.0444,20,1
 "84606",122903,"col","Hell Creek",-104.01,46.33,"Turtle Graveyard locality",NA,"",9,"Late Maastrichtian","",70.6,66,39183,"gp_mid",-62.9,56.39,"101",68.3,"maastrichtian",23635,-77.5314,52.8981,20,1
 "84607",122904,"col","Hell Creek",-104.08,46.37,"Unnumbered MRF locality 6.7 km NW of Turtle Graveyard locality",NA,"",1,"Late Maastrichtian","",70.6,66,39183,"gp_mid",-62.94,56.45,"101",68.3,"maastrichtian",23636,-77.5314,52.8981,20,1
 "84608",122905,"col","Hell Creek",-104.43,46.38,"YPM Locality VP 07405",NA,"",1,"Late Maastrichtian","",70.6,66,39183,"gp_mid",-63.33,56.56,"101",68.3,"maastrichtian",23637,-77.5314,52.8981,20,1
 "84609",122906,"col","Hell Creek",-106.45,48.01,"Near Fort Peck (Peckemys brinkman type locality)",NA,"",1,"Late Maastrichtian","",70.6,66,39185,"gp_mid",-64.24,58.64,"101",68.3,"maastrichtian",23638,-77.5314,52.8981,20,1
+"84668",123004,"col","Miria",114.08,-23.02,"Giralia Range, Miria Formation corals",NA,"",15,"Late Maastrichtian","",70.6,66,39259,"gp_mid",114.8,-53.56,"801",68.3,"maastrichtian",13500,99.6657,-47.8257,20,1
+"84738",123098,"col","Lance",-104.47,43.02,"Converse County (?now Niobrara County), Eubaena cephalica holotype locality",NA,"",2,"Maastrichtian","",72.1,66,704,"gp_mid",-65.24,53.63,"101",69.05,"maastrichtian",23634,-79.4209,48.0444,20,1
 "84739",123099,"col","Hell Creek",-106.45,47.52,"28 miles south of Lismas (Lismas is now under the Fort Peck Reservoir)",NA,"",1,"Maastrichtian","",72.1,66,704,"gp_mid",-63.97,58.28,"101",69.05,"maastrichtian",23680,-77.5314,52.8981,20,1
 "84740",123100,"col","Hell Creek",-104.7,47.09,"Near Glendive (Stygiochelys estesi holotype locality)",NA,"",1,"Maastrichtian","",72.1,66,23765,"gp_mid",-62.35,57.35,"101",69.05,"maastrichtian",23681,-77.5314,52.8981,20,1
 "84759",123140,"col","Gulpen",5.65,50.75,"CPL Quarry, Hallembaye (Lanaye Member)",NA,"",3,"Late Maastrichtian","",70.6,66,39406,"gp_mid",15.04,38.35,"315",68.3,"maastrichtian",23689,7.7721,44.0507,20,1
@@ -2231,6 +2472,7 @@
 "84804",123188,"col","Kunrade Chalk",5.98,50.87,"Simpleveld",NA,"",1,"Late Maastrichtian","",70.6,66,39406,"gp_mid",15.33,38.43,"315",68.3,"maastrichtian",523,7.7721,44.0507,20,1
 "84957",123364,"col","",-97.55,30.33,"Manor",NA,"",1,"Maastrichtian","",72.1,66,39438,"gp_mid",-64.89,39.8,"101",69.05,"maastrichtian",23782,-75.1175,34.5484,20,1
 "84958",123365,"col","",-97.3,30.55,"Mustang Creek, Noack",NA,"",2,"Maastrichtian","",72.1,66,39438,"gp_mid",-64.53,39.92,"101",69.05,"maastrichtian",23783,-75.1175,34.5484,20,1
+"84959",123366,"col","Marlbrook Marl",-93.15,34.13,"Hearn",NA,"",2,"Maastrichtian","",72.1,66,39438,"gp_mid",-58.46,41.95,"101",69.05,"maastrichtian",23784,-69.954,38.774,20,1
 "84960",123367,"col","",-88.78,33.45,"Starkville, campus",NA,"",2,"Maastrichtian","",72.1,66,39438,"gp_mid",-54.38,39.92,"101",69.05,"maastrichtian",23785,-66.8152,35.6556,20,1
 "84962",123369,"col","",-88.55,33.07,"Macon",NA,"",2,"Maastrichtian","",72.1,66,39438,"gp_mid",-54.34,39.49,"101",69.05,"maastrichtian",23786,-66.8152,35.6556,20,1
 "84963",123370,"col","",-88.52,32.9,"USGS Mesozoic 16242, Wahalak",NA,"Nahalak",3,"Maastrichtian","",72.1,66,39438,"gp_mid",-54.39,39.32,"101",69.05,"maastrichtian",23787,-66.8152,35.6556,20,1
@@ -2244,9 +2486,11 @@
 "85071",123482,"col","Fox Hills Sandstone",-104.08,40.35,"USGS 16183 Greasewood Dome",NA,"",1,"Maastrichtian","",72.1,66,39438,"gp_mid",-66.58,51.07,"101",69.05,"maastrichtian",23821,-80.2362,45.6074,20,1
 "85073",123484,"col","",-96.08,32.92,"USGS 16171 Big Caddo Creek",NA,"",1,"Maastrichtian","",72.1,66,39438,"gp_mid",-62.12,41.75,"101",69.05,"maastrichtian",23822,-74.489,36.9958,20,1
 "85105",123516,"col","Maastricht",5.7,50.8,"CBR-Romontbos quarry (Eben Emael), Lava Horizon",NA,"",1,"Late Maastrichtian","",70.6,66,39700,"gp_mid",15.09,38.4,"315",68.3,"maastrichtian",23831,7.7721,44.0507,20,1
+"85148",123570,"col","Lance",-104.55,43.21,"Lance General (DMNH loc. 982)",NA,"",1,"Maastrichtian","",72.1,66,39753,"gp_mid",-65.19,53.83,"101",69.05,"maastrichtian",8278,-79.4209,48.0444,20,1
 "85156",123578,"col","Prairie Bluff",-87.78,32.3,"Linden",NA,"",1,"Late Maastrichtian","",70.6,66,39757,"gp_mid",-54.56,38.47,"101",68.3,"maastrichtian",23849,-63.0321,34.9678,20,1
 "85383",123815,"col","Whitemud",-105.75,49.61,"kaolin quarry, between Willows and Readlyn",NA,"",7,"Late Maastrichtian","",70.6,66,59345,"gp_mid",-61.98,59.83,"101",68.3,"maastrichtian",23946,-76.4206,55.3119,20,1
 "85668",124207,"col","Hell Creek",-103.65,45.4,"Buffalo, southwest",NA,"",1,"Maastrichtian","",72.1,66,41320,"gp_mid",-62.56,55.52,"101",69.05,"maastrichtian",24012,-78.5247,50.4751,20,1
+"85737",124311,"col","Quiriquina",-71.68,-33.36,"Algarrobo (lower Quiriquina Formation)",NA,"",10,"Late Maastrichtian","",70.6,66,40071,"gp_mid",-56.89,-33.04,"291",68.3,"maastrichtian",10435,-55.2342,-34.9677,20,1
 "85738",213744,"col","Navesink",-74.17,40.35,"Hop Brook (HBR)",NA,"Ramanessin Brook (RBR)",23,"Early Maastrichtian","",70.6,66,73814,"gp_mid",-37.23,41.37,"109",68.3,"maastrichtian",24031,-49.7074,40.1646,20,1
 "86257",124934,"col","Hell Creek",-103.9,45.83,"Gunma Triceratops site",NA,"",3,"Maastrichtian","",72.1,66,40484,"gp_mid",-62.49,55.99,"101",69.05,"maastrichtian",24192,-78.5247,50.4751,20,1
 "86259",124937,"col","New Egypt",-75.09,39.8,"Blackwood Terrace (New Egypt Fm.)",NA,"",23,"Maastrichtian","",72.1,66,39861,"gp_mid",-37.76,41.19,"109",69.05,"maastrichtian",24193,-49.7074,40.1646,20,1
@@ -2269,6 +2513,8 @@
 "88672",128428,"col","Hornerstown",-74.71,39.98,"Birmingham (general) (Hornerstown Fm.)",NA,"",3,"Late Maastrichtian","",70.6,66,14442,"gp_mid",-37.94,41.2,"109",68.3,"maastrichtian",24789,-49.7074,40.1646,20,1
 "88695",128458,"col","Hell Creek",-106.18,47.88,"1 mile southeast of Harbicht Hill",NA,"",1,"Late Maastrichtian","",70.6,66,704,"gp_mid",-64.05,58.44,"101",68.3,"maastrichtian",24798,-77.5314,52.8981,20,1
 "88699",128461,"col","Frenchman",-106.58,49.05,"Morgan Creek (Rocky Creek)",NA,"Baena longicauda type",3,"Lancian","",70.6,66,12314,"gp_mid",-63.44,59.6,"101",68.3,"maastrichtian",24799,-76.4206,55.3119,20,1
+"88793",128558,"col","Lance",-104.6,43.33,"Seven Mile Creek (AMNH)",NA,"",1,"Lancian","",70.6,66,704,"gp_mid",-65.83,53.86,"101",68.3,"maastrichtian",24822,-79.4209,48.0444,20,1
+"88794",128559,"col","Lance",-104.57,43.31,"Sandstone bluff, Dogie Creek",NA,"Doegie Creek, Dolgie Creek, Lance Creek",2,"Late Maastrichtian","",70.6,66,14442,"gp_mid",-65.81,53.84,"101",68.3,"maastrichtian",24823,-79.4209,48.0444,20,1
 "89270",129262,"col","Hell Creek",-104.23,46.23,"Adocus sp locality, Fallon County",NA,"",1,"Late Maastrichtian","",70.6,66,768,"gp_mid",-63.23,56.37,"101",68.3,"maastrichtian",24920,-78.5247,50.4751,20,1
 "89272",129264,"col","Hornerstown",-74.1,40.3,"Tinton Falls (Greensand)",NA,"",6,"Late Maastrichtian","",70.6,66,14123,"gp_mid",-37.19,41.3,"109",68.3,"maastrichtian",679,-49.7074,40.1646,20,1
 "89273",129265,"col","Navesink",-74.17,40.29,"G. C. Schenck Farm",NA,"Shenck Farm",3,"Early Maastrichtian","",70.6,66,14123,"gp_mid",-37.26,41.31,"109",68.3,"maastrichtian",24921,-49.7074,40.1646,20,1
@@ -2282,10 +2528,14 @@
 "89285",129278,"col","Lower sandy Siltstone",142.14,42.86,"Sososhisawa, Inasato (Locality 1)",NA,"",1,"Early Maastrichtian","",70.6,66,42111,"gp_mid",127.97,50.36,"610",68.3,"maastrichtian",24923,138.6454,49.9328,20,1
 "89298",129300,"col","Maevarano",46.58,-15.9,"MAD93-79 (SUNY)",NA,"",1,"Maastrichtian","",72.1,66,42114,"gp_mid",43.76,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
 "91560",132350,"col","Sebes",24,46.75,"Oarda de Jos (Od calcareous eggshell lens)",NA,"",2,"Maastrichtian","",72.1,66,42626,"gp_mid",30.37,25.62,"308",69.05,"maastrichtian",25398,20.5301,39.6576,20,1
+"91562",132352,"col","Estratos de Quebrada Municipalidad",-71.67,-33.37,"Algarrobo (EQM)",NA,"Marine reptile site",6,"Early Maastrichtian","",70.6,66,42627,"gp_mid",-56.88,-33.04,"291",68.3,"maastrichtian",25399,-55.2342,-34.9677,20,1
 "91685",132488,"col","Conques",-1,42.15,"Barranc de Torrebilles-1",NA,"Isona i Conca Dellà, TB1",4,"Late Maastrichtian","",70.6,66,42683,"gp_mid",9.13,30.46,"304",68.3,"maastrichtian",25428,1.8743,36.4525,20,1
+"92042",133002,"col","Lance",-104.5,43,"Carnegie Museum Lance collection",NA,"Adelphesiren olivae type",3,"Lancian","",70.6,66,42824,"gp_mid",-65.95,53.53,"101",68.3,"maastrichtian",1658,-79.4209,48.0444,20,1
 "92047",133007,"col","Ocozocoautla",-93.37,16.81,"Ocozocoautla microvertebrate site",NA,"",1,"Maastrichtian","",72.1,66,30640,"gp_mid",-65.99,25.78,"205",69.05,"maastrichtian",25545,-74.0181,21.6246,20,1
 "92589",133853,"col","Ocozocoautla",-96.08,16.77,"Chiapas",NA,"",4,"Maastrichtian","",72.1,66,43157,"gp_mid",-68.75,26.55,"104",69.05,"maastrichtian",25679,-77.8102,22.2731,20,1
 "94759",171008,"col","Mexcala",-98.92,18.23,"Mitepec tracksite, locality 2",NA,"",1,"Maastrichtian","",72.1,66,55641,"gp_mid",-71.15,28.77,"104",69.05,"maastrichtian",9498,-77.8102,22.2731,20,1
+"95399",137364,"col","",-17.1,14.77,"Bassin du Sénégal, Maastrichtien Inférieur",NA,"Zone a Afroboliviana afra",19,"Early Maastrichtian","",70.6,66,43937,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",26658,-20.9811,10.6996,20,1
+"95400",137365,"col","",-17.1,14.77,"Bassin du Sénégal, Maastrichtien Supérieur",NA,"Zone a Buliminides",19,"Early Maastrichtian","",70.6,66,43937,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",26658,-20.9811,10.6996,20,1
 "95633",137601,"col","Hell Creek",-103.96,46.42,"Brachychampsa locality (UCMP loc. V.86049)",NA,"UCMP V-86049",9,"Lancian","",70.6,66,44026,"gp_mid",-62.77,56.46,"101",68.3,"maastrichtian",26712,-77.5314,52.8981,20,1
 "95707",137704,"col","Hell Creek",-103.5,46.41,"Conning Tower W1, UCMP loc. V.86050",NA,"UCMP V-86050",12,"Lancian","",70.6,66,42536,"gp_mid",-62.27,56.31,"101",68.3,"maastrichtian",26742,-77.5314,52.8981,20,1
 "95708",137705,"col","Hell Creek",-103.5,46.41,"Conning Tower 1, UCMP loc. V.86051",NA,"UCMP V-86051",11,"Lancian","",70.6,66,42536,"gp_mid",-62.27,56.31,"101",68.3,"maastrichtian",26742,-77.5314,52.8981,20,1
@@ -2309,6 +2559,10 @@
 "95733",137730,"col","Hell Creek",-103.5,46.41,"Fast 2, UCMP loc. V.91092",NA,"UCMP V-91092",5,"Lancian","",70.6,66,42536,"gp_mid",-62.27,56.31,"101",68.3,"maastrichtian",26742,-77.5314,52.8981,20,1
 "95734",137731,"col","Hell Creek",-103.5,46.41,"Hay Creek N5, UCMP loc. V.98035",NA,"UCMP V-98035",8,"Lancian","",70.6,66,42536,"gp_mid",-62.27,56.31,"101",68.3,"maastrichtian",26742,-77.5314,52.8981,20,1
 "95735",137732,"col","Hell Creek",-103.5,46.41,"Johnson's 86137, UCMP loc. V.98036",NA,"UCMP V-98036",2,"Lancian","",70.6,66,42536,"gp_mid",-62.27,56.31,"101",68.3,"maastrichtian",26742,-77.5314,52.8981,20,1
+"95795",137795,"col","Lance",-104.6,43.07,"Bone-Bed Knob, UCMP loc. V-5718",NA,"Bonebed Knob, UCMP V.5718",1,"Lancian","",70.6,66,42536,"gp_mid",-66.01,53.62,"101",68.3,"maastrichtian",9023,-79.4209,48.0444,20,1
+"95796",137796,"col","Lance",-104.6,43.07,"Thunderbottom Gulley, UCMP loc. V-5819",NA,"Thunderbottom Gully, UCMP V.5819",2,"Lancian","",70.6,66,42536,"gp_mid",-66.01,53.62,"101",68.3,"maastrichtian",9023,-79.4209,48.0444,20,1
+"95797",137797,"col","Lance",-104.6,43.07,"Dorf's Plant Locality, UCMP loc. V-5875",NA,"UCMP V.5875",1,"Lancian","",70.6,66,42536,"gp_mid",-66.01,53.62,"101",68.3,"maastrichtian",9023,-79.4209,48.0444,20,1
+"95798",137798,"col","Lance",-104.55,43.21,"Lance General (UCMP loc. V-65238)",NA,"",11,"Maastrichtian","",72.1,66,42536,"gp_mid",-65.19,53.83,"101",69.05,"maastrichtian",8278,-79.4209,48.0444,20,1
 "96372",138411,"col","Saint-Chinian",2.95,43.35,"Cruzy",NA,"",3,"Maastrichtian","",72.1,66,44320,"gp_mid",11.84,31.21,"305",69.05,"maastrichtian",26948,5.3019,36.2892,20,1
 "96373",138412,"col","",5.93,44.43,"Vitrolles-Couperigne",NA,"",2,"Early Maastrichtian","",70.6,66,44320,"gp_mid",14.16,32.07,"305",68.3,"maastrichtian",9467,7.9027,39.0516,20,1
 "96374",138413,"col","",5.25,43.56,"Saint-Hilaire, Coudous",NA,"Coudoux",1,"Early Maastrichtian","",70.6,66,59043,"gp_mid",13.45,31.27,"305",68.3,"maastrichtian",26949,5.3019,36.2892,20,1
@@ -2375,6 +2629,7 @@
 "99571",142084,"col","Maastricht",5.69,50.82,"St. Pietersberg (Emael Member)",NA,"ENCI-Maastricht B.V. quarry",1,"Late Maastrichtian","",70.6,66,46146,"gp_mid",15.09,38.42,"315",68.3,"maastrichtian",10846,7.7721,44.0507,20,1
 "99574",142087,"col","Baculites Limestone",-1.52,49.42,"Sainte-Colombe",NA,"La Bonneville",1,"Late Maastrichtian","",70.6,66,46148,"gp_mid",9,37.8,"305",68.3,"maastrichtian",27488,1.0688,43.9984,20,1
 "99575",142088,"col","Baculites Limestone",-1.35,49.43,"Fresville",NA,"",1,"Late Maastrichtian","",70.6,66,46148,"gp_mid",9.14,37.79,"305",68.3,"maastrichtian",11911,1.0688,43.9984,20,1
+"99803",142325,"col","Lance",-104.49,43.42,"Snyder Creek (CM)",NA,"",2,"Maastrichtian","",72.1,66,46207,"gp_mid",-64.98,54,"101",69.05,"maastrichtian",27520,-79.4209,48.0444,20,1
 "99804",142326,"col","Lance",-104.19,45.48,"Sheep Mountain (CM)",NA,"",8,"Maastrichtian","",72.1,66,46207,"gp_mid",-63.09,55.77,"101",69.05,"maastrichtian",27521,-78.5247,50.4751,20,1
 "99837",142364,"col","Corsicana Marl",-98.78,29.37,"USGS 16156, San Antonio Road",NA,"",3,"Late Maastrichtian","",70.6,66,45555,"gp_mid",-67.22,39.18,"101",68.3,"maastrichtian",787,-75.1175,34.5484,20,1
 "99847",142375,"col","Lance",-103.98,45.33,"George Bonefield's property, 15 miles south of Camp Crook",NA,"L&W locality 33",1,"Maastrichtian","",72.1,66,53256,"gp_mid",-62.97,55.56,"101",69.05,"maastrichtian",27527,-78.5247,50.4751,20,1
@@ -2425,6 +2680,10 @@
 "106434",150893,"col","Lance",-103.7,45.39,"North Fork, Moreau River",NA,"F8, East Short Pine Hills",9,"Maastrichtian","",72.1,66,48210,"gp_mid",-62.61,55.53,"101",69.05,"maastrichtian",28571,-78.5247,50.4751,20,1
 "106435",150894,"col","Lance",-103.72,45.34,"Dunn Well, East Short Pine Hills",NA,"F9",3,"Maastrichtian","",72.1,66,48210,"gp_mid",-62.68,55.49,"101",69.05,"maastrichtian",28572,-78.5247,50.4751,20,1
 "106436",150895,"col","Lance",-102.05,45.71,"southwest of Hudgins",NA,"F54",2,"Maastrichtian","",72.1,66,48210,"gp_mid",-60.55,55.3,"101",69.05,"maastrichtian",28573,-74.5106,49.8295,20,1
+"106473",150932,"col","Lance",-106.77,43.74,"40 miles south of Buffalo",NA,"L&W locality 29, Locality 16",1,"Maastrichtian","",72.1,66,48217,"gp_mid",-67.33,54.98,"101",69.05,"maastrichtian",28587,-79.4209,48.0444,20,1
+"106514",150976,"col","Lance",-104.53,43.34,"Schneider Creek (YPM)",NA,"Lance Creek",1,"Maastrichtian","",72.1,66,12319,"gp_mid",-65.08,53.94,"101",69.05,"maastrichtian",7459,-79.4209,48.0444,20,1
+"106587",151059,"col","PeeDee",-78.41,34.48,"Donohue Creek Landing, Cape Fear River",NA,"milepost 50.5, USGS 4158, USGS 5369, USGS 5369a",20,"Late Maastrichtian","",70.6,66,64076,"gp_mid",-44.34,37.42,"109",68.3,"maastrichtian",28608,-54.8807,36.0077,20,1
+"106588",190580,"col","PeeDee",-78.4,34.48,"Robinson's Landing, Cape Fear River",NA,"milepost 49.5, USGS 3356, USGS 5419",13,"Late Maastrichtian","",70.6,66,64076,"gp_mid",-44.33,37.41,"109",68.3,"maastrichtian",28609,-54.8807,36.0077,20,1
 "106602",151073,"col","Mendez",-99.51,24.97,"Rancho Las Barretas",NA,"",0,"Late Maastrichtian","",70.6,66,48231,"gp_mid",-69.83,35.25,"101",68.3,"maastrichtian",28610,-80.1252,30.282,20,1
 "106891",151452,"col","Lefipán",-69.83,-42.67,"M3 - San Ramon section",NA,"",80,"Maastrichtian","",72.1,66,47987,"gp_mid",-57.51,-42.31,"291",69.05,"maastrichtian",28364,-55.9326,-44.9534,20,1
 "106969",151542,"col","Fox Hills",-101.73,44.94,"Southwest of Dupree",NA,"",6,"Maastrichtian","",72.1,66,11233,"gp_mid",-60.79,54.51,"101",69.05,"maastrichtian",28710,-74.5106,49.8295,20,1
@@ -2436,7 +2695,13 @@
 "107073",151654,"col","Simsima",55.95,24.87,"Jebel Rawdah, lower beds - Facies 5, Noetlingaster assemblage",NA,"",14,"Maastrichtian","",72.1,66,48462,"gp_mid",53.52,-0.02,"503",69.05,"maastrichtian",28728,50.2381,7.767,20,1
 "107075",151656,"col","Simsima",55.95,24.87,"Jebel Rawdah, upper beds - Facies 4, beds 20-21",NA,"",20,"Maastrichtian","",72.1,66,48462,"gp_mid",53.52,-0.02,"503",69.05,"maastrichtian",28728,50.2381,7.767,20,1
 "107232",151864,"col","Fox Hills",-103.86,39.92,"West Fork San Arroyo Creek",NA,"",2,"Late Maastrichtian","",70.6,66,48515,"gp_mid",-67.24,50.52,"101",68.3,"maastrichtian",28740,-80.2362,45.6074,20,1
+"107374",152080,"col","Peedee",-80.02,34.05,"APAC Quarry (lower)",NA,"Ashland Paving and Construction",2,"Early Maastrichtian","",70.6,66,48789,"gp_mid",-46.09,37.55,"109",68.3,"maastrichtian",28779,-54.8807,36.0077,20,1
 "107887",152895,"col","Raspay",-0.71,38.59,"Foia Redona locality",NA,"Font de la Carrasca quarry",3,"Late Maastrichtian","",70.6,66,49274,"gp_mid",8.56,26.92,"304",68.3,"maastrichtian",28972,1.5031,31.462,20,1
+"108273",153515,"col","Miria",114.19,-22.82,"Giralia Range (Miria Formation)",NA,"",2,"Maastrichtian","",72.1,66,49608,"gp_mid",115.07,-53.72,"801",69.05,"maastrichtian",29054,99.6657,-47.8257,20,1
+"108274",153516,"col","Miria",114.2,-22.77,"Range paddock 2.3km west-northwest of Whitlock Dam",NA,"",1,"Maastrichtian","",72.1,66,49608,"gp_mid",115.08,-53.67,"801",69.05,"maastrichtian",29055,99.6657,-47.8257,20,1
+"108275",153517,"col","Miria",114.2,-22.76,"Gully draining east of Bullara-Giralia Road",NA,"",1,"Maastrichtian","",72.1,66,49608,"gp_mid",115.08,-53.66,"801",69.05,"maastrichtian",29056,99.6657,-47.8257,20,1
+"108277",153519,"col","Miria",114.19,-22.82,"Toothawarra Creek, Cardabia Station",NA,"",1,"Maastrichtian","",72.1,66,49608,"gp_mid",115.07,-53.72,"801",69.05,"maastrichtian",29054,99.6657,-47.8257,20,1
+"108285",153527,"col","Miria",114.13,-22.88,"Cy Creek [Miria Marl]",NA,"C-Y Creek",2,"Maastrichtian","",72.1,66,49608,"gp_mid",114.97,-53.78,"801",69.05,"maastrichtian",29058,99.6657,-47.8257,20,1
 "108314",153614,"col","",-15.17,57,"Station 69/2 (474m depth)",NA,"",1,"Maastrichtian","",72.1,66,49677,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",29062,-11.9047,51.6626,20,1
 "108315",153615,"col","",-14.96,57.15,"Station 71/2 (387m depth)",NA,"",1,"Maastrichtian","",72.1,66,49677,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",29063,-11.9047,51.6626,20,1
 "108316",153616,"col","",-14.86,57.33,"Station 72 (360m depth)",NA,"",1,"Maastrichtian","",72.1,66,49677,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",29064,-11.9047,51.6626,20,1
@@ -2522,6 +2787,17 @@
 "111049",157735,"col","",1.34,52.92,"Sidestrand 3",NA,"",4,"Early Maastrichtian","",70.6,66,262,"gp_mid",12.09,40.92,"315",68.3,"maastrichtian",29666,1.064,46.4984,20,1
 "111050",157736,"col","",1.34,52.92,"Sidestrand 4",NA,"",9,"Early Maastrichtian","",70.6,66,262,"gp_mid",12.09,40.92,"315",68.3,"maastrichtian",29666,1.064,46.4984,20,1
 "111052",157758,"col","",1.34,52.92,"Sidestrand 5",NA,"",4,"Early Maastrichtian","",70.6,66,262,"gp_mid",12.09,40.92,"315",68.3,"maastrichtian",29666,1.064,46.4984,20,1
+"111071",157777,"col","Miria",114.18,-22.77,"Loc. 18, Giralia Range [Miria Fm]",NA,"",12,"Maastrichtian","",72.1,66,11131,"gp_mid",115.05,-53.67,"801",69.05,"maastrichtian",29681,99.6657,-47.8257,20,1
+"111072",157778,"col","Miria",114.24,-22.68,"Loc. 23, Giralia Range [Miria Fm]",NA,"",14,"Maastrichtian","",72.1,66,11131,"gp_mid",115.13,-53.58,"801",69.05,"maastrichtian",29682,99.6657,-47.8257,20,1
+"111075",157781,"col","Miria",114.08,-22.96,"Loc. 4, Giralia Range [Miria Fm]",NA,"",10,"Maastrichtian","",72.1,66,11131,"gp_mid",114.91,-53.87,"801",69.05,"maastrichtian",29683,99.6657,-47.8257,20,1
+"111078",157785,"col","Miria",114.15,-22.85,"Loc. 9, Giralia Range [Miria Fm]",NA,"",9,"Maastrichtian","",72.1,66,11131,"gp_mid",115.01,-53.75,"801",69.05,"maastrichtian",29685,99.6657,-47.8257,20,1
+"111079",157786,"col","Miria",114.09,-23.02,"Loc. 1, Giralia Range [Miria Fm]",NA,"",4,"Maastrichtian","",72.1,66,11131,"gp_mid",114.93,-53.92,"801",69.05,"maastrichtian",5310,99.6657,-47.8257,20,1
+"111080",157787,"col","Miria",114.08,-22.99,"Loc. 2, Giralia Range [Miria Fm]",NA,"",1,"Maastrichtian","",72.1,66,11131,"gp_mid",114.92,-53.89,"801",69.05,"maastrichtian",13940,99.6657,-47.8257,20,1
+"111081",157788,"col","Miria",114.14,-22.83,"Loc. 10, Giralia Range [Miria Fm]",NA,"",8,"Maastrichtian","",72.1,66,11131,"gp_mid",115,-53.73,"801",69.05,"maastrichtian",29686,99.6657,-47.8257,20,1
+"111082",157789,"col","Miria",114.15,-22.83,"Loc. 11, Giralia Range [Miria Fm]",NA,"",8,"Maastrichtian","",72.1,66,11131,"gp_mid",115.01,-53.73,"801",69.05,"maastrichtian",29687,99.6657,-47.8257,20,1
+"111083",157790,"col","Miria",114.25,-22.72,"Loc. 13, Giralia Range [Miria Fm]",NA,"",4,"Maastrichtian","",72.1,66,11131,"gp_mid",115.15,-53.61,"801",69.05,"maastrichtian",29688,99.6657,-47.8257,20,1
+"111084",157791,"col","Miria",114.23,-22.67,"Loc. 14, Giralia Range [Miria Fm]",NA,"",4,"Maastrichtian","",72.1,66,11131,"gp_mid",115.11,-53.56,"801",69.05,"maastrichtian",29689,99.6657,-47.8257,20,1
+"111085",157792,"col","Miria",114.26,-22.63,"Loc. 17, Giralia Range [Miria Fm]",NA,"",13,"Maastrichtian","",72.1,66,11131,"gp_mid",115.16,-53.53,"801",69.05,"maastrichtian",29690,99.6657,-47.8257,20,1
 "111106",157850,"col","Danish White Chalk",9.93,57.07,"Lindholm chalk pit (Sample 8)",NA,"",1,"Late Maastrichtian","",70.6,66,51889,"gp_mid",19.59,44.23,"302",68.3,"maastrichtian",29693,10.7686,51.6072,20,1
 "111107",157851,"col","",11.96,54.56,"Gedser lighthouse",NA,"",1,"Late Maastrichtian","",70.6,66,51889,"gp_mid",20.68,41.6,"315",68.3,"maastrichtian",29694,10.8997,49.1086,20,1
 "111200",158092,"col","Panoche",-120.38,36.29,"CAS Loc. 31593, Fresno County",NA,"",1,"Maastrichtian","",72.1,66,11610,"gp_mid",-84.54,48.99,"130",69.05,"maastrichtian",29730,-97.323,42.8374,20,1
@@ -2769,6 +3045,9 @@
 "115701",164988,"col","",5.68,50.83,"Burgerwacht Quarry,5.80 m depth",NA,"",3,"Maastrichtian","",72.1,66,53991,"gp_mid",15.47,38.31,"315",69.05,"maastrichtian",13714,7.7721,44.0507,20,1
 "115702",164989,"col","",5.68,50.83,"Burgerwacht Quarry, 5.00 m depth",NA,"",4,"Maastrichtian","",72.1,66,53991,"gp_mid",15.47,38.31,"315",69.05,"maastrichtian",13714,7.7721,44.0507,20,1
 "115703",164990,"col","",5.68,50.83,"Burgerwacht Quarry, 4.20 m depth",NA,"",4,"Maastrichtian","",72.1,66,53991,"gp_mid",15.47,38.31,"315",69.05,"maastrichtian",13714,7.7721,44.0507,20,1
+"115704",164991,"col","Lance",-104.2,41.91,"1.5 miles up Horse Creek (36 ft)",NA,"Torrington",2,"Late Maastrichtian","",70.6,66,53992,"gp_mid",-66.35,52.45,"101",68.3,"maastrichtian",8039,-79.4209,48.0444,20,1
+"115705",164992,"col","Lance",-104.2,41.91,"1.5 miles up Horse Creek (24 ft)",NA,"Torrington",4,"Late Maastrichtian","",70.6,66,53992,"gp_mid",-66.35,52.45,"101",68.3,"maastrichtian",8039,-79.4209,48.0444,20,1
+"115706",164993,"col","Lance",-104.37,41.73,"1.5 miles northeast of Fox Creek Gap (35 ft)",NA,"Torrington",2,"Late Maastrichtian","",70.6,66,53992,"gp_mid",-66.66,52.34,"101",68.3,"maastrichtian",30947,-79.4209,48.0444,20,1
 "115707",164994,"col","",5.78,50.87,"Geul valley, 13.80 m depth",NA,"",5,"Maastrichtian","",72.1,66,53991,"gp_mid",15.56,38.34,"315",69.05,"maastrichtian",433,7.7721,44.0507,20,1
 "115708",164995,"col","",5.78,50.87,"Geul valley, 11.40 m depth",NA,"",5,"Maastrichtian","",72.1,66,53991,"gp_mid",15.56,38.34,"315",69.05,"maastrichtian",433,7.7721,44.0507,20,1
 "115709",164996,"col","",5.78,50.87,"Geul valley, 10.60 m depth",NA,"",3,"Maastrichtian","",72.1,66,53991,"gp_mid",15.56,38.34,"315",69.05,"maastrichtian",433,7.7721,44.0507,20,1
@@ -2845,6 +3124,8 @@
 "116275",165809,"col","",33.97,44.8,"Skalistoe, Crimea",NA,"",1,"Maastrichtian","",72.1,66,54147,"gp_mid",37.8,30.82,"302",69.05,"maastrichtian",31115,31.8962,39.9513,20,1
 "116276",165810,"col","",33.93,44.75,"Michurino, Crimea (Maastrichtian)",NA,"",1,"Maastrichtian","",72.1,66,54147,"gp_mid",37.76,30.76,"302",69.05,"maastrichtian",31116,31.8962,39.9513,20,1
 "116277",165811,"col","",33.9,44.75,"Aleshino, Crimea",NA,"",2,"Late Maastrichtian","",70.6,66,54147,"gp_mid",37.42,30.93,"302",68.3,"maastrichtian",31036,31.8962,39.9513,20,1
+"116332",165877,"col","Medicine Bow",-106.62,41.83,"Hanna Basin (Medicine Bow Fm., general)",NA,"",1,"Lancian","",70.6,66,54221,"gp_mid",-69.14,53.1,"101",68.3,"maastrichtian",31122,-79.4209,48.0444,20,1
+"116333",165878,"col","Ferris",-106.62,41.83,"Hanna Basin (Ferris Fm., general)",NA,"",3,"Lancian","",70.6,66,54221,"gp_mid",-69.14,53.1,"101",68.3,"maastrichtian",31122,-79.4209,48.0444,20,1
 "116412",165961,"col","",52.85,43.38,"Zhanasha, Mangyshlak Peninsula",NA,"",1,"Maastrichtian","",72.1,66,54147,"gp_mid",53.54,29.91,"402",69.05,"maastrichtian",31153,49.6198,38.7205,20,1
 "116419",165968,"col","",23.95,49.74,"Nagoryany, Lvov region (Upper Senonian)",NA,"",1,"Maastrichtian","",72.1,66,54147,"gp_mid",29.86,35.98,"302",69.05,"maastrichtian",31159,21.2123,44.4262,20,1
 "116589",166187,"col","",-59.5,-65.25,"Cape Marsh, Robertson Island (CPBA collection)",NA,"",1,"Maastrichtian","",72.1,66,54295,"gp_mid",-73.24,-59.63,"803",69.05,"maastrichtian",31224,-63.887,-63.6727,20,1
@@ -2983,6 +3264,7 @@
 "119477",171041,"col","Conques",1.01,42.16,"Les Torres",NA,"",1,"Early Maastrichtian","",70.6,66,54956,"gp_mid",10.82,30.17,"304",68.3,"maastrichtian",31812,1.8743,36.4525,20,1
 "119478",171042,"col","Conques",1.02,42.15,"Basturs Est",NA,"",1,"Early Maastrichtian","",70.6,66,54956,"gp_mid",10.83,30.16,"304",68.3,"maastrichtian",31814,1.8743,36.4525,20,1
 "119487",171051,"col","",-2.19,42.86,"Puerto de Olazagutia",NA,"",1,"Early Maastrichtian","",70.6,66,55659,"gp_mid",8.3,31.33,"304",68.3,"maastrichtian",31820,-1.5591,36.6397,20,1
+"119530",171094,"col","Lance",-104.61,43.26,"1 mile north of mouth, Big Lightning Creek",NA,"Lance Creek, SDSM",1,"Maastrichtian","",72.1,66,55474,"gp_mid",-65.22,53.88,"101",69.05,"maastrichtian",31836,-79.4209,48.0444,20,1
 "119532",171095,"col","Conques",0.99,42.12,"Costa de Castelltallat",NA,"",1,"Early Maastrichtian","",70.6,66,54956,"gp_mid",10.79,30.13,"304",68.3,"maastrichtian",31639,1.8743,36.4525,20,1
 "119533",171096,"col","Conques",0.99,42.13,"Costa de la Serra-1",NA,"",1,"Early Maastrichtian","",70.6,66,55400,"gp_mid",10.8,30.14,"304",68.3,"maastrichtian",31837,1.8743,36.4525,20,1
 "119534",171097,"col","Conques",0.99,42.13,"Costa de la Serra-2",NA,"",1,"Early Maastrichtian","",70.6,66,54956,"gp_mid",10.8,30.14,"304",68.3,"maastrichtian",31837,1.8743,36.4525,20,1
@@ -3047,6 +3329,7 @@
 "121760",175476,"col","Simsima",55.82,25.07,"Jebel Faiyah, section 2",NA,"",2,"Early Maastrichtian","",70.6,66,57377,"gp_mid",53.39,0.54,"503",68.3,"maastrichtian",32299,50.2381,7.767,20,1
 "121761",175477,"col","Simsima",55.81,25.05,"Jebel Faiyah, section 1b",NA,"",2,"Early Maastrichtian","",70.6,66,57377,"gp_mid",53.38,0.52,"503",68.3,"maastrichtian",32300,50.2381,7.767,20,1
 "121762",175478,"col","Simsima",55.93,24.89,"Jebel Rawdah, section 1, bed 5",NA,"",1,"Late Maastrichtian","",70.6,66,57377,"gp_mid",53.47,0.35,"503",68.3,"maastrichtian",32291,50.2381,7.767,20,1
+"122157",175972,"col","Lance",-105.85,42.88,"Glenrock tracksite",NA,"",3,"Maastrichtian","",72.1,66,57703,"gp_mid",-66.89,53.92,"101",69.05,"maastrichtian",32351,-79.4209,48.0444,20,1
 "122180",176022,"col","Mount Laurel-Navesink",-75.62,39.55,"Station 6. Biggs Farm, south bank Chesapeake and Delaware Canal",NA,"",1,"Early Maastrichtian","",70.6,66,57733,"gp_mid",-39.02,41.12,"109",68.3,"maastrichtian",32361,-49.7074,40.1646,20,1
 "122181",176023,"col","Fox Hills",-104.19,43.99,"Near Mingusville (now Wibaux)",NA,"",1,"Maastrichtian","",72.1,66,57733,"gp_mid",-64.22,54.42,"101",69.05,"maastrichtian",32362,-78.5247,50.4751,20,1
 "122682",176689,"col","Hell Creek",-106.1,47.8,"UCMP V83198, Dental Floss Divide",NA,"",1,"Lancian","",70.6,66,58298,"gp_mid",-64.03,58.34,"101",68.3,"maastrichtian",1517,-77.5314,52.8981,20,1
@@ -3109,8 +3392,14 @@
 "123676",178304,"col","Fox Hills",-103.91,40.44,"AMNH 3327, Big Drawer",NA,"",1,"Late Maastrichtian","",70.6,66,59025,"gp_mid",-66.97,51.02,"101",68.3,"maastrichtian",32766,-80.2362,45.6074,20,1
 "123677",178305,"col","Fox Hills",-105.04,40.15,"AMNH 3324, east of Longmont",NA,"",1,"Late Maastrichtian","",70.6,66,59025,"gp_mid",-68.42,51.09,"101",68.3,"maastrichtian",32776,-80.2362,45.6074,20,1
 "123678",178306,"col","Pierre Shale",-105.19,40.08,"USGS D3719, Niwot Quadrangle",NA,"",1,"Late Maastrichtian","",70.6,66,59025,"gp_mid",-68.64,51.06,"101",68.3,"maastrichtian",32777,-80.2362,45.6074,20,1
+"123679",178307,"col","Fox Hills",-104.26,43.36,"USGS Mesozoic 5981, Lance Creek",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-65.43,53.79,"101",68.3,"maastrichtian",32778,-79.4209,48.0444,20,1
 "123680",178308,"col","Fox Hills",-104.82,40.6,"Northwest of Ault",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-67.89,51.44,"101",68.3,"maastrichtian",32779,-80.2362,45.6074,20,1
+"123681",178309,"col","Fox Hills",-104.26,43.36,"Niobrara County",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-65.43,53.79,"101",68.3,"maastrichtian",32778,-79.4209,48.0444,20,1
+"123682",178310,"col","Fox Hills",-104.29,43.25,"USGS Mesozoic 22116, northeast of Red Bird",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-65.54,53.7,"101",68.3,"maastrichtian",32780,-79.4209,48.0444,20,1
+"123683",178311,"col","Fox Hills",-104.26,43.33,"USGS Mesozoic D1049, Highway 85",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-65.44,53.76,"101",68.3,"maastrichtian",32781,-79.4209,48.0444,20,1
 "123684",178312,"col","Fox Hills",-105.02,40.15,"USGS Mesozoic D12236, St. Vrain River",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-68.4,51.08,"101",68.3,"maastrichtian",32782,-80.2362,45.6074,20,1
+"123685",178313,"col","Fox Hills",-104.35,43.18,"AMNH 3156, south-southwest of Red Bird",NA,"",3,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.65,53.65,"101",68.3,"maastrichtian",15157,-79.4209,48.0444,20,1
+"123686",178314,"col","Fox Hills",-104.35,43.18,"AMNH 3214, Wasserberger Road",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-65.66,53.65,"101",68.3,"maastrichtian",15157,-79.4209,48.0444,20,1
 "123687",178315,"col","Fox Hills",-102.38,44.26,"North of Elm Creek",NA,"",1,"Late Maastrichtian","",70.6,66,59026,"gp_mid",-62.69,54.03,"101",68.3,"maastrichtian",32783,-74.5106,49.8295,20,1
 "123727",178355,"col","Pierre Shale",-104.72,46.91,"South of Glendive",NA,"",1,"Early Maastrichtian","",70.6,66,59028,"gp_mid",-63.22,57.13,"101",68.3,"maastrichtian",32785,-77.5314,52.8981,20,1
 "123728",178356,"col","Pierre Shale",-104.77,46.95,"AMNH 3238, Cedar Creek",NA,"",1,"Early Maastrichtian","",70.6,66,59029,"gp_mid",-63.25,57.18,"101",68.3,"maastrichtian",32786,-77.5314,52.8981,20,1
@@ -3161,6 +3450,14 @@
 "123873",178585,"col","Fox Hills",-101.3,45.2,"AMNH 3160, central South Dakota",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.81,54.54,"101",68.3,"maastrichtian",32838,-74.5106,49.8295,20,1
 "123874",178586,"col","Fox Hills",-101.2,44.97,"AMNH 3161, Eagle Butte",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.87,54.3,"101",68.3,"maastrichtian",32839,-74.5106,49.8295,20,1
 "123875",178587,"col","Pierre Shale",-101.22,45.2,"Locality 31, Moreau River",NA,"",1,"Early Maastrichtian","",70.6,66,29676,"gp_mid",-60.72,54.52,"101",68.3,"maastrichtian",32840,-74.5106,49.8295,20,1
+"123876",178589,"col","Fox Hills",-104.34,43.17,"RB104, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.65,53.64,"101",68.3,"maastrichtian",32841,-79.4209,48.0444,20,1
+"123877",178590,"col","Fox Hills",-104.31,43.24,"RB106, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.57,53.69,"101",68.3,"maastrichtian",32842,-79.4209,48.0444,20,1
+"123878",178591,"col","Fox Hills",-104.32,43.19,"RB107, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.62,53.65,"101",68.3,"maastrichtian",32843,-79.4209,48.0444,20,1
+"123879",178592,"col","Fox Hills",-104.36,43.19,"RB114, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.67,53.66,"101",68.3,"maastrichtian",32844,-79.4209,48.0444,20,1
+"123880",178593,"col","Fox Hills",-104.26,43.28,"RB116, Redbird",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.49,53.71,"101",68.3,"maastrichtian",32845,-79.4209,48.0444,20,1
+"123881",178594,"col","Fox Hills",-104.36,43.2,"RB118, Redbird",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.66,53.67,"101",68.3,"maastrichtian",32846,-79.4209,48.0444,20,1
+"123882",178595,"col","Fox Hills",-104.26,43.29,"RB120, Redbird",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.48,53.72,"101",68.3,"maastrichtian",32847,-79.4209,48.0444,20,1
+"123883",178596,"col","Fox Hills",-104.36,43.19,"RB121, Redbird",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.66,53.67,"101",68.3,"maastrichtian",32844,-79.4209,48.0444,20,1
 "123884",178597,"col","Fox Hills",-100.97,45.33,"Locality 7, northwest of Whitehorse",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.35,54.55,"101",68.3,"maastrichtian",32848,-74.5106,49.8295,20,1
 "123885",178598,"col","Fox Hills",-100.87,45.61,"Locality 47, southwest of Little Eagle",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.02,54.77,"101",68.3,"maastrichtian",32849,-74.5106,49.8295,20,1
 "123886",178599,"col","Fox Hills",-100.99,45.32,"Locality 3 (LGAZ), northwest of Whitehorse",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.38,54.55,"101",68.3,"maastrichtian",32850,-74.5106,49.8295,20,1
@@ -3189,6 +3486,8 @@
 "123909",178622,"col","Fox Hills",-101.52,45.24,"Locality 212 (TLM), Moreau River",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-61.02,54.63,"101",68.3,"maastrichtian",32868,-74.5106,49.8295,20,1
 "123910",178623,"col","Fox Hills",-101.29,45.15,"Locality 227, southwest of Green Grass",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.83,54.49,"101",68.3,"maastrichtian",32869,-74.5106,49.8295,20,1
 "123911",178624,"col","Fox Hills",-101.3,45.2,"Locality 312, central South Dakota",NA,"",2,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.81,54.54,"101",68.3,"maastrichtian",32838,-74.5106,49.8295,20,1
+"123912",178625,"col","Fox Hills",-104.28,43.26,"RB117, Redbird",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.52,53.71,"101",68.3,"maastrichtian",32870,-79.4209,48.0444,20,1
+"123913",178626,"col","Fox Hills",-104.36,43.18,"RB123, Redbird",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-65.66,53.65,"101",68.3,"maastrichtian",32871,-79.4209,48.0444,20,1
 "123914",178627,"col","Pierre Shale",-102.24,44.01,"North of Wall",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-62.72,53.76,"101",68.3,"maastrichtian",32872,-74.5106,49.8295,20,1
 "123915",178628,"col","Fox Hills",-101.52,45.24,"Locality 212 (LNAZ), Moreau River",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-61.02,54.63,"101",68.3,"maastrichtian",32868,-74.5106,49.8295,20,1
 "123916",178629,"col","Fox Hills",-100.96,45.59,"Locality 19, southwest of Little Eagle",NA,"",1,"Late Maastrichtian","",70.6,66,29676,"gp_mid",-60.14,54.78,"101",68.3,"maastrichtian",32873,-74.5106,49.8295,20,1
@@ -3249,6 +3548,7 @@
 "125007",179969,"col","Lance",-103.97,45.39,"Short Pine Hills (SDSM)",NA,"",1,"Maastrichtian","",72.1,66,12314,"gp_mid",-62.91,55.62,"101",69.05,"maastrichtian",33142,-78.5247,50.4751,20,1
 "125008",179970,"col","Lance",-103.84,45.46,"Jump Off (SDSM)",NA,"Camp Crook, Jumpoff",2,"Maastrichtian","",72.1,66,55474,"gp_mid",-62.72,55.64,"101",69.05,"maastrichtian",8407,-78.5247,50.4751,20,1
 "125018",179991,"col","Lance",-104.56,47.79,"USGS Sec. 28, T. 27 N., R. 49 E. (Richland County)",NA,"",3,"Lancian","",70.6,66,14538,"gp_mid",-62.3,57.86,"101",68.3,"maastrichtian",33149,-77.5314,52.8981,20,1
+"125019",180016,"col","Lance",-104.51,43.18,"Lance Creek (AMNH 1892 general)",NA,"",6,"Maastrichtian","",72.1,66,14538,"gp_mid",-65.17,53.79,"101",69.05,"maastrichtian",8285,-79.4209,48.0444,20,1
 "125360",180640,"col","Dakhla",32.55,25.28,"el Kelabia, South Esna",NA,"",1,"Early Maastrichtian","",70.6,66,59946,"gp_mid",34.53,5.76,"715",68.3,"maastrichtian",33235,30.1734,13.029,20,1
 "125361",180641,"col","Dakhla",30.5,25.5,"Kharga Oasis",NA,"Oase Charge",2,"Late Maastrichtian","",70.6,66,59946,"gp_mid",32.72,6.22,"715",68.3,"maastrichtian",439,26.6942,13.3001,20,1
 "125362",180642,"col","Calcaires à Baculites",-1.35,49.43,"Cotentin Peninsula",NA,"",1,"Maastrichtian","",72.1,66,59946,"gp_mid",9.53,37.7,"305",69.05,"maastrichtian",11911,1.0688,43.9984,20,1
@@ -3257,6 +3557,7 @@
 "125645",181031,"col","Sobrepeña",-3.54,42.83,"Quecedo de Valdivielso",NA,"",4,"Maastrichtian","",72.1,66,60117,"gp_mid",7.41,31,"304",69.05,"maastrichtian",33291,-1.5591,36.6397,20,1
 "125656",181059,"col","Calafate",-72.04,-50.27,"El Calafate airport",NA,"Lago Argentino",4,"Late Maastrichtian","",70.6,66,60138,"gp_mid",-62.75,-49.37,"291",68.3,"maastrichtian",33295,-56.6382,-52.4391,20,1
 "125689",181099,"col","",6.21,43.63,"Aups",NA,"",1,"Maastrichtian","",72.1,66,60047,"gp_mid",14.62,31.14,"305",69.05,"maastrichtian",33310,7.0017,37.7633,20,1
+"125746",181269,"col","Lance",-104.64,43.03,"Parrot locality",NA,"",1,"Lancian","",70.6,66,60268,"gp_mid",-66.09,53.6,"101",68.3,"maastrichtian",33335,-79.4209,48.0444,20,1
 "126112",181867,"col","Escondido",-101.23,27.75,"El Rancho Soledad shale bed",NA,"",3,"Maastrichtian","",72.1,66,60483,"gp_mid",-69.93,38.48,"101",69.05,"maastrichtian",8614,-79.5769,32.738,20,1
 "126433",182584,"col","Laramie",-104.16,40.76,"12 miles northeast of Briggsdale",NA,"",1,"Maastrichtian","",72.1,66,52428,"gp_mid",-66.4,51.47,"101",69.05,"maastrichtian",33474,-80.2362,45.6074,20,1
 "126778",183090,"col","Lower Red Garumnian",1.79,42.2,"La Pleta tracksites",NA,"La Pleta Nord, La Pleta Resclosa",2,"Late Maastrichtian","",70.6,66,55400,"gp_mid",11.49,30.1,"304",68.3,"maastrichtian",31662,1.8743,36.4525,20,1
@@ -3375,6 +3676,7 @@
 "128496",185635,"col","Moreno",-121.12,37.22,"UCMP A-1905, Whitney Canyon",NA,"",17,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.08,50.04,"130",69.05,"maastrichtian",2505,-97.323,42.8374,20,1
 "128497",185636,"col","Moreno",-121.12,37.23,"UCMP A-3214, Whitney Canyon",NA,"",10,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.08,50.04,"130",69.05,"maastrichtian",32539,-97.323,42.8374,20,1
 "128499",185638,"col","Moreno",-121.13,37.22,"LSJU 3424, Garzas Creek",NA,"",1,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.09,50.04,"130",69.05,"maastrichtian",33990,-97.323,42.8374,20,1
+"128507",185646,"col","",6.62,36.28,"Province de Constantine",NA,"",6,"Maastrichtian","",72.1,66,62230,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",33998,8.2503,28.1716,20,1
 "128514",185653,"col","",9.18,35.37,"Foum El Guelta",NA,"",6,"Maastrichtian","",72.1,66,62230,"gp_mid",16.45,19.38,"714",69.05,"maastrichtian",34005,7.5838,25.715,20,1
 "128560",185699,"col","Moreno",-121.12,37.22,"UCLA 6502, Whitney Canyon",NA,"",2,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.08,50.04,"130",69.05,"maastrichtian",2505,-97.323,42.8374,20,1
 "128561",185700,"col","Moreno",-121.12,37.22,"UCLA 6504, Whitney Canyon",NA,"",1,"Maastrichtian","",72.1,66,62141,"gp_mid",-85.08,50.04,"130",69.05,"maastrichtian",2505,-97.323,42.8374,20,1
@@ -3420,6 +3722,7 @@
 "129932",188090,"col","Kunino",23.66,43.15,"Moravitsa, bed 6",NA,"",2,"Early Maastrichtian","",70.6,66,63115,"gp_mid",27.76,22.96,"308",68.3,"maastrichtian",34352,21.7481,36.9372,20,1
 "130258",189003,"col","Hell Creek",-104.55,45.89,"Ninja Turtle locality",NA,"Ekalaka",20,"Late Maastrichtian","",70.6,66,63480,"gp_mid",-63.86,56.16,"101",68.3,"maastrichtian",3883,-78.5247,50.4751,20,1
 "130509",189419,"col","Navesink",-74.1,40.35,"Crawford farm, Nut Swamp",NA,"Middletown",5,"Early Maastrichtian","",70.6,66,35435,"gp_mid",-37.16,41.34,"109",68.3,"maastrichtian",34415,-49.7074,40.1646,20,1
+"130600",189513,"col","Lance",-104.53,43.34,"Schneider Creek [BMNH]",NA,"",1,"Maastrichtian","",72.1,66,63679,"gp_mid",-65.08,53.94,"101",69.05,"maastrichtian",7459,-79.4209,48.0444,20,1
 "130639",189572,"col","Hell Creek",-106.29,47.77,"Rock Creek/Sand Arroyo (AMNH)",NA,"",1,"Maastrichtian","",72.1,66,63712,"gp_mid",-63.57,58.46,"101",69.05,"maastrichtian",34433,-77.5314,52.8981,20,1
 "130750",189791,"col","Aguja",-102.95,29.57,"1 km southwest of Black Gap",NA,"Big Bend NP",1,"Maastrichtian","",72.1,66,63793,"gp_mid",-70.99,40.69,"101",69.05,"maastrichtian",34439,-78.9976,35.1914,20,1
 "130754",189795,"col","Aguja",-103.12,29.1,"BB-II-38, Talley Mountain",NA,"Big Bend NP",1,"Maastrichtian","",72.1,66,63793,"gp_mid",-71.38,40.3,"101",69.05,"maastrichtian",34443,-78.9976,35.1914,20,1
@@ -3429,7 +3732,21 @@
 "130763",189804,"col","Aguja",-103.03,29.21,"WL 350, E side of Panther Junction-Boquillas Road",NA,"Big Bend NP, TMM 41231",1,"Maastrichtian","",72.1,66,63793,"gp_mid",-71.24,40.37,"101",69.05,"maastrichtian",34446,-78.9976,35.1914,20,1
 "130764",189805,"col","Aguja",-103.04,29.21,"WL 326, E side of Panther Junction-Boquillas Road",NA,"TMM 42309",2,"Maastrichtian","",72.1,66,63793,"gp_mid",-71.25,40.38,"101",69.05,"maastrichtian",34447,-78.9976,35.1914,20,1
 "130838",190085,"col","Tremp",0.56,42.35,"Serraduy del Pon  DUPLICATE",NA,"",0,"Late Maastrichtian","",70.6,66,63926,"gp_mid",10.49,30.42,"304",68.3,"maastrichtian",34466,1.8743,36.4525,20,1
+"130945",190311,"col","Korojon",114.07,-23.08,"Giralia Anticline, southernmost outcrops",NA,"",1,"Early Maastrichtian","",70.6,66,63991,"gp_mid",114.78,-53.63,"801",68.3,"maastrichtian",34501,99.6657,-47.8257,20,1
+"130946",190312,"col","Miria",114.14,-22.8,"Giralia Anticline (Brunnschweiler collection, Miria Fm)",NA,"",16,"Late Maastrichtian","",70.6,66,63991,"gp_mid",114.86,-53.34,"801",68.3,"maastrichtian",34502,99.6657,-47.8257,20,1
+"130947",190313,"col","Miria",114.24,-22.89,"Locality GC 8, Marilla Anticline",NA,"",1,"Late Maastrichtian","",70.6,66,63991,"gp_mid",115.02,-53.43,"801",68.3,"maastrichtian",34503,99.6657,-47.8257,20,1
+"130948",190314,"col","Korojon",114.14,-22.8,"Giralia Anticline (Brunnschweiler collection, Korojon Calcarenite)",NA,"",3,"Early Maastrichtian","",70.6,66,63991,"gp_mid",114.86,-53.34,"801",68.3,"maastrichtian",34502,99.6657,-47.8257,20,1
+"130949",190315,"col","Miria",114.14,-22.8,"Giralia Anticline (Brunnschweiler collection, lower Miria Fm)",NA,"",5,"Late Maastrichtian","",70.6,66,63991,"gp_mid",114.86,-53.34,"801",68.3,"maastrichtian",34502,99.6657,-47.8257,20,1
+"130950",190316,"col","Korojon",114.24,-22.89,"Marilla Anticline (Korojon calcarenite)",NA,"",2,"Early Maastrichtian","",70.6,66,63991,"gp_mid",115.02,-53.43,"801",68.3,"maastrichtian",34503,99.6657,-47.8257,20,1
 "130975",190367,"col","Upper Chalk",1.38,52.9,"Trimingham (Upper Chalk - lunata zone)",NA,"",1,"Early Maastrichtian","",70.6,66,64021,"gp_mid",12.11,40.9,"315",68.3,"maastrichtian",29677,1.064,46.4984,20,1
+"131120",190545,"col","Arkadelphia",-93.09,34.06,"A-1",NA,"Deaderick Collection AM 358",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.05,41.79,"101",68.3,"maastrichtian",34522,-69.954,38.774,20,1
+"131121",190546,"col","Arkadelphia",-93.1,34.06,"A-2",NA,"Drouant Collection S-1, S-2, S-3",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.06,41.8,"101",68.3,"maastrichtian",34523,-69.954,38.774,20,1
+"131122",190547,"col","Arkadelphia",-93.1,34.06,"A-3",NA,"HVH collection KU 94, 95",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.06,41.8,"101",68.3,"maastrichtian",34523,-69.954,38.774,20,1
+"131123",190548,"col","Arkadelphia",-93.05,34.12,"A-4",NA,"Deaderick Collection AM 379",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-58.98,41.84,"101",68.3,"maastrichtian",34524,-69.954,38.774,20,1
+"131124",190549,"col","Arkadelphia",-93.3,33.88,"A-5",NA,"Drouant Collection R-1, R-2, R-3",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.36,41.7,"101",68.3,"maastrichtian",34525,-69.954,38.774,20,1
+"131155",190581,"col","PeeDee",-78.35,34.46,"USGS 3353, Kelly's Cove",NA,"Cape Fear River, milepost 46",5,"Late Maastrichtian","",70.6,66,64076,"gp_mid",-44.29,37.38,"109",68.3,"maastrichtian",34538,-54.8807,36.0077,20,1
+"131156",190582,"col","PeeDee",-78.35,34.46,"Indian Wells Landing, Cape Fear River",NA,"milepost 41, USGS 3450, USGS 4157, USGS 5370",9,"Late Maastrichtian","",70.6,66,64076,"gp_mid",-44.29,37.38,"109",68.3,"maastrichtian",34538,-54.8807,36.0077,20,1
+"131158",190584,"col","Arkadelphia",-93.62,33.78,"A-6",NA,"Deaderick Collection AM 218",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.74,41.71,"101",68.3,"maastrichtian",34539,-69.954,38.774,20,1
 "131159",190585,"col","Arkadelphia",-93.48,33.73,"A-7",NA,"HVH Collection, KU 98",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.62,41.61,"101",68.3,"maastrichtian",34540,-70.6337,36.3327,20,1
 "131160",190586,"col","Arkadelphia",-93.6,33.74,"A-8",NA,"Drouant Collection Q-1, Q-2, Q-3, Q-4, Q-5, Q-6",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.74,41.66,"101",68.3,"maastrichtian",34541,-70.6337,36.3327,20,1
 "131161",190587,"col","Arkadelphia",-93.65,33.72,"A-9",NA,"Deaderick Collection AM 217",0,"Late Maastrichtian","",70.6,66,64074,"gp_mid",-59.8,41.66,"101",68.3,"maastrichtian",34542,-70.6337,36.3327,20,1
@@ -3445,6 +3762,7 @@
 "131259",190699,"col","Hell Creek",-106.2,47.6,"UCMP V84187 Jacks Ridge N 1",NA,"",1,"Maastrichtian","",72.1,66,64098,"gp_mid",-63.61,58.28,"101",69.05,"maastrichtian",34555,-77.5314,52.8981,20,1
 "131260",190700,"col","Hell Creek",-106.2,47.6,"UCMP V87080 Three Buttes 3",NA,"",0,"Maastrichtian","",72.1,66,64098,"gp_mid",-63.61,58.28,"101",69.05,"maastrichtian",34555,-77.5314,52.8981,20,1
 "131460",191078,"col","Kallamedu",79.13,11.19,"northeast of Cullmoad, Ariyalur",NA,"Arrialoor, Kallamedu",1,"Late Maastrichtian","",70.6,66,64415,"gp_mid",66.24,-40.27,"501",68.3,"maastrichtian",11729,58.9602,-31.2408,20,1
+"131522",191271,"col","Lance",-104.35,43.33,"Lance Creek section",NA,"",2,"Maastrichtian","",72.1,66,64520,"gp_mid",-64.88,53.87,"101",69.05,"maastrichtian",34635,-79.4209,48.0444,20,1
 "131523",191272,"col","Lance",-101.53,45.92,"near Watauga",NA,"",1,"Maastrichtian","",72.1,66,12314,"gp_mid",-59.8,55.32,"101",69.05,"maastrichtian",34636,-74.5106,49.8295,20,1
 "131547",191369,"col","Denver",-105,39.68,"Overland Pressed Brick Company",NA,"South Platte River",1,"Maastrichtian","",72.1,66,64556,"gp_mid",-68.03,50.73,"101",69.05,"maastrichtian",34648,-80.2362,45.6074,20,1
 "131548",191374,"col","Hell Creek",-103.7,46.57,"Yule, Little Missouri badlands",NA,"",1,"Late Maastrichtian","",70.6,66,46330,"gp_mid",-62.37,56.51,"101",68.3,"maastrichtian",34649,-77.5314,52.8981,20,1
@@ -3452,9 +3770,11 @@
 "131589",191837,"col","Maastricht",5.65,50.79,"Marnebel 1, Eben Emael",NA,"",1,"Late Maastrichtian","",70.6,66,44455,"gp_mid",15.05,38.39,"315",68.3,"maastrichtian",34657,7.7721,44.0507,20,1
 "131643",191731,"col","Panoche",-121.22,37.46,"Black Gulch",NA,"",4,"Maastrichtian","",72.1,66,64666,"gp_mid",-85.11,50.28,"130",69.05,"maastrichtian",34663,-97.323,42.8374,20,1
 "131644",191732,"col","Panoche",-121.22,37.48,"Del Puerto Canyon",NA,"",1,"Maastrichtian","",72.1,66,64671,"gp_mid",-85.11,50.31,"130",69.05,"maastrichtian",34664,-97.323,42.8374,20,1
+"131664",191752,"col","Ménaka",2.38,16.57,"Mali 8",NA,"",2,"Maastrichtian","",72.1,66,64684,"gp_mid",5.2,2.97,"714",69.05,"maastrichtian",34670,1.0166,9.027,20,1
 "131743",191838,"col","Maastricht",5.79,50.86,"Blom quarry, Berg en Terblijt (upper Meerssen Mb)",NA,"",1,"Late Maastrichtian","",70.6,66,44455,"gp_mid",15.18,38.44,"315",68.3,"maastrichtian",3613,7.7721,44.0507,20,1
 "131744",191839,"col","Maastricht",5.83,50.86,"Fauquemont",NA,"",1,"Late Maastrichtian","",70.6,66,44455,"gp_mid",15.21,38.44,"315",68.3,"maastrichtian",10112,7.7721,44.0507,20,1
 "131759",191854,"col","Pierre Shale",-104.02,46.22,"USGS 16003, southwest of Marmarth",NA,"",1,"Maastrichtian","",72.1,66,28169,"gp_mid",-62.31,56.37,"101",69.05,"maastrichtian",34679,-78.5247,50.4751,20,1
+"131760",191855,"col","Pierre Shale",-104.42,43.05,"Highway 270, Redbird",NA,"",1,"Early Maastrichtian","",70.6,66,28169,"gp_mid",-65.82,53.55,"101",68.3,"maastrichtian",34680,-79.4209,48.0444,20,1
 "131761",191856,"col","Pierre Shale",-104.71,46.92,"Northern Cedar Creek anticline",NA,"",1,"Maastrichtian","",72.1,66,28169,"gp_mid",-62.51,57.21,"101",69.05,"maastrichtian",34681,-77.5314,52.8981,20,1
 "131762",191857,"col","Pierre Shale",-104.49,46.78,"USGS 22972, southwest of Mingusville",NA,"",1,"Maastrichtian","",72.1,66,28169,"gp_mid",-62.37,57.02,"101",69.05,"maastrichtian",34682,-77.5314,52.8981,20,1
 "131876",192042,"col","Moreno",-120.68,36.46,"East side Right Angle Canyon, UCMP V91170",NA,"",1,"Late Maastrichtian","",70.6,66,64913,"gp_mid",-85.36,49.08,"130",68.3,"maastrichtian",34704,-97.323,42.8374,20,1
@@ -3523,11 +3843,17 @@
 "134190",197149,"col","Ripley",-85.14,31.78,"USGS 19068, Alexander Landing",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.19,37.14,"109",68.3,"maastrichtian",645,-63.0321,34.9678,20,1
 "134191",197150,"col","Ripley",-85.14,31.78,"USGS 21166, Alexander Landing",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.19,37.14,"109",68.3,"maastrichtian",645,-63.0321,34.9678,20,1
 "134192",197151,"col","Ripley",-84.58,30.9,"Well at Bainbridge",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.05,36.14,"109",68.3,"maastrichtian",35246,-63.6809,32.5267,20,1
+"134195",197165,"col","Peedee",-78.18,34.35,"Niells Eddy Landing, Cape Fear River",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-44.19,37.22,"109",68.3,"maastrichtian",35248,-54.8807,36.0077,20,1
+"134196",197166,"col","Peedee",-77.87,34.46,"USGS 13585, New Rocky Point Quarry",NA,"",2,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-43.84,37.22,"109",68.3,"maastrichtian",12769,-54.8807,36.0077,20,1
+"134197",197167,"col","Peedee",-77.9,34.38,"USGS 4151, Cape Fear River",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-43.91,37.15,"109",68.3,"maastrichtian",35249,-54.8807,36.0077,20,1
+"134198",197168,"col","Peedee",-77.92,34.35,"USGS 14524, Castle Hayne",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-43.93,37.14,"109",68.3,"maastrichtian",35250,-54.8807,36.0077,20,1
+"134199",197169,"col","Peedee",-77.95,34.26,"Well at waterworks, Wilmington",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-44.01,37.07,"109",68.3,"maastrichtian",35251,-54.8807,36.0077,20,1
 "134200",197170,"col","Escondido",-99.86,29.08,"USGS 15378, north of Pulliam Ranch House",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-68.49,39.22,"101",68.3,"maastrichtian",35252,-78.9976,35.1914,20,1
 "134201",197171,"col","Ripley",-85.13,31.9,"USGS 279, Chewalla Creek near Eufaula",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.12,37.25,"109",68.3,"maastrichtian",35253,-63.0321,34.9678,20,1
 "134202",197172,"col","Ripley",-85.11,31.76,"Two miles north of Pataula Creek",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-52.17,37.11,"109",68.3,"maastrichtian",35254,-63.0321,34.9678,20,1
 "134226",197246,"col","Prairie Bluff",-86.77,32.34,"USGS 6794, Shell Bluff, Prairie Creek",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-53.53,38.18,"101",68.3,"maastrichtian",35261,-63.0321,34.9678,20,1
 "134350",197464,"col","Pierre Shale",-104.77,46.97,"Yellowstone River, 150 miles above mouth",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-63.23,57.2,"101",68.3,"maastrichtian",35305,-77.5314,52.8981,20,1
+"134351",197465,"col","Nacatoch Sand",-93.31,33.91,"USGS 7462, Nacatoch Bluff",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-59.35,41.73,"101",68.3,"maastrichtian",35306,-69.954,38.774,20,1
 "134437",197603,"col","Prairie Bluff",-87.4,32.13,"USGS 11650, Prairie Bluff",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-54.26,38.19,"109",68.3,"maastrichtian",617,-63.0321,34.9678,20,1
 "134438",197604,"col","Prairie Bluff",-88.04,32.43,"USGS 5643, Moscow Bluff",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-54.75,38.68,"101",68.3,"maastrichtian",611,-63.0321,34.9678,20,1
 "134439",197605,"col","Prairie Bluff",-88.19,32.67,"USGS 18145, Sumter County",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-54.78,38.94,"101",68.3,"maastrichtian",35329,-66.8152,35.6556,20,1
@@ -3543,7 +3869,10 @@
 "134449",197615,"col","Ripley",-88.93,34.08,"USGS 17261, southwest of Troy",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-54.82,40.48,"101",68.3,"maastrichtian",35335,-66.1294,38.0947,20,1
 "134450",197616,"col","Ripley",-88.88,34.12,"USGS 6471, Shannon Road",NA,"",2,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-54.75,40.5,"101",68.3,"maastrichtian",12762,-66.1294,38.0947,20,1
 "134468",197638,"col","Lefipan",-70,-42.67,"Cañadón del Loro ",NA,"Cañadón del Loro (Plants)",5,"Late Maastrichtian","",70.6,66,66212,"gp_mid",-57.95,-42.39,"291",68.3,"maastrichtian",17316,-55.9326,-44.9534,20,1
+"134479",197650,"col","Nacatoch Sand",-93.61,33.85,"USGS 7476, Old Marlbrook plantation",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-59.7,41.76,"101",68.3,"maastrichtian",35348,-69.954,38.774,20,1
+"134480",197651,"col","Nacatoch Sand",-93.66,33.79,"USGS 7471, Washington",NA,"",1,"Early Maastrichtian","",70.6,66,26335,"gp_mid",-59.77,41.73,"101",68.3,"maastrichtian",35349,-69.954,38.774,20,1
 "134481",197652,"col","Corsicana Marl",-98.78,29.37,"USGS 15502, San Antonio Road",NA,"",3,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-67.22,39.18,"101",68.3,"maastrichtian",787,-75.1175,34.5484,20,1
+"134528",197713,"col","Peedee",-77.94,34.26,"USGS 4143, Hilton Park",NA,"",1,"Late Maastrichtian","",70.6,66,26335,"gp_mid",-44.01,37.06,"109",68.3,"maastrichtian",35361,-54.8807,36.0077,20,1
 "135135",199535,"col","Marnes d'Auzas",0.92,43.21,"Peyrecave",NA,"",14,"Late Maastrichtian","",70.6,66,56237,"gp_mid",9.74,31.39,"305",68.3,"maastrichtian",35484,1.8743,36.4525,20,1
 "135322",199756,"col","Maevarano",46.57,-15.88,"Berivotra, R.N. 4, km 523–524",NA,"Berivotro",3,"Maastrichtian","",72.1,66,34810,"gp_mid",43.74,-36.53,"702",69.05,"maastrichtian",18737,39.3627,-27.4789,20,1
 "135323",199757,"col","Maevarano",46.57,-15.88,"Berivotra, R.N. 4, km 531",NA,"Berivotro",3,"Maastrichtian","",72.1,66,34810,"gp_mid",43.74,-36.53,"702",69.05,"maastrichtian",18737,39.3627,-27.4789,20,1
@@ -3555,6 +3884,11 @@
 "135727",200448,"col","Aguja",-103.09,29.41,"McKinney Hills",NA,"",1,"Maastrichtian","",72.1,66,68445,"gp_mid",-71.21,40.58,"101",69.05,"maastrichtian",34444,-78.9976,35.1914,20,1
 "135732",200457,"col","Javelina",-103.1,29.43,"Black Peaks",NA,"",1,"Maastrichtian","",72.1,66,68445,"gp_mid",-71.22,40.6,"101",69.05,"maastrichtian",35593,-78.9976,35.1914,20,1
 "135738",200484,"col","Sânpetru",23.09,45.49,"Pui Gater",NA,"Bărbat River",1,"Early Maastrichtian","",70.6,66,68507,"gp_mid",28.82,25.13,"308",68.3,"maastrichtian",1501,21.5826,39.4338,20,1
+"136242",201601,"col","Steel Creek",-80.05,33.88,"Turbeville",NA,"site 3",5,"Late Maastrichtian","",70.6,66,68976,"gp_mid",-46.21,37.41,"109",68.3,"maastrichtian",35736,-54.8807,36.0077,20,1
+"136246",201609,"col","Peedee",-80.02,34.05,"APAC Quarry (upper)",NA,"Ashland Paving and Construction, Lynchburg",4,"Early Maastrichtian","",70.6,66,68976,"gp_mid",-46.09,37.55,"109",68.3,"maastrichtian",28779,-54.8807,36.0077,20,1
+"136248",201611,"col","Peedee",-79.77,34.14,"Muldrow's Mill",NA,"site 6",6,"Early Maastrichtian","",70.6,66,68976,"gp_mid",-45.81,37.55,"109",68.3,"maastrichtian",35737,-54.8807,36.0077,20,1
+"136249",201612,"col","Peedee",-79.62,34.1,"Diamondhead Loop Road",NA,"site 7",3,"Early Maastrichtian","",70.6,66,68976,"gp_mid",-45.69,37.47,"109",68.3,"maastrichtian",35738,-54.8807,36.0077,20,1
+"136251",201614,"col","Peedee",-79.38,33.86,"Pee Dee River, 2 miles south of Allison Ferry Landing",NA,"site 10",1,"Early Maastrichtian","",70.6,66,68976,"gp_mid",-45.58,37.17,"109",68.3,"maastrichtian",35739,-54.8807,36.0077,20,1
 "136254",201617,"col","Peedee",-78.95,33.7,"Myrtle Beach",NA,"site 13",1,"Early Maastrichtian","",70.6,66,68976,"gp_mid",-45.25,36.88,"109",68.3,"maastrichtian",35740,-55.5661,33.5719,20,1
 "136506",202021,"col","",6.06,43.65,"Montmeyan",NA,"",1,"Maastrichtian","",72.1,66,45099,"gp_mid",14.5,31.17,"305",69.05,"maastrichtian",35811,7.0017,37.7633,20,1
 "136508",202023,"col","Calcaires de Rognac",2.9,43.13,"Fontfroide",NA,"",1,"Maastrichtian","",72.1,66,52461,"gp_mid",11.75,30.99,"305",69.05,"maastrichtian",35812,5.3019,36.2892,20,1
@@ -3574,6 +3908,7 @@
 "138996",205512,"col","Owl Creek",-88.93,34.76,"OWL",NA,"Owl Creek\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",73,"Maastrichtian","",72.1,66,28119,"gp_mid",-53.85,41.17,"101",69.05,"maastrichtian",36514,-66.1294,38.0947,20,1
 "139006",205522,"col","Corsicana",-98.29,29.47,"REC16",NA,"Randolf Airfield\r\n\r\n\r\n\r\n",2,"Maastrichtian","",72.1,66,28119,"gp_mid",-66.06,39.21,"101",69.05,"maastrichtian",36522,-75.1175,34.5484,20,1
 "139013",205529,"col","Corsicana",-98.29,29.47,"SAF",NA,"I10",18,"Maastrichtian","",72.1,66,28119,"gp_mid",-66.06,39.21,"101",69.05,"maastrichtian",36522,-75.1175,34.5484,20,1
+"139020",205536,"col","Ripley",-96.83,33.86,"UCR",NA,"Dockery Union County\r\n\r\n\r\n\r\n\r\n\r\n",9,"Maastrichtian","",72.1,66,28119,"gp_mid",-62.42,42.86,"101",69.05,"maastrichtian",36529,-73.8187,39.4398,20,1
 "139025",205541,"col","Kemp Clay",-97.52,30.23,"WEB",NA,"Colorado River, Webberville\r\n",215,"Maastrichtian","",72.1,66,28119,"gp_mid",-64.91,39.69,"101",69.05,"maastrichtian",752,-75.1175,34.5484,20,1
 "139026",205542,"col","Kemp Clay",-97.52,30.23,"WEB-D",NA,"Colorado River, Webberville\r\n",11,"Maastrichtian","",72.1,66,28119,"gp_mid",-64.91,39.69,"101",69.05,"maastrichtian",752,-75.1175,34.5484,20,1
 "139027",205543,"col","Kemp Clay",-97.52,30.23,"WEB-UL",NA,"Colorado River, Webberville\r\n",18,"Maastrichtian","",72.1,66,28119,"gp_mid",-64.91,39.69,"101",69.05,"maastrichtian",752,-75.1175,34.5484,20,1
@@ -3589,6 +3924,7 @@
 "139153",205740,"col","Conques",0.57,42.32,"Color 1",NA,"Serraduy del Pon, Aren",1,"Late Maastrichtian","",70.6,66,70542,"gp_mid",10.49,30.39,"304",68.3,"maastrichtian",27140,1.8743,36.4525,20,1
 "139154",205741,"col","Conques",0.57,42.32,"Color 3",NA,"Serraduy del Pon, Aren",1,"Late Maastrichtian","",70.6,66,70541,"gp_mid",10.49,30.39,"304",68.3,"maastrichtian",27140,1.8743,36.4525,20,1
 "139171",205793,"col","Owl Creek",-88.91,34.75,"Owl Creek Type Locality",NA,"AMNH Loc. 3460",12,"Late Maastrichtian","",70.6,66,70564,"gp_mid",-54.45,41.1,"101",68.3,"maastrichtian",36593,-66.1294,38.0947,20,1
+"139172",205794,"col","Owl Creek",-89.85,37.01,"Crowley's Ridge",NA,"AMNH Loc. 3458",10,"Late Maastrichtian","",70.6,66,70564,"gp_mid",-54.18,43.47,"101",68.3,"maastrichtian",36594,-65.3963,40.5296,20,1
 "139173",205795,"col","Arkadelphia",-91.85,34.38,"Malvern",NA,"AMNH Loc. 3596",4,"Late Maastrichtian","",70.6,66,70564,"gp_mid",-57.62,41.7,"101",68.3,"maastrichtian",36595,-66.1294,38.0947,20,1
 "139174",205796,"col","Owl Creek",-88.99,34.5,"4th Street Quarry",NA,"AMNH Loc. 3481",8,"Late Maastrichtian","",70.6,66,70564,"gp_mid",-54.66,40.89,"101",68.3,"maastrichtian",36596,-66.1294,38.0947,20,1
 "139175",205797,"col","Prairie Bluff Chalk",-89,33.97,"Prairie Bluff Landfill",NA,"AMNH Loc. 3483",14,"Late Maastrichtian","",70.6,66,70564,"gp_mid",-54.95,40.4,"101",68.3,"maastrichtian",36597,-66.1294,38.0947,20,1
@@ -3615,8 +3951,12 @@
 "140841",208357,"col","Dorotea",-72.47,-50.73,"Sierra Baguales",NA,"",1,"Late Maastrichtian","",70.6,66,71969,"gp_mid",-63.35,-49.74,"291",68.3,"maastrichtian",37063,-56.6382,-52.4391,20,1
 "140842",208358,"col","Dorotea",-72.44,-51.79,"Dumestre",NA,"",1,"Late Maastrichtian","",70.6,66,71969,"gp_mid",-63.78,-50.76,"291",68.3,"maastrichtian",37064,-56.9287,-54.9331,20,1
 "141087",208625,"col","Zimam",13.18,31.12,"Wadi Zamzam, western Hammada al Hamra desert",NA,"",1,"Late Maastrichtian","",70.6,66,72033,"gp_mid",18.57,14.6,"715",68.3,"maastrichtian",37120,13.5068,19.7865,20,1
+"141110",208782,"col","Cap de Nez",-17.1,14.54,"Popenguine, well cuttings",NA,"",1,"Late Maastrichtian","",70.6,66,72062,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37125,-20.9811,10.6996,20,1
+"141111",208783,"col","Cap de Nez",-17.1,14.54,"Popenguine",NA,"",2,"Late Maastrichtian","",70.6,66,72062,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37125,-20.9811,10.6996,20,1
 "141251",208970,"col","Maevarano",46.58,-15.9,"MAD99-15, Berivotra",NA,"",1,"Maastrichtian","",72.1,66,72463,"gp_mid",43.75,-36.56,"702",69.05,"maastrichtian",2541,39.3627,-27.4789,20,1
 "141517",209367,"col","Ménaka",0.44,17.4,"Anou-Melloum, near Gao (niveau crétacés)",NA,"",2,"Maastrichtian","",72.1,66,72245,"gp_mid",3.65,4.3,"714",69.05,"maastrichtian",37213,-2.5541,9.6403,20,1
+"141521",209419,"col","Ménaka",2.41,16.61,"Tchi-Dermine",NA,"",1,"Maastrichtian","",72.1,66,72272,"gp_mid",5.24,3,"714",69.05,"maastrichtian",37216,1.0166,9.027,20,1
+"141566",209420,"col","Ménaka",2.28,16.49,"Oued Tinamassine",NA,"",1,"Maastrichtian","",72.1,66,72272,"gp_mid",5.08,2.92,"714",69.05,"maastrichtian",37236,1.0166,9.027,20,1
 "142081",210046,"col","Denver",-104.53,38.91,"DMNH 8433",NA,"Corral Bluffs",1,"Lancian","",70.6,66,70613,"gp_mid",-68.6,49.79,"101",68.3,"maastrichtian",37300,-80.2362,45.6074,20,1
 "142082",210047,"col","Denver",-104.53,38.91,"DMNH 4194",NA,"Corral Bluffs",1,"Lancian","",70.6,66,70613,"gp_mid",-68.6,49.79,"101",68.3,"maastrichtian",37300,-80.2362,45.6074,20,1
 "142083",210048,"col","Denver",-104.53,38.91,"DMNH 4195",NA,"Corral Bluffs",1,"Lancian","",70.6,66,70613,"gp_mid",-68.6,49.79,"101",68.3,"maastrichtian",37300,-80.2362,45.6074,20,1
@@ -3664,6 +4004,7 @@
 "142404",210419,"col","",47.42,52.06,"Sample 2/4, Volsk Mountain",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",48.07,38.48,"302",68.3,"maastrichtian",37389,44.5873,48.3723,20,1
 "142405",210421,"col","",54.61,49.43,"Sample 5419-1, Uil River below Terekty",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",54.03,36.24,"302",68.3,"maastrichtian",37390,51.9268,46.4705,20,1
 "142406",210422,"col","",54.19,47.44,"Imankara dome, South Emba",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",53.93,34.23,"402",68.3,"maastrichtian",37391,48.8804,43.6895,20,1
+"142407",210424,"col","",58.14,48.84,"Sample 86, Emba River",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",56.95,35.9,"402",68.3,"maastrichtian",37392,55.407,46.7839,20,1
 "142408",210426,"col","",56.98,47.85,"Sample 14a, Kuantaytau Mountain",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",56.15,34.83,"402",68.3,"maastrichtian",37393,52.368,43.9899,20,1
 "142409",210427,"col","",54.53,49.35,"Sample 197, Uil River",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",53.98,36.15,"302",68.3,"maastrichtian",37394,51.9268,46.4705,20,1
 "142410",210429,"col","",54.09,43.74,"Sample 1631-8, Aksai Ravine, Ustyurt Plateau",NA,"",1,"Early Maastrichtian","",70.6,66,72580,"gp_mid",54.25,30.54,"402",68.3,"maastrichtian",37395,49.6198,38.7205,20,1
@@ -3688,9 +4029,11 @@
 "142519",210608,"col","Ripley",-88.74,33.39,"Chapel Hill Church, Catalpa Creek",NA,"M9",4,"Early Maastrichtian","",70.6,66,56065,"gp_mid",-54.98,39.79,"101",68.3,"maastrichtian",37415,-66.8152,35.6556,20,1
 "142527",210619,"col","Prairie Bluff Chalk",-88.19,32.6,"Hopkins Road, Livingston",NA,"",2,"Late Maastrichtian","",70.6,66,72643,"gp_mid",-54.82,38.88,"101",68.3,"maastrichtian",37416,-66.8152,35.6556,20,1
 "142528",210620,"col","Prairie Bluff Chalk",-88.18,32.6,"North entrance to Livingston University",NA,"",1,"Late Maastrichtian","",70.6,66,72643,"gp_mid",-54.81,38.88,"101",68.3,"maastrichtian",37417,-66.8152,35.6556,20,1
+"142670",210837,"col","Isogo",140.56,36.4,"near Hitachinaka city",NA,"",2,"Maastrichtian","",72.1,66,72817,"gp_mid",130.39,43.87,"610",69.05,"maastrichtian",37448,131.2326,45.1608,20,1
 "142974",211439,"col","Guinea Corn",-77.25,18.15,"Central Inlier, unknown locality",NA,"",1,"Maastrichtian","",72.1,66,73077,"gp_mid",NA,NA,"coordinates not computable using this model",69.05,"maastrichtian",37516,-72.8418,17.8385,20,1
 "142980",211445,"col","Gulpen",5.65,50.75,"CPL quarry, Hallembaye (lower Viljlen Mb)",NA,"",6,"Late Maastrichtian","",70.6,66,73081,"gp_mid",15.04,38.35,"315",68.3,"maastrichtian",23689,7.7721,44.0507,20,1
 "142981",211446,"col","Gulpen",5.65,50.75,"CPL quarry, Hallembaye (lower Lanaye Mb)",NA,"",3,"Late Maastrichtian","",70.6,66,73081,"gp_mid",15.04,38.35,"315",68.3,"maastrichtian",23689,7.7721,44.0507,20,1
+"143806",212599,"col","Miria Marl",114.04,-23.23,"Cardabia Stream",NA,"",1,"Maastrichtian","",72.1,66,52412,"gp_mid",114.89,-54.14,"801",69.05,"maastrichtian",37721,99.6657,-47.8257,20,1
 "143817",212621,"col","Owl Creek",-89,34.49,"MMNS locality MS.73.001b",NA,"",25,"Late Maastrichtian","",70.6,66,73433,"gp_mid",-54.68,40.89,"101",68.3,"maastrichtian",37730,-66.1294,38.0947,20,1
 "143951",212884,"col","Hakobuchi",142.15,42.81,"Opposite outcrop H311, Kiusu, Hobetsu",NA,"",1,"Early Maastrichtian","",70.6,66,73514,"gp_mid",128.02,50.32,"610",68.3,"maastrichtian",37779,138.6454,49.9328,20,1
 "143953",212886,"col","Mendez",-99.54,25.98,"Loma Los Martinitos",NA,"",1,"Early Maastrichtian","",70.6,66,73514,"gp_mid",-69.45,36.2,"101",68.3,"maastrichtian",37780,-80.1252,30.282,20,1
@@ -3867,12 +4210,18 @@
 "145126",214322,"col","",12.21,55.55,"Karlstrup, Sample 3",NA,"",1,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37951,10.8997,49.1086,20,1
 "145127",214323,"col","",14.23,56.08,"Sample S90-4-1-MS, Balsvík quarry",NA,"",3,"Early Maastrichtian","",70.6,66,73903,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37952,14.1856,49.1897,20,1
 "145128",214324,"col","",13.86,56.24,"Sample S89-9-1-MS, Ballingslöv 1",NA,"",5,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37953,14.1856,49.1897,20,1
+"145129",214325,"col","",13.73,56.29,"Sample S89-4-2-MS, Bjärlången",NA,"",4,"Early Maastrichtian","",70.6,66,73903,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37954,14.013,51.6873,20,1
 "145130",214326,"col","",9.98,57.05,"Aalborg, Rørdal, Sample 2 ",NA,"",1,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37955,10.7686,51.6072,20,1
 "145132",214328,"col","",13.11,55.58,"Sample S91-5-1-MS, Kvarnby",NA,"",5,"Late Maastrichtian","",70.6,66,73903,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37956,10.8997,49.1086,20,1
+"145133",214329,"col","",13.83,56.25,"Sample S89-4-19-MS, Ballingslöv 2",NA,"",4,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37957,14.013,51.6873,20,1
+"145134",214330,"col","",13.83,56.25,"Sample S89-4-16-MS, Ballingslöv 2",NA,"",4,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37957,14.013,51.6873,20,1
 "145135",214331,"col","",9.81,56.96,"Nr. Flødal, Sample 1",NA,"",2,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37958,10.7686,51.6072,20,1
+"145136",214332,"col","",13.83,56.25,"Sample S89-4-15-MS, Ballingslöv 2",NA,"",4,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37957,14.013,51.6873,20,1
+"145137",214333,"col","",13.83,56.25,"Sample S89-4-8-MS, Ballingslöv 2",NA,"",4,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37957,14.013,51.6873,20,1
 "145138",214334,"col","",14.23,56.08,"Sample S90-7-6-MS, Balsvík quarry",NA,"",1,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37952,14.1856,49.1897,20,1
 "145139",214335,"col","",14.23,56.08,"Sample S90-5-3-MS, Balsvík quarry",NA,"",1,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37952,14.1856,49.1897,20,1
 "145140",214336,"col","",14.23,56.08,"Sample S90-7-7-MS, Balsvík quarry",NA,"",1,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37952,14.1856,49.1897,20,1
+"145141",214337,"col","",13.73,56.29,"Sample S90-7-2-MS, Bjärlången",NA,"",2,"Early Maastrichtian","",70.6,66,73893,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37954,14.013,51.6873,20,1
 "145145",214341,"col","",9.1,53.7,"Hemmoor, Sample 139",NA,"",1,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37959,7.6983,46.5501,20,1
 "145146",214342,"col","",9.1,53.7,"Hemmoor, Sample 124",NA,"",1,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37959,7.6983,46.5501,20,1
 "145147",214343,"col","",10.1,57,"Gudumholm, Sample 1",NA,"",2,"Late Maastrichtian","",70.6,66,73862,"gp_mid",NA,NA,"coordinates not computable using this model",68.3,"maastrichtian",37960,10.7686,51.6072,20,1

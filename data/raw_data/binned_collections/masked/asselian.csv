@@ -195,7 +195,10 @@
 "4637",12441,"col","Beattie",-96.54,37.37,"USGS 13775, Cowley County",NA,"",27,"Asselian","",298.9,295.5,4157,"gp_mid",-27.04,0.36,"101",297.2,"asselian",1431,-36.6404,1.7029,58,1
 "4638",12442,"col","Beattie",-96.49,37.1,"USGS 14802, Cedar Vale",NA,"",17,"Asselian","",298.9,295.5,4157,"gp_mid",-27.15,0.11,"101",297.2,"asselian",1463,-36.6404,1.7029,58,1
 "15244",29396,"col","Piedra Shotel",-71,-49,"Lomas Chatas",NA,"PGAP 11027",12,"Asselian","",298.9,295.5,8049,"gp_mid",-74.72,-55.72,"291",297.2,"asselian",2944,-79.8243,-70.0745,58,1
+"15248",29400,"col","Arroyo Totoral",-66.3,-30.9,"Anzulon",NA,"PGAP 11031",15,"Asselian","",298.9,295.5,8049,"gp_mid",-52.57,-43.85,"291",297.2,"asselian",2946,-56.0389,-51.3017,58,1
+"15250",29402,"col","Tasa Cuna",-65.5,-31.2,"Tasa Cuna",NA,"PGAP 11030",20,"Asselian","",298.9,295.5,8049,"gp_mid",-51.99,-44.47,"291",297.2,"asselian",2948,-51.8316,-52.4595,58,1
 "15254",29406,"col","Mojon de Hierro",-70.6,-43.8,"Arroyo Garrido",NA,"PGAP 13268",6,"Asselian","",298.9,295.5,8229,"gp_mid",-68.25,-52.17,"291",297.2,"asselian",2949,-72.329,-65.928,58,1
+"15261",29413,"col","La Colina",-66.5,-30.8,"Tacopayana",NA,"PGAP 13261",6,"Asselian","",298.9,295.5,8228,"gp_mid",-52.7,-43.67,"291",297.2,"asselian",2952,-56.0389,-51.3017,58,1
 "15274",29426,"col","Carmilla Beds",149.8,-22.8,"Marlborough",NA,"PGAP 13167",4,"Asselian","",298.9,295.5,7981,"gp_mid",160.59,-55.23,"801",297.2,"asselian",2957,151.3331,-43.4794,58,1
 "15847",29999,"col","Amushan",111.7,41.5,"Shizhiwangqi",NA,"PGAP 11134",6,"Asselian","",298.9,295.5,525,"gp_mid",124.68,23.58,"604",297.2,"asselian",3098,137.7383,39.5614,58,1
 "16206",30359,"col","Lower Tobra",72.5,32.5,"Kathwai",NA,"PGAP 11074",4,"Asselian","",298.9,295.5,7987,"gp_mid",57.24,-54.69,"501",297.2,"asselian",3197,74.614,-33.7527,58,1
@@ -266,6 +269,7 @@
 "41279",120736,"col","Bird Spring",-115.52,34.96,"LACMIP 14322, C&K Mine Section, Mitchell Caverns, Providence Mountains",NA,"",2,"Asselian","",298.9,295.5,33751,"gp_mid",-40.83,7.48,"101",297.2,"asselian",9967,-51.1345,6.7121,58,1
 "41281",61687,"col","",-115.58,36.44,"LACMIP 5645, Lee Canyon",NA,"",2,"Asselian","",298.9,295.5,17772,"gp_mid",-39.88,8.63,"101",297.2,"asselian",9963,-49.2515,9.6608,58,1
 "42161",62963,"col","Piqiang",77.93,39.75,"Uzunbulak Section, Bed 7, Piqiang, Artux City",NA,"",2,"Asselian","",298.9,295.5,18150,"gp_mid",85.36,18.74,"601",297.2,"asselian",4122,79.1574,52.4071,58,1
+"42887",64272,"col","Omi Limestone",138,37,"Omi Limestone",NA,"",7,"Asselian","",298.9,295.5,18548,"gp_mid",142.6,14.43,"610",297.2,"asselian",10337,173.8044,13.4426,58,1
 "44173",66116,"col","Sezymskaya",59.3,69.95,"Vaigach Island, sample M-72",NA,"",1,"Asselian","",298.9,295.5,18934,"gp_mid",30.53,34.81,"302",297.2,"asselian",10681,14.0216,44.5015,58,1
 "50318",75645,"col","Hueco",-103.32,33.25,"Tatum Basin, phylloid-algal mounds",NA,"Reef 710",6,"Asselian","",298.9,295.5,25558,"gp_mid",-33.92,-0.09,"101",297.2,"asselian",12325,-44.4408,0.3449,58,1
 "50349",75719,"col","Kapp Duner",18.77,74.48,"Bjornoya, Barents Sea, Palaeoaplysina build-ups",NA,"Reef 303",7,"Asselian","",298.9,295.5,25570,"gp_mid",16.3,30.12,"309",297.2,"asselian",12335,1.9174,35.3123,58,1
@@ -297,6 +301,7 @@
 "54183",82800,"col","Neva",-96.5,37.66,"Beaumont, Neva Limestone, Butler County",NA,"",1,"Asselian","",298.9,295.5,27838,"gp_mid",-26.87,0.59,"101",297.2,"asselian",13673,-36.6404,1.7029,58,1
 "54198",82824,"col","",48.97,67.49,"Belaya River, Asselian, Northern Timan Mountains",NA,"",4,"Asselian","",298.9,295.5,27342,"gp_mid",30.04,30.36,"302",297.2,"asselian",13681,15.9106,39.9385,58,1
 "56507",86027,"col","",57.65,62.67,"Bolshaya Anyo River, Outcrop 5, Asselian, Il'cha River Basin",NA,"",4,"Asselian","",298.9,295.5,27343,"gp_mid",37.01,29.96,"302",297.2,"asselian",14512,23.4967,41.2794,58,1
+"56511",86031,"col","",58.36,64.47,"Bolshaya Patok River, Outcrop 24, Pechora River Basin",NA,"",3,"Asselian","",298.9,295.5,27342,"gp_mid",35.59,31.32,"302",297.2,"asselian",14516,20.8528,43.5569,58,1
 "56512",86032,"col","",57.64,64.15,"Bolshaya Shaitanovka River, Pechora River Basin",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",35.66,30.88,"302",297.2,"asselian",14517,20.3027,42.0246,58,1
 "57317",87284,"col","Red Eagle",-96.71,36.7,"Burbank Quarry, Bennett Shale, Osage County",NA,"",3,"Asselian","",298.9,295.5,21926,"gp_mid",-27.5,-0.14,"101",297.2,"asselian",14833,-36.6404,1.7029,58,1
 "57318",87285,"col","Grenola",-96.71,36.7,"Burbank Quarry, Neva Limestone, Osage County (Location 2)",NA,"",1,"Asselian","",298.9,295.5,21926,"gp_mid",-27.5,-0.14,"101",297.2,"asselian",14833,-36.6404,1.7029,58,1
@@ -304,6 +309,11 @@
 "58115",88265,"col","Wardak",68.48,34.08,"Caparay Ghar Section A, Bed 5, Wardak",NA,"",19,"Asselian","",298.9,295.5,27426,"gp_mid",56.2,-51.03,"506",297.2,"asselian",15079,74.7821,44.0368,58,1
 "58116",88266,"col","Wardak",68.48,34.08,"Caparay Ghar Section A, Bed 7, Wardak",NA,"",5,"Asselian","",298.9,295.5,27426,"gp_mid",56.2,-51.03,"506",297.2,"asselian",15079,74.7821,44.0368,58,1
 "58503",88663,"col","Beattie",-96.62,37.14,"Cedar Creek, Hooser, Cowley County (Location 5)",NA,"",1,"Asselian","",298.9,295.5,21926,"gp_mid",-27.21,0.2,"101",297.2,"asselian",15199,-36.6404,1.7029,58,1
+"59014",89379,"col","Shikhan",58.23,58.05,"Chusova River, Outcrop 1, Bed 1, 2 km below Stvor Village (Plakun Rock)",NA,"",1,"Asselian","",298.9,295.5,29974,"gp_mid",41.27,27.24,"302",297.2,"asselian",15360,30.6066,41.4144,58,1
+"59015",89380,"col","Shikhan",58.23,58.05,"Chusova River, Outcrop 1, Bed 2, 2 km below Stvor Village (Plakun Rock)",NA,"",1,"Asselian","",298.9,295.5,29974,"gp_mid",41.27,27.24,"302",297.2,"asselian",15360,30.6066,41.4144,58,1
+"59016",89381,"col","Shikhan",58.23,58.05,"Chusova River, Outcrop 2, Bed 7, 2 km below Stvor Village (Plakun Rock)",NA,"",1,"Asselian","",298.9,295.5,29974,"gp_mid",41.27,27.24,"302",297.2,"asselian",15360,30.6066,41.4144,58,1
+"59017",89382,"col","Shikhan",58.23,58.05,"Chusova River, Outcrop 2, Bed 10, 2 km below Stvor Village (Plakun Rock)",NA,"",1,"Asselian","",298.9,295.5,29974,"gp_mid",41.27,27.24,"302",297.2,"asselian",15360,30.6066,41.4144,58,1
+"59018",89383,"col","",58.23,58.05,"Chusovaya River, Plakun Rock, Perm Oblast",NA,"",4,"Asselian","",298.9,295.5,27342,"gp_mid",41.27,27.24,"302",297.2,"asselian",15360,30.6066,41.4144,58,1
 "59412",90291,"col","",57.08,51.36,"Nikol'skoe village, Ural River, section 2018",NA,"",5,"Asselian","",298.9,295.5,30310,"gp_mid",46.26,22.27,"302",297.2,"asselian",15523,35.481,37.4828,58,1
 "59794",91006,"col","Nam Mahoran",101.5,17.42,"TH-6, Phu Khi Kai, Loei [Nam Mahoran Fm]",NA,"",2,"Asselian","",298.9,295.5,30618,"gp_mid",136.13,-21.8,"615",297.2,"asselian",15689,136.1796,-15.7406,58,1
 "59795",91007,"col","Khanu Chert",99.67,17.25,"SKT-6, Sukhothai [Khanu Chert Fm]",NA,"",2,"Asselian","",298.9,295.5,30618,"gp_mid",105.76,-42.84,"616",297.2,"asselian",15690,136.1796,-15.7406,58,1
@@ -352,6 +362,7 @@
 "67426",100680,"col","Ol'chan",139,62.5,"Ol'chan Stream, T. 036/44, Tompo River Basin, Southern Verkhoyan",NA,"",1,"Asselian","",298.9,295.5,27345,"gp_mid",36.06,59.42,"401",297.2,"asselian",18119,-49.4477,82.8631,58,1
 "67429",100683,"col","Ol'chan",139,62.5,"Ol'chan Stream, T. 036/45, Tompo River Basin, Southern Verkhoyan",NA,"",4,"Asselian","",298.9,295.5,27345,"gp_mid",36.06,59.42,"401",297.2,"asselian",18119,-49.4477,82.8631,58,1
 "67430",100684,"col","Ol'chan",139,62.5,"Ol'chan Stream, T. 036/49, Tompo River Basin, Southern Verkhoyan",NA,"",1,"Asselian","",298.9,295.5,27345,"gp_mid",36.06,59.42,"401",297.2,"asselian",18119,-49.4477,82.8631,58,1
+"67471",100725,"col","Gazov",136.5,60,"Yudoma River, T. 87, Southern Verkhoyan",NA,"",1,"Asselian","",298.9,295.5,27345,"gp_mid",40.27,61.25,"401",297.2,"asselian",18133,-52.1588,85.9343,58,1
 "67525",100779,"col","Chuanshan",119.41,32.14,"Chuanshan, Lower Chuanshan Formation, Dantu County",NA,"",3,"Asselian","",298.9,295.5,34487,"gp_mid",124.12,12.39,"604",297.2,"asselian",18151,122.0388,16.4713,58,1
 "67538",100792,"col","Chuanshan",116.56,29.9,"Jingzishan, Pengze County (Protoivanovia assemblage)",NA,"",6,"Asselian","",298.9,295.5,34487,"gp_mid",134.1,-1.69,"611",297.2,"asselian",18162,150.5726,6.8774,58,1
 "67553",100807,"col","Chuanshan",120.05,30.88,"Pianshan, Wuxing County",NA,"",1,"Asselian","",298.9,295.5,34487,"gp_mid",134.72,1.42,"611",297.2,"asselian",18171,153.5646,8.1995,58,1
@@ -361,6 +372,7 @@
 "67670",101073,"col","",52.36,36.2,"Emarat IR380",NA,"",2,"Asselian","",298.9,295.5,33168,"gp_mid",51.21,-24.41,"512",297.2,"asselian",18224,46.4335,-23.777,58,1
 "67671",101074,"col","",52.36,36.2,"Emarat IR921",NA,"",1,"Asselian","",298.9,295.5,33168,"gp_mid",51.21,-24.41,"512",297.2,"asselian",18224,46.4335,-23.777,58,1
 "67672",101075,"col","",52.36,36.21,"Emarat IR441",NA,"",2,"Asselian","",298.9,295.5,33168,"gp_mid",51.21,-24.4,"512",297.2,"asselian",18225,46.4335,-23.777,58,1
+"68006",101533,"col","",58.21,58.24,"Koiva River, Section 53, Bed 43b",NA,"",1,"Asselian","",298.9,295.5,20043,"gp_mid",41.1,27.35,"302",297.2,"asselian",18370,30.6066,41.4144,58,1
 "68171",101724,"col","Magiveyen",161.5,63.5,"Pareni River Basin, Upper Magiveyen Svita, Omolon Massif",NA,"",5,"Asselian","",298.9,295.5,29232,"gp_mid",5.61,64.22,"405",297.2,"asselian",18465,-106.3247,68.968,58,1
 "68174",101727,"col","Jungle Creek",-140.71,65.29,"GSC 56946, Section 116F-16, Northern Ogilvie Mountains",NA,"",8,"Asselian","",298.9,295.5,3813,"gp_mid",-25.02,38.16,"101",297.2,"asselian",18467,-55.6606,31.0548,58,1
 "68175",101728,"col","Jungle Creek",-137.79,65.74,"GSC 55135, Ogilvie River",NA,"",7,"Asselian","",298.9,295.5,3813,"gp_mid",-23.91,37.22,"101",297.2,"asselian",18468,-37.2365,38.2037,58,1
@@ -402,6 +414,7 @@
 "70999",106023,"col","Neal Ranch",-103.13,30.35,"USNM730c, Wolf Camp Hills, Glass Mountains",NA,"",1,"Asselian","",298.9,295.5,11454,"gp_mid",-35.45,-2.56,"101",297.2,"asselian",5789,-45.2337,-2.2389,58,1
 "71018",106042,"col","Neal Ranch",-103.42,30.21,"USNM731i, Dugout Mountain (float), Glass Mountains",NA,"",1,"Asselian","",298.9,295.5,11454,"gp_mid",-35.73,-2.54,"101",297.2,"asselian",19748,-45.2337,-2.2389,58,1
 "71021",106045,"col","Neal Ranch",-103.12,30.35,"USNM731l, Wolf Camp Hills, Glass Mountains",NA,"",1,"Asselian","",298.9,295.5,11454,"gp_mid",-35.44,-2.56,"101",297.2,"asselian",5790,-42.9346,-3.431,58,1
+"71257",106345,"col","Maroon",-105.98,39.22,"Fairplay",NA,"Nelson Ranch; South Park",24,"Asselian","",298.9,295.5,35478,"gp_mid",-32.19,6.01,"101",297.2,"asselian",19819,-40.5238,6.7466,58,1
 "71891",107361,"col","",57.8,50.1,"Tabantal River",NA,"",1,"Asselian","",298.9,295.5,33471,"gp_mid",47.59,21.74,"302",297.2,"asselian",20006,38.2707,36.353,58,1
 "72082",107562,"col","Bird Spring",-115.55,36.45,"USC Loc. 331 - northern Spring Mountains",NA,"",1,"Asselian","",298.9,295.5,33472,"gp_mid",-39.86,8.62,"101",297.2,"asselian",20065,-49.2515,9.6608,58,1
 "72094",107574,"col","Bird Spring",-115.51,34.95,"USC Loc. 344 - Mitchell's Caverns, Providence Mountains",NA,"",1,"Asselian","",298.9,295.5,33472,"gp_mid",-40.84,7.47,"101",297.2,"asselian",20075,-51.1345,6.7121,58,1
@@ -440,6 +453,8 @@
 "72578",108116,"col","Portuguese Springs",-115.76,39.85,"SJS-745, Diamond Range South",NA,"",1,"Asselian","",298.9,295.5,29891,"gp_mid",-37.69,11.27,"101",297.2,"asselian",20300,-47.7027,11.644,58,1
 "72581",108119,"col","Riepe Spring",-114.62,40.65,"SJS-763, Ninemile Canyon",NA,"",1,"Asselian","",298.9,295.5,29891,"gp_mid",-36.49,11.28,"101",297.2,"asselian",20295,-47.7027,11.644,58,1
 "72599",108137,"col","Schoonover",-115.9,41.5,"SJS-862, Tuscarora Mountains",NA,"",1,"Asselian","",298.9,295.5,29891,"gp_mid",-36.64,12.56,"101",297.2,"asselian",20308,-46.1317,13.6189,58,1
+"72609",108147,"col","Slana Spur",-143.61,62.76,"USGS 5875-PC, Suslota Pass, Alaska Range",NA,"",1,"Asselian","",298.9,295.5,29891,"gp_mid",-43.76,49.37,"125",297.2,"asselian",20311,-99.0446,12.9021,58,1
+"72610",108148,"col","Slana Spur",-143.61,62.76,"USGS 7046-PC, Suslota Pass, Alaska Range",NA,"",1,"Asselian","",298.9,295.5,29891,"gp_mid",-43.76,49.37,"125",297.2,"asselian",20311,-99.0446,12.9021,58,1
 "72792",108379,"col","Neal Ranch",-103.13,30.35,"USGS 5874, Wolf Camp Hills, Glass Mountains",NA,"",1,"Asselian","",298.9,295.5,11471,"gp_mid",-35.45,-2.56,"101",297.2,"asselian",5789,-45.2337,-2.2389,58,1
 "72795",108382,"col","Hueco",-104.88,31.45,"USGS 7004, Mine Canyon, Sierra Diablo",NA,"",2,"Asselian","",298.9,295.5,11481,"gp_mid",-36.04,-0.8,"101",297.2,"asselian",20379,-44.4408,0.3449,58,1
 "72811",108401,"col","Neal Ranch",-103.13,30.36,"R.E. King 91a, Wolf Camp Hills, Glass Mountains",NA,"",5,"Asselian","",298.9,295.5,18203,"gp_mid",-35.44,-2.56,"101",297.2,"asselian",5788,-45.2337,-2.2389,58,1
@@ -469,6 +484,7 @@
 "74425",110186,"col","",59.92,66.97,"Foma-Yu River, Chernyshev Ridge, Pechora Basin",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",33.65,33.32,"302",297.2,"asselian",20901,17.4645,44.0801,58,1
 "74426",110187,"col","",53.25,63.5,"Gerd'yo River, Sample 2",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",34.8,28.98,"302",297.2,"asselian",20902,22.7255,39.6505,58,1
 "74427",110188,"col","",53.25,63.5,"Gerd'yo River, Sample 3",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",34.8,28.98,"302",297.2,"asselian",20902,22.7255,39.6505,58,1
+"74431",110192,"col","",59.73,65.69,"Kozhim River, Asselian, Pechora Basin",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",34.84,32.51,"302",297.2,"asselian",20904,20.8528,43.5569,58,1
 "74433",110194,"col","",59.15,68.3,"Labagan Drillhole 82, 1432-1440 m",NA,"",2,"Asselian","",298.9,295.5,27343,"gp_mid",32.14,33.84,"302",297.2,"asselian",20905,17.4645,44.0801,58,1
 "74435",110196,"col","",58.85,68.55,"Naul'skaya Drillhole 57, 1631-1639 m",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",31.82,33.89,"302",297.2,"asselian",20907,17.4645,44.0801,58,1
 "74436",110197,"col","",58.85,68.55,"Naul'skaya Drillhole 57, 1651-1655 m",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",31.82,33.89,"302",297.2,"asselian",20907,17.4645,44.0801,58,1
@@ -476,6 +492,8 @@
 "74441",110202,"col","",57.64,64.15,"Sidor-Eli River, Pechora River Basin",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",35.66,30.88,"302",297.2,"asselian",14517,20.3027,42.0246,58,1
 "74442",110203,"col","",55.83,62.55,"Soiva River, Lipetskii Bridge",NA,"",2,"Asselian","",298.9,295.5,27343,"gp_mid",36.5,29.24,"302",297.2,"asselian",20910,23.4967,41.2794,58,1
 "74446",110207,"col","",58.05,61.65,"Un'ya River (Pisannyy Kameni)",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",38.05,29.47,"302",297.2,"asselian",20887,23.4967,41.2794,58,1
+"74447",110208,"col","",59,65.5,"Utlan River, Malaya Pechora River",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",34.81,32.16,"302",297.2,"asselian",20911,20.8528,43.5569,58,1
+"74448",110209,"col","",59,65.5,"Utlan-Parma River, Pechora River",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",34.81,32.16,"302",297.2,"asselian",20911,20.8528,43.5569,58,1
 "74449",110210,"col","",57,59,"Well 125, Perm Oblast",NA,"",1,"Asselian","",298.9,295.5,27343,"gp_mid",39.99,27.37,"302",297.2,"asselian",20912,26.6145,40.448,58,1
 "74556",110320,"col","Neva",-96.59,39.18,"Manhattan, S of Kansas State University near cemetery",NA,"Kellett 42",13,"Asselian","",298.9,295.5,29629,"gp_mid",-26.14,1.93,"101",297.2,"asselian",20946,-35.4975,3.9271,58,1
 "74557",110321,"col","Cottonwood",-96.7,39.12,"Ogden, Highway 40 roadcut, Riley County",NA,"Kellett 44",14,"Asselian","",298.9,295.5,29629,"gp_mid",-26.25,1.93,"101",297.2,"asselian",20947,-35.4975,3.9271,58,1
@@ -510,9 +528,12 @@
 "75880",111943,"col","Shazitang",105.01,26.04,"Longyin, Shazitang Fm, Pu'an County",NA,"",43,"Asselian","",298.9,295.5,36582,"gp_mid",131.74,-12.34,"611",297.2,"asselian",21262,143.0187,-1.3424,58,1
 "75884",111964,"col","Shazitang",105.09,26,"Huagang, Shazitang Fm, Qinglong County",NA,"",12,"Asselian","",298.9,295.5,36582,"gp_mid",131.82,-12.3,"611",297.2,"asselian",21264,143.0187,-1.3424,58,1
 "75961",112051,"col","Lehusis",23.5,37.32,"Cape Rigas, Sample 50146, Hydra",NA,"",7,"Asselian","",298.9,295.5,36597,"gp_mid",25.5,-21.97,"307",297.2,"asselian",21273,19.384,-12.9895,58,1
+"76443",112651,"col","Amushan",117.65,44.35,"Xi Ujimqin Qi, Section 2, Bed 2",NA,"",4,"Asselian","",298.9,295.5,33593,"gp_mid",129.82,45.12,"628",297.2,"asselian",21376,142.5609,39.9105,58,1
 "76627",112841,"col","Telford",-115.05,49.8,"Telford Creek, Section 20, 280 feet below top Telford Formation",NA,"",5,"Asselian","",298.9,295.5,29688,"gp_mid",-36.87,20.87,"127",297.2,"asselian",21425,-41.2425,19.4764,58,1
 "76628",112842,"col","Telford",-115.05,49.8,"Telford Creek, Section 20, 435 feet below top Telford Formation",NA,"",3,"Asselian","",298.9,295.5,29688,"gp_mid",-36.87,20.87,"127",297.2,"asselian",21425,-41.2425,19.4764,58,1
 "76629",112843,"col","Telford",-115.05,49.8,"Telford Creek, Section 20, 600 feet below top Telford Formation",NA,"",6,"Asselian","",298.9,295.5,29688,"gp_mid",-36.87,20.87,"127",297.2,"asselian",21425,-41.2425,19.4764,58,1
+"76854",113081,"col","Casper",-105.53,41.21,"Gilmore Canyon, Meekella beds, 8 miles SE of Laramie",NA,"",1,"Asselian","",298.9,295.5,33607,"gp_mid",-30.72,7.4,"101",297.2,"asselian",21491,-40.5238,6.7466,58,1
+"76855",113082,"col","Casper",-105.53,41.21,"Gilmore Canyon, Stenopoceras beds, 8 miles SE of Laramie",NA,"",10,"Asselian","",298.9,295.5,33607,"gp_mid",-30.72,7.4,"101",297.2,"asselian",21491,-40.5238,6.7466,58,1
 "76868",113096,"col","Neva",-96.53,37.35,"Grenola, Highway 160 at Cowley-Elk County Line",NA,"",1,"Asselian","",298.9,295.5,27636,"gp_mid",-27.04,0.34,"101",297.2,"asselian",21501,-36.6404,1.7029,58,1
 "76869",113097,"col","Camp Creek",-99.48,31.4,"Saddle Creek, McCulloch County",NA,"",3,"Asselian","",298.9,295.5,30151,"gp_mid",-32.25,-3.43,"101",297.2,"asselian",21502,-41.7101,-1.2508,58,1
 "76896",113124,"col","Florena",-96.52,37.35,"Grenola, Highway 160 E of Cowley County Line",NA,"",1,"Asselian","",298.9,295.5,33608,"gp_mid",-27.04,0.34,"101",297.2,"asselian",21520,-36.6404,1.7029,58,1
@@ -544,6 +565,7 @@
 "77783",114162,"col","",38,47.85,"Gruzskaya, Donets Basin",NA,"",1,"Asselian","",298.9,295.5,27341,"gp_mid",38.8,11.62,"302",297.2,"asselian",21855,32.7993,24.6851,58,1
 "77915",114306,"col","",54,65,"Padcherem River, Northern Russian Platform",NA,"",1,"Asselian","",298.9,295.5,27341,"gp_mid",33.75,30.21,"302",297.2,"asselian",21888,19.6595,40.5155,58,1
 "77929",114319,"col","",57.64,58.68,"Us'va River, near Filinok, Southern Urals",NA,"",2,"Asselian","",298.9,295.5,27341,"gp_mid",40.5,27.41,"302",297.2,"asselian",21893,29.6525,39.535,58,1
+"77952",114343,"col","",58.54,63.8,"Patok River, Shchugor River, Northern Russian Platform",NA,"",1,"Asselian","",298.9,295.5,27341,"gp_mid",36.26,30.97,"302",297.2,"asselian",21903,20.8528,43.5569,58,1
 "78623",115271,"col","Treskelodden",16.21,77.01,"Treskelen, Creek IV, Br.12/Cr.34, Hornsund",NA,"",2,"Asselian","",298.9,295.5,31790,"gp_mid",14.42,32.16,"309",297.2,"asselian",22032,-1.1256,36.2857,58,1
 "78624",115272,"col","Treskelodden",16.21,77.01,"Treskelen, Creek IV, Br.12/Cr.44, Hornsund",NA,"",3,"Asselian","",298.9,295.5,31790,"gp_mid",14.42,32.16,"309",297.2,"asselian",22032,-1.1256,36.2857,58,1
 "78625",115273,"col","Treskelodden",16.21,77.01,"Treskelen, Creek IV, Br.12/Cr.45, Hornsund",NA,"",4,"Asselian","",298.9,295.5,31790,"gp_mid",14.42,32.16,"309",297.2,"asselian",22032,-1.1256,36.2857,58,1
@@ -592,6 +614,7 @@
 "79852",117136,"col","Copacabana",-72.9,-13.51,"Lihuirco-Quisar, Sample Qu34, Abancay",NA,"",1,"Asselian","",298.9,295.5,33671,"gp_mid",-48.83,-26.65,"201",297.2,"asselian",22372,-51.7936,-32.9649,58,1
 "79880",117166,"col","",56.2,56.33,"Tra-Tau Mountain, Asselian, Bashkortostan",NA,"",2,"Asselian","",298.9,295.5,33673,"gp_mid",41.9,25.27,"302",297.2,"asselian",22385,29.6525,39.535,58,1
 "80037",117329,"col","Gazov",138,59.75,"Nyulik and Yudoma interfluve, Outcrop 1093, Southern Verkhoyan",NA,"",1,"Asselian","",298.9,295.5,31800,"gp_mid",39.06,61.79,"401",297.2,"asselian",22433,-66.8328,84.4994,58,1
+"80120",117410,"col","Gazov",136.5,60,"Yudoma River, outcrop 0-1246-1, southern Verkhoyan",NA,"",1,"Asselian","",298.9,295.5,31800,"gp_mid",40.27,61.25,"401",297.2,"asselian",18133,-52.1588,85.9343,58,1
 "80492",117785,"col","",57.85,50.21,"Aidaralash Creek, Asselian, Aktobe Region",NA,"",1,"Asselian","",298.9,295.5,33690,"gp_mid",47.52,21.83,"302",297.2,"asselian",13308,38.2707,36.353,58,1
 "80496",117789,"col","",57.8,50.1,"Tabantal River, Aktyubinsk",NA,"",1,"Asselian","",298.9,295.5,33690,"gp_mid",47.59,21.74,"302",297.2,"asselian",20006,38.2707,36.353,58,1
 "80532",117826,"col","Tashkazyk",74.19,38.07,"Kosh-Agyl Nature Preserve, Southeastern Pamir",NA,"",2,"Asselian","",298.9,295.5,32466,"gp_mid",82.28,17.09,"601",297.2,"asselian",22534,77.3425,-22.6704,58,1
@@ -599,6 +622,8 @@
 "80598",117897,"col","",56.35,53.95,"Usolka River, Bed 16/5, Bashkiria",NA,"",1,"Asselian","",298.9,295.5,33692,"gp_mid",43.88,23.72,"302",297.2,"asselian",22561,32.6083,38.545,58,1
 "80675",117974,"col","Tuzancoa",-98.57,20.77,"Otlamalacatla, Hidalgo",NA,"",34,"Asselian","",298.9,295.5,33698,"gp_mid",-42.89,-7.79,"104",297.2,"asselian",22584,-50.2658,-7.9964,58,1
 "80888",118270,"col","Red Eagle",-96.57,39.26,"Tuttle Creek Spillway",NA,"",1,"Asselian","",298.9,295.5,38099,"gp_mid",-26.09,2,"101",297.2,"asselian",22638,-35.4975,3.9271,58,1
+"81326",118800,"col","Slana Spur",-143.57,62.78,"USGS 8014-PC, Suslota Lake",NA,"",1,"Asselian","",298.9,295.5,33707,"gp_mid",-43.74,49.35,"125",297.2,"asselian",22696,-99.0446,12.9021,58,1
+"81327",118801,"col","Slana Spur",-143.57,62.78,"USGS 8016-PC, Fossil Creek, Suslota Lake",NA,"",1,"Asselian","",298.9,295.5,33707,"gp_mid",-43.74,49.35,"125",297.2,"asselian",22696,-99.0446,12.9021,58,1
 "81329",118804,"col","Riepe Spring",-114.62,40.65,"SJS-1187, Ninemile Canyon, Pequop Mountains",NA,"",1,"Asselian","",298.9,295.5,28473,"gp_mid",-36.49,11.28,"101",297.2,"asselian",20295,-47.7027,11.644,58,1
 "81330",118805,"col","Riepe Spring",-114.62,40.65,"SJS-1271, Ninemile Canyon, Pequop Mountains",NA,"",1,"Asselian","",298.9,295.5,28473,"gp_mid",-36.49,11.28,"101",297.2,"asselian",20295,-47.7027,11.644,58,1
 "81331",118806,"col","Riepe Spring",-114.62,40.65,"SJS-1272, Ninemile Canyon, Pequop Mountains",NA,"",1,"Asselian","",298.9,295.5,28473,"gp_mid",-36.49,11.28,"101",297.2,"asselian",20295,-47.7027,11.644,58,1
@@ -808,6 +833,16 @@
 "89357",129521,"col","Vazhnan",52.13,31.78,"VAA61, Asad-Abad section",NA,"",1,"Asselian","",298.9,295.5,42125,"gp_mid",48.9,-28.32,"512",297.2,"asselian",24933,50.5977,-31.247,58,1
 "89358",129522,"col","Vazhnan",52.13,31.78,"VAA62, Asad-Abad section",NA,"",1,"Asselian","",298.9,295.5,42125,"gp_mid",48.9,-28.32,"512",297.2,"asselian",24933,50.5977,-31.247,58,1
 "89359",129523,"col","Vazhnan",52.13,31.78,"VAA63, Asad-Abad section",NA,"",2,"Asselian","",298.9,295.5,42125,"gp_mid",48.9,-28.32,"512",297.2,"asselian",24933,50.5977,-31.247,58,1
+"89631",130019,"col","",-108.4,31.64,"Sample 423, Borrego",NA,"",4,"Asselian","",298.9,295.5,42149,"gp_mid",-38.33,1.14,"101",297.2,"asselian",25002,-46.9598,1.4415,58,1
+"89632",130020,"col","",-108.4,31.64,"Sample 424, Borrego",NA,"",4,"Asselian","",298.9,295.5,42149,"gp_mid",-38.33,1.14,"101",297.2,"asselian",25002,-46.9598,1.4415,58,1
+"89633",130021,"col","",-108.4,31.64,"Sample 425, Borrego",NA,"",1,"Asselian","",298.9,295.5,42149,"gp_mid",-38.33,1.14,"101",297.2,"asselian",25002,-46.9598,1.4415,58,1
+"89634",130022,"col","",-108.4,31.64,"Sample 426, Borrego",NA,"",1,"Asselian","",298.9,295.5,42149,"gp_mid",-38.33,1.14,"101",297.2,"asselian",25002,-46.9598,1.4415,58,1
+"89635",130023,"col","",-108.4,31.64,"Sample 427, Borrego",NA,"",5,"Asselian","",298.9,295.5,42149,"gp_mid",-38.33,1.14,"101",297.2,"asselian",25002,-46.9598,1.4415,58,1
+"89649",130049,"col","",-108.34,31.64,"Sample 144, New Well Peak",NA,"",2,"Asselian","",298.9,295.5,42149,"gp_mid",-38.29,1.11,"101",297.2,"asselian",25006,-46.9598,1.4415,58,1
+"89650",130050,"col","",-108.34,31.64,"Sample 145, New Well Peak",NA,"",3,"Asselian","",298.9,295.5,42149,"gp_mid",-38.29,1.11,"101",297.2,"asselian",25006,-46.9598,1.4415,58,1
+"89651",130051,"col","",-108.34,31.64,"Sample 147, New Well Peak",NA,"",2,"Asselian","",298.9,295.5,42149,"gp_mid",-38.29,1.11,"101",297.2,"asselian",25006,-46.9598,1.4415,58,1
+"89652",130052,"col","",-108.34,31.64,"Sample 148, New Well Peak",NA,"",1,"Asselian","",298.9,295.5,42149,"gp_mid",-38.29,1.11,"101",297.2,"asselian",25006,-46.9598,1.4415,58,1
+"89653",130053,"col","",-108.34,31.64,"Sample 149, New Well Peak",NA,"",2,"Asselian","",298.9,295.5,42149,"gp_mid",-38.29,1.11,"101",297.2,"asselian",25006,-46.9598,1.4415,58,1
 "89906",130357,"col","",70.24,38.01,"Kalaikukhiniskiy, section 1007, bed 13",NA,"",11,"Asselian","",298.9,295.5,38265,"gp_mid",79.12,14.82,"402",297.2,"asselian",25066,74.1604,-22.2223,58,1
 "89907",130358,"col","",70.24,38.01,"Kalaikukhiniskiy, section 1007, bed 13/1",NA,"",2,"Asselian","",298.9,295.5,38265,"gp_mid",79.12,14.82,"402",297.2,"asselian",25066,74.1604,-22.2223,58,1
 "89908",130359,"col","",70.24,38.01,"Kalaikukhiniskiy, section 1007, bed 13/2",NA,"",1,"Asselian","",298.9,295.5,38265,"gp_mid",79.12,14.82,"402",297.2,"asselian",25066,74.1604,-22.2223,58,1
@@ -948,7 +983,9 @@
 "92218",133249,"col","",101.88,17.1,"Tham Nam Maholan LE-Y, Changwat Loei",NA,"",1,"Asselian","",298.9,295.5,33558,"gp_mid",136.58,-21.57,"615",297.2,"asselian",23203,136.1796,-15.7406,58,1
 "92219",133250,"col","",101.88,17.1,"Khao Thum Maholan TF482, Changwat Loei",NA,"",2,"Asselian","",298.9,295.5,33558,"gp_mid",136.58,-21.57,"615",297.2,"asselian",23203,136.1796,-15.7406,58,1
 "92220",133251,"col","",101.88,17.1,"Tham Nam Maholan LE-11, Changwat Loei",NA,"",2,"Asselian","",298.9,295.5,33558,"gp_mid",136.58,-21.57,"615",297.2,"asselian",23203,136.1796,-15.7406,58,1
+"92228",133278,"col","",59.45,65.77,"Schugor River, Nearpolar Urals",NA,"",1,"Asselian","",298.9,295.5,42920,"gp_mid",34.69,32.46,"302",297.2,"asselian",25580,20.8528,43.5569,58,1
 "92229",133279,"col","",64.22,67.31,"Usa River, Vorkuta Region",NA,"",1,"Asselian","",298.9,295.5,42920,"gp_mid",34.41,34.9,"302",297.2,"asselian",25581,17.7907,45.4961,58,1
+"92231",133281,"col","",58.56,64.17,"Malyy Patok River, Nearpolar Urals",NA,"",4,"Asselian","",298.9,295.5,42920,"gp_mid",35.92,31.21,"302",297.2,"asselian",25582,20.8528,43.5569,58,1
 "92998",134311,"col","Maping",105.22,24.7,"GP5, Bunuo section, Changme district, Longlin county",NA,"",18,"Asselian","",298.9,295.5,43207,"gp_mid",132.97,-12.96,"611",297.2,"asselian",25793,143.0187,-1.3424,58,1
 "92999",134312,"col","Maping",105.22,24.7,"GP7, Bunuo section, Changme district, Longlin county",NA,"",27,"Asselian","",298.9,295.5,43207,"gp_mid",132.97,-12.96,"611",297.2,"asselian",25793,143.0187,-1.3424,58,1
 "93000",134313,"col","Maping",105.22,24.7,"GP9, Bunuo section, Changme district, Longlin county",NA,"",7,"Asselian","",298.9,295.5,43207,"gp_mid",132.97,-12.96,"611",297.2,"asselian",25793,143.0187,-1.3424,58,1

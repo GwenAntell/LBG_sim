@@ -99,6 +99,7 @@
 "12734",24029,"col","Al Hassanat",57.93,23.53,"Wadi El Assyi, radiolitid member, Nakhl, Oman",NA,"Reef 1364",8,"Middle Albian","",109,105.3,6799,"gp_mid",56.95,-4.15,"503",107.15,"albian",2366,50.5901,-8.6467,26,1
 "13293",25076,"col","Cloverly",-108.14,45.44,"AMNH 31-6, Cashen Pocket",NA,"Cashen Ranch",2,"Albian","",113,100.5,54181,"gp_mid",-57.6,52.56,"101",106.75,"albian",2542,-60.0594,50.1122,26,1
 "13294",25077,"col","Cloverly",-108.16,45.44,"OU 40-11, Cashen Ranch (OMNH V184)",NA,"",1,"Albian","",113,100.5,13525,"gp_mid",-57.63,52.57,"101",106.75,"albian",2543,-60.0594,50.1122,26,1
+"13347",25195,"col","Elrhaz",10.22,16.13,"110 km southeast of Egaro",NA,"Lapparent site 12d, El Rhaz",1,"Albian","",113,100.5,7056,"gp_mid",15.51,7.22,"714",106.75,"albian",2555,9.5687,0.5298,26,1
 "13348",25196,"col","Elrhaz",9.57,16.64,"8 km east of El Rhaz",NA,"",1,"Albian","",113,100.5,7056,"gp_mid",15.17,7.95,"714",106.75,"albian",2556,10.5803,2.8162,26,1
 "13433",25363,"col","Aïn El Guettar",10.33,32.27,"Gara Kanboute, Remada",NA,"Lapparent site 23a, Jebel Kamboute; Jebel El Kambout, Bir Kamboute",7,"Albian","",113,100.5,30615,"gp_mid",23.04,21.63,"715",106.75,"albian",2571,16.8522,16.4898,26,1
 "14108",27603,"col","Glen Rose",-102.42,35.41,"Cedar Brake Camp",NA,"SMU 223",2,"Albian","",113,100.5,7600,"gp_mid",-53.9,41.93,"101",106.75,"albian",2747,-56.3111,38.9018,26,1
@@ -122,10 +123,16 @@
 "18256",32593,"col","Christopher",-85.37,79.79,"C-34327",NA,"GSC loc. C-34327, 58.5 m from top, Eastern Arctic (Christopher Formation)",12,"Albian","",113,100.5,8775,"gp_mid",16.63,76.54,"106",106.75,"albian",3669,7.2677,72.391,26,1
 "18258",32595,"col","Christopher",-85.37,79.79,"C-34326",NA,"GSC loc. C-34326, 68.5 m from top, Eastern Arctic (Christopher Formation)",14,"Albian","",113,100.5,8775,"gp_mid",16.63,76.54,"106",106.75,"albian",3669,7.2677,72.391,26,1
 "19017",33434,"col","Fall River Sandstone",-103.88,42.55,"Fall River Sandstone equivalent",NA,"USGS paleobotany loc. No.: Tschudy loc. No. RT-194.",3,"Albian","",113,100.5,8875,"gp_mid",-53.69,49.15,"101",106.75,"albian",3804,-57.2816,46.9183,26,1
+"19516",34015,"col","""Huntsman"" shale",-103.01,41.46,"Marathon Oil Co., Holt 2-4531ft, Morrill Co., NB",NA,"Marathon (formerly Ohio) Oil Company Holt 2, at 4531 ft, Morrill Co., Nebraska (""Huntsman"" shale)",1,"Albian","",113,100.5,8961,"gp_mid",-53.03,47.96,"101",106.75,"albian",3873,-53.4446,46.0993,26,1
+"19518",34017,"col","""Huntsman"" shale",-103.01,41.46,"Marathon Oil Co., Holt 2-4580ft, Morrill Co., NB",NA,"Marathon (formerly Ohio) Oil Company Holt 2, at 4580 ft, Morrill Co., Nebraska (""Huntsman"" shale)",1,"Albian","",113,100.5,8961,"gp_mid",-53.03,47.96,"101",106.75,"albian",3873,-53.4446,46.0993,26,1
 "19519",34018,"col","""J"" sandstone",-103.04,41.21,"Marathon Oil Co., Gurschke 1-4865ft, Cheyenne Co., NB",NA,"Marathon (formerly Ohio) Oil Company Gurschke 1, at 4865 ft, Cheyenne Co., Nebraska (""J"" sandstone)",1,"Albian","",113,100.5,8961,"gp_mid",-53.13,47.73,"101",106.75,"albian",3874,-54.4755,43.7083,26,1
+"19520",34019,"col","Skull Creek Shale",-102.91,41.3,"Marathon Oil Co. Knievel 1-4698ft, Cheyenne Co., NB",NA,"Marathon (formerly Ohio) Oil Company Knievel 1, at 4698 ft, Cheyenne Co., Nebraska (Skull Creek Shale)",1,"Albian","",113,100.5,8961,"gp_mid",-52.96,47.79,"101",106.75,"albian",3875,-53.4446,46.0993,26,1
 "19521",34020,"col","Fall River Sandstone",-103.88,42.55,"California Co. Mann 1-4686ft, Sioux Co., NB",NA,"California Company Mann 1, at 4686 ft, Sioux Co., Nebraska (Fall River Sandstone)",2,"Albian","",113,100.5,8961,"gp_mid",-53.69,49.15,"101",106.75,"albian",3804,-57.2816,46.9183,26,1
+"19523",34022,"col","Purgatoire",-104.99,38.5,"Beaver Creek, Fremont Co., CO",NA,"Beaver Creek surface section, Fremont Co., Colorado (Glencairn Shale Member of the Purgatoire Formation)",1,"Albian","",113,100.5,8961,"gp_mid",-55.97,45.32,"101",106.75,"albian",3877,-59.2613,42.1212,26,1
 "19766",34369,"col","Kukpowruk",-163.64,69.3,"Kukpowruk River 96-21",NA,"Kukpowruk River/Cape Lisburne floras",4,"Albian","",113,100.5,8854,"gp_mid",-133.82,78.66,"103",106.75,"albian",3939,-120.7731,83.8982,26,1
 "20032",34726,"col","Dakota",-97.45,39.2,"Condray Farm nodosaur",NA,"Silvisaurus type",5,"Albian","",113,100.5,9210,"gp_mid",-47.61,44.95,"101",106.75,"albian",4003,-50.6953,42.882,26,1
+"22020",37561,"col","Tucumcari",-103.33,35.11,"San Jon (Basal Tucumcari Formation)",NA,"",45,"Albian","",113,100.5,10048,"gp_mid",-54.95,41.75,"101",106.75,"albian",4514,-60.1409,39.7111,26,1
+"22021",37562,"col","Tucumcari",-103.33,35.11,"San Jon (Upper Brown Horizon)",NA,"",4,"Albian","",113,100.5,10048,"gp_mid",-54.95,41.75,"101",106.75,"albian",4514,-60.1409,39.7111,26,1
 "22252",37835,"col","Glen Rose Limestone",-98.73,29.8,"Glen Rose Limestone, Boerne, Texas",NA,"",2,"Albian","",113,100.5,10097,"gp_mid",-51.16,35.88,"101",106.75,"albian",4573,-54.1364,33.2533,26,1
 "22403",38036,"col","",-0.02,49.22,"Echinoids, Albian, Saint-Jouin, France",NA,"",2,"Middle Albian","",109,105.3,10148,"gp_mid",21.43,44.91,"305",107.15,"albian",4610,15.1231,41.0014,26,1
 "22680",38478,"col","Kennicott",-143.17,61.5,"Alaska, Kennicott Formation, USGS Mes. loc. 9972",NA,"",12,"Early Albian","",112.03,109,10311,"gp_mid",-96.01,70.23,"125",110.515,"albian",4702,-81.4495,70.0285,26,1
@@ -146,6 +153,7 @@
 "22717",38516,"col","",-142.33,61.2,"Alaska, Kennicott Formation, USGS Mes. loc. 9492",NA,"",18,"Albian","",113,100.5,10311,"gp_mid",-98.13,68.87,"125",106.75,"albian",4712,-86.0313,65.8283,26,1
 "22718",38517,"col","Kennicott",-143,62,"Alaska, Kennicott Formation, USGS Mes. loc. 2147",NA,"",8,"Early Albian","",112.03,109,10311,"gp_mid",-95.16,70.65,"125",110.515,"albian",4713,-81.4495,70.0285,26,1
 "22719",38518,"col","Kennicott",-143,62,"Alaska, Kennicott Formation, USGS Mes. loc. 2173",NA,"",1,"Early Albian","",112.03,109,10311,"gp_mid",-95.16,70.65,"125",110.515,"albian",4713,-81.4495,70.0285,26,1
+"23450",39574,"col","Hoji",134.5,33.83,"Katsuuragawa Area, Hoji Formation, Shikoku",NA,"",4,"Albian","",113,100.5,10664,"gp_mid",145.48,38.27,"610",106.75,"albian",4892,141.7455,43.0774,26,1
 "26894",44185,"col","Palermo Aike",-69.25,-50.55,"SC-1 borehole composite sample, Austral Basin, Santa Cruz Province",NA,"",3,"Albian","",113,100.5,11607,"gp_mid",-28.98,-47.14,"291",106.75,"albian",5956,-39.5037,-50.3924,26,1
 "26896",44187,"col","Palermo Aike",-69.25,-50.55,"SC-1 borehole 907.5m sample, Austral Basin, Santa Cruz Province",44185,"",2,"Albian","",113,100.5,11607,"gp_mid",-28.98,-47.14,"291",106.75,"albian",5956,-39.5037,-50.3924,26,1
 "26897",44188,"col","Palermo Aike",-69.25,-50.55,"SC-1 borehole 903.0-907.0m sample, Austral Basin, Santa Cruz Province",44185,"",2,"Albian","",113,100.5,11607,"gp_mid",-28.98,-47.14,"291",106.75,"albian",5956,-39.5037,-50.3924,26,1
@@ -249,6 +257,7 @@
 "33271",115252,"col","Encino",-103.28,19.72,"La Presa",NA,"Presa de Soyatlán",6,"Early Albian","",112.03,109,37339,"gp_mid",-54.72,26.58,"104",110.515,"albian",7965,-64.4212,25.1472,26,1
 "33601",52043,"col","Paluxy",-100.63,31.41,"Middle Concho River",NA,"",1,"Albian","",113,100.5,64460,"gp_mid",-52.84,37.73,"101",106.75,"albian",8010,-57.137,36.4887,26,1
 "33603",52045,"col","Paluxy",-97.56,33.53,"Forestburg",NA,"",5,"Albian","",113,100.5,13937,"gp_mid",-49.11,39.39,"101",106.75,"albian",8012,-53.3572,35.6694,26,1
+"33637",52080,"col","Mesa Rica Sandstone",-103.83,35.69,"Mosquero Creek tracksite",NA,"",2,"Albian","",113,100.5,14019,"gp_mid",-55.36,42.39,"101",106.75,"albian",8027,-60.1409,39.7111,26,1
 "33692",52136,"col","Glen Rose",-100.12,29.44,"Edward's Ranch, Live Oak Creek",NA,"TMM 42988, Liveoak, Edwards",1,"Albian","",113,100.5,55946,"gp_mid",-52.7,35.72,"101",106.75,"albian",8047,-57.9129,34.0702,26,1
 "33693",52137,"col","Edwards Limestone",-100.07,30.63,"TMM 42989-1, McKegan Draw #1a",NA,"",1,"Middle Albian","",109,105.3,14010,"gp_mid",-52.4,36.89,"101",107.15,"albian",8048,-57.9129,34.0702,26,1
 "33694",52138,"col","Edwards Limestone",-100.07,30.63,"TMM 42989-2, McKegan Draw #1b",NA,"",1,"Middle Albian","",109,105.3,14010,"gp_mid",-52.4,36.89,"101",107.15,"albian",8048,-57.9129,34.0702,26,1
@@ -261,6 +270,7 @@
 "33704",52148,"col","Glen Rose",-99.12,29.6,"TMM 40637-3, West Verde Creek",NA,"Davenport Ranch, WPA, Work Project No. 15087",3,"Albian","",113,100.5,71453,"gp_mid",-51.6,35.73,"101",106.75,"albian",8058,-54.1364,33.2533,26,1
 "33705",52149,"col","Glen Rose",-99.26,29.62,"TMM 42996, Hondo Creek #1",NA,"",2,"Albian","",113,100.5,64460,"gp_mid",-51.75,35.78,"101",106.75,"albian",8059,-54.1364,33.2533,26,1
 "33706",52150,"col","Glen Rose",-99.26,29.62,"TMM 42997, Hondo Creek #2",NA,"",1,"Albian","",113,100.5,64460,"gp_mid",-51.75,35.78,"101",106.75,"albian",8059,-54.1364,33.2533,26,1
+"33721",52161,"col","Mesa Rica Sandstone",-103.3,36.57,"Clayton Lake tracksite (Mesa Rica Sandstone)",NA,"",6,"Albian","",113,100.5,69374,"gp_mid",-54.58,43.2,"101",106.75,"albian",8070,-59.2613,42.1212,26,1
 "33724",52163,"col","Parajito",-100.62,36.83,"South Carrizo Creek",NA,"",1,"Albian","",113,100.5,14019,"gp_mid",-51.63,43.07,"101",106.75,"albian",8073,-55.4271,41.3087,26,1
 "33812",52250,"col","Glen Rose",-99,29.72,"TMM 42998, Medina River",NA,"Mayan Ranch, WPA, Work Project No. 15087",1,"Albian","",113,100.5,71453,"gp_mid",-51.46,35.84,"101",106.75,"albian",8108,-54.1364,33.2533,26,1
 "33813",52251,"col","Glen Rose",-99.33,30.07,"TMM 42999, S. Guadalupe River",NA,"",1,"Albian","",113,100.5,14010,"gp_mid",-51.74,36.23,"101",106.75,"albian",8109,-54.1364,33.2533,26,1
@@ -331,13 +341,19 @@
 "35058",53541,"col","",4.33,48.24,"Mesnil-Saint-Père, 300 m east of mouth",NA,"",9,"Early Albian","",112.03,109,14471,"gp_mid",27.35,42.46,"305",110.515,"albian",8533,18.3906,38.5409,26,1
 "35059",53542,"col","",4.83,48.77,"Pargny-sur-Saulx clay pit",NA,"",1,"Albian","",113,100.5,14492,"gp_mid",25.8,44.13,"315",106.75,"albian",8534,18.3175,41.0403,26,1
 "35454",53950,"col","La Penthiève Beds",5.07,48.87,"Bois de la Penthière, Louppy-le-Château",NA,"Huene 88, Sauvage",5,"Early Albian","",112.03,109,52651,"gp_mid",28.1,43.02,"315",110.515,"albian",8618,18.3175,41.0403,26,1
+"35613",54141,"col","Mesa Rica Sandstone",-104.38,36.05,"Mills Canyon tracksite",NA,"",1,"Albian","",113,100.5,14518,"gp_mid",-55.87,42.82,"101",106.75,"albian",8652,-60.1409,39.7111,26,1
+"35615",54143,"col","Mesa Rica Sandstone",-104.05,36.49,"Farley tracksite, NMMNH loc. 4258",NA,"",1,"Albian","",113,100.5,14518,"gp_mid",-55.42,43.21,"101",106.75,"albian",8653,-59.2613,42.1212,26,1
+"35709",55194,"col","Muddy Sandstone",-104.18,37.73,"Apishapa (Tim's) tracksite",NA,"",2,"Albian","",113,100.5,14666,"gp_mid",-55.27,44.45,"101",106.75,"albian",8667,-59.2613,42.1212,26,1
 "35712",55197,"col","Muddy Sandstone",-105.27,40.01,"Boulder tracksite",NA,"",1,"Albian","",113,100.5,19038,"gp_mid",-55.9,46.85,"101",106.75,"albian",8668,-58.3123,44.524,26,1
 "35714",55199,"col","Muddy Sandstone",-105.26,39.85,"Fireclay tracksite",NA,"",1,"Albian","",113,100.5,14666,"gp_mid",-55.93,46.69,"101",106.75,"albian",8669,-58.3123,44.524,26,1
 "35715",55200,"col","Muddy Sandstone",-105.14,39.65,"Turkey Creek tracksite",NA,"",2,"Albian","",113,100.5,19038,"gp_mid",-55.85,46.48,"101",106.75,"albian",8670,-58.3123,44.524,26,1
 "35716",55201,"col","Muddy Sandstone",-105.08,39.47,"Roxborough State Park tracksite",NA,"",2,"Albian","",113,100.5,54850,"gp_mid",-55.84,46.29,"101",106.75,"albian",8671,-58.3123,44.524,26,1
+"35717",55202,"col","Muddy Sandstone",-104.83,38.53,"Rule Canyon tracksite",NA,"Colorado College",1,"Albian","",113,100.5,14666,"gp_mid",-55.79,45.33,"101",106.75,"albian",8672,-59.2613,42.1212,26,1
 "35718",55203,"col","Mesa Rica Sandstone",-102.98,37,"Sand Canyon tracksite",NA,"",2,"Albian","",113,100.5,14666,"gp_mid",-54.14,43.57,"101",106.75,"albian",8673,-55.4271,41.3087,26,1
 "35719",55204,"col","Mesa Rica Sandstone",-102.78,36.94,"Gallinas Canyon tracksite",NA,"",2,"Albian","",113,100.5,14666,"gp_mid",-53.93,43.49,"101",106.75,"albian",8674,-55.4271,41.3087,26,1
+"35720",55205,"col","Muddy Sandstone",-104.84,38.67,"Deadman's Canyon tracksite",NA,"",1,"Albian","",113,100.5,19038,"gp_mid",-55.77,45.47,"101",106.75,"albian",8675,-59.2613,42.1212,26,1
 "35741",55246,"col","Cloverly",-108.41,45.26,"MOR CL-121, Bridger",NA,"",16,"Albian","",113,100.5,14710,"gp_mid",-57.96,52.42,"101",106.75,"albian",8684,-60.0594,50.1122,26,1
+"35770",55283,"col","Pajarito",-103.3,36.57,"Clayton Lake tracksite (Pajarito Formation)",NA,"",2,"Albian","",113,100.5,24897,"gp_mid",-54.58,43.2,"101",106.75,"albian",8070,-59.2613,42.1212,26,1
 "35807",55335,"col","",4.87,49.33,"Grandpré, Ardennes",NA,"Huene 89, Sauvage",8,"Early Albian","",112.03,109,52651,"gp_mid",28,43.5,"315",110.515,"albian",8710,18.3175,41.0403,26,1
 "35808",55336,"col","",5.17,48.78,"Bar-le-Duc",NA,"",1,"Albian","",113,100.5,46182,"gp_mid",26.1,44.12,"315",106.75,"albian",8711,18.3175,41.0403,26,1
 "35809",55337,"col","",1.87,49.47,"Blacourt, Boulogne-sur-Mer",NA,"Huene 91",1,"Albian","",113,100.5,19137,"gp_mid",23.19,45.03,"315",106.75,"albian",8712,15.1231,41.0014,26,1
@@ -353,6 +369,9 @@
 "36804",56664,"col","Gres verts helvetiques",6.68,45.96,"Barmerousse Horizon, Aiguille rouge, massif de Plate, Haute-Savoie",NA,"",5,"Middle Albian","",109,105.3,15196,"gp_mid",27.12,41.21,"305",107.15,"albian",8898,21.7384,36.1148,26,1
 "36808",56668,"col","Grès verts helvetiques",6.69,45.96,"Barmerousse horizon, Barmerousse, massif de Plate, Haute-Savoie",NA,"",1,"Early Albian","Middle Albian",112.03,105.3,15196,"gp_mid",28.23,40.61,"305",108.665,"albian",8900,21.7384,36.1148,26,1
 "36855",56767,"col","Napo",-77.65,-1.03,"M.94.9/10, Misahualli [Napo Fm]",NA,"",3,"Middle Albian","",109,105.3,15299,"gp_mid",-38.77,2.1,"201",107.15,"albian",8922,-47.6128,-0.5556,26,1
+"36859",56771,"col","",-3.57,43.23,"Mud Mound, La Gándara, Soba Valley",NA,"Reef 903",20,"Early Albian","",112.03,109,15300,"gp_mid",20.46,37.89,"304",110.515,"albian",8923,10.5636,33.4684,26,1
+"36878",56812,"col","fahdène",8.77,36.57,"Microfauna, Term 1, Lower Albian, Koudiat el Beida, Tunisia",NA,"",47,"Early Albian","",112.03,109,15309,"gp_mid",NA,NA,"coordinates not computable using this model",110.515,"albian",8927,16.4897,22.2489,26,1
+"36879",56813,"col","fahdène",8.77,36.57,"Microfauna, Term 3, Middle Albian, Koudiat el Beida, Tunisia",NA,"",45,"Middle Albian","",109,105.3,15309,"gp_mid",NA,NA,"coordinates not computable using this model",107.15,"albian",8927,16.4897,22.2489,26,1
 "36884",56820,"col","",6.59,43.91,"Unit C (Albian) - Coupes de Vergons",NA,"",13,"Albian","",113,100.5,15116,"gp_mid",26.79,39.18,"305",106.75,"albian",8928,21.7384,36.1148,26,1
 "36885",56821,"col","",6.59,43.91,"Unit D (Albian) - Coupes de Vergons",NA,"",4,"Albian","",113,100.5,15116,"gp_mid",26.79,39.18,"305",106.75,"albian",8928,21.7384,36.1148,26,1
 "36886",56822,"col","",6.59,43.91,"Unit E (Albian) - Coupes de Vergons",NA,"",1,"Albian","",113,100.5,15116,"gp_mid",26.79,39.18,"305",106.75,"albian",8928,21.7384,36.1148,26,1
@@ -368,6 +387,9 @@
 "36943",56911,"col","Chulec",-78.73,-6.57,"Bed 10, Section 1 - Lajas (Chulec Fm)",NA,"",4,"Albian","",113,100.5,15338,"gp_mid",-39.69,-3.47,"201",106.75,"albian",8941,-47.5504,-7.3843,26,1
 "36944",56912,"col","Inca",-78.73,-6.57,"Bed 4, Section 1 - Lajas (Inca Fm)",NA,"",4,"Albian","",113,100.5,15338,"gp_mid",-39.69,-3.47,"201",106.75,"albian",8941,-47.5504,-7.3843,26,1
 "36945",56913,"col","Inca",-78.73,-6.57,"Bed 1, Section 1 - Lajas (Inca Fm)",NA,"",2,"Albian","",113,100.5,15338,"gp_mid",-39.69,-3.47,"201",106.75,"albian",8941,-47.5504,-7.3843,26,1
+"36964",56933,"col","",-3.58,43.5,"Horizon 1, Capo de Ajo,Spain",NA,"",4,"Albian","",113,100.5,12730,"gp_mid",18.44,39.09,"304",106.75,"albian",8947,10.5636,33.4684,26,1
+"36965",56934,"col","",-3.58,43.5,"Horizon 2, Capo de Ajo,Spain",NA,"",10,"Albian","",113,100.5,12730,"gp_mid",18.44,39.09,"304",106.75,"albian",8947,10.5636,33.4684,26,1
+"36966",56935,"col","",-3.58,43.5,"Horizon 3, Capo de Ajo,Spain",NA,"Reef 1733",6,"Albian","",113,100.5,12730,"gp_mid",18.44,39.09,"304",106.75,"albian",8947,10.5636,33.4684,26,1
 "36976",56945,"col","Inca",-78.51,-7.16,"Bed 48, Section 5 - Cajamarca (Inca Fm)",NA,"",1,"Albian","",113,100.5,15338,"gp_mid",-39.45,-4.05,"201",106.75,"albian",8953,-47.5504,-7.3843,26,1
 "36977",56946,"col","Inca",-78.51,-7.16,"Bed 50, Section 5 - Cajamarca (Inca Fm)",NA,"",5,"Albian","",113,100.5,15338,"gp_mid",-39.45,-4.05,"201",106.75,"albian",8953,-47.5504,-7.3843,26,1
 "37007",56984,"col","Chulec",-78.51,-7.16,"Bed 58, Section 5 - Cajamarca (Chulec Fm)",NA,"",5,"Albian","",113,100.5,15338,"gp_mid",-39.45,-4.05,"201",106.75,"albian",8953,-47.5504,-7.3843,26,1
@@ -401,6 +423,7 @@
 "38314",58389,"col","",5.83,45.37,"Gastropoda, Lower Albian, Frassette en Chartreuse, Savoie",NA,"",5,"Early Albian","",112.03,109,16559,"gp_mid",28.28,39.48,"305",110.515,"albian",9229,21.7384,36.1148,26,1
 "38344",58422,"col","Grès verts helvétiques",6.75,46,"Horizon Barmerousse, Sales-Foges, massif de Platé, Haute-Savoie",NA,"",10,"Middle Albian","",109,105.3,15196,"gp_mid",27.18,41.25,"305",107.15,"albian",9237,21.7384,36.1148,26,1
 "38352",58430,"col","Grès verts helvétiques",6.78,45.98,"Couches de Verds, Fiz aval, massif de Platé, Haute-Savoie",NA,"",6,"Middle Albian","",109,105.3,15196,"gp_mid",27.21,41.22,"305",107.15,"albian",9238,21.7384,36.1148,26,1
+"38388",58468,"col","Alamyshik",72.69,40.4,"Iski-Naukat, Osh",NA,"Eski-Nookat",2,"Albian","",113,100.5,16510,"gp_mid",87.51,34.78,"402",106.75,"albian",9251,79.9907,36.9757,26,1
 "38446",58526,"col","Grès verts helvétiques",6.69,45.97,"Barmerousse horizon, Sautet, massif de Platé, Haute-Savoie",NA,"",1,"Middle Albian","",109,105.3,15196,"gp_mid",27.13,41.22,"305",107.15,"albian",9274,21.7384,36.1148,26,1
 "38452",58532,"col","Grès verts helvétiques",6.69,45.99,"Couches des Vers, Grand Grenier, massif de Platé, Haute-Savoie",NA,"",6,"Early Albian","",112.03,109,15196,"gp_mid",29.15,40.04,"305",110.515,"albian",9276,21.7384,36.1148,26,1
 "38481",58559,"col","Grès verts helvétiques",6.7,46,"Arberroz conglomerate, Flaine, massif de Platé, Haute-Savoie",NA,"",3,"Early Albian","",112.03,109,15196,"gp_mid",29.15,40.05,"305",110.515,"albian",9294,21.7384,36.1148,26,1
@@ -442,6 +465,7 @@
 "40944",61323,"col","Escucha",-0.84,40.81,"Utrillas",NA,"",4,"Albian","",113,100.5,59274,"gp_mid",19.21,35.78,"304",106.75,"albian",9890,12.4708,30.0675,26,1
 "40949",61328,"col","Escucha",-0.72,40.72,"Cabezo de las Eras (CAE), Utrillas",NA,"",2,"Early Albian","Middle Albian",112.03,105.3,17661,"gp_mid",20.3,35.17,"304",108.665,"albian",9891,12.4708,30.0675,26,1
 "40950",61329,"col","Escucha",-0.85,40.8,"Cabezo de la Serna, Utrillas",NA,"CS",2,"Early Albian","Middle Albian",112.03,105.3,17661,"gp_mid",20.25,35.28,"304",108.665,"albian",9892,12.4708,30.0675,26,1
+"41402",61861,"col","",-2.92,43.44,"Monte Grande tracksite",NA,"",1,"Middle Albian","",109,105.3,17869,"gp_mid",18.95,38.82,"304",107.15,"albian",10002,10.5636,33.4684,26,1
 "41438",61911,"col","Basal Napo",-78.2,-2.65,"Tayusa, Oriente Basin, Basal Napo Formation",NA,"",2,"Albian","",113,100.5,17883,"gp_mid",-39.28,0.46,"201",106.75,"albian",10005,-47.2848,-2.3913,26,1
 "41446",61909,"col","Basal Napo",-78.27,-2.63,"Chinimbimi, Oriente Basin, Basal Napo Formation",NA,"",3,"Middle Albian","",109,105.3,17883,"gp_mid",-39.34,0.48,"201",107.15,"albian",10006,-47.2848,-2.3913,26,1
 "41455",61915,"col","Pariatambo",-78.52,-5.48,"Pongo de Rentema, Pariatambo Formation",NA,"",2,"Albian","",113,100.5,17883,"gp_mid",-39.51,-2.38,"201",106.75,"albian",10010,-47.4171,-4.8878,26,1
@@ -469,6 +493,8 @@
 "43000",64396,"col","",-1.32,38.47,"Jumilla area, Murcia",NA,"",7,"Albian","",113,100.5,18573,"gp_mid",17.58,33.82,"304",106.75,"albian",10370,11.4029,27.7488,26,1
 "44516",66648,"col","Edwards Limestone",-99.14,30.05,"loc. 131",NA,"USGS Mesozoic Collection No. 1632",2,"Middle Albian","",109,105.3,18968,"gp_mid",-51.54,36.18,"101",107.15,"albian",10770,-54.1364,33.2533,26,1
 "44534",66666,"col","Glen Rose",-98,32,"loc. 145",NA,"UT1036TX1-6",1,"Early Albian","",112.03,109,18968,"gp_mid",-46.6,37.83,"101",110.515,"albian",10775,-53.3572,35.6694,26,1
+"44619",66895,"col","Plainview",-105.25,38.44,"Skyline Drive tracksite",NA,"",2,"Early Albian","Middle Albian",112.03,105.3,19033,"gp_mid",-54.46,45.44,"101",108.665,"albian",10804,-59.2613,42.1212,26,1
+"44621",66897,"col","Plainview",-105.27,38.41,"Slot Canyon tracksite",NA,"",2,"Early Albian","Middle Albian",112.03,105.3,19038,"gp_mid",-54.49,45.42,"101",108.665,"albian",10806,-59.2613,42.1212,26,1
 "44624",66901,"col","Muddy Sandstone",-105.19,39.68,"Alameda Parkway North tracksite",NA,"Dinosaur Ridge, Stop 13, mangrove swamp",3,"Albian","",113,100.5,19038,"gp_mid",-55.9,46.51,"101",106.75,"albian",10807,-58.3123,44.524,26,1
 "44645",66922,"col","Muddy Sandstone",-105.19,39.68,"New Dinosaur Ridge tracksite",NA,"",1,"Albian","",113,100.5,19047,"gp_mid",-55.9,46.51,"101",106.75,"albian",10807,-58.3123,44.524,26,1
 "44881",67186,"col","",10.18,52.33,"Vöhrum, Peine, Niedersachsen",NA,"",4,"Early Albian","",112.03,109,19169,"gp_mid",33.17,46.11,"315",110.515,"albian",10860,24.5401,43.7124,26,1
@@ -510,6 +536,8 @@
 "52345",79464,"col","",-97.57,17.68,"El Rodeo III",NA,"",1,"Albian","",113,100.5,26641,"gp_mid",-52.11,23.74,"104",106.75,"albian",13011,-57.5054,21.1154,26,1
 "52346",79465,"col","",-97.57,17.68,"El Rodeo IIII",NA,"",2,"Albian","",113,100.5,26641,"gp_mid",-52.11,23.74,"104",106.75,"albian",13011,-57.5054,21.1154,26,1
 "52697",80283,"col","Tlayua",-98.2,19.05,"Tlayua Formation",NA,"Tepexi; Tlayua Quarry",31,"Albian","",113,100.5,26979,"gp_mid",-52.54,25.19,"104",106.75,"albian",13133,-56.8864,23.549,26,1
+"52881",80568,"col","",86.88,29.11,"Dongga of Xigazê",NA,"",1,"Albian","",113,100.5,27106,"gp_mid",63.23,-41.1,"501",106.75,"albian",13206,91.2469,21.6155,26,1
+"53661",82145,"col","Mural",-110.35,27.73,"Cerro Pimas section [Los Coyotes Mbr, Mural Fm]",NA,"",1,"Albian","",113,100.5,27697,"gp_mid",-63.93,35.35,"104",106.75,"albian",13546,-66.303,33.229,26,1
 "53663",82147,"col","Mural",-109.57,31.08,"Rancho Bufalo section [Los Coyotes Mbr, Mural Fm]",NA,"",1,"Albian","",113,100.5,27697,"gp_mid",-62.51,38.57,"101",106.75,"albian",13548,-65.4872,35.5724,26,1
 "53722",82212,"col","Mural",-109.57,31.08,"Rancho Bufalo section [Fronteros Mbr, Mural Fm]",NA,"",2,"Albian","",113,100.5,27697,"gp_mid",-62.51,38.57,"101",106.75,"albian",13548,-65.4872,35.5724,26,1
 "53912",82412,"col","Walnut Clay",-97.77,32.23,"USGS 21585, roadcut on Cleburne-Glen Rose Highway [Walnut Clay]",NA,"",2,"Early Albian","",112.03,109,27768,"gp_mid",-46.29,38.02,"101",110.515,"albian",13606,-53.3572,35.6694,26,1
@@ -543,6 +571,8 @@
 "54254",82879,"col","Keys Valley Marl",-98.1,30.99,"Bachelor Peak, Burnet Co. [Keys Valley Marl]",NA,"USGS 8299",2,"Middle Albian","",109,105.3,27860,"gp_mid",-50.24,36.97,"101",107.15,"albian",13705,-54.1364,33.2533,26,1
 "54256",82881,"col","Comanche Peak Limestone",-98.1,30.99,"Bachelor Peak, Burnet Co. [Comanche Peak Limestone]",NA,"",2,"Middle Albian","",109,105.3,27860,"gp_mid",-50.24,36.97,"101",107.15,"albian",13705,-54.1364,33.2533,26,1
 "54259",82885,"col","Keys Valley Marl",-99.17,32.13,"Cross Plains, Callahan Co. [Keys Valley Marl]",NA,"",3,"Middle Albian","",109,105.3,27860,"gp_mid",-51.13,38.24,"101",107.15,"albian",13707,-53.3572,35.6694,26,1
+"54673",83440,"col","Gentle Annie",176.97,-40.88,"Tinui-Awatoitoi [Gentle Annie Fm]",NA,"",3,"Albian","",113,100.5,28008,"gp_mid",-137.6,-84.09,"806",106.75,"albian",13854,-136.754,-73.2863,26,1
+"54676",83443,"col","Gentle Annie",175.67,-40.95,"N158/f725 [Gentle Annie Fm]",NA,"V1992",2,"Albian","",113,100.5,28008,"gp_mid",-145.7,-84.68,"806",106.75,"albian",13855,-136.754,-73.2863,26,1
 "55335",84445,"col","Cuchillo",-105.3,31.47,"Hudspeth County [Cuchillo Fm]",NA,"",22,"Early Albian","",112.03,109,28285,"gp_mid",-54.48,38.47,"101",110.515,"albian",14069,-60.961,37.2948,26,1
 "55576",84737,"col","Glen Rose",-98.3,29.92,"Cranes Mill",NA,"Reef 2699",3,"Early Albian","",112.03,109,28436,"gp_mid",-47.42,35.84,"101",110.515,"albian",14157,-54.1364,33.2533,26,1
 "55582",84743,"col","Glen Rose",-97.8,32.23,"Glen Rose",NA,"",1,"Early Albian","",112.03,109,28436,"gp_mid",-46.33,38.03,"101",110.515,"albian",9072,-53.3572,35.6694,26,1
@@ -568,6 +598,7 @@
 "57378",87391,"col","Buckinghorse",-121.77,58.28,"GSC Loc. 14764 - Sikanni River [Buckinghorse Fm]",NA,"",1,"Early Albian","",112.03,109,29425,"gp_mid",-63.95,67.04,"101",110.515,"albian",14857,-64.311,64.2378,26,1
 "57406",87418,"col","Clearwater",-117.85,53.28,"Clearwater Fm",NA,"",18,"Albian","",113,100.5,29431,"gp_mid",-66.35,61.45,"101",106.75,"albian",14855,-63.7875,58.7803,26,1
 "57407",87419,"col","McMurray",-117.85,53.28,"McMurray Fm",NA,"",1,"Albian","",113,100.5,29431,"gp_mid",-66.35,61.45,"101",106.75,"albian",14855,-63.7875,58.7803,26,1
+"57418",87430,"col","Buckinghorse Shale",-122.1,57.47,"Chischa Creek, 450 ft above base [Buckinghorse Shale]",NA,"",1,"Albian","",113,100.5,29440,"gp_mid",-69.92,66.01,"101",106.75,"albian",14874,-68.3766,65.0081,26,1
 "57419",87431,"col","Sans Sault",-129.02,69.7,"Anderson River [Sans Sault Fm]",NA,"",1,"Albian","",113,100.5,29440,"gp_mid",-69.97,78.6,"101",106.75,"albian",14875,-53.3469,76.6696,26,1
 "57420",87432,"col","Loon River",-129.02,69.7,"Loon River Fm",NA,"",1,"Early Albian","",112.03,109,29440,"gp_mid",-61.67,78.86,"101",110.515,"albian",14875,-53.3469,76.6696,26,1
 "57423",87435,"col","",-125.58,64.9,"Fort Norman-Fort Good Hope, McKenzie River Valley",NA,"",10,"Albian","",113,100.5,29444,"gp_mid",-70.02,73.63,"101",106.75,"albian",14877,-59.6393,71.7528,26,1
@@ -722,6 +753,7 @@
 "58514",88678,"col","Indidura",-101.05,29.35,"Loc. K-22-52, Ojo de Agua [Indidura Fm]",NA,"",3,"Albian","",113,100.5,29747,"gp_mid",-53.7,35.76,"101",106.75,"albian",15203,-57.9129,34.0702,26,1
 "58515",88679,"col","Indidura",-101.05,29.35,"Loc. 44-52, Ojo de Agua [Indidura Fm]",NA,"",4,"Albian","",113,100.5,29747,"gp_mid",-53.7,35.76,"101",106.75,"albian",15203,-57.9129,34.0702,26,1
 "58516",88680,"col","Indidura",-101.05,29.35,"Loc. 53-K-20, Ojo de Agua [Indidura Fm]",NA,"",8,"Albian","",113,100.5,29747,"gp_mid",-53.7,35.76,"101",106.75,"albian",15203,-57.9129,34.0702,26,1
+"58654",88877,"col","",13.1,-12.95,"Dombe Grande, Benguela basin",NA,"",4,"Early Albian","",112.03,109,29795,"gp_mid",4.45,-20.33,"701",110.515,"albian",15234,-2.2655,-24.4636,26,1
 "58680",88907,"col","Matanuska",-147.65,62.03,"USGS Loc. M553, Matanuska Valley-Nelchina [Matanuska Fm]",NA,"",2,"Early Albian","",112.03,109,29800,"gp_mid",-101.26,71.59,"125",110.515,"albian",4710,-82.0986,68.5072,26,1
 "58681",88908,"col","Matanuska",-147.65,62.03,"USGS Loc. M556, Matanuska Valley-Nelchina [Matanuska Fm]",NA,"",9,"Early Albian","",112.03,109,29800,"gp_mid",-101.26,71.59,"125",110.515,"albian",4710,-82.0986,68.5072,26,1
 "58682",88909,"col","Matanuska",-147.65,62.03,"USGS Loc. M557, Matanuska Valley-Nelchina [Matanuska Fm]",NA,"",2,"Early Albian","",112.03,109,29800,"gp_mid",-101.26,71.59,"125",110.515,"albian",4710,-82.0986,68.5072,26,1
@@ -732,6 +764,7 @@
 "59660",90688,"col","Gearle Siltstone",113.63,-24.45,"Black Dam",NA,"Cardabia Creek",10,"Albian","",113,100.5,30524,"gp_mid",86.14,-52.73,"801",106.75,"albian",15632,92.7204,-54.2514,26,1
 "60100",91389,"col","",25.73,43.9,"Putineiu",NA,"",49,"Albian","",113,100.5,30756,"gp_mid",38.62,25.14,"308",106.75,"albian",15784,38.1899,36.9717,26,1
 "60568",91904,"col","Cloverly",-109.71,46.3,"MOR CL-016, Middle Dome",NA,"",2,"Albian","",113,100.5,30949,"gp_mid",-59.13,53.61,"101",106.75,"albian",15953,-58.8177,52.4886,26,1
+"60895",92236,"col","Hudspeth",-120.14,43.27,"Nelson Creek",NA,"Pteranodon oregonensis holotype site",2,"Albian","",113,100.5,14574,"gp_mid",-71.69,49.47,"129",106.75,"albian",16044,-73.3086,50.0184,26,1
 "61258",92724,"col","Kamiji",142.13,44.69,"Chirashinaigawa Creek, Kj3",NA,"",2,"Early Albian","",112.03,109,31256,"gp_mid",149.92,50.43,"610",110.515,"albian",16159,149.5245,55.6267,26,1
 "61259",92725,"col","Kamiji",142.13,44.69,"Chirashinaigawa Creek, Kj5",NA,"",6,"Early Albian","",112.03,109,31256,"gp_mid",149.92,50.43,"610",110.515,"albian",16159,149.5245,55.6267,26,1
 "61260",92726,"col","Kamiji",142.13,44.69,"Chirashinaigawa Creek, Kj7",NA,"",1,"Middle Albian","",109,105.3,31256,"gp_mid",149.88,50.22,"610",107.15,"albian",16159,149.5245,55.6267,26,1
@@ -741,6 +774,8 @@
 "65055",97676,"col","",-71.12,12.08,"Punta Espada, La Guajira (pg. 150)",NA,"",3,"Early Albian","",112.03,109,33368,"gp_mid",-31.45,14.78,"203",110.515,"albian",17259,-41.7627,11.5031,26,1
 "65278",97992,"col","",-99.81,37.32,"Clark county reptiles (PROXY)",NA,"",2,"Albian","",113,100.5,33876,"gp_mid",-50.63,43.44,"101",106.75,"albian",17345,-55.4271,41.3087,26,1
 "65470",98214,"col","",49.45,-12.48,"Mt. Raynaud",NA,"",3,"Middle Albian","",109,105.3,8015,"gp_mid",41.11,-33.16,"702",107.15,"albian",17416,38.016,-37.4752,26,1
+"65504",98249,"col","",44.92,-20.4,"Tsiandava",NA,"",2,"Albian","",113,100.5,8015,"gp_mid",32.85,-39.26,"702",106.75,"albian",17434,30.8654,-43.7879,26,1
+"65505",98250,"col","",44.82,-21.13,"Andranofotsy",NA,"",28,"Albian","",113,100.5,8015,"gp_mid",32.4,-39.92,"702",106.75,"albian",17435,30.8654,-43.7879,26,1
 "65581",98325,"col","",33.47,30.72,"Gabal Manzour",NA,"",15,"Early Albian","",112.03,109,33968,"gp_mid",41.11,10.59,"508",110.515,"albian",17473,33.9411,7.1884,26,1
 "65582",98326,"col","",33.47,30.72,"Gabal Manzour",NA,"",27,"Middle Albian","",109,105.3,33968,"gp_mid",40.76,12.17,"508",107.15,"albian",17473,33.9411,7.1884,26,1
 "65585",98329,"col","Glen Rose",-99.36,29.69,"Mangold farm, Hondo Creek",NA,"",1,"Albian","",113,100.5,33976,"gp_mid",-51.84,35.86,"101",106.75,"albian",17475,-54.1364,33.2533,26,1
@@ -769,6 +804,8 @@
 "70726",105719,"col","Benton",-106.33,41.57,"north end, Medicine Bow Mountains",NA,"",1,"Albian","",113,100.5,35294,"gp_mid",-56.68,48.52,"101",106.75,"albian",19637,-57.2816,46.9183,26,1
 "71284",106378,"col","Paluxy",-97.5,32.88,"Azle",NA,"",1,"Albian","",113,100.5,35509,"gp_mid",-49.2,38.74,"101",106.75,"albian",19823,-53.3572,35.6694,26,1
 "71311",106419,"col","Tooleboc",143.98,-20.54,"Pelican Bore",NA,"",1,"Albian","",113,100.5,35493,"gp_mid",137.45,-62.78,"801",106.75,"albian",19836,142.3765,-55.1279,26,1
+"73716",109438,"col","Las Penosas",-4.45,43.31,"El Soplao",NA,"",33,"Early Albian","",112.03,109,36176,"gp_mid",19.8,38.27,"304",110.515,"albian",20607,10.5636,33.4684,26,1
+"74746",110529,"col","Miono",-3.28,43.4,"Islares",NA,"",11,"Early Albian","",112.03,109,36374,"gp_mid",20.79,37.93,"304",110.515,"albian",21003,10.5636,33.4684,26,1
 "76073",112209,"col","",6.78,43.77,"Andon",NA,"",30,"Early Albian","",112.03,109,36504,"gp_mid",28.93,37.82,"305",110.515,"albian",21296,21.7384,36.1148,26,1
 "76074",112210,"col","",6.78,43.73,"Escragnolles",NA,"",9,"Middle Albian","",109,105.3,36504,"gp_mid",26.94,38.99,"305",107.15,"albian",21297,20.8946,34.8164,26,1
 "76075",112211,"col","",6.5,43.7,"La Croux",NA,"",4,"Middle Albian","",109,105.3,36504,"gp_mid",26.68,38.97,"305",107.15,"albian",21298,20.8946,34.8164,26,1
@@ -779,6 +816,8 @@
 "79181",116299,"col","Aïn el Guettar",10.21,32.66,"Oum ed Diab",NA,"",10,"Albian","",113,100.5,53516,"gp_mid",23.14,22.02,"715",106.75,"albian",22193,16.8522,16.4898,26,1
 "80158",117448,"col","Clearwater",-111.67,57.02,"Syncrude Base Mine, West side",NA,"Wapuskanectes betsynichollsae type locality",1,"Early Albian","",112.03,109,37764,"gp_mid",-52.13,64.36,"101",110.515,"albian",22464,-56.0385,62.6354,26,1
 "80159",117449,"col","Clearwater",-111.67,56.97,"Syncrude Base Mine, West side II",NA,"TMP 99.68.01 elasmosaurid site",1,"Early Albian","",112.03,109,37764,"gp_mid",-52.16,64.32,"101",110.515,"albian",22465,-56.0385,62.6354,26,1
+"80681",117980,"col","",135.03,35.18,"Kamitaki Quarry, Tamba City",NA,"",12,"Early Albian","",112.03,109,37923,"gp_mid",146.16,39.8,"610",110.515,"albian",22586,141.7455,43.0774,26,1
+"81403",118912,"col","Kyndal",132.7,50.82,"Verkhne-bureinskaya Depression, core sample 22-23, Bed 8, depth 151.9-162.5m",NA,"PIN collection 2708",3,"Albian","",113,100.5,38185,"gp_mid",142.09,49.86,"628",106.75,"albian",22721,136.701,56.2552,26,1
 "81509",119020,"col","Clearwater",-111.67,57,"Syncrude Base Mine, West side III",NA,"TMP 2000.29.01; Athabascasaurus bitumineus type locality",1,"Early Albian","",112.03,109,38238,"gp_mid",-52.13,64.34,"101",110.515,"albian",22763,-56.0385,62.6354,26,1
 "84614",122912,"col","",-97.54,33.57,"1 mile from Hardy, on road to Forestburg",NA,"Hardee, Harday",1,"Early Albian","",112.03,109,704,"gp_mid",-45.71,39.29,"101",110.515,"albian",23639,-53.3572,35.6694,26,1
 "84618",122916,"col","Thermopolis Shale",-109.05,44.52,"Shoshone River, near Cody",NA,"",1,"Albian","",113,100.5,704,"gp_mid",-58.91,51.78,"101",106.75,"albian",23640,-60.0594,50.1122,26,1
@@ -828,6 +867,7 @@
 "94788",136582,"col","",-78.91,-5.21,"Pongo de Manseriche, Rio Maranon, Loreto",NA,"",1,"Middle Albian","",109,105.3,43686,"gp_mid",-39.91,-2.12,"201",107.15,"albian",26465,-47.4171,-4.8878,26,1
 "94907",136733,"col","Tlayúa",-97.92,18.58,"Locality 370 Tlayúa Quarry",NA," Aranguthy quarry",1,"Albian","",113,100.5,43725,"gp_mid",-52.33,24.68,"104",106.75,"albian",26502,-57.5054,21.1154,26,1
 "94914",136754,"col","Escucha",-0.57,41.02,"Santa Maria Mine, Ariño (AR-1)",NA,"Mina Santa Mariá",20,"Early Albian","",112.03,109,43728,"gp_mid",21.5,34.86,"304",110.515,"albian",26506,12.4708,30.0675,26,1
+"95394",137359,"col","",-17.1,14.77,"Bassin du Sénégal, Albien Inférieur",NA,"Zone a Orbitolina texana ",19,"Early Albian","",112.03,109,43937,"gp_mid",NA,NA,"coordinates not computable using this model",110.515,"albian",26656,-16.562,13.5304,26,1
 "95407",137372,"col","Dahab",26.28,30.93,"Kahraman-1 well (Dahab Formation)",NA,"",4,"Albian","",113,100.5,43966,"gp_mid",35.36,14.62,"715",106.75,"albian",26661,28.0445,9.309,26,1
 "95408",137373,"col","Kharita",26.28,30.93,"Kahraman-1 well (Kharita Formation)",NA,"",4,"Albian","",113,100.5,43966,"gp_mid",35.36,14.62,"715",106.75,"albian",26661,28.0445,9.309,26,1
 "95564",137532,"col","Paluxy",-97.57,33.15,"Walnut Creek B local fauna",NA,"Astrophocaudia slaughteri type; Decatur; SMU",7,"Early Albian","",112.03,109,13937,"gp_mid",-45.85,38.89,"101",110.515,"albian",17781,-53.3572,35.6694,26,1
@@ -845,13 +885,36 @@
 "98088",140234,"col","",26,43.88,"Danube railway bridge locality",NA,"",1,"Albian","",113,100.5,45315,"gp_mid",38.74,24.98,"308",106.75,"albian",27301,38.1899,36.9717,26,1
 "98621",140907,"col","Toolebuc",142.07,-20.7,"Yambore Creek",NA,"Tuarangisaurus australis type locality",1,"Albian","",113,100.5,45721,"gp_mid",133.55,-62.58,"801",106.75,"albian",27359,142.3765,-55.1279,26,1
 "98698",141003,"col","",4.87,49.33,"Grandpré, Ardennes",NA,"",2,"Albian","",113,100.5,45801,"gp_mid",25.91,44.69,"315",106.75,"albian",8710,18.3175,41.0403,26,1
+"99057",141507,"col","Lower",135.18,35.09,"Miyada microvertebrate site (Sasayama)",NA,"Sasayamamylos kawaii type",5,"Early Albian","",112.03,109,45999,"gp_mid",146.33,39.75,"610",110.515,"albian",27410,141.7455,43.0774,26,1
 "99138",141591,"col","Toolebuc",143.14,-20.73,"Central Queensand pliosaurid locality",NA,"",1,"Albian","",113,100.5,46032,"gp_mid",135.67,-62.82,"801",106.75,"albian",27423,142.3765,-55.1279,26,1
 "99680",142202,"col","Kharita",29,29," Ghazalat-1 well, S. 3",NA,"",44,"Albian","",113,100.5,46190,"gp_mid",36.84,11.93,"715",106.75,"albian",27510,31.1527,8.2553,26,1
 "99681",142203,"col","Kharita",29,29," Ghazalat-1 well, S. 2",NA,"",43,"Albian","",113,100.5,46190,"gp_mid",36.84,11.93,"715",106.75,"albian",27510,31.1527,8.2553,26,1
 "99682",142204,"col","Kharita",29,29," Ghazalat-1 well, 9",NA,"",39,"Albian","",113,100.5,46190,"gp_mid",36.84,11.93,"715",106.75,"albian",27510,31.1527,8.2553,26,1
 "99683",142205,"col","Kharita",29,29," Ghazalat-1 well, S. 1",NA,"",46,"Albian","",113,100.5,46190,"gp_mid",36.84,11.93,"715",106.75,"albian",27510,31.1527,8.2553,26,1
 "99700",142221,"col","",29,29,"Faddah-I well, Mingar-IX well, Sharib-IX well (P-S2, Albian)",NA,"Three boreholes from northern Western Desert (Egypt)",36,"Albian","",113,100.5,46191,"gp_mid",36.84,11.93,"715",106.75,"albian",27510,31.1527,8.2553,26,1
+"99723",142243,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 7760",NA,"",10,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99724",142244,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 7880",NA,"",14,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99725",142245,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 8060",NA,"",9,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99726",142246,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 8180",NA,"",11,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99727",142247,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 8540",NA,"",15,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99728",142248,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 8720",NA,"",13,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99729",142249,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 9080",NA,"",15,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99730",142250,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 9320",NA,"",10,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99731",142251,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 9600",NA,"",6,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99732",142252,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 9740",NA,"",6,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99733",142253,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 10160",NA,"",9,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99734",142254,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 10340",NA,"",10,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99735",142255,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 10820",NA,"",13,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99736",142256,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11060",NA,"",12,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99737",142257,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11480",NA,"",7,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99738",142258,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11540",NA,"",11,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99739",142259,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11660",NA,"",10,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99740",142260,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11840",NA,"",7,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99741",142261,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 11960",NA,"",10,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99742",142262,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 12080",NA,"",8,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
+"99743",142263,"col","Apollonian",-2.07,4.87,"Well Tano 1-1, 12200",NA,"",8,"Albian","",113,100.5,43916,"gp_mid",-0.34,2.44,"714",106.75,"albian",27512,-8.0505,-2.1635,26,1
 "99951",142534,"col","",144.2,-20.85,"Silver Hills, Hughenden",NA,"",1,"Albian","",113,100.5,17467,"gp_mid",137.76,-63.13,"801",106.75,"albian",9766,142.3765,-55.1279,26,1
+"100108",142838,"col","",5.99,49.49,"Louppy-Villotte",NA,"Ichthyosaur locality",1,"Early Albian","",112.03,109,52651,"gp_mid",29.03,43.57,"315",110.515,"albian",27587,21.5135,41.1117,26,1
 "101336",144230,"col","",-42.8,-2.6,"Borehole I-MU-I-MA, Sample 19",NA,"Mandacaru borehole",20,"Early Albian","Middle Albian",112.03,105.3,44836,"gp_mid",-3.1,1.01,"201",108.665,"albian",27706,-9.8011,-4.2525,26,1
 "101337",144231,"col","",-42.8,-2.6,"Borehole I-MU-I-MA, Sample 20",NA,"Mandacaru borehole",15,"Early Albian","Middle Albian",112.03,105.3,44836,"gp_mid",-3.1,1.01,"201",108.665,"albian",27706,-9.8011,-4.2525,26,1
 "101338",144232,"col","",-42.8,-2.6,"Borehole I-MU-I-MA, Sample 21",NA,"Mandacaru borehole",20,"Early Albian","Middle Albian",112.03,105.3,44836,"gp_mid",-3.1,1.01,"201",108.665,"albian",27706,-9.8011,-4.2525,26,1
@@ -871,6 +934,7 @@
 "101885",144957,"col","Kharita",28.74,29.86,"WD. 9-15-1 well, Assemblage Zone I, 3800 m",NA,"",12,"Middle Albian","",109,105.3,46766,"gp_mid",36.95,12.81,"715",107.15,"albian",27859,31.1527,8.2553,26,1
 "101894",144966,"col","",26.47,30.82,"Umbarka IX Borehole, Zone No. III",NA,"",17,"Early Albian","",112.03,109,46914,"gp_mid",35.94,13.05,"715",110.515,"albian",27863,28.0445,9.309,26,1
 "102254",145812,"col","",-9.47,38.8,"Estremadura, Orbitolina (Mesorbitolina) minuta zone",NA,"",9,"Early Albian","",112.03,109,47157,"gp_mid",12.85,36.28,"304",110.515,"albian",27931,3.1703,33.4945,26,1
+"103118",147069,"col","",23.02,46.05,"Mures Mountains, left bank of Vladeasca Valley",NA,"",1,"Albian","",113,100.5,47487,"gp_mid",39.22,27.97,"308",106.75,"albian",28021,34.8892,36.7365,26,1
 "103572",147575,"col","Aïn el Guettar",10.17,32.68,"Jebel El Mra",NA,"Tataouinea hannibalis type",2,"Early Albian","",112.03,109,47523,"gp_mid",23.99,21.11,"715",110.515,"albian",28054,16.8522,16.4898,26,1
 "104178",148215,"col","",34.43,30.35,"Araif el Naqa, section IX, zone ",NA,"",1,"Albian","",113,100.5,47578,"gp_mid",41.39,11.5,"508",106.75,"albian",28094,33.9411,7.1884,26,1
 "104289",148334,"col","",32.35,29.47,"Northern Galala, section 11/2, zone ",NA,"",2,"Albian","",113,100.5,47578,"gp_mid",39.79,11.3,"715",106.75,"albian",28116,33.9411,7.1884,26,1
@@ -880,6 +944,7 @@
 "104593",148652,"col","",-1.1,43.67,"Tercis, Albian",NA,"",1,"Albian","",113,100.5,47722,"gp_mid",19.61,39.48,"305",106.75,"albian",28171,13.5898,32.3772,26,1
 "104594",148653,"col","",-0.98,43.12,"Arbailles, Albian",NA,"",1,"Albian","",113,100.5,47722,"gp_mid",20.37,37.89,"304",106.75,"albian",28172,13.5898,32.3772,26,1
 "104595",148654,"col","",-0.8,43.42,"Aquitaine méridionale, Albian",NA,"",2,"Albian","",113,100.5,47722,"gp_mid",19.86,39.21,"305",106.75,"albian",28173,13.5898,32.3772,26,1
+"104768",148860,"col","",21.65,44.72,"Resita - Molodova Noua area, Albian",NA,"",2,"Albian","",113,100.5,47732,"gp_mid",37.36,27.96,"308",106.75,"albian",28206,34.8892,36.7365,26,1
 "105464",149810,"col","",6.08,43.73,"Provence area, Albian",NA,"",4,"Albian","",113,100.5,47796,"gp_mid",26.3,39.03,"305",106.75,"albian",28363,20.8946,34.8164,26,1
 "105550",149895,"col","Polat",31.45,37.98,"Yassibel village, Polat Fm, sample 281",NA,"",7,"Early Albian","",112.03,109,48005,"gp_mid",42.23,17.62,"504",110.515,"albian",28379,37.0329,17.6777,26,1
 "105554",149899,"col","Polat",31.45,37.98,"Yassibel village, Polat Fm, sample 285",NA,"",5,"Early Albian","",112.03,109,48005,"gp_mid",42.23,17.62,"504",110.515,"albian",28379,37.0329,17.6777,26,1
@@ -953,6 +1018,8 @@
 "113394",161074,"col","Mal Paso",-100.73,18.67,"La Pinuela locality, Huetamo region, Mal Paso Fm - middle part",NA,"",1,"Early Albian","",112.03,109,52494,"gp_mid",-52.27,25.15,"104",110.515,"albian",30442,-61.2512,21.9202,26,1
 "113395",161077,"col","Mal Paso",-100.73,18.67,"La Pinuela locality, Huetamo region, Mal Paso Fm - upper part",NA,"",10,"Early Albian","",112.03,109,52494,"gp_mid",-52.27,25.15,"104",110.515,"albian",30442,-61.2512,21.9202,26,1
 "114103",161962,"col","Red Chalk",-0.5,53.67,"South Ferriby Section, bed 2b [Red Chalk]",NA,"",2,"Middle Albian","",109,105.3,52759,"gp_mid",21.76,49.37,"315",107.15,"albian",30609,15.0909,43.5013,26,1
+"115149",163780,"col","",-2.84,42.63,"Salinillas de Buradón (Alava amber)",NA,"",1,"Albian","",113,100.5,53411,"gp_mid",18.56,38.08,"304",106.75,"albian",30819,10.5636,33.4684,26,1
+"115376",164315,"col","Equino",-2.2,42.88,"Olazagutia quarry",NA,"",0,"Albian","",113,100.5,53623,"gp_mid",19.22,38.09,"304",106.75,"albian",30866,10.5636,33.4684,26,1
 "115506",164587,"col","",9.73,52.38,"Hannover-Lahe core Decapod",NA,"",1,"Albian","",113,100.5,53773,"gp_mid",30.75,47.41,"315",106.75,"albian",30897,24.5401,43.7124,26,1
 "115928",165350,"col","Carstone",0.49,52.93,"Hunstanton (Carstone)",NA,"",1,"Albian","",113,100.5,18892,"gp_mid",22.52,48.57,"315",106.75,"albian",30982,15.0909,43.5013,26,1
 "116132",165613,"col","",55.53,40.55,"Tuarkyr, Doungra District",NA,"",1,"Early Albian","",112.03,109,54147,"gp_mid",72.92,33.25,"402",110.515,"albian",31033,66.0209,34.946,26,1
@@ -971,6 +1038,7 @@
 "117862",168748,"col","",-109.77,45.51,"OMNH V938",NA,"Carinalestes type locality",1,"Albian","",113,100.5,55183,"gp_mid",-59.44,52.84,"101",106.75,"albian",31601,-60.0594,50.1122,26,1
 "118032",169123,"col","",5.02,49.22,"Varennes-en-Argonne",NA,"",1,"Albian","",113,100.5,55246,"gp_mid",26.04,44.57,"315",106.75,"albian",27243,18.3175,41.0403,26,1
 "118410",169628,"col","Shenley Limestone",-0.65,51.94,"Shenley Hill Pit, Leighton Buzzard",NA,"",3,"Early Albian","",112.03,109,43337,"gp_mid",23.55,46.52,"315",110.515,"albian",31658,15.0909,43.5013,26,1
+"119360",170685,"col","Colimapu",-70.45,-24.97,"south of Termas del Flaco",NA,"",3,"Albian","",113,100.5,55605,"gp_mid",-31.02,-21.6,"291",106.75,"albian",31784,-41.0687,-25.2528,26,1
 "119361",170862,"col","Folkestone",1.18,51.08,"Folkestone (mammillatum zone)",NA,"",1,"Early Albian","",112.03,109,55618,"gp_mid",25.01,45.51,"315",110.515,"albian",163,15.1231,41.0014,26,1
 "119362",170863,"col","Folkestone",-0.82,51.21,"Coxbridge pit, Alton Road, west of Farnham",NA,"",2,"Early Albian","",112.03,109,55618,"gp_mid",23.26,45.81,"315",110.515,"albian",31785,15.1231,41.0014,26,1
 "119707",171272,"col","",33.32,30.71,"Oued Moghara (left bank)",NA,"",1,"Albian","",113,100.5,36012,"gp_mid",40.64,12.22,"508",106.75,"albian",31871,33.9411,7.1884,26,1
@@ -1068,7 +1136,9 @@
 "127005",183557,"col","",4.36,48.33,"Maurepaire (d'Orbigny collection)",NA,"",2,"Early Albian","Middle Albian",112.03,105.3,36076,"gp_mid",26.45,43.12,"305",108.665,"albian",33613,18.3906,38.5409,26,1
 "127006",183558,"col","",5.47,45.09,"La Balme de Rencurel",NA,"",1,"Middle Albian","",109,105.3,61340,"gp_mid",25.89,40.42,"305",107.15,"albian",33614,18.4589,36.0415,26,1
 "127007",183559,"col","",4.21,48.19,"Courcelles",NA,"",1,"Middle Albian","",109,105.3,61340,"gp_mid",25.15,43.6,"305",107.15,"albian",33615,18.3906,38.5409,26,1
+"127728",184481,"col","Itxina",-2.77,43,"Unit E",NA,"",6,"Early Albian","Middle Albian",112.03,105.3,61774,"gp_mid",19.97,37.89,"304",108.665,"albian",33775,10.5636,33.4684,26,1
 "128473",185608,"col","",-13.09,27.73,"Tarfaya",NA,"",5,"Albian","",113,100.5,62230,"gp_mid",1.14,27.55,"714",106.75,"albian",33980,-3.8098,21.0746,26,1
+"128503",185642,"col","",6.62,36.28,"Province de Constantine",NA,"",5,"Albian","",113,100.5,62230,"gp_mid",NA,NA,"coordinates not computable using this model",106.75,"albian",33994,16.4897,22.2489,26,1
 "128510",185649,"col","",9.18,35.37,"Foum El Guelta",NA,"",1,"Albian","",113,100.5,62230,"gp_mid",23.7,24.81,"714",106.75,"albian",34001,15.0342,20.0938,26,1
 "128629",185771,"col","Dariyan",52.9,29.97,"Naqsh Rustam section, Dariyan Fm, Zagros Basin, bed 10",NA,"",1,"Early Albian","",112.03,109,62275,"gp_mid",54.91,1.43,"503",110.515,"albian",34035,49.6397,-0.4836,26,1
 "129648",187588,"col","",1.47,33.05,"El Kohol",NA,"",3,"Albian","",113,100.5,62975,"gp_mid",16.29,25.88,"714",106.75,"albian",34298,7.9001,20.7353,26,1
@@ -1095,13 +1165,20 @@
 "134420",197586,"col","Sanganeh",59.93,36.83,"Ghaleno (150-200 m)",NA,"",1,"Early Albian","",112.03,109,67371,"gp_mid",77.09,29.65,"402",110.515,"albian",35320,69.9943,32.9613,26,1
 "134451",197617,"col","Schrattenkalk",9.54,47.33,"Semelenberg Nord",NA,"",3,"Early Albian","",112.03,109,67375,"gp_mid",31.89,41.17,"305",110.515,"albian",35336,24.4992,33.7876,26,1
 "137478",203165,"col","Taninúl",-98.92,21.97,"Choy Cave",NA,"",7,"Albian","",113,100.5,40809,"gp_mid",-52.8,28.18,"104",106.75,"albian",35973,-56.244,25.98,26,1
+"138767",205235,"col","",-2.54,43.36,"Ispaster",NA,"",1,"Albian","",113,100.5,70417,"gp_mid",19.22,38.63,"304",106.75,"albian",36398,10.5636,33.4684,26,1
 "139631",206287,"col","Continental Intercalaire",0.4,33.13,"Garet et Taleb",NA,"Chellala Dahrani",2,"Albian","",113,100.5,70818,"gp_mid",15.46,26.4,"707",106.75,"albian",36709,7.9001,20.7353,26,1
 "139632",206288,"col","",1.26,33.1,"Brezina",NA,"",2,"Albian","",113,100.5,70818,"gp_mid",16.14,26.01,"714",106.75,"albian",36710,7.9001,20.7353,26,1
 "139633",206289,"col","Continental Intercalaire",0.83,32.72,"Garet Touidjine",NA,"Chellala Dahrani",2,"Albian","",113,100.5,70818,"gp_mid",15.59,25.86,"714",106.75,"albian",36711,7.9001,20.7353,26,1
+"140104",207138,"col","",-1.97,42.71,"Alloz",NA,"",1,"Albian","",113,100.5,46002,"gp_mid",19.32,37.85,"304",106.75,"albian",36886,10.5636,33.4684,26,1
 "140106",207140,"col","",-1.86,42.93,"Egiarreta",NA,"",1,"Albian","",113,100.5,46002,"gp_mid",19.54,38.02,"304",106.75,"albian",36888,13.5898,32.3772,26,1
 "141300",209045,"col","Duck Creek",-97.45,32.66,"Mira Vista, Fort Worth",NA,"Reidus-type locality",1,"Albian","",113,100.5,72176,"gp_mid",-49.19,38.52,"101",106.75,"albian",37178,-53.3572,35.6694,26,1
 "142294",210293,"col","Uomba",8.7,8,"Tiv Division (ATMN collection)",NA,"",2,"Middle Albian","",109,105.3,27823,"gp_mid",10.64,0.53,"714",107.15,"albian",13664,3.1239,-4.7907,26,1
 "142429",210471,"col","",4.34,48.29,"LeGaty, Aube",NA,"",1,"Middle Albian","",109,105.3,72587,"gp_mid",25.28,43.69,"305",107.15,"albian",37401,18.3906,38.5409,26,1
+"142686",210855,"col","Cuio",13.06,-12.91,"Dombe-Grande (Formação con Douvilleiceras)",NA,"",1,"Middle Albian","",109,105.3,72822,"gp_mid",5.3,-20.17,"701",107.15,"albian",37449,-2.2655,-24.4636,26,1
+"142689",210858,"col","",13.05,-12.9,"Dombe-Grande (couches à Nerinea capelloi)",NA,"",2,"Early Albian","",112.03,109,72822,"gp_mid",4.42,-20.26,"701",110.515,"albian",37450,-2.2655,-24.4636,26,1
+"142763",211027,"col","Cuio",13.07,-12.92,"Locality 4, Dombe Grande (Douvilleiceras fauna)",NA,"",5,"Middle Albian","",109,105.3,36171,"gp_mid",5.31,-20.19,"701",107.15,"albian",37469,-2.2655,-24.4636,26,1
+"142764",211028,"col","Cuio",13.07,-12.92,"Locality 4, Dombe Grande (Oxytropidoceras fauna)",NA,"",8,"Middle Albian","",109,105.3,36171,"gp_mid",5.31,-20.19,"701",107.15,"albian",37469,-2.2655,-24.4636,26,1
+"142765",211030,"col","",13.05,-12.98,"Locality 2, Dombe Grande",NA,"",1,"Early Albian","",112.03,109,36171,"gp_mid",4.38,-20.33,"701",110.515,"albian",37470,-2.2655,-24.4636,26,1
 "142982",211447,"col","Gault",0.33,51.3,"Ford Place, Wrotham (Anahoplites intermedius subzone)",NA,"",6,"Middle Albian","",109,105.3,73082,"gp_mid",22.09,46.96,"315",107.15,"albian",37517,15.0909,43.5013,26,1
 "142983",211448,"col","Gault",0.33,51.3,"Ford Place, Wrotham (Dimorphoplites niobe subzone)",NA,"",4,"Middle Albian","",109,105.3,73082,"gp_mid",22.09,46.96,"315",107.15,"albian",37517,15.0909,43.5013,26,1
 "142984",211449,"col","Gault",0.33,51.3,"Ford Place, Wrotham (Mojsisovicsia subdelareui subzone)",NA,"",3,"Middle Albian","",109,105.3,73082,"gp_mid",22.09,46.96,"315",107.15,"albian",37517,15.0909,43.5013,26,1

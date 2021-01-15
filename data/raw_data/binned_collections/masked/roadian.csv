@@ -45,14 +45,17 @@
 "16352",30508,"col","Solikamslian",56.7,58.4,"Polasna",NA,"PGAP 13354",3,"Roadian","",272.3,268.8,8241,"gp_mid",47.07,31.82,"302",270.55,"roadian",3248,32.8623,44.4384,54,1
 "16376",30532,"col","Solikamslian",56.7,58.1,"Sylva-1",NA,"PGAP 13357",6,"Roadian","",272.3,268.8,8241,"gp_mid",47.31,31.6,"302",270.55,"roadian",3256,32.8623,44.4384,54,1
 "16377",30533,"col","Solikamslian",56.7,58.2,"Sylva-2",NA,"PGAP 13358",6,"Roadian","",272.3,268.8,8241,"gp_mid",47.23,31.67,"302",270.55,"roadian",3257,32.8623,44.4384,54,1
+"16405",30561,"col","Lower Gusinozemelskaya Suite",52.8,71.2,"Mezhdusharskii Island",NA,"PGAP 12231",21,"Roadian","",272.3,268.8,8258,"gp_mid",34.56,39.83,"302",270.55,"roadian",3269,15.1607,47.1166,54,1
 "16477",30634,"col","",52.4,72.7,"Cape Britvin",NA,"PGAP 12030",1,"Roadian","",272.3,268.8,8258,"gp_mid",33.02,40.77,"302",270.55,"roadian",3306,11.5714,47.7099,54,1
 "16525",30683,"col","Ekushanskaya Suite",54.2,67.2,"Shapkina",NA,"PGAP 13332",7,"Roadian","",272.3,268.8,8240,"gp_mid",38.67,37.39,"302",270.55,"roadian",3322,18.6636,46.4139,54,1
 "16560",30718,"col","Upper Abrekskaya Suite",132.4,42.9,"Putyatin Island",NA,"PGAP 13097",7,"Roadian","",272.3,268.8,8084,"gp_mid",138.75,27.38,"628",270.55,"roadian",3338,145.3399,39.4736,54,1
 "16561",30719,"col","Upper Pospelovskaya Suite",131.9,43,"Russkii island",NA,"PGAP 13095",17,"Roadian","",272.3,268.8,8084,"gp_mid",138.37,27.56,"628",270.55,"roadian",3339,145.3399,39.4736,54,1
 "16642",30800,"col","Tab-Yuskaya Suite",63.6,69.6,"Tab-Yu River",NA,"PGAP 13110",73,"Roadian","",272.3,268.8,8065,"gp_mid",39.25,41.57,"302",270.55,"roadian",3358,16.1922,50.899,54,1
 "16664",30822,"col","Belushkinskaya Suite",52.3,71.6,"Belushyae",NA,"PGAP 12230",34,"Roadian","",272.3,268.8,8258,"gp_mid",34.04,39.99,"302",270.55,"roadian",3365,11.5714,47.7099,54,1
+"16687",30845,"col","",57.6,62.8,"Ilych River",NA,"PGAP 13040",22,"Roadian","",272.3,268.8,8030,"gp_mid",43.8,35.3,"302",270.55,"roadian",3368,26.263,46.3178,54,1
 "16692",30850,"col","",52.6,66.8,"Lower Pechora River",NA,"PGAP 13045",3,"Roadian","",272.3,268.8,8030,"gp_mid",38.46,36.66,"302",270.55,"roadian",3373,18.6636,46.4139,54,1
 "16699",30857,"col","",63,69.5,"Er-yaga River",NA,"PGAP 13052",18,"Roadian","",272.3,268.8,8030,"gp_mid",39.19,41.34,"302",270.55,"roadian",3379,16.1922,50.899,54,1
+"16700",30858,"col","",56.3,61.7,"Upper Pechora River",NA,"PGAP 13037",23,"Roadian","",272.3,268.8,8030,"gp_mid",44.21,34.09,"302",270.55,"roadian",3380,26.263,46.3178,54,1
 "16701",30859,"col","",50.7,62.2,"Lower Vichegda River",NA,"PGAP 13038",3,"Roadian","",272.3,268.8,8030,"gp_mid",41.47,32.7,"302",270.55,"roadian",3381,25.3759,44.702,54,1
 "16702",30860,"col","",54,62.4,"Upper Vichegda River",NA,"PGAP 13039",5,"Roadian","",272.3,268.8,8030,"gp_mid",42.68,33.86,"302",270.55,"roadian",3382,25.3759,44.702,54,1
 "19903",34562,"col","Baogete",122,43.75,"Maolipenhong, Zhurihe, Ulanqab Meng",NA,"",20,"Roadian","",272.3,268.8,9122,"gp_mid",130.61,30.03,"628",270.55,"roadian",3965,138.2044,44.7447,54,1
@@ -129,6 +132,7 @@
 "33723",133240,"col","Akasaka",136.58,35.4,"Kinshozan, Akasaka, Gifu Prefecture (Parafusulina zone)",NA,"",1,"Roadian","",272.3,268.8,30289,"gp_mid",133.4,8.67,"610",270.55,"roadian",8072,157.2717,21.3219,54,1
 "36142",55765,"col","Gymnocodiacean Limestone",26.13,38.53,"USNM9592, Agrelias 2, Chios",NA,"",6,"Roadian","",272.3,268.8,15073,"gp_mid",39.35,8.2,"510",270.55,"roadian",8811,22.6824,-4.3027,54,1
 "36143",55766,"col","Gymnocodiacean Limestones",26.13,38.53,"USNM9593, Seladha, Chios",NA,"",9,"Roadian","",272.3,268.8,15073,"gp_mid",39.35,8.19,"510",270.55,"roadian",8811,22.6824,-4.3027,54,1
+"41318",108756,"col","Elderslie",151.52,-32.72,"Maitland Colliery Company Shaft, Farley",NA,"",3,"Roadian","",272.3,268.8,42529,"gp_mid",170.23,-70.39,"801",270.55,"roadian",9972,147.1081,-57.5171,54,1
 "41477",61938,"col","Phosphoria",-108.41,42.57,"AMNH B631, Rock Ford, Fremont County",NA,"",21,"Roadian","",272.3,268.8,11472,"gp_mid",-28.72,16.36,"101",270.55,"roadian",10017,-40.5746,13.2847,54,1
 "41639",62243,"col","Neoschwagerina Beds",15.2,44.52,"Crne Grede, Velebit Mountains",NA,"",30,"Roadian","",272.3,268.8,17986,"gp_mid",31.09,-5.48,"307",270.55,"roadian",10060,18.9108,3.1826,54,1
 "41680",62289,"col","Neoschwagerina Beds",15.23,44.51,"Milasnovac, Velebit Mountains",NA,"",36,"Roadian","",272.3,268.8,17986,"gp_mid",31.09,-5.5,"307",270.55,"roadian",10065,18.9108,3.1826,54,1
@@ -151,6 +155,7 @@
 "44793",67081,"col","Nemda",49.08,57.47,"Kremeshki Quarry Krm-3",NA,"",2,"Roadian","",272.3,268.8,19120,"gp_mid",44.18,28.51,"302",270.55,"roadian",7477,30.4002,40.8403,54,1
 "48992",73587,"col","Bone Spring",-104.83,31.82,"Road cut on US highway 62 near BM 4367",NA,"",1,"Roadian","",272.3,268.8,27417,"gp_mid",-32.31,5.81,"101",270.55,"roadian",12028,-42.7041,3.0692,54,1
 "49965",74980,"col","Ganskaya",74.54,37.72,"Vostochnyi Igrimiyuz Brook Basin, 3.2 km from mouth of Igrimiyuz",NA,"",1,"Roadian","",272.3,268.8,25297,"gp_mid",80.75,20.4,"601",270.55,"roadian",12253,78.441,-5.704,54,1
+"49968",74983,"col","Kazan",54.74,53.83,"Dema River, Nikiforovo Village, Outcrop 11",NA,"",3,"Roadian","",272.3,268.8,33551,"gp_mid",49.58,27.66,"302",270.55,"roadian",12255,35.9944,43.3625,54,1
 "49988",75028,"col","""Gymnocodiacean Limestone""",26.1,38.53,"Marmaro, Chios Island, Richthofeniid Buildup",NA,"Reef 1628",5,"Roadian","",272.3,268.8,25306,"gp_mid",39.33,8.19,"510",270.55,"roadian",12257,22.6824,-4.3027,54,1
 "50257",75510,"col","",15.2,44.52,"Velebit Mountains, road Gospic-Karlovac",NA,"Reef 264",78,"Roadian","",272.3,268.8,25468,"gp_mid",31.09,-5.48,"307",270.55,"roadian",10060,18.9108,3.1826,54,1
 "50269",75536,"col","Gymnocodiacean Limestone",26.13,38.53,"Agrelias CH 7, Chios Island",NA,"",4,"Roadian","",272.3,268.8,25502,"gp_mid",39.35,8.2,"510",270.55,"roadian",8811,22.6824,-4.3027,54,1
@@ -173,6 +178,8 @@
 "52972",80924,"col","Kaibab",-111.57,35.2,"Lake Mary Road Schizodus Faunule (MNA)",NA,"",9,"Roadian","",272.3,268.8,27231,"gp_mid",-35.15,11.74,"101",270.55,"roadian",4981,-47.1205,7.5334,54,1
 "53064",81123,"col","Surmaq",53.22,30.91,"Abadeh, Unit 1, Hambast Mountains",NA,"",13,"Roadian","",272.3,268.8,18380,"gp_mid",55.22,-18.6,"512",270.55,"roadian",13271,47.0677,-22.4991,54,1
 "53074",81133,"col","Kazan",49,56.4,"Abdaevo Village, Karman-Kuruk Mountain, Mariy Region",NA,"",2,"Roadian","",272.3,268.8,27323,"gp_mid",44.88,27.63,"302",270.55,"roadian",2637,30.4002,40.8403,54,1
+"53076",81135,"col","Kazan",54.91,53.83,"Abishevo, Dema River, Bajtugan Beds Section 17 Bed 1",NA,"",2,"Roadian","",272.3,268.8,27318,"gp_mid",49.67,27.72,"302",270.55,"roadian",13273,35.9944,43.3625,54,1
+"53077",81136,"col","Kazan",54.91,53.83,"Abishevo, Dema River, Bajtugan Beds Section 17 Bed 6b",NA,"",1,"Roadian","",272.3,268.8,27318,"gp_mid",49.67,27.72,"302",270.55,"roadian",13273,35.9944,43.3625,54,1
 "53078",81137,"col","Ruteh",50.55,36.08,"Abyak, Elburz Mountains",NA,"",3,"Roadian","",272.3,268.8,27326,"gp_mid",54.33,-13.04,"512",270.55,"roadian",13274,47.1517,-22.0107,54,1
 "53097",81156,"col","Tiryakh",141,62.5,"Agayakan River, T. 194, Indigirka Basin, Tiryakh Svita, southern Verkhoyan",NA,"",1,"Roadian","",272.3,268.8,27345,"gp_mid",52.82,68.22,"401",270.55,"roadian",13281,-28.1862,78.3199,54,1
 "53098",81157,"col","Tiryakh",141,62.5,"Agayakan River, T. 152, Indigirka Basin, Tiryakh Svita, southern Verkhoyan",NA,"",1,"Roadian","",272.3,268.8,27345,"gp_mid",52.82,68.22,"401",270.55,"roadian",13281,-28.1862,78.3199,54,1
@@ -236,7 +243,10 @@
 "54416",83103,"col","Kazan",49.33,57.47,"Bikovo Village, Broshennyi Quarry Section 38 Bed 8, Vyatka River",NA,"",2,"Roadian","",272.3,268.8,27318,"gp_mid",44.3,28.59,"302",270.55,"roadian",13729,30.4002,40.8403,54,1
 "54417",83104,"col","Kazan",49.33,57.47,"Bikovo Village, Broshennyi Quarry Section 38 undivided, Vyatka River",NA,"",2,"Roadian","",272.3,268.8,27318,"gp_mid",44.3,28.59,"302",270.55,"roadian",13729,30.4002,40.8403,54,1
 "54418",83105,"col","Kazan",49.33,57.47,"Bikovo Village, Vyatka River",NA,"",6,"Roadian","",272.3,268.8,27323,"gp_mid",44.3,28.59,"302",270.55,"roadian",13729,30.4002,40.8403,54,1
+"54477",83180,"col","Lightjack",123.87,-17.9,"BMR 1027A, Liveringa Ridge",NA,"",1,"Roadian","",272.3,268.8,27336,"gp_mid",108.24,-56.92,"801",270.55,"roadian",13764,113.1793,-39.9041,54,1
+"54478",83181,"col","Lightjack",124.05,-18.08,"BMR 1095, Liveringa Ridge",NA,"",1,"Roadian","",272.3,268.8,27336,"gp_mid",108.46,-57.13,"801",270.55,"roadian",13765,113.1793,-39.9041,54,1
 "54537",83268,"col","Lightjack",126,-19.16,"BMR CR1133, Canning Basin",NA,"",1,"Roadian","",272.3,268.8,27301,"gp_mid",111.28,-58.66,"801",270.55,"roadian",13802,117.1058,-43.1006,54,1
+"55477",84593,"col","Lightjack",124.15,-18.05,"BMR KLA3, Liveringa Homestead",NA,"",1,"Roadian","",272.3,268.8,27336,"gp_mid",108.64,-57.13,"801",270.55,"roadian",14128,113.1793,-39.9041,54,1
 "55487",84603,"col","Lightjack",125.56,-18.97,"BMR KLD64, Shore Range",NA,"",5,"Roadian","",272.3,268.8,27553,"gp_mid",110.6,-58.37,"801",270.55,"roadian",14133,112.4224,-42.3382,54,1
 "55488",84604,"col","Lightjack",125.56,-18.97,"BMR KLD65, Shore Range",NA,"",4,"Roadian","",272.3,268.8,27553,"gp_mid",110.6,-58.37,"801",270.55,"roadian",14133,112.4224,-42.3382,54,1
 "56141",85431,"col","Qingtoushan",97.74,39.7,"Dashankou locality",NA,"Qingtoushan",10,"Roadian","",272.3,268.8,28776,"gp_mid",109.15,26.65,"604",270.55,"roadian",14366,104.1239,39.6978,54,1
@@ -298,22 +308,29 @@
 "59362",90234,"col","Assistance",-108.6,75.82,"GSC C-1930, St. Arnaud Hils, Sabine Peninsula, Melville Island",NA,"",3,"Roadian","",272.3,268.8,29760,"gp_mid",-0.69,40.81,"106",270.55,"roadian",15486,-20.791,39.3694,54,1
 "59407",90286,"col","Akasaka",136.58,35.4,"Kinshozan quarry, Parafusulina zone, Akasaka, Gifu Prefecture",NA,"",8,"Roadian","",272.3,268.8,30307,"gp_mid",133.4,8.67,"610",270.55,"roadian",8072,157.2717,21.3219,54,1
 "59408",90287,"col","Concha",-110.75,31.75,"Fish Canyon Road, Santa Cruz County",NA,"",1,"Roadian","",272.3,268.8,30309,"gp_mid",-36.59,8.51,"101",270.55,"roadian",15519,-48.1953,5.273,54,1
+"59452",90388,"col","Branxton",151.35,-32.66,"Branxton railway cutting",NA,"",2,"Roadian","",272.3,268.8,30369,"gp_mid",169.78,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"59453",90389,"col","Branxton",151.34,-32.66,"Branxton west railway cutting",NA,"",7,"Roadian","",272.3,268.8,30369,"gp_mid",169.74,-70.41,"801",270.55,"roadian",15549,147.1081,-57.5171,54,1
+"59455",90393,"col","Branxton",151.26,-32.65,"Belford Parish, Portion 15",NA,"",10,"Roadian","",272.3,268.8,30371,"gp_mid",169.58,-70.44,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
 "59807",91019,"col","Bone Spring Limestone",-104.58,31.45,"US Hwy 62-180, NE of TX Hwy 54, Culberson [Bone Spring Lmst]",NA,"",7,"Roadian","",272.3,268.8,30620,"gp_mid",-32.33,5.39,"101",270.55,"roadian",15697,-42.7041,3.0692,54,1
+"62847",94835,"col","Kazan",54.91,53.83,"Abishevo, Dema River",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",49.67,27.72,"302",270.55,"roadian",13273,35.9944,43.3625,54,1
 "62848",94836,"col","Kocherginskaya",55.15,71.9,"Abrosimova River, Outcrop 3040-1, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,29169,"gp_mid",34.55,40.85,"302",270.55,"roadian",15255,14.1436,51.8779,54,1
 "62896",94884,"col","Kaibab",-109.35,34.43,"AMNH1067, Little Colorado River canyon",NA,"",9,"Roadian","",272.3,268.8,15625,"gp_mid",-34.07,10.07,"101",270.55,"roadian",16604,-44.3039,6.262,54,1
 "62898",94886,"col","San Andres",-104.45,32.8,"AMNH2079, Artesia",NA,"",1,"Roadian","",272.3,268.8,11474,"gp_mid",-31.51,6.48,"101",270.55,"roadian",16606,-42.7041,3.0692,54,1
 "63019",95007,"col","Gerkinskaya",55.7,71.55,"Bezdekodnyy Gulf, Listvenichnaya River, Outcrop 15146, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,29169,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "63020",95008,"col","Kocherginskaya",55.7,71.55,"Bezdekodnyy Gulf, Savina River, Outcrop 15079, Novaya Zemlya",NA,"",2,"Roadian","",272.3,268.8,29169,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "63049",95043,"col","Phosphoria",-113.21,41.33,"USGS 19020-PC, Terrace Mountains",NA,"",1,"Roadian","",272.3,268.8,32370,"gp_mid",-32.5,17.45,"101",270.55,"roadian",16647,-43.0284,14.6896,54,1
+"63273",95261,"col","Dashizhai",120.46,45.3,"Chandadui west, Huanghetu, Wulan Hada, Jarud Qi",NA,"",2,"Roadian","",272.3,268.8,32423,"gp_mid",129.87,31.83,"628",270.55,"roadian",16714,134.8012,45.8868,54,1
 "63279",95267,"col","Kufeng",120,31,"Changxing County, Kufeng Formation",NA,"",1,"Roadian","",272.3,268.8,31757,"gp_mid",124.29,-3.33,"611",270.55,"roadian",16719,138.5024,14.0627,54,1
 "63283",95271,"col","Kazan",50.33,59,"Chernopenevo, Kirov Region",NA,"",1,"Roadian","",272.3,268.8,27323,"gp_mid",43.69,30.12,"302",270.55,"roadian",16723,27.4584,42.0175,54,1
 "63284",95272,"col","Kazan",46.4,67.82,"Cheshskoy Bay, Sample 159, Kanin Peninsula",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",35.41,35.83,"302",270.55,"roadian",15253,17.2377,43.728,54,1
 "63285",95273,"col","Savinskaya",55.7,71.55,"Chetvertaya creek, Savina river, outcrop 14015, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,29169,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "63286",95274,"col","Savinskaya",55.7,71.55,"Chetvertaya creek, Savina river, outcrop 14015-1, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,29169,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
+"63372",95359,"col","Branxton",151.3,-32.97,"Congewai Parish, Portion 26",NA,"",2,"Roadian","",272.3,268.8,32346,"gp_mid",170.11,-70.7,"801",270.55,"roadian",16738,147.1081,-57.5171,54,1
 "63651",95653,"col","Antiinsky",116.85,49.93,"Dal'niy Daur, Transbaikal",NA,"",13,"Roadian","",272.3,268.8,31797,"gp_mid",128.72,36.96,"628",270.55,"roadian",16844,135.0186,51.311,54,1
 "63756",95761,"col","Antiinsky",116.85,49.93,"Dauriya, Transbaikal",NA,"",1,"Roadian","",272.3,268.8,31797,"gp_mid",128.72,36.96,"628",270.55,"roadian",16844,135.0186,51.311,54,1
 "63926",95941,"col","Maokou",105.52,26.1,"Kuzhulin, Liuzhi County",NA,"",1,"Roadian","",272.3,268.8,32576,"gp_mid",118.35,-15.63,"611",270.55,"roadian",16948,127.285,5.1432,54,1
 "63940",95955,"col","Maokou",107.04,25.53,"Pingyan, Lower Maokou Fm, Luodian",NA,"",1,"Roadian","",272.3,268.8,32576,"gp_mid",119.82,-15.18,"611",270.55,"roadian",16959,130.5614,6.1016,54,1
+"64398",96748,"col","Kazan",54.76,53.83,"Dema River, 2 km downstream from Nikiforovo, Bashkortostan",NA,"",1,"Roadian","",272.3,268.8,27328,"gp_mid",49.59,27.66,"302",270.55,"roadian",17084,35.9944,43.3625,54,1
 "64400",96750,"col","Kazan",48.83,57.35,"Denesyato Village, Gremetska Creek, Kirov Region",NA,"",11,"Roadian","",272.3,268.8,46653,"gp_mid",44.14,28.33,"302",270.55,"roadian",17086,30.4002,40.8403,54,1
 "64474",96860,"col","",43.62,65.6,"Soyana (Iva Gora, PIN collection 94)",NA,"",86,"Roadian","",272.3,268.8,33065,"gp_mid",36.04,33.41,"302",270.55,"roadian",17116,20.3569,42.6876,54,1
 "64542",97008,"col","Kazan",43.5,66.05,"Dolgoshchel'ye Village, Kuloy River, Arkhangel Region",NA,"",13,"Roadian","",272.3,268.8,29975,"gp_mid",35.67,33.74,"302",270.55,"roadian",17140,20.3569,42.6876,54,1
@@ -322,6 +339,8 @@
 "64545",97011,"col","Kazan",43.5,66.05,"Dolgoshchel'ye Village, Section 8, Unit 22, Kuloy River, Arkhangel Region",NA,"",1,"Roadian","",272.3,268.8,27318,"gp_mid",35.67,33.74,"302",270.55,"roadian",17140,20.3569,42.6876,54,1
 "64792",97265,"col","Wandrawandian",150.45,-35.4,"DP1, Dolphin Point, Ulladulla",NA,"",3,"Roadian","",272.3,268.8,18569,"gp_mid",172.05,-73.16,"801",270.55,"roadian",17189,147.2677,-60.0158,54,1
 "64793",97266,"col","Wandrawandian",150.45,-35.4,"DP2, Dolphin Point, Ulladulla",NA,"",5,"Roadian","",272.3,268.8,18569,"gp_mid",172.05,-73.16,"801",270.55,"roadian",17189,147.2677,-60.0158,54,1
+"64801",97274,"col","Lightjack",124.57,-18.13,"Duchess Ridge, Fitzroy Basin",NA,"",1,"Roadian","",272.3,268.8,27840,"gp_mid",109.3,-57.32,"801",270.55,"roadian",17195,113.1793,-39.9041,54,1
+"65349",98080,"col","Snapper Point",149.98,-32.78,"Rylstone",NA,"",6,"Roadian","",272.3,268.8,15909,"gp_mid",166.84,-71.05,"801",270.55,"roadian",17381,147.1081,-57.5171,54,1
 "66767",99776,"col","Jamal",56.78,33.97,"Kuh-e-Shesh Angosht 66HF106, Bed 8",NA,"",1,"Roadian","",272.3,268.8,29925,"gp_mid",60.78,-17.2,"505",270.55,"roadian",17900,49.4881,-17.3803,54,1
 "66768",99777,"col","Jamal",56.78,33.97,"Kuh-e-Shesh Angosht 66HF107, Bed above-8",NA,"",1,"Roadian","",272.3,268.8,29925,"gp_mid",60.78,-17.2,"505",270.55,"roadian",17900,49.4881,-17.3803,54,1
 "66777",99786,"col","Jamal",57.3,33.37,"Kuh-e-Jamal 63JS63, Bed 4",NA,"",4,"Roadian","",272.3,268.8,29925,"gp_mid",61.26,-17.77,"505",270.55,"roadian",17904,49.1481,-19.8595,54,1
@@ -456,6 +475,7 @@
 "68843",102615,"col","Road",-103.27,30.36,"USNM721z, Gilliland Canyon, Glass Mountains",NA,"",50,"Roadian","",272.3,268.8,11454,"gp_mid",-31.93,3.87,"101",270.55,"roadian",18772,-43.2986,0.4326,54,1
 "68844",102616,"col","Road",-103.27,30.35,"USNM721x, Gilliland Canyon, Glass Mountains",NA,"",45,"Roadian","",272.3,268.8,11454,"gp_mid",-31.93,3.86,"101",270.55,"roadian",18773,-43.2986,0.4326,54,1
 "68849",102621,"col","Road Canyon",-103.44,30.22,"USNM736x, Dugout Mountain, Glass Mountains",NA,"",58,"Roadian","",272.3,268.8,11454,"gp_mid",-32.13,3.83,"101",270.55,"roadian",18779,-43.2986,0.4326,54,1
+"69029",102915,"col","Elderslie",151.5,-32.68,"UNE L1171, Lochnivar Anticline",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.13,-70.36,"801",270.55,"roadian",18820,147.1081,-57.5171,54,1
 "69030",102916,"col","Snapper Point",150.44,-35.22,"Egan's Hill, Conjola",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",171.71,-73.01,"801",270.55,"roadian",18821,147.2677,-60.0158,54,1
 "69031",102917,"col","Snapper Point",150.4,-34.88,"Grassy Gully Head, Yalwal",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",171,-72.73,"801",270.55,"roadian",18822,147.2677,-60.0158,54,1
 "69127",103106,"col","",148.3,-25.33,"Eddystone 1 well, interval B, 830.3-854.9 m depth",NA,"",3,"Roadian","",272.3,268.8,34854,"gp_mid",155.9,-64.64,"801",270.55,"roadian",18875,146.7366,-50.0203,54,1
@@ -463,16 +483,56 @@
 "69483",103565,"col","Khao Khad",100.88,14.79,"Erawan Hill",NA,"",44,"Roadian","",272.3,268.8,72123,"gp_mid",121.73,-28.23,"615",270.55,"roadian",19032,122.2544,-10.7514,54,1
 "69486",103568,"col","Snapper Point",150.4,-35.55,"Kioloa, Illawarra Shelf",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",172.2,-73.31,"801",270.55,"roadian",19034,147.2677,-60.0158,54,1
 "69487",103569,"col","Snapper Point",150.41,-35.42,"Lagoon Head, Ulladulla",NA,"",3,"Roadian","",272.3,268.8,23110,"gp_mid",172,-73.19,"801",270.55,"roadian",19035,147.2677,-60.0158,54,1
+"69489",103571,"col","Snapper Point",149.97,-32.79,"Rylstone (1 mile N of railway station)",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",166.83,-71.05,"801",270.55,"roadian",19036,147.1081,-57.5171,54,1
+"69490",103572,"col","Snapper Point",149.99,-32.83,"Rylstone (2 miles S)",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",166.93,-71.08,"801",270.55,"roadian",19037,147.1081,-57.5171,54,1
+"69491",103573,"col","Snapper Point",149.98,-32.79,"Rylstone (3/4 miles N)",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",166.84,-71.05,"801",270.55,"roadian",19038,147.1081,-57.5171,54,1
+"69576",103660,"col","Elderslie",151.38,-32.88,"UNE L1012, Kitchener-Abernethy Road",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.16,-70.59,"801",270.55,"roadian",19090,147.1081,-57.5171,54,1
+"69577",103661,"col","Elderslie",151.36,-32.87,"UNE L1013, Quorrobolong Road, Kitchener",NA,"",4,"Roadian","",272.3,268.8,36711,"gp_mid",170.09,-70.58,"801",270.55,"roadian",19091,147.1081,-57.5171,54,1
+"69578",103662,"col","Branxton",151.36,-32.87,"UNE L1016, Quorrobolong Road, Kitchener",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.1,-70.59,"801",270.55,"roadian",19091,147.1081,-57.5171,54,1
+"69579",103663,"col","Elderslie",151.38,-32.88,"UNE L1018, Kitchener-Abernethy Road",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.16,-70.59,"801",270.55,"roadian",19090,147.1081,-57.5171,54,1
+"69581",103665,"col","Branxton",151.2,-32.87,"UNE L1028, Cedar Creek",NA,"",5,"Roadian","",272.3,268.8,36711,"gp_mid",169.73,-70.65,"801",270.55,"roadian",19093,147.1081,-57.5171,54,1
 "69586",103670,"col","Snapper Point",150.39,-34.92,"UNE L1044, Elyard Hill, Yalwal",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",171.07,-72.77,"801",270.55,"roadian",19097,147.2677,-60.0158,54,1
 "69592",103676,"col","Snapper Point",150.24,-34.14,"UNE L1046, Yerranderie Road, Burragorang Valley",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.44,-72.15,"801",270.55,"roadian",19100,147.2677,-60.0158,54,1
+"69609",103693,"col","Elderslie",151.24,-32.88,"UNE L1148, Millfield-Mount View Road",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.84,-70.64,"801",270.55,"roadian",19107,147.1081,-57.5171,54,1
+"69611",103695,"col","Branxton",151.26,-32.65,"UNE L1159, Belford",NA,"",4,"Roadian","",272.3,268.8,27930,"gp_mid",169.58,-70.44,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
+"69619",103703,"col","Bickham",150.84,-31.75,"UNE L1211, Burning Mountain, Murrurundi",NA,"",4,"Roadian","",272.3,268.8,27930,"gp_mid",167.41,-69.8,"801",270.55,"roadian",19110,147.1081,-57.5171,54,1
+"69620",103704,"col","Bickham",150.84,-31.75,"UNE L1212, Burning Mountain, Murrurundi",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",167.41,-69.8,"801",270.55,"roadian",19110,147.1081,-57.5171,54,1
+"69621",103705,"col","Elderslie",151.45,-32.88,"UNE L1228, Cessnock-Mulbring Road",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",170.3,-70.56,"801",270.55,"roadian",19111,147.1081,-57.5171,54,1
+"69622",103706,"col","Belford",151.17,-32.51,"UNE L1236, Wattle Ponds Creek",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"69625",103709,"col","Branxton",151.59,-32.74,"UNE L1243, West Maitland Abbatoir",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.41,-70.39,"801",270.55,"roadian",19115,147.1081,-57.5171,54,1
+"69638",103723,"col","Branxton",151.4,-32.89,"UNE L1358, Pinnacle Road",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"69656",103750,"col","Branxton",151.45,-32.88,"UNE L666, Cessnock-Mulbring Road Quarry",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",170.3,-70.56,"801",270.55,"roadian",19111,147.1081,-57.5171,54,1
+"69657",103751,"col","",149.93,-32.7,"UNE L675, Mudgee-Rylstone Road, Lue Railway Station",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",166.61,-70.99,"801",270.55,"roadian",19140,147.1081,-57.5171,54,1
+"69685",103779,"col","Branxton",151.79,-32.72,"UNE L846, Pacific Highway, Raymond Terrace",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",170.82,-70.29,"801",270.55,"roadian",19162,147.1081,-57.5171,54,1
+"69686",103780,"col","Branxton",151.78,-32.74,"UNE L847, Pacific Highway, Raymond Terrace",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",170.82,-70.3,"801",270.55,"roadian",19163,147.1081,-57.5171,54,1
+"69687",103782,"col","Branxton",151.75,-32.75,"UNE L849, Williams River, Raymond Terrace",NA,"",4,"Roadian","",272.3,268.8,36711,"gp_mid",170.78,-70.32,"801",270.55,"roadian",19164,147.1081,-57.5171,54,1
 "69698",103835,"col","Wandrawandian",150.55,-35.21,"UNE L887, Berrara",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",171.96,-72.95,"801",270.55,"roadian",19172,147.2677,-60.0158,54,1
 "69700",103837,"col","Wandrawandian",150.78,-34.96,"UNE L890, Kinghorn Head",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",172.07,-72.64,"801",270.55,"roadian",19174,147.2677,-60.0158,54,1
+"69701",103838,"col","Elderslie",151.36,-32.67,"UNE L906, Rail Cutting, Branxton-Cessnock Road",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",169.8,-70.41,"801",270.55,"roadian",19175,147.1081,-57.5171,54,1
+"69702",103839,"col","Branxton",151.34,-32.66,"UNE L909, Branxton Station",NA,"",6,"Roadian","",272.3,268.8,36711,"gp_mid",169.75,-70.41,"801",270.55,"roadian",15549,147.1081,-57.5171,54,1
 "69706",103843,"col","Snapper Point",150.41,-34.87,"UNE L928, Durkin Spur, Burrier",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",171.02,-72.71,"801",270.55,"roadian",19178,147.2677,-60.0158,54,1
 "69715",103852,"col","Wandrawandian",150.61,-35.12,"UNE L962, Macleans Point, St Georges Basin East",NA,"",3,"Roadian","",272.3,268.8,27370,"gp_mid",171.94,-72.84,"801",270.55,"roadian",19183,147.2677,-60.0158,54,1
 "69716",103853,"col","Wandrawandian",150.78,-35.03,"UNE L964, Montague Point, Beecroft Peninsula",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",172.17,-72.7,"801",270.55,"roadian",19184,147.2677,-60.0158,54,1
+"69720",103857,"col","Branxton",151.47,-32.9,"UQ L1124, Mount Hector, Mulbring",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",170.38,-70.57,"801",270.55,"roadian",19187,147.1081,-57.5171,54,1
+"69723",103860,"col","Branxton",151.26,-32.65,"UQ L1276, Belford Dome",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.56,-70.43,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
+"69739",103876,"col","Branxton",151.46,-32.9,"UQ L1430, Birch's Quarry, Mount Hector, Mulbring",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",170.37,-70.57,"801",270.55,"roadian",19195,147.1081,-57.5171,54,1
 "69837",103996,"col","Wandrawandian",150.49,-35.37,"UQ L2787, Warden Head, Ulladulla",NA,"",2,"Roadian","",272.3,268.8,39464,"gp_mid",172.09,-73.11,"801",270.55,"roadian",4531,147.2677,-60.0158,54,1
 "69883",104716,"col","Iva-Gora Beds",43.67,65.55,"Soyana (PIN collection 117)",NA,"",115,"Roadian","",272.3,268.8,37611,"gp_mid",36.09,33.38,"302",270.55,"roadian",5272,20.3569,42.6876,54,1
 "69889",104721,"col","Rhyolite Range beds",151.01,-28.35,"UQ L3530, Silverwood Dam Road",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",163.94,-66.65,"801",270.55,"roadian",19266,146.8462,-52.5194,54,1
+"69949",104787,"col","Elderslie",151.26,-32.65,"UQ L5120, Belford",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.56,-70.43,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
+"69950",104788,"col","Elderslie",151.26,-32.65,"UQ L5121, Belford",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.56,-70.43,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
+"69951",104789,"col","Elderslie",151.37,-32.66,"UQ L5122, Redhouse Creek",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.8,-70.4,"801",270.55,"roadian",19283,147.1081,-57.5171,54,1
+"69952",104790,"col","Elderslie",151.35,-32.66,"UQ L5123, Branxton Railway Station",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.77,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"69953",104791,"col","Elderslie",151.47,-32.89,"UQ L5124, Kurri Kurri-Mulbring Road",NA,"",3,"Roadian","",272.3,268.8,27370,"gp_mid",170.37,-70.56,"801",270.55,"roadian",19284,147.1081,-57.5171,54,1
+"69954",104792,"col","Elderslie",151.26,-32.65,"UQ L5126, Belford",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.56,-70.43,"801",270.55,"roadian",15550,147.1081,-57.5171,54,1
+"69981",104829,"col","Elderslie",151.27,-32.85,"UQ L5127, Cedar Creek",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.88,-70.61,"801",270.55,"roadian",19306,147.1081,-57.5171,54,1
+"69982",104830,"col","Branxton",151.43,-32.87,"UQ L5128, Mulbring Quarry",NA,"",4,"Roadian","",272.3,268.8,27370,"gp_mid",170.25,-70.56,"801",270.55,"roadian",19307,147.1081,-57.5171,54,1
+"69983",104831,"col","Branxton",151.35,-32.66,"UQ L5129, Branxton",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.78,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"69984",104832,"col","Branxton",151.53,-32.71,"UQ L5131, Rutherford Hotel",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",170.24,-70.38,"801",270.55,"roadian",19308,147.1081,-57.5171,54,1
+"69985",104833,"col","Branxton",151.27,-32.85,"UQ L5133, Cedar Creek",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",169.88,-70.61,"801",270.55,"roadian",19306,147.1081,-57.5171,54,1
+"69986",104834,"col","Branxton",151.27,-32.63,"UQ L5134, Jump-Up Creek",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",169.55,-70.41,"801",270.55,"roadian",19309,147.1081,-57.5171,54,1
+"69987",104835,"col","Branxton",151.27,-32.63,"UQ L5135, Jump-up Creek",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",169.55,-70.41,"801",270.55,"roadian",19309,147.1081,-57.5171,54,1
+"69988",104836,"col","Branxton",151.27,-32.63,"UQ L5136, Jump-up Creek",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",169.55,-70.41,"801",270.55,"roadian",19309,147.1081,-57.5171,54,1
 "70004",104852,"col","Wandrawandian",150.48,-35.37,"UQ L5156, Warden Head, Ulladulla",NA,"",3,"Roadian","",272.3,268.8,27370,"gp_mid",172.06,-73.11,"801",270.55,"roadian",19313,147.2677,-60.0158,54,1
 "70005",104853,"col","Wandrawandian",150.49,-35.37,"UQ L5157, Warden Head, Ulladulla",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",172.09,-73.11,"801",270.55,"roadian",4531,147.2677,-60.0158,54,1
 "70006",104854,"col","Wandrawandian",150.48,-35.35,"UQ L5158, North Head, Ulladulla",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",172.03,-73.1,"801",270.55,"roadian",5388,147.2677,-60.0158,54,1
@@ -578,6 +638,10 @@
 "71126",106154,"col","Road Canyon",-103.46,30.23,"USNM737r, Sierra del Norte, Glass Mountains",NA,"",2,"Roadian","",272.3,268.8,11454,"gp_mid",-32.14,3.84,"101",270.55,"roadian",19780,-43.2986,0.4326,54,1
 "71131",106159,"col","Road Canyon",-103.45,30.2,"USNM737y, Sierra del Norte, Glass Mountains",NA,"",5,"Roadian","",272.3,268.8,11454,"gp_mid",-32.15,3.81,"101",270.55,"roadian",12403,-43.2986,0.4326,54,1
 "71132",106160,"col","Word",-103.45,30.2,"USNM737z, Sierra del Norte, Glass Mountains",NA,"",2,"Roadian","",272.3,268.8,11454,"gp_mid",-32.15,3.81,"101",270.55,"roadian",12403,-43.2986,0.4326,54,1
+"71447",106676,"col","Branxton",151.46,-32.9,"Mulbring, Portion 126",NA,"",9,"Roadian","",272.3,268.8,30369,"gp_mid",170.37,-70.57,"801",270.55,"roadian",19195,147.1081,-57.5171,54,1
+"71449",106678,"col","Branxton",151.51,-32.72,"Stony Creek railway cutting",NA,"",1,"Roadian","",272.3,268.8,30369,"gp_mid",170.22,-70.4,"801",270.55,"roadian",19883,147.1081,-57.5171,54,1
+"71455",106684,"col","Elderslie",151.37,-32.87,"Kitchener's Hill, Cessnock",NA,"",2,"Roadian","",272.3,268.8,32346,"gp_mid",170.11,-70.59,"801",270.55,"roadian",19887,147.1081,-57.5171,54,1
+"71456",106685,"col","Belford",151.17,-32.51,"Wattle Ponds Creek, Darlington Parish",NA,"",1,"Roadian","",272.3,268.8,32346,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
 "72147",107627,"col","Bajtugan",42.88,62.8,"Shidrovo Village, Vaga River",NA,"",5,"Roadian","",272.3,268.8,33482,"gp_mid",37.68,30.96,"302",270.55,"roadian",20108,22.2613,40.0508,54,1
 "72199",107690,"col","Surmaq",53.22,30.91,"Kuh-e Hambast, upper Neoschwagerina margaritae zone, Abadeh",NA,"",10,"Roadian","",272.3,268.8,25613,"gp_mid",55.22,-18.6,"512",270.55,"roadian",13271,47.0677,-22.4991,54,1
 "72200",107691,"col","Surmaq",53.22,30.91,"Kuh-e Hambast, uppermost Neoschwagerina margaritae zone, Abadeh",NA,"",4,"Roadian","",272.3,268.8,25613,"gp_mid",55.22,-18.6,"512",270.55,"roadian",13271,47.0677,-22.4991,54,1
@@ -698,7 +762,9 @@
 "74220",109969,"col","Kocherginskaya",55.7,71.55,"Vtoraya Savina River, Collection 4084, Novaya Zemlya",NA,"",2,"Roadian","",272.3,268.8,27332,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "74221",109970,"col","Gerkinskaya",55.7,71.55,"Savina-Abrosimova Interfluve, Sample 16069, Novaya Zemlya",NA,"",2,"Roadian","",272.3,268.8,27332,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "74222",109971,"col","Gerkinskaya",55.7,71.55,"Vezdekhodniy Creek, Savina River, Sample 3118, Novaya Zemlya",NA,"",3,"Roadian","",272.3,268.8,27332,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
+"74225",109974,"col","Kazan",54,65,"Elva Vimskaya River, Outcrop 35, bed 6",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",40.52,35.76,"302",270.55,"roadian",20819,22.071,45.6071,54,1
 "74229",109978,"col","Kazan",43.98,64.55,"Ezhuga Pinezhskaya River, Section 41",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",36.93,32.66,"302",270.55,"roadian",13686,20.3569,42.6876,54,1
+"74230",109979,"col","Kazan",54,65,"Elva Vimskaya River, Outcrop 35, bed 7",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",40.52,35.76,"302",270.55,"roadian",20819,22.071,45.6071,54,1
 "74243",109992,"col","Kazan",44.95,68.1,"Kanin Peninsula, Well 26, 275 m, sample 81",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",34.67,35.7,"302",270.55,"roadian",20827,17.2377,43.728,54,1
 "74244",109993,"col","Kazan",45.7,67.75,"Kanin Peninsula, Well 36, Layer 61",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",35.21,35.61,"302",270.55,"roadian",20828,17.2377,43.728,54,1
 "74284",110033,"col","Kazan",44,66,"Mezen' River, Section 96a, Bed 3",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",35.9,33.82,"302",270.55,"roadian",20839,20.3569,42.6876,54,1
@@ -707,6 +773,7 @@
 "74290",110039,"col","Kazan",45.75,67.75,"Nodtei Cape, Well 1, 198.1m",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",35.23,35.62,"302",270.55,"roadian",20842,17.2377,43.728,54,1
 "74306",110055,"col","Kazan",47.85,67,"Prishchatinitsa River, Bed 2098",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",36.59,35.56,"302",270.55,"roadian",20852,17.9914,45.0579,54,1
 "74307",110056,"col","Kazan",48.9,65.6,"Rochuga River, Western Pretiman",NA,"",2,"Roadian","",272.3,268.8,27342,"gp_mid",38.09,34.77,"302",270.55,"roadian",20853,21.2531,44.1323,54,1
+"74316",110065,"col","Kazan",55.83,62.55,"Soiva River, Section 56, Bed 10, Western Pretiman",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",43.31,34.55,"302",270.55,"roadian",20857,26.263,46.3178,54,1
 "74318",110067,"col","Kazan",43.62,65.6,"Soyana River, outcrop 56",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",36.04,33.41,"302",270.55,"roadian",17116,20.3569,42.6876,54,1
 "74319",110068,"col","Kazan",43.62,65.6,"Soyana River, outcrop 56, sample 968",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",36.04,33.41,"302",270.55,"roadian",17116,20.3569,42.6876,54,1
 "74382",110144,"col","",51.15,63.1,"Vimi River, northern Russian Platform",NA,"",1,"Roadian","",272.3,268.8,27342,"gp_mid",40.95,33.52,"302",270.55,"roadian",20890,25.3759,44.702,54,1
@@ -740,6 +807,11 @@
 "75431",111240,"col","Kazan",49.08,57.47,"Kremeshki Quarry, Sovetsk, Kirov Region",NA,"",21,"Roadian","",272.3,268.8,27492,"gp_mid",44.18,28.51,"302",270.55,"roadian",7477,30.4002,40.8403,54,1
 "76301",112484,"col","Vladivostok",131.9,43.2,"Kaluzina Point, upper Vladivostok Horizon, Vladivostok Mountain, Primorye",NA,"",1,"Roadian","",272.3,268.8,27678,"gp_mid",138.42,27.75,"628",270.55,"roadian",21338,145.3399,39.4736,54,1
 "76470",112678,"col","Dashizhai",117.55,43.55,"Huanggangliang, Dashizhai Fm, Keshenketeng",NA,"",1,"Roadian","",272.3,268.8,32360,"gp_mid",126.96,30.73,"628",270.55,"roadian",21380,129.8022,44.7745,54,1
+"76476",112684,"col","Dashizhai",119.09,44.33,"Sifangcheng, Bairin Zuoqi",NA,"",5,"Roadian","",272.3,268.8,32360,"gp_mid",128.46,31.16,"628",270.55,"roadian",21383,134.8012,45.8868,54,1
+"76480",112688,"col","Dashizhai",118.25,43.94,"Xinglongzhuang, Dashizhai Fm, Wushijiazi Gongshe, Linxi County",NA,"",1,"Roadian","",272.3,268.8,32360,"gp_mid",127.66,30.96,"628",270.55,"roadian",21385,134.8012,45.8868,54,1
+"76481",112689,"col","Yuquan",118.25,43.94,"Xinglongzhuang, Yuquan Fm, Wushijiazi Gongshe, Linxi County",NA,"",1,"Roadian","",272.3,268.8,32360,"gp_mid",127.66,30.96,"628",270.55,"roadian",21385,134.8012,45.8868,54,1
+"76482",112690,"col","Dashizhai",119.62,43.75,"Yindongzi, Dashizhai Fm, Chaoyangwang Gongshe, Bailinyouqi",NA,"",4,"Roadian","",272.3,268.8,32360,"gp_mid",128.7,30.5,"628",270.55,"roadian",21386,134.8012,45.8868,54,1
+"76630",112844,"col","Ranger Canyon",-115.65,51.1,"Banff, Sections 59, 60",NA,"",1,"Roadian","",272.3,268.8,29688,"gp_mid",-27.33,26.13,"101",270.55,"roadian",21426,-40.9918,22.3845,54,1
 "76643",112857,"col","Assistance",-107.9,75.97,"GSC 37161, Tingmisut Lake, Sabine Peninsula, Melville Island",NA,"",2,"Roadian","",272.3,268.8,33744,"gp_mid",-0.4,40.73,"106",270.55,"roadian",21433,-20.791,39.3694,54,1
 "76665",112880,"col","Surmaq",52.88,31.06,"Surmaq NR section, horizon P2, Abadeh",NA,"",2,"Roadian","",272.3,268.8,36709,"gp_mid",54.97,-18.39,"512",270.55,"roadian",21440,47.0677,-22.4991,54,1
 "76666",112881,"col","Surmaq",52.88,31.06,"Surmaq NR section, horizon P4, Abadeh",NA,"",2,"Roadian","",272.3,268.8,36709,"gp_mid",54.97,-18.39,"512",270.55,"roadian",21440,47.0677,-22.4991,54,1
@@ -782,6 +854,14 @@
 "76735",112951,"col","Uldza",110.3,47.1,"Tsagan Temete, Terrakea arguta zone (unit 5), Burin-Khan-Obo Mountain Area",NA,"",5,"Roadian","",272.3,268.8,38731,"gp_mid",122.49,35.69,"628",270.55,"roadian",18458,126.1428,51.4658,54,1
 "76764",112980,"col","Gymnocodiacean Limestones",26.13,38.53,"Marmaron Bay, Bed CC100, Unit 2, Chios",NA,"",10,"Roadian","",272.3,268.8,25502,"gp_mid",39.35,8.2,"510",270.55,"roadian",8811,22.6824,-4.3027,54,1
 "76765",112981,"col","Gymnocodiacean Limestones",26.13,38.53,"Marmaron Bay, Bed CC123, Unit 3, Chios",NA,"",7,"Roadian","",272.3,268.8,25502,"gp_mid",39.35,8.2,"510",270.55,"roadian",8811,22.6824,-4.3027,54,1
+"76770",112986,"col","Belford",151.17,-32.51,"UNE L1233, southern tributary of Wattle Ponds Creek",NA,"",1,"Roadian","",272.3,268.8,27930,"gp_mid",169.17,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"76771",112987,"col","Belford",151.17,-32.51,"UNE L1234, Wattle Ponds Creek",NA,"",1,"Roadian","",272.3,268.8,27930,"gp_mid",169.17,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"76772",112988,"col","Belford",151.17,-32.51,"UNE L1235, Wattle Ponds Creek",NA,"",2,"Roadian","",272.3,268.8,27930,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"76773",112989,"col","Elderslie",151.58,-32.68,"UNE L1353, Rosebrook road bridge",NA,"",4,"Roadian","",272.3,268.8,27930,"gp_mid",170.31,-70.33,"801",270.55,"roadian",21452,147.1081,-57.5171,54,1
+"76776",112992,"col","Elderslie",151.36,-32.67,"UNE L905, Rail Cutting, Branxton-Cessnock Road",NA,"",4,"Roadian","",272.3,268.8,27930,"gp_mid",169.8,-70.41,"801",270.55,"roadian",19175,147.1081,-57.5171,54,1
+"76779",112995,"col","Belford",151.26,-32.97,"UNE L979, Congewai Road",NA,"",1,"Roadian","",272.3,268.8,27930,"gp_mid",170.02,-70.71,"801",270.55,"roadian",21456,147.1081,-57.5171,54,1
+"76781",112997,"col","Belford",151.3,-32.67,"UQ L3269, Railway cut west of Pothana Siding",NA,"",1,"Roadian","",272.3,268.8,27930,"gp_mid",169.67,-70.43,"801",270.55,"roadian",21458,147.1081,-57.5171,54,1
+"76782",112998,"col","Bickham",150.89,-31.9,"UNE L354, Burning Mountain, Portion 359, Parish Wingen",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",167.72,-69.91,"801",270.55,"roadian",21459,147.1081,-57.5171,54,1
 "76828",113055,"col","Meade Peak",-111.24,42.33,"Montpelier Canyon, N side of Hwy 89 5.3 km E of Montpelier",NA,"",1,"Roadian","",272.3,268.8,27851,"gp_mid",-30.64,17.38,"101",270.55,"roadian",21475,-43.0284,14.6896,54,1
 "76829",113056,"col","Meade Peak",-111.02,42.28,"Raymond Canyon, Goniatite beds, Sublette Range, Lincoln County",NA,"",7,"Roadian","",272.3,268.8,27851,"gp_mid",-30.54,17.24,"101",270.55,"roadian",19477,-43.0284,14.6896,54,1
 "76831",113058,"col","Park City",-111.47,40.17,"Hobble Creek Canyon, Right Fork, Wasatch County",NA,"",2,"Roadian","",272.3,268.8,33178,"gp_mid",-32.11,15.74,"101",270.55,"roadian",21477,-44.3666,12.5545,54,1
@@ -939,6 +1019,7 @@
 "79076",116063,"col","Akasaka",136.58,35.4,"Kasumi Quarry, Kinshozan, Akasaka, Gifu Prefecture",NA,"",1,"Roadian","",272.3,268.8,33640,"gp_mid",133.4,8.67,"610",270.55,"roadian",8072,157.2717,21.3219,54,1
 "79077",116064,"col","Savinskaya",55.7,71.55,"Savina River, Savinskaya Formation, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,29972,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "79091",116127,"col","Iva-Gora Beds",43.67,65.55,"Soyana ( VSEGEI collection)",NA,"",1,"Roadian","",272.3,268.8,37431,"gp_mid",36.09,33.38,"302",270.55,"roadian",5272,20.3569,42.6876,54,1
+"79242",116386,"col","Nam Duk",101.52,16.76,"Lom Sak, Locality SUTS, Nam Duk Basin",NA,"",2,"Roadian","",272.3,268.8,29355,"gp_mid",120.33,-26.57,"615",270.55,"roadian",22210,120.5579,-8.8924,54,1
 "79249",116416,"col","Antiinsky",116.5,50.95,"Syraya Antiya River, Transbaikal",NA,"",5,"Roadian","",272.3,268.8,31797,"gp_mid",84.8,57.81,"401",270.55,"roadian",22212,135.0186,51.311,54,1
 "79271",116456,"col","Baitugan",53.34,55.89,"Tikhie Gory (PIN collection 2065)",NA,"",36,"Roadian","",272.3,268.8,37449,"gp_mid",47.39,28.73,"302",270.55,"roadian",21736,34.6428,41.4573,54,1
 "79281",116517,"col","Malbina",147.19,-42.75,"H34, Mount Nassau, Rathbone's Quarry",NA,"",1,"Roadian","",272.3,268.8,18569,"gp_mid",-177.17,-80.57,"801",270.55,"roadian",22227,140.7036,-67.5338,54,1
@@ -969,6 +1050,7 @@
 "79835",117114,"col","Aiduna",135.2,-4.15,"Waghete 80P343C, Irian Jaya",NA,"",8,"Roadian","",272.3,268.8,27748,"gp_mid",137.6,-45.5,"800",270.55,"roadian",22366,128.9311,-29.3698,54,1
 "79873",117159,"col","Saraburi",99.33,10.88,"Khao Pha BMN, fine-grained limestone, Ban Map Ammarit",NA,"",4,"Roadian","",272.3,268.8,33667,"gp_mid",101.92,-35.01,"616",270.55,"roadian",22381,108.0359,-30.215,54,1
 "79874",117160,"col","Saraburi",99.33,10.88,"Khao Pha BMN, limestone breccia, Ban Map Ammarit",NA,"",4,"Roadian","",272.3,268.8,33667,"gp_mid",101.92,-35.01,"616",270.55,"roadian",22381,108.0359,-30.215,54,1
+"79929",117217,"col","Kazan",54,65,"Elva-Vimiskaya River, Outcrop 35, Komi ASSR",NA,"",2,"Roadian","",272.3,268.8,31800,"gp_mid",40.52,35.76,"302",270.55,"roadian",20819,22.071,45.6071,54,1
 "79933",117221,"col","Kazan",49.05,57.61,"Gorodishche Village, Sample 10/4, Vyatka River, Kirov Region",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",44.07,28.61,"302",270.55,"roadian",17989,30.4002,40.8403,54,1
 "79934",117222,"col","Kazan",49.05,57.61,"Gorodishche Village, Sample 12/1, Vyatka River, Kirov Region",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",44.07,28.61,"302",270.55,"roadian",17989,30.4002,40.8403,54,1
 "79937",117225,"col","Kazan",51.54,56.6,"Kama River, between Sokolka and Grakhan",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",45.99,28.65,"302",270.55,"roadian",21684,31.6632,42.621,54,1
@@ -976,6 +1058,8 @@
 "79944",117232,"col","",42.87,62.81,"Chidrova, near mouth of Vaga River",NA,"Schidrova",3,"Roadian","",272.3,268.8,29038,"gp_mid",37.67,30.96,"302",270.55,"roadian",22400,22.2613,40.0508,54,1
 "79970",117262,"col","",48.97,55.67,"Cliutziski, Volga River",NA,"Kliutziski",5,"Roadian","",272.3,268.8,29038,"gp_mid",45.35,27.04,"302",270.55,"roadian",22404,33.2363,39.5911,54,1
 "79971",117263,"col","",50.62,55.38,"Tchistopol, Kama River",NA,"",2,"Roadian","",272.3,268.8,29038,"gp_mid",46.39,27.37,"302",270.55,"roadian",22405,33.2363,39.5911,54,1
+"79973",117265,"col","",54.71,53.83,"Nikefur",NA,"",7,"Roadian","",272.3,268.8,29038,"gp_mid",49.57,27.64,"302",270.55,"roadian",22407,35.9944,43.3625,54,1
+"79974",117266,"col","",54.99,53.83,"Ilchegulova, base of cupriferous sandstones",NA,"",1,"Roadian","",272.3,268.8,29038,"gp_mid",49.71,27.75,"302",270.55,"roadian",22408,35.9944,43.3625,54,1
 "79975",117267,"col","",53.68,54.34,"Kidash River near Nijni-Troisk",NA,"",1,"Roadian","",272.3,268.8,29038,"gp_mid",48.67,27.66,"302",270.55,"roadian",22409,34.6428,41.4573,54,1
 "79976",117268,"col","",54.13,54.3,"Meteftamak",NA,"",2,"Roadian","",272.3,268.8,29038,"gp_mid",48.93,27.79,"302",270.55,"roadian",22410,34.6428,41.4573,54,1
 "79978",117270,"col","",54.06,54.36,"Santangulova, Dioma River",NA,"",4,"Roadian","",272.3,268.8,29038,"gp_mid",48.86,27.81,"302",270.55,"roadian",22411,34.6428,41.4573,54,1
@@ -1023,6 +1107,7 @@
 "81447",118961,"col","Kaibab",-112.2,36.2,"Near Sublime Point, AZ",NA,"MNA PI. 569",1,"Roadian","",272.3,268.8,38211,"gp_mid",-34.99,12.85,"101",270.55,"roadian",22741,-47.1205,7.5334,54,1
 "81463",118976,"col","Yuquan",127.51,45.28,"Mao'ershan, Shangzhi County",NA,"",1,"Roadian","",272.3,268.8,32423,"gp_mid",135.46,30.5,"628",270.55,"roadian",22748,141.549,43.6142,54,1
 "81464",118977,"col","Yuquan",127.17,45.41,"Yuquan, west kiln quarry, Acheng County",NA,"",1,"Roadian","",272.3,268.8,32423,"gp_mid",135.23,30.69,"628",270.55,"roadian",20642,141.549,43.6142,54,1
+"81465",118978,"col","Dashizhai",120.46,45.3,"Huanghetu, Wulan Hada, Jarud Qi",NA,"",1,"Roadian","",272.3,268.8,32423,"gp_mid",129.87,31.83,"628",270.55,"roadian",16714,134.8012,45.8868,54,1
 "81470",118983,"col","Fedorovskiy",155.75,65.25,"Berezovka River, below estuary of Supra River",NA,"",2,"Roadian","",272.3,268.8,27408,"gp_mid",14.32,76.29,"405",270.55,"roadian",13687,-82.5957,72.8835,54,1
 "81727",119241,"col","",68.2,34.4,"Tezak, Fusuline Hill and Beds 8-9 km West",NA,"",16,"Roadian","",272.3,268.8,27451,"gp_mid",53.67,-45.1,"506",270.55,"roadian",22790,67.541,40.1512,54,1
 "81730",119244,"col","",68.49,34.07,"Ginigar, Section G, Niveaux Schisto-Calcaires, Wardak",NA,"",8,"Roadian","",272.3,268.8,27426,"gp_mid",53.39,-45.46,"506",270.55,"roadian",22793,67.541,40.1512,54,1
@@ -1033,6 +1118,7 @@
 "82483",120083,"col","Xiaojiangbian",115.55,25.95,"Longzikeng, Zishan, Yudou County",NA,"",1,"Roadian","",272.3,268.8,34166,"gp_mid",125.26,-9.64,"611",270.55,"roadian",22965,137.0688,8.2254,54,1
 "82489",120089,"col","Maokou",114.57,29.05,"Qingshuiyan, lower Maokou Fm, Sidou, Xiushui County",NA,"",4,"Roadian","",272.3,268.8,34166,"gp_mid",122.43,-8.06,"611",270.55,"roadian",22968,135.3692,12.9382,54,1
 "82507",120107,"col","Xiaojiangbian",114.3,26.9,"Wumaling, Lower Xiaojiangbian Fm, Yongxin County",NA,"",1,"Roadian","",272.3,268.8,34166,"gp_mid",123.78,-9.76,"611",270.55,"roadian",22982,133.0301,9.5042,54,1
+"82615",120243,"col","Branxton",151.47,-32.9,"Mulbring Quarry, Wallis Creek",NA,"",15,"Roadian","",272.3,268.8,33739,"gp_mid",170.37,-70.57,"801",270.55,"roadian",19187,147.1081,-57.5171,54,1
 "82806",120472,"col","Assistance",-82.4,79.75,"GSC 52542, Caledonian Bay, East Cape, Ellesmere Island",NA,"",1,"Roadian","",272.3,268.8,33744,"gp_mid",7.65,38.82,"106",270.55,"roadian",23062,-7.9944,39.8069,54,1
 "82807",120473,"col","Assistance",-111.76,75.95,"GSC 35320, Hillock Point, Sabine Peninsula, Melville Island",NA,"",1,"Roadian","",272.3,268.8,33744,"gp_mid",-0.98,41.56,"106",270.55,"roadian",23063,-21.6359,40.0901,54,1
 "82819",120485,"col","Assistance",-108.04,75.97,"GSC C-462, Sabine Peninsula, Melville Island (NF 64-2-11)",NA,"",2,"Roadian","",272.3,268.8,38507,"gp_mid",-0.42,40.76,"106",270.55,"roadian",23068,-20.791,39.3694,54,1
@@ -1125,6 +1211,7 @@
 "88604",128211,"col","Shazipo",98.9,23.58,"Xiaoxinzhai Section Fx-26",NA,"",1,"Roadian","",272.3,268.8,41869,"gp_mid",86.54,-34.03,"616",270.55,"roadian",24763,94.6726,-28.7056,54,1
 "88605",128212,"col","Shazipo",98.9,23.58,"Xiaoxinzhai Section Fx-30",NA,"",3,"Roadian","",272.3,268.8,41869,"gp_mid",86.54,-34.03,"616",270.55,"roadian",24763,94.6726,-28.7056,54,1
 "88610",128217,"col","Shazipo",98.9,23.58,"Xiaoxinzhai Section Fx-a blocks",NA,"",5,"Roadian","",272.3,268.8,41869,"gp_mid",86.54,-34.03,"616",270.55,"roadian",24763,94.6726,-28.7056,54,1
+"88618",128238,"col","Nam Maholan",101.9,17.5,"Route 2318, NW of Ban Nam Suai Tha sa-at",NA,"",38,"Roadian","",272.3,268.8,41887,"gp_mid",119.9,-25.83,"615",270.55,"roadian",24768,120.5579,-8.8924,54,1
 "88753",128517,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-41",NA,"",6,"Roadian","",272.3,268.8,41961,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
 "88754",128518,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-42",NA,"",3,"Roadian","",272.3,268.8,41961,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
 "88755",128519,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-85",NA,"",1,"Roadian","",272.3,268.8,41961,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
@@ -1139,6 +1226,7 @@
 "88779",128543,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-6",NA,"",1,"Roadian","",272.3,268.8,41962,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
 "88781",128545,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-7",NA,"",1,"Roadian","",272.3,268.8,41962,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
 "88783",128547,"col","Nabeyama",139.62,36.44,"Karasawa sample Ka-10",NA,"",1,"Roadian","",272.3,268.8,41962,"gp_mid",136.1,8.56,"610",270.55,"roadian",24814,158.8214,24.9772,54,1
+"88805",128570,"col","Cians",6.98,44.03,"Dome du Barrot near Valberg",NA,"",1,"Roadian","",272.3,268.8,41975,"gp_mid",24.43,6.06,"305",270.55,"roadian",24828,20.7386,14.1404,54,1
 "88812",128591,"col","Road Canyon",-103.23,30.38,"Near junction of Road and Gilliam canyons",NA,"",8,"Roadian","",272.3,268.8,42377,"gp_mid",-31.9,3.86,"101",270.55,"roadian",24830,-43.2986,0.4326,54,1
 "88813",131117,"col","Word",-103.27,30.37,"Near junction of Road and Gilliland canyons, Glass Mountains (SUI collection)",NA,"",2,"Roadian","",272.3,268.8,27325,"gp_mid",-31.93,3.88,"101",270.55,"roadian",21523,-43.2986,0.4326,54,1
 "88823",128601,"col","Rat Buri",100.82,14.71,"Khao Phlong Phrab Kpp-35",NA,"",1,"Roadian","",272.3,268.8,41993,"gp_mid",121.77,-28.31,"615",270.55,"roadian",24834,122.2544,-10.7514,54,1
@@ -1225,12 +1313,15 @@
 "89402",129574,"col","Kazan",43.98,64.55,"Pinega river, right bank at Bereznik village",NA,"",1,"Roadian","",272.3,268.8,31800,"gp_mid",36.93,32.66,"302",270.55,"roadian",13686,20.3569,42.6876,54,1
 "90606",131118,"col","Word",-103.27,30.37,"Near junction of Road and Gilliland canyons (John Britts Owen coll)",NA,"",2,"Roadian","",272.3,268.8,27325,"gp_mid",-31.93,3.88,"101",270.55,"roadian",21523,-43.2986,0.4326,54,1
 "90754",131300,"col","Kazan",43.98,64.55,"Pinega River (Edemsky collection)",NA,"",1,"Roadian","",272.3,268.8,22879,"gp_mid",36.93,32.66,"302",270.55,"roadian",13686,20.3569,42.6876,54,1
+"90929",131549,"col","Lightjack",124.15,-18.05,"Liverynga, Kimberley District",NA,"",2,"Roadian","",272.3,268.8,20849,"gp_mid",108.64,-57.13,"801",270.55,"roadian",14128,113.1793,-39.9041,54,1
 "91127",131776,"col","",150,-34.75,"South Marulan",NA,"",2,"Roadian","",272.3,268.8,27370,"gp_mid",169.85,-72.78,"801",270.55,"roadian",25281,147.2677,-60.0158,54,1
 "91385",132079,"col","Cutoff",-104.83,31.82,"Quarry section, US 180-62",NA,"",6,"Roadian","",272.3,268.8,42565,"gp_mid",-32.31,5.81,"101",270.55,"roadian",12028,-42.7041,3.0692,54,1
 "91396",132090,"col","Kaibab",-111.67,35.19,"MNA locality 22, southwestern Flagstaff",NA,"",1,"Roadian","",272.3,268.8,42566,"gp_mid",-35.23,11.77,"101",270.55,"roadian",25378,-47.1205,7.5334,54,1
 "91397",132091,"col","Kaibab",-111.67,35.19,"MNA locality 118, southwestern Flagstaff",NA,"",3,"Roadian","",272.3,268.8,42566,"gp_mid",-35.23,11.77,"101",270.55,"roadian",25378,-47.1205,7.5334,54,1
 "91398",132092,"col","Kaibab",-111.67,35.19,"MNA locality 279-2, southwestern Flagstaff",NA,"",1,"Roadian","",272.3,268.8,42566,"gp_mid",-35.23,11.77,"101",270.55,"roadian",25378,-47.1205,7.5334,54,1
 "91399",132093,"col","Kaibab",-111.67,35.19,"MNA locality 279-3, southwestern Flagstaff",NA,"",1,"Roadian","",272.3,268.8,42566,"gp_mid",-35.23,11.77,"101",270.55,"roadian",25378,-47.1205,7.5334,54,1
+"91525",132304,"col","Snapper Point",150.2,-33.05,"Capertee Valley, 7 miles from Glen Alice",NA,"",1,"Roadian","",272.3,268.8,27370,"gp_mid",167.72,-71.2,"801",270.55,"roadian",25387,147.1081,-57.5171,54,1
+"91541",132320,"col","",151.56,-32.81,"Quarry near road passing Dagworth, south of West Maitland",NA,"",1,"Roadian","",272.3,268.8,20795,"gp_mid",170.45,-70.45,"801",270.55,"roadian",25392,147.1081,-57.5171,54,1
 "91932",132826,"col","Phosphoria",-111.3,42.32,"Montpelier, Bear Lake County",NA,"",1,"Roadian","",272.3,268.8,42770,"gp_mid",-30.68,17.4,"101",270.55,"roadian",25508,-43.0284,14.6896,54,1
 "92071",133031,"col","Savina",55.7,71.55,"Savina-Abrosimova Interfluve, Sample 14010, Novaya Zemlya",NA,"",1,"Roadian","",272.3,268.8,27332,"gp_mid",35.05,40.75,"302",270.55,"roadian",15254,14.1436,51.8779,54,1
 "92114",133075,"col","Kazan",45.15,67.35,"Kanin Peninsula, Well 1, 121.4 m depth",NA,"",1,"Roadian","",272.3,268.8,27343,"gp_mid",35.32,35.17,"302",270.55,"roadian",25560,17.2377,43.728,54,1
@@ -1240,11 +1331,59 @@
 "92347",133499,"col","Funabuseyama",136.6,35.63,"Neo-mura, Motosu-gn, Funabuseyama formation",NA,"",1,"Roadian","",272.3,268.8,42990,"gp_mid",133.52,8.87,"610",270.55,"roadian",25612,157.2717,21.3219,54,1
 "92475",133739,"col","Brushy Canyon",-104.83,31.84,"Sandstone towards base of Guadalupe Mountains",NA,"",2,"Roadian","",272.3,268.8,17105,"gp_mid",-32.3,5.83,"101",270.55,"roadian",25636,-42.7041,3.0692,54,1
 "92834",134125,"col","",44.25,64.27,"Pinega River (Grigor'yeva coll)",NA,"",1,"Roadian","",272.3,268.8,29975,"gp_mid",37.24,32.51,"302",270.55,"roadian",18198,20.3569,42.6876,54,1
+"93189",134521,"col","Branxton",151.35,-32.66,"Branxton (UQ coll)",NA,"",1,"Roadian","",272.3,268.8,33746,"gp_mid",169.78,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"94617",136288,"col","Elderslie",151.37,-32.67,"UNE L904, Anvil Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.83,-70.41,"801",270.55,"roadian",26418,147.1081,-57.5171,54,1
+"94618",136289,"col","Elderslie",151.37,-32.67,"UNE L911, Anvil Creek",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",169.82,-70.41,"801",270.55,"roadian",26418,147.1081,-57.5171,54,1
+"94619",136290,"col","Elderslie",151.37,-32.67,"UNE L959, Anvil Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.81,-70.41,"801",270.55,"roadian",26418,147.1081,-57.5171,54,1
+"94620",136291,"col","Elderslie",151.35,-32.66,"UNE L903, Rail Cutting, Branxton-Cessnock Road",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",169.78,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"94621",136292,"col","Branxton",151.35,-32.66,"UNE L907, Branxton railway cutting",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.77,-70.41,"801",270.55,"roadian",15548,147.1081,-57.5171,54,1
+"94627",136298,"col","Elderslie",151.2,-32.88,"UNE L1022, Cedar Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.74,-70.66,"801",270.55,"roadian",26419,147.1081,-57.5171,54,1
+"94628",136299,"col","Elderslie",151.21,-32.88,"UNE L1024, Cedar Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.76,-70.65,"801",270.55,"roadian",26420,147.1081,-57.5171,54,1
+"94629",136300,"col","Elderslie",151.24,-32.85,"UNE L986, track into Cedar Creek from Mount View",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.81,-70.61,"801",270.55,"roadian",26421,147.1081,-57.5171,54,1
+"94630",136301,"col","Elderslie",151.25,-32.85,"UNE L1023, Cedar Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.82,-70.61,"801",270.55,"roadian",26422,147.1081,-57.5171,54,1
+"94659",136330,"col","Elderslie",151.38,-32.87,"UNE L990, Kitchener forestry track",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.14,-70.58,"801",270.55,"roadian",26429,147.1081,-57.5171,54,1
+"94660",136331,"col","Elderslie",151.36,-32.87,"UNE L1014, Quorrobolong Road, Kitchener",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.09,-70.58,"801",270.55,"roadian",19091,147.1081,-57.5171,54,1
+"94661",136332,"col","Branxton",151.36,-32.87,"UNE L1015, Quorrobolong Road, Kitchener",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.1,-70.59,"801",270.55,"roadian",19091,147.1081,-57.5171,54,1
+"94662",136333,"col","Belford",151.36,-32.88,"UNE L1017, Kitchener-Abernethy Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.11,-70.59,"801",270.55,"roadian",26430,147.1081,-57.5171,54,1
+"94664",136336,"col","Elderslie",151.4,-32.89,"UNE L1356, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94665",136337,"col","Elderslie",151.4,-32.89,"UNE L1357, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94666",136338,"col","Branxton",151.4,-32.89,"UNE L1359, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94667",136339,"col","Branxton",151.4,-32.89,"UNE L1360, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94668",136340,"col","Branxton",151.4,-32.89,"UNE L1361, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94669",136341,"col","Branxton",151.4,-32.89,"UNE L1362, Pinnacle Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94670",136342,"col","Branxton",151.4,-32.89,"UNE L1363, Pinnacle Road",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94671",136343,"col","Branxton",151.4,-32.89,"UNE L1364, Pinnacle Road",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.21,-70.59,"801",270.55,"roadian",19125,147.1081,-57.5171,54,1
+"94673",136346,"col","Belford",151.43,-32.9,"UNE L1368, Pinnacle Road",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.29,-70.58,"801",270.55,"roadian",26431,147.1081,-57.5171,54,1
+"94674",136348,"col","Elderslie",151.42,-32.87,"UNE L1020, Cessnock-Mulbring road east of Elrington Colliery",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.22,-70.56,"801",270.55,"roadian",26432,147.1081,-57.5171,54,1
+"94675",136349,"col","Elderslie",151.45,-32.88,"UNE L1229, Cessnock-Mulbring Road",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.3,-70.56,"801",270.55,"roadian",19111,147.1081,-57.5171,54,1
+"94676",136350,"col","Elderslie",151.43,-32.87,"UNE L1230, Cessnock-Mulbring Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.26,-70.56,"801",270.55,"roadian",19307,147.1081,-57.5171,54,1
+"94677",136351,"col","Elderslie",151.47,-32.89,"UNE L1231, Cessnock-Mulbring Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.36,-70.56,"801",270.55,"roadian",19284,147.1081,-57.5171,54,1
+"94678",136352,"col","Elderslie",151.47,-32.9,"UNE L1232, Cessnock-Mulbring Road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.37,-70.56,"801",270.55,"roadian",19187,147.1081,-57.5171,54,1
+"94679",136353,"col","Belford",151.47,-32.88,"UNE L968, hill near Kurri Kurri road",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.35,-70.55,"801",270.55,"roadian",26433,147.1081,-57.5171,54,1
+"94680",136354,"col","Elderslie",151.34,-32.66,"UNE L908, Branxton Railway cutting",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.75,-70.41,"801",270.55,"roadian",15549,147.1081,-57.5171,54,1
+"94681",136358,"col","Elderslie",151.58,-32.68,"UNE L1350, Rosebrook road bridge",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",170.31,-70.33,"801",270.55,"roadian",21452,147.1081,-57.5171,54,1
+"94682",136359,"col","Elderslie",151.58,-32.68,"UNE L1366, Rosebrook road bridge",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.31,-70.33,"801",270.55,"roadian",21452,147.1081,-57.5171,54,1
+"94683",136360,"col","Elderslie",151.28,-32.66,"UNE L1157, Belford Railway Cutting",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.61,-70.43,"801",270.55,"roadian",26434,147.1081,-57.5171,54,1
+"94684",136361,"col","Elderslie",151.28,-32.66,"UNE L1156, Belford Railway Cutting",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.61,-70.43,"801",270.55,"roadian",26434,147.1081,-57.5171,54,1
+"94685",136362,"col","Elderslie",151.28,-32.66,"UNE L1155, Belford Railway Cutting",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.61,-70.43,"801",270.55,"roadian",26434,147.1081,-57.5171,54,1
+"94686",136363,"col","Belford",151.29,-32.66,"UNE L1160, railway cutting beneath bridge",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
+"94687",136364,"col","Belford",151.29,-32.66,"UNE L1161, railway cutting beneath bridge",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
+"94688",136365,"col","Belford",151.29,-32.66,"UNE L1162, railway cutting beneath bridge",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
+"94689",136366,"col","Branxton",151.59,-32.74,"UNE L1244, West Maitland Abbatoir",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",170.41,-70.39,"801",270.55,"roadian",19115,147.1081,-57.5171,54,1
+"94690",136367,"col","Belford",151.17,-32.51,"UNE L1177, Wattle Ponds Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"94691",136368,"col","Belford",151.17,-32.51,"UNE L1178, Wattle Ponds Creek",NA,"",2,"Roadian","",272.3,268.8,36711,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"94692",136369,"col","Belford",151.17,-32.51,"UNE L1237, Wattle Ponds Creek",NA,"",3,"Roadian","",272.3,268.8,36711,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
+"94693",136370,"col","Belford",151.17,-32.51,"UNE L1238, Wattle Ponds Creek",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.16,-70.35,"801",270.55,"roadian",19112,147.1081,-57.5171,54,1
 "94720",136414,"col","Omolon",159.36,62.78,"Levyi Vodopadnyi Creek, outcrop 3, bed 17, Omolon Massif",NA,"",1,"Roadian","",272.3,268.8,43633,"gp_mid",23.64,78.4,"405",270.55,"roadian",18432,-97.4723,74.6243,54,1
 "94723",136417,"col","",153.7,62,"Right bank of Bol'shaya Kupka river",NA,"",1,"Roadian","",272.3,268.8,43633,"gp_mid",28.27,75.86,"405",270.55,"roadian",26447,-98.6445,76.3305,54,1
 "94727",136456,"col","Marta",34.04,44.71,"Kichkhi-Burnu Block float, Marta River, Crimea ",NA,"",1,"Roadian","",272.3,268.8,43643,"gp_mid",42.76,12.77,"302",270.55,"roadian",26450,35.6659,25.9061,54,1
+"94834",136623,"col","Bickham",150.9,-31.79,"UNE L1210, Bickham, Murrurundi",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",167.59,-69.81,"801",270.55,"roadian",26483,147.1081,-57.5171,54,1
+"94838",136627,"col","Belford",151.29,-32.66,"UNE L1163, Singleton area",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
+"94839",136628,"col","Belford",151.29,-32.66,"UNE L1165, Singleton area",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
+"94840",136629,"col","Belford",151.29,-32.66,"UNE L1168, Singleton area",NA,"",1,"Roadian","",272.3,268.8,36711,"gp_mid",169.65,-70.43,"801",270.55,"roadian",26435,147.1081,-57.5171,54,1
 "94861",136665,"col","Snapper Point",150.38,-35.57,"Schnapper Point, Kioloa",NA,"Snapper Point",1,"Roadian","",272.3,268.8,42917,"gp_mid",172.17,-73.33,"801",270.55,"roadian",26494,147.2677,-60.0158,54,1
 "94864",136668,"col","Gebbie",149.69,-22.59,"Stoodleigh Creek, 1.75 miles above Beak's Farm",NA,"Bent's Farm",1,"Roadian","",272.3,268.8,42917,"gp_mid",156.8,-61.65,"801",270.55,"roadian",26496,146.6379,-47.5211,54,1
+"94880",136687,"col","Liveringa",124.36,-17.38,"Northwest of Mount Marmion (UWA collection)",NA,"",1,"Roadian","",272.3,268.8,15626,"gp_mid",109.33,-56.54,"801",270.55,"roadian",26500,113.1793,-39.9041,54,1
 "95899",137901,"col","Tak Fa",100.89,15.9,"07PB05-6, Ban Naen Sawan I, Phetchabun",NA,"",1,"Roadian","",272.3,268.8,44109,"gp_mid",120.71,-27.56,"615",270.55,"roadian",26794,122.2544,-10.7514,54,1
 "95900",137902,"col","Tak Fa",100.93,15.92,"07PB08-2, Ban Naen Sawan II, Phetchabun",NA,"",1,"Roadian","",272.3,268.8,44109,"gp_mid",120.72,-27.52,"615",270.55,"roadian",26795,122.2544,-10.7514,54,1
 "95901",137903,"col","Tak Fa",100.87,15.97,"08PB02-3, Phu Phra That, Phetchabun",NA,"",1,"Roadian","",272.3,268.8,44109,"gp_mid",120.64,-27.53,"615",270.55,"roadian",26796,122.2544,-10.7514,54,1
@@ -1255,11 +1394,13 @@
 "97967",140078,"col","Phosphoria",-111.24,42.32,"Waterloo Mine, Montpelier",NA,"",2,"Roadian","",272.3,268.8,38483,"gp_mid",-30.65,17.37,"101",270.55,"roadian",15075,-43.0284,14.6896,54,1
 "98009",140145,"col","Phosphoria",-112.06,43.04,"Gay Mine (University of Idaho collection)",NA,"",2,"Roadian","",272.3,268.8,38483,"gp_mid",-30.71,18.31,"101",270.55,"roadian",27277,-43.0284,14.6896,54,1
 "100033",142645,"col","Phosphoria",-111.54,41.06,"Weber Canyon, Wasatch Range",NA,"",1,"Roadian","",272.3,268.8,16190,"gp_mid",-31.61,16.49,"101",270.55,"roadian",20486,-44.3666,12.5545,54,1
+"101318",144212,"col","Vladivostok",135.01,49.92,"Daubikhe River Basin, Sikhote-Alin Range, Primorye",NA,"",1,"Roadian","",272.3,268.8,46633,"gp_mid",142.53,33.85,"628",270.55,"roadian",27704,153.0536,44.9891,54,1
 "101355",144249,"col","Road Canyon",-103.21,30.38,"USNM734x, Glass Mountains",NA,"",1,"Roadian","",272.3,268.8,46638,"gp_mid",-31.88,3.86,"101",270.55,"roadian",23512,-43.2986,0.4326,54,1
 "101360",144254,"col","Kazan",51.2,55.29,"Sheshma River, right bank 0.7 km east of Shchugurovo",NA,"",1,"Roadian","",272.3,268.8,27323,"gp_mid",46.75,27.5,"302",270.55,"roadian",17985,34.6428,41.4573,54,1
 "101418",144317,"col","Kazan",51.2,55.29,"Sheshma River, right bank above Shugorovo Village",NA,"",1,"Roadian","",272.3,268.8,46653,"gp_mid",46.75,27.5,"302",270.55,"roadian",17985,34.6428,41.4573,54,1
 "101659",144672,"col","Wandrawandian",150.49,-35.37,"Ulladulla (NIGP coll)",NA,"",1,"Roadian","",272.3,268.8,46816,"gp_mid",172.08,-73.11,"801",270.55,"roadian",4531,147.2677,-60.0158,54,1
 "101810",144858,"col","Collinsville Coal Measures",148.14,-20.94,"BMR B711, Bowen River",NA,"",1,"Roadian","",272.3,268.8,46867,"gp_mid",153,-60.46,"801",270.55,"roadian",27823,146.5481,-45.0219,54,1
+"101847",144895,"col","Belford",151.28,-32.66,"Railway cutting, near Belford",NA,"",1,"Roadian","",272.3,268.8,46877,"gp_mid",169.61,-70.43,"801",270.55,"roadian",26434,147.1081,-57.5171,54,1
 "102295",145987,"col","Qixia",110.75,30.64,"By203, Dalingxu ravine, Maanshan, Changyang district",NA,"",13,"Roadian","",272.3,268.8,47186,"gp_mid",118.89,-9.18,"611",270.55,"roadian",27945,132.2268,11.8763,54,1
 "102296",145988,"col","Qixia",110.75,30.64,"By89, Fangniuping, Maanshan, Changyang district",NA,"",7,"Roadian","",272.3,268.8,47186,"gp_mid",118.89,-9.18,"611",270.55,"roadian",27945,132.2268,11.8763,54,1
 "102297",145989,"col","Qixia",110.75,30.64,"By88, Fangniuping, Maanshan, Changyang district",NA,"",2,"Roadian","",272.3,268.8,47186,"gp_mid",118.89,-9.18,"611",270.55,"roadian",27945,132.2268,11.8763,54,1
@@ -1303,6 +1444,9 @@
 "106324",150777,"col","Word",-103.26,30.36,"R.E. King 138, Road Canyon, Glass Mountains",NA,"",6,"Roadian","",272.3,268.8,18203,"gp_mid",-31.93,3.87,"101",270.55,"roadian",24648,-43.2986,0.4326,54,1
 "106328",150781,"col","Word",-103.3,30.34,"R.E. King 47, Gilliland Canyon, Glass Mountains",NA,"",3,"Roadian","",272.3,268.8,18203,"gp_mid",-31.97,3.87,"101",270.55,"roadian",18774,-43.2986,0.4326,54,1
 "106329",150782,"col","Word",-103.17,30.4,"R.E. King 145, Hess Canyon, Glass Mountains",NA,"",8,"Roadian","",272.3,268.8,18203,"gp_mid",-31.83,3.86,"101",270.55,"roadian",19712,-43.2986,0.4326,54,1
+"106372",150826,"col","Branxton",151.28,-32.62,"Jump-Up Creek, Portion 14, Belford Parish",NA,"",1,"Roadian","",272.3,268.8,48196,"gp_mid",169.56,-70.4,"801",270.55,"roadian",28543,147.1081,-57.5171,54,1
+"106373",150827,"col","Branxton",151.27,-32.66,"Jump-Up Creek, below railway bridge",NA,"",1,"Roadian","",272.3,268.8,48196,"gp_mid",169.59,-70.43,"801",270.55,"roadian",28544,147.1081,-57.5171,54,1
+"106374",150828,"col","Branxton",151.34,-32.66,"Railway cutting west of Branxton",NA,"",1,"Roadian","",272.3,268.8,48196,"gp_mid",169.74,-70.41,"801",270.55,"roadian",15549,147.1081,-57.5171,54,1
 "106408",150864,"col","Word",-103.27,30.36,"R.E. King 48, Gilliland Canyon, Glass Mountains",NA,"",2,"Roadian","",272.3,268.8,18203,"gp_mid",-31.93,3.87,"101",270.55,"roadian",18772,-43.2986,0.4326,54,1
 "106409",150866,"col","Road Canyon",-103.36,30.3,"R.E. King 58, Cathedral Mountain, Glass Mountains",NA,"",5,"Roadian","",272.3,268.8,18203,"gp_mid",-32.03,3.86,"101",270.55,"roadian",28558,-43.2986,0.4326,54,1
 "106581",151052,"col","Word",-103.15,30.4,"R.E. King 146, Old Word Ranch, Glass Mountains",NA,"",8,"Roadian","",272.3,268.8,18203,"gp_mid",-31.83,3.85,"101",270.55,"roadian",21552,-43.2986,0.4326,54,1
@@ -1331,6 +1475,7 @@
 "109350",154885,"col","Iva-Gora Beds",48.87,57.62,"Koryakovo, Viatka River",NA,"Koriakovo",1,"Roadian","",272.3,268.8,50403,"gp_mid",43.98,28.56,"302",270.55,"roadian",29287,30.4002,40.8403,54,1
 "109468",155230,"col","Baitugan",53.34,55.89,"Tikhie Gory (PIN collection 1259)",NA,"",1,"Roadian","",272.3,268.8,50618,"gp_mid",47.39,28.73,"302",270.55,"roadian",21736,34.6428,41.4573,54,1
 "109916",155714,"col","Iva-Gora Beds",43.67,65.55,"Sheimo-Gora (TsNIGR collection 6113)",NA,"",1,"Roadian","",272.3,268.8,50889,"gp_mid",36.09,33.38,"302",270.55,"roadian",5272,20.3569,42.6876,54,1
+"110234",156162,"col","Baitugan",54.66,53.8,"Chatmak Tomak village, Ouiaza River, Belelei district",NA,"",1,"Roadian","",272.3,268.8,51134,"gp_mid",49.56,27.6,"302",270.55,"roadian",29473,35.9944,43.3625,54,1
 "110235",156163,"col","Baitugan",53.34,55.89,"Bogatyi log, Kama River",NA,"",1,"Roadian","",272.3,268.8,51134,"gp_mid",47.39,28.73,"302",270.55,"roadian",21736,34.6428,41.4573,54,1
 "113992",161842,"col","Wandrawandian",150.46,-34.88,"Burrier",NA,"",42,"Roadian","",272.3,268.8,52707,"gp_mid",171.17,-72.7,"801",270.55,"roadian",30576,147.2677,-60.0158,54,1
 "113995",161845,"col","Wandrawandian",150.4,-34.87,"Grassy Gully",NA,"",14,"Roadian","",272.3,268.8,52707,"gp_mid",171,-72.72,"801",270.55,"roadian",30579,147.2677,-60.0158,54,1
@@ -1366,6 +1511,7 @@
 "121285",174714,"col","",48.98,57.4,"Beresnyatovskii quarry, locality 4919/27",NA,"",1,"Roadian","",272.3,268.8,57081,"gp_mid",44.18,28.42,"302",270.55,"roadian",32207,30.4002,40.8403,54,1
 "121298",174733,"col","Verkhnii Uslon",49.3,55.2,"Bogorodskoe",NA,"",3,"Roadian","",272.3,268.8,57081,"gp_mid",45.84,26.77,"302",270.55,"roadian",32206,33.2363,39.5911,54,1
 "126798",183116,"col","Fedorovskii",161.75,63.25,"Fedorovskii Creek, Kolymia inoceramiforis zone, Paren' River headwater",NA,"",1,"Roadian","",272.3,268.8,61103,"gp_mid",19.98,79.35,"405",270.55,"roadian",21860,-89.8709,70.9077,54,1
+"126933",183427,"col","Cians",6.85,44.03,"Roua Valley, Dôme de Barrot",NA,"",1,"Roadian","",272.3,268.8,61251,"gp_mid",24.34,6.05,"305",270.55,"roadian",33586,20.7386,14.1404,54,1
 "128434",185568,"col","Sidazhai",106.15,25.61,"Shaiwa section, beds 25-23",NA,"",7,"Roadian","",272.3,268.8,62201,"gp_mid",119.14,-15.64,"611",270.55,"roadian",33969,127.285,5.1432,54,1
 "128435",185569,"col","Sidazhai",106.15,25.61,"Shaiwa section, beds 22-21",NA,"",5,"Roadian","",272.3,268.8,62201,"gp_mid",119.14,-15.64,"611",270.55,"roadian",33969,127.285,5.1432,54,1
 "128436",185570,"col","Sidazhai",106.15,25.61,"Shaiwa section, beds 20-19",NA,"",13,"Roadian","",272.3,268.8,62201,"gp_mid",119.14,-15.64,"611",270.55,"roadian",33969,127.285,5.1432,54,1

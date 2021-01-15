@@ -1,9 +1,13 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
 "4946",13062,"col","Santa Margarita",-122.07,37.08,"UCMP V-70184, Granite Rock Company quarry",NA,"",1,"Tortonian","",11.62,7.246,4343,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",1493,-115.9908,33.9833,6,1
 "4970",13098,"col","Modelo",-118.2,34.08,"Lincoln Heights",NA,"",1,"Tortonian","",11.62,7.246,10152,"gp_mid",-114.35,35.74,"105",9.433,"tortonian",1507,-114.7293,32.573,6,1
+"5106",179776,"col","Aksucay",30.78,37.27,"Kargi section 15 meters, Aksu sub-basin",NA,"",12,"Tortonian","",11.62,7.246,59626,"gp_mid",31.18,35.41,"504",9.433,"tortonian",1566,27.9299,36.6211,6,1
 "5211",13522,"col","Entre Rios",-64.47,-27.08,"Rio Parana",NA,"",9,"Tortonian","",11.62,7.246,6124,"gp_mid",-62.56,-26.71,"201",9.433,"tortonian",1590,-61.8687,-28.8136,6,1
 "5251",13626,"col","Entre Rios",-59.25,-33.72,"Barrancas del Rio Parana",NA,"Entreriana",75,"Tortonian","",11.62,7.246,6134,"gp_mid",-57.55,-33.45,"202",9.433,"tortonian",1597,-58.0242,-33.7893,6,1
 "10361",19302,"col","""Santa Margarita""",-118.5,35.3,"Comanche Point",NA,"UCMP V-5304",2,"Tortonian","",11.62,7.246,3015,"gp_mid",-114.25,37.27,"130",9.433,"tortonian",2029,-114.7293,32.573,6,1
+"12312",22978,"col","",-3.75,36.95,"Jayena, Spain",NA,"Reef 1472",3,"Tortonian","",11.62,7.246,6617,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",2283,-5.7031,36.4217,6,1
+"12313",22979,"col","",-3.77,37.26,"Illora, Spain",NA,"Reef 1474",4,"Tortonian","",11.62,7.246,6617,"gp_mid",-2.6,35.87,"304",9.433,"tortonian",2284,-5.7031,36.4217,6,1
+"12858",24237,"col","Gatun",-79.8,9.35,"Sabanita [lower Gatun Fm]",NA,"",39,"Tortonian","",11.62,7.246,6853,"gp_mid",-77.53,10.29,"230",9.433,"tortonian",2405,-80.9368,9.2734,6,1
 "14063",27549,"col","Clacare di Mendicino",16.27,39.18,"Scanelle quarry, floatstones, Calbria, Italy",NA,"Reef 3204",15,"Tortonian","",11.62,7.246,7596,"gp_mid",17.39,36.89,"307",9.433,"tortonian",2739,13.5403,38.5283,6,1
 "14064",27550,"col","Clacare di Mendicino",16.27,39.18,"Scanelle quarry, rudstones, Calbria, Italy",NA,"Reef 3204",8,"Tortonian","",11.62,7.246,7596,"gp_mid",17.39,36.89,"307",9.433,"tortonian",2739,13.5403,38.5283,6,1
 "19804",34413,"col","Al Bad",34.9,28.17,"Al Bad', Jebel Kibrit, Saudi Arabia",NA,"Reef 3231",7,"Tortonian","",11.62,7.246,9057,"gp_mid",34.71,24.91,"503",9.433,"tortonian",3945,31.8506,26.2134,6,1
@@ -13,13 +17,21 @@
 "19877",34517,"col","Cercado",-71.4,19.67,"Arroyo Bellaco, reef-front, Dominican Republic",NA,"Reef 786",19,"Tortonian","",11.62,7.246,9110,"gp_mid",-69.14,20.54,"252",9.433,"tortonian",3962,-72.4335,19.0086,6,1
 "19878",34521,"col","Gram",9.06,55.31,"Gram Brick Works",NA,"Gram Clay Pit",44,"Tortonian","",11.62,7.246,9111,"gp_mid",10.56,53.68,"302",9.433,"tortonian",3963,4.6418,54.1611,6,1
 "19997",34690,"col","Koronia",33.17,35.08,"Koronia reefs, northern Cyprus",NA,"Reef 866",63,"Tortonian","",11.62,7.246,9187,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",3988,31.2829,33.8119,6,1
+"20039",34733,"col","",-2.35,37.35,"Purchena, Spain",NA,"Reef 662",15,"Tortonian","",11.62,7.246,9214,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4008,-5.7031,36.4217,6,1
+"20040",34734,"col","",-2.18,37.4,"Los Marmoles, Spain",NA,"Reef 698",12,"Tortonian","",11.62,7.246,9214,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4009,-5.7031,36.4217,6,1
+"20041",34735,"col","",-2.18,37.4,"Cantoria, Spain",NA,"Reef 698",7,"Tortonian","",11.62,7.246,9214,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4009,-5.7031,36.4217,6,1
+"20135",34860,"col","Roka",23.6,35.58,"NE-Gramvoussa, Crete, Greece",NA,"Reef 3282",6,"Tortonian","",11.62,7.246,9341,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4019,20.6539,33.5975,6,1
+"20136",34861,"col","Roka",23.6,35.52,"SE-Gramvoussa, Crete, Greece",NA,"Reef 3282",5,"Tortonian","",11.62,7.246,9341,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4020,20.6539,33.5975,6,1
+"20137",34862,"col","Koukounaras",23.67,35.45,"Vardiana, Crete, Greece",NA,"Reef 3282",3,"Tortonian","",11.62,7.246,9341,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",4021,20.6539,33.5975,6,1
 "20883",35876,"col","",-1.35,41.12,"Nombrevilla",NA,"",11,"Vallesian","",11.608,8.7,9640,"gp_mid",0.04,39.51,"304",10.154,"tortonian",4161,-2.08,38.9881,6,1
 "20884",35877,"col","",-1.42,41.12,"Pedregueras II C",NA,"",10,"Vallesian","",11.608,8.7,9640,"gp_mid",-0.03,39.51,"304",10.154,"tortonian",4162,-2.08,38.9881,6,1
 "20885",35880,"col","",-1.42,41.12,"Pedregueras I A",NA,"",5,"Vallesian","",11.608,8.7,9640,"gp_mid",-0.03,39.51,"304",10.154,"tortonian",4162,-2.08,38.9881,6,1
 "20886",35882,"col","",-1.42,41.12,"Pedregueras II A",NA,"",5,"Vallesian","",11.608,8.7,9640,"gp_mid",-0.03,39.51,"304",10.154,"tortonian",4162,-2.08,38.9881,6,1
+"21376",36634,"col","",5.32,46.03,"Soblay, excavation from 1949",NA,"",5,"MN 10","",9.7,8.7,13345,"gp_mid",6.56,44.47,"305",9.2,"tortonian",4305,1.4397,44.0914,6,1
 "21647",36977,"col","",2.48,42.5,"Lo Fournas 7, Baixas area",NA,"Baixas'",13,"Tortonian","",11.62,7.246,9874,"gp_mid",3.7,40.98,"304",9.433,"tortonian",4402,1.5313,41.5585,6,1
 "21648",36978,"col","",2.48,42.5,"Lo Fournas 6a, Baixas area",NA,"Baixas'",7,"Tortonian","",11.62,7.246,9874,"gp_mid",3.7,40.98,"304",9.433,"tortonian",4402,1.5313,41.5585,6,1
 "21649",36979,"col","",2.48,42.5,"Lo Fournas 6b, Baixas area",NA,"Baixas'",4,"Tortonian","",11.62,7.246,9874,"gp_mid",3.7,40.98,"304",9.433,"tortonian",4402,1.5313,41.5585,6,1
+"21713",37047,"col","Ravin de Ratavoux",5.45,43.78,"Cucuron, at the stadium, sample taken between 1972 and 1976",NA,"",17,"MN 12","",7.75,7.246,9926,"gp_mid",6.32,42.58,"305",7.498,"tortonian",4427,1.4397,44.0914,6,1
 "21868",37364,"col","Maraldi Sandstone",12.8,46.22,"Torrente Meduna sample 13",NA,"Protoma rotifera community sample 13",3,"Tortonian","",11.62,7.246,10020,"gp_mid",14.37,44.01,"307",9.433,"tortonian",4453,10.2224,43.6653,6,1
 "21869",37365,"col","Maraldi Sandstone",12.8,46.22,"Torrente Meduna sample 14",NA,"Protoma rotifera community sample 14",16,"Tortonian","",11.62,7.246,10020,"gp_mid",14.37,44.01,"307",9.433,"tortonian",4453,10.2224,43.6653,6,1
 "21870",37366,"col","Maraldi Sandstone",12.8,46.22,"Torrente Meduna sample 15",NA,"Protoma rotifera community sample 15",6,"Tortonian","",11.62,7.246,10020,"gp_mid",14.37,44.01,"307",9.433,"tortonian",4453,10.2224,43.6653,6,1
@@ -82,6 +94,7 @@
 "24817",41483,"col","Puerto Madryn",-64.25,-42.5,"ET14 - Puerto Madryn Fm",NA,"",5,"Tortonian","",11.62,7.246,11120,"gp_mid",-62.82,-42.13,"291",9.433,"tortonian",5289,-61.7371,-43.8132,6,1
 "24819",41484,"col","Puerto Madryn",-64.5,-42.5,"D3 - Puerto Madryn Fm",NA,"D3",0,"Tortonian","",11.62,7.246,11120,"gp_mid",-63.07,-42.12,"291",9.433,"tortonian",5290,-61.7371,-43.8132,6,1
 "24820",41485,"col","Puerto Madryn",-64.5,-42.5,"D12 - Puerto Madryn Fm",NA,"",2,"Tortonian","",11.62,7.246,11120,"gp_mid",-63.07,-42.12,"291",9.433,"tortonian",5290,-61.7371,-43.8132,6,1
+"25106",92597,"col","Gatun",-79.84,9.36,"TU 961 - Cativa [lower Gatun Fm]",NA,"",16,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
 "27670",44942,"col","",-1.23,40.16,"Minas de Libros",NA,"",8,"MN 9","MN 10",11.1,8.7,11708,"gp_mid",0.11,38.55,"304",9.9,"tortonian",6228,-2.08,38.9881,6,1
 "27671",44943,"col","",-1.23,40.16,"Minas de azufre de Libros",NA,"",1,"MN 9","MN 10",11.1,8.7,11708,"gp_mid",0.11,38.55,"304",9.9,"tortonian",6228,-2.08,38.9881,6,1
 "28104",45489,"col","Monterey",-120.44,34.61,"Lompoc Quarry",NA,"UCMP V2502, Celite Company #5 quarry, John Mansfield quarry",79,"Tortonian","",11.62,7.246,11899,"gp_mid",-116.63,36.27,"105",9.433,"tortonian",6341,-114.7293,32.573,6,1
@@ -91,6 +104,7 @@
 "28604",46066,"col","Monterey",-118.35,33.79,"Dacelite Quarry",NA,"UCMP V-36118",1,"Tortonian","",11.62,7.246,12277,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",6561,-114.7293,32.573,6,1
 "28608",46070,"col","Santa Margarita",-122.04,37.05,"Bean Creek 2",NA,"UCMP V-5555, M1036",18,"Tortonian","",11.62,7.246,12283,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",6565,-115.9908,33.9833,6,1
 "28609",46071,"col","Santa Margarita",-119.44,34.61,"Stanford Locality (USGS M1217)",NA,"USGS M1217",2,"Tortonian","",11.62,7.246,12283,"gp_mid",-115.61,36.28,"105",9.433,"tortonian",6566,-114.7293,32.573,6,1
+"28825",46297,"col","Purisima",-121.85,36.92,"Manresa Beach, north",NA,"UCMP V6969",1,"Tortonian","",11.62,7.246,11877,"gp_mid",-118.06,38.59,"105",9.433,"tortonian",6664,-117.5219,37.7844,6,1
 "30487",48092,"col","Diest",4.46,51.19,"Middelares Hospital Section",NA,"",42,"Tortonian","",11.62,7.246,12873,"gp_mid",5.94,49.64,"315",9.433,"tortonian",7148,1.2302,49.0893,6,1
 "30568",48175,"col","",30.62,46.64,"Cherevichnoie, lower layer",NA,"Cherevichnoe, Cherevychne",8,"MN 12","",7.75,7.246,12908,"gp_mid",30.97,45.21,"302",7.498,"tortonian",7177,27.2673,47.1762,6,1
 "31530",49399,"col","",9.11,39.22,"Cava Carbone",NA,"Monte della Pace, Tuvumannu",1,"Tortonian","",11.62,7.246,26062,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",7495,5.3185,39.1681,6,1
@@ -100,6 +114,14 @@
 "33310",51719,"col","Eastover",-76.57,37.6,"USGS Loc. 25309 - Urbana Creek [Cobham Bay Mbr, Eastover Fm]",NA,"Kline Loc. 502",4,"Tortonian","",11.62,7.246,13777,"gp_mid",-72.5,38.75,"109",9.433,"tortonian",7968,-72.5917,36.6917,6,1
 "33606",52049,"col","Diest",4.49,51.19,"Borsbeek",NA,"Fort 3, Borsbeck",9,"Tortonian","",11.62,7.246,16855,"gp_mid",5.96,49.64,"315",9.433,"tortonian",8014,1.2302,49.0893,6,1
 "33607",52050,"col","St Marys",-76.62,38.42,"Colony Cliffs",NA,"Queen Anne Landing",4,"Tortonian","",11.62,7.246,12327,"gp_mid",-72.5,39.58,"109",9.433,"tortonian",8015,-72.5917,36.6917,6,1
+"33630",52073,"col","Chersonian",31.99,46.97,"Nikolaev",NA,"Vernoleninsk, Nikolayev, Nikolajew, Mykolayiv",3,"Tortonian","",11.62,7.246,11981,"gp_mid",32.44,45.11,"302",9.433,"tortonian",8024,30.9951,47.2686,6,1
+"33667",52111,"col","",-9.19,38.55,"Adica",NA,"",7,"Tortonian","",11.62,7.246,13982,"gp_mid",-7.88,37.29,"304",9.433,"tortonian",8040,-9.398,36.3593,6,1
+"33730",52169,"col","Gatun",-79.81,9.35,"Woodring Loc. 136 - Sabanita [lower Gatun Fm]",NA,"USGS 16912",47,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.54,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"33731",52170,"col","Gatun",-79.81,9.35,"Woodring Loc. 136a - Sabanita [lower Gatun Fm]",NA,"Stanford #2611",67,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"33732",52171,"col","Gatun",-79.82,9.35,"Woodring Loc. 137 - Sabanita [lower Gatun Fm]",NA,"USGS #16911",49,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"33733",52172,"col","Gatun",-79.81,9.35,"Woodring Loc. 137a - Sabanita [lower Gatun Fm]",NA,"Stanford #2655",42,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.54,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"33734",52176,"col","Gatun",-79.83,9.35,"Woodring Loc. 139 - eastern area [middle Gatun Fm]",NA,"USGS #6237",13,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"33736",52174,"col","Gatun",-79.83,9.35,"Woodring loc. 138a [lower Gatun Fm]",NA,"Stanford #2656",89,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
 "33745",52184,"col","Santa Margarita",-122.01,37.01,"Glen Canyon Road 1",NA,"UCMP V5805, Taylor Quarry, UCMP V6857, LACM 1779, 3255, USGS M1035, UCMP V69141, UCMP V6200",19,"Tortonian","",11.62,7.246,4384,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",8082,-115.9908,33.9833,6,1
 "33746",52185,"col","Santa Margarita",-122,37,"De Laveaga Park, UCMP V6200",NA,"De Lavega [sic] Park",9,"Tortonian","",11.62,7.246,6029,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",8083,-115.9908,33.9833,6,1
 "33763",52201,"col","Santa Margarita",-122.05,37.07,"Kaiser Olympia Sand Quarry",NA,"UCMP V6376",2,"Tortonian","",11.62,7.246,6029,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",8085,-115.9908,33.9833,6,1
@@ -108,6 +130,8 @@
 "33773",52211,"col","Monterey",-120.34,34.58,"LACM 3897",NA,"",1,"Tortonian","",11.62,7.246,46226,"gp_mid",-116.53,36.24,"105",9.433,"tortonian",8089,-114.7293,32.573,6,1
 "33774",52212,"col","Fernando",-118.45,34.4,"Soledad Canyon",NA,"UCMP 3585",4,"Tortonian","",11.62,7.246,37773,"gp_mid",-114.6,36.06,"105",9.433,"tortonian",8090,-114.7293,32.573,6,1
 "33779",52216,"col","Drakes Bay",-123,37.99,"Point Reyes",NA,"UCMP V6931, UCMP V6930",10,"Tortonian","",11.62,7.246,6029,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",8093,-115.9908,33.9833,6,1
+"35646",54174,"col","",-9.21,38.62,"Foz do Rego",NA,"",1,"Tortonian","",11.62,7.246,14646,"gp_mid",-7.9,37.36,"304",9.433,"tortonian",8661,-9.398,36.3593,6,1
+"35647",54175,"col","",-9.2,38.58,"Fonte da Telha",NA,"",1,"Tortonian","",11.62,7.246,14646,"gp_mid",-7.88,37.32,"304",9.433,"tortonian",8662,-9.398,36.3593,6,1
 "35847",55395,"col","St Marys",-76.43,38.33,"Drum Point",NA,"Patuxent River mouth",4,"Tortonian","",11.62,7.246,15442,"gp_mid",-72.31,39.47,"109",9.433,"tortonian",8730,-72.5917,36.6917,6,1
 "36118",55739,"col","Pietra leccese",18.17,40.35,"Cavallino Quarry",NA,"",1,"Tortonian","",11.62,7.246,15054,"gp_mid",19.28,38.01,"307",9.433,"tortonian",8804,17.2046,38.3906,6,1
 "36981",56950,"col","Haraichi",138.88,36.32,"Annakka",NA,"Annaka",7,"Tortonian","",11.62,7.246,15356,"gp_mid",137.08,35.93,"610",9.433,"tortonian",8956,137.0022,39.3909,6,1
@@ -130,18 +154,37 @@
 "39804",59982,"col","Santa Margarita",-122.01,37.01,"Glen Canyon Road 2",NA,"UCMP V-69141",1,"Tortonian","",11.62,7.246,4384,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",8082,-115.9908,33.9833,6,1
 "39975",60268,"col","",29.38,46.9,"Kalfa",NA,"Kelfa, Calfa",5,"MN 9","",11.1,9.7,17253,"gp_mid",29.97,44.84,"302",10.4,"tortonian",9652,27.2673,47.1762,6,1
 "40297",60620,"col","",-64.33,-42.93,"Punta Ninfas",NA,"",1,"Chasicoan","",10,9,7495,"gp_mid",-63.01,-42.48,"291",9.5,"tortonian",9735,-61.7371,-43.8132,6,1
+"40419",60744,"col","",24.05,34.85,"Bo, Gavdos Island, South Greece",NA,"Reef 3420",8,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9763,20.6539,33.5975,6,1
+"40420",60745,"col","",24.1,34.85,"Bardaris, Gavdos Island, South Greece",NA,"Reef 3420",7,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9764,20.6539,33.5975,6,1
+"40421",60746,"col","",24.08,34.87,"Aghios Ioannis, Gavdos Island, South Greece",NA,"Reef 3420",12,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9765,20.6539,33.5975,6,1
+"40447",60773,"col","",24.08,34.83,"Panagia, Gavdos Island, South Greece",NA,"Reef 3420",6,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9774,20.6539,33.5975,6,1
+"40448",60774,"col","",24.12,34.82,"Korfe, Gavdos Island, South Greece",NA,"Reef 3420",8,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9775,20.6539,33.5975,6,1
+"40449",60775,"col","",24.1,34.83,"Karave, Gavdos Island, South Greece",NA,"Reef 3420",10,"Tortonian","",11.62,7.246,17461,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",9776,20.6539,33.5975,6,1
+"40955",61334,"col","Gatun",-79.82,9.38,"PPP# 34 - Isla Payardí [middle Gatun Fm]",NA,"NMB Loc. 18360; 86-16-01",79,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
 "40956",61335,"col","Gatun",-80.65,9.04,"PPP# 163 - Río Calzones [Gatun Fm]",NA,"NMB Loc. 17620",4,"Tortonian","",11.62,7.246,17667,"gp_mid",-78.39,10.01,"230",9.433,"tortonian",9894,-84.6764,9.4227,6,1
 "40962",61342,"col","Gatun",-80.65,9.04,"PPP# 162 - Río Calzones [Gatun Fm]",NA,"NMB Loc. 17619",65,"Tortonian","",11.62,7.246,17667,"gp_mid",-78.39,10.01,"230",9.433,"tortonian",9894,-84.6764,9.4227,6,1
 "41337",61742,"col","Ichibangawa",141.63,43.41,"Ichibangawa River",NA,"",1,"Tortonian","",11.62,7.246,17795,"gp_mid",139.6,43.06,"610",9.433,"tortonian",9986,141.6983,44.111,6,1
+"41779",62466,"col","Aksucay",30.78,37.27,"Reef, Kargi section, Aksu sub-basin",NA,"Reef 2570",6,"Tortonian","",11.62,7.246,18042,"gp_mid",31.18,35.41,"504",9.433,"tortonian",1566,27.9299,36.6211,6,1
 "43462",65207,"col","",3.12,39.72,"Santa Margarita",NA,"",1,"Tortonian","",11.62,7.246,18798,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",10513,1.6165,39.0593,6,1
 "43477",65227,"col","",15.91,38.67,"Cava Gentile",NA,"",3,"Tortonian","",11.62,7.246,18804,"gp_mid",17.02,36.39,"307",9.433,"tortonian",10523,13.2627,36.0499,6,1
 "43479",65229,"col","Shiotsubo",139.74,37.6,"Takasato",NA,"",3,"Tortonian","",11.62,7.246,18808,"gp_mid",137.9,37.22,"610",9.433,"tortonian",10524,137.0022,39.3909,6,1
 "43607",65420,"col","",15.84,38.64,"Santa Domenica di Ricadi",NA,"",1,"Tortonian","",11.62,7.246,18856,"gp_mid",16.96,36.36,"307",9.433,"tortonian",10575,13.2627,36.0499,6,1
+"44044",65937,"col","",-9.11,38.73,"Braco de Prata",NA,"",1,"MN 9","",11.1,9.7,18869,"gp_mid",-7.65,37.32,"304",10.4,"tortonian",10633,-9.398,36.3593,6,1
+"44045",65938,"col","",-9.11,38.73,"Braco de Prata",NA,"",0,"MN 9","",11.1,9.7,18869,"gp_mid",-7.65,37.32,"304",10.4,"tortonian",10633,-9.398,36.3593,6,1
+"44050",65943,"col","",-9.15,38.67,"Quinta dos Duroes",NA,"Mutela; VIIa",2,"Tortonian","",11.62,7.246,18869,"gp_mid",-7.84,37.41,"304",9.433,"tortonian",10637,-9.398,36.3593,6,1
+"44051",65944,"col","",-9.21,38.66,"Quinta da Torre",NA,"",1,"MN 9","",11.1,9.7,18869,"gp_mid",-7.75,37.26,"304",10.4,"tortonian",10638,-9.398,36.3593,6,1
+"44052",65945,"col","",-9.21,38.65,"Navalhas",NA,"",1,"MN 9","",11.1,9.7,18869,"gp_mid",-7.76,37.25,"304",10.4,"tortonian",10639,-9.398,36.3593,6,1
+"44056",65949,"col","",-9.19,38.56,"Mina de Ouro da Adica",NA,"",1,"MN 9","",11.1,9.7,18869,"gp_mid",-7.74,37.15,"304",10.4,"tortonian",10641,-9.398,36.3593,6,1
+"44060",65953,"col","Littoral of Alentejo",-8.73,38.15,"Melides",NA,"",1,"MN 9","",11.1,9.7,18869,"gp_mid",-7.31,36.73,"304",10.4,"tortonian",10644,-9.398,36.3593,6,1
+"44066",65959,"col","Cacela",-7.54,37.17,"Cacela",NA,"",1,"MN 11","",8.7,7.75,18869,"gp_mid",-6.44,36.02,"304",8.225,"tortonian",10646,-9.398,36.3593,6,1
 "44675",66960,"col","Diest",4.46,51.22,"Deurne (Fort 1), Deurne Sand",NA,"",18,"Tortonian","",11.62,7.246,15538,"gp_mid",5.94,49.66,"315",9.433,"tortonian",10820,1.2302,49.0893,6,1
 "44740",67026,"col","Diest",4.84,51.18,"Canal d'Herentals",NA,"",6,"Tortonian","",11.62,7.246,19106,"gp_mid",6.3,49.62,"315",9.433,"tortonian",10827,1.2302,49.0893,6,1
+"45599",68214,"col","",23.99,38.02,"Pikermi (small mammals)",NA,"",5,"MN 12","",7.75,7.246,19617,"gp_mid",24.65,36.1,"308",7.498,"tortonian",11070,20.7261,35.7621,6,1
 "45650",68267,"col","Coquimbo",-71.5,-30.33,"Tongoy area, Coquimbo Formation, Unit 6",NA,"",5,"Tortonian","",11.62,7.246,19640,"gp_mid",-69.64,-29.82,"291",9.433,"tortonian",11084,-69.4539,-31.3447,6,1
 "45651",68268,"col","Coquimbo",-71.5,-30.33,"Tongoy area, Coquimbo Formation, Unit 7",NA,"",1,"Tortonian","",11.62,7.246,19640,"gp_mid",-69.64,-29.82,"291",9.433,"tortonian",11084,-69.4539,-31.3447,6,1
 "45652",68269,"col","Coquimbo",-71.5,-30.33,"Tongoy area, Coquimbo Formation, Unit 8",NA,"",4,"Tortonian","",11.62,7.246,19640,"gp_mid",-69.64,-29.82,"291",9.433,"tortonian",11084,-69.4539,-31.3447,6,1
+"45710",68335,"col","",-2.07,37.35,"Racor",NA,"",5,"MN 10","MN 11",9.7,7.75,19668,"gp_mid",NA,NA,"coordinates not computable using this model",8.725,"tortonian",11092,-5.7031,36.4217,6,1
+"46170",68818,"col","",4.73,45.92,"Ambérieu",NA,"Amberieu",3,"MN 10","",9.7,8.7,19833,"gp_mid",5.99,44.36,"305",9.2,"tortonian",11211,1.4397,44.0914,6,1
 "46263",68914,"col","",-0.8,38.25,"Crevillente 2",NA,"",9,"MN 11","",8.7,7.75,19886,"gp_mid",NA,NA,"coordinates not computable using this model",8.225,"tortonian",11257,-2.0051,36.4888,6,1
 "46264",68915,"col","",-0.8,38.25,"Crevillente 4B",NA,"",6,"MN 11","",8.7,7.75,19886,"gp_mid",NA,NA,"coordinates not computable using this model",8.225,"tortonian",11257,-2.0051,36.4888,6,1
 "46265",68916,"col","",-0.8,38.25,"Crevillente 8",NA,"",5,"MN 12","",7.75,7.246,19886,"gp_mid",NA,NA,"coordinates not computable using this model",7.498,"tortonian",11257,-2.0051,36.4888,6,1
@@ -153,6 +196,7 @@
 "46790",69803,"col","",-1.07,40.22,"Cubla",NA,"",1,"MN 12","",7.75,7.246,23416,"gp_mid",-0.11,39.1,"304",7.498,"tortonian",11448,-2.08,38.9881,6,1
 "46791",69804,"col","",-1.08,40.33,"Aljezar B",NA,"",0,"MN 12","",7.75,7.246,23416,"gp_mid",-0.12,39.21,"304",7.498,"tortonian",11449,-2.08,38.9881,6,1
 "46851",69896,"col","Upper Coralline Limestone",14.35,35.95,"Tat Tomna, Western Malta, Upper Coralline Limestone",NA,"Reef 712",19,"Tortonian","",11.62,7.246,23450,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",11467,13.2805,33.5499,6,1
+"46858",69903,"col","Kasaba",29.8,36.43,"Ortabag patch reefs, Susuz Dag Mts., Kasaba Formation, Antalya",NA,"Reef 648",14,"Tortonian","",11.62,7.246,23454,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",11473,27.9299,36.6211,6,1
 "46864",69909,"col","Pattish",34.62,31.28,"Ofaqim reef, Pattish Formation, Hadarom",NA,"Reef 719",2,"Tortonian","",11.62,7.246,23455,"gp_mid",34.75,28.56,"508",9.433,"tortonian",11476,31.7681,31.2129,6,1
 "46878",69925,"col","Monti Climiti",15.12,37.18,"Melilli, Siracusa, patch reefs, SE Sicily",NA,"Reef 730",21,"Tortonian","",11.62,7.246,23472,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",11481,13.2627,36.0499,6,1
 "47218",70492,"col","",15.85,38.35,"Palmi, Calabria",NA,"Reef 1994",8,"Tortonian","",11.62,7.246,23527,"gp_mid",16.96,36.07,"307",9.433,"tortonian",11540,13.2627,36.0499,6,1
@@ -162,6 +206,7 @@
 "47239",70514,"col","",-1.13,38.23,"El Desastre Reef, Fortuna Basin, Murcia",NA,"Reef 1835",10,"Tortonian","",11.62,7.246,23647,"gp_mid",0.02,36.79,"304",9.433,"tortonian",11548,-2.0051,36.4888,6,1
 "47263",70538,"col","Ambelouzos",24.96,35.08,"Psalidha coral buildup, Ambelouzos Formation, Crete",NA,"Reef 3280",4,"Tortonian","",11.62,7.246,23664,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",11557,24.3421,33.6435,6,1
 "47273",70547,"col","St Marys",-76.41,38.4,"Calvert Cliffs State Park",NA,"",1,"Tortonian","",11.62,7.246,23667,"gp_mid",-72.28,39.54,"109",9.433,"tortonian",11559,-72.5917,36.6917,6,1
+"47279",70554,"col","Port Campbell Limestone",141.63,-38.37,"Portland Limestone Cliffs",NA,"",4,"Tortonian","",11.62,7.246,23682,"gp_mid",143.17,-43.89,"801",9.433,"tortonian",11562,140.7325,-43.1876,6,1
 "47536",70849,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 22",NA,"",6,"Tortonian","",11.62,7.246,23697,"gp_mid",-72.34,39.6,"109",9.433,"tortonian",11609,-72.5917,36.6917,6,1
 "47537",70850,"col","Calvert",-76.46,38.45,"Flag Ponds, Zone 23",NA,"",7,"Tortonian","",11.62,7.246,23697,"gp_mid",-72.34,39.6,"109",9.433,"tortonian",11609,-72.5917,36.6917,6,1
 "47538",70851,"col","St Marys",-76.39,38.36,"Little Cove Point, Zone 22",NA,"",14,"Tortonian","",11.62,7.246,23697,"gp_mid",-72.27,39.51,"109",9.433,"tortonian",11610,-72.5917,36.6917,6,1
@@ -199,17 +244,21 @@
 "49925",74935,"col","Cercado",-71.18,19.45,"TU 1378, Rio Gurabo [Cercado Fm]",NA,"",39,"Tortonian","",11.62,7.246,19909,"gp_mid",-68.94,20.31,"252",9.433,"tortonian",12238,-72.4335,19.0086,6,1
 "50003",75061,"col","Gram",8.45,55.47,"Esbjerg",NA,"",2,"Tortonian","",11.62,7.246,25326,"gp_mid",9.98,53.84,"302",9.433,"tortonian",12260,4.6418,54.1611,6,1
 "50021",75089,"col","Chersonian",36.46,45.34,"Mitridat Mountain",NA,"Kerch",2,"Tortonian","",11.62,7.246,24838,"gp_mid",36.75,43.46,"302",9.433,"tortonian",12267,34.8601,44.8638,6,1
+"50059",75245,"col","",5.15,45.57,"Mollon",NA,"",2,"MN 11","",8.7,7.75,25403,"gp_mid",6.23,44.19,"305",8.225,"tortonian",12273,1.4397,44.0914,6,1
 "50060",75246,"col","",-0.8,38.25,"Crevillente 7",NA,"",2,"MN 12","",7.75,7.246,25403,"gp_mid",NA,NA,"coordinates not computable using this model",7.498,"tortonian",11257,-2.0051,36.4888,6,1
 "50393",75777,"col","Santa Margarita",-121.08,36.2,"Sweetwater Canyon 2",NA,"King City, near, UCMP V71154, UCMP D3176",1,"Tortonian","",11.62,7.246,12297,"gp_mid",-117.28,37.86,"105",9.433,"tortonian",12364,-114.7293,32.573,6,1
 "50396",75780,"col","Purisima",-122.94,38.05,"Drakes Estero 1",NA,"UCMP V3319",2,"Tortonian","",11.62,7.246,12297,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",12367,-115.9908,33.9833,6,1
 "50409",75794,"col","",30.4,47.15,"Novo-Yelizavetovka",NA,"Novoelizavetovka, Novoyelizavetivka",22,"Tortonian","",11.62,7.246,24838,"gp_mid",30.9,45.29,"302",9.433,"tortonian",12373,27.2673,47.1762,6,1
+"50410",75795,"col","",34.01,46.61,"Petroverovka",NA,"",2,"Tortonian","",11.62,7.246,24838,"gp_mid",34.38,44.74,"302",9.433,"tortonian",12374,30.9951,47.2686,6,1
 "50411",75796,"col","",30.73,46.46,"Odessa",NA,"",14,"Tortonian","",11.62,7.246,24838,"gp_mid",31.21,44.6,"302",9.433,"tortonian",12375,27.2673,47.1762,6,1
 "50412",75797,"col","",30.53,46.73,"Novaya Yemetovka",NA,"",15,"Tortonian","",11.62,7.246,24838,"gp_mid",31.02,44.87,"302",9.433,"tortonian",12376,27.2673,47.1762,6,1
 "50413",75798,"col","",31,46.68,"Vizirka",NA,"",1,"Tortonian","",11.62,7.246,24838,"gp_mid",31.47,44.82,"302",9.433,"tortonian",12377,27.2673,47.1762,6,1
 "50414",75799,"col","Balta sands",29.6,48.13,"Stratiyevka",NA,"",1,"Tortonian","",11.62,7.246,24838,"gp_mid",30.13,46.28,"302",9.433,"tortonian",12378,27.2673,47.1762,6,1
+"50415",75800,"col","",33.37,46.81,"Grebnicki",NA,"",29,"Tortonian","",11.62,7.246,24838,"gp_mid",33.77,44.94,"302",9.433,"tortonian",12379,30.9951,47.2686,6,1
 "50416",75801,"col","",30.05,48.43,"Tudorovo",NA,"",10,"Tortonian","",11.62,7.246,24838,"gp_mid",30.57,46.57,"302",9.433,"tortonian",12380,27.2673,47.1762,6,1
 "50417",75802,"col","",28.92,46.58,"Tarakliya",NA,"",54,"Tortonian","",11.62,7.246,24838,"gp_mid",29.46,44.73,"302",9.433,"tortonian",12381,27.2673,47.1762,6,1
 "50418",75803,"col","",28.78,46.53,"Chimishliya",NA,"",33,"Tortonian","",11.62,7.246,24838,"gp_mid",29.33,44.68,"302",9.433,"tortonian",12382,27.2673,47.1762,6,1
+"50421",75806,"col","",40.09,47.42,"Novocherkassk",NA,"Yanova",3,"Tortonian","",11.62,7.246,24838,"gp_mid",40.26,45.54,"302",9.433,"tortonian",12383,38.4704,47.4563,6,1
 "50470",75855,"col","",29.35,47.09,"Krasnogorka",NA,"",1,"Tortonian","",11.62,7.246,24838,"gp_mid",29.88,45.24,"302",9.433,"tortonian",12400,27.2673,47.1762,6,1
 "50561",75993,"col","Mashike",141.69,43.68,"Uryu",NA,"",1,"Tortonian","",11.62,7.246,41393,"gp_mid",139.65,43.33,"610",9.433,"tortonian",12448,141.6983,44.111,6,1
 "50667",76313,"col","",29.37,46.15,"Klyastitsy",NA,"",2,"Tortonian","",11.62,7.246,24838,"gp_mid",29.89,44.3,"302",9.433,"tortonian",12506,27.3946,44.6777,6,1
@@ -217,7 +266,23 @@
 "51846",78574,"col","",0.7,41.2,"Can Llobateres 1",NA,"",6,"MN 9","",11.1,9.7,26419,"gp_mid",2.04,39.55,"304",10.4,"tortonian",12875,-2.08,38.9881,6,1
 "51882",78631,"col","",15.08,40.33,"Cava di Argilla, Salerno, G. suterae zone",NA,"",19,"Tortonian","",11.62,7.246,26440,"gp_mid",16.29,38.07,"307",9.433,"tortonian",12879,13.5403,38.5283,6,1
 "52202",79180,"col","Arroyo Chasicó",-62.98,-38.62,"Arroyo Chasicó",NA,"",47,"Chasicoan","",10,9,26574,"gp_mid",-61.48,-38.2,"202",9.5,"tortonian",12969,-61.7869,-38.8134,6,1
+"52297",79784,"col","Gatun",-79.82,9.35,"PPP# 221 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17639",47,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52477",79779,"col","Gatun",-79.82,9.35,"PPP# 218 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17636",29,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52478",79780,"col","Gatun",-79.82,9.35,"PPP# 219 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17637",51,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52479",79783,"col","Gatun",-79.82,9.35,"PPP# 220 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17638",63,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52480",79785,"col","Gatun",-79.82,9.35,"PPP# 222 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17640",60,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52481",79790,"col","Gatun",-79.82,9.38,"PPP# 226 - Isla Payardi [middle Gatun Fm]",NA,"NMB Loc. 17644",71,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"52482",79791,"col","Gatun",-79.83,9.36,"PPP# 227 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 17645",77,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.57,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"52483",79792,"col","Gatun",-79.83,9.36,"PPP# 229 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 17647",61,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"52499",79834,"col","Gatun",-79.85,9.35,"PPP# 484 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 17865",16,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.58,10.29,"230",9.433,"tortonian",13072,-80.9368,9.2734,6,1
 "52532",79963,"col","Bayshore",-82.17,27.03,"Cocoplum Waterway [Cocoplum Mbr, Bayshore Fm]",NA,"",6,"Tortonian","",11.62,7.246,26813,"gp_mid",-78.83,28.44,"109",9.433,"tortonian",13087,-80.4012,26.8958,6,1
+"52545",79984,"col","Gatun",-79.82,9.35,"PPP# 223 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17641",63,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52546",79985,"col","Gatun",-79.83,9.36,"PPP# 224 - Isla Payardi [middle Gatun Fm]",NA,"NMB Loc. 17642",76,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.56,10.31,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"52547",79986,"col","Gatun",-79.83,9.36,"PPP# 230 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 17648",10,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"52548",79987,"col","Gatun",-79.85,9.35,"PPP# 485 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 17866",11,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",13072,-80.9368,9.2734,6,1
+"52557",79995,"col","Gatun",-79.82,9.38,"PPP# 225 - Isla Payardi [middle Gatun Fm]",NA,"NMB Loc. 17643",48,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"52558",79996,"col","Gatun",-79.82,9.35,"PPP# 231 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17649",58,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
+"52559",79997,"col","Gatun",-79.82,9.35,"PPP# 232 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 17650",36,"Tortonian","",11.62,7.246,17667,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",8077,-80.9368,9.2734,6,1
 "52727",80394,"col","",16.03,39.66,"Cessaniti",NA,"",4,"Tortonian","",11.62,7.246,27050,"gp_mid",17.18,37.37,"307",9.433,"tortonian",13144,13.5403,38.5283,6,1
 "52728",80395,"col","",15.98,38.66,"Zungri",NA,"",3,"Tortonian","",11.62,7.246,27050,"gp_mid",17.1,36.37,"307",9.433,"tortonian",13145,13.2627,36.0499,6,1
 "52729",80396,"col","",16.02,38.65,"Papaglionti",NA,"",1,"Tortonian","",11.62,7.246,27050,"gp_mid",17.13,36.36,"307",9.433,"tortonian",13146,13.2627,36.0499,6,1
@@ -228,19 +293,85 @@
 "52735",80402,"col","",16.59,38.91,"Cantanzaro",NA,"",2,"Tortonian","",11.62,7.246,27050,"gp_mid",17.69,36.61,"307",9.433,"tortonian",13151,13.5403,38.5283,6,1
 "53252",81491,"col","Urumaco",-70.28,11.25,"FMU 029",NA,"",5,"Tortonian","",11.62,7.246,27454,"gp_mid",-67.52,11.73,"203",9.433,"tortonian",13345,-72.2835,10.3156,6,1
 "53346",81588,"col","St Marys",-76.41,38.34,"Seahorse Beach, north",NA,"",1,"Tortonian","",11.62,7.246,27517,"gp_mid",-72.29,39.48,"109",9.433,"tortonian",13372,-72.5917,36.6917,6,1
+"53633",82116,"col","Gatun",-79.8,9.34,"PRI Pitt Coll. - Sabanita [lower Gatun Fm]",NA,"GA-9",54,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53636",82119,"col","Gatun",-79.8,9.34,"PRI Pitt Loc. 96 - Sabanita [lower Gatun Fm]",NA,"GA-11",46,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53638",82121,"col","Gatun",-79.8,9.34,"PRI Pitt Loc. 95 [lower Gatun Fm]",NA,"GA-7",56,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53639",82122,"col","Gatun",-79.8,9.34,"PRI Pitt Loc. 98 [lower Gatun Fm]",NA,"PRI Acc. 1267; GA-8",37,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53641",82124,"col","Gatun",-79.8,9.34,"PRI Pitt Loc. 97 [lower Gatun Fm]",NA,"GA-12",41,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53642",82125,"col","Gatun",-79.8,9.34,"PRI Pitt Coll. - Sabanita [lower Gatun Fm]",NA,"GA-10",21,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
+"53643",82126,"col","Gatun",-79.84,9.36,"PRI Pitt Coll. - Cativa road cut [Gatun Fm]",NA,"PRI Acc. 1267; GA-4",26,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"53644",82127,"col","Gatun",-79.84,9.36,"PRI Pitt Coll. - Near Cativa [lower Gatun Fm]",NA,"PRI Acc. 1267; GA-2",21,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"53645",82128,"col","Gatun",-79.82,9.39,"PRI Pitt Coll. - Isla Payardi [middle Gatun Fm]",NA,"PRI Acc. 1267; GA-1",32,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.56,10.33,"230",9.433,"tortonian",13536,-80.9368,9.2734,6,1
+"53646",82129,"col","Gatun",-79.82,9.39,"PRI Pitt Coll. - Isla Payardi [middle Gatun Fm]",NA,"PRI Acc. 1267; GA-3",16,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.56,10.33,"230",9.433,"tortonian",13536,-80.9368,9.2734,6,1
+"53647",82130,"col","Gatun",-79.8,9.34,"PRI Pitt Coll. - Sabanita [lower Gatun Fm]",NA,"PRI Acc. 1267; GA-5",31,"Tortonian","",11.62,7.246,19909,"gp_mid",-77.53,10.28,"230",9.433,"tortonian",13531,-80.9368,9.2734,6,1
 "53995",82517,"col","Modelo",-118.47,34.15,"Del Gado Drive",149545,"LACM 1267",5,"Tortonian","",11.62,7.246,27788,"gp_mid",-114.62,35.81,"105",9.433,"tortonian",13628,-114.7293,32.573,6,1
 "55738",84953,"col","Cercado",-71.18,19.45,"NMB Loc. 15901 - Río Gurabo [Cercado Fm]",NA,"Reef 3902",12,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.94,20.31,"252",9.433,"tortonian",12238,-72.4335,19.0086,6,1
 "56216",85514,"col","",36.47,45.36,"Kertsch",NA,"Kerch",9,"Tortonian","",11.62,7.246,28902,"gp_mid",36.76,43.48,"302",9.433,"tortonian",14391,34.8601,44.8638,6,1
 "56789",86500,"col","St Marys",-76.39,38.38,"Cove Point",NA,"",1,"Tortonian","",11.62,7.246,12835,"gp_mid",-72.27,39.52,"109",9.433,"tortonian",14604,-72.5917,36.6917,6,1
 "58395",88545,"col","Blinovo",36.38,45.27,"Kamysh-Burun district mine, quarry E",NA,"Arshintsevo",5,"Tortonian","",11.62,7.246,60839,"gp_mid",36.67,43.39,"302",9.433,"tortonian",15166,34.8601,44.8638,6,1
 "58871",89169,"col","Cercado",-71.33,19.53,"Cercado Formation (unspecified localities)",NA,"",5,"Tortonian","",11.62,7.246,31112,"gp_mid",-69.08,20.4,"252",9.433,"tortonian",15313,-72.4335,19.0086,6,1
+"59036",89445,"col","Breda",5.73,51.7,"Langenboom, Breda Formation, Unit A",NA,"",4,"Tortonian","",11.62,7.246,29366,"gp_mid",7.19,50.13,"315",9.433,"tortonian",15370,4.7843,51.6625,6,1
 "59627",90618,"col","Cercado",-71.62,18.93,"NMB Loc. 16857 - Río Cano [Cercado Fm]",NA,"",37,"Tortonian","",11.62,7.246,25313,"gp_mid",-69.39,19.81,"252",9.433,"tortonian",15616,-72.4335,19.0086,6,1
+"60065",91355,"col","",-9.23,38.65,"Caparica",NA,"Caparica et Mutela",4,"Tortonian","",11.62,7.246,30731,"gp_mid",-7.92,37.38,"304",9.433,"tortonian",15776,-9.398,36.3593,6,1
+"60754",92094,"col","",-9.2,38.62,"Costa de Caparica, Foz do Rego",NA,"",1,"Tortonian","",11.62,7.246,31005,"gp_mid",-7.89,37.35,"304",9.433,"tortonian",15987,-9.398,36.3593,6,1
+"61060",92444,"col","Gatun",-79.84,9.36,"TU 757 - Cativa [lower Gatun Fm]",NA,"",10,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"61061",92445,"col","Gatun",-79.84,9.36,"TU 958 - Cativa [lower Gatun Fm]",NA,"",9,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"61062",92446,"col","Gatun",-79.84,9.36,"TU 959 - Refinería Panamá [middle Gatun Fm]",NA,"",4,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"61098",92598,"col","Gatun",-79.84,9.36,"TU 962 - Refinería Panamá [middle Gatun Fm]",NA,"",7,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"61163",92599,"col","Gatun",-79.8,9.33,"TU 1431 - Sabanita [lower Gatun Fm]",NA,"",4,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.53,10.27,"230",9.433,"tortonian",16133,-80.9368,9.2734,6,1
+"61164",92600,"col","Gatun",-79.8,9.33,"TU 1432 - Residential Martin Luther King [lower Gatun Fm]",NA,"",3,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.53,10.27,"230",9.433,"tortonian",16133,-80.9368,9.2734,6,1
+"61165",92601,"col","Gatun",-79.8,9.33,"TU 1433 - Urbanization San Martin [lower Gatun Fm]",NA,"",3,"Tortonian","",11.62,7.246,31182,"gp_mid",-77.53,10.27,"230",9.433,"tortonian",16133,-80.9368,9.2734,6,1
+"61284",92752,"col","Gatun",-79.82,9.36,"CASG Loc. 58335 - Isla Payardi [middle Gatun Fm]",NA,"",2,"Tortonian","",11.62,7.246,31282,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
 "61363",92904,"col","",8.38,40.78,"Fiumi Santo",NA,"",11,"Tortonian","",11.62,7.246,31363,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",16185,5.3185,39.1681,6,1
+"61483",93051,"col","Gatun",-80,9.17,"Woodring Loc. 185 - western area [upper Gatun Fm]",NA,"",48,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.74,10.11,"230",9.433,"tortonian",16219,-80.9368,9.2734,6,1
+"61484",93052,"col","Gatun",-80,9.17,"Woodring Loc. 183 - western area [upper Gatun Fm]",NA,"USGS Loc. 8487",28,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.74,10.11,"230",9.433,"tortonian",16219,-80.9368,9.2734,6,1
+"61485",93053,"col","Gatun",-80,9.17,"Woodring Loc. 182a - western area [upper Gatun Fm]",NA,"",31,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.74,10.11,"230",9.433,"tortonian",16219,-80.9368,9.2734,6,1
+"61486",93054,"col","Gatun",-80,9.17,"Woodring Loc. 182 - western area [upper Gatun Fm]",NA,"",38,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.74,10.11,"230",9.433,"tortonian",16219,-80.9368,9.2734,6,1
+"61487",93055,"col","Gatun",-80,9.17,"Woodring Loc. 179, western area [upper Gatun Fm]",NA,"",6,"Tortonian","",11.62,7.246,13235,"gp_mid",-77.74,10.11,"230",9.433,"tortonian",16219,-80.9368,9.2734,6,1
+"61488",93056,"col","Gatun",-79.97,9.28,"Woodring Loc. 163 - eastern area [upper Gatun Fm]",NA,"",16,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.7,10.23,"230",9.433,"tortonian",16220,-80.9368,9.2734,6,1
+"61489",93057,"col","Gatun",-79.92,9.29,"Woodring Loc. 171 - eastern area [upper Gatun Fm]",NA,"",24,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.66,10.24,"230",9.433,"tortonian",16221,-80.9368,9.2734,6,1
+"61490",93058,"col","Gatun",-79.92,9.3,"Woodring Loc. 172 - eastern area [upper Gatun Fm]",NA,"",28,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.24,"230",9.433,"tortonian",16222,-80.9368,9.2734,6,1
+"61491",93059,"col","Gatun",-79.92,9.3,"Woodring Loc. 173 - eastern area [upper Gatun Fm]",NA,"",40,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.25,"230",9.433,"tortonian",16222,-80.9368,9.2734,6,1
+"61492",93060,"col","Gatun",-79.92,9.3,"Woodring Loc. 173a - eastern area [upper Gatun Fm]",NA,"",20,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.24,"230",9.433,"tortonian",16222,-80.9368,9.2734,6,1
+"61493",93061,"col","Gatun",-79.9,9.33,"Woodring Loc. 174 - eastern area [middle Gatun Fm]",NA,"",10,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.27,"230",9.433,"tortonian",16223,-80.9368,9.2734,6,1
+"61494",93062,"col","Gatun",-79.89,9.33,"Woodring Loc. 175 - eastern area [middle Gatun Fm]",NA,"",55,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.27,"230",9.433,"tortonian",16224,-80.9368,9.2734,6,1
+"61549",93144,"col","Gatun",-79.83,9.35,"Woodring Loc. 138b - Cativa [lower Gatun Fm]",NA,"USGS 19853",27,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61550",93145,"col","Gatun",-79.83,9.35,"Woodring Loc. 138c - Cativa [lower Gatun Fm]",NA,"USGS 21956",138,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61551",93146,"col","Gatun",-79.83,9.35,"Woodring Loc. 138d - Cativa [lower Gatun Fm]",NA,"USGS 22016",87,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61552",93147,"col","Gatun",-79.83,9.35,"Woodring Loc. 138e - Cativa [lower Gatun Fm]",NA,"USGS 22391",51,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61553",93148,"col","Gatun",-79.83,9.35,"Woodring Loc. 138f - Cativa [lower Gatun Fm]",NA,"USGS 23663",48,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61554",93149,"col","Gatun",-79.83,9.35,"Woodring Loc. 138g - Cativa [lower Gatun Fm]",NA,"USGS 23664",20,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61555",93150,"col","Gatun",-79.83,9.35,"Woodring Loc. 138h - Cativa [lower Gatun Fm]",NA,"USGS 25281",13,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61564",93159,"col","Gatun",-79.83,9.35,"Woodring Loc. 139b - eastern area [lower Gatun Fm]",NA,"USGS #22017",63,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61565",93160,"col","Gatun",-79.83,9.35,"Woodring Loc. 139c - eastern area [lower Gatun Fm]",NA,"USGS #22018",92,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61566",93161,"col","Gatun",-79.83,9.35,"Woodring Loc. 139d - eastern area [lower Gatun Fm]",NA,"USGS #22390",11,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61567",93162,"col","Gatun",-79.83,9.35,"Woodring Loc. 139e - eastern area [lower Gatun Fm]",NA,"USGS #22019",47,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61568",93163,"col","Gatun",-79.83,9.35,"Woodring Loc. 139f - eastern area [lower Gatun Fm]",NA,"USGS #22020",31,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61569",93164,"col","Gatun",-79.83,9.35,"Woodring Loc. 139g - eastern area [lower Gatun Fm]",NA,"USGS #22417",38,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61570",93165,"col","Gatun",-79.83,9.35,"Woodring Loc. 139h - eastern area [lower Gatun Fm]",NA,"USGS #25278",8,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61571",93166,"col","Gatun",-79.83,9.35,"Woodring Loc. 140 - eastern area [middle Gatun Fm]",NA,"",23,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61572",93167,"col","Gatun",-79.83,9.35,"Woodring Loc. 141 - eastern area [middle Gatun Fm]",NA,"USGS 16948",17,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",8078,-80.9368,9.2734,6,1
+"61573",93168,"col","Gatun",-79.88,9.28,"Woodring Loc. 144a - eastern area [middle Gatun Fm]",NA,"USGS 6029b",23,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.22,"230",9.433,"tortonian",16253,-80.9368,9.2734,6,1
+"61574",93169,"col","Gatun",-79.88,9.28,"Woodring Loc. 144c - eastern area [middle Gatun Fm]",NA,"USGS 6235",8,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.62,10.22,"230",9.433,"tortonian",16253,-80.9368,9.2734,6,1
+"61575",93170,"col","Gatun",-79.88,9.28,"Woodring Loc. 144d - eastern area [middle Gatun Fm]",NA,"USGS 6334",10,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.62,10.22,"230",9.433,"tortonian",16253,-80.9368,9.2734,6,1
+"61576",93171,"col","Gatun",-79.91,9.26,"Woodring Loc. 146 - eastern area [middle Gatun Fm]",NA,"USGS 5845",60,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.64,10.21,"230",9.433,"tortonian",16254,-80.9368,9.2734,6,1
+"61577",93172,"col","Gatun",-79.91,9.26,"Woodring Loc. 147b - eastern area [middle Gatun Fm]",NA,"USGS 6033c",102,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16254,-80.9368,9.2734,6,1
+"61578",93173,"col","Gatun",-79.91,9.26,"Woodring Loc. 147f - eastern area [middle Gatun Fm]",NA,"USGS 6006",28,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16254,-80.9368,9.2734,6,1
+"61579",93174,"col","Gatun",-79.91,9.26,"Woodring Loc. 147g - eastern area [middle Gatun Fm]",NA,"USGS 5899",73,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16254,-80.9368,9.2734,6,1
+"61580",93175,"col","Gatun",-79.92,9.26,"Woodring Loc. 147h - eastern area [middle Gatun Fm]",NA,"USGS 6442",58,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"61581",93176,"col","Gatun",-79.92,9.27,"Woodring Loc. 155b - eastern area [middle Gatun Fm]",NA,"USGS 16949",75,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"61582",93177,"col","Gatun",-79.92,9.27,"Woodring Loc. 155c - eastern area [middle Gatun Fm]",NA,"USGS Loc. 16915",76,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"61620",93222,"col","Gatun",-79.9,9.34,"Woodring Loc. 177 - eastern area [upper Gatun Fm]",NA,"",33,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.28,"230",9.433,"tortonian",16272,-80.9368,9.2734,6,1
+"61621",93223,"col","Gatun",-79.9,9.34,"Woodring Loc. 177a - eastern area [upper Gatun Fm]",NA,"USGS 4895",11,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.28,"230",9.433,"tortonian",16272,-80.9368,9.2734,6,1
+"61622",93224,"col","Gatun",-79.89,9.34,"Woodring Loc. 178 - eastern area [upper Gatun Fm]",NA,"Stanford University Loc. 2672",25,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.28,"230",9.433,"tortonian",16273,-80.9368,9.2734,6,1
 "61895",93644,"col","Cercado",-71.18,19.45,"NMB Loc. 15900 - Río Gurabo [Cercado Fm]",NA,"",27,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.94,20.31,"252",9.433,"tortonian",12238,-72.4335,19.0086,6,1
 "61931",93686,"col","Cercado",-71.08,19.48,"NMB Loc. 16910 - Rio Mao [Cercado Fm]",NA,"",28,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.83,20.34,"252",9.433,"tortonian",16399,-72.4335,19.0086,6,1
+"62086",93909,"col","Gatun",-79.85,9.37,"Cativá [lower Gatun Fm]",NA,"",18,"Tortonian","",11.62,7.246,31932,"gp_mid",-77.58,10.31,"230",9.433,"tortonian",16448,-80.9368,9.2734,6,1
 "62261",94093,"col","Cercado",-71.18,19.47,"NMB Loc. 15893 - Rio Gurabo [Cercado Fm]",NA,"",6,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.94,20.33,"252",9.433,"tortonian",16471,-72.4335,19.0086,6,1
 "62298",94139,"col","Cercado",-71.08,19.45,"NMB Loc. 16915 - Rio Mao [Cercado Fm]",NA,"",16,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.84,20.31,"252",9.433,"tortonian",12237,-72.4335,19.0086,6,1
 "62300",94141,"col","Cercado",-71.08,19.45,"NMB Loc. 16914 - Rio Mao [Cercado Fm]",NA,"",12,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.84,20.31,"252",9.433,"tortonian",12237,-72.4335,19.0086,6,1
+"62942",94930,"col","",5.83,51.43,"Hoogdonk Sandpit",NA,"Liessel",3,"Tortonian","",11.62,7.246,32359,"gp_mid",7.27,49.85,"315",9.433,"tortonian",16620,4.7843,51.6625,6,1
+"64364",96700,"col","Gatun",-79.84,9.35,"Las Lomas",20,"YPA017",24,"Tortonian","",11.62,7.246,32976,"gp_mid",-77.57,10.3,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
 "64424",96780,"col","Arenaria di Ponsano",10.94,43.36,"Ponsano",NA,"",4,"Tortonian","",11.62,7.246,32997,"gp_mid",12.43,41.21,"307",9.433,"tortonian",17093,10.0391,41.169,6,1
 "64843",97324,"col","Haraichi",138.99,36.27,"Kabura River",NA,"Yoshii",1,"Tortonian","",11.62,7.246,33200,"gp_mid",137.2,35.88,"610",9.433,"tortonian",17218,137.0022,39.3909,6,1
 "65568",98312,"col","Gram",9,55.28,"Gram Formation",NA,"",148,"Tortonian","",11.62,7.246,33963,"gp_mid",10.5,53.65,"302",9.433,"tortonian",17470,4.6418,54.1611,6,1
@@ -248,9 +379,20 @@
 "66655",99606,"col","",34.83,31.4,"Bir Khweilfe",NA,"",7,"Tortonian","",11.62,7.246,34255,"gp_mid",34.97,28.67,"508",9.433,"tortonian",17869,31.7681,31.2129,6,1
 "66825",99852,"col","Cercado",-71.17,19.48,"NMB Loc. 15907 - Río Gurabo [Cercado Fm]",NA,"",34,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.92,20.34,"252",9.433,"tortonian",17927,-72.4335,19.0086,6,1
 "66827",99854,"col","Cercado",-71.04,19.58,"NMB Loc. 16913 - Río Mao [Cercado Fm]",NA,"",20,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.79,20.43,"252",9.433,"tortonian",17928,-72.4335,19.0086,6,1
+"66993",100047,"col","Chagres Sandstone",-80.25,9.17,"NMB 18764 - Gombea [Rio Indio facies, Chagres Sandstone]",NA,"",2,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.99,10.12,"230",9.433,"tortonian",17995,-80.9368,9.2734,6,1
+"66994",100048,"col","Chagres Sandstone",-80.24,9.18,"NMB 18992 - Rio Indio [Rio Indio facies, Chagres Sandstone]",NA,"",1,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
+"66995",100049,"col","Chagres Sandstone",-80.24,9.18,"NMB 18988 - Boca Río Piloncito [Río Indio facies, Chagres Sandstone]",NA,"",1,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
+"66996",100050,"col","Chagres Sandstone",-80.24,9.18,"NMB 18989 - Boca Río Piloncito [Río Indio facies, Chagres Sandstone]",NA,"",2,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
+"66997",100051,"col","Chagres Sandstone",-80.24,9.18,"NMB 18990 - Boca Río Piloncito [Río Indio facies, Chagres Sandstone]",NA,"",2,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
+"66998",100052,"col","Chagres Sandstone",-80.24,9.18,"NMB 18991 - Boca Río Piloncito [Río Indio facies, Chagres Sandstone]",NA,"",3,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
+"66999",100053,"col","Chagres Sandstone",-80.24,9.18,"NMB 18986 - Río Indio [Río Indio facies, Chagres Sandstone]",NA,"",1,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.98,10.14,"230",9.433,"tortonian",17996,-80.9368,9.2734,6,1
 "68371",101985,"col","Puerto Madryn",-64,-42.5,"Peninsula Valdes",NA,"",1,"Tortonian","",11.62,7.246,34663,"gp_mid",-62.58,-42.13,"291",9.433,"tortonian",18566,-61.7371,-43.8132,6,1
 "71334",106474,"col","Ampelouzos",24.99,35.14,"Panassos",NA,"Panassos 2",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",19847,24.3421,33.6435,6,1
 "72713",110126,"col","Ampelouzos",24.94,35.06,"Ampelouzos",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20350,24.3421,33.6435,6,1
+"74353",110114,"col","",-2.12,37.12,"Sorbas Basin",NA,"",24,"Tortonian","",11.62,7.246,36300,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20873,-5.7031,36.4217,6,1
+"74362",110123,"col","Akrotiri",24.11,35.41,"Stylos",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20876,20.6539,33.5975,6,1
+"74363",110124,"col","Roka",23.84,35.61,"Afrata",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20877,20.6539,33.5975,6,1
+"74364",110125,"col","Roka",23.67,35.5,"Kotsiana",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20878,20.6539,33.5975,6,1
 "74365",110127,"col","Ampelouzos",24.97,35.14,"Kefala Gergeri",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20879,24.3421,33.6435,6,1
 "74366",110128,"col","Achladia",26.16,35.2,"Tripitos",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20880,24.3421,33.6435,6,1
 "74367",110129,"col","",25.28,35.05,"Filippoi",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20881,24.3421,33.6435,6,1
@@ -263,7 +405,9 @@
 "78941",115776,"col","Puerto Madryn",-64.98,-42.65,"Doradillo",NA,"",1,"Tortonian","",11.62,7.246,37406,"gp_mid",-63.56,-42.26,"291",9.433,"tortonian",22090,-61.7371,-43.8132,6,1
 "79094",116131,"col","",-1.33,38.13,"Ulea",NA,"",1,"Tortonian","",11.62,7.246,37436,"gp_mid",-0.18,36.69,"304",9.433,"tortonian",22151,-2.0051,36.4888,6,1
 "79095",116132,"col","",-1.5,37.98,"Pliego",NA,"",17,"Tortonian","",11.62,7.246,37436,"gp_mid",-0.35,36.55,"304",9.433,"tortonian",22152,-2.0051,36.4888,6,1
+"79098",116135,"col","",-2.45,36.83,"Almeria",NA,"",14,"Tortonian","",11.62,7.246,37436,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",22153,-5.7031,36.4217,6,1
 "79100",116137,"col","",-1.62,37.73,"Sierra Tercia",NA,"",5,"Tortonian","",11.62,7.246,37436,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",22155,-2.0051,36.4888,6,1
+"80778",118105,"col","Gatun",-79.81,9.37,"Isla Payardi",20,"YPA021",7,"Tortonian","",11.62,7.246,38040,"gp_mid",-77.54,10.31,"230",9.433,"tortonian",22618,-80.9368,9.2734,6,1
 "84029",121981,"col","Upper Coralline Limestone",14.34,35.95,"Ghajn Znuber, Greensand",NA,"",6,"Tortonian","",11.62,7.246,38808,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",23486,13.2805,33.5499,6,1
 "84037",121989,"col","Blue Clay",14.34,35.91,"Fomm ir-Rih",NA,"",4,"Tortonian","",11.62,7.246,38808,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",23488,13.2805,33.5499,6,1
 "84038",121990,"col","Blue Clay",14.33,35.97,"Ras il-Qammieh",NA,"",2,"Tortonian","",11.62,7.246,38808,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",23489,13.2805,33.5499,6,1
@@ -293,6 +437,7 @@
 "90533",131012,"col","Caujarao",-69.32,11.46,"UCVG 7034 - La Vela, Falcon [Mataruca Mbr, Caujarao Fm]",NA,"GS-3-FLCN",1,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.56,11.92,"203",9.433,"tortonian",25163,-68.7922,10.4163,6,1
 "90534",131013,"col","Caujarao",-69.32,11.46,"NMB Loc. 17529 - Pueblo Cumarebo, Falcon [Caujarao Fm]",NA,"GS-3-FLCN",1,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.56,11.92,"203",9.433,"tortonian",25163,-68.7922,10.4163,6,1
 "90535",131014,"col","Caujarao",-69.57,11.45,"UCMP Loc. S-384 - La Vela, Falcon [Mataruca Mbr, Caujarao Fm]",NA,"",1,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.81,11.92,"203",9.433,"tortonian",25162,-72.2835,10.3156,6,1
+"90608",131122,"col","Gatun",-79.92,9.27,"CASG Loc. 323 - Gatun Locks [middle Gatun Fm]",NA,"",2,"Tortonian","",11.62,7.246,26828,"gp_mid",-77.66,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
 "90757",131304,"col","Caujarao",-69.57,11.45,"Hodson Loc. 185 - La Vela, Falcon [Mataruca Mbr, Caujarao Fm]",NA,"",28,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.81,11.92,"203",9.433,"tortonian",25162,-72.2835,10.3156,6,1
 "90758",131305,"col","Caujarao",-69.57,11.45,"UCVG 7037 - La Vela, Falcon [Mataruca Mbr, Caujarao Fm]",NA,"GS-1-FLCN",1,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.81,11.92,"203",9.433,"tortonian",25162,-72.2835,10.3156,6,1
 "90759",131306,"col","Caujarao",-69.57,11.45,"NMB Loc. 13116 - La Vela, Falcon [Mataruca Mbr, Caujarao Fm]",NA,"",2,"Tortonian","",11.62,7.246,26828,"gp_mid",-66.81,11.92,"203",9.433,"tortonian",25162,-72.2835,10.3156,6,1
@@ -333,12 +478,28 @@
 "90900",131519,"col","Cercado",-71.04,19.58,"NMB Loc. 16802 - Rio Mao [Cercado Fm]",NA,"PJ# 1556",15,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.79,20.43,"252",9.433,"tortonian",17928,-72.4335,19.0086,6,1
 "90902",142339,"col","Arroyo Chasicó",-62.98,-38.6,"Ribera del Arroyo Chasicó",NA,"",1,"Chasicoan","",10,9,46212,"gp_mid",-61.48,-38.18,"202",9.5,"tortonian",25235,-61.7869,-38.8134,6,1
 "91025",131667,"col","Cercado",-71.04,19.58,"NMB Loc. 16801 - Río Mao [Cercado Fm]",NA,"PJ# 1555",11,"Tortonian","",11.62,7.246,25313,"gp_mid",-68.79,20.43,"252",9.433,"tortonian",17928,-72.4335,19.0086,6,1
+"91537",132316,"col","Gatun",-79.82,9.38,"CASG Loc. 61335 - Isla Payardi [middle Gatun Fm]",NA,"",1,"Tortonian","",11.62,7.246,19070,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"92146",133112,"col","Breda",5.83,51.43,"De Hoogdonk brickyard",NA,"",1,"Tortonian","",11.62,7.246,56596,"gp_mid",7.27,49.85,"315",9.433,"tortonian",16620,4.7843,51.6625,6,1
+"92334",133430,"col","Wakkanai",142,44.83,"Homare 2 District",NA,"Teshio River",2,"Tortonian","",11.62,7.246,42985,"gp_mid",139.92,44.49,"610",9.433,"tortonian",25602,141.4442,46.5037,6,1
 "92991",134303,"col","Blinovo",40.08,44.59,"HEPS",NA,"",2,"Tortonian","",11.62,7.246,43198,"gp_mid",40.25,42.71,"302",9.433,"tortonian",25790,38.6019,44.958,6,1
+"93304",134661,"col","Gatun",-79.92,9.27,"Gatun [middle Gatun Fm]",NA,"",53,"Tortonian","",11.62,7.246,43229,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"93305",134662,"col","Gatun",-79.9,9.34,"Mount Hope [upper Gatun Fm]",NA,"",22,"Tortonian","",11.62,7.246,43229,"gp_mid",-77.63,10.28,"230",9.433,"tortonian",16272,-80.9368,9.2734,6,1
 "94019",135503,"col","",-69.42,11.28,"Hodson Loc. 155",NA,"",11,"Tortonian","",11.62,7.246,17421,"gp_mid",-66.66,11.75,"203",9.433,"tortonian",26212,-72.2835,10.3156,6,1
 "94020",135504,"col","",-69.42,11.28,"Hodson Loc. 150A",NA,"",10,"Tortonian","",11.62,7.246,17421,"gp_mid",-66.66,11.75,"203",9.433,"tortonian",26212,-72.2835,10.3156,6,1
 "94276",135808,"col","St. Marys",-76.43,38.32,"Astroscopus counterman Type Locality",NA,"",4,"Tortonian","",11.62,7.246,43453,"gp_mid",-72.32,39.46,"109",9.433,"tortonian",26310,-72.5917,36.6917,6,1
+"94354",135886,"col","Gatun",-79.92,9.27,"Gatun Locks [middle Gatun Fm]",NA,"",1,"Tortonian","",11.62,7.246,31572,"gp_mid",-77.66,10.22,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
 "94356",135888,"col","Puente",-118.29,34.06,"LACM 6202, Wilshire and Vermont",NA,"",5,"Tortonian","",11.62,7.246,43481,"gp_mid",-114.44,35.72,"105",9.433,"tortonian",26334,-114.7293,32.573,6,1
+"94430",136005,"col","Gatun",-79.84,9.36,"Las Lomas [lower Gatun Fm]",NA,"",23,"Tortonian","",11.62,7.246,43491,"gp_mid",-77.57,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"94431",136006,"col","Chagres Sandstone",-80.28,9.17,"NMB 18985 - Río Indio [Río Indio facies, Chagres Sandstone]",NA,"",31,"Tortonian","",11.62,7.246,43491,"gp_mid",-78.02,10.12,"230",9.433,"tortonian",26352,-80.9368,9.2734,6,1
+"94433",136014,"col","Gatun",-79.83,9.36,"PPP# 1306 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 18390",52,"Tortonian","",11.62,7.246,43491,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"94434",136015,"col","Gatun",-79.92,9.29,"Gatun Locks [upper Gatun Fm]",NA,"",2,"Tortonian","",11.62,7.246,43491,"gp_mid",-77.65,10.24,"230",9.433,"tortonian",16221,-80.9368,9.2734,6,1
+"94435",136016,"col","Gatun",-79.84,9.36,"PPP# 2166 - San Judas Tadeo [lower Gatun Fm]",NA,"NMB Loc. 18665",118,"Tortonian","",11.62,7.246,25339,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"94500",136118,"col","Gatun",-79.82,9.38,"PPP# 1081 - Isla Payardi [middle Gatun Fm]",NA,"NMB Loc. 18262; 92-00-02",37,"Tortonian","",11.62,7.246,43491,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
 "94513",143340,"col","Tziqlag",34.73,31.8,"Bet Shemesh, Tziqlag Formation, Sample 834 BB",NA,"",2,"Tortonian","",11.62,7.246,46427,"gp_mid",34.89,29.07,"508",9.433,"tortonian",26374,31.7681,31.2129,6,1
+"94632",136303,"col","Gatun",-79.81,9.35,"Sand Dollar Hill [lower Gatun Fm]",NA,"",5,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.54,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"94642",136313,"col","Gatun",-79.83,9.36,"PPP# 1034 - Cativa [lower Gatun Fm]",NA,"NMB Loc. 18258",3,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"94810",136598,"col","Gatun",-79.91,9.27,"CASG Loc. 2653 - Gatun Locks [middle Gatun Fm]",NA,"",2,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",26475,-80.9368,9.2734,6,1
+"94894",136701,"col","Chagres Sandstone",-80.12,9.21,"NMB 18987 - Gobea [Río Indio facies, Chagres Sandstone]",NA,"",2,"Tortonian","",11.62,7.246,30037,"gp_mid",-77.86,10.16,"230",9.433,"tortonian",26501,-80.9368,9.2734,6,1
 "96296",138312,"col","",24.93,35.12,"Gergeri-Raptis, basal sandy silts, sample  KR65",NA,"",30,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
 "96297",138313,"col","",24.93,35.12,"Gergeri-Raptis, silty clays, sample  KR61",NA,"",15,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
 "96313",138331,"col","",24.93,35.12,"Gergeri-Raptis, clayey lenses, sample  RA11",NA,"",19,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
@@ -364,8 +525,53 @@
 "96539",138580,"col","",24.93,35.12,"Gergeri-Raptis, silts, sample RA27",NA,"",23,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
 "96540",138581,"col","",24.93,35.12,"Gergeri-Raptis, silts, sample RA26",NA,"",25,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
 "96541",138584,"col","",24.93,35.12,"Gergeri-Raptis, clayey lenses, sample GE35",NA,"",36,"Tortonian","",11.62,7.246,44237,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",26931,24.3421,33.6435,6,1
+"96710",138763,"col","",3,45.14,"Joursac (Marty coll)",NA,"",4,"Tortonian","",11.62,7.246,44462,"gp_mid",4.28,43.62,"305",9.433,"tortonian",26982,1.4397,44.0914,6,1
+"96711",138764,"col","",3.01,45.15,"Servières, near Joursac",NA,"",2,"Tortonian","",11.62,7.246,44462,"gp_mid",4.29,43.63,"305",9.433,"tortonian",26983,1.4397,44.0914,6,1
+"96713",138766,"col","",3,45.14,"Joursac (Musée Rames coll)",NA,"",3,"Tortonian","",11.62,7.246,44462,"gp_mid",4.28,43.62,"305",9.433,"tortonian",26982,1.4397,44.0914,6,1
 "97890",140010,"col","Parana",-60.49,-32.08,"Arroyo Ensenada valley",NA,"",17,"Tortonian","",11.62,7.246,45189,"gp_mid",-58.74,-31.79,"202",9.433,"tortonian",27239,-58.0242,-33.7893,6,1
 "98626",140913,"col","Arroyo Chasicó",-63.02,-38.63,"Barrancas del Arroyo Chasicó",NA,"",6,"Chasicoan","",10,9,45726,"gp_mid",-61.51,-38.21,"202",9.5,"tortonian",27361,-61.7869,-38.8134,6,1
+"100161",142895,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 1 [lower Gatun Fm]",NA,"Urbanization Alborada",11,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100163",142897,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 2 [lower Gatun Fm]",NA,"Urbanization Alborada",17,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100164",142898,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 3 [lower Gatun Fm]",NA,"Urbanization Alborada",17,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100165",142899,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 4 [lower Gatun Fm]",NA,"Urbanization Alborada",15,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100167",142901,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 5 [lower Gatun Fm]",NA,"Urbanization Alborada",12,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100168",142902,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 6 [lower Gatun Fm]",NA,"Urbanization Alborada",15,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100169",142903,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 7 [lower Gatun Fm]",NA,"Urbanization Alborada",8,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100171",142905,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 8 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100172",142906,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 9 [lower Gatun Fm]",NA,"Urbanization Alborada",11,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100176",142910,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 10 [lower Gatun Fm]",NA,"Urbanization Alborada",8,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100177",142911,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 11 [lower Gatun Fm]",NA,"Urbanization Alborada",6,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100179",142913,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 12 [lower Gatun Fm]",NA,"Urbanization Alborada",9,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100184",142918,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 40 [lower Gatun Fm]",NA,"Urbanization Alborada",13,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100185",142919,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 41 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100187",142921,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 42 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100188",142922,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 43 [lower Gatun Fm]",NA,"Urbanization Alborada",15,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100189",142923,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 44 [lower Gatun Fm]",NA,"Urbanization Alborada",12,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100190",142924,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 45 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100191",142925,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 46 [lower Gatun Fm]",NA,"Urbanization Alborada",13,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100192",142926,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 47 [lower Gatun Fm]",NA,"Urbanization Alborada",9,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100193",142927,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 48 [lower Gatun Fm]",NA,"Urbanization Alborada",14,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100196",142930,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 49 [lower Gatun Fm]",NA,"Urbanization Alborada",11,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100197",142931,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 50 [lower Gatun Fm]",NA,"Urbanization Alborada",15,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100198",142932,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 51 [lower Gatun Fm]",NA,"Urbanization Alborada",15,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100199",142933,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 52 [lower Gatun Fm]",NA,"Urbanization Alborada",17,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100200",142934,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 53 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100201",142935,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 54 [lower Gatun Fm]",NA,"Urbanization Alborada",9,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100202",142936,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 55 [lower Gatun Fm]",NA,"Urbanization Alborada",13,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100204",142938,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 56 [lower Gatun Fm]",NA,"Urbanization Alborada",14,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100205",142939,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 57 [lower Gatun Fm]",NA,"Urbanization Alborada",13,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100206",142940,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 58 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100207",142941,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 59 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100208",142942,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 60 [lower Gatun Fm]",NA,"Urbanization Alborada",12,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100209",142943,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 61 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100210",142944,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 62 [lower Gatun Fm]",NA,"Urbanization Alborada",12,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100211",142945,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 63 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100212",142946,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 64 [lower Gatun Fm]",NA,"Urbanization Alborada",11,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100213",142947,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 65 [lower Gatun Fm]",NA,"Urbanization Alborada",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100214",142948,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 66 [lower Gatun Fm]",NA,"Urbanization Alborada",12,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100216",142950,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 67 [lower Gatun Fm]",NA,"Urbanization Alborada",14,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100217",142951,"col","Gatun",-79.82,9.34,"STRI Loc. 290305, Sample 68 [lower Gatun Fm]",NA,"Urbanization Alborada",10,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.28,"230",9.433,"tortonian",27592,-80.9368,9.2734,6,1
+"100226",142960,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 1 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
 "100544",143280,"col","Tziqlag",34.62,31.57,"Tziqlag Formation, Heletz 23 Borehole 2545 m.",NA,"",3,"Tortonian","",11.62,7.246,46427,"gp_mid",34.77,28.84,"508",9.433,"tortonian",27623,31.7681,31.2129,6,1
 "100545",143281,"col","Tziqlag",34.62,31.57,"Tziqlag Formation, Heletz 23 Borehole 2560 m.",NA,"",1,"Tortonian","",11.62,7.246,46427,"gp_mid",34.77,28.84,"508",9.433,"tortonian",27623,31.7681,31.2129,6,1
 "100546",143282,"col","Tziqlag",34.62,31.3,"Ofakim, Tziqlag Formation, Tahal 2767 6.4 m",NA,"",2,"Tortonian","",11.62,7.246,46427,"gp_mid",34.75,28.58,"508",9.433,"tortonian",27624,31.7681,31.2129,6,1
@@ -412,18 +618,156 @@
 "100598",143332,"col","Tziqlag",34.62,31.3,"Ofakim, Tziqlag Formation, Sample 279 BB",NA,"",2,"Tortonian","",11.62,7.246,46427,"gp_mid",34.75,28.58,"508",9.433,"tortonian",27624,31.7681,31.2129,6,1
 "100599",143333,"col","Tziqlag",34.62,31.3,"Ofakim, Tziqlag Formation, Sample 665 BB",NA,"",2,"Tortonian","",11.62,7.246,46427,"gp_mid",34.75,28.58,"508",9.433,"tortonian",27624,31.7681,31.2129,6,1
 "100600",143334,"col","Tziqlag",34.62,31.57,"Tziqlag Formation, Heletz 23 Borehole 2555 m.",NA,"",1,"Tortonian","",11.62,7.246,46427,"gp_mid",34.77,28.84,"508",9.433,"tortonian",27623,31.7681,31.2129,6,1
+"100601",143335,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 2 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100602",143336,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 3 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100603",143337,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 4 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100604",143338,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 5 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100606",143341,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 6 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100607",143342,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 7 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100609",143344,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 8 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100610",143345,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 9 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100611",143346,"col","Gatun",-79.82,9.36,"STRI Loc. 290306, Sample 10 [lower Gatun Fm]",NA,"Isla Payardi",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.55,10.3,"230",9.433,"tortonian",16163,-80.9368,9.2734,6,1
+"100612",143347,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 2 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100613",143348,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 15 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100614",143349,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 11 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100616",143351,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 23 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100617",143352,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 63 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100618",143353,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 75 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100620",143355,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 56 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100621",143356,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 88 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100622",143357,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 46 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100625",143360,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 4A [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100626",143361,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 4B [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100627",143362,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 4C [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100628",143363,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 2A [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100629",143364,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 2B [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100630",143365,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 2C [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100631",143366,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 3A [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100632",143367,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 3B [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100633",143368,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 3C [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100634",143369,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 15 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100636",143371,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 19 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100637",143372,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 1 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100638",143373,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 14 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100639",143374,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 16 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100640",143375,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 17 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100641",143376,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 18 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
 "100645",143380,"col","Tziqlag",34.97,31.83,"Latrun, Tziqlag Formation, Sample 610 BB",NA,"",1,"Tortonian","",11.62,7.246,46427,"gp_mid",35.12,29.1,"508",9.433,"tortonian",27634,31.7681,31.2129,6,1
 "100646",143381,"col","Tziqlag",35.12,32.78,"Ramat Yohanan, Tziqlag Formation, Sample 719 BB",NA,"",1,"Tortonian","",11.62,7.246,46427,"gp_mid",35.32,30.04,"508",9.433,"tortonian",27635,31.7681,31.2129,6,1
 "100647",143382,"col","Tziqlag",34.62,31.3,"Ofakim, Tziqlag Formation, Sample 644 BB",NA,"",1,"Tortonian","",11.62,7.246,46427,"gp_mid",34.75,28.58,"508",9.433,"tortonian",27624,31.7681,31.2129,6,1
+"100649",143384,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 20 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100650",143385,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 21 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100651",143386,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 22 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100652",143387,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 24 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100653",143388,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 25 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100654",143389,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 3 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100655",143390,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 4 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100656",143391,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 5 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100658",143393,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 6 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100659",143394,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 7 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100660",143395,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 8 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100661",143396,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 9 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100662",143397,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 10 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100663",143398,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 12 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100664",143399,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Sample 13 [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100665",143400,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 1A [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100666",143401,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 1B [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100668",143403,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 1C [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100669",143404,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 5A [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100670",143405,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 5B [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"100671",143406,"col","Gatun",-79.84,9.35,"STRI Loc. 290307, Replicate 5C [lower Gatun Fm]",NA,"Residencia San Judas Tadeo",0,"Tortonian","",11.62,7.246,46253,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
 "101614",144565,"col","",14.04,41.75,"Scontrone",NA,"",1,"Tortonian","",11.62,7.246,46758,"gp_mid",15.35,39.51,"307",9.433,"tortonian",27777,13.7029,41.0252,6,1
+"101746",144795,"col","Chagres",-80.05,9.27,"Pina 1",NA,"UF YPA089",1,"Tortonian","",11.62,7.246,55198,"gp_mid",-77.79,10.22,"230",9.433,"tortonian",27812,-80.9368,9.2734,6,1
+"101980",145195,"col","Gatun",-79.87,9.33,"Woodring Loc. 142 - Margarita [middle Gatun Fm]",NA,"SU2698; WG142",18,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.6,10.28,"230",9.433,"tortonian",27878,-80.9368,9.2734,6,1
+"101981",145196,"col","Gatun",-79.88,9.28,"Woodring Loc. 144 - Camp Cotton [middle Gatun Fm]",NA,"USGS 6029a; WG144",25,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.22,"230",9.433,"tortonian",16253,-80.9368,9.2734,6,1
+"101982",145197,"col","Gatun",-79.88,9.28,"Woodring Loc. 144b - Camp Cotton [middle Gatun Fm]",NA,"USGS 6335; WG144b",4,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.22,"230",9.433,"tortonian",16253,-80.9368,9.2734,6,1
+"101985",145200,"col","Gatun",-79.92,9.26,"Woodring Loc. 147a - Gatun [middle Gatun Fm]",NA,"USGS 6033b; WG147a",16,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"101986",145201,"col","Gatun",-79.92,9.26,"Woodring Loc. 147c - Gatun [middle Gatun Fm]",NA,"USGS 6033; WG147c",7,"Tortonian","",11.62,7.246,13232,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"101995",145210,"col","Gatun",-79.92,9.26,"Woodring Loc. 147i - Gatun [middle Gatun Fm]",NA,"USGS 8376; WG147i",20,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"101996",145211,"col","Gatun",-79.92,9.26,"Woodring Loc. 147j - Gatun [middle Gatun Fm]",NA,"USGS 8379; WG147j",4,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"101997",145212,"col","Gatun",-79.92,9.26,"Woodring Loc. 148 - Gatun [middle Gatun Fm]",NA,"USGS 8380; WG148",1,"Tortonian","",11.62,7.246,13232,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"101998",145213,"col","Gatun",-79.92,9.26,"Woodring Loc. 149 - Gatun [middle Gatun Fm]",NA,"USGS 8381; WG149",2,"Tortonian","",11.62,7.246,13232,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102011",145249,"col","Gatun",-79.92,9.27,"Woodring Loc. 151 - Gatun [middle Gatun Fm]",NA,"USGS 8388; WG151",25,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102012",145250,"col","Gatun",-79.91,9.26,"Woodring Loc. 153 - Gatun [middle Gatun Fm]",NA,"USGS 16950; WG153",27,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16254,-80.9368,9.2734,6,1
+"102013",145251,"col","Gatun",-79.91,9.27,"Woodring Loc. 153a - Gatun Third Locks [middle Gatun Fm]",NA,"SU 2657; WG153a",28,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",26475,-80.9368,9.2734,6,1
+"102014",145253,"col","Gatun",-79.91,9.27,"Woodring Loc. 154 - Gatun Third Locks [middle Gatun Fm]",NA,"USGS 16935; WG154",8,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",26475,-80.9368,9.2734,6,1
+"102015",145254,"col","Gatun",-79.91,9.28,"Woodring Loc. 155 - Gatun Third Locks [middle Gatun Fm]",NA,"SU 2653; WG155",117,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",27881,-80.9368,9.2734,6,1
+"102016",145255,"col","Gatun",-79.91,9.28,"Woodring Loc. 155a - Gatun Third Locks [middle Gatun Fm]",NA,"USGS 16970; WG155a",57,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",27881,-80.9368,9.2734,6,1
+"102037",145276,"col","Gatun",-79.92,9.28,"Woodring Loc. 156 - Gatun Third Locks [middle Gatun Fm]",NA,"USGS 16928; WG156",14,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",27884,-80.9368,9.2734,6,1
+"102039",145278,"col","Gatun",-79.91,9.28,"Woodring Loc. 157 - Gatun Third Locks [middle Gatun Fm]",NA,"USGS 16926; WG157",54,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.64,10.22,"230",9.433,"tortonian",27881,-80.9368,9.2734,6,1
+"102042",145281,"col","Gatun",-79.92,9.27,"Woodring Loc. 159 - Gatun Locks [middle Gatun Fm]",NA,"USGS 5211; WG159",28,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.66,10.22,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102043",145282,"col","Gatun",-79.92,9.27,"Woodring Loc. 159a - Gatun Locks [middle Gatun Fm]",NA,"USGS 5414; WG159a",6,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.66,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102044",145283,"col","Gatun",-79.92,9.27,"Woodring Loc. 159b - Gatun Locks [middle Gatun Fm]",NA,"USGS 6273; WG159b",15,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.66,10.22,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102047",145286,"col","Gatun",-79.93,9.26,"Woodring Loc. 159c - Gatun Dam [middle Gatun Fm]",NA,"USGS 5662; WG159c",3,"Tortonian","",11.62,7.246,13232,"gp_mid",-77.66,10.21,"230",9.433,"tortonian",27885,-80.9368,9.2734,6,1
+"102087",145332,"col","Gatun",-79.93,9.27,"Woodring Loc. 160 - Gatun Dam [middle Gatun Fm]",NA,"USGS 5846; WG160",42,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.67,10.21,"230",9.433,"tortonian",27889,-80.9368,9.2734,6,1
+"102088",145333,"col","Gatun",-79.93,9.27,"Woodring Loc. 160a - Gatun Dam [middle Gatun Fm]",NA,"USGS 8369; WG160a",4,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.67,10.21,"230",9.433,"tortonian",27889,-80.9368,9.2734,6,1
+"102089",145334,"col","Gatun",-79.94,9.26,"Woodring Loc. 161 - Gatun Dam [middle Gatun Fm]",NA,"USGS 8365; WG161",42,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27890,-80.9368,9.2734,6,1
+"102090",145336,"col","Gatun",-79.94,9.26,"Woodring Loc. 161b - Gatun Dam [middle Gatun Fm]",NA,"USGS 8375; WG161b",10,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27890,-80.9368,9.2734,6,1
+"102091",145335,"col","Gatun",-79.94,9.26,"Woodring Loc. 161a - Gatun Dam [middle Gatun Fm]",NA,"USGS 8395; WG161a",31,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27890,-80.9368,9.2734,6,1
+"102092",145337,"col","Gatun",-79.94,9.26,"Woodring Loc. 161c - Gatun Dam [middle Gatun Fm]",NA,"USGS 8382; WG161c",62,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27890,-80.9368,9.2734,6,1
+"102093",145338,"col","Gatun",-79.94,9.26,"Woodring Loc. 161d - Gatun Dam [middle Gatun Fm]",NA,"USGS 8366; WG161d",20,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27890,-80.9368,9.2734,6,1
+"102094",145339,"col","Gatun",-79.95,9.27,"Woodring Loc. 162 - Rio Chagres [Gatun Fm]",NA,"USGS 8396; WG162",21,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27891,-80.9368,9.2734,6,1
+"102095",145340,"col","Gatun",-79.95,9.27,"Woodring Loc. 162a - Rio Chagres [Gatun Fm]",NA,"USGS 8359; WG162a",16,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.68,10.21,"230",9.433,"tortonian",27891,-80.9368,9.2734,6,1
+"102096",145341,"col","Gatun",-79.89,9.33,"Woodring Loc. 176 - Margarita [Gatun Fm]",NA,"USGS 8358; WG176",30,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.28,"230",9.433,"tortonian",16224,-80.9368,9.2734,6,1
+"102097",145342,"col","Gatun",-79.89,9.33,"Woodring Loc. 176a - Margarita [Gatun Fm]",NA,"USGS 8409; WG176a",31,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.28,"230",9.433,"tortonian",16224,-80.9368,9.2734,6,1
+"102098",145343,"col","Gatun",-79.89,9.33,"Woodring Loc. 177b - Mount Hope [upper Gatun Fm]",NA,"USGS 5854; WG177b",56,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.28,"230",9.433,"tortonian",16224,-80.9368,9.2734,6,1
+"102099",145344,"col","Gatun",-79.9,9.34,"Woodring Loc. 177c - Mount Hope [upper Gatun Fm]",NA,"USGS 5855; WG177c",35,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.28,"230",9.433,"tortonian",16272,-80.9368,9.2734,6,1
+"102100",145345,"col","Gatun",-79.9,9.33,"Woodring Loc. 177d - Mount Hope [upper Gatun Fm]",NA,"USGS 6036; WG177d",43,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.63,10.27,"230",9.433,"tortonian",16223,-80.9368,9.2734,6,1
+"102102",145347,"col","Gatun",-79.83,9.36,"Woodring Loc. 138i - Mattress Factory [lower Gatun Fm]",NA,"USGS 25280; WG138i",1,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"102103",145348,"col","Gatun",-79.83,9.37,"Woodring Loc. 139a - Isla Payardi [lower Gatun Fm]",NA,"USGS 21844; WG139a",1,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.56,10.31,"230",9.433,"tortonian",27892,-80.9368,9.2734,6,1
+"102104",145349,"col","Gatun",-79.84,9.36,"Woodring Loc. 139i - Las Lomas [lower Gatun Fm]",NA,"USGS 25279; WG139i",1,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.57,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"102106",145351,"col","Gatun",-79.89,9.27,"Woodring Loc. 145 - Camp Cotton [middle Gatun Fm]",NA,"USGS 6031; WG145",12,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.21,"230",9.433,"tortonian",27894,-80.9368,9.2734,6,1
+"102107",145352,"col","Gatun",-79.92,9.26,"Woodring Loc. 147 - Gatun [middle Gatun Fm]",NA,"USGS 6033a; WG147",17,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102108",145353,"col","Gatun",-79.92,9.26,"Woodring Loc. 147d - Gatun [middle Gatun Fm]",NA,"USGS 6004; WG147d",6,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102109",145354,"col","Gatun",-79.92,9.26,"Woodring Loc. 147e - Gatun [middle Gatun Fm]",NA,"USGS 6005; WG147e",11,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102110",145355,"col","Gatun",-79.92,9.27,"Woodring Loc. 150 - Gatun [middle Gatun Fm]",NA,"USGS 8377; WG150",10,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102111",145356,"col","Gatun",-79.92,9.27,"Woodring Loc. 150a - Gatun [middle Gatun Fm]",NA,"USGS 10997; WG150a",12,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102112",145357,"col","Gatun",-79.92,9.27,"Woodring Loc. 152 - Gatun [middle Gatun Fm]",NA,"USGS 8483; WG152",14,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16256,-80.9368,9.2734,6,1
+"102113",145358,"col","Gatun",-80.33,9.12,"Woodring Loc. 184 - Miguel de la Borda [upper Gatun Fm]",NA,"USGS 8363; WG184",4,"Tortonian","",11.62,7.246,11306,"gp_mid",-78.07,10.07,"230",9.433,"tortonian",27895,-80.9368,9.2734,6,1
+"102150",145519,"col","Gatun",-79.84,9.36,"PPP# 2167 - San Judas Tadeo [lower Gatun Fm]",NA,"NMB Loc. 18666",64,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"102151",145520,"col","Gatun",-79.84,9.36,"PPP# 2168 - San Judas Tadeo [lower Gatun Fm]",NA,"NMB Loc. 18667",73,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.58,10.3,"230",9.433,"tortonian",5403,-80.9368,9.2734,6,1
+"102152",145521,"col","Gatun",-79.82,9.38,"PPP# 2165 - Isla Payardi [lower Gatun Fm]",NA,"NMB Loc. 18664",47,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"102153",145522,"col","Gatun",-79.82,9.38,"PPP# 2164 - Isla Payardi [lower Gatun Fm]",NA,"NMB Loc. 18663",76,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"102154",145523,"col","Gatun",-79.82,9.38,"PPP# 2163 - Isla Payardi [lower Gatun Fm]",NA,"NMB Loc. 18662",109,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"102155",145524,"col","Gatun",-79.81,9.35,"PPP# 1075 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 18322",95,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"102156",145529,"col","Gatun",-79.89,9.33,"PPP# 17 - Mount Hope [upper Gatun Fm]",NA,"",27,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.63,10.27,"230",9.433,"tortonian",16224,-80.9368,9.2734,6,1
+"102157",145530,"col","Gatun",-79.81,9.35,"PPP# 4 - Sabanita [lower Gatun Fm]",NA,"",37,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"102158",145531,"col","Gatun",-79.81,9.35,"PPP# 8 - Sabanita [lower Gatun Fm]",NA,"",23,"Tortonian","",11.62,7.246,47055,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"102167",145567,"col","Gatun",-79.89,9.28,"Woodring Loc. 143 - Camp Cotton [middle Gatun Fm]",NA,"USGS 6030; WG143",23,"Tortonian","",11.62,7.246,11306,"gp_mid",-77.62,10.23,"230",9.433,"tortonian",27913,-80.9368,9.2734,6,1
+"102168",145568,"col","Gatun",-79.89,9.28,"Woodring Loc. 143a - Camp Cotton [middle Gatun Fm]",NA,"USGS 24504; WG143a",2,"Tortonian","",11.62,7.246,13359,"gp_mid",-77.62,10.23,"230",9.433,"tortonian",27913,-80.9368,9.2734,6,1
+"102169",145569,"col","Gatun",-79.92,9.26,"USGS 7294 - Gatun [middle Gatun Fm]",NA,"",1,"Tortonian","",11.62,7.246,47065,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102170",145570,"col","Gatun",-79.92,9.26,"USGS 6008 - Gatun [middle Gatun Fm]",NA,"",1,"Tortonian","",11.62,7.246,47065,"gp_mid",-77.65,10.21,"230",9.433,"tortonian",16255,-80.9368,9.2734,6,1
+"102172",145578,"col","Gatun",-79.81,9.35,"PPP# 1 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 18347",3,"Tortonian","",11.62,7.246,43588,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"102173",145579,"col","Gatun",-79.81,9.35,"PPP# 10 - Sabanita [lower Gatun Fm]",NA,"NMB Loc. 18352",4,"Tortonian","",11.62,7.246,43588,"gp_mid",-77.55,10.29,"230",9.433,"tortonian",8076,-80.9368,9.2734,6,1
+"102174",145580,"col","Gatun",-79.83,9.36,"PPP# 35 - Mattress Factory [lower Gatun Fm]",NA,"",25,"Tortonian","",11.62,7.246,43588,"gp_mid",-77.56,10.3,"230",9.433,"tortonian",13064,-80.9368,9.2734,6,1
+"102175",145581,"col","Gatun",-79.9,9.26,"PPP# 39 - Gatun Lake [middle Gatun Fm]",NA,"",1,"Tortonian","",11.62,7.246,43588,"gp_mid",-77.64,10.21,"230",9.433,"tortonian",27915,-80.9368,9.2734,6,1
+"102176",145582,"col","Gatun",-79.93,9.26,"PPP# 42 - Gatun Dam [middle Gatun Fm]",NA,"",2,"Tortonian","",11.62,7.246,43588,"gp_mid",-77.67,10.21,"230",9.433,"tortonian",27885,-80.9368,9.2734,6,1
 "102919",146855,"col","Puerto Madryn",-64.98,-42.67,"Playa El Doradillo",NA,"",1,"Tortonian","",11.62,7.246,47424,"gp_mid",-63.56,-42.28,"291",9.433,"tortonian",28006,-61.7371,-43.8132,6,1
+"103226",147180,"col","",-3.53,37,"Granada Basin",NA,"",4,"Tortonian","",11.62,7.246,47499,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28025,-5.7031,36.4217,6,1
+"103227",147181,"col","",-3.67,37.02,"Los Cahices section",NA,"",5,"Tortonian","",11.62,7.246,47499,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28026,-5.7031,36.4217,6,1
+"103228",147182,"col","",-3.7,36.97,"Venta del Fraile section",NA,"",3,"Tortonian","",11.62,7.246,47499,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28027,-5.7031,36.4217,6,1
+"103229",147183,"col","",-3.53,37.12,"Monachil section, reef framework",NA,"Reef 1473",14,"Tortonian","",11.62,7.246,47499,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28028,-5.7031,36.4217,6,1
+"103230",147184,"col","",-3.53,37.12,"Monachil section, reef-slope subunit",NA,"",6,"Tortonian","",11.62,7.246,47499,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28028,-5.7031,36.4217,6,1
+"105111",149232,"col","",-2.43,37.3,"Bayarque",NA,"",9,"Tortonian","",11.62,7.246,47764,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28261,-5.7031,36.4217,6,1
+"105112",149233,"col","",-2.35,37.33,"Purchena",NA,"",14,"Tortonian","",11.62,7.246,47764,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28262,-5.7031,36.4217,6,1
+"105113",149234,"col","",-2.43,37.3,"Almanzora river valley",NA,"",4,"Tortonian","",11.62,7.246,47764,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28261,-5.7031,36.4217,6,1
 "105119",149240,"col","",-2.38,34.18,"Guefa t-1",NA,"GFT 1",5,"Vallesian","",11.608,8.7,47772,"gp_mid",-0.85,32.27,"707",10.154,"tortonian",28264,-5.1161,33.5479,6,1
+"105695",150039,"col","Complejo Basal Transgresivo",-5.53,37.66,"Lora del Río",NA,"CET-LR-1",1,"Tortonian","",11.62,7.246,48045,"gp_mid",-4.32,36.31,"304",9.433,"tortonian",28409,-5.7031,36.4217,6,1
 "107357",152063,"col","Cerro Azul",-65.47,-37.37,"Cerro La Bota",NA,"Zone of Chasichimys bonaerense",40,"Chasicoan","",10,9,48750,"gp_mid",-63.9,-36.89,"291",9.5,"tortonian",28774,-61.7869,-38.8134,6,1
+"107390",152097,"col","Santa Margarita",-121.79,36.8,"Moss Landing Marine Laboratories",NA,"",1,"Tortonian","",11.62,7.246,16892,"gp_mid",-118,38.47,"105",9.433,"tortonian",28783,-117.5219,37.7844,6,1
 "107393",152100,"col","Santa Margarita",-122.06,37.06,"Zayante Road",NA,"USGS M1243",0,"Tortonian","",11.62,7.246,16892,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",28784,-115.9908,33.9833,6,1
 "107394",152101,"col","Santa Margarita",-118.82,35.13,"White-Seale",NA,"UCMP V3916",1,"Tortonian","",11.62,7.246,16892,"gp_mid",-114.58,37.1,"130",9.433,"tortonian",8088,-114.7293,32.573,6,1
+"107400",152110,"col","Santa Margarita",-121.74,36.61,"Stafford",NA,"UCMP V6627",1,"Tortonian","",11.62,7.246,16892,"gp_mid",-117.95,38.28,"105",9.433,"tortonian",28785,-117.5219,37.7844,6,1
 "107524",152251,"col","St. Marys",-76.83,38.16,"Stratford Hall, Tortonian",NA,"",52,"Tortonian","",11.62,7.246,62831,"gp_mid",-72.73,39.33,"109",9.433,"tortonian",28826,-72.5917,36.6917,6,1
 "107526",152254,"col","Chersonian",28.69,47.25,"Pocsesti",NA,"",31,"Tortonian","",11.62,7.246,48951,"gp_mid",29.24,45.4,"302",9.433,"tortonian",28827,27.2673,47.1762,6,1
 "107897",152907,"col","",36.75,45.11,"Zhelezny Rog Cape",NA,"",1,"Tortonian","",11.62,7.246,50318,"gp_mid",37.02,43.23,"302",9.433,"tortonian",28979,34.8601,44.8638,6,1
+"112918",160565,"col","Gatun",-79.88,9.34,"Cuatro Altos",NA,"YPA022",4,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.62,10.28,"230",9.433,"tortonian",30342,-80.9368,9.2734,6,1
+"112919",160566,"col","Gatun",-79.92,9.3,"Banco EE",20,"YPA020",4,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.65,10.24,"230",9.433,"tortonian",16222,-80.9368,9.2734,6,1
+"112920",160567,"col","Gatun",-79.84,9.35,"San Judas",20,"YPA032 ",11,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.57,10.29,"230",9.433,"tortonian",17073,-80.9368,9.2734,6,1
+"112931",160578,"col","Gatun",-79.81,9.34,"I.D.A.A.N",NA,"YPA045",3,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.54,10.28,"230",9.433,"tortonian",30347,-80.9368,9.2734,6,1
+"112935",160582,"col","Gatun",-79.91,9.28,"Third Set of Locks",20,"YPA046",4,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.65,10.22,"230",9.433,"tortonian",27881,-80.9368,9.2734,6,1
+"112941",160588,"col","Gatun",-79.82,9.38,"TU 960 - Refinería Panamá [middle Gatun Fm]",20,"",2,"Tortonian","",11.62,7.246,52363,"gp_mid",-77.55,10.32,"230",9.433,"tortonian",9893,-80.9368,9.2734,6,1
+"113122",160781,"col","Chagres",-80.04,9.28,"Pina",NA,"4143 I Palmas Bellas",29,"Tortonian","",11.62,7.246,52450,"gp_mid",-77.78,10.23,"230",9.433,"tortonian",30394,-80.9368,9.2734,6,1
 "113548",161320,"col","",-6.77,33.95,"Region of Rabat : Oued Bou Regreg and Oued Akrech",NA,"",28,"Tortonian","",11.62,7.246,52575,"gp_mid",-5.32,32.4,"707",9.433,"tortonian",30468,-8.8022,33.566,6,1
 "113553",161325,"col","",-5,34.02,"Fès region",NA,"",3,"Tortonian","",11.62,7.246,52575,"gp_mid",-3.58,32.4,"707",9.433,"tortonian",30469,-5.1161,33.5479,6,1
 "113555",161327,"col","",-5,34.02,"SE of Fès",NA,"",29,"Tortonian","",11.62,7.246,52575,"gp_mid",-3.58,32.4,"707",9.433,"tortonian",30469,-5.1161,33.5479,6,1
@@ -431,20 +775,56 @@
 "113583",161355,"col","",-3.35,34.23,"Region of Taza -— Guercif — Taourirt, MiddleTortonian",NA,"",4,"Tortonian","",11.62,7.246,52575,"gp_mid",-1.95,32.55,"707",9.433,"tortonian",30470,-5.1161,33.5479,6,1
 "113610",161390,"col","",-3.35,34.23,"Region of Taza -— Guercif — Taourirt, Lower Tortonian",NA,"",12,"Tortonian","",11.62,7.246,52575,"gp_mid",-1.95,32.55,"707",9.433,"tortonian",30470,-5.1161,33.5479,6,1
 "113611",161391,"col","",-3.47,34.68,"Rif oriental",NA,"",38,"Tortonian","",11.62,7.246,52575,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",30475,-5.1161,33.5479,6,1
+"113780",161593,"col","",5,45.22,"Tersanne locality",NA,"",8,"Tortonian","",11.62,7.246,52648,"gp_mid",6.22,43.66,"305",9.433,"tortonian",30502,1.4397,44.0914,6,1
 "113783",161596,"col","",5.43,43.52,"Aix-en-Provence",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.59,41.95,"305",9.433,"tortonian",30503,1.5313,41.5585,6,1
+"113784",161597,"col","",5.02,45.25,"Hauterives locality",NA,"",6,"Tortonian","",11.62,7.246,52648,"gp_mid",6.24,43.69,"305",9.433,"tortonian",30504,1.4397,44.0914,6,1
+"113786",161599,"col","",5.6,45.57,"Chimilin locality",NA,"",3,"Tortonian","",11.62,7.246,52648,"gp_mid",6.82,44,"305",9.433,"tortonian",30505,1.4397,44.0914,6,1
+"113787",161600,"col","",5.53,45.62,"Messenin-Veyrins locality",NA,"",2,"Tortonian","",11.62,7.246,52648,"gp_mid",6.76,44.05,"305",9.433,"tortonian",30506,1.4397,44.0914,6,1
+"113790",161603,"col","",4.88,44.98,"Bas-Leyssin, Isère",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.1,43.43,"305",9.433,"tortonian",30509,1.4397,44.0914,6,1
+"113792",161605,"col","",5.13,45.15,"Saint-Michel de Montmiral",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.35,43.59,"305",9.433,"tortonian",30511,1.4397,44.0914,6,1
+"113793",161606,"col","",4.93,45.47,"Saint-Sorlin, Isère",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.17,43.91,"305",9.433,"tortonian",30512,1.4397,44.0914,6,1
+"113794",161607,"col","",5.48,43.78,"Cabrières d'Aigues",NA,"",6,"Tortonian","",11.62,7.246,52648,"gp_mid",6.64,42.22,"305",9.433,"tortonian",30513,1.4397,44.0914,6,1
+"113797",161610,"col","",5.43,43.77,"Cucuron locality",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.59,42.2,"305",9.433,"tortonian",30514,1.4397,44.0914,6,1
 "113804",161619,"col","",5.42,43.58,"Puyricard locality",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.57,42.02,"305",9.433,"tortonian",30521,1.5313,41.5585,6,1
+"113899",161715,"col","",5.02,44.87,"Montvendre locality",NA,"",1,"Tortonian","",11.62,7.246,52648,"gp_mid",6.23,43.31,"305",9.433,"tortonian",30532,1.4397,44.0914,6,1
+"114373",162438,"col","Chucunaque",-79.75,9.14,"Lago Bayano",NA,"",1,"Tortonian","",11.62,7.246,49081,"gp_mid",-77.49,10.08,"230",9.433,"tortonian",30694,-80.9368,9.2734,6,1
+"115512",164626,"col","",117,0,"Bontang, East Kalimantan, TF505",NA,"",4,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
 "115564",164723,"col","",107,-7,"Gunung Selah-Ci-Lanangthale, Java",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",109.04,-8.03,"620",9.433,"tortonian",30916,107.859,-6.0709,6,1
+"115565",164724,"col","",117,0,"Bontang, East Kalimantan, TF102",NA,"",4,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115567",164727,"col","",117,0,"Bontang, East Kalimantan, TF154",NA,"",4,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115568",164728,"col","",117,0,"Bontang, East Kalimantan, TF508",NA,"",4,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115573",164739,"col","",117,0,"Bontang, East Kalimantan, TF15=TF151",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115583",164750,"col","",117,0,"Bontang, East Kalimantan, TF107",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
 "115584",164751,"col","",107,-7,"Tjadasngampar, Java",NA,"",1,"Tortonian","",11.62,7.246,53783,"gp_mid",109.04,-8.03,"620",9.433,"tortonian",30916,107.859,-6.0709,6,1
+"115586",164753,"col","",117,0,"Sangatta, East Kalimantan, TF516",NA,"",23,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115591",164758,"col","",117,0,"Bontang, East Kalimantan, TF502",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115594",164764,"col","",117,0,"Bontang, East Kalimantan, TF504",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
 "115595",164765,"col","",108,-7,"Ci Bining, Java",NA,"",6,"Tortonian","",11.62,7.246,53783,"gp_mid",110.04,-7.97,"620",9.433,"tortonian",30923,107.859,-6.0709,6,1
+"115603",164774,"col","",117,0,"Bontang, East Kalimantan, TF500",NA,"",5,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
+"115606",164777,"col","",117,-1,"East Kalimantan, Stadion,TF57",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.65,-1.42,"620",9.433,"tortonian",30926,115.1213,1.6107,6,1
+"115607",164778,"col","",117,-1,"East Kalimantan, Stadion,TF51",NA,"",2,"Tortonian","",11.62,7.246,53783,"gp_mid",118.65,-1.42,"620",9.433,"tortonian",30926,115.1213,1.6107,6,1
+"115608",164779,"col","",117,1,"Sangatta, East Kalimantan, TF517",NA,"",4,"Tortonian","",11.62,7.246,53783,"gp_mid",118.52,0.58,"620",9.433,"tortonian",30927,115.1213,1.6107,6,1
+"115610",164782,"col","",117,0,"Bontang, East Kalimantan, TF501",NA,"",1,"Tortonian","",11.62,7.246,53783,"gp_mid",118.59,-0.42,"620",9.433,"tortonian",30899,115.1213,1.6107,6,1
 "115864",165247,"col","Gram",8.94,56.66,"Skaerum Molle",NA,"",1,"Tortonian","",11.62,7.246,54044,"gp_mid",10.51,55.03,"302",9.433,"tortonian",30960,4.4809,56.6594,6,1
 "117485",167806,"col","",30.4,47.15,"Novoelizavetovka, lower layer",NA,"Novoyelizavetivka, Novo-Yelizavetovka",5,"MN 11","",8.7,7.75,54848,"gp_mid",30.83,45.51,"302",8.225,"tortonian",12373,27.2673,47.1762,6,1
 "117511",167833,"col","",30.4,47.16,"Novoelizavetovka, bonebearing lens",NA,"Novoelizavetovka-2, Novoyelizavetivka, Novo-Yelizavetovka",4,"MN 12","",7.75,7.246,54848,"gp_mid",30.76,45.73,"302",7.498,"tortonian",31526,27.2673,47.1762,6,1
+"117609",167941,"col","",33.31,47.84,"Krivoy Rog, YuGOK quarry",NA,"Kryvyi Rih",3,"MN 11","",8.7,7.75,54848,"gp_mid",33.66,46.18,"302",8.225,"tortonian",31556,30.9951,47.2686,6,1
 "117615",167947,"col","",30.53,46.73,"Novaya Emetovka-2",NA,"""Kostev yar"", Novaya Yemetovka, Novaya Emetivka",2,"MN 12","",7.75,7.246,54848,"gp_mid",30.89,45.3,"302",7.498,"tortonian",12376,27.2673,47.1762,6,1
 "117623",167995,"col","",30.43,46.9,"Belka",NA,"Byelka, Bilka",23,"MN 12","",7.75,7.246,54848,"gp_mid",30.78,45.47,"302",7.498,"tortonian",31559,27.2673,47.1762,6,1
 "117638",168017,"col","Santa Margarita",-122.04,37.05,"Old Graham Quarry, Scotts Valley",NA,"",16,"Tortonian","",11.62,7.246,55017,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",6565,-115.9908,33.9833,6,1
 "117798",168397,"col","Arroyo Chasicó",-63,-38.61,"Las Barrancas",NA,"",1,"Chasicoan","",10,9,55118,"gp_mid",-61.5,-38.19,"202",9.5,"tortonian",31584,-61.7869,-38.8134,6,1
+"117864",168772,"col","",117.73,0.3,"Bontang Garden",NA,"",20,"Tortonian","",11.62,7.246,55182,"gp_mid",119.3,-0.07,"620",9.433,"tortonian",31602,115.1213,1.6107,6,1
+"117887",168820,"col","Chagres",-80.04,9.29,"Pina 2",NA,"UF YPA087",2,"Tortonian","",11.62,7.246,55198,"gp_mid",-77.77,10.24,"230",9.433,"tortonian",31609,-80.9368,9.2734,6,1
+"117888",168821,"col","Chagres",-80.04,9.29,"Pina, NE of",NA,"",1,"Tortonian","",11.62,7.246,55198,"gp_mid",-77.78,10.24,"230",9.433,"tortonian",31609,-80.9368,9.2734,6,1
+"120008",171577,"col","",5.18,45.9,"Mollon (Ain), Meximieux",NA,"",1,"Vallesian","",11.608,8.7,55783,"gp_mid",6.57,44.15,"305",10.154,"tortonian",31991,1.4397,44.0914,6,1
 "120486",172573,"col","",141.59,43.46,"Rutaka Bridge",NA,"",1,"Tortonian","",11.62,7.246,56049,"gp_mid",139.56,43.11,"610",9.433,"tortonian",32036,141.6983,44.111,6,1
+"120601",172946,"col","Arjona",-4.19,37.86,"Eastern Guadalquivir Basin",NA,"",1,"Tortonian","",11.62,7.246,56234,"gp_mid",-2.99,36.48,"304",9.433,"tortonian",32059,-5.7031,36.4217,6,1
 "120680",173165,"col","",-4.95,34.05,"Oued Zitoune",NA,"",24,"Tortonian","",11.62,7.246,56278,"gp_mid",-3.53,32.43,"707",9.433,"tortonian",32073,-5.1161,33.5479,6,1
+"120776",173565,"col","",117.43,0.14,"TF110",NA,"",4,"Tortonian","",11.62,7.246,56572,"gp_mid",119,-0.25,"620",9.433,"tortonian",32096,115.1213,1.6107,6,1
+"120861",173654,"col","",117.43,0.14,"TF110 Bontang",NA,"Seagrass Section",1,"Tortonian","",11.62,7.246,56099,"gp_mid",119,-0.25,"620",9.433,"tortonian",32096,115.1213,1.6107,6,1
+"120862",173655,"col","",117.43,0.16,"TF501 Bontang",NA,"Powerplant",0,"Tortonian","",11.62,7.246,56099,"gp_mid",119.01,-0.23,"620",9.433,"tortonian",32133,115.1213,1.6107,6,1
+"120863",173656,"col","",117.44,0.17,"TF504 Bontang",NA,"",0,"Tortonian","",11.62,7.246,56099,"gp_mid",119.01,-0.22,"620",9.433,"tortonian",32134,115.1213,1.6107,6,1
+"120864",173657,"col","",117.43,0.15,"TF508 Bontang",NA,"",8,"Tortonian","",11.62,7.246,56099,"gp_mid",119.01,-0.24,"620",9.433,"tortonian",32135,115.1213,1.6107,6,1
 "121524",175063,"col","Bahia Inglesa",-70.8,-27.05,"Norte Bahia Caldera",NA,"",1,"Tortonian","",11.62,7.246,57210,"gp_mid",-68.87,-26.55,"291",9.433,"tortonian",32262,-69.4625,-28.8447,6,1
 "122344",176268,"col","",1.97,41.55,"Sant Miquel de Toudell",NA,"",15,"Vallesian","",11.608,8.7,57920,"gp_mid",3.29,39.87,"304",10.154,"tortonian",32403,1.5313,41.5585,6,1
 "123026",177060,"col","Nyalindung",106.94,-7.02,"THL-1.—A creek bank in Tjitalahab valley",NA,"",1,"Tortonian","",11.62,7.246,58491,"gp_mid",108.98,-8.06,"620",9.433,"tortonian",32580,107.859,-6.0709,6,1
@@ -452,18 +832,29 @@
 "123254",177479,"col","",-1.06,38.2,"Abanilla",NA,"",7,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32612,-2.0051,36.4888,6,1
 "123255",177480,"col","",-1.05,38.2,"Campules",NA,"",5,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32613,-2.0051,36.4888,6,1
 "123256",177481,"col","",-0.75,38.26,"Rio Vinalopo",NA,"",26,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32614,-2.0051,36.4888,6,1
+"123257",177482,"col","",-1.91,36.94,"El Plomo",NA,"",34,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32615,-5.7031,36.4217,6,1
+"123258",177483,"col","",-2.19,36.82,"Cabo Gata",NA,"",2,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32616,-5.7031,36.4217,6,1
 "123259",177484,"col","",-0.81,38.24,"Crevillente",NA,"",4,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32617,-2.0051,36.4888,6,1
 "123260",177485,"col","",-0.73,38.25,"Sierra Gorda",NA,"",34,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32618,-2.0051,36.4888,6,1
 "123261",177486,"col","",-1.15,38.2,"Fortuna",NA,"",55,"Tortonian","",11.62,7.246,58567,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",32619,-2.0051,36.4888,6,1
 "123489",178069,"col","",10.92,44.65,"Emilia Romagna",NA,"",1,"Tortonian","",11.62,7.246,58907,"gp_mid",12.48,42.49,"307",9.433,"tortonian",32699,10.2224,43.6653,6,1
 "123519",178120,"col","",10.78,44.5,"Montegibbio",NA,"",136,"Tortonian","",11.62,7.246,58930,"gp_mid",12.34,42.35,"307",9.433,"tortonian",32723,10.2224,43.6653,6,1
+"123752",178455,"col","Port Campbell Limestone",141.61,-38.34,"Portland Bay beach",NA,"",2,"Tortonian","",11.62,7.246,59033,"gp_mid",143.15,-43.86,"801",9.433,"tortonian",32788,140.7325,-43.1876,6,1
+"123757",178465,"col","Niebla Calcarenite",-6.68,37.35,"Niebla, Guadalquivir Basin",NA,"",73,"Tortonian","",11.62,7.246,59038,"gp_mid",-5.45,36.03,"304",9.433,"tortonian",32791,-9.398,36.3593,6,1
+"124817",179777,"col","Aksucay",30.78,37.27,"Kargi section 27 meters, Aksu sub-basin",NA,"",15,"Tortonian","",11.62,7.246,59626,"gp_mid",31.18,35.41,"504",9.433,"tortonian",1566,27.9299,36.6211,6,1
+"124818",179778,"col","Aksucay",30.78,37.27,"Kargi section 33 meters, Aksu sub-basin",NA,"",16,"Tortonian","",11.62,7.246,59626,"gp_mid",31.18,35.41,"504",9.433,"tortonian",1566,27.9299,36.6211,6,1
+"124820",179780,"col","Aksucay",30.78,37.27,"Kargi section 42 meters, Aksu sub-basin",NA,"",6,"Tortonian","",11.62,7.246,59626,"gp_mid",31.18,35.41,"504",9.433,"tortonian",1566,27.9299,36.6211,6,1
 "125043",180124,"col","Mohakatino",175.18,-38.94,"GS3329, Mangamaire Stream",NA,"",1,"Tortonian","",11.62,7.246,59708,"gp_mid",178.88,-41.78,"806",9.433,"tortonian",33156,-179.5338,-42.913,6,1
+"125047",180128,"col","Mohakatino",174.62,-38.65,"Mouth of Awakino River",NA,"",1,"Tortonian","",11.62,7.246,59708,"gp_mid",178.25,-41.55,"806",9.433,"tortonian",33158,-179.4741,-40.4134,6,1
 "125049",180130,"col","Hurupi",175.71,-41.28,"Loose boulder in Mangatoi Creek",NA,"",1,"Tortonian","",11.62,7.246,59708,"gp_mid",179.84,-44.05,"806",9.433,"tortonian",33159,-178.8068,-45.0468,6,1
 "125050",180131,"col","Mount Messenger",175.25,-39.09,"Upstream from road junction, Retaruke River",NA,"",1,"Tortonian","",11.62,7.246,59708,"gp_mid",178.97,-41.93,"806",9.433,"tortonian",33160,-179.5338,-42.913,6,1
 "125051",180132,"col","Mount Messenger",175.25,-39.09,"Downstream from road junction, Retaruke River",NA,"",1,"Tortonian","",11.62,7.246,59708,"gp_mid",178.97,-41.93,"806",9.433,"tortonian",33160,-179.5338,-42.913,6,1
+"126009",181659,"col","",2.15,44.61,"Montredon",NA,"",1,"Tortonian","",11.62,7.246,60047,"gp_mid",3.42,43.11,"305",9.433,"tortonian",33393,1.4397,44.0914,6,1
 "126083",181813,"col","",60.64,25.3,"Chabahar",NA,"",1,"Tortonian","",11.62,7.246,60474,"gp_mid",60.53,23.54,"507",9.433,"tortonian",33414,58.1028,25.1954,6,1
+"128612",185752,"col","",24.09,34.86,"Metochia B",NA,"",11,"Tortonian","",11.62,7.246,62284,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",34031,20.6539,33.5975,6,1
 "129601",187473,"col","Diest",4.52,51.2,"Wommelghem",NA,"",1,"Tortonian","",11.62,7.246,39270,"gp_mid",6,49.65,"315",9.433,"tortonian",34276,1.2302,49.0893,6,1
 "129632",187561,"col","",16.05,38.67,"G1629, Cessaniti",NA,"",1,"Tortonian","",11.62,7.246,62934,"gp_mid",17.16,36.38,"307",9.433,"tortonian",34291,13.2627,36.0499,6,1
+"129645",187583,"col","Alajuela",-79.59,9.21,"Lago Alajuela",NA,"UF VP YPA088",76,"Tortonian","",11.62,7.246,62967,"gp_mid",-77.33,10.15,"230",9.433,"tortonian",34296,-80.9368,9.2734,6,1
 "129686",187638,"col","Diest",4.46,51.22,"Deurne, near Antwerp",NA,"",1,"Tortonian","",11.62,7.246,43337,"gp_mid",5.94,49.67,"315",9.433,"tortonian",10820,1.2302,49.0893,6,1
 "130171",188761,"col","Lithothamnion Limestone",14.04,41.75,"Scontrone, near",NA,"",14,"Tortonian","",11.62,7.246,63975,"gp_mid",15.34,39.52,"307",9.433,"tortonian",27777,13.7029,41.0252,6,1
 "130872",190169,"col","Breda",3.91,51.37,"Pit De Griete",NA,"Westerschelde 6D",8,"Tortonian","",11.62,7.246,63485,"gp_mid",5.41,49.82,"315",9.433,"tortonian",34478,1.109,51.5881,6,1
@@ -472,6 +863,7 @@
 "131342",190848,"col","Synthem CB1",11.37,42.79,"Fosso de la Fittaia 2013",NA,"FdF2013; Fosso della Fittaia",15,"Tortonian","",11.62,7.246,64149,"gp_mid",12.82,40.63,"307",9.433,"tortonian",34577,10.0391,41.169,6,1
 "131449",191022,"col","Montesano",-122.27,48.68,"Swinging Bridge Park",NA,"",1,"Tortonian","",11.62,7.246,64384,"gp_mid",-117.98,50.67,"129",9.433,"tortonian",34617,-120.6388,47.9037,6,1
 "131525",191274,"col","Pietra Leccese",18.5,40.15,"Otranto",NA,"",1,"Tortonian","",11.62,7.246,64526,"gp_mid",19.59,37.8,"307",9.433,"tortonian",34637,17.2046,38.3906,6,1
+"131578",191477,"col","Chucunaque",-78.75,9.13,"Bayano 1",NA,"STRI Loc. 290109",0,"Tortonian","",11.62,7.246,64600,"gp_mid",-76.49,10.05,"230",9.433,"tortonian",34655,-80.9368,9.2734,6,1
 "131936",192166,"col","Cerro Azul",-65.47,-37.42,"Cerro Patagua",NA,"",5,"Chasicoan","",10,9,65013,"gp_mid",-63.9,-36.94,"291",9.5,"tortonian",34719,-61.7869,-38.8134,6,1
 "132433",193490,"col","Olesa-Les Fonts alluvial system",2.06,41.54,"Can Pallars i Llobateres ",NA,"CPL; Can Pallas de Llobateres; Can Pallars de Llobateres",11,"Vallesian","",11.608,8.7,65739,"gp_mid",3.38,39.85,"304",10.154,"tortonian",34839,1.5313,41.5585,6,1
 "132434",193491,"col","Olesa-Les Fonts alluvial system",2.06,41.54,"Can Pallars i Llobateres-A",NA,"CPL-A",6,"Vallesian","",11.608,8.7,65739,"gp_mid",3.38,39.85,"304",10.154,"tortonian",34839,1.5313,41.5585,6,1
@@ -482,7 +874,15 @@
 "132439",193498,"col","Olesa-Les Fonts alluvial system",2.06,41.54,"Can Pallars i Llobateres-M",NA,"CPL-M",1,"Vallesian","",11.608,8.7,65739,"gp_mid",3.38,39.85,"304",10.154,"tortonian",34839,1.5313,41.5585,6,1
 "132440",193496,"col","Olesa-Les Fonts alluvial system",2.06,41.54,"Can Pallars i Llobateres-P4",NA,"CPL-P4",2,"Vallesian","",11.608,8.7,65739,"gp_mid",3.38,39.85,"304",10.154,"tortonian",34839,1.5313,41.5585,6,1
 "132441",193497,"col","Olesa-Les Fonts alluvial system",2.06,41.53,"Can Pallars i Llobateres-P1",NA,"CPL-P1",1,"Vallesian","",11.608,8.7,65739,"gp_mid",3.38,39.85,"304",10.154,"tortonian",34840,1.5313,41.5585,6,1
+"132483",207010,"col","",23.78,38.6,"SE of Katheni",NA,"",2,"Vallesian","",11.608,8.7,70371,"gp_mid",24.73,35.86,"307",10.154,"tortonian",34855,20.7261,35.7621,6,1
 "132546",193941,"col","Karumai",142.01,42.76,"Kaikuma River",NA,"",2,"Tortonian","",11.62,7.246,39867,"gp_mid",140,42.42,"610",9.433,"tortonian",34870,141.6983,44.111,6,1
+"132909",194946,"col","",-3.13,37.6,"Alicún section, bed 0",NA,"",1,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132910",194947,"col","",-3.13,37.6,"Alicún section, bed 1",NA,"",1,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132911",194948,"col","",-3.13,37.6,"Alicún section, bed 2",NA,"",1,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132912",194949,"col","",-3.13,37.6,"Alicún section, bed 3",NA,"",1,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132913",194950,"col","",-3.13,37.6,"Alicún section, bed 4",NA,"",3,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132914",194951,"col","",-3.13,37.6,"Alicún section, bed 5",NA,"",3,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
+"132915",194952,"col","",-3.13,37.6,"Alicún section, bed 6",NA,"",4,"Tortonian","",11.62,7.246,66278,"gp_mid",-1.96,36.19,"304",9.433,"tortonian",34960,-5.7031,36.4217,6,1
 "132936",194983,"col","",36.4,45.12,"Lake Tobechik, Kerch Peninsula",NA,"Reef 4204",12,"Tortonian","",11.62,7.246,66282,"gp_mid",36.69,43.24,"302",9.433,"tortonian",34969,34.8601,44.8638,6,1
 "134050",196951,"col","Chersonian",37.92,45.06,"Kievskoye",NA,"",1,"Tortonian","",11.62,7.246,48154,"gp_mid",38.16,43.18,"302",9.433,"tortonian",35216,34.8601,44.8638,6,1
 "134484",197657,"col","Bira",35.56,32.63,"Hagal Stream HF1",NA,"",10,"Tortonian","",11.62,7.246,67394,"gp_mid",35.74,29.86,"508",9.433,"tortonian",35350,31.7681,31.2129,6,1
@@ -497,9 +897,11 @@
 "135713",200418,"col","",4.3,39.86,"Torre d'en Penjat",NA,"",1,"Tortonian","",11.62,7.246,28232,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",35586,1.6165,39.0593,6,1
 "136212",201482,"col","",2,41.57,"Egarapithecus narcisoi - type locality",NA,"",1,"Vallesian","",11.608,8.7,68651,"gp_mid",3.32,39.89,"304",10.154,"tortonian",35731,1.5313,41.5585,6,1
 "137936",204041,"col","",25.55,35.01,"Machairidi",NA,"",1,"Tortonian","",11.62,7.246,69921,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36138,24.3421,33.6435,6,1
+"137938",204043,"col","Roka",23.67,35.5,"Kotsiana 7",NA,"",1,"Tortonian","",11.62,7.246,36306,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",20878,20.6539,33.5975,6,1
 "138294",204601,"col","Dove Spring",-118.5,35.3,"LACM 4702",NA,"",2,"Tortonian","",11.62,7.246,70181,"gp_mid",-114.25,37.27,"130",9.433,"tortonian",2029,-114.7293,32.573,6,1
 "138514",204940,"col","Diest",4.43,51.21,"Borgerhout, Deurne Sands",NA,"",1,"Tortonian","",11.62,7.246,70326,"gp_mid",5.91,49.66,"315",9.433,"tortonian",9088,1.2302,49.0893,6,1
 "138662",205116,"col","Lengua",-61.41,10.26,"Jordan Hill",NA,"",5,"Tortonian","",11.62,7.246,70390,"gp_mid",-58.67,10.56,"201",9.433,"tortonian",36336,-58.3586,8.7095,6,1
+"138860",205342,"col","",23.56,38.34,"Biodrak",NA,"",8,"Vallesian","",11.608,8.7,26555,"gp_mid",24.52,35.62,"307",10.154,"tortonian",36442,20.7261,35.7621,6,1
 "138875",205360,"col","",25.27,35.04,"Kastellios K1",NA,"",5,"Vallesian","",11.608,8.7,70464,"gp_mid",NA,NA,"coordinates not computable using this model",10.154,"tortonian",36446,24.3421,33.6435,6,1
 "138876",205361,"col","",25.27,35.04,"Kastellios K2",NA,"",1,"Vallesian","",11.608,8.7,70464,"gp_mid",NA,NA,"coordinates not computable using this model",10.154,"tortonian",36446,24.3421,33.6435,6,1
 "138877",205362,"col","",25.27,35.04,"Kastellios K3",NA,"",3,"Vallesian","",11.608,8.7,70464,"gp_mid",NA,NA,"coordinates not computable using this model",10.154,"tortonian",36446,24.3421,33.6435,6,1
@@ -514,8 +916,17 @@
 "139719",206419,"col","Arroyo Chasico",-62.97,-38.57,"Cauce del Arroyo Chasico - 4 km downstream from meeting Sanquilcó Grande stream",NA,"",1,"Chasicoan","",10,9,70934,"gp_mid",-61.47,-38.16,"202",9.5,"tortonian",36735,-61.7869,-38.8134,6,1
 "139720",206420,"col","Arroyo Chasico",-63.03,-38.65,"Arroyo Chasico (stream's mouth in the homonymous lagoon)",NA,"",1,"Chasicoan","",10,9,70934,"gp_mid",-61.53,-38.23,"202",9.5,"tortonian",36736,-61.7869,-38.8134,6,1
 "139721",206421,"col","Arroyo Chasico",-63.85,-38.4,"Arroyo Chasico (1 km from the Routa Nacional RN 35 bridge)",NA,"",1,"Chasicoan","",10,9,70934,"gp_mid",-62.33,-37.97,"202",9.5,"tortonian",36737,-61.7869,-38.8134,6,1
+"140023",207011,"col","",23.78,38.6,"N of Katheni",NA,"",2,"Vallesian","",11.608,8.7,70371,"gp_mid",24.73,35.86,"307",10.154,"tortonian",34855,20.7261,35.7621,6,1
 "140205",207355,"col","Makrilia",25.76,35.04,"400 m of the Chapel Agia Paraskevi",NA,"",6,"Tortonian","",11.62,7.246,71429,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36911,24.3421,33.6435,6,1
 "140206",207356,"col","Makrilia",25.76,35.04,"Chapel Agia Paraskevi",NA,"",17,"Tortonian","",11.62,7.246,71429,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36911,24.3421,33.6435,6,1
+"140330",207584,"col","",23.72,35.5,"Potamida Section, Sample Kot5",NA,"",9,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140331",207585,"col","",23.72,35.5,"Potamida Section, Sample PotA2",NA,"",7,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140332",207586,"col","",23.72,35.5,"Potamida Section, Sample PotA10",NA,"",7,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140333",207587,"col","",23.72,35.5,"Potamida Section, Sample PotA12-13",NA,"",26,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140334",207588,"col","",23.72,35.5,"Potamida Section, Sample PotA28",NA,"",13,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140335",207589,"col","",23.72,35.5,"Potamida Section, Sample PotB3-4",NA,"",9,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140336",207590,"col","",23.72,35.5,"Potamida Section, Sample PotB14-15",NA,"",7,"Tortonian","",11.62,7.246,71573,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36971,20.6539,33.5975,6,1
+"140340",207594,"col","",24.06,34.86,"Potamos",NA,"",3,"Tortonian","",11.62,7.246,71574,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",36974,20.6539,33.5975,6,1
 "140453",207797,"col","",15.89,38.66,"Cava Franzè",NA,"",2,"Tortonian","",11.62,7.246,71702,"gp_mid",17.01,36.37,"307",9.433,"tortonian",37019,13.2627,36.0499,6,1
 "142540",210639,"col","Coraline Limestone",14.42,35.84,"El Fawwara",NA,"",3,"Tortonian","",11.62,7.246,72686,"gp_mid",NA,NA,"coordinates not computable using this model",9.433,"tortonian",37421,13.2805,33.5499,6,1
 "143632",212344,"col","Arroyo Chasicó",-62.98,-38.61,"Bajada de Los Toros (Arroyo Chasicó)",NA,"Lower reach of Chasicó Creek",1,"Chasicoan","",10,9,73357,"gp_mid",-61.48,-38.19,"202",9.5,"tortonian",37693,-61.7869,-38.8134,6,1

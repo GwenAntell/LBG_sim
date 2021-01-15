@@ -3,15 +3,13 @@ dir.create("./results/unimodal/")
 
 library(parallel)
 
-cl <- makeCluster(detectCores()-2)
+cl <- makeCluster(detectCores()-1)
 
 clusterExport(cl=cl, varlist = list("reps", "species", "unimodal", "libs", "sim_dist"), envir=environment())
 
 clusterEvalQ(cl = cl, expr = lapply(libs, require, character.only = TRUE)) 
 
-n <- length(list.files("./results/unimodal/")) + 1
-
-for(i in n:raster::nlayers(unimodal)){
+for(i in 1:raster::nlayers(unimodal)){
   
   r <- unimodal[[i]]
   name <- names(r)

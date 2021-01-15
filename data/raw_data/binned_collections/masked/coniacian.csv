@@ -2,6 +2,7 @@
 "176",1368,"col","",11.85,-4.82,"La Loya rocks",NA,"",12,"Coniacian","",89.8,86.3,64760,"gp_mid",8.57,-16.75,"701",88.05,"coniacian",100,4.9589,-15.3088,23,1
 "1716",3735,"col","Craie de Villedieu",0.37,45,"Calcaire dur de la Ribochere, France",NA,"",20,"Coniacian","",89.8,86.3,239,"gp_mid",12.87,37.26,"305",88.05,"coniacian",504,4.428,39.3201,23,1
 "1772",3822,"col","",12.4,-6.02,"coastal west Africa, Zaire",NA,"",8,"Coniacian","",89.8,86.3,254,"gp_mid",8.75,-18.05,"701",88.05,"coniacian",515,4.9589,-15.3088,23,1
+"1789",3887,"col","Redding",-122.1,40.74,"UCLA 5990, French Creek",NA,"",1,"Coniacian","",89.8,86.3,261,"gp_mid",-82.62,50.92,"101",88.05,"coniacian",521,-89.9909,41.5616,23,1
 "11355",74581,"col","Sant Corneli",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 5, Pyrenees",NA,"Reef 1183",8,"Coniacian","",89.8,86.3,25067,"gp_mid",13.44,32.95,"304",88.05,"coniacian",2063,4.8795,35.6909,23,1
 "12922",82244,"col","Niobrara",-104.62,36.04,"USGS D12526, Section 10 [Smoky Hill Shale Mbr, Niobrara Fm]",NA,"",1,"Coniacian","",89.8,86.3,27708,"gp_mid",-64.56,43.21,"101",88.05,"coniacian",2418,-72.3427,37.3314,23,1
 "17877",32137,"col","Henefer",-104.66,38.85,"KJ9619 (DMNH 1284)",NA,"Gunther's Henefer",0,"Coniacian","",89.8,86.3,8535,"gp_mid",-63.61,45.94,"101",88.05,"coniacian",3608,-71.1284,42.2437,23,1
@@ -10,18 +11,30 @@
 "22801",38609,"col","Lewes Nodular Chalk",-2.97,50.75,"Lewes Nodular Chalk-Chapel Rock 2",NA,"",1,"Coniacian","",89.8,86.3,10260,"gp_mid",10.73,43.21,"315",88.05,"coniacian",4725,0.4956,44.0949,23,1
 "22807",38621,"col","",130,32.5,"Amakusa Island, Himenoura Group, Kyushu",NA,"",4,"Coniacian","",89.8,86.3,10664,"gp_mid",131.25,38.21,"610",88.05,"coniacian",4728,137.3445,39.8373,23,1
 "23506",39639,"col","",130.25,32.33,"Gosyonoura Island, Himenoura Group, Kyushu",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",131.57,38.11,"610",88.05,"coniacian",4907,137.3445,39.8373,23,1
+"23681",39824,"col","",141.95,43.25,"Ikushumbetsu Area, Upper Yezo Group, Hokkaido",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",139.44,51.27,"610",88.05,"coniacian",4939,148.8612,52.2033,23,1
+"23723",39903,"col","",143.72,43.13,"Kawakami Area, Upper Yezo Group, Hokkaido",NA,"",2,"Coniacian","",89.8,86.3,10664,"gp_mid",153.69,45.29,"609",88.05,"coniacian",4952,148.8612,52.2033,23,1
+"23856",40122,"col","",142,44.83,"Abeshinai Area, Upper Yezo Group, Hokkaido",NA,"",6,"Coniacian","",89.8,86.3,10664,"gp_mid",138.68,52.78,"610",88.05,"coniacian",4991,148.0129,55.4603,23,1
+"24007",40313,"col","",142.5,42.75,"Hobetsu Area, Upper Yezo Group, Hokkaido",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",152.33,45.48,"609",88.05,"coniacian",5040,148.8612,52.2033,23,1
 "24013",40319,"col","",131.33,33.08,"Onogawa Area, Onogawa Group, Kyushu",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",132.41,39.09,"610",88.05,"coniacian",5045,137.3445,39.8373,23,1
 "24014",40320,"col","Shibakita",131.33,33.08,"Onogawa Area, Shibakita Formation, Kyushu",40319,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",132.41,39.09,"610",88.05,"coniacian",5045,137.3445,39.8373,23,1
 "24015",40321,"col","Inukai",131.33,33.08,"Onogawa Area, Inukai Formation, Kyushu",40319,"",3,"Coniacian","",89.8,86.3,10664,"gp_mid",132.41,39.09,"610",88.05,"coniacian",5045,137.3445,39.8373,23,1
 "24016",40322,"col","Yoshino",131.33,33.08,"Onogawa Area, Yoshino Formation, Kyushu",40319,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",132.41,39.09,"610",88.05,"coniacian",5045,137.3445,39.8373,23,1
 "24107",40506,"col","",129.67,31.67,"Shimo-koshiki Island, Himenoura Group, Kyushu",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",131.2,37.33,"610",88.05,"coniacian",5079,137.3445,39.8373,23,1
+"24160",40587,"col","",142.78,42.15,"Urakawa Area, Upper Yezo Group, Hokkaido",NA,"",3,"Coniacian","",89.8,86.3,10664,"gp_mid",140.9,50.41,"610",88.05,"coniacian",5104,148.8612,52.2033,23,1
 "24165",40592,"col","Furushiroyama",132.57,33.22,"Uwajima Area, Furushiroyama Formation, Shikoku",40591,"",2,"Coniacian","",89.8,86.3,10664,"gp_mid",133.64,39.51,"610",88.05,"coniacian",5107,137.3445,39.8373,23,1
 "24228",40655,"col","",130.67,32.67,"Uto Area, Himenoura Group, Kyushu",NA,"",1,"Coniacian","",89.8,86.3,10664,"gp_mid",131.88,38.53,"610",88.05,"coniacian",5126,137.3445,39.8373,23,1
 "25524",42274,"col","Mexcala",-99.13,19.43,"Mexcala Formation",NA,"",13,"Coniacian","",89.8,86.3,11254,"gp_mid",-63.44,25.94,"104",88.05,"coniacian",5530,-67.7279,21.4311,23,1
+"26941",44232,"col","Chico",-122.11,40.24,"""Chico beds"" - Tuscan Springs, Tehama",NA,"",32,"Coniacian","",89.8,86.3,11610,"gp_mid",-80.92,47.96,"130",88.05,"coniacian",5969,-89.9909,41.5616,23,1
+"26942",44233,"col","Forbes Shale",-122.01,38.95,"Forbes Shale - Petroleum Creek, Yolo",NA,"",16,"Coniacian","",89.8,86.3,11610,"gp_mid",-81.07,46.67,"130",88.05,"coniacian",5970,-89.9909,41.5616,23,1
+"26943",44234,"col","Forbes Shale",-122.23,40.46,"Forbes Shale - Cow Creek, Yolo",NA,"",4,"Coniacian","",89.8,86.3,11610,"gp_mid",-82.86,50.67,"101",88.05,"coniacian",5971,-89.9909,41.5616,23,1
+"26946",44237,"col","Forbes Shale",-121.91,38.85,"Forbes Shale - ""Nigger Heaven Dome"", Yolo",NA,"",4,"Coniacian","",89.8,86.3,11610,"gp_mid",-80.98,46.56,"130",88.05,"coniacian",5973,-89.9909,41.5616,23,1
+"28920",46393,"col","",79.02,11.17,"Siranattam village: Dravidosaurus and assoc. fauna",NA,"Dravidosaurus and assc. fauna, Siranattam Village, Tiruchirapalli district, Tamil Nadu, India",8,"Coniacian","",89.8,86.3,12367,"gp_mid",49.69,-45.65,"501",88.05,"coniacian",6684,44.9912,-41.9029,23,1
+"28972",46442,"col","",79,11.13,"Gudalur, India: Goniomya and assoc. fauna",NA,"Goniomya and assoc. fauna, Gudalur, Tiruchirapalli District, Tamil Nadu State, India",11,"Coniacian","",89.8,86.3,12379,"gp_mid",49.64,-45.66,"501",88.05,"coniacian",6715,44.9912,-41.9029,23,1
 "38535",58612,"col","",61.33,41.2,"Pitnyak",NA,"",2,"Coniacian","",89.8,86.3,16510,"gp_mid",66.96,33.63,"402",88.05,"coniacian",9313,62.0122,40.0973,23,1
 "38536",58613,"col","",66.84,38.34,"Bzoubai",NA,"",1,"Coniacian","",89.8,86.3,16510,"gp_mid",72.3,31.21,"402",88.05,"coniacian",9314,69.9678,38.4986,23,1
 "38840",58920,"col","Craie de Sens",3.32,48.15,"Ophiuroidea, Coniacian, Rosoy, Yonne, France",NA,"",2,"Coniacian","",89.8,86.3,16690,"gp_mid",15.83,40.21,"305",88.05,"coniacian",9379,7.5389,42.0417,23,1
 "39540",59650,"col","",1.12,49.93,"Lense, Asteroidea, Coniacian, Puys-est, Dieppe, Seine-Maritime",NA,"",8,"Coniacian","",89.8,86.3,17061,"gp_mid",14.14,42.12,"315",88.05,"coniacian",9525,3.8453,44.3012,23,1
+"39568",59680,"col","",2.35,42.87,"Chemin de Cugurou, Bugarach, Aude",NA,"",13,"Coniacian","",89.8,86.3,17061,"gp_mid",14.98,33.48,"304",88.05,"coniacian",9534,8.2452,35.321,23,1
 "41547",62013,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, right bank, Sample 120, Celendin Formation",NA,"",3,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
 "41548",62014,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, right bank, Sample 123, Celendin Formation",NA,"",1,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
 "41549",62015,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, left bank, Sample 152, Celendin Formation",NA,"",2,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
@@ -30,6 +43,8 @@
 "41552",62018,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, left bank, Sample 156, Celendin Formation",NA,"",3,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
 "41553",62019,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, left bank, Sample 157, Celendin Formation",NA,"",3,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
 "41554",62020,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, left bank, Sample 159, Celendin Formation",NA,"",2,"Coniacian","",89.8,86.3,17883,"gp_mid",-48.13,-5.98,"201",88.05,"coniacian",10036,-52.4521,-9.1703,23,1
+"41723",62351,"col","Redding",-121.9,40.56,"LACMIP loc. 10905, Bear Creek",NA,"",1,"Coniacian","",89.8,86.3,18028,"gp_mid",-82.44,50.72,"101",88.05,"coniacian",10081,-89.9909,41.5616,23,1
+"42750",64097,"col","",69.56,41.9,"Voskoboinikov, N of Syr Darya River",NA,"",3,"Coniacian","",89.8,86.3,16510,"gp_mid",74.28,34.98,"402",88.05,"coniacian",10302,72.7367,43.8748,23,1
 "43083",64574,"col","",142.77,47.42,"Naibuchi Area, Yezoites subplanus ammonite zone, Sakhalin",NA,"Naibuchi district, Yezoites subplanus ammonite zone, South Saghalin",6,"Coniacian","",89.8,86.3,18632,"gp_mid",156.61,49.14,"609",88.05,"coniacian",10388,148.5371,57.9437,23,1
 "43360",65023,"col","Furushiroyama",132.75,33.25,"Furushiroyama Formation, Chikanaga area",NA,"",2,"Coniacian","",89.8,86.3,18725,"gp_mid",133.82,39.59,"610",88.05,"coniacian",10450,137.3445,39.8373,23,1
 "43361",65024,"col","Ishibiki",132.75,33.25,"Ishibiki Formation, Chikanaga area",NA,"",2,"Coniacian","",89.8,86.3,18725,"gp_mid",133.82,39.59,"610",88.05,"coniacian",10450,137.3445,39.8373,23,1
@@ -51,6 +66,7 @@
 "48219",71823,"col","",5.83,35.32,"Les Tamarins, Aures",NA,"",1,"Coniacian","",89.8,86.3,24273,"gp_mid",15.42,23.23,"714",88.05,"coniacian",11790,9.7611,24.5723,23,1
 "48222",71826,"col","",6.17,35.23,"Teniet ed Deb (Tizi bou Iriel), Aures",NA,"",2,"Coniacian","",89.8,86.3,24273,"gp_mid",15.67,23.06,"714",88.05,"coniacian",11793,9.7611,24.5723,23,1
 "48223",71827,"col","",6.17,34.9,"El Khenag-Ouleche, Aures",NA,"",1,"Coniacian","",89.8,86.3,24273,"gp_mid",15.55,22.74,"714",88.05,"coniacian",11794,9.7611,24.5723,23,1
+"48361",72037,"col","Redding",-122.02,40.68,"Area 11: East of Redding, Shasta County, Member IV",NA,"CIT loc. 1007; LACMIP loc. 10816",8,"Coniacian","",89.8,86.3,24379,"gp_mid",-82.54,50.85,"101",88.05,"coniacian",11845,-89.9909,41.5616,23,1
 "48565",72287,"col","",-1.05,49,"Asteroidea, Couches a Micraster cortestudinarium, Aulnay-sur-Iton, Eure",NA,"",13,"Coniacian","",89.8,86.3,17476,"gp_mid",12.14,41.34,"305",88.05,"coniacian",11913,3.8453,44.3012,23,1
 "49760",74611,"col","",19.6,42.5,"Selce, rudist biostrome",NA,"Reef 1189",24,"Coniacian","",89.8,86.3,25073,"gp_mid",27.45,27.29,"307",88.05,"coniacian",12158,23.1479,28.2311,23,1
 "49902",74908,"col","Arnager Limestone",14.78,55.05,"Arnager, Bornholm, sponge-rich mounds",NA,"Reef 1273",22,"Coniacian","",89.8,86.3,25260,"gp_mid",26.29,46.57,"302",88.05,"coniacian",11486,16.379,50.2984,23,1
@@ -75,6 +91,15 @@
 "54369",83016,"col","Sekule",12,8.91,"Lamja, Sekule River",NA,"",7,"Coniacian","",89.8,86.3,72460,"gp_mid",12.77,-3.65,"701",88.05,"coniacian",13721,7.9285,-0.5983,23,1
 "54373",83020,"col","Pindiga",10.93,9.98,"Pindiga (top of section), Zambuk Ridge",NA,"",2,"Coniacian","",89.8,86.3,72460,"gp_mid",12.07,-2.32,"714",88.05,"coniacian",13722,7.9285,-0.5983,23,1
 "56003",85282,"col","Niobrara",-101.77,38.92,"Baptornis advenus type locality",NA,"",1,"Coniacian","",89.8,86.3,28728,"gp_mid",-60.48,45.42,"101",88.05,"coniacian",14328,-67.3387,41.6851,23,1
+"56938",86783,"col","",-122.24,40.64,"CIT Loc. 1034 - Oak Run Rd [Member IV]",NA,"LACMIP Loc. 10869",7,"Coniacian","",89.8,86.3,29214,"gp_mid",-82.81,50.84,"101",88.05,"coniacian",14700,-89.9909,41.5616,23,1
+"57073",86989,"col","",142,44.08,"Loc. XR 4040 - Obira",NA,"",1,"Coniacian","",89.8,86.3,29266,"gp_mid",139.07,52.07,"610",88.05,"coniacian",14760,148.0129,55.4603,23,1
+"57074",86990,"col","",142,44.08,"Loc. X 2638 - Obira",NA,"",1,"Coniacian","",89.8,86.3,29266,"gp_mid",139.07,52.07,"610",88.05,"coniacian",14760,148.0129,55.4603,23,1
+"57075",86991,"col","",142.08,43.67,"Loc. X 1117 - Ikushunbetsu",NA,"",1,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
+"57076",86992,"col","",142.08,43.67,"Loc. X 2715 - Ikushunbetsu",NA,"",1,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
+"57077",86993,"col","",142.08,43.67,"Loc. X 2713 - Ikushunbetsu",NA,"",2,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
+"57078",86994,"col","",142.08,43.67,"Loc. X 2710 - Ikushunbetsu",NA,"",3,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
+"57079",86995,"col","",142.08,43.67,"Loc. X 1110 - Ikushunbetsu",NA,"",1,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
+"57080",86996,"col","",142.08,43.67,"Loc. X 1127 - Ikushunbetsu",NA,"",2,"Coniacian","",89.8,86.3,29266,"gp_mid",139.38,51.69,"610",88.05,"coniacian",14761,148.8612,52.2033,23,1
 "57678",87708,"col","Honna",-132,53.23,"GSC Loc. 97631, Skidgate Inlet [Honna Fm]",NA,"",1,"Coniacian","",89.8,86.3,29508,"gp_mid",-90.37,59.41,"128",88.05,"coniacian",14936,-92.3435,54.9612,23,1
 "57679",87709,"col","Honna",-132,53.23,"GSC Loc. 137659, Skidgate Inlet [Honna Fm]",NA,"",1,"Coniacian","",89.8,86.3,29494,"gp_mid",-90.37,59.41,"128",88.05,"coniacian",14936,-92.3435,54.9612,23,1
 "57680",87710,"col","Honna",-132,53.23,"GSC Loc. 137660, Skidgate Inlet [Honna Fm]",NA,"",1,"Coniacian","",89.8,86.3,29494,"gp_mid",-90.37,59.41,"128",88.05,"coniacian",14936,-92.3435,54.9612,23,1
@@ -109,11 +134,20 @@
 "59212",89988,"col","Craie blanche",3.12,50.61,"Lezennes, White Chalk ""pterosaur""",NA,"",1,"Coniacian","",89.8,86.3,30132,"gp_mid",15.95,42.68,"315",88.05,"coniacian",15433,7.2046,44.5298,23,1
 "59369",90241,"col","Awgu Limestone",7.47,6.08,"Awgu, below government station",NA,"",16,"Coniacian","",89.8,86.3,72325,"gp_mid",7.64,-5.04,"701",88.05,"coniacian",15492,3.2846,-4.7581,23,1
 "61403",92949,"col","",-3.77,42.64,"N1-N3 Nidaguila",NA,"",5,"Coniacian","",89.8,86.3,17061,"gp_mid",9.68,34.41,"304",88.05,"coniacian",16200,1.5022,36.0878,23,1
+"62149",93972,"col","",-12.23,28.08,"Borehole S1 (38 m)",NA,"",1,"Coniacian","",89.8,86.3,31942,"gp_mid",-2.89,21.92,"714",88.05,"coniacian",16454,-9.09,21.2724,23,1
+"62708",94690,"col","",142,44,"Obata locality 11",NA,"",5,"Coniacian","",89.8,86.3,32250,"gp_mid",139.12,51.99,"610",88.05,"coniacian",16559,148.0129,55.4603,23,1
 "63898",95913,"col","",37.83,56.08,"Moscow Basin, borehole 112, sample 4",NA,"",16,"Coniacian","",89.8,86.3,32571,"gp_mid",45.38,47.43,"302",88.05,"coniacian",16929,36.7488,52.3687,23,1
 "63967",95982,"col","",38.08,56.33,"Moscow Basin, borehole 9, sample 21-12",NA,"",14,"Coniacian","",89.8,86.3,32571,"gp_mid",45.57,47.68,"302",88.05,"coniacian",16973,35.9647,54.8251,23,1
 "63973",95988,"col","",35.52,54.58,"Moscow Basin, borehole 71, samples 16-18",NA,"",6,"Coniacian","",89.8,86.3,32571,"gp_mid",43.51,45.89,"302",88.05,"coniacian",16976,33.2971,51.9863,23,1
 "63978",95993,"col","",40.2,56.42,"Moscow Basin, borehole 124, sample 1",NA,"",2,"Coniacian","",89.8,86.3,32571,"gp_mid",47.31,47.81,"302",88.05,"coniacian",16979,39.4122,55.217,23,1
 "63981",95996,"col","",39.37,56.2,"Moscow Basin, borehole 150, sample 1",NA,"",4,"Coniacian","",89.8,86.3,32571,"gp_mid",46.63,47.57,"302",88.05,"coniacian",16981,36.7488,52.3687,23,1
+"64004",96027,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU09",NA,"",30,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64005",96028,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU08",NA,"",14,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64006",96029,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU07",NA,"",16,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64007",96030,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU06",NA,"",14,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64008",96031,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU05",NA,"",3,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64009",96032,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU04",NA,"",18,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
+"64010",96033,"col","Urakawa",142.82,42.17,"Chinomi River CU-CM, Urakawa, sample CU03",NA,"",16,"Coniacian","",89.8,86.3,32589,"gp_mid",152.14,44.87,"609",88.05,"coniacian",16994,148.8612,52.2033,23,1
 "67066",100120,"col","Mexcala",-99.15,18.02,"Tehuitzingo",NA,"",3,"Coniacian","",89.8,86.3,34354,"gp_mid",-63.79,24.56,"104",88.05,"coniacian",18015,-68.1486,18.9625,23,1
 "70597",105520,"col","Celendin",-78.33,-7.12,"Bed 75, Polloc section",NA,"",5,"Coniacian","",89.8,86.3,15338,"gp_mid",-48.05,-7.62,"201",88.05,"coniacian",19597,-52.4351,-11.6703,23,1
 "70598",159010,"col","Celendin",-78.51,-7.16,"Bed 144, Cajamarca section",NA,"",6,"Coniacian","",89.8,86.3,15338,"gp_mid",-48.24,-7.65,"201",88.05,"coniacian",19598,-52.4351,-11.6703,23,1
@@ -137,6 +171,7 @@
 "77301",113647,"col","",3.15,50.63,"Annappes, Lille",NA,"",1,"Coniacian","",89.8,86.3,36845,"gp_mid",15.98,42.7,"315",88.05,"coniacian",21699,7.2046,44.5298,23,1
 "77458",113832,"col","",2.8,50.3,"Saint-Laurent",NA,"",2,"Coniacian","",89.8,86.3,36845,"gp_mid",15.64,42.39,"315",88.05,"coniacian",21751,7.2046,44.5298,23,1
 "77459",113833,"col","",2.12,50.8,"Bayenghem-les-Eperlecques",NA,"",1,"Coniacian","",89.8,86.3,36845,"gp_mid",15.12,42.93,"315",88.05,"coniacian",21752,7.2046,44.5298,23,1
+"78359",114803,"col","Matulla",33.24,28.65,"Gebel Ekma, Matulla Formation, Sinai - Bed 22",NA,"",2,"Coniacian","",89.8,86.3,37168,"gp_mid",36.48,10.72,"508",88.05,"coniacian",21985,31.7811,13.3996,23,1
 "84917",123323,"col","Matulla",33.18,29.23,"Wadi Matulla",NA,"",1,"Coniacian","",89.8,86.3,39497,"gp_mid",36.58,11.29,"508",88.05,"coniacian",23756,31.7472,15.7354,23,1
 "84918",123324,"col","Matulla",33.5,29,"Gebel Nezzazat",NA,"",1,"Coniacian","",89.8,86.3,39497,"gp_mid",36.79,11,"508",88.05,"coniacian",23757,31.7472,15.7354,23,1
 "84919",123325,"col","Matulla",33.65,28.75,"Wadi Feiran",NA,"",1,"Coniacian","",89.8,86.3,39497,"gp_mid",36.86,10.72,"508",88.05,"coniacian",23758,31.7472,15.7354,23,1
@@ -160,6 +195,11 @@
 "114903",163221,"col","",13.12,41.62,"Monte delle Castagne, Section A, Facies B, second layer",NA,"",8,"Coniacian","",89.8,86.3,53131,"gp_mid",22.55,29.61,"307",88.05,"coniacian",30767,17.721,31.1184,23,1
 "115116",163725,"col","Gongila",10.71,10.12,"Kolmani River-1 well. Syncolporites subtilis Assemblage",NA,"",8,"Coniacian","",89.8,86.3,53391,"gp_mid",11.9,-2.13,"714",88.05,"coniacian",30803,7.9285,-0.5983,23,1
 "116451",166001,"col","Lower Kanguk",-99.77,78.18,"Hoodoo Dome on Ellef Ringnes Island",NA,"",23,"Coniacian","",89.8,86.3,54217,"gp_mid",2.61,75.94,"106",88.05,"coniacian",31182,-36.819,76.2786,23,1
+"116489",166077,"col","",141.66,44.02,"Obira-cho",NA,"",1,"Coniacian","",89.8,86.3,54277,"gp_mid",138.74,51.93,"610",88.05,"coniacian",31201,148.0129,55.4603,23,1
+"116606",166216,"col","",142.07,43.21,"Ik5605, Samata-zawa, Ikushumbets area",NA,"",1,"Coniacian","",89.8,86.3,54306,"gp_mid",139.6,51.26,"610",88.05,"coniacian",31226,148.8612,52.2033,23,1
+"116607",166217,"col","",141.95,44.07,"Kamikinembets stream, upstream from Obirashibe river",NA,"",1,"Coniacian","",89.8,86.3,54306,"gp_mid",139.03,52.05,"610",88.05,"coniacian",31227,148.0129,55.4603,23,1
+"116608",166218,"col","",142.12,43.17,"Masago-zawa stream, branch of River Shiyubari",NA,"",1,"Coniacian","",89.8,86.3,54306,"gp_mid",139.67,51.23,"610",88.05,"coniacian",31228,148.8612,52.2033,23,1
+"116609",166219,"col","",142.12,43.15,"Locality 27, River Shiyubari",NA,"",1,"Coniacian","",89.8,86.3,54306,"gp_mid",139.67,51.22,"610",88.05,"coniacian",31229,148.8612,52.2033,23,1
 "119458",171022,"col","",-3.36,43.08,"Cadagua",NA,"",2,"Coniacian","",89.8,86.3,55659,"gp_mid",10.17,34.75,"304",88.05,"coniacian",31804,1.5022,36.0878,23,1
 "124183",178942,"col","Craie de Villedieu",0.65,47.74,"La Ribochère, Villedieu-le-Château",NA,"",2,"Coniacian","",89.8,86.3,59212,"gp_mid",13.45,39.97,"305",88.05,"coniacian",32931,4.1479,41.811,23,1
 "124187",178946,"col","Craie de Villedieu",0.65,47.74,"Carrières de la Ribochère, Couture (Le Mesle collection)",NA,"",5,"Coniacian","",89.8,86.3,59212,"gp_mid",13.45,39.97,"305",88.05,"coniacian",32931,4.1479,41.811,23,1
@@ -170,10 +210,27 @@
 "124302",179067,"col","Craie de Villedieu",0.65,47.74,"Carrières de la Ribochère, Couture (Sorbonne collection)",NA,"",1,"Coniacian","",89.8,86.3,59212,"gp_mid",13.45,39.97,"305",88.05,"coniacian",32931,4.1479,41.811,23,1
 "124336",179104,"col","Craie de Villedieu",0.88,47.74,"Lavardin",NA,"",1,"Coniacian","",89.8,86.3,59212,"gp_mid",13.66,39.96,"305",88.05,"coniacian",32950,4.1479,41.811,23,1
 "124337",179105,"col","Craie de Villedieu",0.65,47.74,"Carrières de la Ribochère, Couture (Angers collection)",NA,"",1,"Coniacian","",89.8,86.3,59212,"gp_mid",13.45,39.97,"305",88.05,"coniacian",32931,4.1479,41.811,23,1
+"124351",179121,"col","",2.36,42.91,"Road from Sougraigne to Les Croutets (Marnes Bleues)",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",14.41,35.05,"305",88.05,"coniacian",32954,8.2452,35.321,23,1
+"124624",179500,"col","",2.37,42.9,"Between Soulage and la Source-Salée",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",14.42,35.04,"305",88.05,"coniacian",33012,8.2452,35.321,23,1
+"124626",179502,"col","",2.33,42.92,"Environs de Montferrand (Peron collection)",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",14.38,35.07,"305",88.05,"coniacian",33013,8.2452,35.321,23,1
+"124723",179672,"col","Marnes a Micraster",2.33,42.92,"Ravin de Montferrand (base des couches a Micraster, Coniacian)",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",14.38,35.07,"305",88.05,"coniacian",33013,8.2452,35.321,23,1
+"124724",179673,"col","Marnes a Micraster",2.38,42.88,"Between Bugarach and Les Linas",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",14.43,35.02,"305",88.05,"coniacian",33042,8.2452,35.321,23,1
+"124832",179792,"col","",2.52,42.88,"Soulatgé (d'Orbigny collection)",NA,"",2,"Coniacian","",89.8,86.3,59267,"gp_mid",15.14,33.47,"304",88.05,"coniacian",33072,8.2452,35.321,23,1
+"124844",179804,"col","",2.41,42.87,"North of La Bastide de Camps",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",15.03,33.47,"304",88.05,"coniacian",33074,8.2452,35.321,23,1
+"124845",179805,"col","",2.52,42.88,"Soulatgé (Marnes à Micraster, UPST collection)",NA,"",1,"Coniacian","",89.8,86.3,59267,"gp_mid",15.14,33.47,"304",88.05,"coniacian",33072,8.2452,35.321,23,1
+"125381",180663,"col","Anaipadi",78.23,11.28,"Near Senthamangalam",NA,"Near Serdamangulam",1,"Coniacian","",89.8,86.3,59946,"gp_mid",49.02,-45.03,"501",88.05,"coniacian",33239,47.5031,-40.27,23,1
+"125635",181018,"col","",142.03,43.27,"Ki504F, nodule in Kamiichi-no-sawa stream",NA,"",1,"Coniacian","",89.8,86.3,60111,"gp_mid",139.53,51.3,"610",88.05,"coniacian",33288,148.8612,52.2033,23,1
 "126928",183406,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 2",NA,"",1,"Coniacian","",89.8,86.3,61229,"gp_mid",30.9,41.97,"305",88.05,"coniacian",33583,20.7628,45.6506,23,1
+"128347",185416,"col","Panoche",-121.32,37.37,"UCMP B-776, Long Canyon",NA,"31-51-4F",4,"Coniacian","",89.8,86.3,62141,"gp_mid",-80.62,45.03,"130",88.05,"coniacian",33941,-87.0633,38.4355,23,1
+"128476",185611,"col","",-13.09,27.73,"Tarfaya",NA,"",1,"Coniacian","",89.8,86.3,62230,"gp_mid",-3.79,21.87,"714",88.05,"coniacian",33983,-9.09,21.2724,23,1
 "128501",185640,"col","",6.62,36.28,"Province de Constantine",NA,"",7,"Coniacian","",89.8,86.3,62230,"gp_mid",NA,NA,"coordinates not computable using this model",88.05,"coniacian",33992,10.6196,26.9889,23,1
 "128511",185650,"col","",9.18,35.37,"Foum El Guelta",NA,"",4,"Coniacian","",89.8,86.3,62230,"gp_mid",18.25,22.39,"714",88.05,"coniacian",34002,9.7611,24.5723,23,1
+"128843",186342,"col","",67.33,36.03,"Tadjik Depression",NA,"",4,"Coniacian","",89.8,86.3,62476,"gp_mid",73.03,28.96,"402",88.05,"coniacian",34102,70.4195,36.0246,23,1
 "134122",197066,"col","Austin Chalk",-97.75,30.27,"USGS 12241, Shoal Creek",NA,"",1,"Coniacian","",89.8,86.3,26335,"gp_mid",-59.14,36.22,"101",88.05,"coniacian",35236,-65.8741,31.2928,23,1
+"140289",207525,"col","Redding",-121.91,40.54,"LACMIP loc. 15758, Bear Creek",NA,"P 63-36",1,"Coniacian","",89.8,86.3,18028,"gp_mid",-82.46,50.7,"101",88.05,"coniacian",36951,-89.9909,41.5616,23,1
+"140299",207535,"col","Redding",-121.89,40.57,"LACMIP loc. 15761, Bear Creek",NA,"UCMP M7244",1,"Coniacian","",89.8,86.3,18028,"gp_mid",-82.43,50.72,"101",88.05,"coniacian",36960,-89.9909,41.5616,23,1
+"140300",207536,"col","Redding",-121.9,40.57,"LACMIP loc. 15797, Bear Creek",NA,"Continental Oil HS2",1,"Coniacian","",89.8,86.3,18028,"gp_mid",-82.44,50.72,"101",88.05,"coniacian",36961,-89.9909,41.5616,23,1
+"140301",207537,"col","Redding",-121.9,40.56,"LACMIP loc. 15944, Bear Creek",NA,"",1,"Coniacian","",89.8,86.3,18028,"gp_mid",-82.44,50.72,"101",88.05,"coniacian",10081,-89.9909,41.5616,23,1
 "141825",209696,"col","Awgu Limestone",7.47,6.1,"Awgu-Lengwe road",NA,"",1,"Coniacian","",89.8,86.3,72325,"gp_mid",7.64,-5.03,"701",88.05,"coniacian",37274,3.2846,-4.7581,23,1
 "141831",209705,"col","",7.48,6.08,"Uzuli River",NA,"",1,"Coniacian","",89.8,86.3,72325,"gp_mid",7.64,-5.04,"701",88.05,"coniacian",37277,3.2846,-4.7581,23,1
 "142733",210976,"col","Mata Amarilla",-71.09,-49.76,"Tres Lagos 1",NA,"3LAG1",4,"Coniacian","",89.8,86.3,72842,"gp_mid",-44.65,-50.6,"291",88.05,"coniacian",37456,-43.7663,-54.0759,23,1

@@ -89,6 +89,12 @@
 "557",1730,"col","Pierre Shale",-104.25,43.27,"Pierre Shale (USGS D1869, D2909)",NA,"",5,"Campanian","",83.6,72.1,45,"gp_mid",-62.78,51.86,"101",77.85,"campanian",149,-74.4042,46.6515,21,1
 "558",1713,"col","Pierre Shale",-104.25,43.27,"Pierre Shale (USGS D1888, D1890)",NA,"",5,"Campanian","",83.6,72.1,45,"gp_mid",-62.78,51.86,"101",77.85,"campanian",149,-74.4042,46.6515,21,1
 "1641",3585,"col","Mooreville Chalk",-88.27,33.23,"USGS M 31419",NA,"",4,"Campanian","",83.6,72.1,214,"gp_mid",-51.37,37.98,"101",77.85,"campanian",489,-61.8316,34.3938,21,1
+"1715",3732,"col","",4.17,45.43,"Highway A10, France",NA,"",10,"Campanian","",83.6,72.1,238,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
+"1724",3747,"col","",4.17,45.43,"Highway A10, France",NA,"",28,"Campanian","",83.6,72.1,241,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
+"1738",3777,"col","",4.17,45.43,"Highway A10, France",NA,"",7,"Campanian","",83.6,72.1,247,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
+"1742",3784,"col","",4.17,45.43,"Highway A10, France",NA,"",4,"Campanian","",83.6,72.1,248,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
+"1745",3787,"col","",4.17,45.43,"Highway A10, France",NA,"",21,"Campanian","",83.6,72.1,249,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
+"1747",3789,"col","",4.17,45.43,"Highway A10, France",NA,"",4,"Campanian","",83.6,72.1,250,"gp_mid",14.04,34.32,"305",77.85,"campanian",503,6.0639,39.3795,21,1
 "1781",3868,"col","Marshalltown",-75.44,39.78,"Oldmans Creek, NJ (Locality 1)",NA,"",7,"Campanian","",83.6,72.1,259,"gp_mid",-35.9,40.3,"109",77.85,"campanian",519,-45.0969,39.1728,21,1
 "1782",3869,"col","Marshalltown",-75.44,39.78,"Oldmans Creek, NJ (Locality 2)",NA,"",5,"Campanian","",83.6,72.1,259,"gp_mid",-35.9,40.3,"109",77.85,"campanian",519,-45.0969,39.1728,21,1
 "1783",3870,"col","Marshalltown",-75.44,39.78,"Oldmans Creek, NJ (Locality 3)",NA,"",25,"Campanian","",83.6,72.1,259,"gp_mid",-35.9,40.3,"109",77.85,"campanian",519,-45.0969,39.1728,21,1
@@ -184,22 +190,34 @@
 "21473",36749,"col","Vermilion River",-98,49.37,"Miami, Vermilion River Formation",NA,"",2,"Campanian","",83.6,72.1,9799,"gp_mid",-51.87,55.65,"101",77.85,"campanian",4356,-63.8468,52.7005,21,1
 "21474",36750,"col","Vermilion River",-98.3,49.3,"Pembina Member 4, Vermilion River Formation",NA,"",2,"Campanian","",83.6,72.1,9799,"gp_mid",-52.23,55.68,"101",77.85,"campanian",4357,-63.8468,52.7005,21,1
 "21476",36752,"col","Vermilion River",-98.34,49.33,"Pembina Member 5, Vermilion River Formation",NA,"",1,"Campanian","",83.6,72.1,9799,"gp_mid",-52.26,55.72,"101",77.85,"campanian",4358,-63.8468,52.7005,21,1
+"21478",36754,"col","Pierre Shale",-101.63,53.75,"Pasquia Hills, Pierre Shale",NA,"",1,"Campanian","",83.6,72.1,9799,"gp_mid",-51.77,60.58,"101",77.85,"campanian",4359,-65.2748,58.1353,21,1
 "22838",38669,"col","",29.17,25.5,"Gebel Lift, Dakhla Oasis",NA,"Dachel",3,"Campanian","",83.6,72.1,10375,"gp_mid",31.87,6.45,"715",77.85,"campanian",4751,27.4315,12.1017,21,1
 "22839",38670,"col","",31.53,29.67,"Ouadi Oum Hemaiet",NA,"",4,"Campanian","",83.6,72.1,10375,"gp_mid",34.64,10.22,"715",77.85,"campanian",4752,28.0083,17.0704,21,1
 "22840",38671,"col","",31.92,26.18,"Quft",NA,"Abydos",3,"Campanian","",83.6,72.1,10375,"gp_mid",34.44,6.72,"715",77.85,"campanian",4753,30.8866,11.752,21,1
+"23440",39565,"col","",130,32.5,"Amakusa Island, Himenoura Group, Kyushu",NA,"",10,"Campanian","",83.6,72.1,10664,"gp_mid",125.01,37.89,"610",77.85,"campanian",4884,132.6627,38.5941,21,1
 "23451",39575,"col","Minato, Azenotani, Kitaama & Shichi Shale, Shimonada Siltsone, Yoroizaki Sandstone",135,34.5,"Awaji Island, Izumi Group, Honshu",NA,"",26,"Campanian","",83.6,72.1,10664,"gp_mid",129.13,41.25,"610",77.85,"campanian",4893,133.8593,42.4853,21,1
+"23678",39821,"col","",142,44.83,"Abeshinai Area, Upper Yezo Group, Hokkaido",NA,"",7,"Campanian","",83.6,72.1,10664,"gp_mid",130.53,52.86,"610",77.85,"campanian",4937,142.6509,54.1854,21,1
 "23726",39905,"col","Minato, Azenotani & Shichi Shale, Kitaama Sandstone, Yoroizaki Sandstone",135.42,34.47,"Izumi Mountains, Izumi Group, Honshu",NA,"",16,"Campanian","",83.6,72.1,10664,"gp_mid",129.57,41.35,"610",77.85,"campanian",4955,133.8593,42.4853,21,1
+"23739",39920,"col","Misho",132.57,32.95,"Johen Area, Misho Formation, Shikoku",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",127.38,39.08,"610",77.85,"campanian",4959,132.6627,38.5941,21,1
 "23785",39967,"col","Toyajo",135.25,34.07,"Kanaya Area, Toyajo Fromation, Honshu",NA,"",2,"Campanian","",83.6,72.1,10664,"gp_mid",129.59,40.92,"610",77.85,"campanian",4974,133.8593,42.4853,21,1
 "23882",40162,"col","",136.5,36.17,"Kitadani Area, Izumi Group, Honshu",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",129.85,43.25,"610",77.85,"campanian",4997,133.8593,42.4853,21,1
 "23890",40170,"col","",134.4,34.22,"Hiketa Area, Izumi Group, Shikoku",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",128.65,40.81,"610",77.85,"campanian",5002,133.8593,42.4853,21,1
+"23947",40228,"col","",130.17,32.17,"Nagashima Island, Himenoura Group, Kyushu",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",125.33,37.63,"610",77.85,"campanian",5021,132.6627,38.5941,21,1
 "23973",40255,"col","Tsubasayama Sandstone",134.4,34.22,"Hiketa Area, Tsubasayama Sandstone, Shikoku",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",128.65,40.81,"610",77.85,"campanian",5002,133.8593,42.4853,21,1
-"24430",64595,"col","",142.77,47.42,"Naibuchi Area, Polyptychoceras subquadratum ammonite zone, Sakhalin",NA,"Naibuchi district, Polyptychoceras subquadratum ammonite zone, South Saghalin",8,"Campanian","",83.6,72.1,18632,"gp_mid",142.22,52.39,"609",77.85,"campanian",5158,142.9269,56.6805,21,1
+"24230",40657,"col","",130.67,32.67,"Uto Area, Himenoura Group, Kyushu",NA,"",1,"Campanian","",83.6,72.1,10664,"gp_mid",125.6,38.24,"610",77.85,"campanian",5128,132.6627,38.5941,21,1
 "28293",45680,"col","Two Medicine",-112.66,48.96,"north side, Milk River (USNM)",NA,"1928 Smithsonian Paleontological Expedition",1,"Campanian","",83.6,72.1,12057,"gp_mid",-68.38,59.37,"101",77.85,"campanian",6438,-79.701,55.132,21,1
 "28294",45681,"col","Two Medicine",-112.64,48.94,"south side, Milk River (USNM 11892)",NA,"1928 Smithsonian Paleontological Expedition",1,"Campanian","",83.6,72.1,12057,"gp_mid",-68.38,59.34,"101",77.85,"campanian",6439,-79.701,55.132,21,1
 "28295",45682,"col","Two Medicine",-112.71,48.96,"S. ovatus type, Milk River (USNM 11869)",NA,"1928 Smithsonian Paleontological Expedidion",1,"Campanian","",83.6,72.1,12057,"gp_mid",-68.43,59.38,"101",77.85,"campanian",6440,-79.701,55.132,21,1
 "28360",45753,"col","",-111.6,50.8,"1.5 miles southwest of mouth, Berry Creek",NA,"NMC, Stenonychosaurus type",1,"Campanian","",83.6,72.1,12114,"gp_mid",-65.61,60.76,"101",77.85,"campanian",6464,-79.701,55.132,21,1
 "28424",45819,"col","Oldman",-110.72,49.16,"Hanna's Site, RTMP L1132",NA,"HS",40,"Campanian","",83.6,72.1,11964,"gp_mid",-65.95,59.03,"101",77.85,"campanian",6498,-79.701,55.132,21,1
 "28426",45821,"col","Oldman",-110.72,49.16,"Confluence Site, RTMP L1134",NA,"CS",40,"Campanian","",83.6,72.1,11964,"gp_mid",-65.95,59.04,"101",77.85,"campanian",6498,-79.701,55.132,21,1
+"28442",45861,"col","Almond",-109.22,41.64,"Rock Springs, AMNH Loc. 11598",NA,"AMNH Sinclair Expedition",1,"Campanian","",83.6,72.1,18651,"gp_mid",-69.26,51.68,"101",77.85,"campanian",6509,-78.3605,47.2432,21,1
+"28444",45863,"col","Almond",-108.76,41.69,"Point of Rocks, AMNH Loc. 11155",NA,"AMNH Sinclair Expedition",1,"Campanian","",83.6,72.1,18651,"gp_mid",-68.71,51.6,"101",77.85,"campanian",6510,-78.3605,47.2432,21,1
+"28445",45865,"col","Almond",-108.8,41.71,"AMNH-Sinclair Expedition (AMNH 3658)",NA,"",1,"Campanian","",83.6,72.1,12207,"gp_mid",-68.74,51.63,"101",77.85,"campanian",6511,-78.3605,47.2432,21,1
+"28446",45866,"col","Almond",-109.2,41.78,"Long Canyon, AMNH Loc. 9899",NA,"AMNH Sinclair Expedition",1,"Campanian","",83.6,72.1,18651,"gp_mid",-69.15,51.8,"101",77.85,"campanian",6512,-78.3605,47.2432,21,1
+"28447",45867,"col","Almond",-109.24,41.6,"AMNH field no. 1",NA,"AMNH-Sinclair Expedition",1,"Campanian","",83.6,72.1,12207,"gp_mid",-69.3,51.64,"101",77.85,"campanian",6513,-78.3605,47.2432,21,1
+"28448",45868,"col","Almond",-109.21,41.69,"AMNH field no. 8",NA,"AMNH-Sinclair Expedition",1,"Campanian","",83.6,72.1,12207,"gp_mid",-69.21,51.71,"101",77.85,"campanian",6514,-78.3605,47.2432,21,1
+"28449",45869,"col","Almond",-109.09,41.63,"AMNH field no. 10",NA,"AMNH-Sinclair Expedition",1,"Campanian","",83.6,72.1,12207,"gp_mid",-69.11,51.63,"101",77.85,"campanian",6515,-78.3605,47.2432,21,1
 "28450",45870,"col","Mesaverde",-107.96,39.94,"Green Valley Coal Mine, AMNH Locs. 8534 & 8535",NA,"AMNH-Sinclair Expedition",2,"Campanian","",83.6,72.1,18651,"gp_mid",-68.76,49.75,"101",77.85,"campanian",6516,-79.1132,44.7784,21,1
 "28451",45871,"col","Mesaverde",-107.93,38.95,"Cedaredge, AMNH Loc. 6780",NA,"AMNH-Sinclair Expedition",1,"Campanian","",83.6,72.1,18651,"gp_mid",-69.24,48.8,"101",77.85,"campanian",6517,-79.1132,44.7784,21,1
 "28452",45872,"col","",-106.96,40.32,"DMNH 1657, Haybro Mine",NA,"Hayden Mine no. 4",1,"Campanian","",83.6,72.1,68341,"gp_mid",-67.45,49.85,"101",77.85,"campanian",6518,-79.1132,44.7784,21,1
@@ -322,6 +340,16 @@
 "40061",60364,"col","Oldman",-112.21,49.29,"Milk River Ridge Reservoir Bonebed",NA,"MRR BB",2,"Campanian","",83.6,72.1,52782,"gp_mid",-67.58,59.55,"101",77.85,"campanian",9677,-79.701,55.132,21,1
 "41216",61619,"col","",5.6,43.48,"La Cairanne (LCA)",NA,"Rousset",2,"Campanian","",83.6,72.1,52603,"gp_mid",14.98,32.26,"305",77.85,"campanian",9953,6.6,35.6122,21,1
 "41218",61621,"col","",5.23,43.47,"Vitrolles Le Porry",NA,"",1,"Campanian","",83.6,72.1,17740,"gp_mid",14.67,32.28,"305",77.85,"campanian",9955,6.6,35.6122,21,1
+"41389",61848,"col","Almond",-108.74,41.62,"Point of Rocks",NA,"",1,"Campanian","",83.6,72.1,17862,"gp_mid",-68.72,51.54,"101",77.85,"campanian",9999,-78.3605,47.2432,21,1
+"41390",61849,"col","Rock Springs",-108.98,41.77,"Superior coal mine tracks",NA,"",1,"Campanian","",83.6,72.1,17862,"gp_mid",-68.9,51.73,"101",77.85,"campanian",10000,-78.3605,47.2432,21,1
+"41627",62231,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample CK0005, Chikubetsu River",NA,"",2,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.41,"610",77.85,"campanian",10057,142.6509,54.1854,21,1
+"41628",62232,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample CK0007, Chikubetsu River",NA,"",8,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.41,"610",77.85,"campanian",10057,142.6509,54.1854,21,1
+"41629",62233,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample CK00011, Chikubetsu River",NA,"",11,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.41,"610",77.85,"campanian",10057,142.6509,54.1854,21,1
+"41631",62235,"col","Upper Haborogawa",141.75,44.13,"Upper Haborogawa Fm - Sample DF0199, Detofutamata River",NA,"",1,"Campanian","",83.6,72.1,17980,"gp_mid",130.74,52.15,"610",77.85,"campanian",10058,142.6509,54.1854,21,1
+"41632",62236,"col","Upper Haborogawa",141.75,44.13,"Upper Haborogawa Fm - Sample DF0133, Detofutamata River",NA,"",3,"Campanian","",83.6,72.1,17980,"gp_mid",130.74,52.15,"610",77.85,"campanian",10058,142.6509,54.1854,21,1
+"41633",62237,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample KM0077, Kinomesawa River",NA,"",4,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.27,"610",77.85,"campanian",10059,142.6509,54.1854,21,1
+"41634",62238,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample KM0079, Kinomesawa River",NA,"",1,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.27,"610",77.85,"campanian",10059,142.6509,54.1854,21,1
+"41635",62239,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample SK1185, Sankebetsu River",NA,"",7,"Campanian","",83.6,72.1,17980,"gp_mid",130.65,52.27,"610",77.85,"campanian",10059,142.6509,54.1854,21,1
 "41844",62541,"col","Two Medicine",-112.64,48.91,"Milk River ankylosaur (USNM)",NA,"",1,"Campanian","",83.6,72.1,18053,"gp_mid",-68.39,59.32,"101",77.85,"campanian",8382,-79.701,55.132,21,1
 "41918",62675,"col","",-111.59,50.79,"Steveville (NMC)",NA,"",1,"Campanian","",83.6,72.1,12060,"gp_mid",-65.61,60.75,"101",77.85,"campanian",10127,-79.701,55.132,21,1
 "41958",62721,"col","",-111.51,50.74,"Sand Creek (UA)",NA,"RTMP Quarry 259",1,"Campanian","",83.6,72.1,12046,"gp_mid",-65.56,60.68,"101",77.85,"campanian",10133,-79.701,55.132,21,1
@@ -330,6 +358,8 @@
 "42287",63091,"col","Kahuitara Tuff",-176,-44.33,"CH/f11 and CH/f213 - Kahuitara Tuff, Kahuitara Point",3640,"GS 6968",20,"Campanian","",83.6,72.1,13610,"gp_mid",-125.01,-56.98,"807",77.85,"campanian",10197,-130.3407,-71.8888,21,1
 "42289",63093,"col","Kahuitara Tuff",-176.24,-44.24,"GS 12152, Flowerpot Bay (CH/f466)",NA,"",38,"Campanian","",83.6,72.1,13610,"gp_mid",-125.33,-56.89,"807",77.85,"campanian",10198,-130.3407,-71.8888,21,1
 "42290",63094,"col","Kahuitara Tuff",-176,-44.33,"CH/f257, f587 and f345 - Kahuitara Tuff, Rocky Side",3641,"DL73, GS 12122, GS 13984",56,"Campanian","",83.6,72.1,13610,"gp_mid",-125.01,-56.98,"807",77.85,"campanian",10197,-130.3407,-71.8888,21,1
+"42291",63095,"col","Kahuitara Tuff",176.25,-44.25,"CH/f465 - Kahuitara Tuff, Flowerpot Bay",NA,"GS 12151",5,"Campanian","",83.6,72.1,13610,"gp_mid",-135.19,-56.91,"807",77.85,"campanian",10199,-147.4229,-71.8279,21,1
+"42292",63096,"col","Kahuitara Tuff",176.25,-44.33,"CH/f339 - Kahuitara Tuff, Tupuangi Stream",NA,"GS 12120",3,"Campanian","",83.6,72.1,13610,"gp_mid",-135.19,-56.99,"807",77.85,"campanian",10200,-147.4229,-71.8279,21,1
 "42897",64283,"col","",22.78,38.28,"Bay of Saltsas, Boeotia",NA,"",3,"Campanian","",83.6,72.1,18332,"gp_mid",25.17,19.87,"307",77.85,"campanian",10339,22.8002,23.2928,21,1
 "42913",64312,"col","",21.9,40.68,"Grammatiko, Vermion Mountains, central Greek Macedonia",NA,"",4,"Campanian","",83.6,72.1,18332,"gp_mid",26,22.24,"307",77.85,"campanian",10344,27.7023,26.7773,21,1
 "42923",64308,"col","",21.87,40.75,"Moukharemi Hill, Vermion Mountains, central Greek Macedonia",NA,"Reef 2646",11,"Campanian","",83.6,72.1,18332,"gp_mid",26.02,22.31,"307",77.85,"campanian",10348,27.7023,26.7773,21,1
@@ -339,13 +369,10 @@
 "42953",64339,"col","",-112.93,51.93,"Red Deer River hadrosaur (PMA)",NA,"",2,"Campanian","",83.6,72.1,18556,"gp_mid",-66.17,62.14,"101",77.85,"campanian",10355,-78.5865,57.5546,21,1
 "43002",64398,"col","",-110.45,49,"Lost River",NA,"",1,"Campanian","",83.6,72.1,18594,"gp_mid",-65.76,58.82,"101",77.85,"campanian",10354,-75.6407,54.5459,21,1
 "43005",64401,"col","",-110.59,49.11,"Southeast of Manyberries (NMC)",NA,"",1,"Campanian","",83.6,72.1,18595,"gp_mid",-65.84,58.96,"101",77.85,"campanian",10371,-75.6407,54.5459,21,1
-"43089",64590,"col","",142.77,47.42,"Naibuchi Area, Kotoceras damesi ammonite zone, Sakhalin",NA,"Naibuchi district, Kotoceras damesi ammonite zone, South Saghalin",8,"Campanian","",83.6,72.1,18632,"gp_mid",142.22,52.39,"609",77.85,"campanian",5158,142.9269,56.6805,21,1
-"43090",64593,"col","",142.77,47.42,"Naibuchi Area, Submortoniceras fukazawai ammonite zone, Sakhalin",NA,"Naibuchi district, Submortoniceras fukazawai ammonite zone, South Saghalin",7,"Campanian","",83.6,72.1,18632,"gp_mid",142.22,52.39,"609",77.85,"campanian",5158,142.9269,56.6805,21,1
-"43091",64597,"col","",142.77,47.42,"Naibuchi Area, Subtychoceras yubarense ammonite zone, Sakhalin",NA,"Naibuchi district, Subtychoceras yubarense ammonite zone, South Saghalin",9,"Campanian","",83.6,72.1,18632,"gp_mid",142.22,52.39,"609",77.85,"campanian",5158,142.9269,56.6805,21,1
-"43092",64603,"col","",142.77,47.42,"Naibuchi Area, Hauericeras gardeni ammonite zone, Sakhalin",NA,"Naibuchi district, Hauericeras gardeni ammonite zone, South Saghalin",7,"Campanian","",83.6,72.1,18632,"gp_mid",142.22,52.39,"609",77.85,"campanian",5158,142.9269,56.6805,21,1
 "43109",64635,"col","Price River",-109.7,39.03,"Chesterfield coal mine, Sego",NA,"AMNH Loc. 6872, Ballard",1,"Campanian","",83.6,72.1,29231,"gp_mid",-71.19,49.35,"101",77.85,"campanian",10396,-79.1132,44.7784,21,1
 "43112",64640,"col","Mesaverde",-108.25,40.68,"Red Mountain Mine (AMNH Loc. 6781)",NA,"AMNH-Sinclair Expedition, States Mine",1,"Campanian","",83.6,72.1,18651,"gp_mid",-68.7,50.52,"101",77.85,"campanian",10398,-79.1132,44.7784,21,1
 "43113",64641,"col","Mesaverde",-107.96,39.94,"Western Star Coal Mine (AMNH Loc. 6782)",NA,"AMNH-Sinclair Expedition",1,"Campanian","",83.6,72.1,18651,"gp_mid",-68.76,49.75,"101",77.85,"campanian",6516,-79.1132,44.7784,21,1
+"43114",64642,"col","",-109.21,41.36,"AMNH-Sinclair Expedition (AMNH Loc. 11293)",NA,"",1,"Campanian","",83.6,72.1,12207,"gp_mid",-69.4,51.41,"101",77.85,"campanian",10399,-78.3605,47.2432,21,1
 "43118",64646,"col","",-111.6,50.83,"Berry Creek south, GSC (NMC 138)",NA,"",1,"Campanian","",83.6,72.1,17550,"gp_mid",-65.59,60.79,"101",77.85,"campanian",10400,-79.701,55.132,21,1
 "43119",64647,"col","",-111.6,50.83,"below mouth of Berry Creek (NMC 158)",NA,"GSC",1,"Campanian","",83.6,72.1,17550,"gp_mid",-65.59,60.79,"101",77.85,"campanian",10400,-79.701,55.132,21,1
 "43120",64648,"col","",-111.6,50.83,"below mouth of Berry Creek (NMC 192)",NA,"GSC",1,"Campanian","",83.6,72.1,12773,"gp_mid",-65.59,60.79,"101",77.85,"campanian",10400,-79.701,55.132,21,1
@@ -401,6 +428,7 @@
 "48557",72263,"col","",-110.56,50.18,"South Saskatchewan River, north of Medicine Hat (top)",NA,"",1,"Campanian","",83.6,72.1,24470,"gp_mid",-64.93,59.92,"101",77.85,"campanian",11909,-75.6407,54.5459,21,1
 "48558",72264,"col","",-110.56,50.18,"South Saskatchewan River, north of Medicine Hat (base)",NA,"",5,"Campanian","",83.6,72.1,24470,"gp_mid",-64.93,59.92,"101",77.85,"campanian",11909,-75.6407,54.5459,21,1
 "48797",73281,"col","",-83.17,22.93,"Central Bahia Honda",NA,"",1,"Campanian","",83.6,72.1,24603,"gp_mid",-56.77,20.4,"206",77.85,"campanian",11970,-63.3878,15.3355,21,1
+"49727",74501,"col","Omagari",142.04,44.66,"Omagari carbonate lens, Nakagawa area, Hokkaido",NA,"Reef 3343",10,"Campanian","",83.6,72.1,24997,"gp_mid",130.69,52.71,"610",77.85,"campanian",12149,142.6509,54.1854,21,1
 "49739",74590,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, units 33-35, Pyrenees",NA,"",5,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
 "49741",74592,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, units 37-43, Pyrenees",NA,"",3,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
 "49746",74597,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 49, Pyrenees",NA,"",2,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
@@ -409,6 +437,7 @@
 "49752",74603,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 63, Pyrenees",NA,"",7,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
 "49753",74604,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 69, Pyrenees",NA,"Reef 1184",7,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
 "49754",74605,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, unit 70, Pyrenees",NA,"",6,"Campanian","",83.6,72.1,25067,"gp_mid",11.33,30.23,"304",77.85,"campanian",12153,3.2119,35.9028,21,1
+"49805",74660,"col","",4.17,43.93,"Champ-Garimond",NA,"Champ Garimond",20,"Campanian","",83.6,72.1,25139,"gp_mid",13.83,32.82,"305",77.85,"campanian",12181,6.0639,39.3795,21,1
 "49859",74802,"col","",28,41.28,"Cerkezköy, Tekirdag",NA,"",1,"Campanian","",83.6,72.1,25199,"gp_mid",30.49,20.23,"308",77.85,"campanian",12207,27.0466,38.0461,21,1
 "49861",74804,"col","Rasotica",16.87,43.28,"Zagani Dolac quarry near Sumartin, Brac Island",NA,"",1,"Campanian","",83.6,72.1,25199,"gp_mid",24.32,26.54,"307",77.85,"campanian",12208,19.7577,30.4042,21,1
 "49865",74809,"col","Ugod",17.28,46.98,"Sümeg, Bakony Mts.",NA,"Reef 1287",100,"Campanian","",83.6,72.1,25212,"gp_mid",27.13,29.29,"308",77.85,"campanian",12211,18.849,39.5104,21,1
@@ -424,10 +453,22 @@
 "54107",82701,"col","",13.82,55.42,"Köpingsberg-1 borehole, 132.3 m",NA,"",1,"Campanian","",83.6,72.1,27821,"gp_mid",23.23,43.6,"302",77.85,"campanian",13658,15.2433,49.8339,21,1
 "54420",83123,"col","",-75.15,39.84,"Woodbury Creek",NA,"",1,"Campanian","",83.6,72.1,54671,"gp_mid",-35.6,40.27,"109",77.85,"campanian",13730,-45.0969,39.1728,21,1
 "54566",83309,"col","",5.56,43.45,"Fuveau Basin",NA,"Fureau",2,"Campanian","",83.6,72.1,41934,"gp_mid",14.95,32.24,"305",77.85,"campanian",13822,6.6,35.6122,21,1
+"56962",86809,"col","",-122.56,41.91,"CAS Loc. 444 - Hornbrook",NA,"",4,"Campanian","",83.6,72.1,29214,"gp_mid",-84.94,55.12,"101",77.85,"campanian",14709,-93.8063,46.0814,21,1
 "56969",86816,"col","",-118.72,34.22,"CAS Loc. 699 - Simi Hills",NA,"",2,"Campanian","",83.6,72.1,29214,"gp_mid",-80.73,43.22,"105",77.85,"campanian",14713,-89.3675,36.4839,21,1
 "57004",86859,"col","",-121.22,37.47,"CAS 29664, Puerto Creek",NA,"",3,"Campanian","",83.6,72.1,29214,"gp_mid",-82.62,47.97,"130",77.85,"campanian",14729,-91.6475,40.534,21,1
 "57006",86861,"col","",-118.56,34.04,"UCLA Loc. 3956 - Santa Ynez Canyon",NA,"LACMIP Loc. 23956",1,"Campanian","",83.6,72.1,29214,"gp_mid",-80.6,43.01,"105",77.85,"campanian",14730,-89.3675,36.4839,21,1
 "57054",86970,"col","White Limestone",-6.08,54.5,"Lisburn [White Limestone]",NA,"",1,"Campanian","",83.6,72.1,29264,"gp_mid",7.37,44.26,"313",77.85,"campanian",14751,-4.551,49.0885,21,1
+"57107",87023,"col","",142,44.5,"Loc. E33 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",5,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57108",87024,"col","",141.78,44.75,"Loc. T5011 - Uttsu [Yezo Gp]",NA,"",6,"Campanian","",83.6,72.1,29280,"gp_mid",130.35,52.72,"610",77.85,"campanian",14769,142.6509,54.1854,21,1
+"57109",87025,"col","",142,44.5,"Loc. E45 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",3,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57110",87026,"col","",141.78,44.75,"Loc. T5009 - Uttsu [Yezo Gp]",NA,"",2,"Campanian","",83.6,72.1,29280,"gp_mid",130.35,52.72,"610",77.85,"campanian",14769,142.6509,54.1854,21,1
+"57111",87027,"col","",142,44.5,"Loc. E42 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",6,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57112",87028,"col","",141.78,44.75,"Loc. T5010 - Uttsu [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.35,52.72,"610",77.85,"campanian",14769,142.6509,54.1854,21,1
+"57113",87029,"col","",142,44.5,"Loc. E32 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57114",87030,"col","",142,44.5,"Loc. E11 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57115",87031,"col","",142,44.5,"Loc. E46 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
+"57116",87032,"col","",141.78,44.75,"Loc. T5004 - Uttsu [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.35,52.72,"610",77.85,"campanian",14769,142.6509,54.1854,21,1
+"57117",87033,"col","",142,44.5,"Loc. E44 - Wembets-Rubeshbe, Teshio [Yezo Gp]",NA,"",1,"Campanian","",83.6,72.1,29280,"gp_mid",130.76,52.55,"610",77.85,"campanian",14768,142.6509,54.1854,21,1
 "57130",87046,"col","",24.02,49.83,"Nagorzany, Lviv",NA,"",3,"Campanian","",83.6,72.1,29289,"gp_mid",30.91,37.65,"302",77.85,"campanian",14771,22.6536,45.2718,21,1
 "57140",87056,"col","Blufftown",-85.15,32.02,"Cowikee Creek, North Fork",NA,"",1,"Campanian","",83.6,72.1,29295,"gp_mid",-48.81,35.93,"109",77.85,"campanian",14775,-58.0914,33.7572,21,1
 "57385",87397,"col","",0.18,45.5,"Livernant",NA,"",9,"Campanian","",83.6,72.1,29430,"gp_mid",10.68,34.74,"305",77.85,"campanian",14862,2.6398,39.261,21,1
@@ -459,6 +500,7 @@
 "59970",91219,"col","",14.05,56.22,"Barnakälla, W. Olinge, Schonen",NA,"",2,"Campanian","",83.6,72.1,30685,"gp_mid",23.51,44.39,"302",77.85,"campanian",15750,15.2433,49.8339,21,1
 "59971",91220,"col","",15.48,56.15,"Island of Ivö",NA,"",1,"Campanian","",83.6,72.1,30685,"gp_mid",24.62,44.25,"302",77.85,"campanian",15751,15.2433,49.8339,21,1
 "60775",92116,"col","Cerro del Pueblo",-101.28,26.18,"north of Saltillo",NA,"",1,"Campanian","",83.6,72.1,42526,"gp_mid",-67.49,34.94,"101",77.85,"campanian",16000,-74.8687,28.8846,21,1
+"63692",95697,"col","Omagari",142.06,44.79,"Omagari, Abeshinai River, near mouth of Osoushinai River [Omagari Fm]",NA,"",1,"Campanian","",83.6,72.1,32508,"gp_mid",130.62,52.83,"610",77.85,"campanian",16864,142.6509,54.1854,21,1
 "67695",101100,"col","Pierre Shale",-103.82,43.3,"Edgemont area",NA,"",1,"Campanian","",83.6,72.1,34548,"gp_mid",-62.28,51.77,"101",77.85,"campanian",18239,-74.4042,46.6515,21,1
 "69005",102882,"col","",14.5,56.15,"Asen marine sand deposit",NA,"",2,"Campanian","",83.6,72.1,34814,"gp_mid",23.85,44.3,"302",77.85,"campanian",18810,15.2433,49.8339,21,1
 "69007",102884,"col","Kopinge Sandstone",13.94,55.47,"Kopinge",NA,"Kopinge Molla, Persson locality no. 11",2,"Campanian","",83.6,72.1,34814,"gp_mid",23.33,43.64,"302",77.85,"campanian",18811,15.2433,49.8339,21,1
@@ -481,6 +523,7 @@
 "71948",107426,"col","Pierre Shale",-109.68,46.22,"near Fish Creek",NA,"",2,"Campanian","",83.6,72.1,7400,"gp_mid",-66.93,56.06,"101",77.85,"campanian",20024,-77.5459,49.6842,21,1
 "71949",107427,"col","Niobrara",-98.04,48.63,"Near Milton",NA,"",1,"Campanian","",83.6,72.1,33876,"gp_mid",-52.49,55,"101",77.85,"campanian",20025,-64.8702,50.283,21,1
 "72153",107638,"col","Taylor Marl",-96.47,33.13,"East of Culleoka",NA,"Culeoka in the Lavon Reservoir area",2,"Campanian","",83.6,72.1,35745,"gp_mid",-59.73,40.22,"101",77.85,"campanian",20110,-69.403,35.6469,21,1
+"72155",107641,"col","Mesaverde",-109.22,43.47,"Crow Creek",NA,"",1,"Campanian","",83.6,72.1,35745,"gp_mid",-70.02,53.61,"127",77.85,"campanian",20111,-78.3605,47.2432,21,1
 "72156",107642,"col","Pierre Shale",-98.62,43.02,"Near Fort Randall",NA,"",1,"Campanian","",83.6,72.1,35745,"gp_mid",-56.9,50.05,"101",77.85,"campanian",20112,-66.6359,45.425,21,1
 "72157",107644,"col","Pierre Shale",-103.85,43.27,"Cottonwood Creek, Edgemont",NA,"",1,"Campanian","",83.6,72.1,35745,"gp_mid",-62.34,51.75,"101",77.85,"campanian",20113,-74.4042,46.6515,21,1
 "72180",107671,"col","Pierre Shale",-103.31,43.46,"South of Buffalo Gap",NA,"",1,"Campanian","",83.6,72.1,35745,"gp_mid",-61.64,51.78,"101",77.85,"campanian",20128,-74.4042,46.6515,21,1
@@ -517,6 +560,8 @@
 "79136",116229,"col","Dinosaur Park",-111.52,50.75,"Ornithomimus Quarry, DMNH loc. 894",NA,"",2,"Campanian","",83.6,72.1,37460,"gp_mid",-65.55,60.69,"101",77.85,"campanian",22172,-79.701,55.132,21,1
 "79201",116340,"col","",-101.32,25.52,"Cerro del Carmen seeds",NA,"",1,"Campanian","",83.6,72.1,37495,"gp_mid",-67.77,34.31,"104",77.85,"campanian",22198,-74.8687,28.8846,21,1
 "79203",116342,"col","Cerro del Pueblo",-101.32,25.52,"El Almacigo",NA,"",3,"Campanian","",83.6,72.1,37495,"gp_mid",-67.77,34.31,"104",77.85,"campanian",22198,-74.8687,28.8846,21,1
+"79860",117146,"col","",142.02,44.67,"Omagari ",NA,"",1,"Campanian","",83.6,72.1,37609,"gp_mid",130.66,52.72,"610",77.85,"campanian",22375,142.6509,54.1854,21,1
+"79861",117147,"col","",142.02,44.68,"Yasukawa",NA,"",5,"Campanian","",83.6,72.1,37609,"gp_mid",130.66,52.72,"610",77.85,"campanian",22376,142.6509,54.1854,21,1
 "80837",118185,"col","Taylor Marl",-97.18,31.52,"McLennan County (PROXY)",NA,"Dolichorhynchos bonneri referred skeleton",1,"Campanian","",83.6,72.1,33004,"gp_mid",-61.15,38.9,"101",77.85,"campanian",22629,-69.403,35.6469,21,1
 "84723",123059,"col","Toolonga",114.28,-25.97,"Yaringa",NA,"",2,"Campanian","",83.6,72.1,39259,"gp_mid",110.02,-56.63,"801",77.85,"campanian",23667,97.163,-49.2002,21,1
 "84733",123085,"col","",-111.6,50.83,"below mouth of Berry Creek (NMC)",NA,"GSC, Baena antiqua type",3,"Campanian","",83.6,72.1,25127,"gp_mid",-65.59,60.79,"101",77.85,"campanian",10400,-79.701,55.132,21,1
@@ -569,6 +614,7 @@
 "99839",142367,"col","Cliffwood clay",-74.23,40.41,"near Matawan",NA,"",1,"Campanian","",83.6,72.1,45555,"gp_mid",-34.47,40.54,"109",77.85,"campanian",27524,-45.0969,39.1728,21,1
 "99840",142368,"col","Cliffwood clay",-74.23,40.45,"Cliffwood Brick Company",NA,"",1,"Campanian","",83.6,72.1,45555,"gp_mid",-34.44,40.57,"109",77.85,"campanian",27525,-45.0969,39.1728,21,1
 "99841",142369,"col","Tinton beds",-74.19,40.4,"Beers' Hill, deep cut along Keyport and Holmdel turnpike",NA,"",1,"Campanian","",83.6,72.1,45555,"gp_mid",-34.44,40.51,"109",77.85,"campanian",27526,-45.0969,39.1728,21,1
+"99862",142404,"col","Lewis shale",-107.4,41.79,"8 mi W of Rawlins, on Lincoln Highway (loc. 10722)",NA,"",1,"Campanian","",83.6,72.1,45555,"gp_mid",-67.13,51.33,"101",77.85,"campanian",27530,-78.3605,47.2432,21,1
 "99931",142498,"col","Two Medicine",-112.64,48.94,"Milk River (USNM)",NA,"",1,"Campanian","",83.6,72.1,12319,"gp_mid",-68.38,59.34,"101",77.85,"campanian",6439,-79.701,55.132,21,1
 "100065",142715,"col","",6.09,50.5,"Kelmis",NA,"Mosasaur tooth locality (62G-10)",1,"Campanian","",83.6,72.1,46315,"gp_mid",16.38,39.2,"315",77.85,"campanian",27575,9.0929,44.5112,21,1
 "101560",144509,"col","Oldman",-110.69,49.04,"Milk River valley, south side",NA,"Ornithopod locality",1,"Campanian","",83.6,72.1,46723,"gp_mid",-66.02,58.91,"101",77.85,"campanian",27761,-79.701,55.132,21,1
@@ -643,6 +689,7 @@
 "111399",158361,"col","Chignik",-158.54,56.34,"SOC-M342, Chignik Lagoon",NA,"",1,"Campanian","",83.6,72.1,18417,"gp_mid",-124.18,72.77,"125",77.85,"campanian",29794,-122.9512,69.103,21,1
 "111400",158362,"col","Chignik",-158.54,56.34,"SOC-M395, Chignik Lagoon",NA,"",1,"Campanian","",83.6,72.1,18417,"gp_mid",-124.18,72.77,"125",77.85,"campanian",29794,-122.9512,69.103,21,1
 "113788",161601,"col","",40.3,40.12,"Maden: Turkey, Bayburt",NA,"",1,"Campanian","",83.6,72.1,52647,"gp_mid",42.56,21.26,"512",77.85,"campanian",30507,39.9838,36.1063,21,1
+"113789",161602,"col","",14.52,46.85,"Wietersdorf: Austria, Carinthia",NA,"",1,"Campanian","",83.6,72.1,52647,"gp_mid",25.33,30.37,"307",77.85,"campanian",30508,15.6323,39.0438,21,1
 "113791",161604,"col","",-0.37,39.03,"N of Quatretonda: Spain, Valencia",NA,"",1,"Campanian","",83.6,72.1,52647,"gp_mid",9.55,27.51,"304",77.85,"campanian",30510,2.8829,33.4175,21,1
 "114053",161904,"col","",-112.94,51.73,"Red Deer River",NA,"",1,"Campanian","",83.6,72.1,52721,"gp_mid",-66.35,61.96,"101",77.85,"campanian",30598,-78.5865,57.5546,21,1
 "114130",161992,"col","Neslen",-109.72,39.04,"Thompson Canyon (general)",NA,"Rhinorex type locality",1,"Campanian","",83.6,72.1,52770,"gp_mid",-71.21,49.36,"101",77.85,"campanian",3572,-79.1132,44.7784,21,1
@@ -665,6 +712,9 @@
 "116310",165844,"col","",1.16,45.06,"La Vaure, near Montignac (Dordogne), Assise P",NA,"",1,"Campanian","",83.6,72.1,54187,"gp_mid",11.44,34.22,"305",77.85,"campanian",31119,2.6398,39.261,21,1
 "116344",165889,"col","",0.14,45.49,"Assise P, northern Aquitaine",NA,"",1,"Campanian","",83.6,72.1,54187,"gp_mid",10.64,34.74,"305",77.85,"campanian",31132,2.6398,39.261,21,1
 "116581",166179,"col","",-58.4,-64.19,"Locality 5135, Persson Island",NA,"",1,"Campanian","",83.6,72.1,54294,"gp_mid",-67.25,-59.45,"803",77.85,"campanian",31219,-59.6499,-64.7549,21,1
+"116632",166250,"col","",142.04,44.6,"Yamato, Wakkawembets stream",NA,"",1,"Campanian","",83.6,72.1,54317,"gp_mid",130.74,52.65,"610",77.85,"campanian",31237,142.6509,54.1854,21,1
+"116654",166272,"col","",79.09,11.16,"Otacod, lower Ariyalur group",NA,"",1,"Campanian","",83.6,72.1,54326,"gp_mid",57.03,-45.15,"501",77.85,"campanian",31247,51.6918,-38.7009,21,1
+"116655",166276,"col","",79.13,11.18,"Kalmodu, near Otakoil",NA,"",1,"Campanian","",83.6,72.1,54326,"gp_mid",57.09,-45.16,"501",77.85,"campanian",31248,51.6918,-38.7009,21,1
 "117136",167302,"col","Williams Fork",-108.85,40.03,"J&M Site, south of Rangely",NA,"MWC locality number L-2012-13",1,"Campanian","",83.6,72.1,54582,"gp_mid",-69.71,50.07,"101",77.85,"campanian",31437,-79.1132,44.7784,21,1
 "117342",167538,"col","",-75.73,39.54,"""Blue Area"" spoils piles",NA,"Chesapeake & Delaware Canal",2,"Campanian","",83.6,72.1,12430,"gp_mid",-36.29,40.17,"109",77.85,"campanian",31488,-45.0969,39.1728,21,1
 "117386",167663,"col","Marshalltown",-74.9,39.97,"Cambridge Crossing Executive Park (Marshalltown Fm.)",NA,"Mt. Laurel",2,"Campanian","",83.6,72.1,54671,"gp_mid",-35.31,40.32,"109",77.85,"campanian",31497,-45.0969,39.1728,21,1
@@ -683,8 +733,10 @@
 "123107",177142,"col","",-111.47,50.75,"1.5 miles above Happy Jack Ferry",NA,"",1,"Campanian","",83.6,72.1,14110,"gp_mid",-65.5,60.68,"101",77.85,"campanian",27774,-79.701,55.132,21,1
 "123108",177143,"col","Oldman",-111.8,50.73,"4 miles SW of Sand Creek [ROM]",NA,"Red Deer River",1,"Campanian","",83.6,72.1,14110,"gp_mid",-65.9,60.75,"101",77.85,"campanian",1559,-79.701,55.132,21,1
 "123115",177169,"col","",-111.51,50.74,"Sand Creek [USNM]",NA,"Aspideretes latus type ",2,"Campanian","",83.6,72.1,13464,"gp_mid",-65.56,60.68,"101",77.85,"campanian",10133,-79.701,55.132,21,1
+"124272",179034,"col","",79.03,11.25,"near Varagur, Tamil Nadu District",NA,"Veraghoor",2,"Campanian","",83.6,72.1,58003,"gp_mid",57.04,-45.05,"501",77.85,"campanian",32938,53.5595,-36.6843,21,1
 "124494",179297,"col","Pierre Shale",-97.99,47.36,"Cooperstown site, Sheyenne River",NA,"""Indian Mounds""",2,"Campanian","",83.6,72.1,59361,"gp_mid",-53.38,53.84,"101",77.85,"campanian",32997,-64.8702,50.283,21,1
 "124725",179681,"col","",13.8,50.63,"Teplice-Pisecny vrch, Czechia",NA,"Settenz close to Teplice",1,"Campanian","",83.6,72.1,59538,"gp_mid",22.67,38.84,"305",77.85,"campanian",33043,15.8553,44.8511,21,1
+"125359",180639,"col","",78.7,10.78,"Vylapaudy near Tiruchcirappalli",NA,"Vylapaudy near Trichinopoly",1,"Campanian","",83.6,72.1,59946,"gp_mid",56.28,-45.25,"501",77.85,"campanian",33234,51.6918,-38.7009,21,1
 "125643",181029,"col","Ugod Limestone",17.28,46.98,"Kecskevar quarry, Sümeg",NA,"",1,"Campanian","",83.6,72.1,59665,"gp_mid",27.13,29.29,"308",77.85,"campanian",12211,18.849,39.5104,21,1
 "126925",183402,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 1-E",NA,"",1,"Campanian","",83.6,72.1,61229,"gp_mid",28.16,38.51,"305",77.85,"campanian",33582,19.2494,45.0517,21,1
 "126926",183403,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 1-F",NA,"",3,"Campanian","",83.6,72.1,61229,"gp_mid",28.16,38.51,"305",77.85,"campanian",33582,19.2494,45.0517,21,1
@@ -698,7 +750,9 @@
 "128571",185710,"col","Panoche",-121.17,37.22,"LSJU 3422, Garzas Creek",NA,"",2,"Campanian","",83.6,72.1,62141,"gp_mid",-82.64,47.72,"130",77.85,"campanian",34017,-91.6475,40.534,21,1
 "128614",185754,"col","",-121.12,37.2,"CAS 29676, Mustang Creek",NA,"",2,"Campanian","",83.6,72.1,62141,"gp_mid",-82.59,47.69,"130",77.85,"campanian",34032,-91.6475,40.534,21,1
 "128676",185818,"col","",29.1,28.33,"Bahariya (Westliche Wüste)",NA,"",2,"Campanian","",83.6,72.1,62313,"gp_mid",32.29,9.25,"715",77.85,"campanian",34039,27.7167,14.5862,21,1
+"128845",186344,"col","",67.33,36.03,"Tadjik Depression",NA,"",11,"Campanian","",83.6,72.1,62476,"gp_mid",68.72,25.8,"402",77.85,"campanian",34104,67.5877,34.2606,21,1
 "129161",186855,"col","",63.18,53,"near Ayatskij, on the right bank of the Ayat River, Ayat 710",NA,"",3,"Campanian","",83.6,72.1,62651,"gp_mid",62.25,42.17,"402",77.85,"campanian",34190,60.4906,51.1993,21,1
+"130043",188484,"col","Osoushinai",141.82,44.69,"Nio River (Mesodermochelys locality)",NA,"",6,"Campanian","",83.6,72.1,63216,"gp_mid",130.44,52.68,"610",77.85,"campanian",34371,142.6509,54.1854,21,1
 "130044",188485,"col","",-112.84,51.51,"Wigmore ranch house",NA,"",1,"Campanian","",83.6,72.1,63225,"gp_mid",-66.44,61.73,"101",77.85,"campanian",34372,-78.5865,57.5546,21,1
 "130049",188547,"col","Castlegate",-110.61,39.8,"Royal Coal Mine tracksite",NA,"Castle Gate, Bear Canyon Mine",1,"Campanian","",83.6,72.1,61453,"gp_mid",-71.82,50.3,"101",77.85,"campanian",34373,-79.1132,44.7784,21,1
 "130964",190356,"col","Anacacho",-100.03,29.14,"West of Tom Nunn ranch",NA,"",1,"Campanian","",83.6,72.1,64021,"gp_mid",-65.07,37.42,"101",77.85,"campanian",34509,-73.8111,33.8025,21,1

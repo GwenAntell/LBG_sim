@@ -14,6 +14,7 @@
 "17677",31898,"col","",34.82,30.6,"Ophiuroidea, Ladinian, Makhtesh Ramon, Negev, Israel",NA,"",1,"Ladinian","",242,237,8560,"gp_mid",38.98,-1.9,"508",239.5,"ladinian",3564,30.7115,-7.4909,46,1
 "17774",31995,"col","Muschelkalk",11.58,51.92,"Ophiuroid, Muschelkalk, Atzendorf, Sachsen-Anhalt",NA,"",2,"Ladinian","",242,237,8572,"gp_mid",28.52,31.79,"315",239.5,"ladinian",3588,15.5424,29.5434,46,1
 "18522",32922,"col","Laibuxi",90,32,"Laibuxi Formation, Xizang (Tibet)",NA,"",3,"Ladinian","",242,237,8826,"gp_mid",70.08,-32.03,"613",239.5,"ladinian",3723,97.1262,24.7871,46,1
+"19021",33438,"col","Augusta",-117.48,39.61,"New Pass Mine, Austin, Central Nevada",NA,"",3,"Ladinian","",242,237,8877,"gp_mid",-38.97,23.27,"101",239.5,"ladinian",3806,-49.0706,12.3423,46,1
 "21301",36534,"col","",15.23,46.23,"Celje reef, Slovenia",NA,"Reef 18",4,"Ladinian","",242,237,9773,"gp_mid",36.09,14.34,"307",239.5,"ladinian",4285,17.4605,12.6171,46,1
 "21378",36636,"col","Wetterstein Limestone",20.58,48.58,"K. Zakazane, Silica Plateau, Slovakia",34882,"Reef 170",4,"Ladinian","",242,237,9813,"gp_mid",40.1,12.5,"308",239.5,"ladinian",4306,23.4856,29.4151,46,1
 "21379",36637,"col","Wetterstein Limestone",20.53,48.62,"Jovice, Silica Plateau, Slovakia",34882,"Reef 170",3,"Ladinian","",242,237,9813,"gp_mid",40.11,12.55,"308",239.5,"ladinian",4307,23.4856,29.4151,46,1
@@ -47,6 +48,7 @@
 "25008",41698,"col","Sa'haronim",34.82,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29188 (= collection 13)",NA,"",5,"Ladinian","",242,237,11163,"gp_mid",38.98,-1.9,"508",239.5,"ladinian",3564,30.7115,-7.4909,46,1
 "25009",41699,"col","Sa'haronim",34.82,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29189 (= collection 14)",NA,"",1,"Ladinian","",242,237,11163,"gp_mid",38.98,-1.9,"508",239.5,"ladinian",3564,30.7115,-7.4909,46,1
 "25010",41700,"col","Sa'haronim",34.82,30.6,"Makhtesh Ramon, USGS Mesozoic loc. 29190 (= collection 15)",NA,"",6,"Ladinian","",242,237,11163,"gp_mid",38.98,-1.9,"508",239.5,"ladinian",3564,30.7115,-7.4909,46,1
+"25018",41733,"col","",6.6,49.05,"Faulquemont, NE France, USGS Mesozoic loc. 29203 (= collection 20)",NA,"",1,"Ladinian","",242,237,11163,"gp_mid",25.82,28.21,"315",239.5,"ladinian",5353,15.4142,26.1169,46,1
 "25081",41807,"col","",9.8,36.89,"Chouigui section 1",NA,"",2,"Ladinian","",242,237,11184,"gp_mid",24.18,13.98,"714",239.5,"ladinian",5395,14.1613,6.0356,46,1
 "25234",41967,"col","",9.8,36.89,"Jebel Baouala section 1",NA,"",1,"Ladinian","",242,237,11184,"gp_mid",24.18,13.98,"714",239.5,"ladinian",5395,14.1613,6.0356,46,1
 "25347",42084,"col","Bechateur",9.87,37.27,"Tellian bed 1",NA,"",1,"Ladinian","",242,237,11184,"gp_mid",24.44,14.28,"714",239.5,"ladinian",5463,14.1613,6.0356,46,1
@@ -106,13 +108,20 @@
 "27601",44858,"col","",134,69.33,"Systardakh River, Yana River Valley",NA,"",1,"Ladinian","",242,237,11697,"gp_mid",59.12,81.65,"401",239.5,"ladinian",6216,-37.0611,71.2809,46,1
 "27603",44860,"col","",139,75.5,"Pryamaya River, Kotel'nyi Island",NA,"",1,"Ladinian","",242,237,11697,"gp_mid",23.51,79.1,"401",239.5,"ladinian",6217,-10.0551,50.9181,46,1
 "27606",44863,"col","",157.25,64.52,"Dzhugadzhak River, Kolyma River basin (upper Ladinian)",NA,"",8,"Ladinian","",242,237,54385,"gp_mid",-128.64,80.34,"405",239.5,"ladinian",6218,-89.1721,65.4877,46,1
+"27646",44918,"col","Radomir",23.03,42.6,"Golo Burdo Mt, Bulgaria (1)",NA,"",7,"Ladinian","",242,237,11705,"gp_mid",36.09,7.7,"308",239.5,"ladinian",6226,29.413,27.0501,46,1
+"27647",44919,"col","Radomir",23.32,42.68,"Golo burdo Mt., Bulgaria (2)",NA,"",7,"Ladinian","",242,237,11705,"gp_mid",36.28,7.58,"308",239.5,"ladinian",6227,29.413,27.0501,46,1
+"27648",44920,"col","Milanovo",23.32,42.68,"Zaburde Region, Bulgaria (2)",NA,"",1,"Ladinian","",242,237,11705,"gp_mid",36.28,7.58,"308",239.5,"ladinian",6227,29.413,27.0501,46,1
 "27672",44945,"col","Guanggaishan",102.95,33.95,"Saierlangshan Section, Bed 95-1",NA,"",3,"Ladinian","",242,237,11701,"gp_mid",110.2,19.14,"602",239.5,"ladinian",6229,106.5829,47.602,46,1
 "27673",44946,"col","Lanmu",109,24,"Guangxi, China Bed 1",NA,"",6,"Ladinian","",242,237,11709,"gp_mid",112.15,-9.07,"611",239.5,"ladinian",6230,123.3468,19.0497,46,1
 "27674",44947,"col","Lanmu",106.4,24.92,"Guangxi, China Bed 2",NA,"",7,"Ladinian","",242,237,11709,"gp_mid",109.74,-8.17,"611",239.5,"ladinian",6231,119.7653,18.7825,46,1
+"28036",45421,"col","",8.68,49.32,"Nussloch/ Heidelberg, Germany",NA,"",3,"Ladinian","",242,237,11833,"gp_mid",27.25,28.8,"305",239.5,"ladinian",6306,15.4142,26.1169,46,1
 "28038",45423,"col","",21.18,50.93,"Nietulisko, Holy Cross Mts., Poland",NA,"",1,"Ladinian","",242,237,11834,"gp_mid",35.61,32.7,"302",239.5,"ladinian",6308,23.4079,32.7504,46,1
 "28042",45427,"col","Wetterstein",11,47.42,"Wetterstein Mts., Germany",38140,"",33,"Ladinian","",242,237,11835,"gp_mid",35.71,17.45,"307",239.5,"ladinian",6311,19.3809,25.8877,46,1
 "28890",46362,"col","Ceratites Beds",9.83,51.5,"Dransfelder Hochfläche, Göttingen, Middle Ceratites Beds",NA,"",5,"Ladinian","",242,237,12355,"gp_mid",27.43,31.1,"315",239.5,"ladinian",6678,15.5424,29.5434,46,1
 "28891",46363,"col","Ceratites Beds",9.83,51.5,"Dransfelder Hochfläche, Göttingen, Upper Ceratites Beds",NA,"",9,"Ladinian","",242,237,12355,"gp_mid",27.43,31.1,"315",239.5,"ladinian",6678,15.5424,29.5434,46,1
+"30527",48133,"col","",-117.49,39.61,"D, South Canyon, New Pass Range, Nevada",NA,"",3,"Ladinian","",242,237,12832,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"30532",48138,"col","Grantsville",-117.58,38.85,"Grantsville bivalves, New Pass Range, Nevada",NA,"",3,"Ladinian","",242,237,12832,"gp_mid",-39.34,22.59,"101",239.5,"ladinian",7168,-49.0706,12.3423,46,1
+"30533",48139,"col","Excelsior",-118.6,38.77,"Excelsior bivalves, New Pass Range, Nevada",NA,"",1,"Ladinian","",242,237,12832,"gp_mid",-40.17,22.79,"101",239.5,"ladinian",7169,-51.7597,13.518,46,1
 "32450",50797,"col","San Cassiano",11.42,46.53,"Sample SW1 - Prati di Stuores/Stuores Wiesen Section, Dolomites",NA,"",6,"Ladinian","",242,237,13571,"gp_mid",35.03,16.79,"307",239.5,"ladinian",7751,19.3809,25.8877,46,1
 "32471",50820,"col","La Valle",11.42,46.53,"Sample SW0 - Prati di Stuores/Stuores Wiesen Section, Dolomites",NA,"",1,"Ladinian","",242,237,13571,"gp_mid",35.03,16.79,"307",239.5,"ladinian",7751,19.3809,25.8877,46,1
 "32472",50821,"col","La Valle",11.42,46.53,"Sample SW0a - Prati di Stuores/Stuores Wiesen Section, Dolomites",NA,"",6,"Ladinian","",242,237,13571,"gp_mid",35.03,16.79,"307",239.5,"ladinian",7751,19.3809,25.8877,46,1
@@ -139,6 +148,7 @@
 "32618",50972,"col","San Cassiano",11.42,46.53,"Sample 5SW 0.0 - Prati di Stuores/Stuores Wiesen Section, Dolomites",NA,"",22,"Ladinian","",242,237,13571,"gp_mid",35.03,16.79,"307",239.5,"ladinian",7751,19.3809,25.8877,46,1
 "36839",56710,"col","",8.97,46,"Serpiano",NA,"",1,"Ladinian","",242,237,15291,"gp_mid",33.73,18.05,"307",239.5,"ladinian",8912,19.0343,22.3004,46,1
 "37107",57095,"col","Schei Point",-87,77.62,"Daonella frami, Bjorne Peninsula, Ellesmere Island, locality E (GSC 26110)",NA,"",4,"Ladinian","",242,237,11541,"gp_mid",-1.18,52.63,"106",239.5,"ladinian",9005,-18.0913,42.0088,46,1
+"39778",59928,"col","Muschelkalk",9.18,48.97,"Asteroidea, Muschelkalk, Grossingersheim, Baden-Württemberg",NA,"",1,"Ladinian","",242,237,17209,"gp_mid",27.72,28.54,"305",239.5,"ladinian",9578,15.4142,26.1169,46,1
 "39785",59959,"col","Muschelkalk",9.13,52.03,"Asteroidea, Muschelkalk, Alverdissen, Nordrhein-Westfalen",NA,"",1,"Ladinian","",242,237,17209,"gp_mid",26.78,31.5,"315",239.5,"ladinian",9581,13.5987,28.024,46,1
 "39787",59961,"col","Muschelkalk",9.95,52.3,"Asteroidea, Muschelkalk, Wehmingen, Niedersachsen",NA,"",2,"Ladinian","",242,237,17209,"gp_mid",27.26,31.89,"315",239.5,"ladinian",9583,15.5424,29.5434,46,1
 "39796",59970,"col","Muschelkalk",10.62,48.72,"Asteroidea, Muschelkalk, Bissingen, Bayern",NA,"",1,"Ladinian","",242,237,17209,"gp_mid",28.83,28.54,"305",239.5,"ladinian",9592,19.3809,25.8877,46,1
@@ -171,6 +181,8 @@
 "59045",89458,"col","Muschelkalk",8.58,48.08,"upper Ceratites bed, Kammerforst",NA,"",1,"Ladinian","",242,237,29995,"gp_mid",27.53,27.59,"305",239.5,"ladinian",15378,17.2823,24.2134,46,1
 "59190",89874,"col","Muschelkalk",8.58,48.08,"Obere Ceratitenschichten, Mülhausen",NA,"",5,"Ladinian","",242,237,29995,"gp_mid",27.53,27.59,"305",239.5,"ladinian",15378,17.2823,24.2134,46,1
 "59191",89875,"col","Muschelkalk",8.58,48.08,"Upper Ceratitenschichten, Forstberg, Mühlhausen",NA,"",1,"Ladinian","",242,237,29995,"gp_mid",27.53,27.59,"305",239.5,"ladinian",15378,17.2823,24.2134,46,1
+"59809",91025,"col","Otuk",-163.37,68.29,"USGS DR 2516, De Long Mountains [Otuk Fm]",NA,"00AD4E; Loc. 5 KRA",6,"Ladinian","",242,237,30624,"gp_mid",-23.25,63.34,"103",239.5,"ladinian",15699,-43.2794,53.9181,46,1
+"59813",91029,"col","Otuk",-162.83,68.37,"USGS DR 2520, De Long Mountains [Otuk Fm]",NA,"99AD19B; Loc. 35",5,"Ladinian","",242,237,30624,"gp_mid",-23.53,63.17,"103",239.5,"ladinian",15703,-43.8367,52.5225,46,1
 "65152",97847,"col","Partnach",9.69,47.09,"North face Windeckerspitz",NA,"",1,"Ladinian","",242,237,33812,"gp_mid",34.99,18.1,"307",239.5,"ladinian",17302,19.3809,25.8877,46,1
 "65161",97856,"col","Lercheck Limestone",13.06,47.67,"Dürrnberg mountain",NA,"",2,"Ladinian","",242,237,33825,"gp_mid",36.63,16.34,"307",239.5,"ladinian",17308,19.3809,25.8877,46,1
 "66080",98851,"col","Falang",104.88,25.08,"Xingyi",NA,"",2,"Ladinian","",242,237,34062,"gp_mid",108.36,-8,"611",239.5,"ladinian",17682,119.7653,18.7825,46,1
@@ -179,6 +191,15 @@
 "66574",99504,"col","Langobard",17.6,46.88,"Langobard, Köveskál",NA,"",100,"Ladinian","",242,237,32094,"gp_mid",37.53,13.28,"308",239.5,"ladinian",17850,23.4856,29.4151,46,1
 "66807",99834,"col","",11.97,46.6,"South-west base of La Varella sumit",NA,"",2,"Ladinian","",242,237,32096,"gp_mid",35.28,16.49,"307",239.5,"ladinian",17918,19.3809,25.8877,46,1
 "66987",100030,"col","Calcaire à entroques",6.52,47.57,"Sénargent, Haute-Sâone",NA,"",1,"Ladinian","",242,237,31967,"gp_mid",26.15,26.76,"305",239.5,"ladinian",17990,17.2823,24.2134,46,1
+"67302",100454,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine",NA,"",21,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67306",100458,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 1",100454,"",4,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67307",100459,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 4",100454,"",3,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67308",100460,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 6",100454,"",3,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67309",100461,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 7",100454,"",2,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67311",100463,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 8",100454,"",3,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67312",100464,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 9",100454,"",4,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67313",100465,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 11",100454,"",2,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
+"67314",100466,"col","Augusta Mountain",-117.49,39.61,"New Pass Mine unit 12",100454,"",2,"Ladinian","",242,237,34463,"gp_mid",-38.98,23.27,"101",239.5,"ladinian",7165,-49.0706,12.3423,46,1
 "68618",102302,"col","Upper Saurian Niveau",16.48,78.31,"Botneheia",NA,"",1,"Ladinian","",242,237,34753,"gp_mid",17.27,57.08,"309",239.5,"ladinian",18688,-8.0902,46.5857,46,1
 "68619",102303,"col","Upper Saurian Niveau",18.91,78.49,"Wiche Bukta",NA,"",1,"Ladinian","",242,237,34753,"gp_mid",17.89,57.47,"311",239.5,"ladinian",18689,-7.5408,47.3053,46,1
 "69960",104803,"col","Muschelkalk",7.44,48.65,"Wasselonne",NA,"",1,"Ladinian","",242,237,35076,"gp_mid",26.54,27.96,"305",239.5,"ladinian",19288,17.2823,24.2134,46,1
@@ -238,6 +259,9 @@
 "85937",124564,"col","Ulakhan-Krest",127.24,71.81,"Taas-Aryy Island (Ulakhan-Krest Formation 16 (24 m))",NA,"",1,"Ladinian","",242,237,39845,"gp_mid",49.36,78.74,"401",239.5,"ladinian",24093,-28.3972,69.3931,46,1
 "88134",127663,"col","Kalapani limestone",80.02,30.73,"Sample E2/102, Sumna-Rimkhim mule track, Young valley",NA,"",2,"Ladinian","",242,237,41667,"gp_mid",54.86,-37.02,"501",239.5,"ladinian",24608,73.2313,-24.8897,46,1
 "88381",127933,"col","Verruca",10.5,43.7,"Monte Pisano",NA,"",1,"Ladinian","",242,237,35209,"gp_mid",32.11,16.03,"307",239.5,"ladinian",24660,13.8898,11.4395,46,1
+"88523",128128,"col","",131.96,43.45,"Traktornyy Creek, Bol'shaya Pochikheza River basin",NA,"",1,"Ladinian","",242,237,41832,"gp_mid",139.27,22.02,"628",239.5,"ladinian",24730,147.5163,45.6017,46,1
+"88524",128129,"col","",132.18,43.53,"Perevoznaya River, Suyfun River basin",NA,"",1,"Ladinian","",242,237,41832,"gp_mid",139.46,22,"628",239.5,"ladinian",24731,147.5163,45.6017,46,1
+"88525",128130,"col","",132.5,42.95,"Upper Batal'yanzy River, Primorye",NA,"",1,"Ladinian","",242,237,41832,"gp_mid",139.33,21.38,"628",239.5,"ladinian",24732,147.5163,45.6017,46,1
 "88539",128145,"col","",148.95,65.1,"Bulkut Creek, basin of middle part of Rossokh River",NA,"",1,"Ladinian","",242,237,41832,"gp_mid",-110,82.66,"405",239.5,"ladinian",24739,-92.3713,70.1615,46,1
 "88544",128150,"col","",148.95,65.1,"Bulkut Creek, basin of middle part of Rossokh River (Carnian)",NA,"",1,"Ladinian","",242,237,41832,"gp_mid",-110,82.66,"405",239.5,"ladinian",24739,-92.3713,70.1615,46,1
 "89699",130109,"col","Livinallongo",10.22,46.35,"BV 85-70, Site Fociade, Monte de Saline, Marmolada massif",NA,"",14,"Ladinian","",242,237,42195,"gp_mid",34.46,17.43,"307",239.5,"ladinian",25023,19.3809,25.8877,46,1
@@ -497,14 +521,22 @@
 "95869",137869,"col","",168.79,-46.04,"ERF 613, Otamita Valley (F45/f8937)",NA,"S169/f937",1,"Ladinian","",242,237,44101,"gp_mid",79.37,-86.61,"807",239.5,"ladinian",26086,132.0009,-74.6743,46,1
 "95870",137870,"col","",169.13,-46.15,"ERF 470, Waipahi (G45/f8674)",NA,"S170/f674",5,"Ladinian","",242,237,44101,"gp_mid",74.93,-86.6,"807",239.5,"ladinian",26111,132.0009,-74.6743,46,1
 "95952",137954,"col","Schei Point",-87.59,77.78,"GSC 51616, Bjorne Peninsula, Ellesmere Island",NA,"",2,"Ladinian","",242,237,11541,"gp_mid",-1.22,52.84,"106",239.5,"ladinian",26597,-18.0913,42.0088,46,1
+"96076",138083,"col","",8.05,49.39,"Neidenfels, near Crailsheim",NA,"",3,"Ladinian","",242,237,44165,"gp_mid",26.78,28.77,"305",239.5,"ladinian",26830,15.4142,26.1169,46,1
 "96077",138084,"col","",9.65,48.09,"Tiefenbach, near Crailsheim",NA,"",5,"Ladinian","",242,237,44165,"gp_mid",28.31,27.77,"305",239.5,"ladinian",26831,19.3809,25.8877,46,1
+"96081",138088,"col","",9.17,48.83,"Zuffenhausen, Stuttgart",NA,"Stuttgart-Zuffenhausen",3,"Ladinian","",242,237,69393,"gp_mid",27.74,28.41,"305",239.5,"ladinian",26834,15.4142,26.1169,46,1
+"96091",138098,"col","",9.16,49.28,"Gundelsheim",NA,"",1,"Ladinian","",242,237,44168,"gp_mid",27.61,28.85,"305",239.5,"ladinian",26840,15.4142,26.1169,46,1
+"96092",138099,"col","",8.64,49.09,"Helmsheim",NA,"",1,"Ladinian","",242,237,44168,"gp_mid",27.29,28.57,"305",239.5,"ladinian",26841,15.4142,26.1169,46,1
+"96104",138111,"col","",9.03,48.81,"Höfingen, near Leonberg",NA,"Hofingen",1,"Ladinian","",242,237,44168,"gp_mid",27.64,28.37,"305",239.5,"ladinian",26849,15.4142,26.1169,46,1
 "96118",138125,"col","",10.85,52.22,"Lelm, near Braunschweig",NA,"",1,"Ladinian","",242,237,44168,"gp_mid",27.92,31.96,"315",239.5,"ladinian",26860,15.5424,29.5434,46,1
 "96119",138126,"col","Perledo-Vaenna",9.3,46.02,"Esino, near Perledo",NA,"",1,"Ladinian","",242,237,44173,"gp_mid",33.85,17.85,"307",239.5,"ladinian",26861,19.0343,22.3004,46,1
 "96120",138127,"col","Perledo-Vaenna",9.4,45.86,"Surroundings of Lecco",NA,"",1,"Ladinian","",242,237,44173,"gp_mid",33.73,17.72,"307",239.5,"ladinian",26862,14.9765,13.7033,46,1
+"96122",138129,"col","",2.67,42.47,"Amélie-les-Bains, eastern Pyrenees",NA,"",1,"Ladinian","",242,237,44173,"gp_mid",24.64,19.74,"304",239.5,"ladinian",26863,18.4348,18.658,46,1
 "96123",138130,"col","",8.93,45.91,"Acqua del Ghiffo, near Serpiano, Monte San Giorgio",NA,"",1,"Ladinian","",242,237,44173,"gp_mid",33.63,18.04,"307",239.5,"ladinian",26864,19.0343,22.3004,46,1
+"96124",138131,"col","",8.91,49.24,"Steinsfurt, near Heidelberg",NA,"",1,"Ladinian","",242,237,44175,"gp_mid",27.44,28.76,"305",239.5,"ladinian",26865,15.4142,26.1169,46,1
 "96125",138132,"col","",7.63,51.95,"Münster: Upper Muschelkalk",NA,"",1,"Ladinian","",242,237,44175,"gp_mid",25.75,31.19,"315",239.5,"ladinian",26866,13.5987,28.024,46,1
 "96126",138133,"col","",8.31,47.63,"Lauchringen",NA,"",1,"Ladinian","",242,237,44175,"gp_mid",27.45,27.11,"305",239.5,"ladinian",26867,17.2823,24.2134,46,1
 "96130",138137,"col","",18.85,50.44,"Tarnowitz",NA,"Tarnowskie Góry",3,"Ladinian","",242,237,44175,"gp_mid",34.15,31.74,"305",239.5,"ladinian",26870,21.3872,31.1375,46,1
+"96131",138138,"col","",19.12,54.28,"Rybina",NA,"",1,"Ladinian","",242,237,44175,"gp_mid",32.82,35.43,"302",239.5,"ladinian",26871,17.1329,34.4492,46,1
 "96132",138139,"col","",13.78,52.47,"Rüdersdorf, near Berlin",NA,"Rudersdorf",1,"Ladinian","",242,237,44175,"gp_mid",29.87,32.7,"315",239.5,"ladinian",26872,17.4528,31.122,46,1
 "96240",138255,"col","Marmolata",11.85,46.46,"Marmolata (Salomon coll)",NA,"",127,"Ladinian","",242,237,15765,"gp_mid",35.11,16.49,"307",239.5,"ladinian",26919,19.3809,25.8877,46,1
 "96241",138256,"col","Marmolata",11.85,46.46,"Marmolata (Strassburger Museum coll)",NA,"",45,"Ladinian","",242,237,15765,"gp_mid",35.11,16.49,"307",239.5,"ladinian",26919,19.3809,25.8877,46,1
@@ -551,6 +583,7 @@
 "101705",144732,"col","Kodiang Limestone",100.3,6.36,"Sample 358, Bukit Kechil",NA,"",4,"Ladinian","",242,237,45992,"gp_mid",105.17,-12.7,"616",239.5,"ladinian",27409,117.0331,-2.6097,46,1
 "101706",144733,"col","Kodiang Limestone",100.3,6.36,"Sample 121, Bukit Kechil",NA,"",2,"Ladinian","",242,237,45992,"gp_mid",105.17,-12.7,"616",239.5,"ladinian",27409,117.0331,-2.6097,46,1
 "101707",144734,"col","Kodiang Limestone",100.3,6.36,"Sample 005, Bukit Kechil",NA,"",4,"Ladinian","",242,237,45992,"gp_mid",105.17,-12.7,"616",239.5,"ladinian",27409,117.0331,-2.6097,46,1
+"104646",148731,"col","Muschelkalk",1.9,41.56,"Olesa de Montserrat, Barcelona",NA,"",1,"Ladinian","",242,237,47729,"gp_mid",23.69,19.14,"304",239.5,"ladinian",28184,18.4348,18.658,46,1
 "104647",148732,"col","Muschelkalk",0.47,41.17,"Camposines, Mora d'Ebre, Tarragonia",NA,"Sant Jeroni",1,"Ladinian","",242,237,47729,"gp_mid",22.49,19.25,"304",239.5,"ladinian",28185,10.5534,10.4062,46,1
 "105290",149467,"col","",9.95,52.15,"Hildesheim (Münster coll)",NA,"",1,"Ladinian","",242,237,47881,"gp_mid",27.31,31.75,"315",239.5,"ladinian",26720,15.5424,29.5434,46,1
 "105293",149470,"col","",9.95,52.15,"Hildesheim (Römer coll)",NA,"",2,"Ladinian","",242,237,47881,"gp_mid",27.31,31.75,"315",239.5,"ladinian",26720,15.5424,29.5434,46,1
@@ -605,6 +638,32 @@
 "109027",154483,"col","Erfurt",11.03,51.75,"Thale, coll. NHM London",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",28.19,31.54,"315",239.5,"ladinian",29229,15.5424,29.5434,46,1
 "109028",154484,"col","Erfurt",11.03,51.75,"Thale, coll. BGL Munich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",28.19,31.54,"315",239.5,"ladinian",29229,15.5424,29.5434,46,1
 "109029",154485,"col","Erfurt",11.03,51.75,"Thale, coll. University Innsbruck",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",28.19,31.54,"315",239.5,"ladinian",29229,15.5424,29.5434,46,1
+"109055",154511,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Kelber",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109056",154512,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. MfN Berlin",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109057",154513,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. MfN Stuttgart",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109058",154514,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. NRM Stockholm",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109059",154515,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Bayerische Staatssammlung Munich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109060",154516,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Utrecht University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109061",154517,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Naturalis Leiden",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109062",154518,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Tübingen University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109063",154519,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Goldfuß-Museum Bonn",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109064",154520,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. ETH Zürich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109065",154521,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. NHM London",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109066",154522,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. BGL Munich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109067",154523,"col","Erfurt",8.57,49.79,"Wellberg (Hessen), coll. Innsbruck University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.04,29.24,"305",239.5,"ladinian",29248,15.4142,26.1169,46,1
+"109068",154524,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Kelber",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109069",154525,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. MfN Berlin",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109070",154526,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. MfN Stuttgart",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109071",154527,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. NRM Stockholm",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109072",154528,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Bayerische Staatssammlung Munich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109073",154529,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Utrecht University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109074",154530,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Naturalis Leiden",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109075",154531,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Tübingen University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109076",154532,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Goldfuß-Museum Bonn",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109077",154533,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. ETH Zürich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109078",154534,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. NHM London",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109079",154535,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. BGL Munich",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
+"109080",154536,"col","Erfurt",9.25,49.06,"Erfurt Fm. Baden-Württemberg, coll. Innsbruck University",NA,"",1,"Ladinian","",242,237,50222,"gp_mid",27.74,28.64,"305",239.5,"ladinian",29249,15.4142,26.1169,46,1
 "110229",156151,"col","Templomhegy Dolomite",18.45,45.88,"Villány, construction site",NA,"",6,"Ladinian","",242,237,51126,"gp_mid",36.97,12.25,"308",239.5,"ladinian",29471,18.3583,14.2073,46,1
 "110230",156153,"col","Templomhegy Dolomite",18.45,45.88,"Villány, road-cut, layer 1",NA,"",1,"Ladinian","",242,237,51126,"gp_mid",36.97,12.25,"308",239.5,"ladinian",29471,18.3583,14.2073,46,1
 "118997",170265,"col","Lugas",28.58,45.19,"Ogurului Hill, Dobrogea",NA,"",1,"Ladinian","",242,237,55541,"gp_mid",43.35,29.05,"302",239.5,"ladinian",31732,31.8723,33.1363,46,1
@@ -612,6 +671,7 @@
 "118999",170268,"col","",28.86,45.03,"Pietrosul Hill, Agighiol, Dobrogea",NA,"",1,"Ladinian","",242,237,55541,"gp_mid",43.62,28.98,"302",239.5,"ladinian",31733,31.8723,33.1363,46,1
 "120434",172168,"col","Prosanto",9.82,46.68,"Ducanfurgga, Davos",NA,"",1,"Ladinian","",242,237,55902,"gp_mid",34.64,17.83,"307",239.5,"ladinian",32017,19.3809,25.8877,46,1
 "120435",172169,"col","Prosanto",9.83,46.67,"Gletscher Ducan, Davos",NA,"",1,"Ladinian","",242,237,55902,"gp_mid",34.64,17.82,"307",239.5,"ladinian",32018,19.3809,25.8877,46,1
+"121837",175586,"col","Erfurt",8.05,49.39,"Neidenfels, near Crailsheim, Lettenkeuper",NA,"",1,"Ladinian","",242,237,57435,"gp_mid",26.78,28.77,"305",239.5,"ladinian",26830,15.4142,26.1169,46,1
 "122150",175939,"col","Tschermakjfellet",14.86,77.65,"Mikadocephalus Middlehook",NA,"",1,"Ladinian","",242,237,34247,"gp_mid",17.29,56.34,"309",239.5,"ladinian",32350,-8.0902,46.5857,46,1
 "125402",180686,"col","Meride",8.94,45.9,"Valle di Sceltrich",NA,"",3,"Ladinian","",242,237,59894,"gp_mid",33.63,18.02,"307",239.5,"ladinian",33244,19.0343,22.3004,46,1
 "125403",180687,"col","Meride",8.96,45.89,"Val Serrata",NA,"",1,"Ladinian","",242,237,59894,"gp_mid",33.62,18.01,"307",239.5,"ladinian",33245,19.0343,22.3004,46,1
@@ -653,6 +713,7 @@
 "137702",203444,"col","",28.88,45.03,"Agighiol",NA,"Hagighiol",2,"Ladinian","",242,237,69734,"gp_mid",43.63,28.98,"302",239.5,"ladinian",36055,31.8723,33.1363,46,1
 "137703",203445,"col","",28.8,45.17,"Tulcea",NA,"",2,"Ladinian","",242,237,69734,"gp_mid",43.52,29.09,"302",239.5,"ladinian",36056,31.8723,33.1363,46,1
 "137734",203476,"col","",15.77,40.12,"Lagonegro (Ladinian)",NA,"",2,"Ladinian","",242,237,69734,"gp_mid",30.94,10.85,"307",239.5,"ladinian",36078,15.4785,8.0127,46,1
+"138234",204497,"col","Radomir",23.07,42.55,"Mount Golo Burdo, SW Bulgaria",NA,"Golo Bardo",2,"Ladinian","",242,237,70115,"gp_mid",36.06,7.65,"308",239.5,"ladinian",36199,29.413,27.0501,46,1
 "138235",204498,"col","Porphyrit-Hornstein",18.87,42.46,"Crna Gora, Montenegro",NA,"",2,"Ladinian","",242,237,70115,"gp_mid",34.22,10.15,"307",239.5,"ladinian",36200,19.0654,9.2854,46,1
 "138668",205122,"col","Schlern",11.65,46.47,"Cima di Larsec, Vajoletal",NA,"",1,"Ladinian","",242,237,70360,"gp_mid",35.05,16.62,"307",239.5,"ladinian",36339,19.3809,25.8877,46,1
 "138669",205123,"col","Marmolata",11.78,46.4,"Cima di Costabella (Marmolatakalk)",NA,"",1,"Ladinian","",242,237,70360,"gp_mid",35.04,16.51,"307",239.5,"ladinian",36340,19.3809,25.8877,46,1

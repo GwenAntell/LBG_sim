@@ -1,4 +1,5 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
+"1580",3338,"col","",23,38,"Epiros (Greece)",NA,"",7,"Priabonian","",38,33.9,184,"gp_mid",24.15,27.44,"307",35.95,"priabonian",454,18.2062,31.3307,13,1
 "1608",3536,"col","Inglis Limestone",-82.61,28.92,"FCi-2 - Crystal River [Inglis Limestone]",NA,"",5,"Priabonian","",38,33.9,124,"gp_mid",-67.85,31.76,"109",35.95,"priabonian",471,-74.7071,28.4888,13,1
 "1609",3535,"col","Ocala Limestone",-82.68,29.01,"FCi-1, Cross-Florida Barge Canal, Inglis",NA,"",11,"Priabonian","",38,33.9,124,"gp_mid",-67.9,31.86,"109",35.95,"priabonian",472,-74.7071,28.4888,13,1
 "1610",3537,"col","Williston Limestone",-82.63,28.92,"FCi-3 - Crystal River [Williston Limestone]",NA,"",1,"Priabonian","",38,33.9,124,"gp_mid",-67.87,31.76,"109",35.95,"priabonian",473,-74.7071,28.4888,13,1
@@ -24,18 +25,25 @@
 "3341",8122,"col","Somerset",-76.97,18.17,"Somerset Formation",NA,"",12,"Late Eocene","",37.2,33.9,549,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",1127,-81.8167,12.2253,13,1
 "3376",8208,"col","Consuelo",-78.34,21.36,"Consuelo FM., Cuba",NA,"",2,"Priabonian","",38,33.9,559,"gp_mid",-65.02,23.65,"206",35.95,"priabonian",1132,-71.7367,20.7262,13,1
 "3377",8209,"col","Jabaco",-79.65,22.31,"Jabaco FM., Cuba",NA,"",4,"Priabonian","",38,33.9,559,"gp_mid",-66.17,24.79,"206",35.95,"priabonian",1133,-71.7367,20.7262,13,1
+"3695",9074,"col","Bembridge Limestone",-1.55,50.67,"Headon Hill, Bembridge Limestone (marl 15), Isle of Wight",NA,"",15,"Late Eocene","",37.2,33.9,791,"gp_mid",3.99,44.85,"315",35.55,"priabonian",1197,-5.201,47.2387,13,1
+"3696",9070,"col","Bembridge Marls",-1.09,50.68,"Howgate Bay, Bembridge Marls, Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,791,"gp_mid",4.41,44.84,"315",35.55,"priabonian",1198,-5.201,47.2387,13,1
+"3697",9071,"col","Bembridge Limestone",-1.55,50.67,"Headon Hill, Organic 14, Bembridge Limestone",NA,"",16,"Late Eocene","",37.2,33.9,11154,"gp_mid",3.99,44.85,"315",35.55,"priabonian",1197,-5.201,47.2387,13,1
+"3698",9069,"col","Bembridge Marls",-1.36,50.74,"Thorness Bay, Bembridge Marls, Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,791,"gp_mid",4.17,44.91,"315",35.55,"priabonian",1199,-5.201,47.2387,13,1
 "3930",10703,"col","",12.88,47.17,"Eisenrichterstein, Germany",NA,"Reef 1729",141,"Priabonian","",38,33.9,3977,"gp_mid",18.72,38.32,"307",35.95,"priabonian",1281,5.613,42.6407,13,1
 "3947",10963,"col","",12.15,47.78,"Kirchberg, Neubeuern, Germany",NA,"Reef 1730",47,"Priabonian","",38,33.9,3977,"gp_mid",15.98,41.42,"305",35.95,"priabonian",1285,5.613,42.6407,13,1
 "4071",11291,"col","",67.77,25.97,"Bhagathoro Hill, Sind",NA,"Raduk",20,"Priabonian","",38,33.9,4154,"gp_mid",69.15,9.49,"501",35.95,"priabonian",1314,62.3643,20.2074,13,1
 "4902",13073,"col","Possagno Marl",11.87,45.85,"Possagno",NA,"",1,"Late Eocene","",37.2,33.9,10901,"gp_mid",17.36,37.29,"307",35.55,"priabonian",1482,9.8841,40.3936,13,1
 "4975",13102,"col","Birket Qarun",30.04,29.28,"Sandouk el-Borneta",NA,"",3,"Priabonian","",38,33.9,6026,"gp_mid",31.56,18.99,"715",35.95,"priabonian",1512,25.0298,24.8696,13,1
 "4976",13103,"col","Gehannam",30.05,29.3,"Wadi Hitan ZV-54NW",NA,"",3,"Priabonian","",38,33.9,6026,"gp_mid",31.56,19,"715",35.95,"priabonian",1513,25.0298,24.8696,13,1
+"4997",13127,"col","",98.17,8.07,"Bang Mark Lignite Mine",NA,"Krabi Mine; Ban Bang Mark; Bang Ban Mark; Bang Mark pit",9,"Late Eocene","",37.2,33.9,4375,"gp_mid",106.06,3.07,"616",35.55,"priabonian",1516,98.1268,10.8941,13,1
+"5035",135728,"col","",-61.22,10.69,"San Fernando beds",NA,"",1,"Late Eocene","",37.2,33.9,43357,"gp_mid",-49.46,9.63,"201",35.55,"priabonian",1530,-53.4175,6.2117,13,1
 "5112",13354,"col","Nago Limestone",10.88,45.89,"Nago, Italy",NA,"Reef 2319",44,"Priabonian","",38,33.9,5994,"gp_mid",16.55,37.54,"307",35.95,"priabonian",1568,9.8841,40.3936,13,1
 "5149",13402,"col","Gehannam",30.06,29.31,"Wadi Hitan ZV-70",NA,"",2,"Priabonian","",38,33.9,6026,"gp_mid",31.57,19.01,"715",35.95,"priabonian",1570,25.0298,24.8696,13,1
 "5150",13403,"col","Gehannam",30.04,29.26,"Minqar el-Hut",NA,"",3,"Priabonian","",38,33.9,6026,"gp_mid",31.55,18.96,"715",35.95,"priabonian",1571,25.0298,24.8696,13,1
 "5152",13405,"col","Moncks Corner Greensand",-80.13,33.45,"Mazyck Plantation",NA,"",3,"Priabonian","",38,33.9,6032,"gp_mid",-64.33,35.83,"109",35.95,"priabonian",1572,-70.7758,30.6888,13,1
 "5214",13491,"col","Iwaki",140.83,37,"Iwasaki Colliery, Joban Coal Field",NA,"",1,"Priabonian","",38,33.9,6107,"gp_mid",136.71,42.46,"610",35.95,"priabonian",1593,136.9705,43.5074,13,1
 "11313",21223,"col","",-121.97,47.25,"Puget Group Loc. 18",NA,"",13,"Priabonian","",38,33.9,6584,"gp_mid",-102.14,52.81,"129",35.95,"priabonian",2052,-113.1485,48.5026,13,1
+"11642",21976,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (A'Court Smith collection)",NA,"ETE Locality 797",115,"Priabonian","",38,33.9,5087,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
 "12252",22890,"col","",-121.97,47.25,"Puget Group Loc. 21",NA,"",25,"Priabonian","",38,33.9,6584,"gp_mid",-102.14,52.81,"129",35.95,"priabonian",2052,-113.1485,48.5026,13,1
 "12253",22895,"col","",-121.97,47.25,"Puget Group Loc. 22",NA,"",16,"Priabonian","",38,33.9,6584,"gp_mid",-102.14,52.81,"129",35.95,"priabonian",2052,-113.1485,48.5026,13,1
 "12258",22900,"col","",-121.97,47.25,"Puget Group Loc. 17",NA,"",3,"Priabonian","",38,33.9,6584,"gp_mid",-102.14,52.81,"129",35.95,"priabonian",2052,-113.1485,48.5026,13,1
@@ -55,9 +63,17 @@
 "13823",26859,"col","Tonasa",119.65,4.42,"Doi-Doi, Barru, Sulawesi",NA,"",4,"Priabonian","",38,33.9,7436,"gp_mid",125.34,14.91,"621",35.95,"priabonian",2664,120.5143,14.7957,13,1
 "14024",27508,"col","Twiggs",-83.63,32.7,"J. M. Huber Corporation Kaolin (Clay) Pit, Twiggs Clay",NA,"",10,"Priabonian","",38,33.9,7576,"gp_mid",-68.06,35.64,"109",35.95,"priabonian",2721,-74.4436,30.9783,13,1
 "14123",27641,"col","Crystal River",-82.6,29.65,"Ocala Limerock Corporation Quarry",NA,"",1,"Late Eocene","",37.2,33.9,7608,"gp_mid",-67.68,32.48,"109",35.55,"priabonian",2754,-74.7071,28.4888,13,1
+"14145",27663,"col","Headon Beds",-1.6,50.75,"Hordle Cliff Leaf Bed, Hampshire",NA,"",91,"Priabonian","",38,33.9,10789,"gp_mid",3.96,44.94,"315",35.95,"priabonian",2769,-5.201,47.2387,13,1
+"14146",27664,"col","Lower Headon",-1.53,50.67,"Lower Headon of Colwell Bay",NA,"",5,"Priabonian","",38,33.9,7610,"gp_mid",4.01,44.85,"315",35.95,"priabonian",2770,-5.201,47.2387,13,1
+"14726",28747,"col","Headon Hill",-1.59,50.72,"Hordle Cliff Mammal Beds",NA,"Hordwell",38,"MP 17A","MP 17B",37.2,33.9,10566,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
 "14885",28977,"col","Birket Qarun",30.02,29.27,"Wadi Hitan ZV-81",NA,"WH-81",1,"Priabonian","",38,33.9,8325,"gp_mid",31.54,18.98,"715",35.95,"priabonian",2896,25.0298,24.8696,13,1
 "14891",28986,"col","Ocala",-87.13,31.06,"Cedar Reach Rock",NA,"",1,"Priabonian","",38,33.9,8335,"gp_mid",-71.99,34.56,"109",35.95,"priabonian",2902,-78.3919,28.7856,13,1
+"17384",31607,"col","",-1.32,50.67,"Bembridge Limestone",NA,"Bembridge",5,"Priabonian","",38,33.9,8517,"gp_mid",4.2,44.84,"315",35.95,"priabonian",3511,-5.201,47.2387,13,1
+"17385",31608,"col","",-1.32,50.67,"Osborne Beds",NA,"",3,"Priabonian","",38,33.9,8517,"gp_mid",4.2,44.84,"315",35.95,"priabonian",3511,-5.201,47.2387,13,1
 "17515",31737,"col","",1.92,43.27,"Villeneuve la Comptal",NA,"Villeneuve",6,"Late Eocene","",37.2,33.9,8517,"gp_mid",6.41,37.3,"305",35.55,"priabonian",3532,-0.4225,39.4921,13,1
+"17521",31743,"col","",7.28,46.75,"Mormont Entreroches",NA,"Mauremont",19,"Priabonian","",38,33.9,8517,"gp_mid",11.54,40.55,"305",35.95,"priabonian",3537,2.2168,45.1567,13,1
+"17522",31744,"col","",9.22,48.07,"Frohnstetten",NA,"Sigmaringen",7,"Priabonian","",38,33.9,8517,"gp_mid",13.37,41.8,"305",35.95,"priabonian",3538,2.2168,45.1567,13,1
+"17524",31746,"col","",7.97,47.37,"Gosgen canal",NA,"Gosgen Kanal, Goesgen",7,"Priabonian","",38,33.9,8517,"gp_mid",12.2,41.14,"305",35.95,"priabonian",3539,2.2168,45.1567,13,1
 "17527",31749,"col","",2.5,43.67,"Pont d'Assou",NA,"",6,"Priabonian","",38,33.9,8517,"gp_mid",6.97,37.67,"305",35.95,"priabonian",3542,-0.4225,39.4921,13,1
 "17530",31752,"col","",2.17,41.83,"Sant Cugat de Gavadons",NA,"",15,"MP 19","",37.2,33.9,8517,"gp_mid",6.93,36.47,"304",35.55,"priabonian",3545,-0.4225,39.4921,13,1
 "18336",32899,"col","Wadi Esh-Shallala",37.12,31.57,"Qa' Faydat ad Dahikiya",NA,"",47,"Priabonian","",38,33.9,8811,"gp_mid",37.22,19.18,"503",35.95,"priabonian",3682,33.443,25.4944,13,1
@@ -67,6 +83,7 @@
 "18518",32918,"col","Ocala",-82.57,29.69,"Haile Quarry",NA,"",1,"Priabonian","",38,33.9,8825,"gp_mid",-67.65,32.51,"109",35.95,"priabonian",3719,-74.7071,28.4888,13,1
 "18519",32919,"col","Ocala",-82.39,29.6,"Gainesville Quarry",NA,"Arredondo",2,"Priabonian","",38,33.9,8825,"gp_mid",-67.49,32.39,"109",35.95,"priabonian",3720,-74.7071,28.4888,13,1
 "18520",32920,"col","Ocala",-82.5,29.9,"Sam Wall Quarry",NA,"",2,"Priabonian","",38,33.9,8825,"gp_mid",-67.53,32.71,"109",35.95,"priabonian",3721,-74.7071,28.4888,13,1
+"18585",32990,"col","",-16.07,14.15,"Kaolak",NA,"Tivandou",1,"Priabonian","",38,33.9,8837,"gp_mid",-14.03,9.39,"714",35.95,"priabonian",3734,-19.1588,11.414,13,1
 "18587",32992,"col","",10.07,44.28,"Varano",NA,"",1,"Priabonian","",38,33.9,8840,"gp_mid",15.24,36.2,"307",35.95,"priabonian",3736,9.8841,40.3936,13,1
 "18588",32993,"col","",2.28,41.87,"Taradell",NA,"",1,"Priabonian","",38,33.9,8841,"gp_mid",7.04,36.5,"304",35.95,"priabonian",3737,-0.4225,39.4921,13,1
 "19863",34497,"col","Wadi Thamat",19,29.17,"Wadi Thamat, Libya",NA,"",1,"Priabonian","",38,33.9,4061,"gp_mid",21.37,19.66,"715",35.95,"priabonian",3956,14.2885,24.9823,13,1
@@ -80,6 +97,14 @@
 "22161",37720,"col","Blanche Point",137.9,-34.77,"Maslin Bay, Blanche Point Formation",NA,"",1,"Late Eocene","",37.2,33.9,10062,"gp_mid",146.01,-53.38,"801",35.55,"priabonian",4552,133.7692,-54.0393,13,1
 "22372",37989,"col","Eugene",-123.08,44.04,"University of Oregon excavations",NA,"",9,"Priabonian","",38,33.9,10120,"gp_mid",-103.82,49.68,"129",35.95,"priabonian",4602,-113.7118,46.0319,13,1
 "22906",38804,"col","",2.9,39.72,"Biniamar, Island of Mallorca",NA,"\r\n",3,"Late Eocene","",37.2,33.9,10429,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",4769,-1.1522,37.61,13,1
+"22947",38858,"col","",-1.53,50.67,"Lacey's Farm Quarry (lower), Isle of Wight",NA,"Greens Quarry\r\nUB 7105",2,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"22948",38859,"col","",-1.53,50.67,"Lacey's Farm Quarry (upper), Isle of Wight",NA,"Greens Quarry\r\nUB 6911",8,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"22949",38860,"col","",-1.55,50.66,"Headon Hill UB 7103, Osborne Beds, Isle of Wight",40853,"",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"22950",38861,"col","",-1.55,50.66,"Headon Hill HH5, Osborne Beds, Isle of Wight",39675,"UB 7106",2,"Late Eocene","",37.2,33.9,10480,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"22951",38862,"col","Headon Hill",-1.22,50.72,"Fishbourne, Isle of Wight",NA,"UB 6909",13,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.3,44.89,"315",35.55,"priabonian",4787,-5.201,47.2387,13,1
+"22952",38863,"col","",-1.08,50.67,"Whitecliff Bay Osborne Beds(lowest), Isle of Wight",40538,"UB 7066",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"22953",38864,"col","",-1.08,50.67,"Whitecliff Bay Osborne Beds(middle), Isle of Wight",40538,"UB 7101",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"22954",38865,"col","",-1.08,50.67,"Whitecliff Bay Osborne Beds(upper), Isle of Wight",40538,"UB 7102",1,"Late Eocene","",37.2,33.9,10480,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
 "23027",38935,"col","Eugene",-123.09,44.05,"Eugene East (UO 2531) - #5 (Hickman)",NA,"UO 2531",10,"Priabonian","",38,33.9,10532,"gp_mid",-103.83,49.69,"129",35.95,"priabonian",4810,-113.7118,46.0319,13,1
 "23028",38936,"col","Eugene",-123.1,44.03,"USGS 5425 - College Hill",NA,"USGS 5425a-d, 17015, 17041, 17942; UO 12, 29, 127, 164, 128, 129; UC 4080-4084; #4 (Hickman)",8,"Priabonian","",38,33.9,10532,"gp_mid",-103.85,49.67,"129",35.95,"priabonian",4811,-113.7118,46.0319,13,1
 "23029",38937,"col","Eugene",-123.22,44.06,"Eugene West (USGS 17044) - #1 (Hickman)",NA,"USGS 17044; UC A-1338; UO 172, 173",1,"Priabonian","",38,33.9,10532,"gp_mid",-103.98,49.71,"129",35.95,"priabonian",4812,-113.7118,46.0319,13,1
@@ -129,6 +154,37 @@
 "23115",39035,"col","Eugene",-123.2,45.21,"McMinnville (UO 2564) - #48 (Hickman)",NA,"UO 2564",5,"Priabonian","",38,33.9,10532,"gp_mid",-103.8,50.85,"129",35.95,"priabonian",4838,-113.7118,46.0319,13,1
 "23116",39036,"col","Eugene",-123.2,45.21,"McMinnville (UO 2565 - #49 (Hickman)",NA,"UO 2565",7,"Priabonian","",38,33.9,10532,"gp_mid",-103.8,50.85,"129",35.95,"priabonian",4838,-113.7118,46.0319,13,1
 "23117",39037,"col","Eugene",-123.2,45.21,"McMinnville (UO 2566 - #50 (Hickman)",NA,"UO 2566",3,"Priabonian","",38,33.9,10532,"gp_mid",-103.8,50.85,"129",35.95,"priabonian",4838,-113.7118,46.0319,13,1
+"23174",39233,"col","Lower Headon Beds",-1.55,50.63,"Headon Hill HH1, Lower Headon Beds, Isle of Wight",40887,"",7,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23176",39236,"col","Lower Headon Beds",-1.55,50.63,"Headon Hill HH2, Lower Headon Beds, Isle of Wight",39677,"",27,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23177",39249,"col","Upper Headon Beds",-1.55,50.63,"Headon Hill HH3, Upper Headon Beds, Isle of Wight",39676,"",17,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23178",39250,"col","Upper Headon Beds",-1.55,50.63,"Headon Hill HH4, Upper Headon Beds, Isle of Wight",39676,"",13,"Late Eocene","",37.2,33.9,10589,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23180",39263,"col","Bembridge Limestone",-1.53,50.67,"Headon Hill HH6, Bembridge Limestone, Isle of Wight",40814,"",4,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"23181",39264,"col","Bembridge Limestone",-1.53,50.67,"Headon Hill HH7, Bembridge Limestone, Isle of Wight",40814,"",12,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"23184",39292,"col","Lower Headon Beds",-1.1,50.67,"Whitecliff Bay WB1, Isle of Wight",39704,"",5,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.4,44.84,"315",35.55,"priabonian",4863,-5.201,47.2387,13,1
+"23186",39297,"col","Bembridge Marls",-1.09,50.68,"Whitecliff Bay WB2A, Bembridge Marls, Isle of Wight",39704,"",5,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.4,44.84,"315",35.55,"priabonian",1198,-5.201,47.2387,13,1
+"23187",39298,"col","Bembridge Marls",-1.09,50.68,"Whitecliff Bay WB2B, Bembridge Marls, Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10482,"gp_mid",4.4,44.84,"315",35.55,"priabonian",1198,-5.201,47.2387,13,1
+"23188",39299,"col","Lower Headon Beds",-1.53,50.67,"Totland Bay, Lower Headon Beds, Isle of Wight",NA,"",21,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"23189",39300,"col","Lower Hamstead Beds",-1.5,50.7,"Bouldnor Cliff, Lower Hamstead Beds, Isle of Wight",NA,"",17,"Late Eocene","",37.2,33.9,10589,"gp_mid",4.04,44.88,"315",35.55,"priabonian",4865,-5.201,47.2387,13,1
+"23508",39643,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Crocodile Bed, Hampshire",NA,"Hordwell",78,"Priabonian","",38,33.9,10566,"gp_mid",3.96,44.91,"315",35.95,"priabonian",2875,-5.201,47.2387,13,1
+"23526",39662,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Rodent Bed, Hampshire",NA,"Hordwell",91,"Late Eocene","",37.2,33.9,10566,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23527",39664,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Green Clay (below the Unio Bed), Hampshire",NA,"Hordwell",13,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23528",39665,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Rolled-Bone Bed, Hampshire",NA,"Hordwell",9,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23529",39666,"col","Headon Beds",-1.59,50.72,"Hordle Cliff white sand (above the Leaf Bed), Hampshire",NA,"Hordwell",1,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23530",39667,"col","Headon Beds",-1.59,50.72,"Hordle Cliff shell bed (within Mammal Bed), Hampshire",28747,"Hordwell",10,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23537",39674,"col","Osborne Beds",-1.57,50.67,"Alum Bay, Osborne Beds (Beds 72-75), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23538",39675,"col","Headon Hill",-1.57,50.67,"Alum Bay, Headon Beds (Beds 62-71), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23539",39676,"col","Headon Hill",-1.57,50.67,"Alum Bay, Headon Beds (Beds 53-61), Isle of Wight",NA,"",13,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23540",39677,"col","Headon Hill",-1.57,50.67,"Alum Bay, Headon Beds (Beds 42-45), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23557",39694,"col","Headon Hill",-1.57,50.67,"Alum Bay, Headon Beds (Beds 37-40), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23558",39695,"col","Barton Beds",-1.57,50.67,"Alum Bay, Middle Barton Beds, Isle of Wight",NA,"""London Clay"" (Bed 29)",38,"Late Eocene","",37.2,33.9,10745,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23559",39696,"col","Barton Beds",-1.57,50.67,"Alum Bay, Middle Barton Beds, Isle of Wight",NA,"""London Clay"" (Beds 4-6)",31,"Late Eocene","",37.2,33.9,10907,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23567",39704,"col","Bembridge Marls",-1.08,50.67,"Whitecliff Bay, Bembridge Marl (Bed 37) Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"23568",39705,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Marl (Bed 36) Isle of Wight",NA,"",8,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"23685",39828,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Unio Bed, Hampshire",NA,"Hordwell",5,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23694",39838,"col","Headon Beds",-1.59,50.72,"Hordle Cliff Chara Bed, Hampshire",NA,"Hordwell",12,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23696",39840,"col","Headon Beds",-1.59,50.72,"Hordle Cliff blue and green clay (below the Chara Bed), Hampshire",NA,"Hordwell",3,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23697",39841,"col","Headon Beds",-1.59,50.72,"Hordle Cliff limestone unit (below the ironstone bed), Hampshire",NA,"",2,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
+"23705",39853,"col","Headon Beds",-1.59,50.72,"Hordle Cliff ironstone bed, Hampshire",NA,"Hordwell",2,"Late Eocene","",37.2,33.9,10789,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
 "23756",39941,"col","Keasey",-123.25,45.75,"Columbia (USGS 2717) - Hickman (1980)",NA,"USGS 2717",2,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
 "23757",39942,"col","Keasey",-123.25,45.75,"Columbia (USGS 15263) - Hickman (1980)",NA,"USGS 15263",12,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
 "23758",39943,"col","Keasey",-123.25,45.75,"Columbia (USGS 15265) - Hickman (1980)",NA,"USGS 15265",9,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
@@ -153,6 +209,16 @@
 "23780",39962,"col","",-122.52,45.37,"USGS 25054",NA,"",1,"Priabonian","",38,33.9,490,"gp_mid",-103.03,50.97,"129",35.95,"priabonian",4972,-113.7118,46.0319,13,1
 "23781",39963,"col","",-122.52,45.37,"USGS M2285",NA,"",3,"Priabonian","",38,33.9,490,"gp_mid",-103.03,50.97,"129",35.95,"priabonian",4972,-113.7118,46.0319,13,1
 "23782",39964,"col","",-122.52,45.37,"UCMP A1816",NA,"",1,"Priabonian","",38,33.9,490,"gp_mid",-103.03,50.97,"129",35.95,"priabonian",4972,-113.7118,46.0319,13,1
+"23805",40029,"col","Upper Headon Beds",-1.55,50.63,"Headon Hill, Upper Headon Beds (Microchoerus Bed), Isle of Wight",NA,"",11,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23806",40028,"col","Lower Headon Beds",-1.57,50.67,"Headon Hill, Lower Headon Beds (marl bed), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10823,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"23807",40030,"col","Upper Headon Beds",-1.55,50.63,"Headon Hill Lignite Bed, Isle of Wight",39676,"",21,"Late Eocene","",37.2,33.9,10423,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"23816",40042,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Beds 32-34), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"23834",40096,"col","Bembridge Limestone",-1.1,50.68,"Brading Harbour, Bembridge Limestone (bed 1), Isle of Wight",NA,"Bembridge Harbour",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,"priabonian",4989,-5.201,47.2387,13,1
+"23835",40097,"col","Bembridge Limestone",-1.1,50.68,"Brading Harbour, Bembridge Limestone (bed 2), Isle of Wight",NA,"Bembridge Harbour",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,"priabonian",4989,-5.201,47.2387,13,1
+"23837",40099,"col","Bembridge Limestone",-1.1,50.68,"Brading Harbour, Bembridge Limestone (bed 3), Isle of Wight",NA,"Bembridge Harbour",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,"priabonian",4989,-5.201,47.2387,13,1
+"23839",40101,"col","Bembridge Limestone",-1.1,50.68,"Brading Harbour, Bembridge Limestone (bed 4), Isle of Wight",NA,"Bembridge Harbour",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,"priabonian",4989,-5.201,47.2387,13,1
+"23840",40102,"col","Bembridge Limestone",-1.1,50.68,"Brading Harbour, Bembridge Limestone (bed 5), Isle of Wight",NA,"Bembridge Harbour",9,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.85,"315",35.55,"priabonian",4989,-5.201,47.2387,13,1
+"23843",40105,"col","Hempstead",-1.45,50.71,"Hempstead Cliff, Hempstead Series (bed 1), Isle of Wight",NA,"",8,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
 "23902",40182,"col","Keasey",-123.2,45.72,"Columbia (USGS 15268) - Hickman (1980)",NA,"USGS 15268",20,"Priabonian","",38,33.9,490,"gp_mid",-103.74,51.36,"129",35.95,"priabonian",5005,-113.7118,46.0319,13,1
 "23903",40183,"col","Keasey",-123.25,45.75,"Columbia (USGS 15274) - Hickman (1980)",NA,"USGS 15274",11,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
 "23904",40184,"col","Keasey",-123.25,45.75,"Columbia (USGS 15279) - Hickman (1980)",NA,"USGS 15279",13,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
@@ -176,25 +242,144 @@
 "23923",40203,"col","Keasey",-123.25,45.75,"Columbia (USGS 25032) - Hickman (1980)",NA,"USGS 25032",0,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
 "23924",40204,"col","Keasey",-123.25,45.75,"Columbia (USGS 25032) - Hickman (1980)",NA,"USGS 25032",15,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
 "23925",40205,"col","Keasey",-123.25,45.75,"Columbia (USGS M-3864) - Hickman (1980)",NA,"USGS Meno Park #3864",1,"Priabonian","",38,33.9,490,"gp_mid",-103.79,51.39,"129",35.95,"priabonian",4968,-113.7118,46.0319,13,1
+"23974",40267,"col","Hempstead",-1.45,50.72,"Hempstead Cliff, Hempstead Series (bed 2), Isle of Wight",NA,"",18,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.91,"315",35.55,"priabonian",5031,-5.201,47.2387,13,1
+"23975",40268,"col","Hempstead",-1.45,50.71,"Hempstead Cliff, Hempstead Series (bed 4), Isle of Wight",NA,"",18,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"23976",40269,"col","Hempstead",-1.45,50.71,"Hempstead Cliff, Hempstead Series (Black Band), Isle of Wight",NA,"",10,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"23977",40270,"col","Hempstead",-1.45,50.71,"Hempstead Cliff, Hempstead Series (bed 3), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"23978",40271,"col","Hempstead",-1.45,50.71,"Hempstead Cliff, Hempstead Series (White Band), Isle of Wight",NA,"",9,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"23989",40292,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 2), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23990",40293,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 3), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23991",40294,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 4), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23992",40295,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 6), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23993",40296,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 7), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23994",40297,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 8), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23995",40298,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 9), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23996",40299,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 10), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"23997",40300,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 11), Isle of Wight",NA,"",11,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"24037",40357,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 12), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"24039",40359,"col","Osborne Beds",-1.1,50.71,"Seafield, Osborne Series (bed 14), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.4,44.87,"315",35.55,"priabonian",5033,-5.201,47.2387,13,1
+"24040",40377,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed a), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24041",40378,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed b), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24042",40379,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed c), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24043",40380,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed d), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24044",40381,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed e), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24045",40382,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed f), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24046",40383,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed g), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24047",40384,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed h), Isle of Wight",NA,"This bed is a green clay with plentiful shells. The Bembridge Marls at this locality are concretionary marls and clays.",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24048",40385,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed i), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24049",40386,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed j), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24050",40387,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed k), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24051",40388,"col","Bembridge Marls",-1.33,50.75,"Thorness Point, Bembridge Marl (bed m), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.2,44.93,"315",35.55,"priabonian",5060,-5.201,47.2387,13,1
+"24065",40412,"col","Osborne Beds",-1.07,50.67,"Whitecliff Bay, Osborne Beds (limestone bed), Isle of Wight",40538,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.42,44.83,"315",35.55,"priabonian",5064,-5.201,47.2387,13,1
+"24069",40420,"col","Osborne Beds",-1.51,50.7,"Cliffend, Osborne Beds (bed 1), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,"priabonian",5066,-5.201,47.2387,13,1
+"24070",40421,"col","Osborne Beds",-1.51,50.7,"Cliffend, Osborne Beds (bed 2), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,"priabonian",5066,-5.201,47.2387,13,1
+"24071",40423,"col","Osborne Beds",-1.51,50.67,"Cliffend, Osborne Beds (bed 3), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.03,44.85,"315",35.55,"priabonian",5067,-5.201,47.2387,13,1
+"24074",40428,"col","Osborne Beds",-1.51,50.7,"Cliffend, Osborne Beds (bed 4), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,"priabonian",5066,-5.201,47.2387,13,1
+"24078",40441,"col","os",-1.51,50.7,"Cliffend, Osborne Beds (bed 5), Isle of Wight",NA,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.04,44.89,"315",35.55,"priabonian",5066,-5.201,47.2387,13,1
 "24117",40516,"col","",30.72,29.64,"Dir Abu Lifa",NA,"",13,"Late Eocene","",37.2,33.9,10903,"gp_mid",32.21,19.3,"715",35.55,"priabonian",5083,25.0298,24.8696,13,1
+"24121",40537,"col","Barton Beds",-1.08,50.67,"Whitecliff Bay, Barton Beds (Bed 3), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24128",40536,"col","Barton Beds",-1.08,50.67,"Whitecliff Bay, Barton Beds (Bed 4), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24129",40538,"col","Osborne Beds",-1.08,50.67,"Whitecliff Bay, Osborne Beds (Bed 31), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
 "24265",40733,"col","Lincoln Creek",-122.96,47.66,"UCMP 3607 - South bank of Cowlitz River at old Gries Ranch",NA,"UW 239; Gries Ranch of Washington",11,"Priabonian","",38,33.9,10972,"gp_mid",-103.2,53.28,"129",35.95,"priabonian",5132,-113.1485,48.5026,13,1
+"24300",40769,"col","Headon Beds",-1.08,50.67,"Whitecliff Bay, Upper Headon Beds (Beds 28-29) Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24301",40770,"col","Headon Beds",-1.08,50.67,"Whitecliff Bay, Middle Headon Beds (Bed 26), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24302",40771,"col","Headon Beds",-1.08,50.67,"Whitecliff Bay, Middle Headon Beds (Bed 24), Isle of Wight",NA,"",12,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24303",40772,"col","Headon Beds",-1.08,50.67,"Whitecliff Bay, Lower Headon Beds (Bed 21), Isle of Wight",NA,"",17,"Late Eocene","",37.2,33.9,10745,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24304",40774,"col","Barton Beds",-1.08,50.67,"Whitecliff Bay, Barton Beds (Bed 17) Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10907,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24307",40777,"col","Barton Beds",-1.57,50.67,"Alum Bay, Lower Barton Beds, Isle of Wight",NA,"""London Clay"" (lowest bed)",6,"Late Eocene","",37.2,33.9,10907,"gp_mid",3.98,44.85,"315",35.55,"priabonian",4917,-5.201,47.2387,13,1
+"24337",40814,"col","Bembridge Limestone",-1.53,50.67,"Headon Hill, Bembridge Limestone, Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"24368",40845,"col","Osborne Beds",-1.55,50.66,"Headon Hill, Osborne Beds (Bed 1), Isle of Wight",NA,"",7,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"24374",40851,"col","Osborne Beds",-1.55,50.66,"Headon Hill, Osborne Beds (Bed 2), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"24375",40852,"col","Osborne Beds",-1.55,50.66,"Headon Hill, Osborne Beds (Bed 4), Isle of Wight",NA,"",4,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"24376",40853,"col","Osborne Beds",-1.55,50.66,"Headon Hill, Osborne Beds (Bed 7), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.85,"315",35.55,"priabonian",4786,-5.201,47.2387,13,1
+"24382",40859,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 1), Isle of Wight",40042,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24383",40860,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 2), Isle of Wight",40042,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24384",40861,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 3), Isle of Wight",40042,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24385",40862,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 4), Isle of Wight",40042,"",6,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24404",40880,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 5), Isle of Wight",40042,"",8,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24405",40881,"col","Bembridge Limestone",-1.08,50.67,"Whitecliff Bay, Bembridge Limestone (Bed 6), Isle of Wight",40042,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"24411",40887,"col","Headon Beds",-1.55,50.63,"Headon Hill, Lower Headon Beds, Isle of Wight",39677,"",14,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"24414",40890,"col","Headon Beds",-1.55,50.63,"Headon Hill, Middle Headon Beds, Isle of Wight",NA,"",14,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"24417",40893,"col","Headon Beds",-1.55,50.63,"Headon Hill, Upper Headon Beds, Isle of Wight",39676,"",21,"Late Eocene","",37.2,33.9,10868,"gp_mid",3.99,44.82,"315",35.55,"priabonian",4862,-5.201,47.2387,13,1
+"24425",40900,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 1), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24426",40901,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 2), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24427",40902,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 3), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24428",40903,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 4), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24429",40904,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 6), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24431",40905,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 8), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24432",40906,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 9), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24433",40907,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 10), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24434",40908,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 12), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24435",40909,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 13), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24436",40910,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 14), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24437",40911,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 15), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24438",40912,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 16), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24439",40913,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 17)",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24440",40914,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 18), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24441",40915,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 19), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24442",40916,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 20), Isle of Wight",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24443",40917,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 21), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24444",40918,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 22), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24445",40919,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 23), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24446",40920,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 24), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24447",40921,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 26), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24448",40922,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 28), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24449",40923,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 29), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24450",40924,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 30), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24451",40925,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 32), Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24452",40926,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 34), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24453",40927,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 35), Isle of Wight",NA,"",5,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24454",40928,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 37), Isle of Wight",NA,"",3,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24455",40929,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 39), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24456",40930,"col","Bembridge Marls",-1.45,50.71,"Hempstead Cliff, Bembridge Marls (bed 40), Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,10868,"gp_mid",4.09,44.89,"315",35.55,"priabonian",4990,-5.201,47.2387,13,1
+"24583",41178,"col","",94.57,21.78,"Kyawyaw, Pondaung Sandstone",NA,"Kyawywa",1,"Priabonian","",38,33.9,11063,"gp_mid",98.68,10.45,"617",35.95,"priabonian",5216,91.84,16.9941,13,1
 "24791",41453,"col","Inglis Limestone",-82.7,29.23,"FGS L-93 - Gulf Hammock [Inglis Limestone]",NA,"",46,"Priabonian","",38,33.9,11115,"gp_mid",-67.88,32.08,"109",35.95,"priabonian",5280,-74.7071,28.4888,13,1
 "24808",41474,"col","Inglis Limestone",-82.64,29.02,"FGS L-135 - Withlacoochee River [Inglis Limestone]",NA,"",11,"Priabonian","",38,33.9,11115,"gp_mid",-67.86,31.86,"109",35.95,"priabonian",5285,-74.7071,28.4888,13,1
 "24809",41475,"col","Inglis Limestone",-82.62,29.02,"FGS L-139 (Bed 4) - Withlacoochee River [Inglis Limestone]",NA,"",16,"Priabonian","",38,33.9,11115,"gp_mid",-67.83,31.87,"109",35.95,"priabonian",5286,-74.7071,28.4888,13,1
 "24810",41476,"col","Inglis Limestone",-82.7,29.24,"FGS VL-187 - Gulf Hammock [Inglis Limestone]",NA,"",3,"Priabonian","",38,33.9,11115,"gp_mid",-67.87,32.09,"109",35.95,"priabonian",5287,-74.7071,28.4888,13,1
 "24811",41477,"col","Inglis Limestone",-82.45,29.05,"FGS C-11 - Dunnellon Phosphate Minig Company pit [Inglis Limestone]",NA,"",11,"Priabonian","",38,33.9,11115,"gp_mid",-67.66,31.87,"109",35.95,"priabonian",5288,-74.7071,28.4888,13,1
+"24832",41499,"col","Lower Headon Beds",-1.53,50.69,"Colwell Bay 1, Lower Headon Beds, Isle of Wight",NA,"",2,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.02,44.88,"315",35.55,"priabonian",5294,-5.201,47.2387,13,1
+"24833",41500,"col","Lower Headon Beds",-1.53,50.69,"Colwell Bay 2, Lower Headon Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.02,44.88,"315",35.55,"priabonian",5294,-5.201,47.2387,13,1
+"24835",41502,"col","Headon Beds",-1.55,50.62,"Headon Hill, Headon Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",3.99,44.8,"315",35.55,"priabonian",5295,-5.201,47.2387,13,1
+"24836",41503,"col","Osborne Beds",-1.08,50.71,"Nettlestone, Osborne Beds, Isle of Wight",NA,"",1,"Late Eocene","",37.2,33.9,11122,"gp_mid",4.42,44.87,"315",35.55,"priabonian",5296,-5.201,47.2387,13,1
 "24944",41615,"col","Yamaque",-75.33,-14.66,"DV 509-3 [Chilcatay Fm]",NA,"",4,"Late Eocene","",37.2,33.9,11150,"gp_mid",-65.3,-14.69,"201",35.55,"priabonian",5329,-67.652,-19.2722,13,1
 "24946",41616,"col","Paracas",-76.12,-14.18,"DV 631-8 [Paracas Fm]",NA,"",9,"Late Eocene","",37.2,33.9,11150,"gp_mid",-66.05,-14.16,"201",35.55,"priabonian",5331,-67.652,-19.2722,13,1
+"24960",41652,"col","Bembridge Limestone",-1.53,50.67,"Headon Hill, lower Bembridge Limestone, Isle of Wight",NA,"",20,"Late Eocene","",37.2,33.9,11154,"gp_mid",4.01,44.85,"315",35.55,"priabonian",2770,-5.201,47.2387,13,1
+"24961",41653,"col","Bembridge Limestone",-1.48,50.67,"Tapnell Quarry, lower Bembridge Limestone, Isle of Wight",NA,"",5,"Priabonian","",38,33.9,11154,"gp_mid",4.06,44.86,"315",35.95,"priabonian",5338,-5.201,47.2387,13,1
+"24975",41665,"col","Bembridge Limestone",-1.55,50.67,"Headon Hill, Bembridge Limestone (marl 18), Isle of Wight",NA,"",16,"Late Eocene","",37.2,33.9,11154,"gp_mid",3.99,44.85,"315",35.55,"priabonian",1197,-5.201,47.2387,13,1
 "25078",41803,"col","Kopili Shale",90.63,25.3,"Siju, Garo Hills, Kopili Shale",NA,"",1,"Late Eocene","",37.2,33.9,11182,"gp_mid",89.36,4.75,"501",35.55,"priabonian",5393,81.3243,11.0564,13,1
 "25253",204637,"col","Ocala",-83.22,30.11,"Dowling Springs",NA,"",1,"Late Eocene","",37.2,33.9,32917,"gp_mid",-68.22,33.03,"109",35.55,"priabonian",5444,-74.7071,28.4888,13,1
 "25405",42144,"col","Zallah",18.87,28.88,"Tmed el Ksour Member, Zallha Formation",NA,"",26,"Priabonian","",38,33.9,11199,"gp_mid",21.22,19.39,"715",35.95,"priabonian",5483,14.2885,24.9823,13,1
+"25734",42566,"col","Barton Beds",-1.73,50.78,"Hinton Admiral, Hampshire, Middle Barton Beds",NA,"",2,"Late Eocene","",37.2,33.9,11308,"gp_mid",3.84,44.98,"315",35.55,"priabonian",5604,-5.201,47.2387,13,1
+"25750",42582,"col","Barton Beds",-1.08,50.67,"Whitecliff Bay, Barton Beds (Chama bed), Isle of Wight",NA,"",25,"Late Eocene","",37.2,33.9,11308,"gp_mid",4.41,44.83,"315",35.55,"priabonian",4788,-5.201,47.2387,13,1
+"25798",42634,"col","Barton Beds",-1.69,50.74,"Cliffend, Lower Barton Beds, A1, Hampshire",NA,"",7,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25799",42635,"col","Barton Beds",-1.69,50.74,"Cliffend, Lower Barton Beds, A2, Hampshire",NA,"",10,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25802",42640,"col","Barton Beds",-1.69,50.74,"Cliffend, Middle Barton Beds, C, Hampshire",NA,"",107,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25805",42643,"col","Barton Beds",-1.69,50.74,"Cliffend, Middle Barton Beds, E, Hampshire",NA,"",19,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25806",42644,"col","Barton Beds",-1.69,50.74,"Cliffend, Middle Barton Beds, F, Hampshire",NA,"",144,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25807",42645,"col","Barton Beds",-1.69,50.74,"Cliffend, Upper Barton Beds, G, Hampshire",NA,"",5,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25808",42646,"col","Barton Beds",-1.69,50.74,"Cliffend, Upper Barton Beds, H, Hampshire",NA,"Chama-Bed",13,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25809",42647,"col","Barton Beds",-1.69,50.74,"Cliffend, Upper Barton Beds, I, Hampshire",NA,"",1,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25811",42649,"col","Barton Beds",-1.69,50.74,"Cliffend, Upper Barton Beds, K, Hampshire",NA,"",16,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.88,44.93,"315",35.55,"priabonian",5617,-5.201,47.2387,13,1
+"25818",42658,"col","Barton Beds",-1.73,50.78,"Bransgore, Lower Barton Beds, Hampshire",NA,"",70,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.84,44.98,"315",35.55,"priabonian",5604,-5.201,47.2387,13,1
+"25819",42662,"col","Barton Beds",-1.78,50.85,"Poulner, Middle Barton Beds, Hampshire",NA,"",48,"Late Eocene","",37.2,33.9,11344,"gp_mid",3.81,45.05,"315",35.55,"priabonian",5619,-5.201,47.2387,13,1
 "25882",42768,"col","",-72.27,11.72,"C48B Uriba, Guajira Peninsula, Columbia",NA,"",1,"Late Eocene","",37.2,33.9,11368,"gp_mid",-60.38,11.41,"203",35.55,"priabonian",5644,-67.2897,7.4106,13,1
 "25905",42791,"col","Lower Sandy Shales",-72.35,8.07,"Hannatoma E: Lower Sandy Shales Fm: San Antonio, Venezuela (Kehrer)",NA,"",11,"Late Eocene","",37.2,33.9,11374,"gp_mid",-60.72,7.78,"203",35.55,"priabonian",5654,-64.4789,3.3183,13,1
 "25906",42792,"col","Lower Sandy Shales",-72.35,8.07,"Hannatoma F: Sandy Shales Fm: San Antonio, Venezuela (Kehrer)",NA,"",16,"Late Eocene","",37.2,33.9,11374,"gp_mid",-60.72,7.78,"203",35.55,"priabonian",5654,-64.4789,3.3183,13,1
+"25908",42795,"col","",-78.89,1.16,"Hannatoma H: Zapotal Sands: SW Ecuador (Stainforth)",NA,"",4,"Late Eocene","",37.2,33.9,11374,"gp_mid",-67.73,1.34,"201",35.55,"priabonian",5655,-72.197,-5.0481,13,1
 "25910",90083,"col","Kingscote Limestone",137.63,-35.67,"Kingscote, Kangaroo Island [Kingscote Limestone]",NA,"",1,"Late Eocene","",37.2,33.9,30216,"gp_mid",146.08,-54.31,"801",35.55,"priabonian",5656,133.7692,-54.0393,13,1
+"25953",42868,"col","Zapallo",-79.85,0.87,"Hannatoma J: Zapallo Fm: NW Ecuador (Stone)",NA,"",13,"Late Eocene","",37.2,33.9,11374,"gp_mid",-68.71,1.12,"201",35.55,"priabonian",5679,-72.197,-5.0481,13,1
+"25964",42878,"col","Bembridge Marls",-1.33,50.75,"Gurnard or Thorness Bays, Bembridge Marl, Isle of Wight",NA,"Gurnard Point",4,"Priabonian","",38,33.9,10305,"gp_mid",4.2,44.93,"315",35.95,"priabonian",5060,-5.201,47.2387,13,1
+"26127",43050,"col","Jackson",-99.17,25.8,"USGS 13527 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 13527",2,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
+"26128",43051,"col","Jackson",-99.17,25.8,"USGS 13513 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 13513",4,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
+"26129",43052,"col","Jackson",-99.17,25.8,"USGS 13520 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 13520",1,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
+"26130",43053,"col","Jackson",-99.17,25.8,"USGS 14009 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 14009",4,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
+"26131",43054,"col","Jackson",-99.17,25.8,"USGS 13598 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 13598",2,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
+"26132",43055,"col","Jackson",-99.17,25.8,"USGS 13467 - Nuevo Leon, Mexico (upper Jackson Formation)",NA,"USGS 13467",2,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.45,31.12,"101",35.55,"priabonian",5710,-90.0341,24.7261,13,1
 "26133",43056,"col","Jackson",-98.82,26.27,"USGS 13503 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13503",5,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
 "26134",43057,"col","Jackson",-98.82,26.27,"USGS 13504 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13504",16,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
 "26135",43058,"col","Jackson",-98.82,26.27,"USGS 13506 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13506",1,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
+"26136",43059,"col","Fayette",-98.96,26.23,"Collection 5146, Station 277, El Azucar, Camargo",NA,"",1,"Priabonian","",38,33.9,59836,"gp_mid",-85.16,31.51,"101",35.95,"priabonian",5712,-90.0341,24.7261,13,1
 "26138",43060,"col","Jackson",-98.82,26.27,"USGS 13508 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13508",3,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
 "26139",43061,"col","Jackson",-98.82,26.27,"USGS 13753 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13753",1,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
 "26140",43062,"col","Jackson",-98.82,26.27,"USGS 13754 - Tamaulipas, Mexico (Jackson Formation)",NA,"USGS 13754",1,"Late Eocene","",37.2,33.9,7474,"gp_mid",-85.01,31.53,"101",35.55,"priabonian",5711,-89.7769,27.2154,13,1
@@ -211,6 +396,7 @@
 "27765",45039,"col","Waihao Greensand",171.17,-44.78,"Lower Greensand, McCulloch's Bridge",NA,"LG",3,"Late Eocene","",37.2,33.9,10506,"gp_mid",-162.21,-46.32,"807",35.55,"priabonian",6248,-171.6269,-53.413,13,1
 "27766",45040,"col","Waihao Greensand",171.17,-44.78,"Lower Otaio Limonitic Member, McCulloch's Bridge",NA,"LOLM",10,"Late Eocene","",37.2,33.9,10506,"gp_mid",-162.21,-46.32,"807",35.55,"priabonian",6248,-171.6269,-53.413,13,1
 "27767",45041,"col","Waihao Greensand",171.17,-44.78,"Waihao Greensand, McCulloch's Bridge (general collection)",NA,"G",81,"Late Eocene","",37.2,33.9,10506,"gp_mid",-162.21,-46.32,"807",35.55,"priabonian",6248,-171.6269,-53.413,13,1
+"28064",45449,"col","Kovachinskaya",165.92,60.42,"Gulf of Korfa, Eastern Kamchatka (Ia)",NA,"",22,"Late Eocene","",37.2,33.9,11836,"gp_mid",161.4,66.58,"485",35.55,"priabonian",6316,168.2696,64.4725,13,1
 "28253",45640,"col","Clinchfield",-83.36,32.91,"Hardie Kaolin Mine",NA,"Wilkinson Mine, WKR Mine",53,"Priabonian","",38,33.9,12028,"gp_mid",-67.74,35.8,"109",35.95,"priabonian",6414,-74.4436,30.9783,13,1
 "28328",45723,"col","La Meseta",-56.62,-64.25,"La Meseta Seymour Island, Unit III",NA,"",5,"Priabonian","",38,33.9,57928,"gp_mid",-66.24,-62.83,"803",35.95,"priabonian",6453,-58.2685,-66.2278,13,1
 "28464",45884,"col","Koun",49.53,40.5,"Sumgait River, Gobustan, Koun Formation",NA,"",4,"Priabonian","",38,33.9,37562,"gp_mid",49.88,34.29,"402",35.95,"priabonian",6525,43.548,40.466,13,1
@@ -219,9 +405,15 @@
 "30330",47934,"col","Gehannam",30.05,29.3,"Wadi Hitan ZV-54",NA,"WH-54",1,"Priabonian","",38,33.9,6026,"gp_mid",31.56,19,"715",35.95,"priabonian",1513,25.0298,24.8696,13,1
 "30344",47947,"col","Qasr el-Sagha",30.57,29.58,"Zeuglodonberg",NA,"",7,"Priabonian","",38,33.9,11950,"gp_mid",32.06,19.25,"715",35.95,"priabonian",7099,25.0298,24.8696,13,1
 "30422",48026,"col","",32.68,49.07,"Chigirin",NA,"Tschigirin, Tyas'ma River",2,"Priabonian","",38,33.9,11981,"gp_mid",34.31,42.48,"302",35.95,"priabonian",7120,27.2229,49.3464,13,1
+"30423",48027,"col","",36.36,49.7,"Korobow Chutor",NA,"",1,"Priabonian","",38,33.9,29257,"gp_mid",37.55,43.15,"302",35.95,"priabonian",7121,30.9104,49.6109,13,1
+"30424",48028,"col","",37.26,49.19,"Bugajewka",NA,"Zmiev",1,"Priabonian","",38,33.9,26362,"gp_mid",38.37,42.65,"302",35.95,"priabonian",7122,30.9104,49.6109,13,1
 "30820",48441,"col","Pallinup Siltstone",117.89,-35.02,"Pallinup Siltstone - Bremmer Basin",NA,"",55,"Late Eocene","",37.2,33.9,12938,"gp_mid",117.78,-56.62,"801",35.55,"priabonian",7260,102.2543,-53.8669,13,1
 "30821",48442,"col","Port Willunga",138.48,-35.28,"South Maslin Sand - St Vincent Basin",NA,"South Maslin Sand",1,"Late Eocene","",37.2,33.9,12938,"gp_mid",147.03,-53.74,"801",35.55,"priabonian",7261,133.7692,-54.0393,13,1
 "30823",48444,"col","Blanche Point",138.48,-35.28,"Uncle Toms Cabin (Blanche Point Formation)",NA,"Blanche Point Formation",22,"Late Eocene","",37.2,33.9,12938,"gp_mid",147.03,-53.74,"801",35.55,"priabonian",7261,133.7692,-54.0393,13,1
+"30942",48576,"col","Browns Creek",143.37,-38.75,"Browns Creek, Johanna, Victoria (lower Browns Creek Formation)",NA,"lower Browns Creek Formation",12,"Late Eocene","",37.2,33.9,12938,"gp_mid",155.35,-55.8,"801",35.55,"priabonian",7305,139.5539,-56.1484,13,1
+"30943",48577,"col","Browns Creek",143.37,-38.75,"Browns Creek, Johanna, Victoria (upper Browns Creek Formation)",NA,"upper Browns Creek Formation",17,"Late Eocene","",37.2,33.9,12938,"gp_mid",155.35,-55.8,"801",35.55,"priabonian",7305,139.5539,-56.1484,13,1
+"31284",49078,"col","Krabi Basin B2",99.06,7.97,"Wai Lek pit",NA,"Krabi Basin; Ban Wai lek",23,"Late Eocene","",37.2,33.9,13106,"gp_mid",106.91,3.35,"616",35.55,"priabonian",7410,98.1268,10.8941,13,1
+"31287",49083,"col","",99.04,8,"Bang Pu Dam Coal Pit",NA,"Krabi Basin; Ban Pu Dam",10,"Late Eocene","",37.2,33.9,13106,"gp_mid",106.88,3.36,"616",35.55,"priabonian",7412,98.1268,10.8941,13,1
 "31366",49167,"col","Tavda",63.58,51.2,"Kachar",NA,"",2,"Priabonian","",38,33.9,12996,"gp_mid",61.61,45.66,"402",35.95,"priabonian",7440,57.3062,51.4656,13,1
 "31378",126108,"col","Keasey",-123.26,46,"Burn Road Bridge, Nehalem River",NA,"Mist, UCMP V6730, UCMP A5018, UCMP A8721, USGS Cenozoic 15318",36,"Priabonian","",38,33.9,61696,"gp_mid",-103.77,51.64,"129",35.95,"priabonian",7447,-113.7118,46.0319,13,1
 "31380",126110,"col","Lincoln Creek",-123.5,47.26,"Canyon River, UW-B0268",NA,"",1,"Priabonian","",38,33.9,40955,"gp_mid",-103.85,52.91,"129",35.95,"priabonian",7449,-113.1485,48.5026,13,1
@@ -237,6 +429,7 @@
 "34323",52801,"col","San Emigdio",-119.29,35,"USGS# M4597 - San Emigdio Fm, Kern County",NA,"",7,"Priabonian","",38,33.9,14208,"gp_mid",-102.05,39.24,"105",35.95,"priabonian",8318,-108.6368,32.8592,13,1
 "34324",52802,"col","San Emigdio",-119.29,35,"USGS# M4598 - San Emigdio Fm, Kern County",NA,"",5,"Priabonian","",38,33.9,14208,"gp_mid",-102.05,39.24,"105",35.95,"priabonian",8318,-108.6368,32.8592,13,1
 "34351",52829,"col","San Emigdio",-119.18,35.06,"USGS# M4638 - San Emigdio Fm, Kern County",NA,"",13,"Priabonian","",38,33.9,14208,"gp_mid",-101.93,39.29,"105",35.95,"priabonian",8317,-108.6368,32.8592,13,1
+"36968",56937,"col","Headon Hill",1.58,50.79,"Roydon",NA,"",1,"Priabonian","",38,33.9,67491,"gp_mid",6.8,44.82,"315",35.95,"priabonian",8949,-5.201,47.2387,13,1
 "37132",57122,"col","Ocala",-82.21,29.14,"Florida Lime Company",NA,"",1,"Priabonian","",38,33.9,15425,"gp_mid",-67.4,31.91,"109",35.95,"priabonian",9018,-74.7071,28.4888,13,1
 "37133",57123,"col","Ocala",-82.6,29.7,"Cummer Lumber Company Phosphate Mine Eocene",NA,"",1,"Priabonian","",38,33.9,15425,"gp_mid",-67.67,32.53,"109",35.95,"priabonian",9019,-74.7071,28.4888,13,1
 "37725",57736,"col","La Meseta",-56.64,-64.24,"WJZ, Seymour Island",NA,"Locality 8",1,"Priabonian","",38,33.9,12079,"gp_mid",-66.25,-62.82,"803",35.95,"priabonian",9090,-58.2685,-66.2278,13,1
@@ -396,6 +589,8 @@
 "49819",74740,"col","Qasr el-Sagha",30.57,29.57,"Garet el-Esh",NA,"",5,"Priabonian","",38,33.9,11951,"gp_mid",32.06,19.25,"715",35.95,"priabonian",12188,25.0298,24.8696,13,1
 "50506",75900,"col","Keasey",-123.24,45.77,"LACM Loc. 5060  - Beaver Creek [Keasey Fm]",NA,"LACM Loc. 5603 - Haydite Quarry",10,"Priabonian","",38,33.9,25678,"gp_mid",-103.77,51.42,"129",35.95,"priabonian",12418,-113.7118,46.0319,13,1
 "50507",75901,"col","Pittsburg Bluff",-123.26,46.02,"Mist, north",NA,"LACM 5602",1,"Priabonian","",38,33.9,25678,"gp_mid",-103.77,51.67,"129",35.95,"priabonian",12419,-113.7118,46.0319,13,1
+"50755",76602,"col","Yaw",94.23,21.67,"Kyaukkwet Chaung (Yaw stage)",NA,"",5,"Late Eocene","",37.2,33.9,25899,"gp_mid",98.49,10.17,"617",35.55,"priabonian",12547,91.84,16.9941,13,1
+"50756",76603,"col","Yaw",94.3,21.28,"Thetkegyin (Yaw stage)",NA,"",3,"Late Eocene","",37.2,33.9,25899,"gp_mid",98.77,9.89,"617",35.55,"priabonian",12548,91.84,16.9941,13,1
 "50921",77046,"col","",-77.25,21.53,"Loma Calixto, Camagüey",NA,"",10,"Late Eocene","",37.2,33.9,26078,"gp_mid",-63.9,23.65,"206",35.55,"priabonian",12597,-71.7367,20.7262,13,1
 "50934",77068,"col","Mandrikovka",34.98,48.45,"Dnipropetrovsk, Mandrikovka Formation",NA,"Reef 3924",20,"Priabonian","",38,33.9,29186,"gp_mid",36.36,41.88,"302",35.95,"priabonian",1089,27.6217,46.8606,13,1
 "50976",77236,"col","Wadi Thamat",17.7,29.74,"Thmed Al Qusur Member, Wadi Thamat Formation",NA,"",5,"Priabonian","",38,33.9,26106,"gp_mid",20.23,20.35,"715",35.95,"priabonian",12619,14.2885,24.9823,13,1
@@ -406,6 +601,7 @@
 "51838",78565,"col","",11.37,45.63,"Priabona",NA,"",174,"Priabonian","",38,33.9,26411,"gp_mid",16.86,37.2,"307",35.95,"priabonian",10456,9.8841,40.3936,13,1
 "51839",78566,"col","Karkar",48.48,8.41,"Garoowe [Karkar Formation]",NA,"",43,"Late Eocene","",37.2,33.9,26411,"gp_mid",46.91,-2.23,"709",35.55,"priabonian",12871,43.592,2.6077,13,1
 "51868",78617,"col","Marna di Possagno",13.37,46.16,"Marna di Possagno Formation",NA,"",105,"Priabonian","",38,33.9,26438,"gp_mid",18.73,37.26,"307",35.95,"priabonian",12878,13.2637,39.8036,13,1
+"52331",79433,"col","Middle Headon Beds",-1.57,50.82,"Brockenhurst",NA,"",3,"Priabonian","",38,33.9,26581,"gp_mid",4,45,"315",35.95,"priabonian",13009,-5.201,47.2387,13,1
 "52428",79676,"col","Birket Qarun",30.72,29.53,"El Kenissa",NA,"",1,"Priabonian","",38,33.9,11950,"gp_mid",32.2,19.19,"715",35.95,"priabonian",13037,25.0298,24.8696,13,1
 "52429",79677,"col","Birket Qarun",30.39,29.47,"Garet el Naqb",NA,"",1,"Priabonian","",38,33.9,11952,"gp_mid",31.89,19.15,"715",35.95,"priabonian",13038,25.0298,24.8696,13,1
 "52430",79678,"col","Birket Qarun",30.63,29.52,"Dimeh SW",NA,"",1,"Priabonian","",38,33.9,26772,"gp_mid",32.12,19.19,"715",35.95,"priabonian",7602,25.0298,24.8696,13,1
@@ -416,6 +612,7 @@
 "52439",79698,"col","Qasr el-Sagha",30.61,29.58,"Gebel Hameier W",NA,"",1,"Priabonian","",38,33.9,11951,"gp_mid",32.1,19.25,"715",35.95,"priabonian",13044,25.0298,24.8696,13,1
 "52440",79699,"col","Qasr el-Sagha",30.79,29.69,"Tamariskenbucht",NA,"",1,"Priabonian","",38,33.9,11951,"gp_mid",32.27,19.35,"715",35.95,"priabonian",13045,25.0298,24.8696,13,1
 "52441",79700,"col","Qasr el-Sagha",30.69,29.62,"Beadnell Section",NA,"",29,"Priabonian","",38,33.9,26772,"gp_mid",32.18,19.28,"715",35.95,"priabonian",13046,25.0298,24.8696,13,1
+"52455",79736,"col","Villarrosano",-1.02,40.53,"Villarrosano 1",NA,"VRS1",4,"MP 19","MP 20",37.2,33.9,26808,"gp_mid",3.93,35.24,"304",35.55,"priabonian",13053,-3.9141,36.9096,13,1
 "52638",80172,"col","Boca de Serpiente",-62.01,10.08,"Bed No. 8, Soldado Rock",NA,"",29,"Priabonian","",38,33.9,26958,"gp_mid",-50.29,9.07,"201",35.95,"priabonian",13121,-57.1288,6.0634,13,1
 "52751",80428,"col","Paracas",-76.14,-14.2,"DV 394-2 [Paracas Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27057,"gp_mid",-66.08,-14.17,"201",35.55,"priabonian",13155,-67.652,-19.2722,13,1
 "52752",80429,"col","Paracas",-76.36,-13.91,"DV 501-2 [Paracas Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27057,"gp_mid",-66.27,-13.87,"201",35.55,"priabonian",13156,-67.652,-19.2722,13,1
@@ -424,7 +621,6 @@
 "52755",80432,"col","Paracas",-75.02,-14.76,"DV 637-7 [Paracas Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27057,"gp_mid",-65,-14.8,"201",35.55,"priabonian",13159,-67.652,-19.2722,13,1
 "52756",80433,"col","Paracas",-76.17,-14.14,"DV 1174-1 [Paracas Fm]",NA,"",2,"Late Eocene","",37.2,33.9,27057,"gp_mid",-66.1,-14.11,"201",35.55,"priabonian",13160,-67.652,-19.2722,13,1
 "52860",80547,"col","Otuma",-76.19,-14.11,"DV 1123-1 [Otuma Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27082,"gp_mid",-66.12,-14.08,"201",35.55,"priabonian",13201,-67.652,-19.2722,13,1
-"53029",80999,"col","Tonosí",-80.36,7.36,"PRI station 3139, Bucaru-Punta Guanico",NA,"",2,"Priabonian","",38,33.9,27247,"gp_mid",-73.48,8.64,"230",35.95,"priabonian",13253,-84.1498,5.6611,13,1
 "53039",81043,"col","Marna di Priabona",11.75,45.5,"Marne a Briozoi, Valle dell'Onte [Marna di Priabona Fm] - Coleoidea",NA,"",28,"Priabonian","",38,33.9,27270,"gp_mid",17.12,36.99,"307",35.95,"priabonian",13259,9.8841,40.3936,13,1
 "53134",81225,"col","Okinoshima",129.55,32.87,"Loc. 133 [Okinoshima Fm]",NA,"",1,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,"priabonian",13286,129.5432,36.7002,13,1
 "53135",81226,"col","Okinoshima",129.55,32.87,"Loc. 134 [Okinoshima Fm]",NA,"",3,"Late Eocene","",37.2,33.9,27378,"gp_mid",126,36.6,"610",35.55,"priabonian",13286,129.5432,36.7002,13,1
@@ -445,12 +641,14 @@
 "56155",85445,"col","",27.37,42.48,"Gorno Ezerovo",NA,"",61,"Priabonian","",38,33.9,34737,"gp_mid",29.11,30.96,"308",35.95,"priabonian",14369,20.9546,41.3652,13,1
 "56283",85732,"col","Ixtaclum Shale",-92.72,17.05,"Simojovel road section B-8199",NA,"",11,"Late Eocene","",37.2,33.9,8422,"gp_mid",-80.29,21.57,"205",35.55,"priabonian",14409,-87.0229,16.9455,13,1
 "56285",85734,"col","Ixtaclum Shale",-92.77,17.02,"Simojovel road section B-8120",NA,"",3,"Late Eocene","",37.2,33.9,8422,"gp_mid",-80.35,21.54,"205",35.55,"priabonian",14410,-87.0229,16.9455,13,1
+"56857",86616,"col","Brockenhurst Beds",-1.57,50.82,"Brockenhurst",NA,"",21,"Priabonian","",38,33.9,15072,"gp_mid",3.99,45,"315",35.95,"priabonian",13009,-5.201,47.2387,13,1
 "56870",86659,"col","Qasr el-Sagha",30.69,29.6,"Klippenecke",NA,"",7,"Priabonian","",38,33.9,26770,"gp_mid",32.17,19.27,"715",35.95,"priabonian",14652,25.0298,24.8696,13,1
 "56883",86682,"col","Kievskaya",33.42,48,"Staro-Dobrovol'skiy Rudnik",NA,"",3,"Late Eocene","",37.2,33.9,29186,"gp_mid",34.98,41.42,"302",35.55,"priabonian",14663,27.6217,46.8606,13,1
 "56907",86750,"col","Kievskaya",34.05,47.67,"Ordzhonikidze",NA,"",2,"Late Eocene","",37.2,33.9,29186,"gp_mid",35.55,41.09,"302",35.55,"priabonian",14680,27.6217,46.8606,13,1
 "57459",87473,"col","Promina",16.15,43.85,"Drnis area",NA,"",12,"Late Eocene","",37.2,33.9,29455,"gp_mid",20.18,34.47,"307",35.55,"priabonian",14882,13.2637,39.8036,13,1
 "57818",87886,"col","",176.89,-39.51,"Hawkes Bay",NA,"",2,"Priabonian","",38,33.9,29544,"gp_mid",-166.83,-45.22,"806",35.95,"priabonian",14964,-169.4001,-49.7868,13,1
 "57935",88071,"col","Oamaru Diatomite",170.89,-45.08,"Cormacks",NA,"Taylor's Quarry; GS 9539",3,"Runangan","",36,34.3,29590,"gp_mid",-163.22,-46.6,"807",35.15,"priabonian",15015,-171.6269,-53.413,13,1
+"58210",88358,"col","Krabi Basin B2",99.06,7.97,"Bang Mark pit (small lignite bed)",NA,"Krabi Mine",2,"Late Eocene","",37.2,33.9,57783,"gp_mid",106.91,3.35,"616",35.55,"priabonian",7410,98.1268,10.8941,13,1
 "58767",89007,"col","",171.22,-42.38,"S44/736, GS 4872 Port Elizabeth Beach",NA,"",5,"Kaiatan","",37.2,36,29819,"gp_mid",-169.87,-49.85,"806",36.6,"priabonian",15276,-171.0881,-50.935,13,1
 "58796",89038,"col","Kaiata Siltstone",171.25,-42.38,"S44 Dunollie",NA,"",1,"Kaiatan","",37.2,36,29819,"gp_mid",-169.84,-49.84,"806",36.6,"priabonian",15281,-171.0881,-50.935,13,1
 "58822",89074,"col","Oamaru",170.98,-45.08,"GS 495, S127 Cave Valley, Oamaru",NA,"",3,"Runangan","",36,34.3,29819,"gp_mid",-163.13,-46.6,"807",35.15,"priabonian",15291,-171.6269,-53.413,13,1
@@ -500,7 +698,7 @@
 "61303",92778,"col","Los Hidalgos",-71.03,19.73,"TU 1424 - Los Hidalgos [Los Hidalgos Fm]",NA,"",1,"Late Eocene","",37.2,33.9,31182,"gp_mid",-63.86,20.88,"252",35.55,"priabonian",16166,-67.5291,17.7233,13,1
 "61308",92784,"col","Crystal River Limestone",-82.14,29.19,"Richard's Quarry, Ocala",NA,"",2,"Late Eocene","",37.2,33.9,31304,"gp_mid",-67.32,31.96,"109",35.55,"priabonian",16052,-74.7071,28.4888,13,1
 "61309",92785,"col","Crystal River Limestone",-82.19,29.29,"Martin Station [Crystal River Limestone]",NA,"",8,"Late Eocene","",37.2,33.9,31304,"gp_mid",-67.34,32.06,"109",35.55,"priabonian",16167,-74.7071,28.4888,13,1
-"64215",96450,"col","Tonosí",-80.33,7.58,"Tonsosí area [Tonosí Fm]",NA,"",1,"Late Eocene","",37.2,33.9,13235,"gp_mid",-73.41,8.86,"230",35.55,"priabonian",17034,-84.1498,5.6611,13,1
+"64749",97218,"col","",144.18,-38.42,"ALCOA Anglesea Coal Mine",NA,"",1,"Late Eocene","",37.2,33.9,33159,"gp_mid",156.2,-55.26,"801",35.55,"priabonian",17172,139.5539,-56.1484,13,1
 "65593",98346,"col","Otuma",-76.27,-13.87,"southeast of Playa Yumaque",NA,"Paracas Reserve",15,"Priabonian","",38,33.9,33980,"gp_mid",-66.19,-13.83,"201",35.95,"priabonian",17479,-67.652,-19.2722,13,1
 "65856",98629,"col","Barnwell",-81.9,33.15,"M 886",NA,"",2,"Late Eocene","",37.2,33.9,11845,"gp_mid",-66.2,35.81,"109",35.55,"priabonian",15721,-74.4436,30.9783,13,1
 "65876",98650,"col","Ocala Limestone",-84.16,31.58,"PRI 1178",NA,"",2,"Priabonian","",38,33.9,11845,"gp_mid",-68.85,34.62,"109",35.95,"priabonian",17589,-74.4436,30.9783,13,1
@@ -628,6 +826,7 @@
 "69805",103963,"col","",26.23,42.75,"Vuglen",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",28.24,31.43,"308",35.95,"priabonian",19228,20.9546,41.3652,13,1
 "69806",103964,"col","",26.42,42.62,"Khadzhi Dimitur",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",28.36,31.27,"308",35.95,"priabonian",19229,20.9546,41.3652,13,1
 "69858",104017,"col","",25.47,41.72,"Gorna Krepost",NA,"",1,"Priabonian","",38,33.9,34737,"gp_mid",27.3,30.57,"308",35.95,"priabonian",19254,20.9546,41.3652,13,1
+"72711",108261,"col","Chegan",56.8,46.6,"North Precipice, Ustjurt Plateau",NA,"",1,"Priabonian","",38,33.9,35921,"gp_mid",56.04,40.7,"402",35.95,"priabonian",20348,50.068,48.4609,13,1
 "72712",108262,"col","Chegan",60.5,46.95,"North coast of the Aral Sea",NA,"",1,"Priabonian","",38,33.9,35921,"gp_mid",59.35,41.24,"402",35.95,"priabonian",20349,53.8779,48.7222,13,1
 "72746",207956,"col","",26.89,51.31,"Rovno amber (ISEA Novosibirsk collection)",NA,"",1,"Priabonian","",38,33.9,71836,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
 "73393",109049,"col","Birket Qarun",30.03,29.28,"Sandouk el-Borneta, Site 2",NA,"",1,"Priabonian","",38,33.9,35612,"gp_mid",31.55,18.99,"715",35.95,"priabonian",20522,25.0298,24.8696,13,1
@@ -636,6 +835,7 @@
 "75649",111543,"col","Troy Limestone",-77.13,18.32,"Claremont [Troy Limestone]",NA,"",22,"Late Eocene","",37.2,33.9,36512,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",16165,-81.8167,12.2253,13,1
 "76152",112290,"col","Yumaque",-75.91,-14.6,"Playa Media Luna, Priabonian",NA,"",1,"Priabonian","",38,33.9,36625,"gp_mid",-65.88,-14.59,"201",35.95,"priabonian",21311,-67.652,-19.2722,13,1
 "76890",113118,"col","Adaev",52.81,44.11,"Monata",NA,"",13,"Priabonian","",38,33.9,36745,"gp_mid",52.63,38.03,"402",35.95,"priabonian",21514,46.6543,45.7094,13,1
+"77455",113829,"col","Bembridge Marls",-1.34,50.75,"North end of Thorness Bay, Bembridge Marls (BMNH collection)",NA,"",19,"Priabonian","",38,33.9,51852,"gp_mid",4.19,44.93,"315",35.95,"priabonian",21750,-5.201,47.2387,13,1
 "83137",120887,"col","La Meseta",-56.67,-64.24,"RV-8405",NA,"",2,"Late Eocene","",37.2,33.9,38605,"gp_mid",-66.27,-62.82,"803",35.55,"priabonian",23178,-58.2685,-66.2278,13,1
 "83676",121513,"col","",137.89,-34.57,"Sliding Rocks",NA,"",1,"Late Eocene","",37.2,33.9,38743,"gp_mid",145.91,-53.2,"801",35.55,"priabonian",23373,133.7692,-54.0393,13,1
 "84374",122437,"col","",143.38,-38.77,"Browns Creek",NA,"",10,"Late Eocene","",37.2,33.9,38987,"gp_mid",155.38,-55.81,"801",35.55,"priabonian",23581,140.251,-58.6201,13,1
@@ -657,6 +857,10 @@
 "85447",123904,"col","",20.5,47.97,"Bükkzserc",NA,"",26,"Late Eocene","",37.2,33.9,39839,"gp_mid",25.24,37.53,"308",35.55,"priabonian",23968,12.4469,43.5062,13,1
 "85448",123905,"col","",20.83,48.42,"Kiralykut",NA,"",4,"Late Eocene","",37.2,33.9,39839,"gp_mid",25.67,37.9,"308",35.55,"priabonian",23969,15.8951,43.9657,13,1
 "85450",152872,"col","La Meseta",-56.68,-64.24,"ZPAL 10, Sergio Point, Telm7",NA,"",3,"Priabonian","",38,33.9,49261,"gp_mid",-66.28,-62.81,"803",35.95,"priabonian",21082,-58.2685,-66.2278,13,1
+"85491",123959,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (Brodie coll)",NA,"",268,"Priabonian","",38,33.9,37729,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
+"85492",157666,"col","Bouldnor",-1.36,50.74,"Thorness Bay, Bembridge Marls (MNEMG coll)",NA,"",16,"Priabonian","",38,33.9,51854,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
+"85493",123960,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (Hooley coll)",NA,"",213,"Priabonian","",38,33.9,39932,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
+"85494",123961,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (Jarzembowski coll)",NA,"",3,"Priabonian","",38,33.9,5087,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
 "85706",124272,"col","",26.89,51.31,"Rovno amber (AWC coll)",NA,"",2,"Priabonian","",38,33.9,44618,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
 "85708",124274,"col","",14.02,54.06,"Isle of Usedom, Baltic Amber",NA,"",14,"Priabonian","",38,33.9,40047,"gp_mid",18.01,47.63,"315",35.95,"priabonian",24023,8.2523,53.0697,13,1
 "85841",124431,"col","",12.93,47.7,"Halthurm",NA,"",5,"Late Eocene","",37.2,33.9,40158,"gp_mid",18.98,38.81,"307",35.55,"priabonian",24071,5.613,42.6407,13,1
@@ -689,10 +893,13 @@
 "86331",125028,"col","Birket Qarun",30.03,29.27,"Wadi Hitan ZV-179",NA,"",1,"Priabonian","",38,33.9,10457,"gp_mid",31.54,18.98,"715",35.95,"priabonian",24206,25.0298,24.8696,13,1
 "87132",126151,"col","La Meseta",-56.68,-64.26,"SA-DB-1",NA,"",1,"Late Eocene","",37.2,33.9,40984,"gp_mid",-66.3,-62.83,"803",35.55,"priabonian",24439,-58.2685,-66.2278,13,1
 "87866",127165,"col","",11.53,45.53,"Fontanella of Grancona",NA,"",1,"Late Eocene","",37.2,33.9,41330,"gp_mid",16.95,37.07,"307",35.55,"priabonian",24541,9.8841,40.3936,13,1
+"88203",127743,"col","Bembridge Marls",-1.36,50.74,"Thorness Bay, Bembridge Marls, Isle of Wight (IWCMS coll)",NA,"",14,"Priabonian","",38,33.9,9429,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
 "88675",128432,"col","Buda Marl",19.02,47.53,"Mátyás-hegy quarry, Budapest",NA,"",1,"Priabonian","",38,33.9,41949,"gp_mid",23.88,37.41,"308",35.95,"priabonian",24791,12.4469,43.5062,13,1
 "88679",128437,"col","Padrag Marl",17.44,47.1,"Devecser 4 borehole",NA,"",2,"Priabonian","",38,33.9,41949,"gp_mid",22.43,37.31,"308",35.95,"priabonian",24794,12.4469,43.5062,13,1
 "88680",128440,"col","Padrag Marl",18,47.32,"Csetény 61 borehole, 272 m",NA,"",1,"Priabonian","",38,33.9,41949,"gp_mid",22.97,37.4,"308",35.95,"priabonian",24795,12.4469,43.5062,13,1
 "89234",129229,"col","",26.89,51.31,"Rovno Amber (RMRS collection)",NA,"",1,"Priabonian","",38,33.9,42084,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
+"89382",129546,"col","Bouldnor",-1.35,50.74,"Bembridge marls, east end of Thorness Bay",NA,"",1,"Priabonian","",38,33.9,5011,"gp_mid",4.18,44.92,"315",35.95,"priabonian",24936,-5.201,47.2387,13,1
+"89939",130390,"col","Fayette sandstone",-96.34,30.49,"Mossy Creek SW of Wellborn",NA,"",2,"Late Eocene","",37.2,33.9,42241,"gp_mid",-81.63,35.36,"101",35.55,"priabonian",25068,-89.508,29.7042,13,1
 "90866",131483,"col","Santa Rita",-69.83,11,"NMB Loc. 13372 - Cerro Cometa [Santa Rita Fm]",NA,"K 01222",0,"Late Eocene","",37.2,33.9,42438,"gp_mid",-58.01,10.53,"203",35.55,"priabonian",25228,-65.7598,4.8771,13,1
 "90867",131484,"col","Santa Rita",-69.94,11.87,"NMB Loc. 13373 - La Enea-Baragua [Santa Rita Fm]",NA,"S. 1235",0,"Late Eocene","",37.2,33.9,42438,"gp_mid",-58.06,11.41,"203",35.55,"priabonian",25229,-67.2897,7.4106,13,1
 "90868",131485,"col","Santa Rita",-69.53,10.18,"NMB Loc. 13374 - La Enea-Baragua [Santa Rita Fm]",NA,"S. 1246",0,"Late Eocene","",37.2,33.9,42438,"gp_mid",-57.77,9.69,"201",35.55,"priabonian",25230,-65.7598,4.8771,13,1
@@ -709,7 +916,6 @@
 "94252",135784,"col","",-119.05,34.27,"Lower CA, Arroyo Colorado",NA,"",2,"Late Eocene","",37.2,33.9,43443,"gp_mid",-101.86,38.5,"105",35.55,"priabonian",26300,-108.6368,32.8592,13,1
 "94422",135997,"col","Keasey",-123.29,45.68,"Beaver Creek Rd.",NA,"",1,"Priabonian","",38,33.9,43499,"gp_mid",-103.85,51.32,"129",35.95,"priabonian",26350,-113.7118,46.0319,13,1
 "94423",135998,"col","Keasey",-123.52,45,"E. side of Mill Creek, Polk Co.",NA,"",1,"Priabonian","",38,33.9,43499,"gp_mid",-104.19,50.66,"129",35.95,"priabonian",26351,-113.7118,46.0319,13,1
-"94508",136137,"col","",-80.37,7.59,"on coast near Quebrada Marinero, Province of Los Santos",NA,"",1,"Late Eocene","",37.2,33.9,43522,"gp_mid",-73.44,8.87,"230",35.55,"priabonian",26373,-84.1498,5.6611,13,1
 "95574",137542,"col","Gehannam",30.14,29.32,"Underwood 7",NA,"",0,"Priabonian","",38,33.9,43835,"gp_mid",31.65,19.02,"715",35.95,"priabonian",26695,25.0298,24.8696,13,1
 "95575",137543,"col","Gehannam",30.06,29.31,"Underwood 8",NA,"",0,"Priabonian","",38,33.9,43835,"gp_mid",31.58,19.01,"715",35.95,"priabonian",1570,25.0298,24.8696,13,1
 "95576",137545,"col","Gehannam",30.17,29.32,"Underwood 10",NA,"",0,"Priabonian","",38,33.9,43835,"gp_mid",31.68,19.01,"715",35.95,"priabonian",26696,25.0298,24.8696,13,1
@@ -751,6 +957,7 @@
 "95621",137588,"col","Qasr el-Sagha",29.99,29.3,"Underwood 45",NA,"",21,"Priabonian","",38,33.9,43835,"gp_mid",31.51,19,"715",35.95,"priabonian",26708,25.0298,24.8696,13,1
 "96108",138115,"col","Calcareniti di Castelgomberto",11.58,45.45,"Lumignano, Vicenza, Calcareniti di Castelgomberto",NA,"",10,"Priabonian","",38,33.9,44169,"gp_mid",16.96,36.98,"307",35.95,"priabonian",26852,9.8841,40.3936,13,1
 "96623",138667,"col","Ocala",-84.16,31.58,"Albany",NA,"",1,"Priabonian","",38,33.9,44423,"gp_mid",-68.85,34.62,"109",35.95,"priabonian",17589,-74.4436,30.9783,13,1
+"96826",138883,"col","",13.8,50.53,"Kutschlin near Bilin",NA,"Kulín",12,"Late Eocene","",37.2,33.9,44564,"gp_mid",17.61,44.12,"305",35.55,"priabonian",27006,9.0563,48.0957,13,1
 "96961",139021,"col","",-122.93,46.41,"Southwestern part, at the type-locality of the Cowlitz Fm",NA,"""the Big Bend""",1,"Late Eocene","",37.2,33.9,44425,"gp_mid",-103.34,52.03,"129",35.55,"priabonian",27058,-113.1485,48.5026,13,1
 "97766",139853,"col","",-122.95,46.38,"Railroad bluff about 1 1/2 mi S of Vader, Lewis Co.",NA,"about 700 ft below railroad post No. 79",3,"Late Eocene","",37.2,33.9,44425,"gp_mid",-103.37,52,"129",35.55,"priabonian",27215,-113.1485,48.5026,13,1
 "97823",139931,"col","",13.15,54.54,"Baltic Amber (Museum Ludwig Salvator)",NA,"",2,"Priabonian","",38,33.9,45124,"gp_mid",17.29,48.14,"315",35.95,"priabonian",27230,8.2523,53.0697,13,1
@@ -789,10 +996,12 @@
 "98006",140118,"col","Birket Qarun",30.06,29.3,"WH-145",NA,"",1,"Priabonian","",38,33.9,45230,"gp_mid",31.57,19.01,"715",35.95,"priabonian",24208,25.0298,24.8696,13,1
 "98041",140186,"col","",-122.92,46.32,"Rock bluff in Northern Pacific Railway cut, 7850 feet S of milepost 76",NA,"and 3/4 of a mile N of Olequa Railway Station",1,"Late Eocene","",37.2,33.9,44425,"gp_mid",-103.34,51.94,"129",35.55,"priabonian",27295,-113.1485,48.5026,13,1
 "99379",141892,"col","",-60.63,43.85,"CP1  P-51 well (475-480m)",NA,"",3,"Late Eocene","",37.2,33.9,46092,"gp_mid",-42.31,42.87,"108",35.55,"priabonian",27460,-51.3524,41.8438,13,1
+"100231",142965,"col","Jackson",-77.94,34.23,"City quarry near cemetery, Wilmington",NA,"",6,"Late Eocene","",37.2,33.9,45555,"gp_mid",-61.95,36.24,"109",35.55,"priabonian",27594,-70.506,33.1783,13,1
 "100232",142966,"col","Jackson",-80.63,33.6,"Belle Broughton plantation, 1/2 mi SE of Creston, on branch of Halfway Swamp",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-64.81,36.05,"109",35.55,"priabonian",27595,-74.4436,30.9783,13,1
 "100237",142971,"col","",-82.3,29.66,"Alachua County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.38,32.44,"109",35.55,"priabonian",27597,-74.7071,28.4888,13,1
 "100238",142972,"col","",-82.82,29.32,"Levy County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.98,32.19,"109",35.55,"priabonian",27598,-74.7071,28.4888,13,1
 "100239",142973,"col","",-82.13,29.28,"Marion County",NA,"",1,"Late Eocene","",37.2,33.9,45555,"gp_mid",-67.28,32.04,"109",35.55,"priabonian",27599,-74.7071,28.4888,13,1
+"100251",142985,"col","Cook Mountain",-96.54,30.63,"NE of Moseley's Ferry, northwestern Brazos County",NA,"Moseley's Ferry",2,"Late Eocene","",37.2,33.9,45555,"gp_mid",-81.81,35.52,"101",35.55,"priabonian",27600,-89.508,29.7042,13,1
 "101590",144541,"col","",11.55,45.38,"Colle La Favorita. Lonigo",NA,"",1,"Late Eocene","",37.2,33.9,46758,"gp_mid",16.91,36.92,"307",35.55,"priabonian",27770,9.8841,40.3936,13,1
 "101591",144542,"col","",11.55,45.38,"Monticello di Fara",NA,"",1,"Late Eocene","",37.2,33.9,46758,"gp_mid",16.91,36.92,"307",35.55,"priabonian",27770,9.8841,40.3936,13,1
 "102294",145984,"col","Qasr El Sagha",29.14,28.82,"Km55",NA,"",15,"Priabonian","",38,33.9,47185,"gp_mid",30.69,18.57,"715",35.95,"priabonian",27944,25.0298,24.8696,13,1
@@ -865,7 +1074,9 @@
 "108307",153587,"col","",26.89,51.31,"Rovno Amber, Klesov locality (Damzen collection)",NA,"",1,"Priabonian","",38,33.9,49627,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
 "108428",153755,"col","",30.46,29.46,"Garet Umm Rigl, Gehannam Formation",NA,"",1,"Priabonian","",38,33.9,6026,"gp_mid",31.95,19.14,"715",35.95,"priabonian",29099,25.0298,24.8696,13,1
 "108535",153882,"col","",26.56,51.56,"Rovno Amber, unspecified locality (SIZC collection)",NA,"",4,"Priabonian","",38,33.9,49863,"gp_mid",28.89,44.96,"302",35.95,"priabonian",23648,19.483,51.314,13,1
+"108889",154304,"col","Borove",20.47,48.95,"Durkovec Quarry",NA,"",0,"Priabonian","",38,33.9,50030,"gp_mid",25.58,38.48,"308",35.95,"priabonian",29214,12.6561,48.3329,13,1
 "109231",154710,"col","",26.15,51.35,"Rovno Amber, Zhovkini locality (SIZC ZH collection)",NA,"",1,"Priabonian","",38,33.9,50304,"gp_mid",28.52,44.76,"302",35.95,"priabonian",29266,19.483,51.314,13,1
+"109242",154725,"col","Headon Hill",-1.54,50.67,"Hatherwood Point, Headon Hill Locality",NA,"",1,"Late Eocene","",37.2,33.9,50285,"gp_mid",4,44.86,"315",35.55,"priabonian",29271,-5.201,47.2387,13,1
 "109973",155830,"col","Kaiata Mudstone",171.91,-41.63,"L28/f8499 - Burma Road [Kaiata Mudstone]",NA,"S24/f0499",1,"Kaiatan","Runangan",37.2,34.3,50994,"gp_mid",-170.18,-48.91,"806",35.75,"priabonian",29416,-171.0881,-50.935,13,1
 "109974",155831,"col","Kaiata Mudstone",171.35,-42.08,"K30/f8619 - Perpendicular Point [Kaiata Mudstone]",NA,"S37/f0619",2,"Kaiatan","Runangan",37.2,34.3,50994,"gp_mid",-170.39,-49.51,"806",35.75,"priabonian",29417,-171.0881,-50.935,13,1
 "109975",155832,"col","Kaiata Mudstone",171.35,-42.08,"K30/f8732 - Perpendicular Point [Kaiata Mudstone]",NA,"S37/f0732",1,"Kaiatan","Runangan",37.2,34.3,50994,"gp_mid",-170.39,-49.51,"806",35.75,"priabonian",29417,-171.0881,-50.935,13,1
@@ -882,7 +1093,12 @@
 "110016",155876,"col","",-78.63,22.12,"Loma ""Los Constantinos"", Marroquin, Moron",NA,"",1,"Late Eocene","",37.2,33.9,51005,"gp_mid",-65.18,24.44,"206",35.55,"priabonian",29425,-71.7367,20.7262,13,1
 "110017",155877,"col","",-83.35,22.62,"Finca ""La Caoba"", loma Caoba, San Diego de los Banos",NA,"",2,"Late Eocene","",37.2,33.9,51005,"gp_mid",-69.83,25.67,"206",35.55,"priabonian",29429,-75.4314,21.0176,13,1
 "110248",156242,"col","Prang Limestone",91.6,25.2,"Nongtrai village, borehole BH-1",NA,"",5,"Priabonian","",38,33.9,51174,"gp_mid",90.21,4.54,"501",35.95,"priabonian",29479,81.3243,11.0564,13,1
+"110395",156628,"col","Bembridge Marls",-1.36,50.74,"Thorness Bay, Bembridge Marls, Isle of Wight (BMB coll)",NA,"",16,"Priabonian","",38,33.9,51361,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
+"111010",157667,"col","Bouldnor",-1.36,50.74,"Thorness Bay, Bembridge Marls (Portsmouth coll)",NA,"",1,"Priabonian","",38,33.9,51854,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
+"111011",157670,"col","Bembridge Marls",-1.38,50.73,"Burnt Wood, Bembridge Marls (BMNH collection)",NA,"",1,"Priabonian","",38,33.9,51861,"gp_mid",4.16,44.91,"315",35.95,"priabonian",29665,-5.201,47.2387,13,1
+"111012",157669,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (CAMSM collection)",NA,"",9,"Priabonian","",38,33.9,51852,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
 "112468",159895,"col","Tortachilla Limestone",138.48,-35.23,"Tortachilla Limestone (basal grit)",NA,"",6,"Late Eocene","",37.2,33.9,52184,"gp_mid",147,-53.69,"801",35.55,"priabonian",30161,133.7692,-54.0393,13,1
+"112492",159941,"col","New Bern",-77.21,35.01,"Sample J-5 - Pollocksville [New Bern Fm]",NA,"",1,"Priabonian","",38,33.9,52211,"gp_mid",-61.02,36.9,"109",35.95,"priabonian",30172,-70.506,33.1783,13,1
 "112600",160118,"col","Williston Limestone",-82.48,29.67,"Abandoned limerock quarry, FL Highway 26 [Williston Limestone]",NA,"",1,"Priabonian","",38,33.9,52258,"gp_mid",-67.56,32.48,"109",35.95,"priabonian",30220,-74.7071,28.4888,13,1
 "112829",160396,"col","Dry Branch",-81.7,33.12,"CM Loc. S-228 - Griffins Landing [Griffins Landing Mbr, Dry Branch Fm]",NA,"",1,"Late Eocene","",37.2,33.9,52308,"gp_mid",-66.01,35.75,"109",35.55,"priabonian",30320,-74.4436,30.9783,13,1
 "112830",160397,"col","Dry Branch",-81.7,33.12,"UNCW Loc. Z-622 - Griffins Landing [Griffins Landing Mbr, Dry Branch Fm]",NA,"",15,"Late Eocene","",37.2,33.9,52308,"gp_mid",-66.01,35.75,"109",35.55,"priabonian",30320,-74.4436,30.9783,13,1
@@ -900,13 +1116,16 @@
 "115444",164491,"col","Gehannam",30.17,29.32,"WH-203",NA,"",1,"Priabonian","",38,33.9,53691,"gp_mid",31.68,19.01,"715",35.95,"priabonian",26696,25.0298,24.8696,13,1
 "115676",164963,"col","",-82.38,23.12,"Palmer Loc. 942, Havana",NA,"",2,"Late Eocene","",37.2,33.9,43304,"gp_mid",-68.76,26.01,"206",35.55,"priabonian",30940,-75.4314,21.0176,13,1
 "116697",166457,"col","Quimper",-122.74,48.03,"NP 125, Classens Wharf",NA,"",1,"Priabonian","",38,33.9,54367,"gp_mid",-102.89,53.63,"129",35.95,"priabonian",31259,-113.1485,48.5026,13,1
+"116870",166777,"col","",144.18,-38.42,"ALCOA Anglesea open cut coal mine",NA,"",1,"Late Eocene","",37.2,33.9,54479,"gp_mid",156.2,-55.26,"801",35.55,"priabonian",17172,139.5539,-56.1484,13,1
+"116881",166824,"col","Demons Bluff",144.14,-38.4,"ALCOA Anglesea power station - Site I Ebenaceae lens",NA,"",17,"Late Eocene","",37.2,33.9,54494,"gp_mid",156.13,-55.26,"801",35.55,"priabonian",31314,139.5539,-56.1484,13,1
+"116882",166825,"col","Demon Bluff",144.18,-38.42,"ALCOA Anglesea Site II coal mine",167130,"",10,"Late Eocene","",37.2,33.9,54495,"gp_mid",156.2,-55.26,"801",35.55,"priabonian",17172,139.5539,-56.1484,13,1
+"116903",166980,"col","",144.18,-38.42,"Alcoa Anglesea locality, Site II Lens B",NA,"",28,"Late Eocene","",37.2,33.9,54542,"gp_mid",156.2,-55.26,"801",35.55,"priabonian",17172,139.5539,-56.1484,13,1
+"116998",167130,"col","",144.18,-38.42,"Alcoa Anglesea locality, Site II , Lens A",166980,"",58,"Late Eocene","",37.2,33.9,54383,"gp_mid",156.2,-55.26,"801",35.55,"priabonian",17172,139.5539,-56.1484,13,1
 "117272",167461,"col","Hoko River",-124.66,48.38,"LACMIP 6938, Kydikabbit Point",NA,"UWBM B3306, RB33",9,"Priabonian","",38,33.9,54641,"gp_mid",-105,54.1,"129",35.95,"priabonian",31480,-113.1485,48.5026,13,1
 "117473",167791,"col","Sant Martí Xic",2.22,42,"Can Beuloví ",NA,"",1,"Priabonian","",38,33.9,54818,"gp_mid",6.98,36.63,"304",35.95,"priabonian",31523,-0.4225,39.4921,13,1
 "117786",168385,"col","Poronai",141.99,43.14,"Suidonosawa, between Manji and Manji coal mine",NA,"",1,"Priabonian","",38,33.9,69738,"gp_mid",136.17,48.66,"610",35.95,"priabonian",31579,139.7621,48.1142,13,1
 "117972",169032,"col","",-123.78,48.13,"mouth of Whiskey Creek",NA,"",30,"Late Eocene","",37.2,33.9,55218,"gp_mid",-104.05,53.8,"129",35.55,"priabonian",31616,-113.1485,48.5026,13,1
 "117977",169048,"col","",-123.78,48.13,"mouth of Whiskey Creek, Bedrock, ",NA,"",17,"Late Eocene","",37.2,33.9,55218,"gp_mid",-104.05,53.8,"129",35.55,"priabonian",31616,-113.1485,48.5026,13,1
-"118115",169207,"col","",-80.37,7.35,"Bucaro, Tonosi River",NA,"",1,"Late Eocene","",37.2,33.9,27587,"gp_mid",-73.49,8.63,"230",35.55,"priabonian",31632,-84.1498,5.6611,13,1
-"118116",169208,"col","",-80.37,7.36,"Tonosi River",NA,"",1,"Late Eocene","",37.2,33.9,27587,"gp_mid",-73.48,8.64,"230",35.55,"priabonian",31633,-84.1498,5.6611,13,1
 "118964",170205,"col","",29.19,50.88,"Rovno Amber, Gulyanka locality (SIZC Gu collection)",NA,"",2,"Priabonian","",38,33.9,55537,"gp_mid",31.2,44.27,"302",35.95,"priabonian",31722,23.5545,49.0853,13,1
 "119435",170994,"col","Port Willunga",138.47,-35.15,"Onkaparinga Trig., Port Willunga Fm",NA,"",1,"Priabonian","",38,33.9,55650,"gp_mid",146.94,-53.62,"801",35.95,"priabonian",31798,133.7692,-54.0393,13,1
 "119436",170995,"col","",25.75,41.45,"Perunika Village",NA,"",18,"Priabonian","",38,33.9,55651,"gp_mid",27.46,30.26,"308",35.95,"priabonian",31799,20.9546,41.3652,13,1
@@ -925,9 +1144,12 @@
 "121969",175726,"col","Birket Qarun",30.06,29.31,"Wadi Hitan ZV-74",NA,"WH-74",2,"Priabonian","",38,33.9,45230,"gp_mid",31.57,19.01,"715",35.95,"priabonian",1570,25.0298,24.8696,13,1
 "122128",175910,"col","Qasr el-Sagha",30.67,29.6,"Qasr el-Sagha Loc.",NA,"Twenty feet above the base of the deltaic sandstone facies of the Qasr el-Sagha Formation ",4,"Priabonian","",38,33.9,57656,"gp_mid",32.15,19.27,"715",35.95,"priabonian",10103,25.0298,24.8696,13,1
 "122351",176275,"col","Pallinup Siltstone",116.77,-34.76,"PL 3171 - 23.5 km north of Highway l, north of Walpole.",NA,"",4,"Priabonian","",38,33.9,57935,"gp_mid",116.09,-56.43,"801",35.95,"priabonian",32405,102.2543,-53.8669,13,1
+"122396",176320,"col","",99.06,7.97,"Wai Lek (C1)",NA,"Krabi Basin; Ban Wai lek",1,"Late Eocene","",37.2,33.9,28021,"gp_mid",106.91,3.35,"616",35.55,"priabonian",7410,98.1268,10.8941,13,1
 "122729",176736,"col","Waiareka Volcanic",170.9,-45.18,"south side of Bridge Point, south of Kakanui, South Otago",NA,"",2,"Runangan","",36,34.3,58301,"gp_mid",-163.22,-46.7,"807",35.15,"priabonian",32517,-171.6269,-53.413,13,1
 "122763",176781,"col","Port Willunga",138.46,-35.25,"Aldinga Cliffs",NA,"",1,"Priabonian","",38,33.9,58320,"gp_mid",146.98,-53.72,"801",35.95,"priabonian",18032,133.7692,-54.0393,13,1
 "122823",176842,"col","Pahi Greensand",174.3,-36.2,"Q08/f268, Pahi turtle",NA,"",1,"Priabonian","",38,33.9,58365,"gp_mid",-171.51,-43.24,"806",35.95,"priabonian",32552,-173.4352,-44.6538,13,1
+"123286",177548,"col","Bouldnor",-1.5,50.7,"Yarmouth",NA,"",1,"Priabonian","",38,33.9,58591,"gp_mid",4.05,44.89,"315",35.95,"priabonian",4865,-5.201,47.2387,13,1
+"124362",179132,"col","",7.72,46.67,"South of Lake Thun",NA,"",2,"Late Eocene","",37.2,33.9,59283,"gp_mid",11.93,40.45,"305",35.55,"priabonian",32961,2.2168,45.1567,13,1
 "124516",179326,"col","Waihoo Greensands",170.95,-44.82,"McCullough's Bridge",NA,"",1,"Kaiatan","",37.2,36,59301,"gp_mid",-161.79,-46.36,"807",36.6,"priabonian",33000,-171.6269,-53.413,13,1
 "124603",179418,"col","Submeseta",-56.61,-64.23,"IAA 3/12",NA,"",1,"Priabonian","",38,33.9,59413,"gp_mid",-66.22,-62.81,"803",35.95,"priabonian",33009,-58.2685,-66.2278,13,1
 "124804",179763,"col","Mandrikovka",34.98,48.45,"Mandrikovka, Dnipropetrovsk",NA,"",2,"Priabonian","",38,33.9,59623,"gp_mid",36.36,41.88,"302",35.95,"priabonian",1089,27.6217,46.8606,13,1
@@ -940,6 +1162,7 @@
 "125144",180417,"col","Quimper",-122.74,48.03,"UCMP A3702, east of Port Hadlock",NA,"",14,"Priabonian","",38,33.9,59868,"gp_mid",-102.88,53.64,"129",35.95,"priabonian",31259,-113.1485,48.5026,13,1
 "125194",180467,"col","Otuma",-75.93,-14.45,"Bajada del Diablo, B8344",NA,"",1,"Priabonian","",38,33.9,59889,"gp_mid",-65.89,-14.43,"201",35.95,"priabonian",18056,-67.652,-19.2722,13,1
 "125730",181253,"col","",-82.42,33.05,"USNM 244447",NA,"",1,"Priabonian","",38,33.9,60251,"gp_mid",-66.75,35.79,"109",35.95,"priabonian",33333,-74.4436,30.9783,13,1
+"125749",181272,"col","Headon Beds",-1.59,50.72,"Hordle Cliff (generic, non-specific locality)",NA,"Hordwell",6,"Late Eocene","",37.2,33.9,60271,"gp_mid",3.96,44.91,"315",35.55,"priabonian",2875,-5.201,47.2387,13,1
 "125900",181545,"col","Qasr el Sagha",30.53,29.53,"DPC L-66",NA,"",2,"Priabonian","",38,33.9,60370,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
 "125901",181546,"col","Qasr el Sagha",30.53,29.53,"1/2 mile east of Qasr el Sagha Temple",NA,"",1,"Priabonian","",38,33.9,60370,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
 "125902",181547,"col","Qasr el Sagha",30.53,29.53,"DPC L-37",NA,"",1,"Priabonian","",38,33.9,60370,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
@@ -953,11 +1176,28 @@
 "125910",181555,"col","Qasr el Sagha",30.53,29.53,"1.5 mi west of Moeritherium skeleton",NA,"",1,"Priabonian","",38,33.9,60370,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
 "125911",181556,"col","Qasr el Sagha",30.53,29.53,"UCMP V4754",NA,"",1,"Priabonian","",38,33.9,60370,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
 "125912",181557,"col","Birket Qarun",30.5,29.5,"DPC L-67",NA,"",1,"Priabonian","",38,33.9,60370,"gp_mid",31.99,19.18,"715",35.95,"priabonian",33355,25.0298,24.8696,13,1
+"126361",182229,"col","",-1,40.87,"Fuenferrada 3B",NA,"",5,"MP 20","",37.2,33.9,60612,"gp_mid",3.96,35.58,"304",35.55,"priabonian",33454,-3.9141,36.9096,13,1
+"126369",182353,"col","Villarrosano",-1.02,40.53,"Villarrosano 12",NA,"VRS12",2,"MP 19","MP 20",37.2,33.9,26808,"gp_mid",3.93,35.24,"304",35.55,"priabonian",13053,-3.9141,36.9096,13,1
 "126391",182498,"col","Cemalettin",34.79,41.53,"BOY-1, Boyabat",NA,"",1,"Priabonian","",38,33.9,60699,"gp_mid",36.33,34.96,"511",35.95,"priabonian",33462,28.319,41.8854,13,1
+"126640",182807,"col","",7.37,47.27,"Moutier",NA,"",4,"Late Eocene","",37.2,33.9,60954,"gp_mid",11.66,41.07,"305",35.55,"priabonian",33521,2.2168,45.1567,13,1
 "126762",183071,"col","Yoshinotani",129.88,33.27,"Tatsukawa Colliery (Imari Coalfield)",NA,"Imari City, Saga",2,"Late Eocene","",37.2,33.9,61077,"gp_mid",126.24,37.04,"610",35.55,"priabonian",33540,129.5432,36.7002,13,1
 "126979",183530,"col","",32.68,49.07,"Saturday",NA,"",1,"Priabonian","",38,33.9,60839,"gp_mid",34.31,42.48,"302",35.95,"priabonian",7120,27.2229,49.3464,13,1
 "127190",183757,"col","",11.87,45.85,"Possagno (Quaggiotto collection)",NA,"",2,"Priabonian","",38,33.9,61368,"gp_mid",17.36,37.29,"307",35.95,"priabonian",1482,9.8841,40.3936,13,1
 "127193",183760,"col","",11.96,45.86,"Curogna, Pederobba (Cossmann collection)",NA,"",1,"Priabonian","",38,33.9,61368,"gp_mid",17.44,37.28,"307",35.95,"priabonian",33667,9.8841,40.3936,13,1
+"127417",183994,"col","Villarrosano",-1.27,40.58,"Aguatón 2D",NA,"Aguaton; AGT2D",1,"MP 19","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127418",183995,"col","Villarrosano",-1.27,40.58,"Aguatón 6",NA,"Aguaton; AGT6",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127419",183996,"col","Villarrosano",-1.27,40.58,"Aguatón 5A",NA,"Aguaton; AGT5A",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127420",183997,"col","Villarrosano",-1.27,40.58,"Barranco del Chorrillo 6C",NA,"CHR6C",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127421",183998,"col","Villarrosano",-1.27,40.58,"Cerro de Mas 1A",NA,"CDM1A",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127422",183999,"col","Villarrosano",-1.27,40.58,"Aguatón 5B",NA,"Aguaton; AGT5B",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127423",184000,"col","Villarrosano",-1.27,40.58,"Barranco de Puch 3",NA,"PUC3",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127424",184001,"col","Villarrosano",-1.27,40.58,"Barranco del Chorrillo 5A",NA,"CHR5A",1,"MP 19","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127425",184002,"col","Villarrosano",-1.27,40.58,"Barranco del Chorrillo 5B",NA,"CHR5B",1,"MP 19","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127426",184003,"col","Villarrosano",-1.27,40.58,"Barranco de Torrubia 1A",NA,"TOR1A",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127430",184007,"col","Villarrosano",-1.02,40.53,"Fuente Umbría 1B",NA,"Fuente Umbria 1; UMB1B",2,"MP 20","",37.2,33.9,61468,"gp_mid",3.93,35.24,"304",35.55,"priabonian",13053,-3.9141,36.9096,13,1
+"127433",184010,"col","Villarrosano",-1.27,40.58,"Cerro de Mas 3A",NA,"CDM3A",2,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127434",184011,"col","Villarrosano",-1.27,40.58,"Barranco del Chorrillo 2D",NA,"CHR2D",1,"MP 20","",37.2,33.9,61468,"gp_mid",3.7,35.3,"304",35.55,"priabonian",33701,-3.9141,36.9096,13,1
+"127628",184230,"col","Headon Hill",-1.54,50.67,"How Ledge Limestone clay unit, Headon Hill",NA,"",16,"Priabonian","",38,33.9,61574,"gp_mid",4,44.86,"315",35.95,"priabonian",29271,-5.201,47.2387,13,1
 "127720",184469,"col","",22.17,41.75,"Stip",NA,"Shtip, Stipa",1,"Late Eocene","",37.2,33.9,61814,"gp_mid",24.54,31.23,"308",35.55,"priabonian",33770,17.2933,41.1124,13,1
 "127913",184741,"col","Qasr El- Sagha",31.17,29.58,"Section A3 Temple Member, B. no 3",NA,"",1,"Priabonian","",38,33.9,61931,"gp_mid",32.61,19.23,"715",35.95,"priabonian",33807,25.0298,24.8696,13,1
 "127914",184742,"col","Qasr El- Sagha",31.17,29.58,"Section A17 Temple Member, B. no 17",NA,"",1,"Priabonian","",38,33.9,61931,"gp_mid",32.61,19.23,"715",35.95,"priabonian",33807,25.0298,24.8696,13,1
@@ -972,6 +1212,13 @@
 "127923",184751,"col","Qasr El-Sagha",30.72,29.64,"Cairo- Assyut, Dir Abu Lifa Mmb, B25",NA,"",1,"Late Eocene","",37.2,33.9,61931,"gp_mid",32.21,19.3,"715",35.55,"priabonian",5083,25.0298,24.8696,13,1
 "127924",184752,"col","Qasr El-Sagha",30.72,29.64,"Cairo- Assyut, Dir Abu Lifa Mmb, B27",NA,"",1,"Late Eocene","",37.2,33.9,61931,"gp_mid",32.21,19.3,"715",35.55,"priabonian",5083,25.0298,24.8696,13,1
 "127925",184753,"col","Qasr El-Sagha",30.72,29.64,"Cairo- Assyut, Dir Abu Lifa Mmb, B31",NA,"",1,"Late Eocene","",37.2,33.9,61931,"gp_mid",32.21,19.3,"715",35.55,"priabonian",5083,25.0298,24.8696,13,1
+"127926",184754,"col","Headon Hill",-1.55,50.8,"Royden, Brockenhurst bed",NA,"",1,"Priabonian","",38,33.9,61794,"gp_mid",4.01,44.99,"315",35.95,"priabonian",33808,-5.201,47.2387,13,1
+"127930",184757,"col","Headon Hill",-1.54,50.69,"Colwell Bay",NA,"",1,"Priabonian","",38,33.9,61794,"gp_mid",4.01,44.88,"315",35.95,"priabonian",33811,-5.201,47.2387,13,1
+"127931",184758,"col","Headon Hill",-1.18,50.72,"Binstead",NA,"",7,"Priabonian","",38,33.9,61794,"gp_mid",4.33,44.89,"315",35.95,"priabonian",33812,-5.201,47.2387,13,1
+"127932",184759,"col","Headon Hill",-1.1,50.71,"Seafield, Isle of Wight",NA,"",2,"Priabonian","",38,33.9,61794,"gp_mid",4.4,44.87,"315",35.95,"priabonian",5033,-5.201,47.2387,13,1
+"127933",184760,"col","Bembridge Limestone",-1.46,50.68,"Prospect Quarry, Shalcombe, Isle of Wight",NA,"",3,"Priabonian","",38,33.9,61794,"gp_mid",4.08,44.86,"315",35.95,"priabonian",33813,-5.201,47.2387,13,1
+"127934",184761,"col","Bembridge Limestone",-1.52,50.71,"Cliff End, Sconce",NA,"Cliffend",3,"Priabonian","",38,33.9,61794,"gp_mid",4.02,44.89,"315",35.95,"priabonian",33814,-5.201,47.2387,13,1
+"127935",184762,"col","Bouldnor",-1.5,50.71,"Yarmouth (Bembridge Marls Member)",NA,"",3,"Priabonian","",38,33.9,61794,"gp_mid",4.05,44.89,"315",35.95,"priabonian",33815,-5.201,47.2387,13,1
 "128421",185548,"col","",9.9,48.42,"Ehrenstein 1",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,"priabonian",33965,5.613,42.6407,13,1
 "128422",185549,"col","",9.9,48.42,"Ehrenstein 2",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,"priabonian",33965,5.613,42.6407,13,1
 "128423",185550,"col","",9.9,48.42,"Ehrenstein 3",NA,"",1,"MP 19","",37.2,33.9,62212,"gp_mid",14.01,42.13,"305",35.55,"priabonian",33965,5.613,42.6407,13,1
@@ -993,6 +1240,7 @@
 "130249",188991,"col","Qasr el Sagha",30.53,29.53,"Qasr el-Sagha Formation (general)",NA,"Fayum",1,"Priabonian","",38,33.9,63448,"gp_mid",32.02,19.21,"715",35.95,"priabonian",33354,25.0298,24.8696,13,1
 "130252",188994,"col","Parkers Ferry",-79.95,32.92,"Cooper River site (Euclastes locality)",NA,"",2,"Priabonian","",38,33.9,63476,"gp_mid",-64.27,35.28,"109",35.95,"priabonian",34397,-70.7758,30.6888,13,1
 "130282",189031,"col","Promina",16.1,43.93,"Mt. Promina",NA,"",2,"Late Eocene","",37.2,33.9,62933,"gp_mid",20.17,34.56,"307",35.55,"priabonian",34403,13.2637,39.8036,13,1
+"130798",189957,"col","Andrew Lake",-176.62,51.96,"Adak Island loc. 2",NA,"",13,"Late Eocene","",37.2,33.9,63861,"gp_mid",-173.45,60.2,"416",35.55,"priabonian",34459,-167.4099,57.5524,13,1
 "130903",190203,"col","Dammam",55.77,24.11,"Gebel Hafit anticlie, Al Ain",NA,"",2,"Priabonian","",38,33.9,63993,"gp_mid",53.02,9.53,"503",35.95,"priabonian",34479,49.6267,15.6648,13,1
 "131406",190943,"col","",67.76,42.38,"Konur-Kura",NA,"Djeman-Gora, Djuva-Kara, Djeman-Kara",1,"Late Eocene","",37.2,33.9,64259,"gp_mid",66.49,37.14,"402",35.55,"priabonian",34610,62.2401,44.2514,13,1
 "131412",190950,"col","Birket Qarun",30.02,29.27,"Wadi Hitan Catfish Site",NA,"",1,"Late Eocene","",37.2,33.9,64350,"gp_mid",31.54,18.98,"715",35.55,"priabonian",2896,25.0298,24.8696,13,1
@@ -1014,6 +1262,10 @@
 "132578",193974,"col","Wagonwheel",-119.98,35.7,"CSUN 1581 [Wagonwheel Fm]",NA,"",3,"Priabonian","",38,33.9,65881,"gp_mid",-101.41,41.18,"130",35.95,"priabonian",34876,-108.6368,32.8592,13,1
 "132579",193975,"col","Keasey",-123.2,45.76,"LACMIP 5806 Smithwick Haydite Quarry",NA,"",1,"Priabonian","",38,33.9,530,"gp_mid",-103.73,51.4,"129",35.95,"priabonian",34877,-113.7118,46.0319,13,1
 "132698",194391,"col","Keasey",-123.2,45.76,"UCMP D8945",NA,"",1,"Priabonian","",38,33.9,65926,"gp_mid",-103.73,51.4,"129",35.95,"priabonian",34877,-113.7118,46.0319,13,1
+"132941",194988,"col","Headon Hill",-1.4,50.71,"Newtown Bone Bed",NA,"",1,"Priabonian","",38,33.9,66288,"gp_mid",4.13,44.89,"315",35.95,"priabonian",34971,-5.201,47.2387,13,1
+"133376",195853,"col","",8.45,47.48,"Dielsdorf fissure 1",NA,"Baden and Wetting limestone quarry; Dielsdorf Spalte",6,"Late Eocene","",37.2,33.9,66667,"gp_mid",12.64,41.24,"305",35.55,"priabonian",35069,2.2168,45.1567,13,1
+"133377",195854,"col","",8.45,47.48,"Dielsdorf fissure 2",NA,"Baden and Wetting limestone quarry; Dielsdorf Spalte",7,"Late Eocene","",37.2,33.9,66667,"gp_mid",12.64,41.24,"305",35.55,"priabonian",35069,2.2168,45.1567,13,1
+"133378",195855,"col","",8.45,47.48,"Dielsdorf fissure A",NA,"Baden and Wetting limestone quarry; Dielsdorf Spalte",8,"Late Eocene","",37.2,33.9,66667,"gp_mid",12.64,41.24,"305",35.55,"priabonian",35069,2.2168,45.1567,13,1
 "133901",196695,"col","Vic–Manlleu marls",2.28,41.87,"Gurumbau",NA,"Taradell",1,"Priabonian","",38,33.9,66923,"gp_mid",7.04,36.5,"304",35.95,"priabonian",3737,-0.4225,39.4921,13,1
 "133902",196696,"col","Vic–Manlleu marls",2.26,42.13,"Santa Maria de Besora",NA,"",1,"Priabonian","",38,33.9,66923,"gp_mid",7.03,36.77,"304",35.95,"priabonian",35159,-0.4225,39.4921,13,1
 "133905",196704,"col","",26.1,51.65,"Rovno Amber, Vladimirets district (SIZK L collection)",NA,"",5,"Priabonian","",38,33.9,66937,"gp_mid",28.48,45.05,"302",35.95,"priabonian",13431,19.483,51.314,13,1
@@ -1024,8 +1276,12 @@
 "135009",198761,"col","Gehannam",30.16,29.36,"WH 10001",NA,"",4,"Priabonian","",38,33.9,12588,"gp_mid",31.67,19.06,"715",35.95,"priabonian",26697,25.0298,24.8696,13,1
 "135767",200715,"col","Tejon",-119.01,34.43,"SDSNH 261 Timber Canyon",NA,"LSJU 261; Leland Stanford Junior University loc. 261",1,"Late Eocene","",37.2,33.9,68623,"gp_mid",-101.8,38.66,"105",35.55,"priabonian",35605,-108.6368,32.8592,13,1
 "135829",200779,"col","",26.89,51.31,"Rovno amber (GPIH coll)",NA,"",2,"Priabonian","",38,33.9,68733,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
+"136203",201469,"col","Sweetwater",-117.01,32.66,"SDSNH 3470",NA,"",1,"Late Eocene","",37.2,33.9,3537,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",35729,-105.0254,30.3084,13,1
+"136204",201470,"col","Sweetwater",-117.01,32.66,"SNSNH 3474",NA,"",2,"Late Eocene","",37.2,33.9,3537,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",35729,-105.0254,30.3084,13,1
+"136205",201471,"col","Sweetwater",-117,32.68,"SDSNH 3550",NA,"",2,"Late Eocene","",37.2,33.9,3537,"gp_mid",NA,NA,"coordinates not computable using this model",35.55,"priabonian",35730,-105.0254,30.3084,13,1
 "136233",201505,"col","Nestucca",-123.72,45.21,"USGS Loc. 17879",NA,"",1,"Late Eocene","",37.2,33.9,68963,"gp_mid",-104.39,50.88,"129",35.55,"priabonian",35735,-113.7118,46.0319,13,1
 "136373",201871,"col","",26.89,51.31,"Rovno amber (UCP coll)",NA,"",1,"Priabonian","",38,33.9,69098,"gp_mid",29.17,44.71,"302",35.95,"priabonian",20353,19.483,51.314,13,1
+"136375",201873,"col","",8.45,47.48,"Dielsdorf fissure B",NA,"Baden and Wetting limestone quarry; Dielsdorf Spalte",2,"Late Eocene","",37.2,33.9,69101,"gp_mid",12.64,41.24,"305",35.55,"priabonian",35069,2.2168,45.1567,13,1
 "136497",202013,"col","Dry Branch",-81.68,33.62,"North Aiken Site",NA,"SC96.97",14,"Priabonian","",38,33.9,69202,"gp_mid",-65.87,36.24,"109",35.95,"priabonian",35803,-74.4436,30.9783,13,1
 "136544",202067,"col","Lincoln Creek",-122.93,46.41,"UW 1, Lincoln Creek Formation",NA,"",32,"Priabonian","",38,33.9,18061,"gp_mid",-103.34,52.03,"129",35.95,"priabonian",27058,-113.1485,48.5026,13,1
 "136604",202152,"col","Hoko River",-124.22,48.14,"Burnt Mountain Road",NA,"",1,"Priabonian","",38,33.9,61684,"gp_mid",-104.53,53.83,"129",35.95,"priabonian",35834,-113.1485,48.5026,13,1
@@ -1093,6 +1349,11 @@
 "140002",206945,"col","Parkers Ferry",-80.45,33.21,"Giant Portland Cement Quarry, Parkers Ferry Fm.",NA,"",5,"Priabonian","",38,33.9,71195,"gp_mid",-64.71,35.64,"109",35.95,"priabonian",3712,-70.7758,30.6888,13,1
 "140003",206946,"col","Parkers Ferry",-80.44,33.24,"Argos Quarry, Parkers Ferry",NA,"Blue Circle Cement Quarry, Gifford-Hill Cement Quarry, Lafarge",1,"Priabonian","",38,33.9,71195,"gp_mid",-64.7,35.67,"109",35.95,"priabonian",11852,-70.7758,30.6888,13,1
 "140015",206997,"col","Harleyville",-80.44,33.24,"Argos Quarry, Parkers Ferry",NA,"Blue Circle Cement Quarry, Gifford-Hill Cement Quarry, Lafarge",1,"Priabonian","",38,33.9,71195,"gp_mid",-64.7,35.67,"109",35.95,"priabonian",11852,-70.7758,30.6888,13,1
+"140161",207195,"col","Bembridge Marls",-1.38,50.73,"Hempstead Ledge",NA,"Hampstead",2,"Priabonian","",38,33.9,46872,"gp_mid",4.16,44.91,"315",35.95,"priabonian",29665,-5.201,47.2387,13,1
+"140163",207258,"col","Bembridge Marls",-1.39,50.73,"Saltmead Ledge (Yule collection)",NA,"",4,"Priabonian","",38,33.9,71354,"gp_mid",4.14,44.91,"315",35.95,"priabonian",36896,-5.201,47.2387,13,1
+"140164",207259,"col","Bembridge Marls",-1.35,50.74,"Sticelett Ledge (Yule collection)",NA,"",1,"Priabonian","",38,33.9,71354,"gp_mid",4.18,44.92,"315",35.95,"priabonian",24936,-5.201,47.2387,13,1
+"140165",207291,"col","Bouldnor",-1.44,50.72,"Hampstead Ledge (Jarzembowski collection)",NA,"",1,"Priabonian","",38,33.9,71383,"gp_mid",4.1,44.9,"315",35.95,"priabonian",36897,-5.201,47.2387,13,1
+"140166",207292,"col","Bouldnor",-1.36,50.74,"Bembridge Marls (MIWG collection)",NA,"",2,"Priabonian","",38,33.9,71383,"gp_mid",4.17,44.91,"315",35.95,"priabonian",1199,-5.201,47.2387,13,1
 "140275",207511,"col","La Meseta",-56.61,-64.23,"S074, Seymour Island",NA,"",1,"Late Eocene","",37.2,33.9,71509,"gp_mid",-66.21,-62.81,"803",35.55,"priabonian",33009,-58.2685,-66.2278,13,1
 "140276",207512,"col","Submeseta",-56.61,-64.24,"S123, Seymour Island",NA,"",1,"Late Eocene","",37.2,33.9,71509,"gp_mid",-66.22,-62.82,"803",35.55,"priabonian",9102,-58.2685,-66.2278,13,1
 "140277",207513,"col","Submeseta",-56.62,-64.24,"S117/122, Seymour Island",NA,"",2,"Late Eocene","",37.2,33.9,71509,"gp_mid",-66.23,-62.82,"803",35.55,"priabonian",36943,-58.2685,-66.2278,13,1

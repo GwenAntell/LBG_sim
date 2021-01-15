@@ -1,6 +1,7 @@
 "","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
 "9722",18663,"col","Fleming",-93.4,31,"Toledo Bend",NA,"",42,"Aquitanian","",23.03,20.44,933,"gp_mid",-84.46,34.75,"101",21.735,"aquitanian",2018,-88.9982,29.7193,10,1
 "10544",19485,"col","Temblor",-118.83,35.49,"Pyramid Hill, upper concretion-bearing bed",NA,"UCMP V6916, LACM 1628",6,"Aquitanian","",23.03,20.44,6198,"gp_mid",-107.44,39.67,"130",21.735,"aquitanian",2033,-112.0858,33.0388,10,1
+"11325",65051,"col","",-9.17,38.71,"Prazeres",NA,"",1,"Aquitanian","",23.03,20.44,18735,"gp_mid",-5.9,35.43,"304",21.735,"aquitanian",2057,-10.5436,35.0348,10,1
 "13400",25254,"col","Dehirdan",57.91,26.47,"Sardasht, Makran, Iran",NA,"Reef 656",13,"Aquitanian","",23.03,20.44,7077,"gp_mid",56.11,17.41,"503",21.735,"aquitanian",2563,51.8993,21.0584,10,1
 "14448",28307,"col","Fossil Bluff Sandstone",145.73,-40.98,"PL3029 - Upper Bed, Table Cape",NA,"Fossil Bluff, Table Cape, Wynyard",19,"Aquitanian","",23.03,20.44,26982,"gp_mid",152.84,-51.65,"801",21.735,"aquitanian",2821,144.9742,-50.5425,10,1
 "21858",37350,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 1",NA,"Chlamys praescabiuscula community sample 1",4,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
@@ -14,8 +15,10 @@
 "22019",37560,"col","Clallam",-124.14,48.23,"USGS M4049, Pillar Point",NA,"",38,"Aquitanian","",23.03,20.44,10046,"gp_mid",-112.5,52.53,"129",21.735,"aquitanian",4513,-117.3167,48.6264,10,1
 "22050",37595,"col","Clallam",-124.25,48.26,"NP163, Clallam Bay",NA,"",9,"Aquitanian","",23.03,20.44,10046,"gp_mid",-112.62,52.57,"129",21.735,"aquitanian",4522,-117.3167,48.6264,10,1
 "28096",45481,"col","Clallam",-124.25,48.26,"Slip Point Lighthouse",NA,"UCMP V5761, LACM 5933",5,"Aquitanian","",23.03,20.44,11885,"gp_mid",-112.61,52.57,"129",21.735,"aquitanian",4522,-117.3167,48.6264,10,1
+"28332",45727,"col","Puebla Clay",144.52,-38.25,"Ocean Grove",NA,"",1,"Aquitanian","",23.03,20.44,13672,"gp_mid",150.46,-49.19,"801",21.735,"aquitanian",6457,144.5779,-48.0559,10,1
 "30026",47623,"col","Libano Sandstone",12.22,46.14,"Libano",NA,"",40,"Aquitanian","",23.03,20.44,12902,"gp_mid",15.84,40.84,"307",21.735,"aquitanian",7043,9.6528,42.1183,10,1
 "31526",49395,"col","Arenaria di Grumi",11.36,45.71,"Schio",NA,"",1,"Aquitanian","",23.03,20.44,14542,"gp_mid",14.98,40.51,"307",21.735,"aquitanian",7492,9.6528,42.1183,10,1
+"31962",50035,"col","Foulden Hills Diatomite",170.22,-45.53,"Foulden Hills maar (I43/f8503)",NA,"",32,"Aquitanian","",23.03,20.44,38656,"gp_mid",-172.03,-47.16,"807",21.735,"aquitanian",7632,178.1471,-49.6815,10,1
 "33956",52409,"col","Monterey",-120.31,34.74,"Location #64-1 - Southeast coast of Santa Rosa Island (Monterey Fm)",NA,"",1,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
 "33957",52410,"col","Monterey",-120.31,34.74,"Location #67-26 - Southeast coast of Santa Rosa Island (Monterey Fm)",NA,"",3,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
 "33958",52411,"col","Monterey",-120.31,34.74,"Location #64-9 - SE central Santa Rosa Island (Monterey Fm)",NA,"",1,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
@@ -30,23 +33,37 @@
 "40288",60611,"col","",-72.13,18.88,"Station 9557",NA,"W 116 F",2,"Aquitanian","",23.03,20.44,17411,"gp_mid",-67.25,20.41,"252",21.735,"aquitanian",9734,-70.3817,18.4248,10,1
 "40289",60612,"col","",-72.13,18.88,"Station 9449",NA,"W 119 F",2,"Aquitanian","",23.03,20.44,17411,"gp_mid",-67.25,20.41,"252",21.735,"aquitanian",9734,-70.3817,18.4248,10,1
 "43206",64777,"col","Nye",-124.07,44.54,"Lost Creek",NA,"State Wayside Park, Lost Creek State Recreation Site",2,"Aquitanian","",23.03,20.44,18698,"gp_mid",-112.62,48.85,"129",21.735,"aquitanian",10418,-117.6878,46.1391,10,1
+"43662",65479,"col","",-9.14,38.71,"Tunel do Rossio",NA,"",1,"Aquitanian","",23.03,20.44,18869,"gp_mid",-5.87,35.43,"304",21.735,"aquitanian",10579,-10.5436,35.0348,10,1
 "45225",67659,"col","Unalaska",-166.52,53.87,"Arriaga Quarry",NA,"Unalaska Lake",3,"Aquitanian","",23.03,20.44,19318,"gp_mid",-164.69,59.79,"125",21.735,"aquitanian",10962,-158.868,58.7168,10,1
 "46879",69927,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 1, NW Mallorca",NA,"Reef 1996",8,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
 "46880",69928,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 2, NW Mallorca",NA,"Reef 1996",14,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
 "46881",69929,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 3, NW Mallorca",NA,"Reef 1996",6,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
 "47084",70315,"col","",5.15,43.33,"Chainon de La Nerthe, Bouches-du-Rhone",NA,"Reef 663",62,"Aquitanian","",23.03,20.44,23527,"gp_mid",7.99,39.38,"305",21.735,"aquitanian",11520,0.1446,40.2938,10,1
+"47303",70589,"col","Calvert",-76.69,38.75,"Lyons Creek, Zone 1",NA,"",1,"Aquitanian","",23.03,20.44,23697,"gp_mid",-66.04,40.76,"109",21.735,"aquitanian",11574,-69.6278,38.5961,10,1
 "49864",74808,"col","Turgut",28,37,"Turgut Fm (lower)",NA,"",6,"Aquitanian","",23.03,20.44,25210,"gp_mid",29.29,32.52,"504",21.735,"aquitanian",12210,22.8435,33.479,10,1
 "50307",75609,"col","Ghubbarah",57.75,19.04,"Gebel Madrakah - Ghubbarah Fm",NA,"",13,"Aquitanian","",23.03,20.44,25532,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",12316,51.136,13.5939,10,1
 "50392",75776,"col","Skooner Gulch",-123.74,38.96,"Point Arena",NA,"LACM 3402",2,"Aquitanian","",23.03,20.44,12297,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",12363,-118.3388,41.1613,10,1
 "50669",76315,"col","Khari Nadi",68.8,23.4,"Khari Nadi Fm",NA,"",7,"Aquitanian","",23.03,20.44,25850,"gp_mid",69.12,12.53,"501",21.735,"aquitanian",9393,62.2859,15.7669,10,1
+"50735",76582,"col","Kama",95.3,19.62,"Dalabe (Kama stage)",NA,"",27,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.71,10.77,"617",21.735,"aquitanian",12531,91.3485,16.2413,10,1
+"50736",76583,"col","Kama",95.15,19.02,"Kama (Kama stage)",NA,"",29,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.8,10.16,"617",21.735,"aquitanian",12532,91.3485,16.2413,10,1
+"50737",76584,"col","Kama",95.38,19.5,"Kyaungon (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.69,"617",21.735,"aquitanian",12533,91.3485,16.2413,10,1
+"50738",76585,"col","Kama",95.38,19.5,"Kyudawon (Kama stage)",NA,"",12,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.69,"617",21.735,"aquitanian",12533,91.3485,16.2413,10,1
+"50746",76593,"col","Kama",95.4,19.52,"Myaukmigon (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.84,10.71,"617",21.735,"aquitanian",12539,91.3485,16.2413,10,1
+"50747",76594,"col","Kama",95.37,19.47,"Myauktin (Kama stage)",NA,"",2,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.65,"617",21.735,"aquitanian",12540,91.3485,16.2413,10,1
+"50748",76595,"col","Kama",95.38,19.53,"Thanga (Kama stage)",NA,"",37,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.82,10.72,"617",21.735,"aquitanian",12541,91.3485,16.2413,10,1
+"50749",76596,"col","Kama",95.47,19.52,"Tittabwe (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.9,10.73,"617",21.735,"aquitanian",12542,91.3485,16.2413,10,1
 "55703",84913,"col","Gee Greensand",170.9,-45.18,"Kakanui",NA,"",1,"Aquitanian","",23.03,20.44,28503,"gp_mid",-171.34,-46.81,"807",21.735,"aquitanian",14204,-177.7604,-49.9118,10,1
 "55860",85110,"col","",9.17,39.37,"Dolianova",NA,"Reef 1989",4,"Aquitanian","",23.03,20.44,28605,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
+"60762",92102,"col","",-9.13,38.72,"Lisboa City",NA,"Reef 1997",5,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.86,35.43,"304",21.735,"aquitanian",15991,-10.5436,35.0348,10,1
+"60763",92103,"col","",-9.15,38.47,"Alfarim",NA,"",2,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.9,35.18,"304",21.735,"aquitanian",15992,-10.5436,35.0348,10,1
 "63764",95769,"col","Khari Nadi",68.91,23.37,"Nangia",NA,"",1,"Aquitanian","",23.03,20.44,32532,"gp_mid",69.23,12.48,"501",21.735,"aquitanian",16898,62.2859,15.7669,10,1
+"70057",104943,"col","Gambier",140.76,-37.89,"Telford's Quarry",NA,"",10,"Aquitanian","",23.03,20.44,35125,"gp_mid",145.91,-49.44,"801",21.735,"aquitanian",19338,140.1336,-48.3291,10,1
 "79371",116623,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, Aquitanian",NA,"",71,"Aquitanian","",23.03,20.44,37562,"gp_mid",49.58,36.13,"402",21.735,"aquitanian",22247,44.2778,39.8338,10,1
 "79381",116633,"col","",49.47,40.51,"Mount Islamdag, Eastern Slope, Maikop Group, member 4 & 4, Aquitanian",NA,"",30,"Aquitanian","",23.03,20.44,37562,"gp_mid",49.52,36.14,"402",21.735,"aquitanian",22251,44.2778,39.8338,10,1
 "80965",118406,"col","",14.27,36.05,"Gozo, Aquitanian",NA,"",3,"Aquitanian","",23.03,20.44,38149,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",22655,11.8999,31.8925,10,1
 "84881",189023,"col","Otekaike Limestone",170.65,-44.66,"Hakataramea Quarry, Aquitanian",NA,"I40:f0399",1,"Aquitanian","",23.03,20.44,61997,"gp_mid",-171.61,-46.29,"807",21.735,"aquitanian",23735,-177.7604,-49.9118,10,1
 "92621",133885,"col","Mazantic Shale",-92,16,"Mazantic Shale",NA,"",13,"Aquitanian","",23.03,20.44,43162,"gp_mid",-84.73,19.7,"205",21.735,"aquitanian",25682,-96.0054,16.7348,10,1
+"96016",138022,"col","Holmsk",142.08,47.8,"Tomari",NA,"",9,"Aquitanian","",23.03,20.44,44130,"gp_mid",137.34,48.71,"610",21.735,"aquitanian",26819,140.4939,50.3889,10,1
 "99941",142513,"col","Gaiman",-65.48,-43.28,"Gaiman (marine vertebrates)",NA,"",5,"Aquitanian","",23.03,20.44,36733,"gp_mid",-61.48,-42.93,"291",21.735,"aquitanian",27548,-58.937,-45.19,10,1
 "100722",143488,"col","",5.48,43.6,"Venelles",NA,"",1,"Aquitanian","",23.03,20.44,46496,"gp_mid",8.32,39.63,"305",21.735,"aquitanian",27654,0.1446,40.2938,10,1
 "101597",144548,"col","",9.23,39.72,"Strintu de Melonis, Nurri",NA,"Comidanu da Strintu Argiolu alla Stazione di Nurri",1,"Aquitanian","",23.03,20.44,46758,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",27772,3.1563,38.2723,10,1
@@ -89,6 +106,7 @@
 "124352",179122,"col","Arcadia",-85.07,30.47,"TU 1196. Farley Creek, about 0.8 mi E of bridge of Fla. Hwy. 275",NA,"",4,"Aquitanian","",23.03,20.44,57818,"gp_mid",-75.93,33.41,"109",21.735,"aquitanian",32955,-81.5541,29.2683,10,1
 "126357",182218,"col","Uitpa",-71.43,12.03,"Arroyo Uitpa",NA,"",14,"Aquitanian","",23.03,20.44,60603,"gp_mid",-64.42,12.58,"203",21.735,"aquitanian",33453,-70.2582,8.8286,10,1
 "127731",184492,"col","Upper Burman Limestone",94.7,15.17,"Yadana area (offshore Myanmar), SF3 and SF4",NA,"Reef 4092",2,"Aquitanian","",23.03,20.44,61840,"gp_mid",100.81,6.41,"617",21.735,"aquitanian",33777,91.9709,11.5161,10,1
+"130276",189024,"col","Otekaike Limestone",170.49,-44.68,"Hakataramea Valley, Aquitanian",NA,"",1,"Aquitanian","",23.03,20.44,61997,"gp_mid",-171.77,-46.31,"807",21.735,"aquitanian",34401,178.1471,-49.6815,10,1
 "130277",189025,"col","Mount Harris",170.96,-44.51,"Bluecliffs",NA,"",1,"Aquitanian","",23.03,20.44,55050,"gp_mid",-171.29,-46.14,"807",21.735,"aquitanian",34402,-177.7604,-49.9118,10,1
 "131531",191280,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna",NA,"",2,"Aquitanian","",23.03,20.44,64533,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
 "132923",194964,"col","",174.8,-36.26,"AU6658, Goat Island (R09/f7508)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1

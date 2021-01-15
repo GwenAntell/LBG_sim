@@ -6,6 +6,8 @@
 "13086",24667,"col","",18.3,46.6,"Mecsek Mountains (1)",NA,"",12,"Carnian","",237,228,6929,"gp_mid",36.2,13.48,"308",232.5,"carnian",2461,19.9158,31.7563,45,1
 "13097",24680,"col","",13.5,46.7,"Raibl",NA,"",19,"Carnian","",237,228,6929,"gp_mid",34.4,16.28,"307",232.5,"carnian",2464,18.0172,29.8178,45,1
 "13100",24683,"col","",15,47.8,"Lunz",NA,"",80,"Carnian","",237,228,6929,"gp_mid",35.94,16.01,"307",232.5,"carnian",2465,18.0172,29.8178,45,1
+"13101",24684,"col","",7.6,47.5,"Basel",NA,"",39,"Carnian","",237,228,6929,"gp_mid",25,26.81,"305",232.5,"carnian",2466,14.1194,26.1017,45,1
+"13165",24808,"col","",9,48.5,"Baden-Wurttemberg",NA,"",23,"Carnian","",237,228,6929,"gp_mid",25.68,28.04,"305",232.5,"carnian",2490,14.1194,26.1017,45,1
 "15486",29638,"col","Zhijiachong",113.6,28.2,"Liuyang",NA,"PGAP 2161",25,"Carnian","",237,228,8308,"gp_mid",118.03,4.69,"611",232.5,"carnian",3007,126.149,29.5975,45,1
 "15729",29881,"col","Jiuligang",112.2,31,"Jinmen",NA,"PGAP 2150",36,"Carnian","",237,228,8316,"gp_mid",116.62,7.4,"611",232.5,"carnian",3050,126.1186,32.0974,45,1
 "15764",29916,"col","",99.1,23.9,"Zhenkang",NA,"PGAP 2145",4,"Carnian","",237,228,8310,"gp_mid",92.41,3.61,"616",232.5,"carnian",3063,107.3115,22.0124,45,1
@@ -226,9 +228,12 @@
 "35495",53992,"col","",19.92,41.4,"Simoni Melange, AL 41",NA,"",10,"Carnian","",237,228,14563,"gp_mid",32.61,9.48,"307",232.5,"carnian",8629,17.2097,11.3632,45,1
 "35853",55404,"col","",18,46,"Cuttings I & IV, Veszprem-Jutas railroad",NA,"",20,"Carnian","",237,228,14902,"gp_mid",35.58,13.31,"308",232.5,"carnian",8732,16.0998,16.2153,45,1
 "35854",55405,"col","",18,46,"Jeruzsalemhegy",NA,"",15,"Carnian","",237,228,14902,"gp_mid",35.58,13.31,"308",232.5,"carnian",8732,16.0998,16.2153,45,1
+"36784",56628,"col","",22,43,"Visoka Belt - Senokos 1",NA,"",1,"Julian","",235,232,15243,"gp_mid",35.02,9.14,"308",233.5,"carnian",8893,26.6029,29.4635,45,1
+"36785",56629,"col","",22,43,"Visoka Belt - Senokos 2",NA,"",6,"Julian","",235,232,15243,"gp_mid",35.02,9.14,"308",233.5,"carnian",8893,26.6029,29.4635,45,1
 "36835",56706,"col","",12.13,46.53,"Cortina d'Ampezzo",NA,"",67,"Carnian","",237,228,15290,"gp_mid",33.74,16.99,"307",232.5,"carnian",4679,16.0856,27.932,45,1
 "36843",56714,"col","",23.52,37.37,"Lo 33, Kap-Kastello, Hydra, Greece",NA,"Reef 2",20,"Carnian","",237,228,15293,"gp_mid",31.16,4.8,"307",232.5,"carnian",8915,18.6792,5.7842,45,1
 "36848",56725,"col","",90.86,35.92,"Malanshan FKTS, Hohxil",NA,"",8,"Carnian","",237,228,37936,"gp_mid",100.54,31.21,"602",232.5,"carnian",8919,93.3234,42.4937,45,1
+"36873",56797,"col","",22,43,"Vidlic Belt 1",NA,"",2,"Julian","",235,232,15243,"gp_mid",35.02,9.14,"308",233.5,"carnian",8893,26.6029,29.4635,45,1
 "36898",56866,"col","",-126.62,49.72,"Tahsis Inlet, Mount Leiner (GSC 17123)",NA,"",1,"Carnian","",237,228,11541,"gp_mid",-69.08,38.72,"128",232.5,"carnian",8932,-88.2004,0.8718,45,1
 "36900",56868,"col","Quatsino Limestone",-127.52,50.13,"Izard Point, Ououkinsh Inlet, Vancouver Island (GSC 22270)",NA,"",1,"Carnian","",237,228,11541,"gp_mid",-69.49,39.36,"128",232.5,"carnian",8933,-88.2004,0.8718,45,1
 "36901",56869,"col","Quatsino Limestone",-127.52,50.13,"Izard Point, Ououkinsh Inlet, Vancouver Island (GSC 23066)",NA,"",3,"Carnian","",237,228,11541,"gp_mid",-69.49,39.36,"128",232.5,"carnian",8933,-88.2004,0.8718,45,1
@@ -260,6 +265,7 @@
 "37004",56981,"col","San Cassiano",12.13,46.52,"Tamarin 2km N of Cortina D'Ampezzo",NA,"",5,"Carnian","",237,228,15366,"gp_mid",33.73,16.99,"307",232.5,"carnian",8966,16.0856,27.932,45,1
 "37005",56982,"col","San Cassiano",12.1,46.54,"Vervei 4km W of Cortina D'Ampezzo",NA,"",6,"Carnian","",237,228,15366,"gp_mid",33.73,17.01,"307",232.5,"carnian",8967,16.0856,27.932,45,1
 "37006",56983,"col","San Cassiano",12.17,46.54,"Costa Laresc 3km E of Cortina D'Ampezzo",NA,"",2,"Carnian","",237,228,15366,"gp_mid",33.75,16.98,"307",232.5,"carnian",8968,16.0856,27.932,45,1
+"37045",57030,"col","",42,43,"Carnian deposits Northwestern Caucasus",NA,"",3,"Carnian","",237,228,15385,"gp_mid",52.48,31.94,"511",232.5,"carnian",8983,36.8342,41.1935,45,1
 "37055",57040,"col","",23,38.65,"South of Atalanti",NA,"",2,"Carnian","",237,228,15388,"gp_mid",31.9,5.93,"307",232.5,"carnian",8986,18.6792,5.7842,45,1
 "37060",57045,"col","Schwarzer Kalk",13.85,46.41,"Kozja Dnina, Slovenia",NA,"",3,"Carnian","",237,228,15389,"gp_mid",34.27,15.93,"307",232.5,"carnian",8988,18.0172,29.8178,45,1
 "37063",57048,"col","Braunlicher Plattenkalk",13.85,46.41,"Milnarice, Slovenia",NA,"",3,"Carnian","",237,228,15389,"gp_mid",34.28,15.92,"307",232.5,"carnian",8988,18.0172,29.8178,45,1
@@ -321,6 +327,7 @@
 "46134",68780,"col","Montemarcello",9.88,44.08,"Lerici, La Spezie",NA,"Lerici",5,"Carnian","",237,228,23419,"gp_mid",30.69,17.09,"307",232.5,"carnian",11191,12.7418,15.4479,45,1
 "46185",68833,"col","Dolomia Principale",12.11,46.42,"Monte Pelmetto trackstie",NA,"ZAMP, Zoldo Alto",3,"Carnian","",237,228,23419,"gp_mid",33.63,16.95,"307",232.5,"carnian",11219,16.0856,27.932,45,1
 "46519",69248,"col","Breno",10.05,45.95,"Rifugio Albani, Mt. Presolana, Breno Formation, Lombardy",NA,"",19,"Julian","",235,232,19957,"gp_mid",32.67,17.86,"307",233.5,"carnian",11341,12.7418,15.4479,45,1
+"46520",69249,"col","Gansingen Dolomite",8.13,47.53,"Röt, Gansingen Dolomite, Aargau",NA,"",16,"Carnian","",237,228,19958,"gp_mid",25.37,26.95,"305",232.5,"carnian",11342,14.1194,26.1017,45,1
 "46533",69263,"col","Cassian",12.15,46.56,"Tamarin near Cortina d'Ampezzo",NA,"",1,"Julian","",235,232,19963,"gp_mid",33.99,16.91,"307",233.5,"carnian",11351,16.0856,27.932,45,1
 "46534",69264,"col","Wetterstein Limestone",13.68,46.62,"Bleiberg, Gailtal Alps, Wetterstein Limestone, Carinthia",NA,"",1,"Julian","",235,232,19965,"gp_mid",34.61,16.04,"307",233.5,"carnian",11352,18.0172,29.8178,45,1
 "46563",69397,"col","",157.25,64.52,"Dzhugadzhak River, Korkodon Basin, Magadan",NA,"",1,"Julian","",235,232,19981,"gp_mid",-126.87,79.22,"405",233.5,"carnian",7907,-89.4344,60.8443,45,1
@@ -415,6 +422,7 @@
 "59049",89466,"col","Gorno",10.07,45.86,"Bed 2, Pra di Supine, Val Camonica, Lombardia",NA,"",6,"Carnian","",237,228,26758,"gp_mid",32.37,17.88,"307",232.5,"carnian",15381,12.7418,15.4479,45,1
 "59750",90864,"col","",-112.52,30.53,"Cerro Colorado",NA,"U.S.G.S. Mesozoic locality 18950; Cerro de la Cruz; El Antimonio",1,"Carnian","",237,228,30563,"gp_mid",-41.24,16.27,"104",232.5,"carnian",15664,-51.0616,-1.4097,45,1
 "59810",91026,"col","Otuk",-163.37,68.29,"USGS DR 2517, De Long Mountains [Otuk Fm]",NA,"00AD4F; Loc. 5 KRA",7,"Carnian","",237,228,30624,"gp_mid",-26.86,61.38,"103",232.5,"carnian",15700,-49.3157,50.8225,45,1
+"59812",91028,"col","Otuk",-162.83,68.37,"USGS DR 2525, De Long Mountains [Otuk Fm]",NA,"99AD19A; Loc. 35",5,"Carnian","",237,228,30624,"gp_mid",-27.11,61.2,"103",232.5,"carnian",15702,-49.5798,49.3977,45,1
 "63192",95180,"col","Sanqiao",106.63,25.62,"Bianyang, Luodian County",NA,"",1,"Julian","",235,232,32416,"gp_mid",111.46,0.33,"611",233.5,"carnian",16702,118.5458,27.0113,45,1
 "63568",95566,"col","Peril",-133.1,54.1,"90-SPU-2 Sadler Point, Graham Island",NA,"",12,"Carnian","",237,228,32473,"gp_mid",-70.84,44.5,"128",232.5,"carnian",16816,-87.0169,6.238,45,1
 "63569",95567,"col","Peril",-133.1,54.1,"88-SP-12 Sadler Point, Graham Island",NA,"",18,"Carnian","",237,228,32473,"gp_mid",-70.84,44.5,"128",232.5,"carnian",16816,-87.0169,6.238,45,1
@@ -450,6 +458,7 @@
 "68862",102709,"col","Keuper",9.52,47.14,"Vaduz",NA,"",2,"Carnian","",237,228,50593,"gp_mid",26.51,26.85,"305",232.5,"carnian",18785,16.0856,27.932,45,1
 "69073",102997,"col","Xiaowa",105.43,25.88,"Xiaowa Village, Xinpu Township",NA,"",2,"Carnian","",237,228,34828,"gp_mid",110.85,2.06,"611",232.5,"carnian",18850,118.5458,27.0113,45,1
 "69977",153334,"col","Raibl",13.57,46.44,"Raild, Cave del Predil, Friaul, Udine (GBA collection)",NA,"",1,"Julian","",235,232,49362,"gp_mid",34.41,16.01,"307",233.5,"carnian",19302,18.0172,29.8178,45,1
+"71325",106460,"col","Stuttgart",8.94,48.52,"Wendelsheim",NA,"",1,"Carnian","",237,228,28828,"gp_mid",25.63,28.04,"305",232.5,"carnian",19841,14.1194,26.1017,45,1
 "71360",106510,"col","Raibl",11.67,46.57,"Ortisei, Val Gardena",NA,"",1,"Carnian","",237,228,35598,"gp_mid",33.59,17.29,"307",232.5,"carnian",19857,16.0856,27.932,45,1
 "75257",111060,"col","Keuper",6.68,45.42,"Dent de Villard, Vanoise",NA,"",2,"Carnian","",237,228,36454,"gp_mid",30.73,19.73,"307",232.5,"carnian",21113,16.07,24.3308,45,1
 "75870",111928,"col","",143,65.5,"Olguya River, tenuis zone, Kolyma Basin",NA,"",1,"Julian","",235,232,36570,"gp_mid",89.73,86.9,"401",233.5,"carnian",21260,-64.4674,70.1382,45,1
@@ -480,6 +489,7 @@
 "84150",122166,"col","",13.57,46.44,"Raibl, Carinthia (Enniskillen collection)",NA,"",2,"Julian","",235,232,38893,"gp_mid",34.41,16.01,"307",233.5,"carnian",19302,18.0172,29.8178,45,1
 "84296",122360,"col","",13.57,46.44,"Raibl, Carinthia (von Hauer collection)",NA,"",8,"Julian","",235,232,38975,"gp_mid",34.41,16.01,"307",233.5,"carnian",19302,18.0172,29.8178,45,1
 "84297",122361,"col","",13.57,46.44,"Raibl, Carinthia (Stur collection)",NA,"",11,"Julian","",235,232,38979,"gp_mid",34.41,16.01,"307",233.5,"carnian",19302,18.0172,29.8178,45,1
+"84689",123024,"col","Santa Juana",-72.96,-37.17,"Santa Juana, level FL2, Biobío River",NA,"",5,"Carnian","",237,228,39201,"gp_mid",-31.6,-43.48,"291",232.5,"carnian",23658,-36.2313,-60.5449,45,1
 "85231",123653,"col","Qugasi",99.35,30.32,"Qugasi, Yidun County",NA,"",4,"Carnian","",237,228,39776,"gp_mid",105.51,6.52,"611",232.5,"carnian",23893,100.4652,36.6023,45,1
 "85287",123709,"col","Falang",104.34,24.88,"Zhuganpo, Luoping",NA,"",1,"Carnian","",237,228,39787,"gp_mid",109.88,1.04,"611",232.5,"carnian",23918,118.5458,27.0113,45,1
 "85938",124565,"col","Osipa",127.24,71.81,"Taas-Aryy Island (Osipa Formation (0,4 m))",NA,"",4,"Carnian","",237,228,39845,"gp_mid",39.93,79.84,"401",232.5,"carnian",24095,-40.3185,67.1647,45,1
@@ -492,6 +502,8 @@
 "85992",124630,"col","Ebitiem",127.64,71.82,"Izvilistyi Creek  (Ebitiem 3  (0,8 m))",NA,"",8,"Carnian","",237,228,39845,"gp_mid",39.57,79.95,"401",232.5,"carnian",24108,-40.3185,67.1647,45,1
 "85993",124631,"col","Ebitiem",127.64,71.82,"Izvilistyi Creek  (Ebitiem 3  (3,2 m))",NA,"",13,"Carnian","",237,228,39845,"gp_mid",39.57,79.95,"401",232.5,"carnian",24108,-40.3185,67.1647,45,1
 "85996",124634,"col","Ebitiem",127.64,71.82,"Izvilistyi Creek  (Ebitiem 3  (11,5 m))",NA,"",15,"Carnian","",237,228,39845,"gp_mid",39.57,79.95,"401",232.5,"carnian",24108,-40.3185,67.1647,45,1
+"87667",126869,"col","Jiapila",98.22,31.5,"Liao 1",NA,"",2,"Carnian","",237,228,41200,"gp_mid",104.57,7.74,"611",232.5,"carnian",24506,100.9613,39.0714,45,1
+"87669",126871,"col","Jiapila",98.22,31.5,"Liao 1",NA,"",0,"Carnian","",237,228,41200,"gp_mid",104.57,7.74,"611",232.5,"carnian",24506,100.9613,39.0714,45,1
 "88070",127548,"col","",13.23,46.06,"Rio del Lago Formation",NA,"",17,"Julian","",235,232,41574,"gp_mid",33.95,16.02,"307",233.5,"carnian",24593,15.3285,14.5604,45,1
 "88403",127955,"col","",133.4,64.5,"Upper Naluchi river, Sartano-Adychanskoe interfluve",NA,"",1,"Carnian","",237,228,41832,"gp_mid",88.89,83.04,"401",232.5,"carnian",24671,-57.7455,72.4648,45,1
 "88409",127961,"col","",119.85,73,"Cape Tumul, Olenek River mouth",NA,"",6,"Carnian","",237,228,41832,"gp_mid",38.89,77.32,"401",232.5,"carnian",24676,-34.5633,67.5932,45,1
@@ -514,6 +526,7 @@
 "88484",128060,"col","",137.95,65.47,"Mosichan Creek, Viliga river basin",NA,"",1,"Carnian","",237,228,41832,"gp_mid",83.49,85.12,"401",232.5,"carnian",24705,-61.4165,71.3631,45,1
 "88485",128061,"col","",140.13,63.9,"Delin'ya River, Indigirka River basin",NA,"",1,"Carnian","",237,228,41832,"gp_mid",105.43,85.57,"401",232.5,"carnian",24693,-61.4165,71.3631,45,1
 "88486",128062,"col","",137,64,"Kundusun River, eastern Verkhoyan",NA,"",1,"Carnian","",237,228,41832,"gp_mid",97.9,84.36,"401",232.5,"carnian",24716,-61.4165,71.3631,45,1
+"88497",128085,"col","",40.42,44.05,"Tkhach Mt.",NA,"Gora Tkhach",4,"Carnian","",237,228,41831,"gp_mid",50.71,32.34,"302",232.5,"carnian",24723,34.0458,42.5872,45,1
 "88520",128125,"col","",148.95,65.1,"Bulkut River",NA,"",1,"Julian","",235,232,41832,"gp_mid",-109.71,81.36,"405",233.5,"carnian",24677,-91.3061,65.4472,45,1
 "88521",128126,"col","",140.13,63.9,"Duran-Yuryakh river, Indigirka River basin",NA,"",1,"Julian","",235,232,41832,"gp_mid",106.4,85.22,"401",233.5,"carnian",24693,-61.4165,71.3631,45,1
 "88522",128127,"col","",157.25,64.52,"Dzhugadzhak River, Korkodon River basin",NA,"",1,"Julian","",235,232,41832,"gp_mid",-126.86,79.22,"405",233.5,"carnian",7907,-89.4344,60.8443,45,1
@@ -529,6 +542,8 @@
 "89852",130293,"col","",97.96,18.94,"2000Stop20-3, Outcrop along Highway 108, Mae Hong Son-Mae Saring area",NA,"",28,"Carnian","",237,228,42230,"gp_mid",95.7,-0.25,"616",232.5,"carnian",25055,108.7039,17.1874,45,1
 "89853",130294,"col","",97.92,18.29,"2002Stop10-6, Outcrop along Highway 108, Mae Hong Son-Mae Saring area",NA,"",21,"Carnian","",237,228,42230,"gp_mid",96.19,-0.68,"616",232.5,"carnian",25056,108.8088,15.0495,45,1
 "89854",130295,"col","",97.93,18.29,"2002Stop10-7, Outcrop along Highway 108, Mae Hong Son-Mae Saring area",NA,"",10,"Carnian","",237,228,42230,"gp_mid",96.19,-0.68,"616",232.5,"carnian",25057,108.8088,15.0495,45,1
+"89962",130413,"col","Keuper",8.68,47.03,"Mythen-Berg",NA,"",1,"Carnian","",237,228,50576,"gp_mid",25.93,26.57,"305",232.5,"carnian",25070,14.1194,26.1017,45,1
+"89968",130419,"col","",7.63,47.53,"Rutihard, near Basel",NA,"",1,"Carnian","",237,228,50576,"gp_mid",25.01,26.85,"305",232.5,"carnian",25076,14.1194,26.1017,45,1
 "90170",130623,"col","Sapadere",32.42,36.42,"96-UKT-550, Sugozu Measured Section II, Alakircay Nappe",NA,"",22,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,"carnian",25087,27.3013,-0.2589,45,1
 "90171",130624,"col","Sapadere",32.42,36.42,"96-UKT-551, Sugozu Measured Section II, Alakircay Nappe",NA,"",29,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,"carnian",25087,27.3013,-0.2589,45,1
 "90172",130625,"col","Sapadere",32.42,36.42,"96-UKT-552, Sugozu Measured Section II, Alakircay Nappe",NA,"",20,"Julian","",235,232,42261,"gp_mid",38.9,2.96,"504",233.5,"carnian",25087,27.3013,-0.2589,45,1
@@ -634,6 +649,7 @@
 "95995",137997,"col","Blaa Mountain",-94.54,80.53,"GSC 64787, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.62,54.8,"106",233.5,"carnian",26811,-23.9136,43.7229,45,1
 "95996",137998,"col","Blaa Mountain",-94.49,80.53,"GSC 64795, Griesbach Creek, Axel Heiberg Island",NA,"",1,"Julian","",235,232,11541,"gp_mid",-3.61,54.79,"106",233.5,"carnian",26812,-23.9136,43.7229,45,1
 "96148",138155,"col","Wetterstein",13.68,46.62,"St. Oswald adit, Bad Bleiberg",NA,"",6,"Julian","",235,232,44182,"gp_mid",34.62,16.05,"307",233.5,"carnian",11352,18.0172,29.8178,45,1
+"96237",138252,"col","Grabfeld",9.09,48.53,"Lustnau Gipskeuper near Tübingen",NA,"",1,"Carnian","",237,228,44389,"gp_mid",25.73,28.09,"305",232.5,"carnian",26917,14.1194,26.1017,45,1
 "96239",138254,"col","Physiocardia-beds",18,46,"Jeruzsalemhegy, Physiocardia-beds",NA,"Jerusalem Hill",1,"Carnian","",237,228,44207,"gp_mid",35.58,13.31,"308",232.5,"carnian",8732,16.0998,16.2153,45,1
 "96245",138260,"col","Cassian",11.94,46.57,"St. Cassian (Bayrischen Staatssammlung)",NA,"",3,"Julian","",235,232,15765,"gp_mid",33.92,17.04,"307",233.5,"carnian",26672,16.0856,27.932,45,1
 "96247",138262,"col","Cassian",12.13,46.52,"Cortina d'Ampezzo (Ogilvie coll)",NA,"",12,"Julian","",235,232,15765,"gp_mid",33.95,16.9,"307",233.5,"carnian",8966,16.0856,27.932,45,1
@@ -752,6 +768,7 @@
 "99671",142193,"col","San Cassian",11.87,46.53,"PCM 5, Crep de Mont",NA,"",1,"Julian","",235,232,46118,"gp_mid",33.86,17.06,"307",233.5,"carnian",27506,16.0856,27.932,45,1
 "99672",142194,"col","San Cassian",11.87,46.62,"OI-E, Col da Oi",NA,"",1,"Julian","",235,232,46118,"gp_mid",33.94,17.11,"307",233.5,"carnian",27507,16.0856,27.932,45,1
 "99675",142197,"col","Toad",-123.02,57.26,"Sikanni Chief River",NA,"",1,"Julian","",235,232,11541,"gp_mid",-35.97,39.02,"101",233.5,"carnian",27508,-48.488,27.0722,45,1
+"101170",144005,"col","Babuk",40.49,44.03,"Tkhach River, Proarcestes-Phloioceras beds",NA,"",1,"Julian","",235,232,34220,"gp_mid",51.08,32.2,"302",233.5,"carnian",27687,34.0458,42.5872,45,1
 "101455",144375,"col","",-141.75,61.7,"Locality 8479, Skolai Pass",NA,"",1,"Julian","",235,232,8858,"gp_mid",-71.17,52.94,"125",233.5,"carnian",27730,-86.1077,15.6715,45,1
 "101458",144378,"col","",-141.73,65.19,"USGS 9384, south bank of Yukon River",NA,"",5,"Julian","",235,232,8858,"gp_mid",-40.72,50.45,"101",233.5,"carnian",3802,-56.8101,29.4703,45,1
 "101528",144462,"col","Botneheia",15.35,78.53,"Tschermakfjellet",NA,"Ichthyosaur locality",1,"Carnian","",237,228,46701,"gp_mid",12.28,56.62,"309",232.5,"carnian",6085,-14.24,46.2481,45,1
@@ -808,7 +825,12 @@
 "108189",153391,"col","",19.95,43.3,"2/6e, Krš Gradac, Zlatibor Mountains",NA,"",2,"Carnian","",237,228,49411,"gp_mid",34.18,10.6,"307",232.5,"carnian",29033,17.2097,11.3632,45,1
 "108190",153392,"col","",19.87,44.18,"B02/01, Bukovi, Maljen Ophiolite Massif",NA,"",5,"Carnian","",237,228,49411,"gp_mid",34.86,11.17,"308",232.5,"carnian",29034,16.0998,16.2153,45,1
 "108809",154218,"col","",15.57,48.05,"quarry south of Eschenau, Bühler valley",NA,"",1,"Carnian","",237,228,50045,"gp_mid",36.37,15.83,"307",232.5,"carnian",29199,18.0172,29.8178,45,1
+"108811",154220,"col","",8.84,48.52,"quarry east of Gottwollshausen",NA,"",1,"Carnian","",237,228,50045,"gp_mid",25.56,28.03,"305",232.5,"carnian",29201,14.1194,26.1017,45,1
 "108913",154340,"col","",13.56,46.44,"Raibl, coll. Vienna",NA,"",1,"Carnian","",237,228,50177,"gp_mid",34.2,16.11,"307",232.5,"carnian",29225,18.0172,29.8178,45,1
+"108986",154437,"col","Neuewelt",7.59,47.56,"Neuewelt, Basel, coll. NHM Basel",NA,"",1,"Carnian","",237,228,50212,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"108987",154438,"col","Neuewelt",7.59,47.56,"Neuewelt, Basel, coll. Naturmuseum Olten",NA,"",1,"Carnian","",237,228,50212,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"108988",154439,"col","Neuewelt",7.59,47.56,"Neuewelt, Basel, coll. ETH Zürich",NA,"",1,"Carnian","",237,228,50212,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"108989",154440,"col","Neuewelt",7.59,47.56,"Neuewelt, Basel, NRM Stockholm",NA,"",1,"Carnian","",237,228,50212,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
 "108990",154441,"col","Lunz",15.03,47.86,"Lunz, coll. NRM Stockholm",NA,"",2,"Carnian","",237,228,50212,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
 "108991",154442,"col","Lunz",15.03,47.86,"Lunz, coll. NHM Vienna",NA,"",2,"Carnian","",237,228,50212,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
 "108992",154443,"col","Lunz",15.03,47.86,"Lunz, coll. Utrecht University",NA,"",2,"Carnian","",237,228,50212,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
@@ -817,6 +839,18 @@
 "109003",154454,"col","",11.55,46.67,"Stuores Wiesen (Dolomites)",NA,"",3,"Carnian","",237,228,50216,"gp_mid",33.64,17.41,"307",232.5,"carnian",29243,16.0856,27.932,45,1
 "109004",154455,"col","",13.32,46.47,"Dogna (Julian Alps)",NA,"",26,"Carnian","",237,228,50216,"gp_mid",34.13,16.27,"307",232.5,"carnian",29244,18.0172,29.8178,45,1
 "109005",154456,"col","",13.56,46.44,"Raibl, coll. Naturmuseum Südtirol, Bozen",NA,"",1,"Carnian","",237,228,50218,"gp_mid",34.2,16.11,"307",232.5,"carnian",29225,18.0172,29.8178,45,1
+"109030",154486,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. ETH Zürich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109031",154487,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. Kelber",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109032",154488,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. MfN Berlin",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109033",154489,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. MfN Stuttgart",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109034",154490,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. NRM Stockholm",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109035",154491,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. Bayerische Staatssammlung Munich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109036",154492,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. University Utrecht",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109037",154493,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. Naturalis Leiden",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109038",154494,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. Tübingen University",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109039",154495,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. NHM London",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109040",154496,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. BGL Munich",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
+"109041",154497,"col","Stuttgart",7.59,47.56,"Neuewelt, Basel, coll. University Innsbruck",NA,"",1,"Carnian","",237,228,50222,"gp_mid",24.97,26.87,"305",232.5,"carnian",29238,14.1194,26.1017,45,1
 "109094",154550,"col","Lunz",15.03,47.86,"Lunz, coll. MfN Berlin",NA,"",1,"Carnian","",237,228,50222,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
 "109095",154551,"col","Lunz",15.03,47.86,"Lunz, coll. MfN Stuttgart",NA,"",1,"Carnian","",237,228,50222,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
 "109096",154552,"col","Lunz",15.03,47.86,"Lunz, coll. Naturalis Leiden",NA,"",1,"Carnian","",237,228,50222,"gp_mid",36,16.03,"307",232.5,"carnian",29239,18.0172,29.8178,45,1
@@ -849,6 +883,7 @@
 "112200",159579,"col","Wetterstein",11.13,47.42,"Wettersteinschroffen in Wetterstein range",NA,"",1,"Julian","",235,232,52123,"gp_mid",34.4,17.95,"307",233.5,"carnian",30081,16.0856,27.932,45,1
 "112458",159884,"col","",13.57,46.44,"Thörleralpels, near Raibl",NA,"",1,"Julian","",235,232,52144,"gp_mid",34.41,16.01,"307",233.5,"carnian",19302,18.0172,29.8178,45,1
 "112615",160167,"col","Raibl",11.67,46.5,"Plateau des Schlern, Südtirol",NA,"",3,"Julian","",235,232,52145,"gp_mid",33.76,17.16,"307",233.5,"carnian",27807,16.0856,27.932,45,1
+"112618",160170,"col","",25.44,47.51,"Pojorata, Bukowina",NA,"Pozoritta",22,"Julian","",235,232,52145,"gp_mid",40.13,10.04,"308",233.5,"carnian",30231,23.7584,35.5206,45,1
 "112619",160171,"col","Halstatt",13.72,47.67,"Vorderen Sandling, beds with Trachyceras aonoides",NA,"Millibrunnkogel",9,"Julian","",235,232,52145,"gp_mid",35.56,16.57,"307",233.5,"carnian",30232,18.0172,29.8178,45,1
 "112624",160183,"col","Halstatt",13.63,47.56,"Someraukogel, rothen Kalken",NA,"Sommeraukogel",2,"Julian","",235,232,52145,"gp_mid",35.43,16.57,"307",233.5,"carnian",30236,18.0172,29.8178,45,1
 "112625",160184,"col","",12.8,47.47,"Stoissen-Alpe, Brändelhorn near Saalfelden",NA,"",1,"Julian","",235,232,52145,"gp_mid",35.04,17,"307",233.5,"carnian",30237,16.0856,27.932,45,1
@@ -962,8 +997,12 @@
 "134555",197740,"col","Huglu Tuffite",34.24,36.92,"Kilek section, Kilek-24",NA,"",74,"Julian","",235,232,67426,"gp_mid",40.45,2.92,"504",233.5,"carnian",35370,27.3013,-0.2589,45,1
 "135964",200936,"col","Sanqiao",106.68,26.58,"Erqiao, Guiyang",NA,"",1,"Carnian","",237,228,47190,"gp_mid",111.96,2.78,"611",232.5,"carnian",35682,118.5018,29.511,45,1
 "136130",201161,"col","Wuge",103.75,24.54,"Wayao, Luxi",NA,"",1,"Carnian","",237,228,47190,"gp_mid",109.34,0.7,"611",232.5,"carnian",35715,118.5458,27.0113,45,1
+"136133",201288,"col","Santa Juana",-72.9,-37.1,"Cerro Calquinhue",NA,"",15,"Carnian","",237,228,68925,"gp_mid",-31.54,-43.41,"291",232.5,"carnian",35717,-36.2313,-60.5449,45,1
+"136171",201289,"col","Santa Juana",-72.94,-37.09,"Road between Quilacoya and Chillancito",NA,"",3,"Carnian","",237,228,68925,"gp_mid",-31.58,-43.39,"291",232.5,"carnian",35721,-36.2313,-60.5449,45,1
+"136172",201290,"col","Santa Juana",-73.02,-37.02,"Near Patagual",NA,"Biobio River",3,"Carnian","",237,228,68925,"gp_mid",-31.67,-43.33,"291",232.5,"carnian",35722,-36.2313,-60.5449,45,1
 "136327",201825,"col","",28.1,36.21,"Mount Karavos, Rhodes Island",NA,"",5,"Carnian","",237,228,69069,"gp_mid",35.46,4.18,"504",232.5,"carnian",35757,21.0606,2.6614,45,1
 "136437",201939,"col","",169.8,-46.44,"Nugget Point",NA,"",11,"Carnian","",237,228,69156,"gp_mid",86.3,-84,"807",232.5,"carnian",35789,112.4971,-70.5888,45,1
+"136445",201951,"col","",-102.63,22.79,"Puente del Ahogado, Zacatecas",NA,"Arroyo Calavera, Pimienta",25,"Julian","",235,232,69167,"gp_mid",-38.15,5.22,"104",233.5,"carnian",35794,-49.083,-6.5626,45,1
 "136450",201956,"col","",14.45,46.77,"Launsdorf I",NA,"",36,"Carnian","",237,228,69172,"gp_mid",34.83,15.77,"307",232.5,"carnian",9605,18.0172,29.8178,45,1
 "136451",201957,"col","",14.45,46.77,"Launsdorf II",NA,"",10,"Carnian","",237,228,69172,"gp_mid",34.83,15.77,"307",232.5,"carnian",9605,18.0172,29.8178,45,1
 "136452",201958,"col","",14.45,46.77,"Launsdorf III",NA,"",2,"Carnian","",237,228,69172,"gp_mid",34.83,15.77,"307",232.5,"carnian",9605,18.0172,29.8178,45,1
@@ -1063,6 +1102,7 @@
 "139914",206751,"col","",78.37,32.01,"Between Pomrang and Manirang, Spiti",NA,"Pomarang, Mani",1,"Julian","",235,232,71075,"gp_mid",56.37,-33.78,"501",233.5,"carnian",36812,74.1193,-18.1718,45,1
 "139940",206777,"col","Zhuganpo",105.34,25.65,"Lamacun, Xinpu, Guanling",NA,"",3,"Carnian","",237,228,71113,"gp_mid",110.78,1.82,"611",232.5,"carnian",36823,118.5458,27.0113,45,1
 "139958",206834,"col","Cassian",11.99,46.51,"Sass de Stria",NA,"",3,"Julian","",235,232,71147,"gp_mid",33.89,16.98,"307",233.5,"carnian",33806,16.0856,27.932,45,1
+"140389",207683,"col","Santa Juana",-72.84,-37.2,"Gomero, Bíobío River",NA,"",17,"Carnian","",237,228,71626,"gp_mid",-31.46,-43.5,"291",232.5,"carnian",36998,-36.2313,-60.5449,45,1
 "142092",210059,"col","Falang",108.26,28.7,"Huangtutang",NA,"",1,"Carnian","",237,228,72415,"gp_mid",113.3,4.94,"611",232.5,"carnian",37302,122.3245,29.5587,45,1
 "142638",210803,"col","",80.92,30.23,"Kalapani, Tropites Limestone",NA,"",10,"Carnian","",237,228,72784,"gp_mid",55.94,-36.32,"501",232.5,"carnian",37445,75.2593,-22.0934,45,1
 "142723",210932,"col","",80.88,30.28,"Left side of Tera Gadh, N of Kalapani",NA,"",2,"Carnian","",237,228,72784,"gp_mid",55.97,-36.27,"501",232.5,"carnian",37453,75.2593,-22.0934,45,1

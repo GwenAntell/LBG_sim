@@ -21,17 +21,35 @@
 "17381",31604,"col","",36.38,39.12,"Yenikoy",NA,"Yeniköy",8,"Early Oligocene","",33.9,28.4,8520,"gp_mid",37.79,33.34,"504",31.15,"rupelian",3508,33.9328,37.5885,12,1
 "17382",31605,"col","Lignite-Sandstone",26.81,40.92,"Kavakdere",NA,"",17,"Early Oligocene","",33.9,28.4,8520,"gp_mid",28.23,31.22,"308",31.15,"rupelian",3509,21.2228,38.5799,12,1
 "17383",31606,"col","Lignite-Sandstone",26.82,41,"Kocayarma",NA,"",19,"Early Oligocene","",33.9,28.4,8520,"gp_mid",28.26,31.3,"308",31.15,"rupelian",3510,21.2228,38.5799,12,1
+"19856",34484,"col","Maniyara Fort",68.8,23.67,"Lakhpat, Kutch, India",NA,"Reef 3120",10,"Rupelian","",33.9,28.1,9086,"gp_mid",69.46,9.1,"501",31,"rupelian",3953,61.0151,12.9429,12,1
 "20238",35013,"col","Suwannee Limestone",-83.14,29.33,"Suwannee Limestone (unspecified localitoes)",NA,"",11,"Early Oligocene","",33.9,28.4,9411,"gp_mid",-70.39,32.25,"109",31.15,"rupelian",4051,-75.6885,28.4949,12,1
 "20239",35014,"col","Bridgeboro Limestone",-85.23,30.78,"Bridgeboro Limestone (Florida) fauna",NA,"Bridgeboro Limestone fauna",3,"Rupelian","",33.9,28.1,9411,"gp_mid",-72.25,33.97,"109",31,"rupelian",4052,-79.3741,28.7841,12,1
 "20240",35015,"col","Marianna",-85.23,30.77,"Marianna Limestone (Florida) fauna",NA,"Marianna Limestone fauna",2,"Rupelian","",33.9,28.1,9411,"gp_mid",-72.24,33.96,"109",31,"rupelian",4053,-79.3741,28.7841,12,1
 "23783",39965,"col","Lincoln Creek",-123.61,46.58,"UCMP A1810, Willapa river, east of Holcomb",NA,"",14,"Rupelian","",33.9,28.1,58580,"gp_mid",-106.61,51.6,"129",31,"rupelian",4973,-114.3346,48.667,12,1
 "24266",40734,"col","Porter",-123.31,46.94,"Porter Shale of WA",NA,"",1,"Early Oligocene","",33.9,28.4,10972,"gp_mid",-106.24,51.96,"129",31.15,"rupelian",5133,-114.3346,48.667,12,1
+"24547",41074,"col","Qom",52.73,31.5,"Abadeh, solitary coral assemblage, Iran",NA,"",6,"Rupelian","",33.9,28.1,11059,"gp_mid",52.45,23.37,"512",31,"rupelian",5196,47.7279,32.3541,12,1
 "24601",41197,"col","Suwannee Limestone",-85.59,30.63,"USGS Loc. 8854, 8855, 8856, 10461  - A.L. Parrish Farm [Suwannee Lmst]",NA,"USGS Loc. 12723, 12723, 13857",36,"Early Oligocene","",33.9,28.4,11080,"gp_mid",-72.64,33.87,"109",31.15,"rupelian",5222,-79.3741,28.7841,12,1
 "25055",120417,"col","Makah",-123.76,48.13,"Whiskey Creek",NA,"",2,"Rupelian","",33.9,28.1,38489,"gp_mid",-106.61,53.16,"129",31,"rupelian",5377,-114.3346,48.667,12,1
 "25402",42141,"col","Um ad Dahiv",17.33,29.67,"Dur el Abd Cliffs - Um ad Dahiv Fm",NA,"",2,"Early Oligocene","",33.9,28.4,11199,"gp_mid",19.61,21.62,"715",31.15,"rupelian",5482,14.6093,25.4583,12,1
 "25403",42142,"col","Um ad Dahiv",17.33,29.67,"An Nuwfaliyah - Um ad Dahiv Fm",NA,"",10,"Early Oligocene","",33.9,28.4,11199,"gp_mid",19.61,21.62,"715",31.15,"rupelian",5482,14.6093,25.4583,12,1
 "25406",42145,"col","Um ad Dahiv",17.33,29.67,"Dor el Abd - Um ad Dahiv Fm",NA,"",2,"Early Oligocene","",33.9,28.4,11199,"gp_mid",19.61,21.62,"715",31.15,"rupelian",5482,14.6093,25.4583,12,1
+"25896",90085,"col","Port Willunga",138.47,-35.18,"Seaford [Port Willunga Fm]",NA,"",4,"Early Oligocene","",33.9,28.4,30216,"gp_mid",145.15,-51.38,"801",31.15,"rupelian",5650,134.4656,-51.499,12,1
+"25911",90084,"col","Port Willunga",138.48,-35.28,"Maslin's Beach [Ruwarung Mbr, Port Willunga Fm]",NA,"",2,"Early Oligocene","",33.9,28.4,30216,"gp_mid",145.21,-51.47,"801",31.15,"rupelian",5657,134.4656,-51.499,12,1
 "26142",43064,"col","",-98.83,26.27,"USGS 13505 - Tamaulipas, Mexico (Lower Marine Sandstone, Oligocene",NA,"USGS 13505",8,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.06,31.22,"101",31.15,"rupelian",5714,-90.7536,27.1906,12,1
+"26143",43065,"col","",-99.17,25.8,"USGS 13518 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13518",7,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26144",43066,"col","",-99.17,25.8,"USGS 13521 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13521",2,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26145",43067,"col","",-99.17,25.8,"USGS 13509 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13509",9,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26146",43068,"col","",-99.17,25.8,"USGS 13510 - Rancho La Copa, Zacate",NA,"",13,"Rupelian","",33.9,28.1,27257,"gp_mid",-87.48,30.8,"101",31,"rupelian",5715,-91.0045,24.7008,12,1
+"26147",43069,"col","",-99.17,25.8,"USGS 13511 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13511",6,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26148",43070,"col","",-99.17,25.8,"USGS 13522 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13522",3,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26155",43077,"col","",-99.17,25.8,"USGS 14056 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 14056",8,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26156",43078,"col","",-99.17,25.8,"USGS 13531 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13531",1,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26157",43079,"col","",-99.17,25.8,"USGS 13537, Zacate, General Bravo",NA,"",3,"Rupelian","",33.9,28.1,27257,"gp_mid",-87.48,30.8,"101",31,"rupelian",5715,-91.0045,24.7008,12,1
+"26158",43080,"col","",-99.17,25.8,"USGS 14023- Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 14023",5,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26159",43081,"col","",-99.17,25.8,"USGS 13517 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13517",1,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26160",43082,"col","",-99.17,25.8,"USGS 13535 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13535",3,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26161",43083,"col","",-99.17,25.8,"USGS 13539 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13539",11,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.48,30.8,"101",31.15,"rupelian",5715,-91.0045,24.7008,12,1
+"26162",43084,"col","",-99.23,25.7,"USGS 13532 - Nuevo Leon, Mexico (Lower Marine Sandstone, Oligocene)",NA,"USGS 13532",2,"Early Oligocene","",33.9,28.4,7474,"gp_mid",-87.56,30.71,"101",31.15,"rupelian",5716,-91.0045,24.7008,12,1
 "28044",45429,"col","Aluginskaya",165.92,60.42,"Gulf of Korfa, Eastern Kamchatka (I)",NA,"",26,"Early Oligocene","",33.9,28.4,11836,"gp_mid",161.55,65.73,"485",31.15,"rupelian",6313,166.9355,63.994,12,1
 "28045",45430,"col","Aluginskaya",165.92,60.42,"Gulf of Korfa, Eastern Kamchatka (II)",NA,"",44,"Early Oligocene","",33.9,28.4,11836,"gp_mid",161.55,65.73,"485",31.15,"rupelian",6313,166.9355,63.994,12,1
 "28115",45500,"col","Ashley",-80.09,32.96,"Woodstock Station",NA,"",8,"Rupelian","",33.9,28.1,11915,"gp_mid",-66.58,35.42,"109",31,"rupelian",6349,-71.7627,30.7029,12,1
@@ -44,6 +62,8 @@
 "28411",45807,"col","Makah",-124.43,48.3,"LACMVP 5984",NA,"",2,"Rupelian","",33.9,28.1,12149,"gp_mid",-107.34,53.36,"129",31,"rupelian",6488,-114.3346,48.667,12,1
 "28412",45808,"col","Makah",-124.41,48.29,"CSUN 1579, UWBM loc. C1660",NA,"",5,"Rupelian","",33.9,28.1,12149,"gp_mid",-107.31,53.35,"129",31,"rupelian",6489,-114.3346,48.667,12,1
 "28417",45812,"col","Lincoln Creek",-123.4,47.25,"LACMVP 6290",NA,"Matlock",1,"Rupelian","",33.9,28.1,48554,"gp_mid",-106.31,52.27,"129",31,"rupelian",6494,-114.3346,48.667,12,1
+"28428",45823,"col","Buccleuch",139.45,-35.28,"Fred's Landing",NA,"Tailem Bend",18,"Rupelian","",33.9,28.1,12172,"gp_mid",146.44,-51.28,"801",31,"rupelian",6499,134.4656,-51.499,12,1
+"28429",45824,"col","Port Willunga",138.45,-35.32,"Port Willunga cliffs",NA,"",2,"Rupelian","",33.9,28.1,12172,"gp_mid",145.18,-51.51,"801",31,"rupelian",6500,134.4656,-51.499,12,1
 "28623",46092,"col","Rupel",9.52,53.92,"Itezhoe",NA,"",1,"Early Oligocene","",33.9,28.4,12298,"gp_mid",13.81,48.49,"315",31.15,"rupelian",6577,4.9231,52.6454,12,1
 "28631",46100,"col","Rupel",11.97,51.75,"Köthen",NA,"",1,"Rupelian","",33.9,28.1,12298,"gp_mid",15.83,46.24,"315",31,"rupelian",6583,5.2844,50.1555,12,1
 "30986",48625,"col","Glen Aire Clay",143.52,-38.85,"Point Flinders, Cape Otway, Victoria (lower Glen Aire Clay)",NA,"lower Glen Aire Clay",11,"Early Oligocene","",33.9,28.4,12938,"gp_mid",153.17,-53.83,"801",31.15,"rupelian",7317,140.4245,-56.1371,12,1
@@ -106,6 +126,9 @@
 "40763",61121,"col","Suwannee Limestone",-82.59,28.9,"Crystal River Rock Co. Quarry - Bed 11 (Suwannee Lmst)",NA,"",2,"Early Oligocene","",33.9,28.4,17557,"gp_mid",-69.9,31.76,"109",31.15,"rupelian",9841,-75.6885,28.4949,12,1
 "40764",61122,"col","Suwannee Limestone",-82.59,28.9,"Crystal River Rock Co. Quarry - Bed 12 (Suwannee Lmst)",NA,"",5,"Early Oligocene","",33.9,28.4,17557,"gp_mid",-69.9,31.76,"109",31.15,"rupelian",9841,-75.6885,28.4949,12,1
 "40765",61123,"col","Suwannee Limestone",-82.59,28.9,"Crystal River Rock Co. Quarry - Bed 13 (Suwannee Lmst)",NA,"",7,"Early Oligocene","",33.9,28.4,17557,"gp_mid",-69.9,31.76,"109",31.15,"rupelian",9841,-75.6885,28.4949,12,1
+"40862",61231,"col","",-97.68,20.7,"Station 52 La Cieba Crossing, Tumbadero",NA,"",1,"Early Oligocene","",33.9,28.4,17583,"gp_mid",-86.68,25.57,"101",31.15,"rupelian",9866,-91.4782,19.7201,12,1
+"40863",61232,"col","Palma Real",-97.68,20.7,"Station 53 La Cieba Crossing, Tumbadero",NA,"",2,"Early Oligocene","",33.9,28.4,17583,"gp_mid",-86.68,25.57,"101",31.15,"rupelian",9866,-91.4782,19.7201,12,1
+"40864",61233,"col","Palma Real",-97.68,20.7,"Station 54 La Cieba Crossing, Tumbadero",NA,"",1,"Early Oligocene","",33.9,28.4,17583,"gp_mid",-86.68,25.57,"101",31.15,"rupelian",9866,-91.4782,19.7201,12,1
 "40914",61286,"col","Old Church",-76.39,37.1,"Langley Core, VA - 155.48-155.51 m (Old Church Fm)",NA,"510.1-510.2 ft",1,"Early Oligocene","",33.9,28.4,17631,"gp_mid",-61.94,38.97,"109",31.15,"rupelian",9884,-67.5809,35.4096,12,1
 "43372",65039,"col","",-79.46,21.82,"Paredes",NA,"",1,"Early Oligocene","",33.9,28.4,18733,"gp_mid",-67.96,24.32,"206",31.15,"rupelian",10458,-72.6986,20.7384,12,1
 "43383",65061,"col","",7.54,47.42,"Brislach",NA,"",1,"Rupelian","",33.9,28.1,18736,"gp_mid",11.52,42.06,"305",31,"rupelian",10466,2.329,44.9762,12,1
@@ -124,6 +147,8 @@
 "45389",67928,"col","Deborah Volcanic",170.91,-45.18,"Deborah Volcanic Fm, Kakanui Beach",NA,"Coll# 3099 (Hendy PhD)",6,"Early Oligocene","",33.9,28.4,18671,"gp_mid",-165.88,-46.76,"807",31.15,"rupelian",11006,-173.4881,-52.2109,12,1
 "45455",68021,"col","",8.82,49.15,"Frauenweiler",NA,"Grube Unterfeld; Bott-Eder clay pit; Rauenberg",296,"Rupelian","",33.9,28.1,25150,"gp_mid",12.81,43.74,"305",31,"rupelian",11019,2.0493,47.4687,12,1
 "46227",68876,"col","Calcaires lithographiques de Vachères",5.63,43.93,"Pichovet",NA,"",4,"MP 24","",33.9,28.4,19878,"gp_mid",9.52,38.65,"305",31.15,"rupelian",11239,2.5854,42.483,12,1
+"46228",68877,"col","",-1.15,40.97,"Olalla 4A",NA,"",14,"Early Oligocene","",33.9,28.4,19879,"gp_mid",3.17,36.3,"304",31.15,"rupelian",11240,-3.8765,36.8637,12,1
+"46229",68878,"col","",-0.8,40.83,"Montalbán 1D",NA,"Montalban 1D",19,"Early Oligocene","",33.9,28.4,19879,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
 "46711",69701,"col","Calcareniti di Castelgomberto",11.52,45.43,"Colli Berici, Vicenza",NA,"Reef 683",35,"Early Oligocene","",33.9,28.4,23384,"gp_mid",16.27,38.14,"307",31.15,"rupelian",11425,9.6638,40.8005,12,1
 "46724",69724,"col","Moneague",-77.37,18.4,"Browns Town area, St. Ann parish [Browns Town Lmst, Moneague Fm]",NA,"Reef 2870",54,"Early Oligocene","",33.9,28.4,23393,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",11433,-82.2093,12.2528,12,1
 "46792",69805,"col","",-2.34,48.48,"Vayres-sure-Essone",NA,"Carrière de La Roche-Cassée",41,"Early Oligocene","",33.9,28.4,23435,"gp_mid",2.62,43.55,"305",31.15,"rupelian",11450,-8.3393,44.4519,12,1
@@ -198,6 +223,12 @@
 "48127",71657,"col","San Julián",-67.68,-49.3,"La Mina Beach, Santa Cruz - San Julian Fm",NA,"",4,"Early Oligocene","",33.9,28.4,24209,"gp_mid",-62.3,-49.36,"291",31.15,"rupelian",11765,-59.5367,-53.8903,12,1
 "48325",71943,"col","Jebel Qatrani",30.58,29.45,"Quarry G (Jebel Qatrani Formation) (= ""upper sequence"")",NA,"",9,"Rupelian","",33.9,28.1,24335,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
 "49778",74630,"col","Eptachorion",21.17,40.13,"Mesolouri (Eptachorion Fm)",NA,"",7,"Rupelian","",33.9,28.1,25005,"gp_mid",23.13,31.32,"307",31,"rupelian",12170,19.4362,34.6993,12,1
+"50617",76196,"col","Qom",52.74,31.52,"AB/16 - Abadeh (Qom Fm)",NA,"",3,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"50618",76197,"col","Qom",52.74,31.52,"AB/18 - Abadeh (Qom Fm)",NA,"",4,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"50619",76198,"col","Qom",52.74,31.52,"AB/31 - Abadeh (Qom Fm)",NA,"",4,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"50620",76199,"col","Qom",52.74,31.52,"AB/41 - Abadeh (Qom Fm)",NA,"",42,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"50621",76200,"col","Qom",52.74,31.52,"AB/53 - Abadeh (Qom Fm)",NA,"",4,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"50629",76208,"col","Qom",52.74,31.52,"AB/58 - Abadeh (Qom Fm)",NA,"",3,"Rupelian","",33.9,28.1,25005,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
 "50780",76716,"col","Bridgeboro",-84.21,30.88,"Grady Aggregate Company quarry",NA,"Cairo",1,"Early Oligocene","",33.9,28.4,25957,"gp_mid",-71.18,33.93,"109",31.15,"rupelian",12552,-75.6885,28.4949,12,1
 "50993",77157,"col","Nari",67,30.17,"Nari beds - NE of Quetta, Baluchistan",NA,"",19,"Early Oligocene","",33.9,28.4,26063,"gp_mid",67.02,25.41,"506",31.15,"rupelian",12622,63.2164,25.3416,12,1
 "50994",77158,"col","Nari",66,28,"Nari beds - Kudin, Baluchistan",NA,"",21,"Early Oligocene","",33.9,28.4,26063,"gp_mid",66.22,23.19,"507",31.15,"rupelian",12623,61.8402,17.8793,12,1
@@ -211,28 +242,49 @@
 "51279",77774,"col","Moneague",-76.97,18.1,"Jackson Town [Browns Town Lmst, Moneague Fm]",NA,"",1,"Early Oligocene","",33.9,28.4,26266,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",12707,-82.2093,12.2528,12,1
 "51280",77775,"col","Moneague",-77.18,18.32,"Saint Ann [Browns Town Lmst, Moneague Fm]",NA,"",7,"Early Oligocene","",33.9,28.4,26266,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",12708,-82.2093,12.2528,12,1
 "51290",77785,"col","Chitarwata",69.12,28.85,"Lando Chur",NA,"Bugti Hills; Chur Lando; Lundo Chur",5,"Rupelian","",33.9,28.1,26268,"gp_mid",70.92,14.08,"501",31,"rupelian",12709,63.2164,25.3416,12,1
+"51684",78396,"col","Arita",129.75,33.33,"Arita 1",NA,"",1,"Early Oligocene","",33.9,28.4,26376,"gp_mid",126.62,35.68,"610",31.15,"rupelian",12833,128.7004,36.3002,12,1
+"51685",78397,"col","Arita",129.9,33.2,"Arita 2",NA,"",1,"Early Oligocene","",33.9,28.4,26376,"gp_mid",126.8,35.57,"610",31.15,"rupelian",12834,128.7004,36.3002,12,1
+"51687",78399,"col","Kiuragi",129.75,33.33,"Kiuragi",NA,"",1,"Early Oligocene","",33.9,28.4,26376,"gp_mid",126.62,35.68,"610",31.15,"rupelian",12833,128.7004,36.3002,12,1
 "51797",78520,"col","Chitarwata",69.13,28.85,"Paali Nala level C2 (DBC2)",NA,"Bugti Hills; Gandoï syncline; DB-C2; Dera Bugti C2",43,"Early Oligocene","",33.9,28.4,26396,"gp_mid",70.94,14.08,"501",31.15,"rupelian",12862,63.2164,25.3416,12,1
 "52101",78983,"col","Gianti",51.08,11.28,"Loc. 8 - Gianti Fm",NA,"",8,"Early Oligocene","",33.9,28.4,26500,"gp_mid",49.62,2.34,"709",31.15,"rupelian",12936,47.7334,8.4684,12,1
+"52110",78995,"col","Gheldeis",50.15,10.28,"Loc. 4, Bed F [Gheldeis Fm]",NA,"",2,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.72,1.32,"709",31.15,"rupelian",12942,44.1183,5.8395,12,1
+"52111",78996,"col","Gheldeis",50.15,10.28,"Loc. 4, Bed D [Gheldeis Fm]",NA,"",1,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.72,1.32,"709",31.15,"rupelian",12942,44.1183,5.8395,12,1
+"52112",78997,"col","Gheldeis",50.15,10.28,"Loc. 4, Bed C [Gheldeis Fm]",NA,"",1,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.72,1.32,"709",31.15,"rupelian",12942,44.1183,5.8395,12,1
+"52113",78998,"col","Gheldeis",50.15,10.28,"Loc. 4, Bed B [Gheldeis Fm]",NA,"",2,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.72,1.32,"709",31.15,"rupelian",12942,44.1183,5.8395,12,1
+"52114",78999,"col","Gheldeis",50.15,10.28,"Loc. 4, Bed A [Gheldeis Fm]",NA,"",5,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.72,1.32,"709",31.15,"rupelian",12942,44.1183,5.8395,12,1
 "52115",79009,"col","Chitarwata",69.2,28.85,"Y-GSP 417",NA,"Bugti",12,"Early Oligocene","",33.9,28.4,26501,"gp_mid",71,14.07,"501",31.15,"rupelian",12943,63.2164,25.3416,12,1
+"52137",79049,"col","Gheldeis",50.4,9.32,"Loc. 66 - Gheldeis Fm",NA,"",4,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.99,0.36,"709",31.15,"rupelian",12952,44.1183,5.8395,12,1
+"52138",79050,"col","Gheldeis",50.4,9.32,"Loc. 68 - Gheldeis Fm",NA,"",3,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.99,0.36,"709",31.15,"rupelian",12952,44.1183,5.8395,12,1
+"52142",79055,"col","Gheldeis",49.32,8.85,"Loc. 73 - Gheldeis Fm",NA,"",3,"Early Oligocene","",33.9,28.4,26500,"gp_mid",47.93,-0.13,"709",31.15,"rupelian",12953,44.1183,5.8395,12,1
+"52144",79056,"col","Gheldeis",49.5,10,"Loc. 74 - Gheldeis Fm",NA,"",2,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.09,1.02,"709",31.15,"rupelian",12954,44.1183,5.8395,12,1
+"52145",79057,"col","Gheldeis",49.05,8.43,"Loc. 87 - Gheldeis Fm",NA,"",1,"Early Oligocene","",33.9,28.4,26500,"gp_mid",47.67,-0.55,"709",31.15,"rupelian",12955,44.2009,3.3409,12,1
+"52146",79058,"col","Gheldeis",49.82,7.92,"Loc. 89 - Gheldeis Fm",NA,"",2,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.44,-1.05,"709",31.15,"rupelian",12956,44.2009,3.3409,12,1
+"52147",79059,"col","Gheldeis",49.8,7.87,"Loc. 91 - Gheldeis Fm",NA,"",9,"Early Oligocene","",33.9,28.4,26500,"gp_mid",48.42,-1.1,"709",31.15,"rupelian",12957,44.2009,3.3409,12,1
 "52149",79061,"col","",55.58,26.95,"Khamir (Oligocene limestone)",NA,"",6,"Early Oligocene","",33.9,28.4,26552,"gp_mid",53.3,14.16,"503",31.15,"rupelian",12959,50.48,18.9122,12,1
 "52150",79062,"col","",55.58,26.95,"Kuh-i-Namak (Oligocene limestone)",NA,"",1,"Early Oligocene","",33.9,28.4,26552,"gp_mid",53.3,14.16,"503",31.15,"rupelian",12959,50.48,18.9122,12,1
+"52160",79072,"col","",42.88,41.49,"Süngülü",NA,"",11,"Early Oligocene","",33.9,28.4,26491,"gp_mid",43.75,35.8,"511",31.15,"rupelian",12964,35.6709,42.0559,12,1
 "52161",79073,"col","",68.05,30.82,"Nisai Group (upper)",NA,"",13,"Early Oligocene","",33.9,28.4,26170,"gp_mid",70.46,16.21,"501",31.15,"rupelian",12965,63.2164,25.3416,12,1
 "52386",79603,"col","Eptachorion",21.14,40.13,"Doutsiko, Mesohellenic Basin",NA,"Reef 3798",30,"Rupelian","",33.9,28.1,26716,"gp_mid",23.1,31.32,"307",31,"rupelian",13020,19.4362,34.6993,12,1
+"52456",79737,"col","Villarrosano",-1.27,40.58,"Aguatón",NA,"Aguaton",8,"MP 21","",33.9,28.4,26808,"gp_mid",3.05,35.92,"304",31.15,"rupelian",13054,-3.8765,36.8637,12,1
 "52646",80184,"col","Suwannee Limestone",-82.18,28.23,"Terramar Pit [Suwannee Limestone]",NA,"",79,"Early Oligocene","",33.9,28.4,26976,"gp_mid",-69.61,31.04,"109",31.15,"rupelian",13124,-75.9334,26.0044,12,1
 "53040",81044,"col","",11.75,45.5,"Nummulitic limestone, Valle dell'Onte",NA,"",17,"Early Oligocene","",33.9,28.4,27270,"gp_mid",16.49,38.16,"307",31.15,"rupelian",13260,9.6638,40.8005,12,1
+"53124",81199,"col","",130.33,33.58,"Atagoyama Quarry, Meinohama",NA,"",8,"Rupelian","",33.9,28.1,27364,"gp_mid",127.17,36,"610",31,"rupelian",13282,128.7004,36.3002,12,1
 "53352",81596,"col","",6.77,51.43,"Duisburg",NA,"Kaiserberg",1,"Rupelian","",33.9,28.1,27521,"gp_mid",11.14,46.1,"315",31,"rupelian",13378,1.7417,49.9604,12,1
 "53353",81597,"col","",6.85,51.3,"Ratingen",NA,"Fliegselskamp",1,"Rupelian","",33.9,28.1,27521,"gp_mid",11.2,45.96,"315",31,"rupelian",13379,1.7417,49.9604,12,1
 "53354",81598,"col","",6.88,51.58,"Lake Kirchheller Heide",NA,"Bottrop",1,"Rupelian","",33.9,28.1,27521,"gp_mid",11.25,46.24,"315",31,"rupelian",13380,1.7417,49.9604,12,1
 "55348",84461,"col","Vachères limestones",5.67,43.97,"Revest-des-Brousses",NA,"Luberon",2,"MP 24","",33.9,28.4,28309,"gp_mid",9.56,38.69,"305",31.15,"rupelian",14073,2.5854,42.483,12,1
 "55629",84793,"col","",11.47,45.57,"Ligniti di Monteviale",NA,"",21,"Early Oligocene","",33.9,28.4,28452,"gp_mid",16.27,38.28,"307",31.15,"rupelian",14176,9.6638,40.8005,12,1
 "55659",84825,"col","",8.45,50.08,"Hofheim-Wallau",NA,"",1,"Rupelian","",33.9,28.1,28479,"gp_mid",12.55,44.69,"315",31,"rupelian",14192,2.0493,47.4687,12,1
+"55785",85001,"col","",21.68,37.55,"Lapinthas Mountain",NA,"",5,"Rupelian","",33.9,28.1,28527,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",14219,18.4391,31.983,12,1
 "56291",85745,"col","Rancho Berlin Sandstone",-92.92,16.85,"Colonia Manguito",NA,"Reef 3913",13,"Early Oligocene","",33.9,28.4,8422,"gp_mid",-82.34,21.17,"205",31.15,"rupelian",14415,-87.9758,16.9264,12,1
 "56292",85755,"col","Rancho Berlin Sandstone",-92.7,17.08,"Simojovel road section B-8230",NA,"",3,"Early Oligocene","",33.9,28.4,8422,"gp_mid",-82.09,21.38,"205",31.15,"rupelian",14416,-87.9758,16.9264,12,1
 "57300",87248,"col","",6.8,51.98,"Ratum",NA,"",6,"Rupelian","",33.9,28.1,29207,"gp_mid",11.22,46.64,"315",31,"rupelian",14824,1.7417,49.9604,12,1
 "57301",87249,"col","",5.41,52.2,"Kuiperberg",NA,"",32,"Rupelian","",33.9,28.1,29207,"gp_mid",10,46.92,"315",31,"rupelian",14825,-1.7885,49.7759,12,1
 "57302",87250,"col","",6.69,51.96,"Te Siepe & De Vlijt",NA,"",20,"Rupelian","",33.9,28.1,29207,"gp_mid",11.12,46.62,"315",31,"rupelian",14826,1.7417,49.9604,12,1
+"58138",88287,"col","",-22.05,70.15,"Coeloma beds, Kap Brewster",NA,"",11,"Early Oligocene","",33.9,28.4,29643,"gp_mid",0.03,64.27,"102",31.15,"rupelian",15085,-15.9331,65.4311,12,1
 "58199",88347,"col","Jebel Qatrani",30.58,29.45,"Northwest of Quarry A",NA,"",2,"Rupelian","",33.9,28.1,29671,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
 "58200",88348,"col","Jebel Qatrani",30.58,29.45,"Stuttgart Fayum collection",NA,"",4,"Rupelian","",33.9,28.1,29671,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
+"58856",92084,"col","Son Sastre Sandstones and Lutites",2.93,39.5,"S'Aresteta, Mallorca",NA,"Reef 4016",7,"Rupelian","",33.9,28.1,30997,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",15304,-0.7823,37.3354,12,1
 "59571",90547,"col","Red Bluff",-88.68,30.68,"Red Bluff [Red Bluff Clay]",NA,"",11,"Rupelian","",33.9,28.1,30459,"gp_mid",-75.81,34.33,"109",31,"rupelian",15592,-83.0695,29.0788,12,1
 "59575",90551,"col","Red Bluff",-87.15,31.15,"Escambia County, deep well [Red Bluff Clay]",NA,"",17,"Rupelian","",33.9,28.1,30459,"gp_mid",-74.14,34.59,"109",31,"rupelian",15595,-79.3741,28.7841,12,1
 "59580",90561,"col","Marianna Limestone",-87.1,31.07,"Murder Creek [Marianna Limestone]",NA,"",37,"Rupelian","",33.9,28.1,30459,"gp_mid",-74.11,34.5,"109",31,"rupelian",15598,-79.3741,28.7841,12,1
@@ -245,6 +297,7 @@
 "59948",91194,"col","Moneague",-77.37,18.4,"Browns Town, Parish of St Ann [Browns Town Lmst, Moneague Fm]",NA,"",1,"Early Oligocene","",33.9,28.4,30678,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",11433,-82.2093,12.2528,12,1
 "60051",91341,"col","",2.5,61.75,"Saga 2/2-4 well, 1800-1900 m",NA,"",1,"Early Oligocene","",33.9,28.4,30729,"gp_mid",8.62,56.56,"313",31.15,"rupelian",15769,-3.3363,59.7366,12,1
 "60053",91343,"col","",2,58,"Phillips (UK) 22/14-1x well, 7000-7100 m",NA,"",2,"Early Oligocene","",33.9,28.4,30729,"gp_mid",7.63,52.84,"302",31.15,"rupelian",15771,-2.4669,54.7587,12,1
+"60162",91468,"col","",-2.55,38.12,"Ciruelos 1A",NA,"CIR1A",4,"Rupelian","",33.9,28.1,30812,"gp_mid",1.72,33.5,"304",31,"rupelian",15815,-7.3936,34.2908,12,1
 "60175",91482,"col","Ashley",-80.12,32.89,"PQ-ARMP09 ",NA,"",1,"Rupelian","",33.9,28.1,43401,"gp_mid",-66.62,35.35,"109",31,"rupelian",15819,-71.7627,30.7029,12,1
 "60290",91608,"col","",-123.3,46.93,"N. P. 51 Porter Creek",NA,"",1,"Early Oligocene","",33.9,28.4,30879,"gp_mid",-106.23,51.95,"129",31.15,"rupelian",15848,-114.3346,48.667,12,1
 "60298",91620,"col","Lincoln Creek",-123.48,47.25,"Middle Fork Satsop River, UWBM B6782",NA,"",2,"Rupelian","",33.9,28.1,30882,"gp_mid",-106.4,52.27,"129",31,"rupelian",15854,-114.3346,48.667,12,1
@@ -262,11 +315,29 @@
 "60330",91656,"col","Castelgomberto",11.5,45.42,"Zovencedo",NA,"",2,"Rupelian","",33.9,28.1,30888,"gp_mid",16.25,38.13,"307",31,"rupelian",15870,9.6638,40.8005,12,1
 "60331",91657,"col","Castelgomberto",11.45,45.55,"Canal di Peruzzo",NA,"",7,"Rupelian","",33.9,28.1,30888,"gp_mid",16.25,38.27,"307",31,"rupelian",15864,9.6638,40.8005,12,1
 "60563",91899,"col","Castelgomberto",11.4,45.52,"Monte Bastia",NA,"Reef 684",20,"Rupelian","",33.9,28.1,30940,"gp_mid",16.2,38.24,"307",31,"rupelian",15950,9.6638,40.8005,12,1
+"60740",92080,"col","Son Sastre Sandstones and Lutites",2.97,39.54,"Son Sastre, Mallorca",NA,"Reef 4016",13,"Rupelian","",33.9,28.1,30997,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",15977,-0.7823,37.3354,12,1
+"60741",92081,"col","Alaro Calcarenite",2.45,39.53,"Puig de Peguera, Mallorca",NA,"",3,"Rupelian","",33.9,28.1,30997,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",15978,-0.7823,37.3354,12,1
+"60743",92083,"col","Alaro Calcarenite",2.36,39.55,"Cala d'Egos, Mallorca",NA,"",5,"Rupelian","",33.9,28.1,30997,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",15980,-0.7823,37.3354,12,1
 "60814",92154,"col","Flint River",-81.62,32.82,"M 326",NA,"",1,"Rupelian","",33.9,28.1,11845,"gp_mid",-68.17,35.49,"109",31,"rupelian",16011,-75.4317,30.9849,12,1
 "60815",92155,"col","Flint River",-81.62,32.82,"M 327",NA,"",1,"Rupelian","",33.9,28.1,11845,"gp_mid",-68.17,35.49,"109",31,"rupelian",16011,-75.4317,30.9849,12,1
 "61152",92572,"col","Moneague",-77.13,18.33,"TU 1015 - Orange Park [Browns Town Lmst, Moneague Fm]",NA,"",1,"Early Oligocene","",33.9,28.4,31182,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",16129,-82.2093,12.2528,12,1
 "61675",93366,"col","Cipero Marl",-61.48,10.25,"Alley Creek shell bed, Cipero River [Cipero Marl]",NA,"",3,"Early Oligocene","",33.9,28.4,31588,"gp_mid",-51.46,9.68,"201",31.15,"rupelian",16301,-54.4087,6.3127,12,1
 "61957",93722,"col","Septarienton",9.78,54.08,"Innien Brick-pit",NA,"",14,"Rupelian","",33.9,28.1,31845,"gp_mid",14.06,48.64,"315",31,"rupelian",16411,4.9231,52.6454,12,1
+"62318",94159,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2H",NA,"",2,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62319",94160,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2G bis",NA,"",1,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62320",94161,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2G",NA,"",3,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62321",94162,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2F bis",NA,"",2,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62322",94163,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2F",NA,"",3,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62323",94164,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2E",NA,"",7,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62324",94165,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2C bis",NA,"",2,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62325",94166,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2A",NA,"",5,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62326",94167,"col","Huasteca",-98.03,21.5,"Huasteca Sample 2",NA,"",3,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.93,26.4,"101",31.15,"rupelian",16492,-91.2456,22.2106,12,1
+"62327",94168,"col","Alazán",-97.63,21.07,"Alazán Sample 55",NA,"",3,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.58,25.93,"101",31.15,"rupelian",16493,-91.4782,19.7201,12,1
+"62328",94169,"col","Alazán",-97.73,21.2,"Alazán Sample 49B",NA,"",9,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.66,26.07,"101",31.15,"rupelian",16494,-91.4782,19.7201,12,1
+"62329",94170,"col","Alazán",-97.73,21.2,"Alazán Sample 49A",NA,"",4,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.66,26.07,"101",31.15,"rupelian",16494,-91.4782,19.7201,12,1
+"62330",94171,"col","Alazán",-97.73,21.2,"Alazán Sample 49",NA,"",1,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.66,26.07,"101",31.15,"rupelian",16494,-91.4782,19.7201,12,1
+"62331",94172,"col","Alazán",-97.72,21.1,"Alazán Sample a",NA,"",7,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.66,25.97,"101",31.15,"rupelian",16495,-91.4782,19.7201,12,1
+"62332",94173,"col","Alazán",-97.6,20.93,"Alazán Sample b",NA,"",24,"Early Oligocene","",33.9,28.4,32000,"gp_mid",-86.56,25.79,"101",31.15,"rupelian",16496,-91.4782,19.7201,12,1
 "63885",95898,"col","Alzey",7.72,49.83,"Welschberg",NA,"",182,"Rupelian","",33.9,28.1,32561,"gp_mid",11.86,44.46,"315",31,"rupelian",16926,2.0493,47.4687,12,1
 "64220",96458,"col","Tard Clay",19.08,47.47,"Ujlak clay pits",NA,"brick kiln clay pits Ujlak, Nagybatony district, Budapest, Hungary",1,"Early Oligocene","",33.9,28.4,32745,"gp_mid",23.37,38.81,"308",31.15,"rupelian",17036,12.5965,43.731,12,1
 "64324",96610,"col","",8.43,50.02,"Florsheim Clay Pit",NA,"",1,"Rupelian","",33.9,28.1,32745,"gp_mid",12.53,44.62,"315",31,"rupelian",17054,2.0493,47.4687,12,1
@@ -275,10 +346,19 @@
 "66309",99086,"col","Cooper marl",-79.93,32.78,"M 900",NA,"",4,"Rupelian","",33.9,28.1,11845,"gp_mid",-66.46,35.21,"109",31,"rupelian",17766,-71.7627,30.7029,12,1
 "67701",101113,"col","Glendon",-87.07,31.11,"MGS 79",NA,"",1,"Rupelian","",33.9,28.1,11842,"gp_mid",-74.07,34.54,"109",31,"rupelian",18241,-79.3741,28.7841,12,1
 "67708",101120,"col","Glendon",-84.58,30.9,"MGS 86",NA,"",1,"Rupelian","",33.9,28.1,11842,"gp_mid",-71.55,34,"109",31,"rupelian",18244,-79.3741,28.7841,12,1
+"70055",104941,"col","Menilite",17.79,49.49,"Kelc-Strazne zapad",NA,"Strážná Kelc",11,"Rupelian","",33.9,28.1,35122,"gp_mid",20.92,43.83,"305",31,"rupelian",19337,12.7694,48.0857,12,1
 "70627",105572,"col","",40.21,44.41,"Belaya river, upstream of Abadzekhskaya (PIN collection 4705)",NA,"",17,"Early Oligocene","",33.9,28.4,35266,"gp_mid",41.22,38.67,"302",31.15,"rupelian",19608,35.3491,44.5449,12,1
 "73113",108726,"col","Jebel Qatrani",30.58,29.45,"Quarry L-12",NA,"",1,"Rupelian","",33.9,28.1,35963,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
 "73184",108833,"col","Jebel Qatrani",30.58,29.65,"Quarry O",NA,"",2,"Rupelian","",33.9,28.1,35990,"gp_mid",31.92,20.76,"715",31,"rupelian",20474,25.3985,25.4583,12,1
 "74831",110634,"col","",11.54,45.76,"Chiavon (De Zigno colection)",NA,"",2,"Rupelian","",33.9,28.1,49214,"gp_mid",16.4,38.45,"307",31,"rupelian",21020,9.6638,40.8005,12,1
+"75512",111334,"col","Qom",52.74,31.52,"Abadeh, beds 1-13 [Qom Fm]",NA,"",2,"Rupelian","",33.9,28.1,36490,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"75513",111335,"col","Qom",52.74,31.52,"Abadeh, beds 29-32 [Qom Fm]",NA,"",6,"Rupelian","",33.9,28.1,36490,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"75514",111336,"col","Qom",52.74,31.52,"Abadeh, bed 41 [Qom Fm]",NA,"",5,"Rupelian","",33.9,28.1,36490,"gp_mid",52.46,23.39,"512",31,"rupelian",12481,47.7279,32.3541,12,1
+"75515",111337,"col","Qom",52.14,32.95,"Zefreh A, bed 26 [Qom Fm]",NA,"",2,"Rupelian","",33.9,28.1,36490,"gp_mid",51.64,24.71,"512",31,"rupelian",21167,47.7279,32.3541,12,1
+"75516",111338,"col","Qom",52.14,32.95,"Zefreh, bed 58 [Qom Fm]",NA,"",2,"Rupelian","",33.9,28.1,36490,"gp_mid",51.64,24.71,"512",31,"rupelian",21167,47.7279,32.3541,12,1
+"75517",111339,"col","Qom",52.14,32.95,"Zefreh A, bed 15 [Qom Fm]",NA,"",3,"Rupelian","",33.9,28.1,36490,"gp_mid",51.64,24.71,"512",31,"rupelian",21167,47.7279,32.3541,12,1
+"75518",111340,"col","Qom",52.14,32.95,"Zefreh A, bed 1 [Qom Fm]",NA,"",1,"Rupelian","",33.9,28.1,36490,"gp_mid",51.64,24.71,"512",31,"rupelian",21167,47.7279,32.3541,12,1
+"75519",111341,"col","Qom",52.14,32.95,"Zefreh B, bed 17 [Qom Fm]",NA,"",1,"Rupelian","",33.9,28.1,36490,"gp_mid",51.64,24.71,"512",31,"rupelian",21167,47.7279,32.3541,12,1
 "75531",111368,"col","Borgloon",5.64,50.89,"Lanaken [Alden Biesen Sand, Borgloon Fm]",NA,"",22,"Rupelian","",33.9,28.1,36498,"gp_mid",10.09,45.6,"315",31,"rupelian",21171,2.0493,47.4687,12,1
 "75583",111476,"col","Viborg",9.25,56,"Viborg Formation",NA,"",24,"Rupelian","",33.9,28.1,36500,"gp_mid",13.76,50.57,"302",31,"rupelian",21186,1.4005,52.4513,12,1
 "75651",111546,"col","Moneague",-77.38,18.37,"Tobolski area [Browns Town Lmst, Moneague Fm]",NA,"",13,"Early Oligocene","",33.9,28.4,36512,"gp_mid",NA,NA,"coordinates not computable using this model",31.15,"rupelian",21198,-82.2093,12.2528,12,1
@@ -286,6 +366,8 @@
 "77587",113962,"col","",26.36,46.94,"Cozla (Piatra Neamt)",NA,"",53,"Rupelian","",33.9,28.1,54683,"gp_mid",28.59,41.16,"302",31,"rupelian",21790,20.3356,46.0513,12,1
 "77588",113963,"col","",7.32,47.72,"Brunstatt, Mulhouse (Strassburg collection)",NA,"",1,"Early Oligocene","",33.9,28.4,49383,"gp_mid",11.34,42.37,"305",31.15,"rupelian",21791,2.329,44.9762,12,1
 "77640",114016,"col","",5.82,43.9,"Dauphin, Bois d'Asson (MNHN coll.)",NA,"",11,"Rupelian","",33.9,28.1,36994,"gp_mid",9.69,38.61,"305",31,"rupelian",21813,2.5854,42.483,12,1
+"80678",117977,"col","",9.9,48.42,"Herrlingen 7",NA,"",7,"MP 22","",33.9,28.4,13113,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
+"80846",118196,"col","",9.9,48.42,"Ehrenstein 12",NA,"",16,"MP 22","",33.9,28.4,13113,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
 "82713",120368,"col","Makah",-124.53,48.33,"Bullman Creek",NA,"UWBM C716",2,"Rupelian","",33.9,28.1,38491,"gp_mid",-107.45,53.39,"129",31,"rupelian",23030,-114.3346,48.667,12,1
 "83640",121473,"col","",7.32,47.71,"Brunstatt, horizon d2",NA,"",69,"Early Oligocene","",33.9,28.4,38738,"gp_mid",11.34,42.36,"305",31.15,"rupelian",23347,2.329,44.9762,12,1
 "83641",121474,"col","",7.32,47.71,"Brunstatt, horizon d3",NA,"",45,"Early Oligocene","",33.9,28.4,38738,"gp_mid",11.34,42.36,"305",31.15,"rupelian",23347,2.329,44.9762,12,1
@@ -294,6 +376,7 @@
 "83644",121477,"col","",7.32,47.71,"Brunstatt, horizon f",NA,"",1,"Early Oligocene","",33.9,28.4,38738,"gp_mid",11.34,42.36,"305",31.15,"rupelian",23347,2.329,44.9762,12,1
 "83645",121478,"col","",7.36,47.75,"Riedisheim, Mulhouse",NA,"",1,"Early Oligocene","",33.9,28.4,38738,"gp_mid",11.39,42.4,"305",31.15,"rupelian",23348,2.329,44.9762,12,1
 "83646",121479,"col","",7.39,47.72,"Zimmersheim, Mulhouse",NA,"",1,"Early Oligocene","",33.9,28.4,38738,"gp_mid",11.41,42.37,"305",31.15,"rupelian",23349,2.329,44.9762,12,1
+"83711",121549,"col","",36.61,31.46,"Wadi Al Bisseh",NA,"",4,"Early Oligocene","",33.9,28.4,38763,"gp_mid",36.69,20.71,"503",31.15,"rupelian",23391,33.8486,26.1571,12,1
 "84343",122407,"col","Salt",7.53,47.69,"Kleinkembs",NA,"",160,"Early Oligocene","",33.9,28.4,38999,"gp_mid",11.53,42.33,"305",31.15,"rupelian",23578,2.329,44.9762,12,1
 "84344",122408,"col","",7.32,47.71,"Brunstatt (Theobald coll)",NA,"",15,"Early Oligocene","",33.9,28.4,38999,"gp_mid",11.34,42.36,"305",31.15,"rupelian",23347,2.329,44.9762,12,1
 "84541",122740,"col","Salt",7.24,47.62,"Rebberg quarry, Altkirch",NA,"",1,"Rupelian","",33.9,28.1,39127,"gp_mid",11.26,42.28,"305",31,"rupelian",23623,2.329,44.9762,12,1
@@ -307,7 +390,10 @@
 "87010",183361,"col","",7.17,50.54,"Heimersheim",NA,"",10,"Rupelian","",33.9,28.1,61205,"gp_mid",11.43,45.19,"315",31,"rupelian",24415,2.0493,47.4687,12,1
 "87462",126561,"col","Bilzen",5.64,50.85,"Albertkanaal",NA,"",1,"Rupelian","",33.9,28.1,41045,"gp_mid",10.07,45.56,"315",31,"rupelian",24471,2.0493,47.4687,12,1
 "88035",127496,"col","",11.59,45.77,"Laverda",NA,"",1,"Early Oligocene","",33.9,28.4,41539,"gp_mid",16.45,38.45,"307",31.15,"rupelian",24581,9.6638,40.8005,12,1
+"88158",127692,"col","Kishima",130,33.32,"Cliff of Tachikawa",NA,"KSM-5",4,"Rupelian","",33.9,28.1,41705,"gp_mid",126.88,35.69,"610",31,"rupelian",24616,128.7004,36.3002,12,1
 "94176",135687,"col","Ashley",-80.12,32.89,"Middleton Oaks Road",NA,"",1,"Rupelian","",33.9,28.1,43401,"gp_mid",-66.62,35.36,"109",31,"rupelian",15819,-71.7627,30.7029,12,1
+"96812",138868,"col","Qom",44.94,37.34,"Baranduz P20",NA,"",43,"Rupelian","",33.9,28.1,44543,"gp_mid",44.36,28.1,"512",31,"rupelian",27003,39.7771,36.8144,12,1
+"96813",138869,"col","Qom",44.94,37.34,"Baranduz P19",NA,"",19,"Rupelian","",33.9,28.1,44543,"gp_mid",44.36,28.1,"512",31,"rupelian",27003,39.7771,36.8144,12,1
 "96952",139012,"col","",-124.64,48.39,"N. Pac. 167",NA,"",2,"Early Oligocene","",33.9,28.4,44425,"gp_mid",-107.56,53.45,"129",31.15,"rupelian",27056,-114.3346,48.667,12,1
 "96957",139017,"col","Clallam",-122.76,48.12,"Port Townsend",NA,"",1,"Rupelian","",33.9,28.1,43318,"gp_mid",-105.51,53.1,"129",31,"rupelian",27057,-114.3346,48.667,12,1
 "97114",139174,"col","",-124.84,48.66,"Basal sandstone sea cliffs between Clo-oose and Nitinat Lagoon, Vancouver Island",NA,"",1,"Early Oligocene","",33.9,28.4,44425,"gp_mid",-111.7,55.97,"128",31.15,"rupelian",27083,-114.3346,48.667,12,1
@@ -360,6 +446,7 @@
 "108917",154345,"col","Ashley",-80.1,33.03,"Limehouse Branch, east bank",NA,"",1,"Rupelian","",33.9,28.1,50198,"gp_mid",-66.57,35.48,"109",31,"rupelian",29228,-71.7627,30.7029,12,1
 "109119",154579,"col","Ashley",-79.58,33.27,"Mill Creek",NA,"",1,"Rupelian","",33.9,28.1,50198,"gp_mid",-65.99,35.65,"109",31,"rupelian",29255,-71.7627,30.7029,12,1
 "109631",155208,"col","",5.82,43.9,"Dauphin, Bois d'Asson (Henrotay coll.)",NA,"",4,"Rupelian","",33.9,28.1,50595,"gp_mid",9.69,38.61,"305",31,"rupelian",21813,2.5854,42.483,12,1
+"109681",155295,"col","",17.5,49.53,"Veselíko",NA,"",1,"Rupelian","",33.9,28.1,50649,"gp_mid",20.67,43.88,"305",31,"rupelian",29363,12.7694,48.0857,12,1
 "109996",155854,"col","",-78.63,22.12,"Arroyo Seco, Corral Concepcion, Barrio Guadalupe, Moron",NA,"",2,"Early Oligocene","",33.9,28.4,51005,"gp_mid",-67.07,24.51,"206",31.15,"rupelian",29426,-72.6986,20.7384,12,1
 "109997",155855,"col","",-78.63,22.12,"Finca ""Armadillo"", Marroquin, Moron - Early Oligocene",NA,"",1,"Early Oligocene","",33.9,28.4,51005,"gp_mid",-67.07,24.51,"206",31.15,"rupelian",29426,-72.6986,20.7384,12,1
 "110053",155935,"col","Suwannee Limestone",-82.21,28.15,"USGS Loc. 11116 - Blackwater Creek [Suwannee Lmst]",NA,"",1,"Rupelian","",33.9,28.1,32912,"gp_mid",-69.66,30.96,"109",31,"rupelian",29445,-75.9334,26.0044,12,1
@@ -371,9 +458,14 @@
 "110063",155952,"col","Marianna Limestone",-85.21,30.77,"USGS Loc. 14330 - Marianna [Marianna Lmst]",NA,"",1,"Rupelian","",33.9,28.1,32912,"gp_mid",-72.22,33.95,"109",31,"rupelian",29450,-79.3741,28.7841,12,1
 "110064",155953,"col","Suwannee Limestone",-83.67,30.61,"USGS Loc. 15068a - Washington [Suwannee Lmst]",NA,"",1,"Rupelian","",33.9,28.1,32912,"gp_mid",-70.68,33.59,"109",31,"rupelian",29451,-75.6885,28.4949,12,1
 "110080",155969,"col","Flint River",-84.17,31.73,"USGS Loc. 7421 - Leesburg [Flint River Fm]",NA,"",1,"Rupelian","",33.9,28.1,32912,"gp_mid",-70.98,34.77,"109",31,"rupelian",29456,-75.4317,30.9849,12,1
+"110238",156168,"col","Entre-Córregos",-44.6,-21.98,"Near Aiuruoca municipality",NA,"",2,"Rupelian","",33.9,28.1,54711,"gp_mid",-36.5,-23.46,"201",31,"rupelian",29474,-37.7922,-25.4914,12,1
+"110243",156231,"col","Maniyara Fort",68.7,23.08,"Waior village, lower part - Maniyara Fort Formation",NA,"",12,"Rupelian","",33.9,28.1,51166,"gp_mid",69.23,8.55,"501",31,"rupelian",29477,61.0151,12.9429,12,1
+"110244",156232,"col","Maniyara Fort",68.77,23.7,"Babia Hill, lower part - Maniyara Fort Formation",NA,"",4,"Rupelian","",33.9,28.1,51166,"gp_mid",69.44,9.14,"501",31,"rupelian",29478,61.0151,12.9429,12,1
 "110617",156997,"col","Calcaires de Vacheres",5.81,43.9,"Sainte Maime (Gentilini collection)",NA,"",3,"Rupelian","",33.9,28.1,51665,"gp_mid",9.68,38.61,"305",31,"rupelian",29582,2.5854,42.483,12,1
+"112311",159705,"col","Menilite",17.82,49.48,"Kel-zámek locality",NA,"Kelc chateau",2,"Rupelian","",33.9,28.1,51650,"gp_mid",20.94,43.82,"305",31,"rupelian",30130,12.7694,48.0857,12,1
 "112488",159937,"col","Trent",-79.68,33.28,"Sample CR-R [Trent Fm]",NA,"",1,"Rupelian","",33.9,28.1,52211,"gp_mid",-66.1,35.68,"109",31,"rupelian",30169,-71.7627,30.7029,12,1
 "112889",160454,"col","Mint Springs",-89.05,31.23,"MSU Loc. 2181 - Smith Co. Lime Plant [Mint Springs Marl]",NA,"",1,"Rupelian","",33.9,28.1,52323,"gp_mid",-76.08,34.92,"109",31,"rupelian",30329,-83.0695,29.0788,12,1
+"113022",160670,"col","Paisslberg",11,47.17,"Bad Haring [Paisslberg Fm]",NA,"",1,"Rupelian","",33.9,28.1,52420,"gp_mid",16.41,39.91,"307",31,"rupelian",30370,5.7037,42.9866,12,1
 "113023",160671,"col","Kiscell",19.08,47.5,"Ujlak brickyard [Kiscell Fm]",NA,"",1,"Rupelian","",33.9,28.1,52420,"gp_mid",23.38,38.84,"308",31,"rupelian",30371,12.5965,43.731,12,1
 "114385",162464,"col","Ashawq",54.42,17.06,"Taqah",NA,"",49,"Early Oligocene","",33.9,28.4,52908,"gp_mid",51.32,4.4,"503",31.15,"rupelian",30697,49.3217,8.9754,12,1
 "115528",164656,"col","",11.6,45.75,"San Luca, Vicenza",NA,"",1,"Rupelian","",33.9,28.1,53798,"gp_mid",16.45,38.43,"307",31,"rupelian",30908,9.6638,40.8005,12,1
@@ -381,9 +473,17 @@
 "115653",164936,"col","",5.82,43.9,"Bois d'Asson (Réserve Géologique du Lubéron coll.)",NA,"",6,"Rupelian","",33.9,28.1,53926,"gp_mid",9.69,38.61,"305",31,"rupelian",21813,2.5854,42.483,12,1
 "116218",165736,"col","Ashley",-80.06,32.87,"Covington Estates",NA,"",1,"Rupelian","",33.9,28.1,54174,"gp_mid",-66.57,35.33,"109",31,"rupelian",31082,-71.7627,30.7029,12,1
 "116686",166390,"col","Lincoln Creek",-123.61,46.59,"N.P. 254, Green Creek, Holcomb",NA,"",1,"Rupelian","",33.9,28.1,54367,"gp_mid",-106.61,51.62,"129",31,"rupelian",31254,-114.3346,48.667,12,1
+"116755",166597,"col","",145.65,-41.5,"Lea River",NA,"",10,"Early Oligocene","",33.9,28.4,54423,"gp_mid",157.3,-55.83,"801",31.15,"rupelian",31288,146.2762,-58.1705,12,1
+"116856",166735,"col","",146.15,-41.62,"Lemonthyme Creek",NA,"",5,"Early Oligocene","",33.9,28.4,54441,"gp_mid",158,-55.82,"801",31.15,"rupelian",31306,146.2762,-58.1705,12,1
+"116889",166832,"col","",146.12,-41.53,"Cethana Dam",NA,"",130,"Early Oligocene","",33.9,28.4,54512,"gp_mid",157.91,-55.75,"801",31.15,"rupelian",31315,146.2762,-58.1705,12,1
 "116902",166979,"col","Jebel Qatrani",30.58,29.45,"Quarry B (Jebel Qatrani Formation)",NA,"""lower sequence""",3,"Rupelian","",33.9,28.1,28104,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
+"119434",170993,"col","Blanch Point",138.45,-35.23,"Aldinga, Blanche Point Fm",NA,"",2,"Rupelian","",33.9,28.1,55650,"gp_mid",145.15,-51.43,"801",31,"rupelian",31797,134.4656,-51.499,12,1
+"119813",171382,"col","Kishima",129.93,33.37,"Riverbank of the Tanaka river, Kitahata- Shimohirano",NA,"",3,"Rupelian","",33.9,28.1,55759,"gp_mid",126.8,35.74,"610",31,"rupelian",31932,128.7004,36.3002,12,1
+"119814",171383,"col","Kishima",129.92,33.37,"Riverbed of a branch of the Tanaka river, Kitahata- Shimohirano, Kishima Fm",NA,"",5,"Rupelian","",33.9,28.1,55759,"gp_mid",126.79,35.73,"610",31,"rupelian",31933,128.7004,36.3002,12,1
 "120347",172000,"col","Makah",-124.55,48.35,"Bullman Creek, LACMIP 15622",NA,"",4,"Early Oligocene","",33.9,28.4,55866,"gp_mid",-107.47,53.41,"129",31.15,"rupelian",32011,-114.3346,48.667,12,1
 "120899",174031,"col","Jebel Qatrani",30.58,29.45,"Lower beds, west of Quarry A",NA,"Lower sequence of the Jebel Qatrani Formation Fayum",2,"Rupelian","",33.9,28.1,57659,"gp_mid",31.91,20.56,"715",31,"rupelian",1481,25.3985,25.4583,12,1
+"121260",174689,"col","",21.61,49.74,"Winnica",NA,"",5,"Rupelian","",33.9,28.1,56725,"gp_mid",24.37,44.01,"305",31,"rupelian",32199,16.37,48.3091,12,1
+"121634",175334,"col","Ashawaq",53,17,"Thaytiniti",NA,"",56,"Early Oligocene","",33.9,28.4,52916,"gp_mid",49.96,4.47,"503",31.15,"rupelian",32281,45.7229,9.3866,12,1
 "121704",175420,"col","Jebel Qatrani",30.5,29.5,"Quarry A (Jebel Qatrani Formation)",NA,"Jebel qatrani, Lower sequence, Fayum, Egypt",9,"Rupelian","",33.9,28.1,2700,"gp_mid",31.83,20.62,"715",31,"rupelian",9618,25.3985,25.4583,12,1
 "122127",175909,"col","Jebel Qatrani",30.88,29.6,"Lower fossil wood zone ",NA,"Fayum, Jebel Qatrani",2,"Rupelian","",33.9,28.1,57654,"gp_mid",32.19,20.7,"715",31,"rupelian",32344,25.3985,25.4583,12,1
 "122421",176343,"col","Jebel Qatrani",30.58,29.43,"Jebel Qatrani Fm",NA,"",2,"Rupelian","",33.9,28.1,57978,"gp_mid",31.9,20.54,"715",31,"rupelian",32433,25.3985,25.4583,12,1
@@ -393,13 +493,19 @@
 "123548",178149,"col","Calcaires de Vacheres?",5.79,44.01,"Fontienne",NA,"",1,"Rupelian","",33.9,28.1,58591,"gp_mid",9.68,38.72,"305",31,"rupelian",32732,2.5854,42.483,12,1
 "124712",179661,"col","Muschelsandstein",8.67,49.55,"Weinheim",NA,"",1,"Rupelian","",33.9,28.1,57818,"gp_mid",12.7,44.15,"305",31,"rupelian",33041,2.0493,47.4687,12,1
 "124755",179714,"col","Ligurian",8.77,44.57,"Carpeneto",NA,"",1,"Rupelian","",33.9,28.1,59230,"gp_mid",13.6,37.81,"307",31,"rupelian",33055,2.5854,42.483,12,1
+"124767",179726,"col","Ashawq",54,17,"DPP-2010-1",NA,"",7,"Early Oligocene","",33.9,28.4,59578,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"124930",179888,"col","",130.33,33.58,"Meinohama, near Fukuoka",NA,"",2,"Rupelian","",33.9,28.1,59678,"gp_mid",127.17,36,"610",31,"rupelian",13282,128.7004,36.3002,12,1
+"124934",179892,"col","",130.66,33.42,"Yamanokami, Hoshuyama-mura, Asakura coal-field",NA,"",7,"Rupelian","",33.9,28.1,59682,"gp_mid",127.54,35.89,"610",31,"rupelian",33118,128.7004,36.3002,12,1
+"125123",180396,"col","Nakazato",129.75,33.2,"Fourth Pit of the Ikeno Coal Mine",NA,"Ohno Town",1,"Early Oligocene","",33.9,28.4,59871,"gp_mid",126.65,35.55,"610",31.15,"rupelian",33177,128.7004,36.3002,12,1
 "125143",180416,"col","Lincoln Creek",-123.61,46.58,"UCMP A64, Willapa River at Big Bend",NA,"",1,"Rupelian","",33.9,28.1,59868,"gp_mid",-106.61,51.61,"129",31,"rupelian",4973,-114.3346,48.667,12,1
 "125145",180418,"col","Marrowstone",-122.69,48.05,"UCMP A3696, Marrowstone Island",NA,"",15,"Rupelian","",33.9,28.1,59868,"gp_mid",-105.44,53.04,"129",31,"rupelian",33191,-114.3346,48.667,12,1
 "125146",180419,"col","Marrowstone",-122.69,48.06,"UCMP A3695, Marrowstone Island",NA,"",19,"Rupelian","",33.9,28.1,59868,"gp_mid",-105.44,53.04,"129",31,"rupelian",33192,-114.3346,48.667,12,1
 "125167",180440,"col","Lincoln Creek",-123.31,46.94,"CAS 1818, Porter",NA,"",1,"Rupelian","",33.9,28.1,54367,"gp_mid",-106.24,51.95,"129",31,"rupelian",5133,-114.3346,48.667,12,1
 "125168",180441,"col","Lincoln Creek",-123.61,46.58,"UCMP 3617, near Holcomb",NA,"",1,"Rupelian","",33.9,28.1,54367,"gp_mid",-106.61,51.61,"129",31,"rupelian",4973,-114.3346,48.667,12,1
 "125180",180453,"col","Uzunbas",51.72,43.82,"Uzunbas ravine, Karagie Depression, Mangyshlak",NA,"",1,"Rupelian","",33.9,28.1,35921,"gp_mid",51.79,38.36,"402",31,"rupelian",33212,46.5328,45.3118,12,1
+"125691",181101,"col","",2.01,43.58,"Puylaurens",NA,"",2,"Rupelian","",33.9,28.1,60047,"gp_mid",6.15,38.46,"305",31,"rupelian",33311,-0.39,39.4487,12,1
 "126339",182155,"col","Ashley",-79.99,32.83,"Northbridge Park, Ashley Fm.",NA,"",7,"Rupelian","",33.9,28.1,73281,"gp_mid",-66.5,35.28,"109",31,"rupelian",33451,-71.7627,30.7029,12,1
+"126370",182354,"col","Villarrosano",-1.02,40.53,"Villarrosano 14",NA,"VRS14",1,"MP 21","",33.9,28.4,26808,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
 "126392",182499,"col","Cemalettin",34.79,41.53,"BOY-2, Boyabat",NA,"",1,"Rupelian","",33.9,28.1,60699,"gp_mid",36.29,35.74,"511",31,"rupelian",33463,28.2834,41.5546,12,1
 "126399",182510,"col","Lignite-Sandstone",26.9,38.15,"Karacali",NA,"",5,"Early Oligocene","",33.9,28.4,60703,"gp_mid",28.97,32.36,"504",31.15,"rupelian",33465,22.6388,31.9353,12,1
 "126400",182511,"col","Lignite-Sandstone",26.9,38.15,"Pasakoy, west of the village of Ahmetpasa",NA,"",7,"Early Oligocene","",33.9,28.4,60703,"gp_mid",28.97,32.36,"504",31.15,"rupelian",33465,22.6388,31.9353,12,1
@@ -408,6 +514,7 @@
 "126469",182622,"col","",7.5,47.44,"Kleinblauen",NA,"",6,"Rupelian","",33.9,28.1,60785,"gp_mid",11.49,42.09,"305",31,"rupelian",33495,2.329,44.9762,12,1
 "126900",183351,"col","",7.37,47.34,"Poillat",NA,"eastern bank of the Birse River, near Courrendlin",8,"Rupelian","",33.9,28.1,61204,"gp_mid",11.36,41.99,"305",31,"rupelian",33572,2.329,44.9762,12,1
 "126902",183353,"col","",8.03,49.73,"Offenheim",NA,"",1,"Early Oligocene","",33.9,28.4,61204,"gp_mid",12.14,44.35,"315",31.15,"rupelian",33574,2.0493,47.4687,12,1
+"126903",183354,"col","",11.28,47.73,"Habach 5",NA,"",1,"Early Oligocene","",33.9,28.4,61204,"gp_mid",14.94,42.25,"305",31.15,"rupelian",33575,5.7037,42.9866,12,1
 "126905",183356,"col","",7.5,47.34,"Dürrenberg",NA,"Durrenberg; Mervelier",10,"Rupelian","",33.9,28.1,61205,"gp_mid",11.47,41.98,"305",31,"rupelian",33576,2.329,44.9762,12,1
 "126915",183371,"col","",7.56,47.25,"Balm",NA,"",18,"Rupelian","",33.9,28.1,61205,"gp_mid",11.52,41.89,"305",31,"rupelian",33577,2.329,44.9762,12,1
 "126916",183372,"col","",7.4,47.18,"Grenchen-1",NA,"",2,"Rupelian","",33.9,28.1,61205,"gp_mid",11.38,41.83,"305",31,"rupelian",33578,2.329,44.9762,12,1
@@ -416,12 +523,33 @@
 "126993",183544,"col","",7.26,47.31,"1 km NW of Soulce",NA,"",10,"MP 23","",33.9,28.4,61323,"gp_mid",11.26,41.96,"305",31.15,"rupelian",33607,2.329,44.9762,12,1
 "126994",183545,"col","",7.34,47.35,"Beuchille",NA,"",2,"MP 23","",33.9,28.4,61323,"gp_mid",11.34,42,"305",31.15,"rupelian",33608,2.329,44.9762,12,1
 "126995",183546,"col","",7.36,47.34,"Pré Chevalier",NA,"Pre Chevalier",1,"MP 23","",33.9,28.4,61323,"gp_mid",11.35,41.99,"305",31.15,"rupelian",33609,2.329,44.9762,12,1
+"127102",183669,"col","",9.96,48.42,"Eselsberg",NA,"",2,"MP 21","",33.9,28.4,61356,"gp_mid",13.79,42.97,"305",31.15,"rupelian",33638,5.7037,42.9866,12,1
+"127397",183974,"col","",9.9,48.42,"Herrlingen 1",NA,"",1,"MP 22","",33.9,28.4,61442,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
+"127406",183983,"col","",-0.8,40.83,"Montalbán 3X",NA,"Montalban 3X",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127407",183984,"col","",-0.8,40.83,"Montalbán 8",NA,"Montalban 8",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127408",183985,"col","",-0.8,40.83,"Montalbán 3C",NA,"Montalban 3C",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127409",183986,"col","",-0.8,40.83,"Montalbán 7",NA,"Montalban 7",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127410",183987,"col","",-0.8,40.83,"Montalbán 9",NA,"Montalban 9",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127411",183988,"col","",-0.8,40.83,"Montalbán 10",NA,"Montalban 10",2,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127412",183989,"col","",-0.8,40.83,"Montalbán 11",NA,"Montalban 11",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127413",183990,"col","",-0.8,40.83,"Montalbán 12",NA,"Montalban 12",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127414",183991,"col","",-0.8,40.83,"Montalbán S",NA,"Montalban S",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.5,36.16,"304",31.15,"rupelian",11241,-3.8765,36.8637,12,1
+"127415",183992,"col","Villarrosano",-1.02,40.53,"Villarrosano 15A",NA,"VRS15A",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
+"127416",183993,"col","Villarrosano",-1.02,40.53,"Villarrosano 15B",NA,"VRS15B",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
+"127427",184004,"col","Villarrosano",-1.02,40.53,"Villarrosano 17A",NA,"VRS17A",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
+"127428",184005,"col","Villarrosano",-1.02,40.53,"Villarrosano 8B",NA,"VRS8B",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
+"127429",184006,"col","Villarrosano",-1.02,40.53,"Matamoros 4B",NA,"MTM4B",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.28,35.87,"304",31.15,"rupelian",33457,-3.8765,36.8637,12,1
+"127431",184008,"col","Villarrosano",-1.27,40.58,"Aguatón 9",NA,"Aguaton; AGT9",1,"MP 21","",33.9,28.4,61468,"gp_mid",3.05,35.92,"304",31.15,"rupelian",13054,-3.8765,36.8637,12,1
+"127432",184009,"col","",-1.15,40.97,"Olalla 10",NA,"OLA10",1,"Early Oligocene","",33.9,28.4,61468,"gp_mid",3.17,36.3,"304",31.15,"rupelian",11240,-3.8765,36.8637,12,1
 "127505",184087,"col","",5.82,43.9,"Dauphin (Réserve Géologique du Lubéron coll.)",NA,"",4,"Rupelian","",33.9,28.1,61455,"gp_mid",9.69,38.61,"305",31,"rupelian",21813,2.5854,42.483,12,1
 "127506",184088,"col","Calcaires de Vacheres",5.81,43.9,"Sainte Maime (Réserve Géologique du Lubéron coll.)",NA,"",1,"Rupelian","",33.9,28.1,61455,"gp_mid",9.68,38.61,"305",31,"rupelian",29582,2.5854,42.483,12,1
 "127513",184095,"col","",8.85,47.93,"Liptingen",NA,"",1,"MP 22","",33.9,28.4,52988,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
 "127691",184406,"col","",27.32,41.04,"Demirli",NA,"Demirlik",1,"Early Oligocene","",33.9,28.4,61765,"gp_mid",28.7,31.27,"308",31.15,"rupelian",33760,21.2228,38.5799,12,1
 "127712",184460,"col","",8.85,47.93,"Liptingen 17",NA,"",1,"MP 21","",33.9,28.4,61807,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
 "127713",184461,"col","",8.85,47.93,"Liptingen 1A",NA,"",6,"MP 21","",33.9,28.4,61807,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
+"127714",184462,"col","",9.9,48.42,"Ehrenstein 8",NA,"",7,"MP 22","",33.9,28.4,61807,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
+"127715",184463,"col","",9.9,48.42,"Ehrenstein 10",NA,"",5,"MP 22","",33.9,28.4,61807,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
+"127716",184464,"col","",9.9,48.42,"Ehrenstein 11",NA,"",4,"MP 22","",33.9,28.4,61807,"gp_mid",13.74,42.98,"305",31.15,"rupelian",22585,5.7037,42.9866,12,1
 "128389",185488,"col","Matt",9.15,49.98,"Landesplattenberg slate quarry",NA,"",1,"Rupelian","",33.9,28.1,62187,"gp_mid",13.17,44.56,"305",31,"rupelian",33956,2.0493,47.4687,12,1
 "128391",185490,"col","",54.04,29.13,"Istehbanat",NA,"",1,"Rupelian","",33.9,28.1,62190,"gp_mid",52.1,16.45,"503",31,"rupelian",33958,47.3221,21.7918,12,1
 "128480",185617,"col","",44.06,43.08,"Kora",NA,"",1,"Early Oligocene","",33.9,28.4,62236,"gp_mid",44.79,37.42,"402",31.15,"rupelian",33987,39.3861,42.3106,12,1
@@ -434,9 +562,14 @@
 "128878",186470,"col","",40.21,44.41,"Belaya River, Abadzekhskaya, Rupelian",NA,"",5,"Early Oligocene","",33.9,28.4,59519,"gp_mid",41.22,38.67,"302",31.15,"rupelian",19608,35.3491,44.5449,12,1
 "128879",186471,"col","Glarner Schiefer",9.15,46.98,"Engi",NA,"",2,"Rupelian","",33.9,28.1,59519,"gp_mid",12.96,41.57,"305",31,"rupelian",34122,2.329,44.9762,12,1
 "128880",186472,"col","",26.36,46.92,"Cernegura",NA,"",1,"Rupelian","",33.9,28.1,59519,"gp_mid",28.59,41.14,"302",31,"rupelian",34123,20.3356,46.0513,12,1
+"128883",186475,"col","",19.1,49.5,"Rajcz",NA,"",1,"Rupelian","",33.9,28.1,59519,"gp_mid",22.1,43.82,"305",31,"rupelian",34125,12.7694,48.0857,12,1
 "128893",186506,"col","",8.85,47.93,"Liptingen 1B",NA,"",4,"MP 21","",33.9,28.4,62519,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
 "128894",186507,"col","",8.85,47.93,"Liptingen 15",NA,"",5,"MP 21","",33.9,28.4,62519,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
 "128895",186508,"col","",8.85,47.93,"Liptingen 16",NA,"",3,"MP 21","",33.9,28.4,62519,"gp_mid",12.75,42.52,"305",31.15,"rupelian",33712,2.329,44.9762,12,1
+"128896",186509,"col","",9.92,48.42,"Blaustein",NA,"Ulmer Weißkalkwerke",6,"MP 21","",33.9,28.4,62519,"gp_mid",13.75,42.97,"305",31.15,"rupelian",34128,5.7037,42.9866,12,1
+"128950",186589,"col","",22.02,49.93,"Hermanowa",NA,"",23,"Rupelian","",33.9,28.1,62556,"gp_mid",24.74,44.2,"305",31,"rupelian",34142,16.37,48.3091,12,1
+"128980",186633,"col","",20.63,49.51,"Przysietnica",NA,"",2,"Rupelian","",33.9,28.1,62582,"gp_mid",23.48,43.8,"305",31,"rupelian",34154,16.37,48.3091,12,1
+"128981",186634,"col","",22.74,49.71,"Kniazyce",NA,"",1,"Rupelian","",33.9,28.1,62582,"gp_mid",25.38,43.97,"305",31,"rupelian",34155,16.37,48.3091,12,1
 "128982",186636,"col","Törökbálint",18.71,47.63,"Máriahalom",NA,"",24,"Rupelian","",33.9,28.1,62585,"gp_mid",23.1,39.03,"308",31,"rupelian",34156,12.5965,43.731,12,1
 "129007",186670,"col","Ashley",-79.82,32.92,"Wando River + Highway 41 bridge",NA,"",2,"Rupelian","",33.9,28.1,62600,"gp_mid",-66.31,35.34,"109",31,"rupelian",34162,-71.7627,30.7029,12,1
 "129284",186979,"col","",9.04,44.76,"Vigoponzo",NA,"Casa del Piano",6,"Rupelian","",33.9,28.1,62676,"gp_mid",13.91,37.94,"307",31,"rupelian",34221,2.5854,42.483,12,1
@@ -460,7 +593,19 @@
 "131570",191412,"col","Jebel Qatrani",30.58,29.45,"L-30, (Jebel Qatrani Formation)",NA,"",1,"Early Oligocene","",33.9,28.4,17283,"gp_mid",31.91,20.56,"715",31.15,"rupelian",1481,25.3985,25.4583,12,1
 "131606",191633,"col","",11.57,45.75,"Salcedo",NA,"",2,"Rupelian","",33.9,28.1,64633,"gp_mid",16.42,38.44,"307",31,"rupelian",15868,9.6638,40.8005,12,1
 "131877",192044,"col","Asmari",51.65,30.73,"UCMP D7280",NA,"",5,"Early Oligocene","",33.9,28.4,64917,"gp_mid",50.12,18.25,"503",31.15,"rupelian",34705,47.3221,21.7918,12,1
+"131956",192228,"col","Kulthieth",-144.38,60.18,"USGS loc. 15385=UCMP IP1720, Katalla 1",NA,"",1,"Early Oligocene","",33.9,28.4,65026,"gp_mid",-134.22,68.37,"126",31.15,"rupelian",34736,-133.2376,63.083,12,1
+"131957",192229,"col","Kulthieth",-144.38,60.18,"USGS loc. 15397 = UCMP IP1721",NA,"",1,"Early Oligocene","",33.9,28.4,65026,"gp_mid",-134.22,68.37,"126",31.15,"rupelian",34736,-133.2376,63.083,12,1
+"131958",192230,"col","Kulthieth",-144.38,60.18,"USGS loc. 4436 = UCMP IP1719",NA,"",2,"Early Oligocene","",33.9,28.4,65026,"gp_mid",-134.22,68.37,"126",31.15,"rupelian",34736,-133.2376,63.083,12,1
+"131960",192232,"col","Kulthieth",-144.38,60.18,"USGS loc. 4312 = UCMP IP1718",NA,"",4,"Early Oligocene","",33.9,28.4,65026,"gp_mid",-134.22,68.37,"126",31.15,"rupelian",34736,-133.2376,63.083,12,1
 "132014",192385,"col","Alzey",7.84,49.81,"Bad Münster am Stein-Ebernburg",NA,"",1,"Rupelian","",33.9,28.1,65102,"gp_mid",11.98,44.44,"315",31,"rupelian",34748,2.0493,47.4687,12,1
+"132275",192922,"col","Ashawq",54,17,"Martin’s Lanistes site",NA,"",4,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132276",192923,"col","Ashawq",54,17,"Bed A, Omanitherium site bottom of section",NA,"",5,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132277",192924,"col","Ashawaq",53,17,"Thaytiniti lower site (2)",NA,"",2,"Early Oligocene","",33.9,28.4,65512,"gp_mid",49.96,4.47,"503",31.15,"rupelian",32281,45.7229,9.3866,12,1
+"132278",192925,"col","Ashawq",54,17,"Arsinoi/Omani site",NA,"",2,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132279",192926,"col","Ashawq",54,17,"Omanitherium 17a (Axel’s P3/)",NA,"",5,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132280",192927,"col","Ashawq",54,17,"Turtle site",NA,"",5,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132281",192928,"col","Ashawq",54,17,"Bed C, brown sand above Omanitherium site",NA,"",6,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
+"132282",192929,"col","Ashawq",54,17,"Bed D, white marl above Omanitherium site top of section",NA,"",4,"Early Oligocene","",33.9,28.4,65512,"gp_mid",50.91,4.38,"503",31.15,"rupelian",33060,45.7229,9.3866,12,1
 "132470",193568,"col","Makah",-124.52,48.35,"Bullman Creek",NA,"",2,"Rupelian","",33.9,28.1,65765,"gp_mid",-107.44,53.41,"129",31,"rupelian",34852,-114.3346,48.667,12,1
 "132575",193971,"col","Makah",-124.45,48.32,"LACMIP 15911",NA,"Shipwreck Point",26,"Early Oligocene","",33.9,28.4,70405,"gp_mid",-107.36,53.38,"129",31.15,"rupelian",34874,-114.3346,48.667,12,1
 "133997",196836,"col","",22.47,42.99,"Strelac-1",NA,"Strelac 1",10,"Early Oligocene","",33.9,28.4,67033,"gp_mid",24.98,33.91,"308",31.15,"rupelian",35199,17.302,40.8384,12,1
@@ -469,6 +614,7 @@
 "134002",196840,"col","",22.49,43,"Raljin",NA,"",9,"Early Oligocene","",33.9,28.4,67033,"gp_mid",25,33.92,"308",31.15,"rupelian",35202,17.302,40.8384,12,1
 "134115",197060,"col","Ashley",-80.4,33.05,"Givhans Ferry State Park, upstream 3 km",NA,"",1,"Rupelian","",33.9,28.1,49279,"gp_mid",-66.88,35.55,"109",31,"rupelian",35232,-71.7627,30.7029,12,1
 "134217",197237,"col","",8.73,50.14,"Seckbach",NA,"",1,"MP 22","MP 24",33.9,28.4,67211,"gp_mid",12.8,44.74,"315",31.15,"rupelian",35257,2.0493,47.4687,12,1
+"134240",197282,"col","Krosno",21.29,49.43,"Brickyard at Sobniów",NA,"",1,"Rupelian","",33.9,28.1,67263,"gp_mid",24.07,43.71,"305",31,"rupelian",35265,16.37,48.3091,12,1
 "135666",200275,"col","Ashley",-80.04,32.87,"Charleston International Airport drainage ditch",NA,"",1,"Rupelian","",33.9,28.1,71195,"gp_mid",-66.55,35.33,"109",31,"rupelian",35574,-71.7627,30.7029,12,1
 "135708",200413,"col","",5.84,44,"Pont du Lauzon 1",NA,"Sigonce",3,"Early Oligocene","",33.9,28.4,68425,"gp_mid",9.72,38.71,"305",31.15,"rupelian",35585,2.5854,42.483,12,1
 "135709",200414,"col","",5.84,44,"Pont du Lauzon 2",NA,"Sigonce",1,"Early Oligocene","",33.9,28.4,68425,"gp_mid",9.72,38.71,"305",31.15,"rupelian",35585,2.5854,42.483,12,1
@@ -477,19 +623,36 @@
 "135712",200417,"col","",5.84,44,"Terrenoire",NA,"Sigonce",13,"Early Oligocene","",33.9,28.4,68425,"gp_mid",9.72,38.71,"305",31.15,"rupelian",35585,2.5854,42.483,12,1
 "135715",200436,"col","",5.82,43.9,"Villemus",NA,"",2,"Rupelian","",33.9,28.1,68425,"gp_mid",9.69,38.61,"305",31,"rupelian",21813,2.5854,42.483,12,1
 "135858",200817,"col","Pabdeh",50.42,32.35,"Sepid daneh-Kavanak, near Babaheidar",NA,"",1,"Rupelian","",33.9,28.1,68763,"gp_mid",49.2,19.97,"503",31,"rupelian",35649,44.2274,24.6971,12,1
+"136438",201940,"col","",74.02,8.12,"Site 219",NA,"",14,"Rupelian","",33.9,28.1,69125,"gp_mid",NA,NA,"coordinates not computable using this model",31,"rupelian",35790,66.048,-2.936,12,1
 "136606",202154,"col","Makah",-123.8,48.16,"Lyre River/Whiskey Creek",NA,"",2,"Rupelian","",33.9,28.1,61684,"gp_mid",-106.65,53.19,"129",31,"rupelian",35836,-114.3346,48.667,12,1
 "136722",202283,"col","Makah",-124.47,48.32,"RB19",NA,"",1,"Rupelian","",33.9,28.1,12069,"gp_mid",-107.38,53.38,"129",31,"rupelian",35859,-114.3346,48.667,12,1
+"136846",202439,"col","Hakai",129.59,33.2,"Takasakiyama Beach",NA,"KSM-1",2,"Rupelian","",33.9,28.1,41705,"gp_mid",126.49,35.53,"610",31,"rupelian",35895,128.7004,36.3002,12,1
+"136847",202440,"col","Kishima",130.14,33.22,"Hatada Cliff",NA,"KSM-2",4,"Rupelian","",33.9,28.1,41705,"gp_mid",127.04,35.61,"610",31,"rupelian",35896,128.7004,36.3002,12,1
+"136848",202441,"col","Kishima",130.07,33.23,"Umagami Cliff",NA,"KSM-3",3,"Rupelian","",33.9,28.1,41705,"gp_mid",126.97,35.62,"610",31,"rupelian",35897,128.7004,36.3002,12,1
+"136849",202442,"col","Kishima",130.07,33.23,"Umagami Cliff 4",NA,"KSM-4",3,"Rupelian","",33.9,28.1,41705,"gp_mid",126.97,35.62,"610",31,"rupelian",35897,128.7004,36.3002,12,1
 "137725",203467,"col","",-84.14,31.6,"Muckafoonee Creek",NA,"",1,"Early Oligocene","",33.9,28.4,16640,"gp_mid",-70.98,34.63,"109",31.15,"rupelian",36070,-75.4317,30.9849,12,1
 "137726",203468,"col","Suwannee Limestone",-83.17,30.05,"Suwanee River",NA,"",1,"Rupelian","",33.9,28.1,16640,"gp_mid",-70.28,32.97,"109",31,"rupelian",27656,-75.6885,28.4949,12,1
 "137727",203469,"col","",-82.52,29.53,"Archer",NA,"",2,"Early Oligocene","",33.9,28.4,16640,"gp_mid",-69.71,32.37,"109",31.15,"rupelian",36071,-75.6885,28.4949,12,1
 "137729",203471,"col","",-82.98,29.51,"Santa Fe River",NA,"",1,"Early Oligocene","",33.9,28.4,16640,"gp_mid",-70.18,32.41,"109",31.15,"rupelian",36073,-75.6885,28.4949,12,1
 "137731",203473,"col","",-82.3,29.63,"Nigger Sink",NA,"",1,"Early Oligocene","",33.9,28.4,16640,"gp_mid",-69.47,32.43,"109",31.15,"rupelian",36075,-75.6885,28.4949,12,1
 "138236",204501,"col","",22.49,43,"Raljin-B",NA,"Raljin B",5,"Early Oligocene","",33.9,28.4,70117,"gp_mid",25,33.92,"308",31.15,"rupelian",35202,17.302,40.8384,12,1
+"138256",204551,"col","Kishima",129.93,33.38,"Shimohirano River",NA,"",48,"Rupelian","",33.9,28.1,70145,"gp_mid",126.8,35.75,"610",31,"rupelian",36204,128.7004,36.3002,12,1
 "138516",204942,"col","Ashley",-80.07,32.84,"Shadowmoss Golf Course Back 9",NA,"",1,"Rupelian","",33.9,28.1,70329,"gp_mid",-66.58,35.3,"109",31,"rupelian",36248,-71.7627,30.7029,12,1
 "138581",205033,"col","Lincoln Creek",-123.47,47.29,"Middle Fork Satsop River, gravel bar",NA,"USGS 26902",2,"Rupelian","",33.9,28.1,70366,"gp_mid",-106.38,52.31,"129",31,"rupelian",36292,-114.3346,48.667,12,1
 "138584",205036,"col","Makah",-124.45,48.32,"Shipwreck Point, LACMIP 8233",NA,"USGS 26895; UWBM B-7444",5,"Early Oligocene","",33.9,28.4,70366,"gp_mid",-107.36,53.38,"129",31.15,"rupelian",34874,-114.3346,48.667,12,1
 "138585",205037,"col","Makah",-124.41,48.29,"Sekiu River mouth, west",NA,"USGS 26896",2,"Rupelian","",33.9,28.1,70366,"gp_mid",-107.31,53.35,"129",31,"rupelian",6489,-114.3346,48.667,12,1
 "138588",205040,"col","Makah",-123.78,48.16,"Whiskey Creek mouth",NA,"UWBM B6753",1,"Rupelian","",33.9,28.1,70366,"gp_mid",-106.63,53.19,"129",31,"rupelian",36294,-114.3346,48.667,12,1
+"138592",205046,"col","Kishima",129.93,33.37,"Kitahamura 6",NA,"KSM-6",3,"Rupelian","",33.9,28.1,70369,"gp_mid",126.8,35.74,"610",31,"rupelian",31932,128.7004,36.3002,12,1
+"138593",205047,"col","Kishima",129.93,33.37,"Kitahamura 7",NA,"KSM-7",2,"Rupelian","",33.9,28.1,70369,"gp_mid",126.8,35.74,"610",31,"rupelian",31932,128.7004,36.3002,12,1
+"138594",205048,"col","Kishima",130.01,33.24,"KSM-8",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.91,35.62,"610",31,"rupelian",36297,128.7004,36.3002,12,1
+"138595",205049,"col","Kishima",130.02,33.24,"KSM-9",NA,"",2,"Rupelian","",33.9,28.1,70369,"gp_mid",126.92,35.62,"610",31,"rupelian",36298,128.7004,36.3002,12,1
+"138596",205050,"col","Kishima",130.04,33.23,"KSM-10",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.94,35.61,"610",31,"rupelian",36299,128.7004,36.3002,12,1
+"138597",205051,"col","Kishima",129.9,33.2,"KSM-11",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.8,35.57,"610",31,"rupelian",12834,128.7004,36.3002,12,1
+"138598",205052,"col","Kishima",129.97,33.33,"KSM-12",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.85,35.7,"610",31,"rupelian",36300,128.7004,36.3002,12,1
+"138599",205053,"col","Kishima",129.96,33.35,"KSM-13",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.84,35.72,"610",31,"rupelian",36301,128.7004,36.3002,12,1
+"138600",205054,"col","Kishima",129.96,33.34,"KSM-14",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.83,35.72,"610",31,"rupelian",36302,128.7004,36.3002,12,1
+"138601",205055,"col","Kishima",129.89,33.45,"KSM-16",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.74,35.82,"610",31,"rupelian",36303,128.7004,36.3002,12,1
+"138602",205056,"col","Kishima",129.89,33.45,"KSM-15",NA,"",1,"Rupelian","",33.9,28.1,70369,"gp_mid",126.75,35.81,"610",31,"rupelian",36303,128.7004,36.3002,12,1
 "138736",205194,"col","Makah",-124.47,48.32,"Jansen Creek, northwest",NA,"LACMIP 17101",3,"Rupelian","",33.9,28.1,70408,"gp_mid",-107.38,53.38,"129",31,"rupelian",35859,-114.3346,48.667,12,1
 "138737",205195,"col","Lincoln Creek",-123.56,47.27,"Satsop River, west fork",NA,"LACMIP 17747",6,"Rupelian","",33.9,28.1,70408,"gp_mid",-106.48,52.29,"129",31,"rupelian",36383,-114.3346,48.667,12,1
 "138738",205196,"col","Makah",-124.5,48.34,"UWBM B-7445",NA,"",2,"Rupelian","",33.9,28.1,70408,"gp_mid",-107.41,53.4,"129",31,"rupelian",36384,-114.3346,48.667,12,1
@@ -519,7 +682,9 @@
 "140364",207618,"col","",11.53,45.44,"Soghe",NA,"Arcugnano",2,"Rupelian","",33.9,28.1,71590,"gp_mid",16.29,38.14,"307",31,"rupelian",36990,9.6638,40.8005,12,1
 "140406",207745,"col","Boom Clay",4.23,51.25,"Vrasene Dok, Boom Clay",NA,"Vrasenedock",1,"Rupelian","",33.9,28.1,71647,"gp_mid",8.85,46.02,"315",31,"rupelian",37004,-1.7885,49.7759,12,1
 "140714",208145,"col","Quimper",-122.69,48.05,"UCMP A3697, Marrowstone Island",NA,"",5,"Rupelian","",33.9,28.1,65963,"gp_mid",-105.44,53.04,"129",31,"rupelian",33191,-114.3346,48.667,12,1
+"142162",210132,"col","Menilitic",18.73,49.64,"Bystrice/Olsi",NA,"",1,"Rupelian","",33.9,28.1,72454,"gp_mid",21.77,43.96,"305",31,"rupelian",37313,12.7694,48.0857,12,1
 "142532",210624,"col","",40.21,44.41,"PIN Collection 5506/100",NA,"",1,"Rupelian","",33.9,28.1,72648,"gp_mid",41.21,38.67,"302",31,"rupelian",19608,35.3491,44.5449,12,1
 "142548",210670,"col","",26.28,46.92,"Agarcia",NA,"",1,"Rupelian","",33.9,28.1,72715,"gp_mid",28.52,41.14,"302",31,"rupelian",37425,20.3356,46.0513,12,1
 "143239",211828,"col","Kliwa Sandstone",25.89,47.54,"Piatra Pinului",NA,"",1,"Rupelian","",33.9,28.1,73204,"gp_mid",28.17,41.76,"302",31,"rupelian",37585,20.3356,46.0513,12,1
+"143240",211829,"col","Menilite beds",22.58,49.65,"Przemyśl",NA,"",1,"Rupelian","",33.9,28.1,73207,"gp_mid",25.23,43.91,"305",31,"rupelian",37586,16.37,48.3091,12,1
 "144952",214135,"col","Pesco Falcone",14.1,42.17,"Maiella Mountin, Pesco Falcone Fm",NA,"Reef 2948",31,"Rupelian","",33.9,28.1,73843,"gp_mid",17.5,34.51,"307",31,"rupelian",37921,12.5191,37.8496,12,1

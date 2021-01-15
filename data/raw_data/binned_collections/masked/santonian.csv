@@ -66,26 +66,60 @@
 "23442",39567,"col","",130,32.5,"Amakusa Island, Himenoura Group, Kyushu",NA,"",13,"Santonian","",86.3,83.6,10664,"gp_mid",128.98,38.23,"610",84.95,"santonian",4885,135.0332,39.2162,22,1
 "23448",39572,"col","",130.25,32.33,"Gosyonoura Island, Himenoura Group, Kyushu",NA,"",2,"Santonian","",86.3,83.6,10664,"gp_mid",129.3,38.13,"610",84.95,"santonian",4890,135.0332,39.2162,22,1
 "23830",40091,"col","Kunitan",141.77,40.18,"Kuji Area, Kunitan Formation, Honshu",NA,"",1,"Santonian","",86.3,83.6,10664,"gp_mid",138.03,48.5,"610",84.95,"santonian",4987,144.4909,49.2522,22,1
+"23860",40126,"col","",142,44.83,"Abeshinai Area, Upper Yezo Group, Hokkaido",NA,"",6,"Santonian","",86.3,83.6,10664,"gp_mid",135.81,52.94,"610",84.95,"santonian",4992,145.355,54.8026,22,1
 "24018",40324,"col","Amabe",131.33,33.08,"Onogawa Area, Amabe Formation, Kyushu",NA,"",1,"Santonian","",86.3,83.6,10664,"gp_mid",130.12,39.13,"610",84.95,"santonian",5046,135.0332,39.2162,22,1
 "24166",40593,"col","Makinoyama",132.57,33.22,"Uwajima Area, Makoniyama Formation, Shikoku",40591,"",1,"Santonian","",86.3,83.6,10664,"gp_mid",131.34,39.57,"610",84.95,"santonian",5108,135.0332,39.2162,22,1
 "24229",40656,"col","",130.67,32.67,"Uto Area, Himenoura Group, Kyushu",NA,"",2,"Santonian","",86.3,83.6,10664,"gp_mid",129.6,38.56,"610",84.95,"santonian",5127,135.0332,39.2162,22,1
+"29525",47109,"col","Umzamba",30.17,-31.1,"Umzamba River Mouth Caves",NA,"",37,"Santonian","",86.3,83.6,12553,"gp_mid",19.62,-47.8,"701",84.95,"santonian",6967,20.0711,-42.8836,22,1
 "31077",48722,"col","Csehbánya",17.6,47.22,"Iharkút mine, Bakony mountains",NA,"Németbánya",40,"Santonian","",86.3,83.6,15353,"gp_mid",28.84,30.99,"308",84.95,"santonian",7352,19.7596,39.6168,22,1
 "38524",58601,"col","Syuksyuk",68.94,41.95,"Mansurata I (Syuk-Syuk)",NA,"",3,"Santonian","",86.3,83.6,16510,"gp_mid",71.93,34.01,"402",84.95,"santonian",9308,67.6695,42.5793,22,1
 "38530",58607,"col","Aitym",62.6,42.1,"Dzharakuduk (Aitym)",NA,"",1,"Santonian","",86.3,83.6,16510,"gp_mid",66.28,33.59,"402",84.95,"santonian",9312,63.9683,42.17,22,1
 "38538",58615,"col","Aitym",63.56,41.81,"Tamdy-Truba (Aitym)",NA,"Altyntau",5,"Santonian","",86.3,83.6,16510,"gp_mid",67.16,33.38,"402",84.95,"santonian",9315,63.9683,42.17,22,1
+"38629",58706,"col","Yalovach",72.57,41.05,"Naukat Depression",NA,"Nookat",2,"Santonian","",86.3,83.6,16510,"gp_mid",75.31,33.48,"402",84.95,"santonian",9331,71.8828,40.5162,22,1
+"38631",58708,"col","",70.22,41.78,"Shatyrtyube I",NA,"Shatyrtau",6,"Santonian","",86.3,83.6,16510,"gp_mid",73.09,33.97,"402",84.95,"santonian",9332,71.395,42.9896,22,1
+"38632",58709,"col","",70.22,41.78,"Shatyrtyube II (lower)",NA,"Shatyrtau",3,"Santonian","",86.3,83.6,16510,"gp_mid",73.09,33.97,"402",84.95,"santonian",9332,71.395,42.9896,22,1
+"38637",58714,"col","Syuksyuk",70.07,41.57,"Abdurassai & Syuren'atai",NA,"Abdurassaj; Syuren'atau",3,"Santonian","",86.3,83.6,16510,"gp_mid",72.99,33.74,"402",84.95,"santonian",9335,71.395,42.9896,22,1
+"38639",58716,"col","",70.14,41.02,"Angren",NA,"",1,"Santonian","",86.3,83.6,16510,"gp_mid",73.15,33.2,"402",84.95,"santonian",9336,71.8828,40.5162,22,1
+"38640",58717,"col","Syuksyuk",69.5,41.98,"Kazgurt 1",NA,"Fogelevo, Fogelevka",3,"Santonian","",86.3,83.6,16510,"gp_mid",72.42,34.09,"402",84.95,"santonian",9337,71.395,42.9896,22,1
+"38641",58718,"col","Syuksyuk",69.5,41.98,"Kazgurt 2",NA,"Fogelevo, Fogelevka",1,"Santonian","",86.3,83.6,16510,"gp_mid",72.42,34.09,"402",84.95,"santonian",9337,71.395,42.9896,22,1
 "38646",58723,"col","Syuksyuk",68.52,41.75,"Alymtau Ridge crossing",NA,"",1,"Santonian","",86.3,83.6,16510,"gp_mid",71.59,33.77,"402",84.95,"santonian",9339,67.6695,42.5793,22,1
 "38677",58752,"col","Syuksyuk",68.94,41.95,"Mansurata II",NA,"",1,"Santonian","",86.3,83.6,16510,"gp_mid",71.93,34.01,"402",84.95,"santonian",9308,67.6695,42.5793,22,1
 "38678",58753,"col","Syuksyuk",68.45,41.82,"Taskotan, Alymtau Ridge",NA,"",4,"Santonian","",86.3,83.6,16510,"gp_mid",71.51,33.83,"402",84.95,"santonian",9355,67.6695,42.5793,22,1
 "39471",59581,"col","",0.53,49.8,"Asteroidea, Santonian, Les Petites Dalles, Sassetot-le-Mauconduit",NA,"",1,"Santonian","",86.3,83.6,17061,"gp_mid",12.73,40.99,"305",84.95,"santonian",9513,3.1105,44.2889,22,1
+"39485",59595,"col","Yalovach",72.93,41.33,"Arslanbob",NA,"",2,"Santonian","",86.3,83.6,16510,"gp_mid",75.59,33.8,"402",84.95,"santonian",9516,71.395,42.9896,22,1
+"39486",59596,"col","Yalovach",72.98,41.25,"Charvak",NA,"",1,"Santonian","",86.3,83.6,16510,"gp_mid",75.65,33.72,"402",84.95,"santonian",9517,71.395,42.9896,22,1
+"39487",59597,"col","Yalovach",72.19,41.38,"Balabansai III",NA,"",3,"Santonian","",86.3,83.6,16510,"gp_mid",74.92,33.77,"402",84.95,"santonian",9518,71.395,42.9896,22,1
+"39488",59598,"col","Yalovach",72.16,41.41,"Kichiachisai",NA,"",2,"Santonian","",86.3,83.6,16510,"gp_mid",74.88,33.8,"402",84.95,"santonian",9519,71.395,42.9896,22,1
+"39489",59599,"col","Yalovach",72.17,41.38,"Karasai",NA,"",2,"Santonian","",86.3,83.6,16510,"gp_mid",74.9,33.77,"402",84.95,"santonian",9520,71.395,42.9896,22,1
 "41115",61516,"col","",23.28,38.47,"Mt. Ptoon, Marmeiko, Biostrome 1, Boeotia",NA,"Reef 3428",33,"Santonian","",86.3,83.6,17746,"gp_mid",26.72,21.49,"307",84.95,"santonian",9944,22.8402,22.7726,22,1
 "41116",61517,"col","",23.28,38.47,"Mt. Ptoon, Marmeiko, Biostrome 2, Boeotia",NA,"Reef 3428",17,"Santonian","",86.3,83.6,17746,"gp_mid",26.72,21.49,"307",84.95,"santonian",9944,22.8402,22.7726,22,1
 "41117",61518,"col","",23.28,38.47,"Mt. Ptoon, Marmeiko, Biostrome 3, Boeotia",NA,"Reef 3428",11,"Santonian","",86.3,83.6,17746,"gp_mid",26.72,21.49,"307",84.95,"santonian",9944,22.8402,22.7726,22,1
 "41454",61914,"col","Upper Napo",-77.68,-2.85,"Santiago-Morona road, Oriente Basin, Upper Napo Formation",NA,"",3,"Santonian","",86.3,83.6,17883,"gp_mid",-48.4,-3.43,"201",84.95,"santonian",10009,-53.7823,-6.1526,22,1
 "41555",62021,"col","Celendin",-78.52,-5.48,"Pongo de Rentema, left bank, Sample 124, Celendin Formation",NA,"",2,"Santonian","",86.3,83.6,17883,"gp_mid",-49.48,-5.98,"201",84.95,"santonian",10037,-53.804,-8.6525,22,1
+"41605",62197,"col","Gosau Beds",13.53,47.57,"Gosau Basin, Gosau Beds",NA,"",1,"Santonian","",86.3,83.6,17963,"gp_mid",26.63,33.03,"307",84.95,"santonian",10049,16.5574,39.0819,22,1
+"41611",62209,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0085, Detofutamata River",NA,"",6,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41612",62210,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0145, Detofutamata River",NA,"",21,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41613",62211,"col","Upper Haborogawa",141.75,44.13,"Upper Haborogawa Fm - Sample DF0055, Detofutamata River",NA,"",15,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41614",62212,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample MN0061, Minorusawa River",NA,"",8,"Santonian","",86.3,83.6,17980,"gp_mid",135.86,52.35,"610",84.95,"santonian",10053,145.355,54.8026,22,1
+"41615",62213,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample MN0063, Minorusawa River",NA,"",2,"Santonian","",86.3,83.6,17980,"gp_mid",135.86,52.35,"610",84.95,"santonian",10053,145.355,54.8026,22,1
+"41616",62214,"col","Upper Haborogawa",141.75,44.27,"Upper Haborogawa Fm - Sample KM0061, Kinomesawa River",NA,"",7,"Santonian","",86.3,83.6,17980,"gp_mid",135.86,52.35,"610",84.95,"santonian",10053,145.355,54.8026,22,1
+"41617",62215,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample PK0033, Pankesawa River",NA,"",5,"Santonian","",86.3,83.6,17980,"gp_mid",135.88,52.49,"610",84.95,"santonian",10054,145.355,54.8026,22,1
+"41618",62216,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample PK0045, Pankesawa River",NA,"",11,"Santonian","",86.3,83.6,17980,"gp_mid",135.88,52.49,"610",84.95,"santonian",10054,145.355,54.8026,22,1
+"41619",62217,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample PK0043, Pankesawa River",NA,"",16,"Santonian","",86.3,83.6,17980,"gp_mid",135.88,52.49,"610",84.95,"santonian",10054,145.355,54.8026,22,1
+"41620",62218,"col","Upper Haborogawa",141.83,44.4,"Upper Haborogawa Fm - Sample PK0047, Pankesawa River",NA,"",3,"Santonian","",86.3,83.6,17980,"gp_mid",135.88,52.49,"610",84.95,"santonian",10054,145.355,54.8026,22,1
+"41712",62330,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0081, Detofutamata River",NA,"",2,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41713",62331,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0079, Detofutamata River",NA,"",11,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41714",62332,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0065, Detofutamata River",NA,"",7,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41715",62333,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0067, Detofutamata River",NA,"",7,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41716",62334,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0069, Detofutamata River",NA,"",7,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41717",62335,"col","Upper Haborogawa",141.75,44.13,"Upper Haborogawa Fm - Sample DF0055, Detofutamata River",62211,"",11,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"41780",62467,"col","Upper Haborogawa",141.75,44.13,"Upper Haborogawa Fm - Sample DF0057, Detofutamata River",NA,"",3,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
+"42130",62930,"col","Middle Haborogawa",141.75,44.13,"Middle Haborogawa Fm - Sample DF0093, Detofutamata River",NA,"",5,"Santonian","",86.3,83.6,17980,"gp_mid",135.94,52.22,"610",84.95,"santonian",10052,145.355,54.8026,22,1
 "42240",63043,"col","Upper Chalk",1.23,51.13,"Ophiuroidea, Santonian, Dover, Kent, UK",NA,"",1,"Santonian","",86.3,83.6,16765,"gp_mid",13.52,42.26,"315",84.95,"santonian",10183,3.1105,44.2889,22,1
 "42757",64105,"col","",68.59,43.74,"Bogonale, Tashkent Chul'",NA,"Bogonaly",1,"Santonian","",86.3,83.6,16510,"gp_mid",71.33,35.75,"402",84.95,"santonian",10304,67.6695,42.5793,22,1
 "42888",64274,"col","",22.95,38.52,"Dhionisos, Boeotia",NA,"",13,"Santonian","",86.3,83.6,18332,"gp_mid",26.52,21.68,"307",84.95,"santonian",10338,22.8402,22.7726,22,1
 "43362",65025,"col","Yorimatsu",132.75,33.25,"Yorimatsu Formation, Chikanaga area",NA,"",11,"Santonian","",86.3,83.6,18725,"gp_mid",131.51,39.65,"610",84.95,"santonian",10451,135.0332,39.2162,22,1
+"44135",66070,"col","Umzamba",30.17,-31.1,"Locality 1 (Upper) [Umzamba Fm]",NA,"",13,"Santonian","",86.3,83.6,18897,"gp_mid",19.63,-47.8,"701",84.95,"santonian",6967,20.0711,-42.8836,22,1
 "44512",66644,"col","Mata Amarilla",-71.82,-49.8,"Bajo Cerro Indice, Austral Basin, Mata Amarilla Formation, Santa Cruz",NA,"",4,"Santonian","",86.3,83.6,19009,"gp_mid",-48.61,-50.64,"291",84.95,"santonian",10769,-46.2551,-53.6852,22,1
 "44695",66979,"col","Sant Corneli",0.9,42.17,"St. Corneli, Tremp Area, Aramunt Vell Member, Cataluna",NA,"",18,"Santonian","",86.3,83.6,19089,"gp_mid",12.58,32.08,"304",84.95,"santonian",2373,3.9319,35.7355,22,1
 "44699",66983,"col","Collades de Basturs",0.9,42.17,"St. Corneli, Tremp Area, Collades de Basturs Formation, Cataluna",NA,"Reef 3474",40,"Santonian","",86.3,83.6,19089,"gp_mid",12.58,32.08,"304",84.95,"santonian",2373,3.9319,35.7355,22,1
@@ -105,12 +139,19 @@
 "49718",74484,"col","",12.88,47.65,"Lattenberg (Krönner) back reef lagoon",NA,"",90,"Santonian","",86.3,83.6,24988,"gp_mid",26.3,33.38,"307",84.95,"santonian",12145,13.3699,38.5795,22,1
 "49719",74485,"col","",12.88,47.65,"Lattenberg (Krönner) fore reef lagoon",NA,"",60,"Santonian","",86.3,83.6,24988,"gp_mid",26.3,33.38,"307",84.95,"santonian",12145,13.3699,38.5795,22,1
 "49720",74486,"col","",12.88,47.65,"Lattenberg,  basal Gosau facies",NA,"",41,"Santonian","",86.3,83.6,24988,"gp_mid",26.3,33.38,"307",84.95,"santonian",12145,13.3699,38.5795,22,1
+"49721",74487,"col","Hochmoos",13.52,47.6,"Brunftloch, Hippurites biostrome",NA,"Reef 1268",1,"Santonian","",86.3,83.6,24988,"gp_mid",26.65,33.06,"307",84.95,"santonian",12146,16.5574,39.0819,22,1
+"49722",74488,"col","Hochmoos",13.48,47.6,"Unterbrein, rudist patch reef",NA,"Reef 1267",20,"Santonian","",86.3,83.6,24988,"gp_mid",26.62,33.08,"307",84.95,"santonian",12147,16.5574,39.0819,22,1
+"49723",74489,"col","Hochmoos",13.48,47.6,"Unterbrein, back reef lagoon",NA,"",25,"Santonian","",86.3,83.6,24988,"gp_mid",26.62,33.08,"307",84.95,"santonian",12147,16.5574,39.0819,22,1
 "49737",74588,"col","Vallcarga",0.83,42.03,"Sierra de Montsech, Clot d'Olsi-Alsamora section, units 28-30, Pyrenees",NA,"",4,"Santonian","",86.3,83.6,25067,"gp_mid",12.49,31.96,"304",84.95,"santonian",2062,3.9319,35.7355,22,1
+"49891",74895,"col","Hochmoos",13.5,47.57,"Hochmoos-Russbach, Gosau",NA,"",37,"Santonian","",86.3,83.6,12732,"gp_mid",26.61,33.05,"307",84.95,"santonian",12231,16.5574,39.0819,22,1
+"49900",74905,"col","Grabenbach",13.52,47.57,"Grabenbach, Gosau",NA,"",7,"Santonian","",86.3,83.6,12732,"gp_mid",26.62,33.04,"307",84.95,"santonian",12232,16.5574,39.0819,22,1
 "51475",78106,"col","Austin Chalk",-98.71,29.42,"USGS 15626, Medio Creek Valley",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-61.45,36.07,"101",84.95,"santonian",12755,-67.8315,32.2325,22,1
 "51476",78107,"col","Austin Chalk",-99.47,29.41,"USGS 7711, Sabinal",NA,"",2,"Santonian","",86.3,83.6,26335,"gp_mid",-62.25,36.22,"101",84.95,"santonian",12756,-71.6203,32.8174,22,1
 "51507",78161,"col","Austin Chalk",-97.15,31.68,"USGS 3197, Waco-Gholson road",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-59.08,37.88,"101",84.95,"santonian",12770,-67.2801,34.6898,22,1
+"51518",78172,"col","Merchantville",-74.25,40.44,"2.5 miles NW of Matawan",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-32.87,40.65,"109",84.95,"santonian",12771,-43.3009,38.4649,22,1
 "51522",78176,"col","Austin Chalk",-96.16,33.43,"USGS 10553, Bailey",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-57.43,39.33,"101",84.95,"santonian",12774,-67.2801,34.6898,22,1
 "51531",78185,"col","Mooreville Chalk",-86.53,32.22,"Hayneville, Lowndes",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-48.08,35.86,"109",84.95,"santonian",12781,-56.0673,32.8975,22,1
+"51537",78194,"col","Merchantville",-74.43,40.33,"Railroad cut south of Lower Jamesburg",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-33.09,40.58,"109",84.95,"santonian",12784,-43.3009,38.4649,22,1
 "53497",81924,"col","",-87.21,32.44,"Potter Farm",NA,"",1,"Santonian","",86.3,83.6,27620,"gp_mid",-48.68,36.24,"101",84.95,"santonian",13454,-56.0673,32.8975,22,1
 "53498",81925,"col","",-87.21,32.42,"Hancock Farm",NA,"",0,"Santonian","",86.3,83.6,27620,"gp_mid",-48.68,36.22,"101",84.95,"santonian",13455,-56.0673,32.8975,22,1
 "53499",81926,"col","",-87.21,32.42,"Donald Farm",NA,"",3,"Santonian","",86.3,83.6,27620,"gp_mid",-48.68,36.22,"101",84.95,"santonian",13455,-56.0673,32.8975,22,1
@@ -159,6 +200,7 @@
 "56889",86692,"col","",45.52,40.38,"Pambak, Lake Sevan",NA,"",1,"Santonian","",86.3,83.6,29186,"gp_mid",48.8,24.87,"512",84.95,"santonian",14668,44.7672,37.1754,22,1
 "56977",86824,"col","",46.42,39.67,"Dovutly",NA,"",1,"Santonian","",86.3,83.6,29186,"gp_mid",49.74,24.35,"512",84.95,"santonian",14718,44.7672,37.1754,22,1
 "57053",86969,"col","Chalk Marl",-5.83,55.73,"Woodburn - Spongarian Zone",NA,"",1,"Santonian","",86.3,83.6,29264,"gp_mid",8.47,47.36,"313",84.95,"santonian",14750,-3.9656,49.0029,22,1
+"57098",87014,"col","Kajisako",133.97,33.75,"Loc. M-34 - River Kajisako [Kajisako Fm]",NA,"",2,"Santonian","",86.3,83.6,29274,"gp_mid",132.57,40.44,"610",84.95,"santonian",14766,136.1066,43.1297,22,1
 "57141",87057,"col","Eutaw",-85.27,32.26,"High Log Creek",NA,"",1,"Santonian","",86.3,83.6,29295,"gp_mid",-46.81,35.59,"109",84.95,"santonian",14776,-56.0673,32.8975,22,1
 "57530",87546,"col","",18.58,49.1,"Zilinska Lehota",NA,"",1,"Santonian","",86.3,83.6,29467,"gp_mid",27.95,39.37,"305",84.95,"santonian",14890,20.0226,45.3635,22,1
 "57736",87776,"col","Mancos Shale",-108.89,40.76,"USGS Loc. M11699, Vermilion Creek [Mancos Shale]",NA,"",8,"Santonian","",86.3,83.6,29509,"gp_mid",-68.14,49.24,"101",84.95,"santonian",14951,-76.9458,43.7604,22,1
@@ -170,6 +212,7 @@
 "57743",87783,"col","Mancos Shale",-108.89,40.76,"USGS Loc. M11708, Vermilion Creek [Mancos Shale]",NA,"",6,"Santonian","",86.3,83.6,29509,"gp_mid",-68.14,49.24,"101",84.95,"santonian",14951,-76.9458,43.7604,22,1
 "57744",87784,"col","Mancos Shale",-108.89,40.76,"USGS Loc. M11948, Vermilion Creek [Mancos Shale]",NA,"",2,"Santonian","",86.3,83.6,29509,"gp_mid",-68.14,49.24,"101",84.95,"santonian",14951,-76.9458,43.7604,22,1
 "57746",87786,"col","Mancos Shale",-108.89,40.76,"USGS Loc. M11949, Vermilion Creek [Mancos Shale]",NA,"",4,"Santonian","",86.3,83.6,29509,"gp_mid",-68.14,49.24,"101",84.95,"santonian",14951,-76.9458,43.7604,22,1
+"58003",88154,"col","Celendín",-78.15,-6.87,"Bed 72, Section 4 - Celendín [Celendín Fm]",NA,"",6,"Santonian","",86.3,83.6,15338,"gp_mid",-49.25,-7.39,"201",84.95,"santonian",15027,-53.8259,-11.1524,22,1
 "58078",88228,"col","Taylor Marl",-99.99,26.66,"Old shaft 2 mi. from Vallecillo [Taylor Marl]",NA,"",1,"Santonian","",86.3,83.6,29627,"gp_mid",-63.65,33.69,"101",84.95,"santonian",15053,-72.1377,30.3565,22,1
 "58080",88229,"col","Taylor Marl",-101.33,27.73,"Arroyo de la Pasta, Esperanzas [Taylor Marl]",NA,"",7,"Santonian","",86.3,83.6,29627,"gp_mid",-64.72,35.03,"101",84.95,"santonian",15055,-72.1377,30.3565,22,1
 "58081",88230,"col","Taylor Marl",-101.33,27.73,"Arroyo del Sauz [Taylor Marl]",NA,"",1,"Santonian","",86.3,83.6,29627,"gp_mid",-64.72,35.03,"101",84.95,"santonian",15055,-72.1377,30.3565,22,1
@@ -179,12 +222,17 @@
 "58179",88327,"col","",0.83,42.03,"Montsech de Ager",NA,"",7,"Santonian","",86.3,83.6,29649,"gp_mid",12.49,31.96,"304",84.95,"santonian",2062,3.9319,35.7355,22,1
 "59725",90763,"col","",1.42,51.37,"Thanet, Kent",NA,"",2,"Santonian","",86.3,83.6,30549,"gp_mid",13.71,42.48,"315",84.95,"santonian",15653,2.865,46.7829,22,1
 "62670",94652,"col","Niobrara",-100.7,38.72,"Hell's Bar",NA,"KU-GOV-42",26,"Santonian","",86.3,83.6,32233,"gp_mid",-60.13,45.45,"101",84.95,"santonian",16550,-69.8713,40.1849,22,1
+"62707",94689,"col","",142,44,"Obata locality 10, ob. 035r",NA,"",6,"Santonian","",86.3,83.6,32250,"gp_mid",136.29,52.16,"610",84.95,"santonian",16558,145.355,54.8026,22,1
 "63172",95160,"col","Kirsanovskaya",42.57,52.55,"W 19A Inokovka, 16.8 m",NA,"",38,"Santonian","",86.3,83.6,32409,"gp_mid",48,42.86,"302",84.95,"santonian",16691,40.1883,49.7242,22,1
 "63173",95161,"col","Kirsanovskaya",42.57,52.55,"W 19A Inokovka, 17.5 m",NA,"",24,"Santonian","",86.3,83.6,32409,"gp_mid",48,42.86,"302",84.95,"santonian",16691,40.1883,49.7242,22,1
 "63174",95162,"col","Kirsanovskaya",42.57,52.55,"W 19A Inokovka, 18.0 m",NA,"",5,"Santonian","",86.3,83.6,32409,"gp_mid",48,42.86,"302",84.95,"santonian",16691,40.1883,49.7242,22,1
 "63178",95166,"col","",41.68,50.72,"o/c 598 Verkhnesoinskiy",NA,"",8,"Santonian","",86.3,83.6,32409,"gp_mid",47.38,41,"302",84.95,"santonian",16692,40.7636,47.2534,22,1
+"63783",95788,"col","Regosawa",142.28,44.87,"Kamitombetsu, loc. 87070301",NA,"",19,"Santonian","",86.3,83.6,32537,"gp_mid",148.75,49.03,"609",84.95,"santonian",16902,145.355,54.8026,22,1
+"63968",95983,"col","",38.08,56.33,"Moscow Basin, borehole 9, sample 10-4",NA,"",12,"Santonian","",86.3,83.6,32571,"gp_mid",44.1,46.52,"302",84.95,"santonian",16974,35.4226,54.3103,22,1
+"63974",95989,"col","",35.52,54.58,"Moscow Basin, borehole 71, sample 12",NA,"",3,"Santonian","",86.3,83.6,32571,"gp_mid",42.1,44.73,"302",84.95,"santonian",16977,32.6759,51.5096,22,1
 "63979",95994,"col","",40.2,56.42,"Moscow Basin, borehole 124, sample 2",NA,"",6,"Santonian","",86.3,83.6,32571,"gp_mid",45.8,46.65,"302",84.95,"santonian",16980,38.8395,54.6556,22,1
 "65019",97589,"col","Niobrara",-105.23,40.2,"SW Portland Cement Quarry, Lyons",NA,"",2,"Santonian","",86.3,83.6,33299,"gp_mid",-64.37,47.9,"101",84.95,"santonian",17242,-73.0458,43.2157,22,1
+"65091",98018,"col","Vivian",-74.91,-10,"Guillermo Davilo",NA,"Rio Pachitea",1,"Santonian","",86.3,83.6,33896,"gp_mid",-46.31,-10.81,"201",84.95,"santonian",17271,-50.0477,-13.6768,22,1
 "66503",99383,"col","Niobrara",-100.45,38.72,"Southern Gove County",NA,"",1,"Santonian","",86.3,83.6,34156,"gp_mid",-59.86,45.4,"101",84.95,"santonian",17832,-69.8713,40.1849,22,1
 "66504",99384,"col","Niobrara",-100,38,"canyon in Gove County",NA,"",1,"Santonian","",86.3,83.6,34156,"gp_mid",-59.68,44.61,"101",84.95,"santonian",17833,-69.8713,40.1849,22,1
 "66505",99385,"col","Niobrara",-100.25,38,"Eastern Gove County",NA,"",2,"Santonian","",86.3,83.6,34156,"gp_mid",-59.95,44.66,"101",84.95,"santonian",17834,-69.8713,40.1849,22,1
@@ -209,9 +257,11 @@
 "87826",183398,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 1-A",NA,"",3,"Santonian","",86.3,83.6,61229,"gp_mid",29.71,40.82,"305",84.95,"santonian",24492,20.0226,45.3635,22,1
 "87827",183399,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 1-B",NA,"",3,"Santonian","",86.3,83.6,61229,"gp_mid",29.71,40.82,"305",84.95,"santonian",24492,20.0226,45.3635,22,1
 "87980",127412,"col","",43.61,52.58,"Zatolokino Village",NA,"Georgiasaurus penzensis type locality",1,"Santonian","",86.3,83.6,41484,"gp_mid",48.86,42.93,"302",84.95,"santonian",24567,43.6878,50.0868,22,1
+"88157",127691,"col","",142.23,44.9,"YEZ-1, Kitazawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",148.72,49.08,"609",84.95,"santonian",24615,145.355,54.8026,22,1
 "99850",142378,"col","",-86.79,32.36,"Wood's Upper Bluff",NA,"L&W locality 6",1,"Santonian","",86.3,83.6,12319,"gp_mid",-48.28,36.06,"101",84.95,"santonian",27528,-56.0673,32.8975,22,1
 "99851",142379,"col","",-86.86,32.45,"Battsmith Bluff",NA,"L&W locality 7",1,"Santonian","",86.3,83.6,12319,"gp_mid",-48.33,36.16,"101",84.95,"santonian",27529,-56.0673,32.8975,22,1
 "100687",143451,"col","Skolis",21.57,37.97,"Skolis Mountain area",NA,"",3,"Santonian","",86.3,83.6,46470,"gp_mid",25.22,21.85,"307",84.95,"santonian",27643,22.8402,22.7726,22,1
+"102140",145483,"col","Abderaz",60.72,36.1,"Padeha",NA,"",2,"Santonian","",86.3,83.6,47026,"gp_mid",65.32,27.47,"402",84.95,"santonian",27905,61.6161,34.3361,22,1
 "104597",148656,"col","",5.92,43.33,"Mazaugues, Santonien",NA,"",24,"Santonian","",86.3,83.6,47721,"gp_mid",NA,NA,"coordinates not computable using this model",84.95,"santonian",28174,9.59,38.3454,22,1
 "107837",152687,"col","Eutaw",-84.77,32.42,"Upatoi Creek",NA,"",1,"Santonian","",86.3,83.6,49224,"gp_mid",-46.25,35.62,"109",84.95,"santonian",28956,-56.0673,32.8975,22,1
 "108263",153505,"col","Toolonga Calcilutite",114.21,-27.7,"Meanarra Hill",NA,"",7,"Santonian","",86.3,83.6,49608,"gp_mid",104.04,-58.01,"801",84.95,"santonian",29052,95.5767,-51.4231,22,1
@@ -256,6 +306,7 @@
 "114535",162698,"col","",13.94,44.81,"Southern Istria, section 2, facies C",NA,"",6,"Santonian","",86.3,83.6,52973,"gp_mid",24.78,30.75,"307",84.95,"santonian",30736,21.4762,32.0686,22,1
 "115153",163787,"col","Calizas",-0.78,42.4,"Salinas de Jaca near Huesca locality, Calizas Fm",NA,"",1,"Santonian","",86.3,83.6,53416,"gp_mid",11.21,32.6,"304",84.95,"santonian",30820,3.9319,35.7355,22,1
 "116202",165694,"col","Tamagawa",141.8,40.08,"Upper Tamagawa",NA,"",4,"Santonian","",86.3,83.6,54154,"gp_mid",138.12,48.42,"610",84.95,"santonian",31077,144.4909,49.2522,22,1
+"116623",166241,"col","",141.96,44.33,"Pisshiri-zawa, branch of Deto-futamata",NA,"",1,"Santonian","",86.3,83.6,54317,"gp_mid",136.06,52.45,"610",84.95,"santonian",31234,145.355,54.8026,22,1
 "116625",166243,"col","",130.02,32.26,"North of Himenoura, Amakusa",NA,"",1,"Santonian","",86.3,83.6,54317,"gp_mid",129.1,38.01,"610",84.95,"santonian",31236,135.0332,39.2162,22,1
 "118767",170004,"col","Kunitan",141.77,40.18,"Kuji City (PROXY)",NA,"",1,"Santonian","",86.3,83.6,55479,"gp_mid",138.03,48.5,"610",84.95,"santonian",4987,144.4909,49.2522,22,1
 "118891",170130,"col","",1.21,51.22,"Snowdown Colliery (Coranguinum zone)",NA,"",1,"Santonian","",86.3,83.6,55514,"gp_mid",13.51,42.35,"315",84.95,"santonian",31710,3.1105,44.2889,22,1
@@ -267,16 +318,27 @@
 "120590",172918,"col","Eutaw",-85,32.47,"Phenix City hillside",NA,"",2,"Santonian","",86.3,83.6,56214,"gp_mid",-46.46,35.73,"109",84.95,"santonian",32055,-56.0673,32.8975,22,1
 "120697",173313,"col","Ajka Coal",17.57,47.08,"Jókai mine, spoil heaps",NA,"",8,"Santonian","",86.3,83.6,56346,"gp_mid",28.72,30.89,"308",84.95,"santonian",32077,19.7596,39.6168,22,1
 "120698",173314,"col","Ajka Coal",17.57,47.08,"Ajka boreholes",NA,"Káptalanfa-2, Kf-2, Gyepükaján-12, Gy-12",4,"Santonian","",86.3,83.6,56346,"gp_mid",28.72,30.89,"308",84.95,"santonian",32077,19.7596,39.6168,22,1
+"121622",175261,"col","Umzamba",30.17,-31.12,"southwest of Umzamba River",NA,"Mzamba",8,"Santonian","",86.3,83.6,57284,"gp_mid",19.62,-47.82,"701",84.95,"santonian",32278,20.0711,-42.8836,22,1
 "122132",175915,"col","Salzberg",11.2,51.77,"Salzberg W Quedlinburg, Salzberg Fm",NA,"",2,"Santonian","",86.3,83.6,57662,"gp_mid",21.95,42.31,"315",84.95,"santonian",32345,12.8814,47.3608,22,1
 "122133",175916,"col","",10.35,52.22,"Vallstedt locality",NA,"",2,"Santonian","",86.3,83.6,57662,"gp_mid",21.29,42.8,"315",84.95,"santonian",32346,12.8814,47.3608,22,1
 "122134",175917,"col","",9.58,52.3,"Gehrdener Berg",NA,"",1,"Santonian","",86.3,83.6,57662,"gp_mid",20.66,42.92,"315",84.95,"santonian",32347,12.8814,47.3608,22,1
 "122732",176739,"col","",11.67,47.45,"Pletzach Alm close to Kramsach, Tyrol",NA,"",11,"Santonian","",86.3,83.6,58302,"gp_mid",25.41,33.78,"307",84.95,"santonian",32518,13.3699,38.5795,22,1
+"123383",177883,"col","Umzamba",30.17,-31.1,"Mouth of Umzamba River, Pondoand",NA,"",2,"Santonian","",86.3,83.6,58842,"gp_mid",19.62,-47.8,"701",84.95,"santonian",6967,20.0711,-42.8836,22,1
 "124194",178953,"col","",0.69,47.4,"Tours (d'Orbigny collection)",NA,"",1,"Santonian","",86.3,83.6,59212,"gp_mid",12.52,38.59,"305",84.95,"santonian",32932,3.3361,41.7943,22,1
 "124413",179211,"col","Niobrara",-104.88,38.84,"Red Rock Canyon Open Space (Smoky Hill)",NA,"RRCOS",5,"Santonian","",86.3,83.6,59328,"gp_mid",-64.56,46.52,"101",84.95,"santonian",32971,-73.0458,43.2157,22,1
 "125937",181582,"col","Eagle",-111.82,48.97,"Deadhorse Coulee (OMNH V1409)",NA,"",14,"Santonian","",86.3,83.6,60388,"gp_mid",-67.23,57.69,"101",84.95,"santonian",33362,-77.6122,54.118,22,1
 "125938",181583,"col","Eagle",-111.82,48.97,"Deadhorse Coulee (OMNH V1412)",NA,"",2,"Santonian","",86.3,83.6,60388,"gp_mid",-67.23,57.69,"101",84.95,"santonian",33362,-77.6122,54.118,22,1
 "126924",183401,"col","",20.58,50.6,"Lipnik village (near Kije), Outcrop 1-D",NA,"",4,"Santonian","",86.3,83.6,61229,"gp_mid",29.71,40.82,"305",84.95,"santonian",24492,20.0226,45.3635,22,1
+"128042",185003,"col","Nigorisawa",142.07,44.8,"YEZ-2, Kasekizawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",135.91,52.93,"610",84.95,"santonian",33850,145.355,54.8026,22,1
+"128043",185004,"col","",141.89,44.33,"YEZ-3, Sankebetsugawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",135.98,52.44,"610",84.95,"santonian",33851,145.355,54.8026,22,1
+"128044",185005,"col","",141.89,44.33,"YEZ-4, Sakasagawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",135.98,52.44,"610",84.95,"santonian",33851,145.355,54.8026,22,1
+"128045",185006,"col","Haborogawa",141.93,44.3,"YEZ-5, Horotatezawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",136.04,52.42,"610",84.95,"santonian",33852,145.355,54.8026,22,1
+"128046",185007,"col","",141.93,44.3,"YEZ-6, Detofutamatazawa",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",136.04,52.42,"610",84.95,"santonian",33852,145.355,54.8026,22,1
+"128049",185010,"col","",141.95,44.19,"YEZ-9, Kiritachi",NA,"",1,"Santonian","",86.3,83.6,41704,"gp_mid",136.13,52.33,"610",84.95,"santonian",33855,145.355,54.8026,22,1
+"128505",185644,"col","",6.62,36.28,"Province de Constantine",NA,"",8,"Santonian","",86.3,83.6,62230,"gp_mid",NA,NA,"coordinates not computable using this model",84.95,"santonian",33996,10.1403,27.1887,22,1
 "128512",185651,"col","",9.18,35.37,"Foum El Guelta",NA,"",7,"Santonian","",86.3,83.6,62230,"gp_mid",17.78,21.51,"714",84.95,"santonian",34003,9.3164,24.7639,22,1
+"128844",186343,"col","",67.33,36.03,"Tadjik Depression",NA,"",4,"Santonian","",86.3,83.6,62476,"gp_mid",71.34,27.98,"402",84.95,"santonian",34103,69.0264,35.1538,22,1
+"130267",189013,"col","Yalovach",71.72,40.15,"Lyagan, Fergana (Yalovach)",NA,"",1,"Santonian","",86.3,83.6,37404,"gp_mid",74.7,32.51,"402",84.95,"santonian",34399,71.8828,40.5162,22,1
 "133906",196705,"col","Pen",-102.95,28.64,"Los Primos DUPLICATE",NA,"",0,"Santonian","",86.3,83.6,66935,"gp_mid",-66.14,36.26,"101",84.95,"santonian",35162,-72.1377,30.3565,22,1
 "134119",197063,"col","Austin Chalk",-98.71,29.42,"USGS 16880, Medio Creek Valley",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-61.45,36.07,"101",84.95,"santonian",12755,-67.8315,32.2325,22,1
 "134120",197064,"col","Austin Chalk",-99.64,29.18,"USGS 10881, Connor's Ranch, Rio Frio",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-62.5,36.05,"101",84.95,"santonian",35234,-71.6203,32.8174,22,1
@@ -289,3 +351,6 @@
 "134532",197717,"col","Austin Chalk",-100.64,29.06,"USGS 16768, Tequesquite Creek",NA,"",1,"Santonian","",86.3,83.6,26335,"gp_mid",-63.58,36.16,"101",84.95,"santonian",35360,-71.6203,32.8174,22,1
 "142342",210347,"col","Niobrara Chalk",-100.45,38.94,"Gove City",NA,"",1,"Santonian","",86.3,83.6,72578,"gp_mid",-59.77,45.61,"101",84.95,"santonian",37367,-69.2038,42.6343,22,1
 "142345",210350,"col","Niobrara Chalk",-100,38.8,"Smoky Hill River",NA,"",1,"Santonian","",86.3,83.6,72579,"gp_mid",-59.35,45.37,"101",84.95,"santonian",37368,-69.2038,42.6343,22,1
+"142595",210742,"col","",142.35,44.49,"Kita-zawa",NA,"",1,"Santonian","",86.3,83.6,72767,"gp_mid",148.53,48.68,"609",84.95,"santonian",37431,145.355,54.8026,22,1
+"142596",210743,"col","",141.93,44.3,"Pishirishizawa",NA,"",1,"Santonian","",86.3,83.6,72767,"gp_mid",136.04,52.42,"610",84.95,"santonian",33852,145.355,54.8026,22,1
+"142601",210758,"col","",141.85,44.04,"Obirashibe-gawa",NA,"",2,"Santonian","",86.3,83.6,72767,"gp_mid",136.11,52.16,"610",84.95,"santonian",37434,145.355,54.8026,22,1

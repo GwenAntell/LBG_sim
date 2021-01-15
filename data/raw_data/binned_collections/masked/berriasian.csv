@@ -99,6 +99,7 @@
 "29587",47176,"col","Wahrah",57.06,22.97,"Jebel Buwaydah, Oman, JB 32",NA,"",104,"Berriasian","",145,139.8,12583,"gp_mid",53.58,-15.46,"503",142.4,"berriasian",6985,49.0971,-20.5559,31,1
 "29588",47177,"col","Wahrah",57.4,22.73,"Jebel Hammah, Oman, JH 13",NA,"",82,"Berriasian","",145,139.8,12583,"gp_mid",53.83,-15.78,"503",142.4,"berriasian",6986,49.0971,-20.5559,31,1
 "29589",47178,"col","Wahrah",57.4,22.73,"Jebel Hammah, Oman, JH 16",NA,"",97,"Berriasian","",145,139.8,12583,"gp_mid",53.83,-15.78,"503",142.4,"berriasian",6986,49.0971,-20.5559,31,1
+"31172",48925,"col","Bückeberg",9.51,52.25,"Deisters",NA,"",1,"Late Berriasian","",145,140.2,53790,"gp_mid",24.61,35.22,"315",142.6,"berriasian",7389,24.8985,32.7186,31,1
 "31299",49109,"col","Maiolica",12.81,43.26,"Bosso Bo361.80",NA,"",73,"Late Berriasian","",145,140.2,13135,"gp_mid",32.97,17.12,"307",142.6,"berriasian",7420,24.839,14.3857,31,1
 "31300",49110,"col","Maiolica",12.81,43.26,"Bosso Bo323.20",NA,"",73,"Early Berriasian","",145,140.2,13135,"gp_mid",32.97,17.12,"307",142.6,"berriasian",7420,24.839,14.3857,31,1
 "31309",49119,"col","Maiolica",12.81,43.26,"Bosso Bo370.10",NA,"",85,"Late Berriasian","",145,140.2,13135,"gp_mid",32.97,17.12,"307",142.6,"berriasian",7420,24.839,14.3857,31,1
@@ -162,6 +163,7 @@
 "39909",60200,"col","Steinmühl",14.35,47.91,"Ammonitico Rosso limestone 8, Section KB1-A, Steinmühl Fm",NA,"",13,"Late Berriasian","",145,140.2,17268,"gp_mid",37.8,15.95,"307",142.6,"berriasian",9613,30.5483,22.3249,31,1
 "39910",60201,"col","Steinmühl",14.35,47.91,"Ammonitico Rosso limestone 9, Section KB1-A, Steinmühl Fm",NA,"",10,"Late Berriasian","",145,140.2,17268,"gp_mid",37.8,15.95,"307",142.6,"berriasian",9613,30.5483,22.3249,31,1
 "39911",60202,"col","Steinmühl",14.35,47.91,"Ammonitico Rosso limestone 10, Section KB1-A, Steinmühl Fm",NA,"",10,"Late Berriasian","",145,140.2,17268,"gp_mid",37.8,15.95,"307",142.6,"berriasian",9613,30.5483,22.3249,31,1
+"41469",61930,"col","",-0.31,45.75,"Cherves-de-Cognac, level 36",NA,"Champblanc Quarry",26,"Berriasian","",145,139.8,25997,"gp_mid",18.16,28.3,"305",142.4,"berriasian",10011,18.925,23.5992,31,1
 "41720",62344,"col","",20.7,49.72,"Sienna, Roznow, basinal limestones, Poland",NA,"",8,"Berriasian","",145,139.8,18023,"gp_mid",34.05,33.66,"305",142.4,"berriasian",10078,33.7718,32.7284,31,1
 "42879",64263,"col","Bazhenov",77,63.75,"Novogodnyaya BH-125, Bazhenov Fm, Vengapur facies region",NA,"",3,"Early Berriasian","",145,140.2,18545,"gp_mid",66.45,57.67,"401",142.6,"berriasian",10333,55.9545,61.7195,31,1
 "42880",64264,"col","Bazhenov",76.25,62.92,"Vyintoiskaya BH-191, Bazhenov Fm, Vengapur facies region",NA,"",2,"Early Berriasian","",145,140.2,18545,"gp_mid",66.79,56.79,"401",142.6,"berriasian",10334,57.7742,58.8589,31,1
@@ -190,6 +192,42 @@
 "42970",64365,"col","Argiles de Ghriss",0.15,35.25,"Djebel Ben Merezi, Saida Mountains, Bed 8, NW Algeria",NA,"",5,"Late Berriasian","",145,140.2,18551,"gp_mid",14.79,17.35,"707",142.6,"berriasian",10364,10.5078,13.8156,31,1
 "43100",64624,"col","Bhuj",68.98,23.65,"Umia, Kutch, Bhuj Formation, Ghuneri Member",NA,"",6,"Berriasian","",145,139.8,19018,"gp_mid",45,-38.09,"501",142.4,"berriasian",10392,43.8942,-39.5068,31,1
 "43103",64627,"col","Vions",5.95,46.02,"Musièges, Formation de Vions, Haute-Savoie",NA,"",16,"Berriasian","",145,139.8,18644,"gp_mid",23.1,28.8,"305",142.4,"berriasian",10395,24.5797,24.8293,31,1
+"43290",64953,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 230, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43291",64954,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 231, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",1,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43292",64955,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 234, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",6,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43293",64956,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 234, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",3,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43294",64957,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 235, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43295",64958,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 236, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",6,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43296",64959,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 237, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",2,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43297",64960,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 238, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",9,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43298",64961,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 239, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",1,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43299",64962,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 240, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43300",64963,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 242, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",1,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43301",64964,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 243, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",3,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43302",64965,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 244, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",10,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43303",64966,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 245, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",10,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43304",64967,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 246, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",7,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43305",64968,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 247, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",6,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43306",64969,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 248, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",2,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43307",64970,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 249, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43308",64971,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 250, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43309",64972,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 251, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43310",64973,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 252, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",3,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43311",64974,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 253, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43312",64975,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 254, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43313",64976,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 255, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43314",64977,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 257, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",2,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43315",64978,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 258, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43316",64979,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 259, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43317",64980,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 260, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",3,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43319",64982,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 261, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",17,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43322",64985,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 262, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43323",64986,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 263, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",16,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43325",64988,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 264, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43327",64990,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 265, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",5,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43330",64993,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 266, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",17,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43336",64999,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 267, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",21,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
+"43341",65004,"col","Miravetes",-1.89,38.09,"Section Y.Mv - Bed 268, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",13,"Berriasian","",145,139.8,18720,"gp_mid",15.12,21.32,"304",142.4,"berriasian",10445,10.3573,18.9809,31,1
 "43459",65204,"col","Pieniny Limestone",20.3,49.42,"Kapusnica Section I, near Niedzica Castle",NA,"",0,"Early Berriasian","Middle Berriasian",145,140.2,18716,"gp_mid",33.27,33.43,"305",142.6,"berriasian",10511,31.1067,31.8712,31,1
 "43461",65206,"col","Pieniny Limestone",20.3,49.42,"Kapusnica Section II, near Niedzica Castle, oblonga Zone",NA,"",6,"Berriasian","",145,139.8,18716,"gp_mid",33.8,33.32,"305",142.4,"berriasian",10511,31.1067,31.8712,31,1
 "43469",65216,"col","Pieniny Limestone",19.98,49.45,"Zaskale Section (alpina Zone)",NA,"",1,"Berriasian","",145,139.8,18716,"gp_mid",33.55,33.32,"305",142.4,"berriasian",10516,31.1067,31.8712,31,1
@@ -271,6 +309,8 @@
 "59282",90130,"col","",6.17,46.16,"Mont Salève tracksite",NA,"",1,"Berriasian","",145,139.8,30215,"gp_mid",23.26,28.96,"305",142.4,"berriasian",15464,24.5797,24.8293,31,1
 "59933",91168,"col","",4.21,44.41,"Berriasian stratotype -beds 191-196",NA,"",10,"Late Berriasian","",145,140.2,30671,"gp_mid",21.41,27.07,"305",142.6,"berriasian",15737,21.7543,24.1806,31,1
 "60305",191947,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 9, Barranco de Canada Lengua, Cehegin",NA,"",5,"Berriasian","",145,139.8,64800,"gp_mid",15.17,21.27,"304",142.4,"berriasian",10545,13.1172,17.5727,31,1
+"60966",92314,"col","Quebrada Monardes",-69.5,-27.38,"Cerro la Isla",NA,"",6,"Berriasian","",145,139.8,31118,"gp_mid",-27.7,-32.74,"291",142.4,"berriasian",16081,-36.9647,-35.7477,31,1
+"62253",94085,"col","Purbek Kalk",9.5,52.27,"Deister Hills pterosaur",NA,"Ctenochasma roemeri holotype",1,"Berriasian","",145,139.8,31956,"gp_mid",25.17,35.23,"315",142.4,"berriasian",16467,24.8985,32.7186,31,1
 "66195",98971,"col","Szentivánhegy Limestone",17.79,47.17,"Hárskút, Közöskút Ravine, HK-12 Bed 15",NA,"",2,"Late Berriasian","",145,140.2,34022,"gp_mid",37.04,13.63,"308",142.6,"berriasian",17728,32.9449,23.5687,31,1
 "71222",106305,"col","Rabekke",14.8,55.05,"Skyttegaard type section, Arnager Bay",NA,"",2,"Early Berriasian","",145,140.2,35451,"gp_mid",28.01,38.42,"302",142.6,"berriasian",13734,26.4741,35.7953,31,1
 "71484",106721,"col","",34.42,44.93,"Kuchki, Burul'cha River, Crimea",NA,"",1,"Berriasian","",145,139.8,35661,"gp_mid",45.93,30.83,"302",142.4,"berriasian",19895,44.3023,31.0952,31,1
@@ -300,12 +340,14 @@
 "75570",111407,"col","Szentivánhegy Limestone",17.79,47.17,"Hárskút, Közöskút Ravine, HK-12 Bed 34",NA,"",3,"Berriasian","",145,139.8,34022,"gp_mid",37.33,13.64,"308",142.4,"berriasian",17728,32.9449,23.5687,31,1
 "75571",111408,"col","Szentivánhegy Limestone",17.79,47.17,"Hárskút, Közöskút Ravine, HK-12 Bed 39",NA,"",3,"Berriasian","",145,139.8,34022,"gp_mid",37.33,13.64,"308",142.4,"berriasian",17728,32.9449,23.5687,31,1
 "75572",111409,"col","Szentivánhegy Limestone",17.79,47.17,"Hárskút, Közöskút Ravine, HK-12 Bed 41",NA,"",1,"Berriasian","",145,139.8,34022,"gp_mid",37.33,13.64,"308",142.4,"berriasian",17728,32.9449,23.5687,31,1
+"79118",116165,"col","Sugizaki",137.16,36.27,"Hida-Furukawa (NB-01)",NA,"",1,"Berriasian","",145,139.8,37320,"gp_mid",142.45,53.03,"610",142.4,"berriasian",22163,144.2731,60.2563,31,1
 "79267",116451,"col","",38.78,55.37,"Ostashevo",NA,"",1,"Berriasian","",145,139.8,37153,"gp_mid",45.95,41.62,"302",142.4,"berriasian",22223,41.442,41.1165,31,1
 "79268",116453,"col","",39.02,54.22,"Mikhaylov",NA,"",2,"Berriasian","",145,139.8,37153,"gp_mid",46.55,40.56,"302",142.4,"berriasian",22224,41.442,41.1165,31,1
 "80740",118041,"col","Annero",13.77,55.58,"Eriksdal, Skåne, VC3 bed",NA,"",4,"Berriasian","",145,139.8,37999,"gp_mid",27.8,38.82,"302",142.4,"berriasian",22603,26.4741,35.7953,31,1
 "80741",118042,"col","Annero",13.77,55.58,"Eriksdal, Skåne, VC7 bed",NA,"Vitabäck",2,"Berriasian","",145,139.8,37999,"gp_mid",27.8,38.82,"302",142.4,"berriasian",22603,26.4741,35.7953,31,1
 "80742",118043,"col","Annero",13.77,55.58,"Eriksdal, Skåne, VC11 bed",NA,"",4,"Berriasian","",145,139.8,37999,"gp_mid",27.8,38.82,"302",142.4,"berriasian",22603,26.4741,35.7953,31,1
 "80936",118324,"col","Bückeberg",9.11,52.26,"Heye quarry, Bückeburg",NA,"Schauenstein, Obernkirchen",2,"Late Berriasian","",145,140.2,38110,"gp_mid",24.31,35.2,"315",142.6,"berriasian",22643,22.3104,32.0597,31,1
+"84497",122662,"col","Vaca Muerta",-69.67,-39.19,"Yesera del Tromen",NA,"Caypullisaurus bonapartei referred locality\r\nCaypullisaurus bonapartei referred material",4,"Berriasian","",145,139.8,35024,"gp_mid",-27.22,-44.54,"291",142.4,"berriasian",23616,-36.4479,-48.3623,31,1
 "84561",122854,"col","Bückeberg",9.07,52.25,"Obernkirchen, Bückeburg",NA,"",2,"Berriasian","",145,139.8,39157,"gp_mid",24.85,35.19,"315",142.4,"berriasian",11420,22.3104,32.0597,31,1
 "86071",124721,"col","",33.67,44.53,"village of Kuchki  (Outcrop no. 3)K[Ber,. Bed 1 (10 m).",NA,"",1,"Berriasian","",145,139.8,40328,"gp_mid",45.44,30.32,"302",142.4,"berriasian",24122,44.3023,31.0952,31,1
 "86073",124723,"col","",33.67,44.53,"village of Kuchki  (Outcrop no. 3) Bed 3 (11 m).",NA,"",1,"Berriasian","",145,139.8,40328,"gp_mid",45.44,30.32,"302",142.4,"berriasian",24122,44.3023,31.0952,31,1
@@ -342,13 +384,20 @@
 "86621",125405,"col","Bückeberg",9.18,52.43,"Münchehagen tracksite",NA,"Munchehagen, Dinosaurier-Park Münchehagen",3,"Late Berriasian","",145,140.2,62948,"gp_mid",24.34,35.38,"315",142.6,"berriasian",24320,22.3104,32.0597,31,1
 "87466",126565,"col","",4.01,44.05,"Laciterne-Boisset",NA,"",1,"Berriasian","",145,139.8,40991,"gp_mid",21.7,26.74,"305",142.4,"berriasian",24472,21.7543,24.1806,31,1
 "94079",135563,"col","",97.47,73.53,"Goluboy Creek, Dyabaka-Tari River, central Taimyr",NA,"",3,"Berriasian","",145,139.8,43373,"gp_mid",64.11,69.25,"401",142.4,"berriasian",26244,45.5448,70.8767,31,1
+"94697",136379,"col","Quebrada Monardes ",-69.4,-26.8,"Cerros Bravos",NA,"",1,"Berriasian","",145,139.8,43560,"gp_mid",-27.63,-32.15,"291",142.4,"berriasian",26436,-36.9647,-35.7477,31,1
+"94698",136380,"col","Quebrada Monardes ",-69.4,-26.9,"Quebrada Codocedo",NA,"",2,"Berriasian","",145,139.8,43560,"gp_mid",-27.62,-32.25,"291",142.4,"berriasian",26437,-36.9647,-35.7477,31,1
+"94699",136382,"col","Quebrada Monardes ",-69.4,-27.4,"Cerro La Isla - DUPLICATE",NA,"",0,"Berriasian","",145,139.8,43560,"gp_mid",-27.6,-32.75,"291",142.4,"berriasian",26438,-36.9647,-35.7477,31,1
+"94911",136751,"col","",10,52,"Obernkirchen, Buckerberg, Crocodiles",NA,"Obernkirchen Sandstone",1,"Berriasian","",145,139.8,43567,"gp_mid",25.58,35,"315",142.4,"berriasian",26505,24.8985,32.7186,31,1
 "94923",136774,"col","Bückeberg",9.07,52.25,"Harrl quarry tracksite, Bückeburg",NA,"Harrel quarry, Harrl-Steinbruche, Bad Rehberg, Hexenteich",3,"Late Berriasian","",145,140.2,43062,"gp_mid",24.28,35.19,"315",142.6,"berriasian",11420,22.3104,32.0597,31,1
 "96135",138141,"col","",9.03,52.15,"Harrl Hill",NA,"",1,"Late Berriasian","",145,140.2,44177,"gp_mid",24.27,35.08,"315",142.6,"berriasian",26875,22.3104,32.0597,31,1
+"96283",138299,"col","",9.65,52.83,"Krebshagen, turtle locality",NA,"Maschinenschacht,Schaumburg-Lippe",1,"Berriasian","",145,139.8,38095,"gp_mid",25.21,35.8,"315",142.4,"berriasian",26926,24.8985,32.7186,31,1
 "96284",138300,"col","",9.03,52.26,"northwest beltway, Bückeburg",NA,"",1,"Berriasian","",145,139.8,38095,"gp_mid",24.82,35.2,"315",142.4,"berriasian",26927,22.3104,32.0597,31,1
+"96285",138301,"col","",9.81,52.51,"Bock's Pit",NA,"Duingen",1,"Berriasian","",145,139.8,38095,"gp_mid",25.37,35.49,"315",142.4,"berriasian",26928,24.8985,32.7186,31,1
 "96669",138714,"col","Lapos",25.9,46.95,"Bicaz Gorges, SU II Member",NA,"",8,"Late Berriasian","",145,140.2,44447,"gp_mid",37.26,8.1,"308",142.6,"berriasian",26975,37.5789,31.3345,31,1
 "96672",138717,"col","Lapos",25.8,46.8,"Bicaz Gorges, SU I Member, succession 3",NA,"",17,"Early Berriasian","",145,140.2,44447,"gp_mid",37.1,8.15,"308",142.6,"berriasian",26976,37.5789,31.3345,31,1
 "97517",139586,"col","Bückeberg",9.2,52.44,"Stadtländer Quarry tracksite",NA,"Münchehagen",1,"Late Berriasian","",145,140.2,56194,"gp_mid",24.35,35.39,"315",142.6,"berriasian",8615,22.3104,32.0597,31,1
 "101526",144452,"col","Plassen",13.6,47.57,"Plassen near Hallstatt, summit of Mt Plassen, Plassen Fm",NA,"",6,"Early Berriasian","",145,140.2,46697,"gp_mid",37.46,16.46,"307",142.6,"berriasian",27752,30.5483,22.3249,31,1
+"104765",148857,"col","",21.65,44.72,"Resita - Molodova Noua area, Berriasian",NA,"",2,"Berriasian","",145,139.8,47732,"gp_mid",34.99,10.81,"308",142.4,"berriasian",28205,35.8511,28.0607,31,1
 "105382",149731,"col","Bückeberg",9.22,52.43,"Wölpinghäuser Berg tracksite",NA,"Wölpinghausen, Spörl Quarry, Bad Rehburg",2,"Late Berriasian","",145,140.2,62196,"gp_mid",24.37,35.37,"315",142.6,"berriasian",28348,22.3104,32.0597,31,1
 "105606",149951,"col","Polat",31.45,37.98,"Yassibel village, Polat Fm, sample 72",NA,"",9,"Early Berriasian","",145,140.2,48005,"gp_mid",38.75,6.34,"504",142.6,"berriasian",28393,36.5171,6.109,31,1
 "105607",149952,"col","Polat",31.45,37.98,"Yassibel village, Polat Fm, sample 75",NA,"",9,"Early Berriasian","",145,140.2,48005,"gp_mid",38.75,6.34,"504",142.6,"berriasian",28393,36.5171,6.109,31,1
@@ -376,6 +425,7 @@
 "108237",153454,"col","Batylykh",123.38,66.79,"Zhigansk (PIN collection 4502)",NA,"",2,"Berriasian","",145,139.8,49515,"gp_mid",96.47,72.3,"401",142.4,"berriasian",29045,69.4511,79.1378,31,1
 "108400",153722,"col","",-1.03,34.9,"Ouled Mimoun",NA,"",1,"Berriasian","",145,139.8,49791,"gp_mid",14.04,17.61,"707",142.4,"berriasian",10351,10.5078,13.8156,31,1
 "109285",154770,"col","Szentivánhegy Limestone",18.5,47.72,"Ördöggát section Bed 1, Transdanubian Range",NA,"",1,"Early Berriasian","",145,140.2,50315,"gp_mid",37.63,13.16,"308",142.6,"berriasian",29279,32.9449,23.5687,31,1
+"109849",155581,"col","",47.9,41.5,"Kurakhchai River Basin",NA,"",4,"Berriasian","",145,139.8,50718,"gp_mid",57.96,30.05,"402",142.4,"berriasian",29390,57.1091,33.6302,31,1
 "110954",157573,"col","",19.96,49.44,"Rogoznik (Lower Berriasian)",NA,"",3,"Early Berriasian","",145,140.2,52345,"gp_mid",33.01,33.41,"305",142.6,"berriasian",29653,31.1067,31.8712,31,1
 "111717",158997,"col","Shal",48.75,37.34,"Shal, Cliff section, bed 54",NA,"",1,"Early Berriasian","",145,140.2,52027,"gp_mid",58.92,21.03,"512",142.6,"berriasian",29931,58.7073,27.5059,31,1
 "111718",158995,"col","Shal",48.75,37.34,"Shal, Cliff section, bed 53*",NA,"",7,"Early Berriasian","",145,140.2,52027,"gp_mid",58.92,21.03,"512",142.6,"berriasian",29931,58.7073,27.5059,31,1
@@ -397,6 +447,7 @@
 "112861",160428,"col","Szentivánhegy Limestone",18.51,47.72,"Tölgyhát section Bed 3, Transdanubian Range",NA,"",3,"Early Berriasian","",145,140.2,50315,"gp_mid",37.63,13.15,"308",142.6,"berriasian",30326,32.9449,23.5687,31,1
 "112862",160429,"col","Szentivánhegy Limestone",18.51,47.72,"Tölgyhát section Bed 2, Transdanubian Range",NA,"",2,"Early Berriasian","",145,140.2,50315,"gp_mid",37.63,13.15,"308",142.6,"berriasian",30326,32.9449,23.5687,31,1
 "112863",160430,"col","Szentivánhegy Limestone",18.51,47.72,"Tölgyhát section Bed 1, Transdanubian Range",NA,"",1,"Early Berriasian","",145,140.2,50315,"gp_mid",37.63,13.15,"308",142.6,"berriasian",30326,32.9449,23.5687,31,1
+"114013",161863,"col","Chachao",-70.86,-39.94,"Mallín Redondo, Sierra Azul",NA,"",1,"Early Berriasian","",145,140.2,52713,"gp_mid",-27.96,-45.86,"291",142.6,"berriasian",30584,-36.4479,-48.3623,31,1
 "114014",161864,"col","Chachao",-69.69,-33.98,"Arroyo Durazno, Real de Las Coloradas",NA,"",1,"Early Berriasian","",145,140.2,52713,"gp_mid",-27.16,-39.85,"291",142.6,"berriasian",30585,-36.5242,-43.3626,31,1
 "114015",161865,"col","Lo Valdés",-70,-33.83,"Alto Río Colina",NA,"",1,"Early Berriasian","",145,140.2,52713,"gp_mid",-27.5,-39.72,"291",142.6,"berriasian",30586,-36.5242,-43.3626,31,1
 "114335",162310,"col","Dvuyakornaya",35.37,44.98,"Bed 18, Dvuyakornaya Fm",NA,"",48,"Berriasian","",145,139.8,52864,"gp_mid",46.69,31.03,"302",142.4,"berriasian",30681,44.3023,31.0952,31,1
@@ -491,6 +542,7 @@
 "128112",185082,"col","Peninsula",-121.93,49.53,"GSC C-117408, Mystery Creek",NA,"MVA(F)85-313",2,"Early Berriasian","",145,140.2,15416,"gp_mid",-52.08,42.89,"129",142.6,"berriasian",33874,-51.5392,41.0209,31,1
 "128113",185083,"col","Peninsula",-121.93,49.53,"GSC C-117409, Mystery Creek",NA,"MVA(F)85-314",2,"Middle Berriasian","",145,140.2,15416,"gp_mid",-52.08,42.89,"129",142.6,"berriasian",33874,-51.5392,41.0209,31,1
 "128573",185712,"col","",97.47,73.53,"Dyabaka-Tari River",NA,"",1,"Berriasian","",145,139.8,62273,"gp_mid",64.11,69.25,"401",142.4,"berriasian",26244,45.5448,70.8767,31,1
+"128666",185808,"col","",9.96,52.34,"Sehnde, near Lehrte",NA,"",1,"Berriasian","",145,139.8,62309,"gp_mid",25.51,35.34,"315",142.4,"berriasian",34036,24.8985,32.7186,31,1
 "129933",188093,"col","Taraises",-103.53,24.73,"Bed 755, section CU-7, Cuencamé de Ceniceros",NA,"",1,"Late Berriasian","",145,140.2,63117,"gp_mid",-44.06,16.56,"104",142.6,"berriasian",34353,-47.9926,16.201,31,1
 "129934",188094,"col","Taraises",-103.53,24.73,"Bed 756, section CU-7, Cuencamé de Ceniceros",NA,"",1,"Late Berriasian","",145,140.2,63117,"gp_mid",-44.06,16.56,"104",142.6,"berriasian",34353,-47.9926,16.201,31,1
 "129935",188095,"col","Taraises",-103.53,24.73,"Bed 757, section CU-7, Cuencamé de Ceniceros",NA,"",1,"Late Berriasian","",145,140.2,63117,"gp_mid",-44.06,16.56,"104",142.6,"berriasian",34353,-47.9926,16.201,31,1

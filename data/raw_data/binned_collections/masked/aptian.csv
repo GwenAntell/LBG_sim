@@ -58,12 +58,15 @@
 "667",1851,"col","Lower Greensand",-0.85,51,"SXsgr-Greensand",NA,"",34,"Aptian","",125,113,47,"gp_mid",25.36,41.1,"315",119,"aptian",179,24.5379,38.7172,27,1
 "670",1854,"col","Lower Greensand",-1.58,51.67,"WOsgsg-Greensand",NA,"",64,"Aptian","",125,113,47,"gp_mid",24.86,41.82,"315",119,"aptian",182,24.7415,41.2123,27,1
 "671",1855,"col","Lower Greensand",-1.58,51.67,"WOsgff-Greensand",NA,"",4,"Aptian","",125,113,47,"gp_mid",24.86,41.82,"315",119,"aptian",182,24.7415,41.2123,27,1
+"672",1856,"col","Lower Greensand",-2.08,51.35,"WOsgse-Greensand",NA,"",51,"Aptian","",125,113,47,"gp_mid",24.4,41.54,"315",119,"aptian",183,21.7112,41.3768,27,1
 "674",1859,"col","Lower Greensand",-0.3,52.13,"CBPs-Greensand",NA,"",9,"Aptian","",125,113,47,"gp_mid",26,42.18,"315",119,"aptian",184,24.7415,41.2123,27,1
 "681",1870,"col","Lower Greensand",0.5,52.95,"LNPh-Greensand",NA,"",19,"Aptian","",125,113,47,"gp_mid",26.79,42.94,"315",119,"aptian",186,24.7415,41.2123,27,1
 "688",1868,"col","",-61.47,10.32,"Pointe-á-Pierre",NA,"",26,"Aptian","",125,113,50,"gp_mid",-17.75,13.11,"201",119,"aptian",188,-22.1674,13.0215,27,1
 "697",1885,"col","Alisitos",-116.65,31.52,"Alisitos Fm. (UCB A-8326)",NA,"",3,"Aptian","",125,113,51,"gp_mid",NA,NA,"coordinates not computable using this model",119,"aptian",189,-60.6491,36.4262,27,1
 "704",1867,"col","Lower Greensand",0.18,53.28,"LNPsm-Greensand",NA,"",18,"Aptian","",125,113,47,"gp_mid",26.58,43.29,"315",119,"aptian",190,24.7415,41.2123,27,1
 "706",1866,"col","Lower Greensand",0.12,52.2,"CBPu-Greensand",NA,"",34,"Aptian","",125,113,47,"gp_mid",26.35,42.22,"315",119,"aptian",192,24.7415,41.2123,27,1
+"803",2078,"col","Spartan Glacier",-68.5,-70.75,"Spartan Glacier3 (Antarctica)",NA,"",6,"Aptian","",125,113,58,"gp_mid",-40.48,-63.35,"803",119,"aptian",234,-46.5002,-61.7532,27,1
+"809",2084,"col","",19.65,50.47,"Tomaszow5",NA,"",8,"Aptian","",125,113,59,"gp_mid",42.25,39.56,"305",119,"aptian",238,39.9337,38.4794,27,1
 "825",2116,"col","",40.26,43.3,"Gagra 5",NA,"",15,"Aptian","",125,113,62,"gp_mid",59.71,32.53,"511",119,"aptian",251,61.2342,33.3968,27,1
 "865",2172,"col","",6.3,46.72,"AP1v-Jura",NA,"",17,"Aptian","",125,113,66,"gp_mid",30.79,36.35,"305",119,"aptian",270,30.6129,36.0024,27,1
 "866",2173,"col","",6.33,46.68,"AP1p-Jura",NA,"",14,"Aptian","",125,113,66,"gp_mid",30.81,36.32,"305",119,"aptian",271,30.6129,36.0024,27,1
@@ -99,9 +102,13 @@
 "13528",25537,"col","",-61.2,10.48,"Swiss River, Central Ranges, Trinidad",NA,"Reef 2656",3,"Aptian","",125,113,7134,"gp_mid",-17.47,13.26,"201",119,"aptian",2619,-22.1674,13.0215,27,1
 "13529",25538,"col","",-61.22,10.5,"Baccus River, Central Ranges, Trinidad",NA,"Reef 2656",5,"Aptian","",125,113,7134,"gp_mid",-17.49,13.28,"201",119,"aptian",2620,-22.1674,13.0215,27,1
 "13530",25539,"col","",-61.22,10.5,"Piparo River, Central Ranges, Trinidad",NA,"Reef 2656",10,"Aptian","",125,113,7134,"gp_mid",-17.49,13.28,"201",119,"aptian",2620,-22.1674,13.0215,27,1
+"13808",26782,"col","Patuxent",-76.84,39,"Goddard Space Flight Center",NA,"NASA",8,"Aptian","",125,113,64612,"gp_mid",-16.81,36.71,"109",119,"aptian",2659,-18.7015,38.5178,27,1
 "22716",38515,"col","",-61.25,10.5,"Nariva River, Trinidad",NA,"",1,"Aptian","",125,113,10322,"gp_mid",-17.52,13.28,"201",119,"aptian",4711,-22.1674,13.0215,27,1
+"22908",38806,"col","",5.03,43.55,"Echinoids, Aptian, Fare-Lancon, Provence",NA,"",7,"Aptian","",125,113,10431,"gp_mid",29.37,33.28,"305",119,"aptian",4771,23.8199,29.136,27,1
+"23449",39573,"col","Hoji",134.5,33.83,"Katsuuragawa Area, Hoji Formation, Shikoku",NA,"",4,"Aptian","",125,113,10664,"gp_mid",145.72,41.19,"610",119,"aptian",4891,145.1565,41.5629,27,1
 "24084",40468,"col","Hinagu",130.75,32.5,"Sakamoto Area, Hinagu Formation, Kyushu",NA,"",5,"Aptian","",125,113,10664,"gp_mid",142.43,38.89,"610",119,"aptian",5068,146.6559,37.7372,27,1
 "24173",40600,"col","Hinagu",130.58,32.5,"Yatsushiro Area, Hinagu Formation, Kyushu",NA,"",3,"Aptian","",125,113,10664,"gp_mid",142.26,38.85,"610",119,"aptian",5111,146.6559,37.7372,27,1
+"25520",42270,"col","Pochote",-99.13,19.43,"Acatlan de la Cruz, SE of [Pochote Fm]",NA,"",5,"Aptian","",125,113,11254,"gp_mid",-44.46,23.06,"104",119,"aptian",5528,-48.0626,25.7819,27,1
 "29461",47043,"col","",55.12,40.06,"Layers 11, 12 SW Mount Bishik",NA,"",6,"Aptian","",125,113,12498,"gp_mid",72.94,30.15,"402",119,"aptian",6952,73.0149,31.0987,27,1
 "30937",48571,"col","Vigla",20.53,39.53,"Panaya PAN R24",NA,"",10,"Aptian","",125,113,12812,"gp_mid",34.17,18.43,"307",119,"aptian",7303,30.8745,16.2876,27,1
 "33602",52044,"col","Travis Peak",-97.83,33.58,"Bowie theropod site",NA,"",1,"Aptian","",125,113,13937,"gp_mid",-38.91,36.43,"101",119,"aptian",8011,-43.6212,37.7023,27,1
@@ -113,10 +120,14 @@
 "38132",58202,"col","",56.33,48.69,"Shubar-Zhilan",NA,"",1,"Aptian","",125,113,16510,"gp_mid",72.83,38.82,"302",119,"aptian",9175,71.5062,38.4961,27,1
 "38479",58557,"col","Grès verts helvétiques",6.7,46,"Calcaires d'Aujon, Flaine, massif de Platé, Haute-Savoie",NA,"",6,"Aptian","",125,113,15196,"gp_mid",31.05,35.62,"305",119,"aptian",9293,30.5313,33.5033,27,1
 "38493",58571,"col","Rayoso",-69.82,-38.35,"Quili Malal theropod site",NA,"",1,"Aptian","",125,113,16547,"gp_mid",-28.03,-34.76,"291",119,"aptian",9299,-37.8959,-33.2627,27,1
+"39005",59093,"col","",-2.27,42.13,"La Senoba tracksite",NA,"Enciso",2,"Aptian","",125,113,16839,"gp_mid",23.19,32.25,"304",119,"aptian",9431,18.4941,32.2332,27,1
+"39012",59100,"col","",-2.05,42.21,"Era del Peladillo 3 tracksite",NA,"",7,"Aptian","",125,113,16844,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
+"39013",59101,"col","",-2.05,42.21,"Era del Peladillo 2 tracksite",NA,"",3,"Aptian","",125,113,16844,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
 "40070",60373,"col","",22.99,38.33,"Evangelistria-Mount Diakopi, Helicon Mountains, Boeotia",NA,"Reef 3440",12,"Aptian","",125,113,17362,"gp_mid",33.73,16.21,"307",119,"aptian",9681,30.8184,12.4411,27,1
 "40434",60760,"col","",134.72,-29.02,"Coober Pedy ornithopod",NA,"",2,"Aptian","",125,113,10348,"gp_mid",109.68,-71.48,"801",119,"aptian",9767,120.6413,-71.0001,27,1
 "40436",60762,"col","Wallumbilla",143.08,-30.85,"White Cliffs (NSW)",NA,"",6,"Aptian","",125,113,36385,"gp_mid",131.13,-76.07,"801",119,"aptian",9769,140.9491,-71.819,27,1
 "41068",61466,"col","Calcare di Cellina",13.28,46.24,"Monte Bernadia tracksite",NA,"",2,"Aptian","",125,113,23417,"gp_mid",39.34,25.5,"307",119,"aptian",9921,33.3475,21.4987,27,1
+"41401",61860,"col","",-2.26,42.14,"Valdecevillo tracksite, level 100",NA,"",4,"Aptian","",125,113,56559,"gp_mid",23.2,32.25,"304",119,"aptian",10001,18.4941,32.2332,27,1
 "42048",62850,"col","",16.58,41.19,"Molfetta tracksite",NA,"",3,"Aptian","",125,113,59339,"gp_mid",34.77,21.82,"307",119,"aptian",10146,29.0381,18.5638,27,1
 "42377",63322,"col","Cabo",-35.12,-8.58,"Exposed shale along road PE-1, Serinhaem, Pernambuco",NA,"",2,"Aptian","",125,113,18206,"gp_mid",7.5,-7.29,"201",119,"aptian",10208,2.1361,-7.1445,27,1
 "42697",64014,"col","San Juan Raya",-97.58,18.35,"San Juan Raya Locality A",NA,"",3,"Aptian","",125,113,18455,"gp_mid",-43.21,21.66,"104",119,"aptian",10292,-48.8335,23.3822,27,1
@@ -126,8 +137,28 @@
 "42825",64197,"col","Fossil Bluff",-55,-71.53,"KG. 103 - Fossil Bluff Fm, Alexander Island",NA,"",6,"Aptian","",125,113,18533,"gp_mid",-29.69,-59.93,"895",119,"aptian",10322,-39.4796,-61.455,27,1
 "42826",64198,"col","Fossil Bluff",-69,-72,"KG. 1657 - Fossil Bluff Fm, Alexander Island",NA,"",8,"Aptian","",125,113,18533,"gp_mid",-38.95,-64.42,"803",119,"aptian",10323,-43.4865,-63.84,27,1
 "42832",64204,"col","Cumburindio",-100.88,18.58,"W Huetamo area, lower Cumburindio Formation, SW Mexico",NA,"Reef 2489",6,"Aptian","",125,113,18535,"gp_mid",-46.43,22.64,"104",119,"aptian",10318,-52.5944,24.3639,27,1
+"43102",64626,"col","Bhuj",68.95,23.63,"Umia, Kutch, Bhuj Formation, Ukra Member",NA,"",1,"Aptian","",125,113,18643,"gp_mid",41.27,-38.18,"501",119,"aptian",10394,42.866,-33.3489,27,1
 "43217",64806,"col","",152.17,-27.45,"Snake Gully, Queensland",NA,"",1,"Aptian","",125,113,18652,"gp_mid",161.56,-72.88,"801",119,"aptian",10425,167.7187,-67.4597,27,1
+"43219",64808,"col","Allaru",145.13,-23.13,"Collier Dam, ""Willoughby"" near Barealedine",NA,"",1,"Aptian","",125,113,18652,"gp_mid",141.6,-68.77,"801",119,"aptian",10426,148.7186,-64.1185,27,1
 "43220",64809,"col","Allaru",149.88,-27.65,"Glenferrie near Longreach",NA,"",1,"Aptian","",125,113,18652,"gp_mid",154.74,-73.34,"801",119,"aptian",10427,159.2513,-68.4518,27,1
+"43326",64989,"col","Lowell",-109.89,31.35,"Bed 3b - Quajote Mbr, Lowell Fm, Ninety One Hills",NA,"",7,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43328",64991,"col","Lowell",-109.89,31.35,"Bed 3d - Quajote Mbr, Lowell Fm, Ninety One Hills",NA,"",4,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43329",64992,"col","Lowell",-109.89,31.35,"Bed 5e - Cholla Mbr, Lowell Fm, Ninety One Hills",NA,"",2,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43331",64994,"col","Lowell",-109.89,31.35,"Bed 5g - Cholla Mbr, Lowell Fm, Ninety One Hills",NA,"",2,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43332",64995,"col","Lowell",-109.89,31.35,"Bed 6a - Cholla Mbr, Lowell Fm, Ninety One Hills",NA,"",4,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43333",64996,"col","Lowell",-109.89,31.35,"Bed 6d - Cholla Mbr, Lowell Fm, Ninety One Hills",NA,"",3,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43334",64997,"col","Lowell",-109.89,31.35,"Bed 6f - Cholla Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43335",64998,"col","Lowell",-109.89,31.35,"Bed 7d - Saavedra Mbr, Lowell Fm, Ninety One Hills",NA,"",2,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43337",65000,"col","Lowell",-109.89,31.35,"Bed 7f - Saavedra Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43338",65001,"col","Lowell",-109.89,31.35,"Bed 7i - Saavedra Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43339",65002,"col","Lowell",-109.89,31.35,"Bed 7l (Arkill Limestone) - Saavedra Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43340",65003,"col","Lowell",-109.89,31.35,"Bed 7n (Barata Limestone) - Saavedra Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43342",65005,"col","Lowell",-109.89,31.35,"Bed 8c (Espinal Grit) - Joserita Mbr, Lowell Fm, Ninety One Hills",NA,"",3,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43343",65006,"col","Lowell",-109.89,31.35,"Bed 8d - Joserita Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43345",65008,"col","Lowell",-109.89,31.35,"Bed 8e (Baga Shale and Limestone) - Joserita Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43346",65009,"col","Lowell",-109.89,31.35,"Bed 9c (Cienda Limestone) - Pacheta Mbr, Lowell Fm, Ninety One Hills",NA,"",2,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43347",65010,"col","Lowell",-109.89,31.35,"Bed 9d (Tusonimo Limestone) - Pacheta Mbr, Lowell Fm, Ninety One Hills",NA,"",1,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
+"43348",65011,"col","Lowell",-109.89,31.35,"Bed 9g (Lancha Limestone) - Pacheta Mbr, Lowell Fm, Ninety One Hills",NA,"",4,"Aptian","",125,113,18722,"gp_mid",-51.88,37.03,"101",119,"aptian",10447,-55.1754,40.5584,27,1
 "43797",65623,"col","",-101.69,28.96,"San Vicente Valley, Sierra del Burro",NA,"",2,"Aptian","",125,113,18877,"gp_mid",-44.29,32.87,"101",119,"aptian",10589,-48.4174,36.337,27,1
 "43921",65775,"col","",0.25,52.3,"Upware",NA,"",12,"Aptian","",125,113,18892,"gp_mid",26.48,42.31,"315",119,"aptian",10607,24.7415,41.2123,27,1
 "43922",65779,"col","",-0.46,52.15,"Brickhill",NA,"",13,"Aptian","",125,113,18892,"gp_mid",25.87,42.21,"315",119,"aptian",10608,24.7415,41.2123,27,1
@@ -137,6 +168,7 @@
 "43926",65785,"col","",-1.58,51.65,"Faringdon",NA,"",5,"Aptian","",125,113,18892,"gp_mid",24.86,41.8,"315",119,"aptian",10611,24.7415,41.2123,27,1
 "43927",65786,"col","Hythe",0.52,51.27,"Maidstone (BMNH)",NA,"",2,"Aptian","",125,113,18892,"gp_mid",26.54,41.27,"315",119,"aptian",10612,24.7415,41.2123,27,1
 "43928",65787,"col","Hythe",1.08,51.07,"Hythe",NA,"",3,"Aptian","",125,113,18892,"gp_mid",26.97,41.03,"315",119,"aptian",10613,24.5379,38.7172,27,1
+"43929",65788,"col","",-2.08,51.34,"Seend",NA,"",2,"Aptian","",125,113,18892,"gp_mid",24.4,41.53,"315",119,"aptian",10614,21.7112,41.3768,27,1
 "43930",65789,"col","",-0.21,52.12,"Potton",NA,"",4,"Aptian","",125,113,18892,"gp_mid",26.07,42.16,"315",119,"aptian",10615,24.7415,41.2123,27,1
 "43936",65801,"col","Garschella",9.9,47.42,"Garschella Fm - Bezeck near Bezau, Vorarlberg",NA,"",5,"Aptian","",125,113,15037,"gp_mid",33.9,36.86,"305",119,"aptian",10617,33.0116,30.3869,27,1
 "43937",65802,"col","Garschella",9.9,47.42,"Garschella Fm - Fieldkirch, near St Antoni, Vorarlberg",NA,"",2,"Aptian","",125,113,15037,"gp_mid",33.9,36.86,"305",119,"aptian",10617,33.0116,30.3869,27,1
@@ -149,7 +181,14 @@
 "43944",65809,"col","Garschella",9.9,47.42,"Garschella Fm - Bregenzer Ach, Vorarlberg",NA,"",2,"Aptian","",125,113,15037,"gp_mid",33.9,36.86,"305",119,"aptian",10617,33.0116,30.3869,27,1
 "43945",65810,"col","Garschella",9.9,47.42,"Garschella Fm - Rappenloch Bridge, Vorarlberg",NA,"",1,"Aptian","",125,113,15037,"gp_mid",33.9,36.86,"305",119,"aptian",10617,33.0116,30.3869,27,1
 "44106",66026,"col","",18.32,47.65,"Echinoidea, Gray limestone, Kalvaria hills, Tata",NA,"",13,"Aptian","",125,113,18903,"gp_mid",41.82,22.56,"308",119,"aptian",10653,38.8274,31.2288,27,1
+"44479",66586,"col","",-9.65,31.32,"Sidi Bou Rjaa, Oued Tidzi, Gentil Collection",NA,"",1,"Aptian","",125,113,19008,"gp_mid",9.53,25.85,"707",119,"aptian",10756,5.2406,26.9596,27,1
+"44480",66587,"col","",-9.53,30.52,"Ait Abaid, Agadir, Ager Collection",NA,"",1,"Aptian","",125,113,19008,"gp_mid",9.08,25.16,"707",119,"aptian",10757,3.41,25.077,27,1
+"44481",66588,"col","",-9.58,30.8,"Ait Moujjout, Gentil Collection",NA,"",1,"Aptian","",125,113,19008,"gp_mid",9.23,25.41,"707",119,"aptian",10758,3.41,25.077,27,1
+"44876",67181,"col","",9.85,52.23,"Sarstedt, Hannover area",NA,"",12,"Aptian","",125,113,19169,"gp_mid",34.33,41.66,"315",119,"aptian",10857,33.8158,40.9536,27,1
+"44877",67182,"col","",10.15,52.3,"Mittellandkanal, Schwicheldt",NA,"",1,"Aptian","",125,113,19169,"gp_mid",34.58,41.72,"315",119,"aptian",10858,33.8158,40.9536,27,1
+"44878",67183,"col","",10.05,52.17,"Bettmar, Niedersachsen",NA,"",3,"Aptian","",125,113,19169,"gp_mid",34.49,41.59,"315",119,"aptian",10859,33.8158,40.9536,27,1
 "45016",67438,"col","",20.1,41.97,"Mt. Munella, bed 7, Mirdita zone, Puke",NA,"",8,"Aptian","",125,113,19227,"gp_mid",36.46,19.58,"307",119,"aptian",10915,32.929,17.8344,27,1
+"45810",68448,"col","",-2.09,42.08,"Los Cayos A tracksite",NA,"",3,"Aptian","",125,113,28579,"gp_mid",23.29,32.13,"304",119,"aptian",11120,18.4941,32.2332,27,1
 "46186",68835,"col","Sierra Madre",-93.46,16.68,"El Espinal Quarry",NA,"",41,"Aptian","",125,113,19874,"gp_mid",-39.57,19.08,"205",119,"aptian",11220,-45.1073,22.379,27,1
 "46360",69012,"col","Torcer",-105.55,31.23,"Malone Mountains [Torcer Fm]",NA,"",6,"Aptian","",125,113,19914,"gp_mid",-47.47,35.94,"101",119,"aptian",11277,-52.1363,37.2515,27,1
 "46383",69056,"col","",4.52,44.3,"Laval-Saint-Roman, Gard",NA,"",9,"Aptian","",125,113,19918,"gp_mid",29,34.06,"305",119,"aptian",11281,27.3517,33.594,27,1
@@ -160,11 +199,28 @@
 "46401",69075,"col","",-73.63,6.05,"Chipata, Santander",NA,"",1,"Aptian","",125,113,19919,"gp_mid",-31.17,8.38,"203",119,"aptian",11294,-38.8444,9.2198,27,1
 "46402",69076,"col","",-73.57,5.63,"Loma Cabrera, west of Villa de Leiva, Boyaca",NA,"",1,"Aptian","",125,113,19919,"gp_mid",-31.14,7.96,"203",119,"aptian",11295,-38.8444,9.2198,27,1
 "46501",69180,"col","",35.53,33.73,"Olive Locality",NA,"Abeih",57,"Aptian","",125,113,19942,"gp_mid",43.07,7.57,"508",119,"aptian",11336,37.5248,5.644,27,1
+"46529",69258,"col","Patuxent",-76.43,39.38,"NNE Baltimore tracksite",NA,"",1,"Aptian","",125,113,19959,"gp_mid",-16.28,36.98,"109",119,"aptian",11348,-18.7015,38.5178,27,1
 "46855",69900,"col","San Juan Raya",-97.62,18.32,"San Juan Raya, San Juan Raya Formation, Puebla",NA,"",40,"Aptian","",125,113,23451,"gp_mid",-43.26,21.63,"104",119,"aptian",11470,-48.8335,23.3822,27,1
 "46860",69905,"col","San Juan Raya",-97.62,18.32,"Loma del Coco, San Juan Raya Formation, Puebla",NA,"",2,"Aptian","",125,113,23451,"gp_mid",-43.26,21.63,"104",119,"aptian",11470,-48.8335,23.3822,27,1
 "46861",69906,"col","San Juan Raya",-97.62,18.32,"Reparo Pinto, San Juan Raya Formation, Puebla",NA,"",5,"Aptian","",125,113,23451,"gp_mid",-43.26,21.63,"104",119,"aptian",11470,-48.8335,23.3822,27,1
+"48916",73504,"col","",-9.45,38.72,"Almargem, Crismina section, level 7a.",NA,"",11,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48917",73505,"col","",-9.45,38.72,"Almargem, Crismina section, level 7b.",NA,"",5,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48918",73506,"col","",-9.45,38.72,"Almargem, Crismina section, level 8.",NA,"",11,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48919",73507,"col","",-9.45,38.72,"Almargem, Crismina section, level 9.",NA,"",22,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48920",73508,"col","",-9.45,38.72,"Almargem, Crismina section, level 10a.",NA,"",3,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48921",73509,"col","",-9.45,38.72,"Almargem, Crismina section, level 10b.",NA,"",2,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48922",73510,"col","",-9.45,38.72,"Almargem, Crismina section, level 11.",NA,"",7,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48937",73525,"col","Grès inférieurs",-9.45,38.72,"Aldeia de juzo, Lower sandstones.",NA,"",13,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48938",73526,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 8a.",NA,"",5,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48939",73527,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 8b.",NA,"",8,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48940",73528,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 9.",NA,"",7,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48941",73530,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 10a.",NA,"",3,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48942",73531,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 10b.",NA,"",4,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
+"48943",73532,"col","Calcaires récifaux supérieurs",-9.45,38.72,"Aldeia de juzo, High reef limestones, level 10c.",NA,"",6,"Aptian","",125,113,18719,"gp_mid",15.57,32.5,"304",119,"aptian",12009,9.5757,31.475,27,1
 "48974",73569,"col","Grès inférieurs",-9.42,39.95,"Foz section, level 2b.",NA,"",3,"Aptian","",125,113,18719,"gp_mid",16.43,33.5,"304",119,"aptian",12018,11.3095,33.5028,27,1
 "48976",73571,"col","Assises à Orbitolines",-9.42,39.95,"Foz section, level 5.",NA,"",12,"Aptian","",125,113,18719,"gp_mid",16.43,33.5,"304",119,"aptian",12018,11.3095,33.5028,27,1
+"48982",73577,"col","Grès, argiles et lignites inférieurs",-9.43,38.73,"Cabreiro, claystones, sandstones and lignites, level 1.",NA,"",15,"Aptian","",125,113,18719,"gp_mid",15.59,32.51,"304",119,"aptian",12021,9.5757,31.475,27,1
+"48985",73580,"col","Grès, argiles et lignites supérieurs",-9.43,38.73,"Cabreiro, claystones, sandstones and lignites, level 2.",NA,"",9,"Aptian","",125,113,18719,"gp_mid",15.59,32.51,"304",119,"aptian",12021,9.5757,31.475,27,1
 "49524",74254,"col","Langshan",79.7,33.45,"Caidagugou, Rutog",NA,"",1,"Aptian","",125,113,24937,"gp_mid",93.1,11.36,"613",119,"aptian",12133,67.4627,-31.3262,27,1
 "49525",74255,"col","Langshan",80.25,33.75,"Domar, Rutog",NA,"",1,"Aptian","",125,113,24937,"gp_mid",93.56,11.67,"613",119,"aptian",12134,95.0196,27.5609,27,1
 "49526",74256,"col","Langshan",79.8,33.23,"E Qiekan, Rutog",NA,"",1,"Aptian","",125,113,24937,"gp_mid",93.19,11.15,"613",119,"aptian",12135,67.4627,-31.3262,27,1
@@ -180,12 +236,13 @@
 "50879",76998,"col","",6.08,46.42,"Perte du Rhône",NA,"",58,"Aptian","",125,113,26025,"gp_mid",30.57,36.07,"305",119,"aptian",12580,30.6129,36.0024,27,1
 "50880",76999,"col","",6.85,46.15,"Bossetan, Mount Chablais",NA,"",1,"Aptian","",125,113,26025,"gp_mid",31.2,35.76,"305",119,"aptian",12581,30.5313,33.5033,27,1
 "50883",77002,"col","",6.68,46.93,"La Presta",NA,"",2,"Aptian","",125,113,26025,"gp_mid",31.14,36.55,"305",119,"aptian",12584,30.6129,36.0024,27,1
+"53654",82138,"col","Mural",-110.03,31.27,"Sierra San José section [Cerro La Ceja Mbr, Mural Fm]",NA,"",2,"Aptian","",125,113,27697,"gp_mid",-52.06,36.98,"101",119,"aptian",13542,-55.1754,40.5584,27,1
 "53655",82139,"col","Mural",-109.57,31.08,"Rancho Bufalo section [Cerro La Ceja Mbr, Mural Fm]",NA,"",2,"Aptian","",125,113,27697,"gp_mid",-51.64,36.7,"101",119,"aptian",13543,-56.0782,38.1577,27,1
 "53660",82143,"col","Mural",-109.12,31,"Cerro El Caloso Pitaycachi section [Tuape Shale Mbr, Mural Fm]",NA,"",1,"Aptian","",125,113,27697,"gp_mid",-51.2,36.52,"101",119,"aptian",13545,-56.0782,38.1577,27,1
 "53711",82201,"col","Mural",-109.57,31.08,"Rancho Bufalo section [Cerro La Puerta Shale Mbr, Mural Fm]",NA,"",1,"Aptian","",125,113,27697,"gp_mid",-51.64,36.7,"101",119,"aptian",13543,-56.0782,38.1577,27,1
-"53716",82206,"col","Mural",-110.35,27.73,"Cerro Pimas section [Mesa Quemada Mbr, Mural Fm]",NA,"",2,"Aptian","",125,113,27697,"gp_mid",-53.48,33.63,"104",119,"aptian",13559,-57.1072,35.8829,27,1
+"53712",82202,"col","Mural",-110.03,31.27,"Sierra San José section [Cerro La Puerta Shale Mbr, Mural Fm]",NA,"",4,"Aptian","",125,113,27697,"gp_mid",-52.06,36.98,"101",119,"aptian",13542,-55.1754,40.5584,27,1
+"53719",82209,"col","Mural",-110.03,31.27,"Sierra San José section [Cerro La Espina Mbr, Mural Fm]",NA,"",3,"Aptian","",125,113,27697,"gp_mid",-52.06,36.98,"101",119,"aptian",13542,-55.1754,40.5584,27,1
 "53720",82210,"col","Mural",-109.57,31.08,"Rancho Bufalo section [Cerro La Espina Mbr, Mural Fm]",NA,"",1,"Aptian","",125,113,27697,"gp_mid",-51.64,36.7,"101",119,"aptian",13543,-56.0782,38.1577,27,1
-"53721",82211,"col","Mural",-110.35,27.73,"Cerro Pimas section [Cerro La Espina Mbr]",NA,"",1,"Aptian","",125,113,27697,"gp_mid",-53.48,33.63,"104",119,"aptian",13559,-57.1072,35.8829,27,1
 "54995",83901,"col","",143.7,-16.52,"Walsh River [Roma Series]",NA,"",13,"Aptian","",125,113,28110,"gp_mid",140.07,-62.04,"801",119,"aptian",13951,140.6846,-59.3194,27,1
 "54996",83902,"col","",137.33,-28.5,"Primrose Springs [Roma Series]",NA,"",1,"Aptian","",125,113,28110,"gp_mid",116.93,-72.12,"801",119,"aptian",13952,131.4948,-69.1463,27,1
 "54997",83903,"col","",137.33,-28.5,"Lake Eyre Basin [Roma Series]",NA,"",1,"Aptian","",125,113,28110,"gp_mid",116.93,-72.12,"801",119,"aptian",13952,131.4948,-69.1463,27,1
@@ -198,7 +255,9 @@
 "55005",83911,"col","",148.62,-27.83,"Upper Maranoa River [Roma Series]",NA,"",1,"Aptian","",125,113,28110,"gp_mid",150.84,-73.59,"801",119,"aptian",13959,159.2513,-68.4518,27,1
 "55006",83912,"col","",143.52,-20.75,"Lind River [Roma Series]",NA,"",1,"Aptian","",125,113,28110,"gp_mid",138.45,-66.22,"801",119,"aptian",13960,140.7198,-61.8194,27,1
 "55007",83913,"col","",148.78,-26.58,"Roma [Roma Series]",NA,"",1,"Aptian","",125,113,28110,"gp_mid",151.22,-72.33,"801",119,"aptian",13961,159.2513,-68.4518,27,1
+"55551",84712,"col","",-2.05,42.21,"Era del Peladillo 1 tracksite",NA,"",3,"Aptian","",125,113,69239,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
 "57055",86971,"col","Chalk Marl",2.18,51.2,"Warminster [Chalk Marl]",NA,"",1,"Aptian","",125,113,29264,"gp_mid",27.9,41.08,"315",119,"aptian",14752,27.62,38.5893,27,1
+"57056",86972,"col","Chalk Marl",-1.92,51.25,"Wilts [Chalk Marl]",NA,"",1,"Aptian","",125,113,29264,"gp_mid",24.52,41.43,"315",119,"aptian",14753,21.7112,41.3768,27,1
 "57057",86973,"col","Lower Greensand",-0.48,52.85,"Ingoldsthorpe, Norfolk [Lower Greensand]",NA,"",1,"Aptian","",125,113,29264,"gp_mid",25.97,42.91,"315",119,"aptian",14754,24.7415,41.2123,27,1
 "57058",86974,"col","Lower Greensand",-1.37,50.6,"Atherfield, Isle of Wright [Lower Greensand]",NA,"",5,"Aptian","",125,113,29264,"gp_mid",24.87,40.74,"315",119,"aptian",14755,24.5379,38.7172,27,1
 "57752",87798,"col","",9.3,36.37,"Djebel Cheid",NA,"",11,"Aptian","",125,113,29512,"gp_mid",26.61,20.68,"714",119,"aptian",14954,21.6421,20.9764,27,1
@@ -217,7 +276,9 @@
 "75640",111533,"col","",1.63,41.25,"Can Casanyas Castellet",NA,"",61,"Aptian","",125,113,36504,"gp_mid",25.47,29.92,"304",119,"aptian",21193,21.1599,30.6611,27,1
 "75641",111534,"col","",1.63,41.25,"Mas de Artis",NA,"",29,"Aptian","",125,113,36504,"gp_mid",25.47,29.92,"304",119,"aptian",21193,21.1599,30.6611,27,1
 "75642",111535,"col","",1.63,41.25,"Casa Alta",NA,"",19,"Aptian","",125,113,36504,"gp_mid",25.47,29.92,"304",119,"aptian",21193,21.1599,30.6611,27,1
+"75643",111536,"col","",-2.72,43.42,"Bermeo",NA,"",1,"Aptian","",125,113,36504,"gp_mid",23.73,33.5,"304",119,"aptian",21194,18.4941,32.2332,27,1
 "76072",112208,"col","",4.65,44.37,"Bourg-Saint-Andeol",NA,"",1,"Aptian","",125,113,36504,"gp_mid",29.13,34.12,"305",119,"aptian",21295,27.3517,33.594,27,1
+"77075",113414,"col","Anfiteatro de Ticó",-70.13,-48.55,"Bajo Grande, NF I Araucarites",NA,"",2,"Aptian","",125,113,37184,"gp_mid",-28.79,-44.94,"291",119,"aptian",21598,-39.2681,-43.2049,27,1
 "78538",115143,"col","Riachuelo",-37.2,-10.73,"Mangueira 1, Riachuelo Formation, Sergipe basin",NA,"",4,"Aptian","",125,113,37281,"gp_mid",5.28,-9.29,"201",119,"aptian",22003,-1.8655,-9.2178,27,1
 "78539",115144,"col","Riachuelo",-37.21,-10.72,"Espirito Santo 11, Riachuelo Formation, Sergipe basin",NA,"",2,"Aptian","",125,113,37281,"gp_mid",5.28,-9.28,"201",119,"aptian",22004,-1.8655,-9.2178,27,1
 "78560",115197,"col","Cumburindio",-100.95,18.54,"JP-92384 - Los Hornos Section, western Huetamo area",NA,"",3,"Aptian","",125,113,37312,"gp_mid",-46.51,22.61,"104",119,"aptian",22008,-52.5944,24.3639,27,1
@@ -247,8 +308,16 @@
 "99934",142503,"col","Muribeca",-37.17,-10.65,"GTP-17-SE",NA,"",0,"Aptian","",125,113,46262,"gp_mid",5.32,-9.22,"201",119,"aptian",27547,-1.8655,-9.2178,27,1
 "99943",142515,"col","Gumizaki",130.2,31.83,"Loc. 2, Sendai nuclear power station, Guzimaki area",NA,"",3,"Aptian","",125,113,46268,"gp_mid",142.14,38.11,"610",119,"aptian",27549,146.6559,37.7372,27,1
 "101007",143830,"col","San Juan Raya",-97.74,18.4,"San Martín Atexcal tracksite",NA,"",3,"Aptian","",125,113,47964,"gp_mid",-43.35,21.74,"104",119,"aptian",27668,-48.8335,23.3822,27,1
+"104371",148416,"col","",2.72,42.88,"Mont Tauch",NA,"",2,"Aptian","",125,113,47666,"gp_mid",27.28,30.86,"304",119,"aptian",28134,23.8199,29.136,27,1
+"104372",148418,"col","",3.1,43.17,"Montagne de la Clape, Late Gargasien",NA,"",3,"Aptian","",125,113,47666,"gp_mid",27.66,33.02,"305",119,"aptian",28135,23.8199,29.136,27,1
+"104374",148421,"col","",2.6,42.82,"Grau de Maury",NA,"",4,"Aptian","",125,113,47666,"gp_mid",27.15,30.85,"304",119,"aptian",28137,23.8199,29.136,27,1
+"104542",148592,"col","",2.37,42.93,"Serre de Bouchard",NA,"",2,"Aptian","",125,113,47666,"gp_mid",26.99,32.84,"305",119,"aptian",28164,23.8199,29.136,27,1
+"104543",148593,"col","",2.37,42.93,"Peyremale",NA,"",1,"Aptian","",125,113,47666,"gp_mid",26.99,32.84,"305",119,"aptian",28164,23.8199,29.136,27,1
+"104544",148594,"col","",2.82,42.85,"Ravin des Bibes",NA,"",1,"Aptian","",125,113,47666,"gp_mid",27.33,30.79,"304",119,"aptian",28165,23.8199,29.136,27,1
 "105463",149809,"col","",6.08,43.73,"Provence area, Gargasian",NA,"",2,"Aptian","",125,113,47796,"gp_mid",30.29,33.4,"305",119,"aptian",28362,29.6213,32.2486,27,1
 "107439",152158,"col","Walumbilla",143.68,-20.76,"Flinders River (UQ collection)",NA,"",1,"Aptian","",125,113,38946,"gp_mid",138.82,-66.25,"801",119,"aptian",19825,140.7198,-61.8194,27,1
+"107800",152642,"col","Anfiteatro de Ticó",-69.54,-48.33,"Estancia La Magdalena",NA,"",1,"Aptian","",125,113,49171,"gp_mid",-28.23,-44.74,"291",119,"aptian",28947,-39.2681,-43.2049,27,1
+"107924",152995,"col","Kuwajima",136.63,36.21,"Kaseki-Kabe, Kuwajima, Shiramine-mura",NA,"",3,"Aptian","",125,113,49408,"gp_mid",146.88,44.01,"610",119,"aptian",28993,145.1565,41.5629,27,1
 "108503",153850,"col","",-0.46,52.16,"Brickhill (BMNH)",NA,"",3,"Aptian","",125,113,49858,"gp_mid",25.87,42.22,"315",119,"aptian",29114,24.7415,41.2123,27,1
 "108506",153853,"col","",-0.46,52.16,"Brickhill (Sedgwick Museum)",NA,"",1,"Aptian","",125,113,49858,"gp_mid",25.87,42.22,"315",119,"aptian",29114,24.7415,41.2123,27,1
 "109911",155704,"col","Gundara",47.33,42.27,"Burgemak (Unit 10)",NA,"",10,"Aptian","",125,113,50718,"gp_mid",65.9,31.83,"402",119,"aptian",29405,66.0118,32.74,27,1
@@ -277,6 +346,7 @@
 "115927",165349,"col","Sandgate",1,51.1,"Sellindge",NA,"",1,"Aptian","",125,113,18892,"gp_mid",26.91,41.06,"315",119,"aptian",30981,24.5379,38.7172,27,1
 "115929",165351,"col","Bargate Beds",-0.51,51.21,"St. Martha",NA,"",2,"Aptian","",125,113,18892,"gp_mid",25.68,41.28,"315",119,"aptian",30983,24.5379,38.7172,27,1
 "115930",165352,"col","",6.5,46.82,"Sainte-Croix (BMNH)",NA,"",1,"Aptian","",125,113,18892,"gp_mid",30.97,36.45,"305",119,"aptian",30984,30.6129,36.0024,27,1
+"115931",165353,"col","Hils Conglomerate",10.73,52.12,"Berklingen",NA,"",1,"Aptian","",125,113,18892,"gp_mid",35.04,41.51,"315",119,"aptian",30985,33.8158,40.9536,27,1
 "115932",165354,"col","Bargate Beds",-0.63,51.21,"Compton, Bargate Beds (BGS)",NA,"",1,"Aptian","",125,113,18892,"gp_mid",25.58,41.29,"315",119,"aptian",10610,24.5379,38.7172,27,1
 "115933",165355,"col","",-1.58,51.65,"Faringdon (SM)",NA,"",1,"Aptian","",125,113,18892,"gp_mid",24.86,41.8,"315",119,"aptian",10611,24.7415,41.2123,27,1
 "115934",165356,"col","Sandgate",1.08,51.07,"Hythe (Sandgate Beds)",NA,"",1,"Aptian","",125,113,18892,"gp_mid",26.97,41.03,"315",119,"aptian",10613,24.5379,38.7172,27,1
@@ -317,12 +387,22 @@
 "116417",165966,"col","",43.26,42.07,"Goresha, Caucasus",NA,"",1,"Aptian","",125,113,54147,"gp_mid",62.39,31.42,"511",119,"aptian",31157,64.5399,33.2714,27,1
 "118034",169125,"col","",6.68,46.93,"La Presta",NA,"",1,"Aptian","",125,113,55249,"gp_mid",31.14,36.55,"305",119,"aptian",12584,30.6129,36.0024,27,1
 "118129",169252,"col","Marnes bleues",5.49,44.51,"Saint-Dizier-en-Diois",NA,"",1,"Aptian","",125,113,55270,"gp_mid",29.86,34.21,"305",119,"aptian",31636,27.3517,33.594,27,1
+"118259",169471,"col","",-2.05,42.21,"Era del Peladillo 4 tracksite",NA,"",3,"Aptian","",125,113,55588,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
+"118260",169472,"col","",-2.05,42.21,"Era del Peladillo 5 tracksite",NA,"",3,"Aptian","",125,113,55588,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
+"118261",169473,"col","",-2.05,42.21,"Era del Peladillo 6 tracksite",NA,"",3,"Aptian","",125,113,55588,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
+"118262",169474,"col","",-2.05,42.21,"Era del Peladillo 7 tracksite",NA,"",2,"Aptian","",125,113,55588,"gp_mid",23.4,32.22,"304",119,"aptian",9434,18.4941,32.2332,27,1
+"118263",169475,"col","",-2.22,42.12,"El Villar tracksite, Navalsaz",NA,"Arnedo, Logroño",1,"Aptian","",125,113,56560,"gp_mid",23.22,32.22,"304",119,"aptian",31652,18.4941,32.2332,27,1
 "118404",169622,"col","",-0.46,52.16,"Brickhill (USNM collection)",NA,"",1,"Aptian","",125,113,43337,"gp_mid",25.87,42.22,"315",119,"aptian",29114,24.7415,41.2123,27,1
+"119334",170638,"col","",-2.27,42.15,"Valdecevillo E tracksite",NA,"",2,"Aptian","",125,113,55588,"gp_mid",23.2,32.26,"304",119,"aptian",31781,18.4941,32.2332,27,1
 "119409",170925,"col","Lower Greensand",0.12,52.2,"Cambridge (Tucher Coll.)",NA,"",1,"Aptian","",125,113,52872,"gp_mid",26.35,42.22,"315",119,"aptian",192,24.7415,41.2123,27,1
 "119937",171506,"col","",1.08,51.07,"Hythe, Sandgate",NA,"",1,"Aptian","",125,113,55772,"gp_mid",26.97,41.03,"315",119,"aptian",10613,24.5379,38.7172,27,1
 "120186",171804,"col","Ferruginous Sands",-1.17,50.62,"Horse Ledge Decapods",NA,"",2,"Aptian","",125,113,55837,"gp_mid",25.03,40.75,"315",119,"aptian",32003,24.5379,38.7172,27,1
 "120259",171904,"col","",-0.62,51.21,"Binscombe Decapods",NA,"",1,"Aptian","",125,113,55837,"gp_mid",25.59,41.29,"315",119,"aptian",32006,24.5379,38.7172,27,1
 "120477",172392,"col","Hybla",13.45,38.05,"Rocca Chi Para quarry",NA,"",1,"Aptian","",125,113,56024,"gp_mid",NA,NA,"coordinates not computable using this model",119,"aptian",32033,26.5026,17.6351,27,1
+"120763",173545,"col","",-2.19,42.13,"Cuesta de Andorra tracksite, Navalsaz",NA,"Arnedo, Logroño",3,"Aptian","",125,113,56560,"gp_mid",23.24,32.21,"304",119,"aptian",32092,18.4941,32.2332,27,1
+"120771",173559,"col","",-2.26,42.14,"Valdecevillo tracksite, level 0",NA,"",1,"Aptian","",125,113,56569,"gp_mid",23.2,32.25,"304",119,"aptian",10001,18.4941,32.2332,27,1
+"120772",173560,"col","",-2.26,42.14,"Valdecevillo tracksite, level 150",NA,"",3,"Aptian","",125,113,56569,"gp_mid",23.2,32.25,"304",119,"aptian",10001,18.4941,32.2332,27,1
+"120773",173561,"col","",-2.23,42.12,"Poyales tracksite, Navalsaz",NA,"Arnedo, Logroño",1,"Aptian","",125,113,56569,"gp_mid",23.22,32.23,"304",119,"aptian",32094,18.4941,32.2332,27,1
 "124436",179232,"col","",16.66,41.19,"Giovinazzo tracksite",NA,"",3,"Aptian","",125,113,59339,"gp_mid",34.78,21.76,"307",119,"aptian",32973,29.0381,18.5638,27,1
 "124437",179233,"col","",16.09,40.97,"Spinazzola tracksite",NA,"",1,"Aptian","",125,113,59343,"gp_mid",34.41,22.1,"307",119,"aptian",32974,29.0381,18.5638,27,1
 "124438",179234,"col","",16.08,41.09,"Minervino tracksite",NA,"",1,"Aptian","",125,113,59343,"gp_mid",34.53,22.15,"307",119,"aptian",32975,29.0381,18.5638,27,1
@@ -330,6 +410,24 @@
 "128509",185648,"col","",9.18,35.37,"Foum El Guelta",NA,"",1,"Aptian","",125,113,62230,"gp_mid",25.93,19.9,"714",119,"aptian",34000,19.7861,19.1102,27,1
 "131888",192074,"col","Sierra Madre",-93.27,16.57,"El Chango Quarry",NA,"",6,"Aptian","",125,113,64946,"gp_mid",-39.41,18.93,"205",119,"aptian",34711,-45.1073,22.379,27,1
 "132730",194481,"col","Clearwater",-111.37,56.75,"Suncor Millennium Mine",NA,"Borealopelta-type locality",48,"Aptian","",125,113,66053,"gp_mid",-40.19,61.36,"101",119,"aptian",34913,-42.5911,64.7131,27,1
+"136475",201991,"col","",-2.29,42.16,"Las Losas tracksite (LL)",NA,"Enciso",1,"Aptian","",125,113,69189,"gp_mid",23.19,32.28,"304",119,"aptian",35796,18.4941,32.2332,27,1
+"136476",201992,"col","",-2.45,42.22,"Hornillos de Cameros tracksite 1 (1HR)",NA,"",2,"Aptian","",125,113,69190,"gp_mid",23.12,32.39,"304",119,"aptian",35797,18.4941,32.2332,27,1
+"136477",201993,"col","",-2.44,42.22,"Hornillos de Cameros tracksite 2 (2HR)",NA,"",5,"Aptian","",125,113,69190,"gp_mid",23.12,32.39,"304",119,"aptian",35798,18.4941,32.2332,27,1
+"136478",201994,"col","",-2.44,42.22,"Hornillos de Cameros tracksite 3 (3HR)",NA,"",3,"Aptian","",125,113,69190,"gp_mid",23.12,32.39,"304",119,"aptian",35798,18.4941,32.2332,27,1
+"136479",201995,"col","",-2.44,42.22,"Hornillos de Cameros tracksite 4 (4HR)",NA,"",3,"Aptian","",125,113,69190,"gp_mid",23.12,32.39,"304",119,"aptian",35798,18.4941,32.2332,27,1
+"136480",201996,"col","",-2.44,42.22,"Hornillos de Cameros tracksite 5 (5HR)",NA,"",1,"Aptian","",125,113,69190,"gp_mid",23.12,32.39,"304",119,"aptian",35798,18.4941,32.2332,27,1
+"136481",201997,"col","",-2.45,42.22,"La Pellejera tracksite (PL)",NA,"Hornillos de Cameros",3,"Aptian","",125,113,69213,"gp_mid",23.11,32.4,"304",119,"aptian",35797,18.4941,32.2332,27,1
+"136486",202002,"col","",-2.47,42.2,"Peña Untura tracksite",NA,"San Román de Cameros",1,"Aptian","",125,113,69196,"gp_mid",23.09,32.39,"304",119,"aptian",35799,18.4941,32.2332,27,1
+"136487",202003,"col","",-2.19,42.12,"El Corral del Totico 1 tracksite (1TT)",NA,"",2,"Aptian","",125,113,69198,"gp_mid",23.25,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136488",202004,"col","",-2.19,42.12,"El Corral del Totico 2 tracksite (2TT)",NA,"",4,"Aptian","",125,113,69198,"gp_mid",23.25,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136489",202005,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (CS layer)",NA,"1BVG, 2BVG, 5BVG, 6BVG, 7BVG, 8BVG, 9BVG, 11BVG, 12BVG, 14BVG, 15BVG, 20BVG, 24BVG, 26BVG, 27BVG, 28BVG",5,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136502",202017,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (3BVG)",NA,"",2,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136507",202022,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (4BVG)",NA,"",0,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136509",202024,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (21BVG)",NA,"",1,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136511",202026,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (22BVG)",NA,"",1,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"136512",202027,"col","",-2.19,42.12,"Barranco de Valdegutiérrez tracksite (27BVG)",NA,"",0,"Aptian","",125,113,69204,"gp_mid",23.24,32.21,"304",119,"aptian",35800,18.4941,32.2332,27,1
+"138296",204603,"col","Anfiteatro de Ticó",-70.13,-48.55,"Bajo Grande ",NA,"",5,"Aptian","",125,113,70171,"gp_mid",-28.79,-44.94,"291",119,"aptian",21598,-39.2681,-43.2049,27,1
+"139105",205653,"col","",-2,42.08,"Los Piojos tracksite",NA,"Igea",1,"Aptian","",125,113,70505,"gp_mid",23.35,32.09,"304",119,"aptian",36568,18.4941,32.2332,27,1
 "143249",211838,"col","Helvetiafjellet",13.89,78.1,"Schicht No, 38",NA,"",2,"Aptian","",125,113,73209,"gp_mid",41.55,67.27,"309",119,"aptian",37590,36.5106,65.9457,27,1
 "143250",211839,"col","Helvetiafjellet",13.89,78.1,"Schicht No. 40",NA,"",1,"Aptian","",125,113,73209,"gp_mid",41.55,67.27,"309",119,"aptian",37590,36.5106,65.9457,27,1
 "143396",212045,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 33",NA,"",2,"Aptian","",125,113,73254,"gp_mid",41.58,67.27,"309",119,"aptian",37641,36.5106,65.9457,27,1
