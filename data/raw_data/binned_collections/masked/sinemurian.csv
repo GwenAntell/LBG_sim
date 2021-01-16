@@ -1,298 +1,78 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"2408",4884,"col","Sandilands",-133.15,53.93,"Kennecott Point",NA,"",4,"Sinemurian","",199.3,190.8,299,"gp_mid",-79.95,35.71,"128",195.05,"sinemurian",883,-63.5862,1.6884,41,1
-"3314",8051,"col","Jinji",115.46,23.24,"KHG 282, Shanlongshui, Huidong County",NA,"",1,"Sinemurian","",199.3,190.8,492,"gp_mid",137.66,36.77,"611",195.05,"sinemurian",1122,145.9769,39.873,41,1
-"3437",7415,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-14",NA,"1-14",20,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3438",7416,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-18",NA,"1-18",18,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3439",7417,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-21",NA,"1-21",14,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3440",7418,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-23 B1",NA,"1-23 B1",12,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3441",7419,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-23 B2",NA,"1-23 B2",14,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3442",7420,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-26",NA,"1-26",19,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3443",7421,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-38",NA,"1-38",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3444",7422,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-62",NA,"1-62",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3445",7423,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-63",NA,"1-63",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3446",7424,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-64",NA,"1-64",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3447",7425,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-67",NA,"1-67",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3454",7432,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 4-14",NA,"4-14",10,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3455",7433,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 4-31 B2",NA,"4-31 B2",15,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3456",7434,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 4-31 B3",NA,"4-31 B3",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3457",7435,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 4-1",NA,"",1,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"3458",7436,"col","Aberhan Sinemur",-70.75,-33.47,"Aberhan 1-24",NA,"",11,"Sinemurian","",199.3,190.8,487,"gp_mid",-15.71,-39.29,"291",195.05,"sinemurian",1150,-18.1828,-43.2154,41,1
-"12617",23862,"col","Hierlatz Limestone",15,47,"Schafberg, railway station",NA,"",17,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"12618",23863,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 1575 m",NA,"",29,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"12620",23864,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, crossing of railway and tourist path",NA,"",27,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"12621",23865,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 1620 m",NA,"",15,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"12622",23866,"col","Hierlatz Limestone",15,47,"Mondsee - northern slope of Eibenberg",NA,"",32,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"12624",23868,"col","",15,37,"Taormina",NA,"",29,"Sinemurian","",199.3,190.8,13312,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",2344,16.5614,23.4274,41,1
-"12629",23871,"col","",15,37,"Longobucco",NA,"",30,"Sinemurian","",199.3,190.8,13312,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",2344,16.5614,23.4274,41,1
-"14860",28935,"col","",8,48,"Engstlatt 21",NA,"",29,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14861",28936,"col","",8,48,"Engstlatt 22",NA,"",9,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14863",28939,"col","",8,48,"Engstlatt 23",NA,"",12,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14864",28940,"col","",8,48,"Engstlatt 24",NA,"",9,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14865",28941,"col","",8,48,"Engstlatt 25",NA,"",5,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14866",28942,"col","",8,48,"Engstlatt 26",NA,"",2,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"14867",28943,"col","",8,48,"Engstlatt 28",NA,"",0,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",195.05,"sinemurian",2888,19.8569,40.5309,41,1
-"15045",29180,"col","Calcaire a gryphees",6,49,"Hettange 42b",NA,"",1,"Sinemurian","",199.3,190.8,8363,"gp_mid",17.82,38.1,"315",195.05,"sinemurian",2929,17.4683,42.3286,41,1
-"17793",32014,"col","",6.28,49.52,"Echinoderms, Sinemurian, Ellange, Elvange, Luxemburg",NA,"",18,"Sinemurian","",199.3,190.8,8586,"gp_mid",17.73,38.65,"315",195.05,"sinemurian",3591,17.4683,42.3286,41,1
-"18020",32316,"col","Broadford Beds",-5.72,57.72,"Southern Strath (NMS)",NA,"",2,"Sinemurian","",199.3,190.8,8703,"gp_mid",4.51,42.8,"303",195.05,"sinemurian",3623,1.8573,41.7417,41,1
-"19061",33492,"col","",-4.1,52.82,"Mochras Borehole 3, near Llanbedr, North Wales",NA,"",14,"Sinemurian","",199.3,190.8,8883,"gp_mid",8.38,38.76,"315",195.05,"sinemurian",3813,8.3847,39.3998,41,1
-"19084",33516,"col","",9.95,52.32,"Sample X/26 (99625), Mittelland canal, Sehnde, Lower Saxony",NA,"",16,"Sinemurian","",199.3,190.8,8907,"gp_mid",18.67,42.21,"315",195.05,"sinemurian",3820,17.2794,45.7542,41,1
-"19085",33517,"col","",9.95,52.32,"Sample X/28 (99626), Mittelland canal, Sehnde, Lower Saxony",NA,"",11,"Sinemurian","",199.3,190.8,8907,"gp_mid",18.67,42.21,"315",195.05,"sinemurian",3820,17.2794,45.7542,41,1
-"19115",33571,"col","",-1.95,32.53,"Bou Arfa (1), Atlas Mountains",NA,"Reef 348",2,"Sinemurian","",199.3,190.8,8925,"gp_mid",4.77,23.27,"707",195.05,"sinemurian",3826,0.068,22.2339,41,1
-"19164",33621,"col","Calcari Grigi",11.13,46.07,"Serrada (Folgaria, Trento)",NA,"",1,"Sinemurian","",199.3,190.8,8926,"gp_mid",29.19,30.5,"307",195.05,"sinemurian",3834,23.353,28.7296,41,1
-"19211",33673,"col","Hocakoey",86.88,78.62,"Sample 97UKT164, Hocakoey, Antalya Nappes, Central Taurids",NA,"",38,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19212",33674,"col","Hocakoey",86.88,78.62,"Sample 97UKT166, Hocakoey, Antalya Nappes, Central Taurids",NA,"",40,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19213",33675,"col","Hocakoey",86.88,78.62,"Sample 97UKT167, Hocakoey, Antalya Nappe, Central Taurids",NA,"",39,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19214",33676,"col","Hocakoey",86.88,78.62,"Sample 97UKT168, Hocakoey, Antalya Nappes, Central Taurids",NA,"",44,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19215",33677,"col","Hocakoey",86.88,78.62,"Sample 97UKT169, Hocakoey, Antalya Nappes, Central Taurids",NA,"",41,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19216",33678,"col","Hocakoey",86.88,78.62,"Sample 97UKT171, Hocakoey, Antalya Nappes, Central Taurids",NA,"",35,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19217",33679,"col","Hocakoey",86.88,78.62,"Sample 97UKT172, Hocakoey, Antalya Nappes, Central Taurids",NA,"",42,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19218",33680,"col","Hocakoey",86.88,78.62,"Sample 97UKT173, Hocakoey, Antalya Nappes, Central Taurids",NA,"",38,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19219",33681,"col","Hocakoey",86.88,78.62,"Sample 97UKT174, Hocakoey, Antalya Nappes, Central Taurids",NA,"",43,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19220",33682,"col","Hocakoey",86.88,78.62,"Sample 97UKT178, Hocakoey, Antalya Nappes, Central Taurids",NA,"",41,"Sinemurian","",199.3,190.8,8932,"gp_mid",-9.57,76.79,"401",195.05,"sinemurian",3837,-37.6733,71.953,41,1
-"19276",33738,"col","Puchenque",-70.1,-35.1,"B5-Arroyo del Portezuelo Ancho, Bed 1288, Mendoza",NA,"",6,"Sinemurian","",199.3,190.8,3975,"gp_mid",-14.23,-40.59,"291",195.05,"sinemurian",3842,-16.4545,-45.3881,41,1
-"19603",34122,"col","",17,47,"Bakony Mts (1), Northwest Hungary",NA,"",25,"Sinemurian","",199.3,190.8,8985,"gp_mid",33.08,28.12,"308",195.05,"sinemurian",3891,18.75,47.5,41,1
-"19652",34191,"col","Murray Ridge",-135.42,68.07,"GSC 85926, Murray Ridge Fm, Bug Creek, Northwest Territories",NA,"",1,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.16,47.5,"101",195.05,"sinemurian",3906,-55.3759,45.3938,41,1
-"19660",34201,"col","",-136.17,67.62,"GSC 88066, Richardson Mts, Northwest Territories",NA,"",10,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.76,47.15,"101",195.05,"sinemurian",3912,-55.3759,45.3938,41,1
-"19671",34220,"col","",-137.77,67.43,"GSC 92559, Bug Creek Grp., Porcupine River, northern Yukon",NA,"",7,"Sinemurian","",199.3,190.8,8997,"gp_mid",-51.7,47.17,"101",195.05,"sinemurian",3920,-57.3119,45.8694,41,1
-"19675",34225,"col","Almstrom Creek",-135.93,68.23,"GSC 92596, Almstrom Creek Fm, west of Canoe Lake, northern Yukon",NA,"",4,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.35,47.71,"101",195.05,"sinemurian",3923,-55.3759,45.3938,41,1
-"19676",34226,"col","Murray Ridge",-136.38,67.97,"GSC 92602, Murray Ridge Fm, Murray Ridge, northern Yukon",NA,"",7,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.71,47.52,"101",195.05,"sinemurian",3924,-55.3759,45.3938,41,1
-"19678",34228,"col","Almstrom Creek",-135.48,68.07,"GSC 94023, Almstrom Creek Fm, Bug Creek Canyon, Northwest Territories",NA,"",8,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.19,47.5,"101",195.05,"sinemurian",3926,-55.3759,45.3938,41,1
-"19679",34229,"col","Murray Ridge",-135.43,68.03,"GSC 94026, Murray Ridge Fm, Jurassic Butte, Northwest Territories",NA,"",4,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.18,47.46,"101",195.05,"sinemurian",3927,-55.3759,45.3938,41,1
-"19680",34230,"col","Murray Ridge",-135.43,68.03,"GSC 94027, Murray Ridge Fm, Jurassic Butte, Northwest Territories",NA,"",3,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.18,47.46,"101",195.05,"sinemurian",3927,-55.3759,45.3938,41,1
-"19684",34234,"col","Murray Ridge",-136.38,67.98,"GSC 94047, Murray Ridge Fm, White Mts, northern Yukon",NA,"",5,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.71,47.53,"101",195.05,"sinemurian",3930,-55.3759,45.3938,41,1
-"19689",34242,"col","Murray Ridge",-136.45,68.03,"GSC 94055, Murray Ridge Fm, Murray Ridge, northern Yukon",NA,"",1,"Sinemurian","",199.3,190.8,8997,"gp_mid",-50.72,47.58,"101",195.05,"sinemurian",3933,-55.3759,45.3938,41,1
-"21626",36941,"col","",-69.9,-34.83,"B14-Arroyo Malo (3), Mendoza",NA,"",1,"Sinemurian","",199.3,190.8,9861,"gp_mid",-14.17,-40.28,"291",195.05,"sinemurian",4393,-16.4545,-45.3881,41,1
-"21636",36961,"col","Condorsinga",-75.36,-12,"Manzanares section Man-3",NA,"",11,"Sinemurian","",199.3,190.8,9883,"gp_mid",-28.31,-21.29,"201",195.05,"sinemurian",4398,-33.4124,-25.697,41,1
-"21957",37496,"col","Harbledown",-127.47,50.58,"Vancouver Island, Harbeldown Formation, 2.5 m below tuff",NA,"",1,"Sinemurian","",199.3,190.8,8933,"gp_mid",-77.19,31.47,"128",195.05,"sinemurian",4488,-60.9945,-4.5598,41,1
-"21959",37499,"col","Harbledown",-127.47,50.58,"Vancouver Island, Harbeldown Formation, 7.5 m below tuff",NA,"",1,"Sinemurian","",199.3,190.8,8933,"gp_mid",-77.19,31.47,"128",195.05,"sinemurian",4488,-60.9945,-4.5598,41,1
-"21962",37503,"col","Telkwa",-127.17,54.77,"Ashman Ridge 1, Telkwa Formation",NA,"",3,"Sinemurian","",199.3,190.8,8933,"gp_mid",-58.84,26.12,"127",195.05,"sinemurian",4491,-61.7908,23.1094,41,1
-"21964",37505,"col","Telkwa",-127.17,54.77,"Ashman Ridge 2, Telkwa Formation",NA,"",1,"Sinemurian","",199.3,190.8,8933,"gp_mid",-58.84,26.12,"127",195.05,"sinemurian",4491,-61.7908,23.1094,41,1
-"21976",37519,"col","Telkwa",-127.13,54.38,"Southern Telkwa Range 1, Telkwa Formation",21251,"Te 1",1,"Sinemurian","",199.3,190.8,8933,"gp_mid",-58.61,25.8,"127",195.05,"sinemurian",4499,-61.7908,23.1094,41,1
-"21978",37521,"col","Telkwa",-127.13,54.38,"Southern Telkwa Range 2, Telkwa Formation",21251,"Te 2",1,"Sinemurian","",199.3,190.8,8933,"gp_mid",-58.61,25.8,"127",195.05,"sinemurian",4499,-61.7908,23.1094,41,1
-"21979",37522,"col","Telkwa",-127.13,54.38,"Southern Telkwa Range 3, Telkwa Formation",NA,"Te 3",3,"Sinemurian","",199.3,190.8,8933,"gp_mid",-58.61,25.8,"127",195.05,"sinemurian",4499,-61.7908,23.1094,41,1
-"22445",38079,"col","Chocolate",-71.72,-16.27,"Arequipa reefs, Peru",NA,"Reef 542",8,"Sinemurian","",199.3,190.8,10220,"gp_mid",-23.35,-24.41,"201",195.05,"sinemurian",4637,-26.3236,-29.2301,41,1
-"23193",39304,"col","",162,64,"Basin Omolon, Uljagan",NA,"",8,"Sinemurian","",199.3,190.8,10583,"gp_mid",-124.76,64.17,"405",195.05,"sinemurian",4868,-100.4449,54.9396,41,1
-"23201",39312,"col","",162,64,"Basin Gizhigi, Malaja Turomtcha",NA,"",7,"Sinemurian","",199.3,190.8,10583,"gp_mid",-124.76,64.17,"405",195.05,"sinemurian",4868,-100.4449,54.9396,41,1
-"23206",39318,"col","",162,64,"Basin Bolschoi Anjui",NA,"",17,"Sinemurian","",199.3,190.8,10583,"gp_mid",-124.76,64.17,"405",195.05,"sinemurian",4868,-100.4449,54.9396,41,1
-"23207",39319,"col","",162,64,"Basin Bolschoi Anjui, Vurguveem",39318,"",6,"Sinemurian","",199.3,190.8,10583,"gp_mid",-124.76,64.17,"405",195.05,"sinemurian",4868,-100.4449,54.9396,41,1
-"23825",40086,"col","Black Limestones",14.73,38.02,"Longi, Sicily",NA,"",5,"Sinemurian","",199.3,190.8,10865,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",4986,16.5614,23.4274,41,1
-"25460",42203,"col","",-1.93,52.08,"Evesham, Worcestershire",NA,"",3,"Sinemurian","",199.3,190.8,11186,"gp_mid",10.32,38.66,"315",195.05,"sinemurian",5491,8.3847,39.3998,41,1
-"25461",42204,"col","",-3.35,51.17,"Watchet, Somerset",NA,"",1,"Sinemurian","",199.3,190.8,11186,"gp_mid",9.79,37.46,"315",195.05,"sinemurian",5492,10.6368,37.3979,41,1
-"25883",42769,"col","",-69.79,-34.9,"Arroyo Las Chilcas, levels 1412-1414, 1258-1267",NA,"",1,"Sinemurian","",199.3,190.8,11348,"gp_mid",-14.03,-40.31,"291",195.05,"sinemurian",5645,-16.4545,-45.3881,41,1
-"31765",49757,"col","Hierlatz Limestone",15,47,"Schafberg, Himmelspforthutte",NA,"",3,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31766",49758,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 1550 m",NA,"",12,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31767",49759,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 1500 m",NA,"",12,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31768",49760,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 1535 m",NA,"",9,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31769",49762,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, 300 m from Schafbergalpe",NA,"",16,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31771",49764,"col","Hierlatz Limestone",15,47,"Schafberg, southwestern slopes, scree along the railway",NA,"",5,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31772",49765,"col","Hierlatz Limestone",15,47,"Schafberg, tunnel",NA,"",7,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31774",49767,"col","Hierlatz Limestone",15,47,"Schafberg, water pump",NA,"",8,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31775",49768,"col","Hierlatz Limestone",15,47,"Schwarzensee, road to Feuchteneck",NA,"",17,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"31776",49769,"col","Hierlatz Limestone",15,47,"Suissensee, scree at the shore of the lake",NA,"",4,"Sinemurian","",199.3,190.8,13309,"gp_mid",32.03,29.13,"307",195.05,"sinemurian",2342,15,47.5,41,1
-"32077",50232,"col","Tokchikinskaya",158,68,"Phylloceratids (Ammnonoidea) from Omkuchan River, Siberia",NA,"",1,"Sinemurian","",199.3,190.8,13492,"gp_mid",-115.33,63.1,"405",195.05,"sinemurian",7667,-97.2961,57.273,41,1
-"33147",51565,"col","",137.27,49.43,"M39, Manoma River Section, Khabarovsk",NA,"",19,"Sinemurian","",199.3,190.8,13716,"gp_mid",175.48,58.84,"628",195.05,"sinemurian",7928,-170.7646,35.3563,41,1
-"33824",52260,"col","Charmouth Mudstone",-2.9,50.74,"lower cliff face, Charmouth (BMNH)",NA,"Scelidosaurus lectotype",2,"Sinemurian","",199.3,190.8,12214,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",8112,10.6368,37.3979,41,1
-"33826",52262,"col","Charmouth Mudstone",-2.9,50.74,"upper cliff face, Charmouth (BMNH)",NA,"Scelidosaurus femur",1,"Sinemurian","",199.3,190.8,12214,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",8112,10.6368,37.3979,41,1
-"34614",53100,"col","",-129,58.17,"GSC loc. 95015 - Cry Lake",NA,"",7,"Sinemurian","",199.3,190.8,14361,"gp_mid",-51.26,31.12,"123",195.05,"sinemurian",8392,-59.9613,24.9692,41,1
-"34645",53131,"col","",-135.17,61.17,"GSC loc. 10246 - Laberge",NA,"",5,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.85,35.23,"123",195.05,"sinemurian",8409,-61.0453,29.4883,41,1
-"34705",53191,"col","",-132.3,53.42,"GSC loc. C-175233 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.57,35.07,"128",195.05,"sinemurian",8429,-62.4345,-1.4476,41,1
-"34771",53256,"col","",-132.25,53.42,"GSC loc. C-80791 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.53,35.05,"128",195.05,"sinemurian",8457,-62.4345,-1.4476,41,1
-"34772",53257,"col","",-132.25,53.42,"GSC loc. C-80793 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.53,35.05,"128",195.05,"sinemurian",8457,-62.4345,-1.4476,41,1
-"34773",53258,"col","",-132.25,53.42,"GSC loc. C-80794 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.53,35.05,"128",195.05,"sinemurian",8457,-62.4345,-1.4476,41,1
-"34774",53259,"col","",-132.25,53.42,"GSC loc. C-80798 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.53,35.05,"128",195.05,"sinemurian",8457,-62.4345,-1.4476,41,1
-"34776",53261,"col","",-132.31,53.41,"GSC loc. C-90532 - Graham Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.57,35.06,"128",195.05,"sinemurian",8458,-62.4345,-1.4476,41,1
-"34790",53275,"col","Fernie",-115.33,51.25,"GSC loc. 23030 - Calgary",NA,"",9,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.78,29.18,"101",195.05,"sinemurian",8462,-47.907,28.8856,41,1
-"34801",53286,"col","",-123.02,51.08,"GSC loc. 62355 - Taseko Lakes",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-54.4,24.22,"127",195.05,"sinemurian",8466,-58.662,-5.1986,41,1
-"34806",53291,"col","Fernie",-115.78,52.47,"GSC loc. 14269 - Brazeau",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.96,30.41,"101",195.05,"sinemurian",8467,-47.907,28.8856,41,1
-"34807",53292,"col","Fernie",-117.05,52.35,"GSC loc. 14720 - Brazeau",NA,"",8,"Sinemurian","",199.3,190.8,14361,"gp_mid",-42.87,30.38,"101",195.05,"sinemurian",8468,-47.907,28.8856,41,1
-"34808",53293,"col","",-131.5,52.5,"GSC loc. 40941 - Moresby Island",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.36,34.04,"128",195.05,"sinemurian",8469,-62.4345,-1.4476,41,1
-"34862",53347,"col","",-120.84,49.14,"GSC loc. 69414 - Hope",NA,"",6,"Sinemurian","",199.3,190.8,14361,"gp_mid",-51.99,23.3,"127",195.05,"sinemurian",8476,-55.5628,21.7257,41,1
-"34864",53349,"col","",-120.22,54.92,"GSC loc. 84190 - Smithers",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-44.69,33.16,"101",195.05,"sinemurian",8477,-50.0785,31.6505,41,1
-"34882",53367,"col","",-127.12,54.38,"GSC loc. 88598 - Smithers",NA,"",4,"Sinemurian","",199.3,190.8,14361,"gp_mid",-58.6,25.8,"127",195.05,"sinemurian",8481,-61.7908,23.1094,41,1
-"34896",53381,"col","",-122,56.5,"GSC loc. 42530 - Halfway River",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-45.61,34.87,"101",195.05,"sinemurian",8489,-52.0427,34.4568,41,1
-"34897",53382,"col","Fernie",-122,56.5,"GSC loc. 52228 - Halfway River",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-45.61,34.87,"101",195.05,"sinemurian",8489,-52.0427,34.4568,41,1
-"34898",53383,"col","",-122,56.5,"GSC loc. 82578 - Halfway River",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-45.61,34.87,"101",195.05,"sinemurian",8489,-52.0427,34.4568,41,1
-"34899",53384,"col","",-123.06,56.79,"GSC loc. C-187092 - Halfway River",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-46.26,35.25,"101",195.05,"sinemurian",8490,-52.0427,34.4568,41,1
-"34902",53387,"col","Fernie",-115.08,49.52,"GSC loc. 25592 - Fernie",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",195.05,"sinemurian",8492,-48.2211,26.4011,41,1
-"34905",53390,"col","",-123.02,51.08,"GSC loc. 62370 - Taseko Lakes",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-54.4,24.22,"127",195.05,"sinemurian",8466,-58.662,-5.1986,41,1
-"34908",53393,"col","Fernie",-115.17,50.62,"GSC loc. 79797 - Kananskis Lakes",NA,"",7,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.73,28.54,"101",195.05,"sinemurian",8493,-48.2211,26.4011,41,1
-"34909",53394,"col","",-121.25,50.73,"GSC loc. 89003 - Ashcroft",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-53.15,24.5,"127",195.05,"sinemurian",8494,-55.5628,21.7257,41,1
-"34926",53410,"col","Fernie",-115.43,51.92,"GSC loc. C-127465 - Calgary",NA,"",4,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.78,29.85,"101",195.05,"sinemurian",8501,-47.907,28.8856,41,1
-"34930",53414,"col","Fernie",-115.78,52.47,"GSC loc. 14270 - Brazeau",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.96,30.41,"101",195.05,"sinemurian",8467,-47.907,28.8856,41,1
-"34932",53416,"col","Fernie",-122.87,57.05,"GSC loc. 14713 - Halfway River",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-46.08,35.49,"101",195.05,"sinemurian",8503,-52.0427,34.4568,41,1
-"34935",53419,"col","Fernie",-115.24,51.97,"GSC loc. C-127463 - Calgary",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-41.64,29.89,"101",195.05,"sinemurian",8504,-47.907,28.8856,41,1
-"35100",53583,"col","Fernie",-115.08,49.52,"GSC loc. 6577 - Fernie",NA,"",5,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",195.05,"sinemurian",8492,-48.2211,26.4011,41,1
-"35101",53584,"col","Fernie",-115.08,49.52,"GSC loc. 6578 - Fernie",NA,"",4,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",195.05,"sinemurian",8492,-48.2211,26.4011,41,1
-"35109",53592,"col","Bonanza",-128.05,50.45,"GSC loc. 84047 - Cape Scott",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-77.65,31.44,"128",195.05,"sinemurian",8547,-60.9945,-4.5598,41,1
-"35139",53625,"col","",-123.02,51.08,"GSC loc. 56416 - Taseko Lakes",NA,"",4,"Sinemurian","",199.3,190.8,14361,"gp_mid",-54.4,24.22,"127",195.05,"sinemurian",8466,-58.662,-5.1986,41,1
-"35145",53631,"col","Fernie",-122.18,57.78,"GSC loc. 52223 - Trutch",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-45.48,36.15,"101",195.05,"sinemurian",8552,-52.0427,34.4568,41,1
-"35157",53643,"col","",-134.07,59.43,"GSC loc. C-153971 - Skagway",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-53.33,33.46,"123",195.05,"sinemurian",8555,-61.0453,29.4883,41,1
-"35268",53750,"col","Arawhero",174.73,-39.88,"Kawhia, f271",NA,"",5,"Sinemurian","",199.3,190.8,14484,"gp_mid",77.67,-66.26,"806",195.05,"sinemurian",8583,76.9567,-76.0369,41,1
-"35269",53751,"col","Arawhero",174.73,-39.88,"Kawhia, f272",NA,"",42,"Sinemurian","",199.3,190.8,14484,"gp_mid",77.67,-66.26,"806",195.05,"sinemurian",8583,76.9567,-76.0369,41,1
-"35271",53753,"col","Arawhero",174.73,-39.88,"Kawhia, f273",NA,"",5,"Sinemurian","",199.3,190.8,14484,"gp_mid",77.67,-66.26,"806",195.05,"sinemurian",8583,76.9567,-76.0369,41,1
-"35276",53758,"col","",-126.17,54.89,"GSC loc. 84192 - Smithers",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-58.36,26.52,"127",195.05,"sinemurian",8585,-61.7908,23.1094,41,1
-"35305",53787,"col","",-132.05,52.78,"GSC loc. 36981 - Moresby Island",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-79.64,34.42,"128",195.05,"sinemurian",8592,-62.4345,-1.4476,41,1
-"35387",53874,"col","",-135.17,61.17,"GSC loc. 10247 - Laberge",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.85,35.23,"123",195.05,"sinemurian",8409,-61.0453,29.4883,41,1
-"35388",53875,"col","",-126.58,49.5,"GSC loc. 19419 - Nootka Sound",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-76.9,30.27,"128",195.05,"sinemurian",8606,-60.9945,-4.5598,41,1
-"35409",53902,"col","",-117.05,52.35,"GSC loc. 77062 - Rocky Mountain House",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-42.87,30.38,"101",195.05,"sinemurian",8468,-47.907,28.8856,41,1
-"35411",53904,"col","",-119.18,53.87,"GSC loc. 24692 - Edson",NA,"",7,"Sinemurian","",199.3,190.8,14361,"gp_mid",-44.14,32.04,"101",195.05,"sinemurian",8611,-50.0785,31.6505,41,1
-"38356",58434,"col","",-70.08,-23.62,"Cerros de Cuevitas, Profil 1, Antofagasta",NA,"",1,"Sinemurian","",199.3,190.8,15673,"gp_mid",-19.23,-30.98,"201",195.05,"sinemurian",9240,-24.3736,-33.9464,41,1
-"38467",58545,"col","",-69.93,-23.62,"Cuevitas, Antofagasta",NA,"",3,"Sinemurian","",199.3,190.8,9156,"gp_mid",-19.08,-30.93,"201",195.05,"sinemurian",9287,-24.3736,-33.9464,41,1
-"38658",58733,"col","",-69.5,-27.42,"Quebrada Yerbas Buenas, Atacama",NA,"",4,"Sinemurian","",199.3,190.8,15673,"gp_mid",-17.25,-33.28,"291",195.05,"sinemurian",9343,-21.6848,-38.8227,41,1
-"44727",67012,"col","Gurumdy",73.55,37.78,"Djarty-Rabat, SE-Pamir",NA,"Reef 2790",5,"Sinemurian","",199.3,190.8,19104,"gp_mid",88.01,53.31,"601",195.05,"sinemurian",10825,97.4826,58.7785,41,1
-"45715",68346,"col","",9.1,46.65,"Val Striga, Vrin, Lithiotis Limestone",NA,"Reef 573",4,"Sinemurian","",199.3,190.8,19673,"gp_mid",28.65,31.95,"307",195.05,"sinemurian",11093,19.8569,40.5309,41,1
-"45726",68357,"col","",17.61,48.6,"3.5 km NNW of Chtelnica, western Carpathians",NA,"",1,"Sinemurian","",199.3,190.8,19674,"gp_mid",34.73,28.92,"308",195.05,"sinemurian",11096,18.75,47.5,41,1
-"45728",68359,"col","",50,32.33,"Zardeh Kuh, Zagros Mountains, Lithiotis Limestone",NA,"Reef 578",1,"Sinemurian","",199.3,190.8,19673,"gp_mid",50.24,9.76,"503",195.05,"sinemurian",11098,45.0208,10.5794,41,1
-"45876",68515,"col","",-3.78,32.15,"Kadoussa, Atlas",NA,"",1,"Sinemurian","",199.3,190.8,19747,"gp_mid",5.77,23.83,"714",195.05,"sinemurian",11133,0.068,22.2339,41,1
-"52568",80016,"col","Calcare Massiccio",12.2,43.37,"Calcare Massiccio of Monte Cucco",NA,"",18,"Sinemurian","",199.3,190.8,26951,"gp_mid",27.46,28.14,"307",195.05,"sinemurian",13099,11.25,42.5,41,1
-"55443",84559,"col","Charmouth Mudstone",-2.92,50.73,"Black Ven landslip",NA,"landslide",1,"Sinemurian","",199.3,190.8,28369,"gp_mid",10.33,37.17,"315",195.05,"sinemurian",14108,10.6368,37.3979,41,1
-"58432",88586,"col","Rotzo",10.91,45.98,"Coste dell'Anglone tracksite",NA,"",8,"Sinemurian","",199.3,190.8,29718,"gp_mid",28.99,30.56,"307",195.05,"sinemurian",15174,23.353,28.7296,41,1
-"59951",91197,"col","",14,37.5,"Montagna di Casale",NA,"",11,"Sinemurian","",199.3,190.8,30685,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",15744,16.5614,23.4274,41,1
-"61750",93454,"col","",-1.09,49.33,"Bucklandi zone, claystone, Osmanville, Calvados",NA,"",9,"Sinemurian","",199.3,190.8,31620,"gp_mid",12.39,36.39,"305",195.05,"sinemurian",16316,12.9329,38.9958,41,1
-"63101",95096,"col","",-70.47,-26.03,"Quebrada Pan de Azúcar, Atacama",NA,"",10,"Sinemurian","",199.3,190.8,9156,"gp_mid",-18.81,-32.29,"291",195.05,"sinemurian",16669,-22.9429,-36.5295,41,1
-"64227",96467,"col","Charmouth Mudstone",-2.91,50.73,"foot of Black Ven, Charmouth",NA,"",7,"Sinemurian","",199.3,190.8,31248,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",17037,10.6368,37.3979,41,1
-"65206",97907,"col","Lias",-2.95,50.72,"Pathologic Plesiosaur Site",NA,"",1,"Sinemurian","",199.3,190.8,33842,"gp_mid",10.32,37.15,"315",195.05,"sinemurian",17325,10.6368,37.3979,41,1
-"65373",98103,"col","",-2.9,50.73,"Black Ven ichthyosaur",NA,"",1,"Sinemurian","",199.3,190.8,33904,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",17385,10.6368,37.3979,41,1
-"65414",98152,"col","",-2.97,50.72,"Pinhay Bay",NA,"",1,"Sinemurian","",199.3,190.8,33929,"gp_mid",10.3,37.15,"315",195.05,"sinemurian",17394,10.6368,37.3979,41,1
-"66988",100031,"col","Alpiner Lias",13.72,47.65,"Sample 40, East of Sandling-hill, Steiermark",NA,"",1,"Sinemurian","",199.3,190.8,31967,"gp_mid",31.92,30.21,"307",195.05,"sinemurian",17991,15,47.5,41,1
-"81009",118472,"col","Charmouth Mudstone",-2.9,50.73,"Charmouth, E.C.H. Day collection",NA,"",3,"Sinemurian","",199.3,190.8,38162,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",17385,10.6368,37.3979,41,1
-"81772",119286,"col","",-2.5,51.42,"Keynsham, near Bristol",NA,"",1,"Sinemurian","",199.3,190.8,38282,"gp_mid",10.27,37.91,"315",195.05,"sinemurian",22812,8.3847,39.3998,41,1
-"84143",122159,"col","Charmouth Mudstone",-2.92,50.73,"Lyme Regis, beach under Black Ven ",NA,"",1,"Sinemurian","",199.3,190.8,38892,"gp_mid",10.33,37.17,"315",195.05,"sinemurian",14108,10.6368,37.3979,41,1
-"85364",123788,"col","",-110.12,78.47,"Locality 87, east-central Borden Island",NA,"",1,"Sinemurian","",199.3,190.8,39463,"gp_mid",-29.83,56.86,"106",195.05,"sinemurian",23940,-39.6933,52.2969,41,1
-"85365",123789,"col","Borden Island",-110.68,78.38,"GSCC.76362, Oyster River",NA,"",1,"Sinemurian","",199.3,190.8,39463,"gp_mid",-30.08,56.83,"106",195.05,"sinemurian",23941,-40.983,52.495,41,1
-"85366",123790,"col","Borden Island",-110.97,78.42,"GSC C-76353, Oyster River",NA,"",1,"Sinemurian","",199.3,190.8,39463,"gp_mid",-30.16,56.88,"106",195.05,"sinemurian",23942,-40.983,52.495,41,1
-"87864",127163,"col","",9,46,"Sinemurian deposit",NA,"",6,"Sinemurian","",199.3,190.8,41328,"gp_mid",28.01,31.59,"307",195.05,"sinemurian",24540,7.5,45,41,1
-"90300",158210,"col","",-2.92,50.73,"0.75 miles NE of Lyme Regis",NA,"",1,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.33,37.17,"315",195.05,"sinemurian",14108,10.6368,37.3979,41,1
-"91765",132601,"col","",31.06,37.87,"Sorkun Layla, near Bucak (Loc. No 7)",NA,"",4,"Sinemurian","",199.3,190.8,42701,"gp_mid",36.95,19.14,"504",195.05,"sinemurian",25459,30,37.5,41,1
-"92664",133928,"col","",174.76,-38.11,"McF B8, Otamaehu Point (R15/f019)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.42,"806",195.05,"sinemurian",25697,84.1996,-77.9362,41,1
-"92670",133934,"col","",174.75,-38.12,"McF B22, Arawhero Point (R15/f030)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.05,-66.41,"806",195.05,"sinemurian",25699,84.1996,-77.9362,41,1
-"92741",134005,"col","",174.75,-38.11,"GS 6801, Otamaehu Point (R15/f8694)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.41,"806",195.05,"sinemurian",25711,84.1996,-77.9362,41,1
-"92747",134011,"col","",174.75,-38.11,"AU 127, Arawhero Point (R15/f8812)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.41,"806",195.05,"sinemurian",25711,84.1996,-77.9362,41,1
-"92748",134012,"col","",174.75,-38.11,"McF B21, Arawhero Point (R15/f8812)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.41,"806",195.05,"sinemurian",25711,84.1996,-77.9362,41,1
-"92752",134016,"col","",174.75,-38.11,"AU 119, Otamaehu Point (R15/f8822)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.41,"806",195.05,"sinemurian",25711,84.1996,-77.9362,41,1
-"92753",134017,"col","",174.75,-38.11,"AU 120, Otamaehu Point (R15/f8822)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",82.06,-66.41,"806",195.05,"sinemurian",25711,84.1996,-77.9362,41,1
-"92840",134131,"col","",174.71,-38.28,"AU 8358, south of Tauhua Stream (R16/f148)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",81.65,-66.38,"806",195.05,"sinemurian",25733,84.1996,-77.9362,41,1
-"92867",134158,"col","",174.72,-38.19,"GS 10046, Lake Piopio (R16/f6908)",NA,"B.E.T. 8",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",81.86,-66.38,"806",195.05,"sinemurian",25747,84.1996,-77.9362,41,1
-"92918",134209,"col","",174.75,-38.33,"AU 4199, Kiritehere Valley (R16/f8813)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",81.53,-66.4,"806",195.05,"sinemurian",25760,84.1996,-77.9362,41,1
-"92919",134210,"col","",174.75,-38.33,"AU 4200, Kiritehere Valley (R16/f8814)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",81.53,-66.4,"806",195.05,"sinemurian",25760,84.1996,-77.9362,41,1
-"92927",134218,"col","",174.73,-38.3,"AU 4225, Marokopa Valley Road (R16/f8840)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",81.59,-66.39,"806",195.05,"sinemurian",25762,84.1996,-77.9362,41,1
-"93067",134381,"col","",174.66,-38.57,"GS 927, Manganui Road quarry (R17/f8049)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.94,-66.32,"806",195.05,"sinemurian",25806,84.1996,-77.9362,41,1
-"93069",134383,"col","",174.68,-38.64,"AU 313, Manganui Road quarry (R17/f8556)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.77,-66.33,"806",195.05,"sinemurian",25807,84.1996,-77.9362,41,1
-"93070",134384,"col","",174.68,-38.64,"McF F9, Manganui Road quarry (R17/f8556)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.77,-66.33,"806",195.05,"sinemurian",25807,84.1996,-77.9362,41,1
-"93071",134385,"col","",174.66,-38.66,"AU 307, Manganui Road (R17/f8559)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.71,-66.31,"806",195.05,"sinemurian",25808,84.1996,-77.9362,41,1
-"93072",134386,"col","",174.66,-38.66,"AU 309, Manganui Road (R17/f8559)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.71,-66.31,"806",195.05,"sinemurian",25808,84.1996,-77.9362,41,1
-"93073",134387,"col","",174.66,-38.66,"AU 312, Manganui Road (R17/f8559)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",80.71,-66.31,"806",195.05,"sinemurian",25808,84.1996,-77.9362,41,1
-"93595",135010,"col","",168.48,-45.99,"McF E34, Ben Bolt (E45/f076)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93596",135011,"col","",168.48,-45.99,"McF E35, Ben Bolt (E45/f077)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93597",135012,"col","",168.44,-46.04,"McF E36, Otapiri Gorge (E45/f078)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.72,-68.77,"807",195.05,"sinemurian",26006,75.9402,-74.0827,41,1
-"93599",135014,"col","",168.46,-46.02,"McF E43, Otapiri Gorge (E45/f083)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.8,"807",195.05,"sinemurian",26007,75.9402,-74.0827,41,1
-"93614",135045,"col","",168.48,-45.99,"AU 6639, Ben Bolt (E45/f178)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93615",135046,"col","",168.48,-45.99,"AU 7053, Ben Bolt (E45/f178)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93642",135073,"col","",168.48,-46,"GS 342, Ben Bolt (E45/f9445)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.82,"807",195.05,"sinemurian",26033,75.9402,-74.0827,41,1
-"93644",135075,"col","",168.47,-45.98,"GS 352, Taylors-Otapiri Junction (E45/f9455)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.84,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93645",135076,"col","",168.47,-45.98,"CTT coll, Taylors-Otapiri Junction (E45/f9455)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.84,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93646",135077,"col","",168.47,-45.98,"AU 2811, Taylors-Otapiri Junction (E45/f9455)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.84,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93647",135078,"col","",168.47,-45.98,"JDC 2187, Taylors-Otapiri Junction (E45/f9455)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.84,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93648",135079,"col","",168.47,-45.98,"McF E47, Taylors-Otapiri Junction (E45/f9455)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.84,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93655",135086,"col","",168.44,-46.04,"JDC 738, Otapiri Gorge (E45/f9553)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.72,-68.77,"807",195.05,"sinemurian",26006,75.9402,-74.0827,41,1
-"93656",135087,"col","",168.44,-46.04,"GS 5540, Otapiri Gorge (E45/f9553)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.72,-68.77,"807",195.05,"sinemurian",26006,75.9402,-74.0827,41,1
-"93657",135088,"col","",168.44,-46.04,"McF E37, Otapiri Gorge (E45/f9553)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.72,-68.77,"807",195.05,"sinemurian",26006,75.9402,-74.0827,41,1
-"93658",135089,"col","",168.47,-46,"GS 5550, Ben Bolt (E45/f9554)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.82,"807",195.05,"sinemurian",26038,75.9402,-74.0827,41,1
-"93659",135090,"col","",168.47,-46,"JDC 731, Ben Bolt (E45/f9554)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.82,"807",195.05,"sinemurian",26038,75.9402,-74.0827,41,1
-"93668",135099,"col","",168.48,-45.99,"JDC 1382, Ben Bolt (E45/f9676)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93671",135102,"col","",168.41,-46.03,"GS 6646, Heale Ridge (E45/f9690)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.78,-68.77,"807",195.05,"sinemurian",26041,75.9402,-74.0827,41,1
-"93673",135104,"col","",168.48,-45.99,"GS 6756, Ben Bolt (E45/f9697)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93674",135105,"col","",168.48,-45.99,"McF E23, Ben Bolt (E45/f9697)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.83,"807",195.05,"sinemurian",26005,75.9402,-74.0827,41,1
-"93675",135106,"col","",168.49,-45.99,"McF E5, Ben Bolt (E45/f9699)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.69,-68.83,"807",195.05,"sinemurian",26043,75.9402,-74.0827,41,1
-"93676",135107,"col","",168.43,-45.97,"GS 6749, The Bastion (E45/f9712)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.81,-68.84,"807",195.05,"sinemurian",26044,75.9402,-74.0827,41,1
-"93680",135111,"col","",168.47,-45.98,"GS 7268, Otapiri Stream (E45/f9785)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.73,-68.83,"807",195.05,"sinemurian",26034,75.9402,-74.0827,41,1
-"93681",135112,"col","",168.44,-45.97,"GS 7682, The Bastion (E45/f9848)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.8,-68.84,"807",195.05,"sinemurian",26048,75.9402,-74.0827,41,1
-"93689",135120,"col","",168.48,-46,"BM coll, Ben Bolt (E45/f)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.7,-68.82,"807",195.05,"sinemurian",26033,75.9402,-74.0827,41,1
-"93692",135123,"col","",168.56,-46.18,"McF H26, Jewitt Road (E46/f057)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.37,-68.67,"807",195.05,"sinemurian",26052,75.9402,-74.0827,41,1
-"93742",135173,"col","",168.69,-46.04,"JDC 1394, Otamita Valley (F45/f8645)",NA,"",2,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.27,-68.84,"807",195.05,"sinemurian",26078,75.9402,-74.0827,41,1
-"93744",135175,"col","",168.66,-46.03,"GS 7243, Ruhtra Stream (F45/f8723)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.35,-68.84,"807",195.05,"sinemurian",26079,75.9402,-74.0827,41,1
-"93747",135178,"col","",168.69,-46.03,"GS 7611, Otamita Valley (F45/f8772)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.28,-68.84,"807",195.05,"sinemurian",26080,75.9402,-74.0827,41,1
-"93754",135185,"col","",168.78,-46.06,"GS 7685, Kelvin Peak (F45/f8839)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.1,-68.85,"807",195.05,"sinemurian",26083,75.9402,-74.0827,41,1
-"93791",135222,"col","",168.6,-46.18,"GS 5929, Dunsdale (F46/f6572)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.29,-68.69,"807",195.05,"sinemurian",26099,75.9402,-74.0827,41,1
-"93792",135223,"col","",168.61,-46.18,"GS 7269, Dunsdale (F46/f6795)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",76.28,-68.69,"807",195.05,"sinemurian",26100,75.9402,-74.0827,41,1
-"93826",135257,"col","",169.51,-46.33,"JDC 1215, Lochindorb Station (G46/f9595)",NA,"",1,"Sinemurian","",199.3,190.8,43142,"gp_mid",74.52,-68.77,"807",195.05,"sinemurian",26122,74.3148,-71.6288,41,1
-"94055",135539,"col","",-5.06,33.2,"Ari-bou Larfa, south of Timahdte",NA,"",1,"Sinemurian","",199.3,190.8,43337,"gp_mid",2.27,24.7,"707",195.05,"sinemurian",26226,0.068,22.2339,41,1
-"94074",135558,"col","",155.75,65.3,"Tokur-Yuryakh River, Bulun River basin",NA,"",1,"Sinemurian","",199.3,190.8,43373,"gp_mid",-118.58,65.57,"405",195.05,"sinemurian",26240,-101.5729,56.3909,41,1
-"94076",135560,"col","",156.5,65.4,"Vizual'naya River, upper course",NA,"",1,"Sinemurian","",199.3,190.8,43373,"gp_mid",-118.9,65.27,"405",195.05,"sinemurian",26241,-101.5729,56.3909,41,1
-"96231",138246,"col","",-2.94,50.73,"Seven Rock Point (?)",NA,"Lyme Regis",6,"Sinemurian","",199.3,190.8,44197,"gp_mid",10.32,37.16,"315",195.05,"sinemurian",26914,10.6368,37.3979,41,1
-"96752",138806,"col","Broccatello",8.95,45.88,"Quarries of Arzo (PIMUZ coll)",NA,"",3,"Sinemurian","",199.3,190.8,44496,"gp_mid",27.88,31.54,"307",195.05,"sinemurian",26991,7.5,45,41,1
-"97769",139856,"col","Charmouth Mudstone",-2.93,50.72,"Black Ven (Curtis coll)",NA,"",1,"Sinemurian","",199.3,190.8,45031,"gp_mid",10.33,37.16,"315",195.05,"sinemurian",27216,10.6368,37.3979,41,1
-"98303",140484,"col","",-2.9,50.73,"Charmouth, non-specific",NA,"",0,"Sinemurian","",199.3,190.8,15587,"gp_mid",10.34,37.18,"315",195.05,"sinemurian",17385,10.6368,37.3979,41,1
-"98540",140822,"col","",-1.15,46.53,"Le Chatelard, near Bessay (Vendée)",NA,"",1,"Sinemurian","",199.3,190.8,45613,"gp_mid",13.75,33.82,"305",195.05,"sinemurian",27348,15.0409,37.126,41,1
-"100061",142711,"col","",-3.27,51.19,"Lilstock",NA,"Excalibosaurus costini type locality",1,"Sinemurian","",199.3,190.8,46310,"gp_mid",9.84,37.5,"315",195.05,"sinemurian",27571,10.6368,37.3979,41,1
-"100062",142712,"col","",-3.33,51.18,"Watchet",NA,"Excalibosaurus costini",1,"Sinemurian","",199.3,190.8,46310,"gp_mid",9.8,37.48,"315",195.05,"sinemurian",27572,10.6368,37.3979,41,1
-"101516",144436,"col","Condorsinga",-75.36,-12,"Manzanares section Man-2",NA,"",1,"Sinemurian","",199.3,190.8,9896,"gp_mid",-28.31,-21.29,"201",195.05,"sinemurian",4398,-33.4124,-25.697,41,1
-"101676",144689,"col","",11.33,49.23,"Neumarkt",NA,"",1,"Sinemurian","",199.3,190.8,46818,"gp_mid",21.66,39.93,"305",195.05,"sinemurian",27794,19.8421,44.0462,41,1
-"104758",148848,"col","",8.03,47.51,"Frick, Kanton Aargau (PIMUZ)",NA,"",3,"Sinemurian","",199.3,190.8,47740,"gp_mid",20.19,37.38,"305",195.05,"sinemurian",28201,19.8569,40.5309,41,1
-"105266",149425,"col","",6.19,48.95,"Louvigny b TGV excavation",NA,"",2,"Sinemurian","",199.3,190.8,47871,"gp_mid",17.98,38.12,"315",195.05,"sinemurian",28307,17.4683,42.3286,41,1
-"106032",150392,"col","Jinji",116.01,23.48,"Huizhai, Jiexi",NA,"",1,"Sinemurian","",199.3,190.8,48118,"gp_mid",138.27,37.05,"611",195.05,"sinemurian",28469,145.9769,39.873,41,1
-"111109",157853,"col","Hierlatz Limestone",13.63,47.55,"Hierlatz",NA,"",1,"Sinemurian","",199.3,190.8,51896,"gp_mid",31.79,30.18,"307",195.05,"sinemurian",29695,15,47.5,41,1
-"111110",157854,"col","Hierlatz Limestone",12.6,47.6,"Steinplatte",NA,"",1,"Sinemurian","",199.3,190.8,51896,"gp_mid",31.3,30.74,"307",195.05,"sinemurian",29696,11.25,47.5,41,1
-"111281",158209,"col","",-2.09,51.91,"Great Western Railway cutting, Cheltenham",NA,"",1,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.3,38.46,"315",195.05,"sinemurian",29754,8.3847,39.3998,41,1
-"111284",158213,"col","",-2.93,50.72,"Lyme Regis unspecified (OUM)",NA,"",2,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.33,37.16,"315",195.05,"sinemurian",27216,10.6368,37.3979,41,1
-"111739",159017,"col","",32.78,40.06,"Yakacik Valley",NA,"",14,"Sinemurian","",199.3,190.8,52035,"gp_mid",43.45,42.96,"510",195.05,"sinemurian",29936,37.1245,22.9711,41,1
-"111909",159192,"col","Bocchigliero",16.61,39.45,"S.S. Silana di Rossano",NA,"",1,"Sinemurian","",199.3,190.8,52076,"gp_mid",26.88,23.04,"307",195.05,"sinemurian",29976,15,40,41,1
-"112115",159481,"col","",13.59,47.54,"Mitterwand (Locality 2)",NA,"",14,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.75,30.2,"307",195.05,"sinemurian",30053,15,47.5,41,1
-"112116",159482,"col","",13.58,47.54,"Mitterwand (Locality 3)",NA,"",8,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.76,30.2,"307",195.05,"sinemurian",30054,15,47.5,41,1
-"112117",159483,"col","",13.58,47.56,"Mitterwand (Locality 4)",NA,"",8,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.77,30.21,"307",195.05,"sinemurian",30055,15,47.5,41,1
-"112118",159484,"col","",13.6,47.54,"Mitterwand (Locality 5)",NA,"",13,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.76,30.19,"307",195.05,"sinemurian",30056,15,47.5,41,1
-"112119",159485,"col","",13.6,47.53,"Mitterwand (Locality 7)",NA,"",27,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.76,30.19,"307",195.05,"sinemurian",30057,15,47.5,41,1
-"112120",159486,"col","",13.61,47.54,"Mitterwand (Locality 13)",NA,"",18,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.77,30.19,"307",195.05,"sinemurian",30058,15,47.5,41,1
-"112121",159487,"col","",13.61,47.54,"Mitterwand (Locality 12)",NA,"",24,"Sinemurian","",199.3,190.8,52120,"gp_mid",31.77,30.19,"307",195.05,"sinemurian",30058,15,47.5,41,1
-"112319",159743,"col","",8.94,45.88,"Arzo (USNM)",NA,"",1,"Sinemurian","",199.3,190.8,33914,"gp_mid",27.87,31.54,"307",195.05,"sinemurian",30136,7.5,45,41,1
-"113124",160783,"col","",2.79,43.05,"Petit Guimont, bed 21, Fontjoncouse",NA,"",3,"Sinemurian","",199.3,190.8,52216,"gp_mid",18.48,31.77,"305",195.05,"sinemurian",30395,3.75,42.5,41,1
-"114280",162254,"col","",-22.29,70.45,"Locality 5, Ikalissat",NA,"",6,"Sinemurian","",199.3,190.8,52862,"gp_mid",6.04,51.03,"102",195.05,"sinemurian",30658,-1.8115,49.6335,41,1
-"114281",162255,"col","",-22.29,70.45,"Locality 5, Ikalissat (Rosenkrantz)",NA,"",3,"Sinemurian","",199.3,190.8,52862,"gp_mid",6.04,51.03,"102",195.05,"sinemurian",30658,-1.8115,49.6335,41,1
-"114291",162266,"col","",-22.29,70.46,"Locality 4. Coast section between Basaltnaes and Ikalissat",NA,"",8,"Sinemurian","",199.3,190.8,52862,"gp_mid",6.03,51.04,"102",195.05,"sinemurian",30659,-1.8115,49.6335,41,1
-"119226",170526,"col","Oust",9.99,36.24,"Djebel Bent Saidane, Dubar section, bed 2",NA,"",1,"Sinemurian","",199.3,190.8,55572,"gp_mid",19.01,24.73,"714",195.05,"sinemurian",31763,12.6053,22.1703,41,1
-"119755",171322,"col","",-2.44,51.29,"Radstock (Tutcher Coll.)",NA,"",1,"Sinemurian","",199.3,190.8,52872,"gp_mid",10.38,37.81,"315",195.05,"sinemurian",31900,8.3847,39.3998,41,1
-"120782",173572,"col","",13.13,47.71,"Bäumels quarry, Ober-Wiestal",NA,"",8,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.67,30.54,"307",195.05,"sinemurian",32097,15,47.5,41,1
-"120783",173573,"col","",13.15,47.7,"Lower quarry in Altental, near Adnet",NA,"",1,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.67,30.53,"307",195.05,"sinemurian",32098,15,47.5,41,1
-"120785",173575,"col","",13.14,47.7,"Priesterbruch quarry, Adnet",NA,"",1,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120786",173576,"col","",13.15,47.7,"Upper quarry in Altental, near Adnet",NA,"",2,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.67,30.53,"307",195.05,"sinemurian",32098,15,47.5,41,1
-"120787",173577,"col","",13.14,47.7,"New Brücklerbruch quarry, Adnet",NA,"",2,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120789",173579,"col","",13.14,47.7,"Straßgschwandtner quarry, Adnet",NA,"",2,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120792",173582,"col","",13.14,47.7,"Melcherl quarry, Kirchholz, Adnet",NA,"",1,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120793",173583,"col","",13.14,47.7,"Adnet (oberen Unterlias)",NA,"",1,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120797",173587,"col","",13.14,47.7,"Adneth, near Hallein (GBA collection)",NA,"",3,"Sinemurian","",199.3,190.8,56577,"gp_mid",31.66,30.53,"307",195.05,"sinemurian",32099,15,47.5,41,1
-"120801",173592,"col","Saltrio",8.92,45.88,"Saltrio (Parona material)",NA,"",45,"Sinemurian","",199.3,190.8,56581,"gp_mid",27.86,31.55,"307",195.05,"sinemurian",32103,7.5,45,41,1
-"120837",173631,"col","",13.88,47.6,"Feuerkogel",NA,"",3,"Sinemurian","",199.3,190.8,56585,"gp_mid",31.95,30.09,"307",195.05,"sinemurian",32120,15,47.5,41,1
-"120838",173632,"col","Hierlatz Limestone",13.63,47.55,"Hierlatz",NA,"",2,"Sinemurian","",199.3,190.8,56585,"gp_mid",31.79,30.18,"307",195.05,"sinemurian",29695,15,47.5,41,1
-"120841",173635,"col","Hierlatz Limestone",13.65,47.57,"Hallstatt",NA,"",1,"Sinemurian","",199.3,190.8,56585,"gp_mid",31.81,30.19,"307",195.05,"sinemurian",32123,15,47.5,41,1
-"126174",181956,"col","",-69.79,-34.9,"Arroyo Las Chilcas, lower Epophioceras zone",NA,"",2,"Sinemurian","",199.3,190.8,11348,"gp_mid",-14.03,-40.31,"291",195.05,"sinemurian",5645,-16.4545,-45.3881,41,1
-"130177",188798,"col","",-2.92,50.73,"Thaumatodracon weidenrothi type locality",NA,"",1,"Sinemurian","",199.3,190.8,63390,"gp_mid",10.33,37.17,"315",195.05,"sinemurian",14108,10.6368,37.3979,41,1
-"132295",192973,"col","Charmouth Mudstone",-2.92,50.73,"Charmouth burden pile (Bastelberger collection)",NA,"",1,"Sinemurian","",199.3,190.8,65606,"gp_mid",10.33,37.17,"315",195.05,"sinemurian",14108,10.6368,37.3979,41,1
-"133768",196515,"col","",13.15,47.7,"Adnet quarry 41 (Deislbruch), Layer 10",NA,"",4,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.67,30.53,"307",195.05,"sinemurian",32098,15,47.5,41,1
-"133776",196523,"col","",13.1,47.77,"Glasenbach gorge, bed -15",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133777",196524,"col","",13.1,47.77,"Glasenbach gorge, bed -5",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133778",196525,"col","",13.1,47.77,"Glasenbach gorge, bed 1",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133779",196526,"col","",13.1,47.77,"Glasenbach gorge, bed 3",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133781",196527,"col","",13.1,47.77,"Glasenbach gorge, bed 4-5",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133782",196528,"col","",13.1,47.77,"Glasenbach gorge, bed 8",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133783",196529,"col","",13.1,47.77,"Glasenbach gorge, bed 14-15",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133784",196530,"col","",13.1,47.77,"Glasenbach gorge, bed 15",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133785",196531,"col","",13.1,47.77,"Glasenbach gorge, bed 17",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"133786",196532,"col","",13.1,47.77,"Glasenbach gorge, bed 20",NA,"",1,"Sinemurian","",199.3,190.8,66830,"gp_mid",31.71,30.6,"307",195.05,"sinemurian",35143,11.25,47.5,41,1
-"135635",200112,"col","Calcaire Nankin",-1.65,46.43,"left bank, Payré river (4.20 m)",NA,"tracksite",2,"Sinemurian","",199.3,190.8,68164,"gp_mid",13.42,33.59,"305",195.05,"sinemurian",35564,15.0409,37.126,41,1
-"135636",200113,"col","Calcaire Nankin",-1.65,46.43,"left bank, Payré river (4.50 m)",NA,"tracksite",2,"Sinemurian","",199.3,190.8,68164,"gp_mid",13.42,33.59,"305",195.05,"sinemurian",35564,15.0409,37.126,41,1
-"137995",204146,"col","Lower",-1.88,51.8,"Stowell Park borehole (O. oxynotum Zone, 1441-1458ft)",NA,"",15,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"137996",204147,"col","Lower",-1.88,51.8,"Stowell Park borehole (A. obtusum Zone, A. stellare Subzone, 1458-1512ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"137997",204148,"col","Lower",-1.88,51.8,"Stowell Park borehole (A. obtusum Zone, A. obtusum Subzone, 1512-1548ft)",NA,"",16,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"137998",204149,"col","Lower",-1.88,51.8,"Stowell Park borehole (C. turneri Zone, P. capricornoides Subzone, 1548-1578ft)",NA,"",18,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"137999",204150,"col","Lower",-1.88,51.8,"Stowell Park borehole (C. turneri Zone, M. birchi Subzone, 1578-1602ft)",NA,"",20,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"138000",204151,"col","Lower",-1.88,51.8,"Stowell Park borehole (C. turneri Zone, P. alcinoe Subzone, 1602-1632ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"138001",204152,"col","Lower",-1.88,51.8,"Stowell Park borehole (A. semicostatum Zone, E. sauzeanum Subzone, 1632-1687ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",195.05,"sinemurian",36142,8.3847,39.3998,41,1
-"139116",205673,"col","",124.57,-9.86,"Biwak Tooi",NA,"Toi",1,"Sinemurian","",199.3,190.8,70502,"gp_mid",94.59,-24.41,"680",195.05,"sinemurian",36570,98.1894,-21.6093,41,1
-"139121",205678,"col","",124.54,-9.85,"Noil Metan, between Tooi and Niki Niki",NA,"Toi",1,"Sinemurian","",199.3,190.8,70502,"gp_mid",94.58,-24.39,"680",195.05,"sinemurian",36572,98.1894,-21.6093,41,1
-"139123",205680,"col","",124.54,-9.85,"Noil Metan, between Tooi and Niki Niki",NA,"Toi",1,"Sinemurian","",199.3,190.8,70502,"gp_mid",94.58,-24.39,"680",195.05,"sinemurian",36572,98.1894,-21.6093,41,1
-"139124",205681,"col","",124.57,-9.84,"Tooi area (towards Poetain)",NA,"Toi",2,"Sinemurian","",199.3,190.8,70502,"gp_mid",94.6,-24.4,"680",195.05,"sinemurian",36573,98.1894,-21.6093,41,1
-"139625",206281,"col","Lias",-2.1,52.13,"Webb's Pit, Bow Bridge, Pershore",NA,"",1,"Sinemurian","",199.3,190.8,70814,"gp_mid",10.17,38.65,"315",195.05,"sinemurian",36704,8.3847,39.3998,41,1
-"145118",214314,"col","",63.58,34.11,"Site 649, Nalbandon River valley",NA,"",3,"Sinemurian","",199.3,190.8,73888,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",37946,83.3137,58.4189,41,1
-"145119",214315,"col","",63.58,34.11,"Site 650, Nalbandon River valley",NA,"",8,"Sinemurian","",199.3,190.8,73888,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",37946,83.3137,58.4189,41,1
-"145120",214316,"col","",63.59,34.11,"Site 1022/2, Nalbandon River valley",NA,"",9,"Sinemurian","",199.3,190.8,73888,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",37947,83.3137,58.4189,41,1
-"145121",214317,"col","",64.5,34.37,"Site 875, Sansalaghay River Valley",NA,"",0,"Sinemurian","",199.3,190.8,73888,"gp_mid",NA,NA,"coordinates not computable using this model",195.05,"sinemurian",37948,83.3137,58.4189,41,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"2543",8051,"col","Jinji",115.459999,23.24,"KHG 282, Shanlongshui, Huidong County",NA,"",1,"Sinemurian","",199.3,190.8,492,"gp_mid",137.66,36.77,"611",1,195.05,"sinemurian",1
+"5217",28935,"col","",8,48,"Engstlatt 21",NA,"",29,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",1,195.05,"sinemurian",1
+"5218",28936,"col","",8,48,"Engstlatt 22",NA,"",9,"Sinemurian","",199.3,190.8,7918,"gp_mid",19.89,37.81,"305",1,195.05,"sinemurian",1
+"5767",32014,"col","",6.283333,49.516666,"Echinoderms, Sinemurian, Ellange, Elvange, Luxemburg",NA,"",18,"Sinemurian","",199.3,190.8,8586,"gp_mid",17.73,38.65,"315",1,195.05,"sinemurian",1
+"5859",32316,"col","Broadford Beds",-5.716667,57.716667,"Southern Strath (NMS)",NA,"",2,"Sinemurian","",199.3,190.8,8703,"gp_mid",4.51,42.8,"303",1,195.05,"sinemurian",1
+"6598",33492,"col","",-4.1,52.817001,"Mochras Borehole 3, near Llanbedr, North Wales",NA,"",14,"Sinemurian","",199.3,190.8,8883,"gp_mid",8.38,38.76,"315",1,195.05,"sinemurian",1
+"6617",33516,"col","",9.95,52.317001,"Sample X/26 (99625), Mittelland canal, Sehnde, Lower Saxony",NA,"",16,"Sinemurian","",199.3,190.8,8907,"gp_mid",18.67,42.21,"315",1,195.05,"sinemurian",1
+"6618",33517,"col","",9.95,52.317001,"Sample X/28 (99626), Mittelland canal, Sehnde, Lower Saxony",NA,"",11,"Sinemurian","",199.3,190.8,8907,"gp_mid",18.67,42.21,"315",1,195.05,"sinemurian",1
+"6641",33571,"col","",-1.95,32.533001,"Bou Arfa (1), Atlas Mountains",NA,"Reef 348",2,"Sinemurian","",199.3,190.8,8925,"gp_mid",4.77,23.27,"707",1,195.05,"sinemurian",1
+"7037",34220,"col","",-137.766663,67.425003,"GSC 92559, Bug Creek Grp., Porcupine River, northern Yukon",NA,"",7,"Sinemurian","",199.3,190.8,8997,"gp_mid",-51.7,47.17,"101",1,195.05,"sinemurian",1
+"11336",42203,"col","",-1.933333,52.083332,"Evesham, Worcestershire",NA,"",3,"Sinemurian","",199.3,190.8,11186,"gp_mid",10.32,38.66,"315",1,195.05,"sinemurian",1
+"11337",42204,"col","",-3.35,51.166668,"Watchet, Somerset",NA,"",1,"Sinemurian","",199.3,190.8,11186,"gp_mid",9.79,37.46,"315",1,195.05,"sinemurian",1
+"13849",45942,"col","Imi-n-Ifri",-7.116667,31.299999,"Adrar-n-Ouglagal tracksite",NA,"",1,"Sinemurian","",199.3,190.8,12239,"gp_mid",2.54,23.84,"714",1,195.05,"sinemurian",1
+"16786",51565,"col","",137.266663,49.433334,"M39, Manoma River Section, Khabarovsk",NA,"",19,"Sinemurian","",199.3,190.8,13716,"gp_mid",175.48,58.84,"628",1,195.05,"sinemurian",1
+"17259",52260,"col","Charmouth Mudstone",-2.903611,50.737499,"lower cliff face, Charmouth (BMNH)",NA,"Scelidosaurus lectotype",2,"Sinemurian","",199.3,190.8,12214,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"17261",52262,"col","Charmouth Mudstone",-2.903611,50.737499,"upper cliff face, Charmouth (BMNH)",NA,"Scelidosaurus femur",1,"Sinemurian","",199.3,190.8,12214,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"17666",53111,"col","",-135.166672,61.666668,"GSC loc. 10243 - Laberge",NA,"",5,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.54,35.67,"123",1,195.05,"sinemurian",1
+"17669",53114,"col","",-135.683334,61.733334,"GSC loc. C-81311 - Laberge",NA,"",14,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"17670",53115,"col","",-135.683334,61.733334,"GSC loc. C-81323 - Laberge",NA,"",16,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"17684",53131,"col","",-135.166672,61.166668,"GSC loc. 10246 - Laberge",NA,"",5,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.85,35.23,"123",1,195.05,"sinemurian",1
+"17691",53163,"col","",-135.683334,61.733334,"GSC loc. C-81309 - Laberge",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"17692",53164,"col","",-135.683334,61.733334,"GSC loc. C-81310 - Laberge",NA,"",13,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"17693",53165,"col","",-135.800003,62.001945,"GSC loc. C-81317 - Glenlyon",NA,"",3,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.65,36.11,"123",1,195.05,"sinemurian",1
+"17694",53166,"col","",-135.683334,61.733334,"GSC loc. C-81322 - Laberge",NA,"",13,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"17781",53260,"col","",-135.800003,62.001945,"GSC loc. C-81319 - Glenlyon",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.65,36.11,"123",1,195.05,"sinemurian",1
+"17795",53274,"col","",-135.166672,61.666668,"GSC loc. 10244 - Laberge",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.54,35.67,"123",1,195.05,"sinemurian",1
+"17859",53387,"col","Fernie",-115.083336,49.516666,"GSC loc. 25592 - Fernie",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",1,195.05,"sinemurian",1
+"18020",53583,"col","Fernie",-115.083336,49.516666,"GSC loc. 6577 - Fernie",NA,"",5,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",1,195.05,"sinemurian",1
+"18021",53584,"col","Fernie",-115.083336,49.516666,"GSC loc. 6578 - Fernie",NA,"",4,"Sinemurian","",199.3,190.8,14361,"gp_mid",-48.77,25.68,"127",1,195.05,"sinemurian",1
+"18037",53612,"col","",-135.683334,61.733334,"GSC loc. C-81308 - Laberge",NA,"",9,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.76,35.85,"123",1,195.05,"sinemurian",1
+"18254",53874,"col","",-135.166672,61.166668,"GSC loc. 10247 - Laberge",NA,"",1,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.85,35.23,"123",1,195.05,"sinemurian",1
+"18256",53876,"col","",-135.800003,62.001945,"GSC loc. C-81316 - Glenlyon",NA,"",2,"Sinemurian","",199.3,190.8,14361,"gp_mid",-52.65,36.11,"123",1,195.05,"sinemurian",1
+"25616",67012,"col","Gurumdy",73.550003,37.783333,"Djarty-Rabat, SE-Pamir",NA,"Reef 2790",5,"Sinemurian","",199.3,190.8,19104,"gp_mid",88.01,53.31,"601",1,195.05,"sinemurian",1
+"26496",68515,"col","",-3.783333,32.150002,"Kadoussa, Atlas",NA,"",1,"Sinemurian","",199.3,190.8,19747,"gp_mid",5.77,23.83,"714",1,195.05,"sinemurian",1
+"32078",80016,"col","Calcare Massiccio",12.2,43.371944,"Calcare Massiccio of Monte Cucco",NA,"",18,"Sinemurian","",199.3,190.8,26951,"gp_mid",27.46,28.14,"307",1,195.05,"sinemurian",1
+"34681",84559,"col","Charmouth Mudstone",-2.918876,50.732075,"Black Ven landslip",NA,"landslide",1,"Sinemurian","",199.3,190.8,28369,"gp_mid",10.33,37.17,"315",1,195.05,"sinemurian",1
+"42199",96467,"col","Charmouth Mudstone",-2.90829,50.733959,"foot of Black Ven, Charmouth",NA,"",7,"Sinemurian","",199.3,190.8,31248,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"43030",97907,"col","Lias",-2.95,50.716667,"Pathologic Plesiosaur Site",NA,"",1,"Sinemurian","",199.3,190.8,33842,"gp_mid",10.32,37.15,"315",1,195.05,"sinemurian",1
+"43179",98103,"col","",-2.9,50.732498,"Black Ven ichthyosaur",NA,"",1,"Sinemurian","",199.3,190.8,33904,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"43220",98152,"col","",-2.966667,50.716667,"Pinhay Bay",NA,"",1,"Sinemurian","",199.3,190.8,33929,"gp_mid",10.3,37.15,"315",1,195.05,"sinemurian",1
+"57328",118472,"col","Charmouth Mudstone",-2.901667,50.733612,"Charmouth, E.C.H. Day collection",NA,"",3,"Sinemurian","",199.3,190.8,38162,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"58057",119286,"col","",-2.498889,51.416389,"Keynsham, near Bristol",NA,"",1,"Sinemurian","",199.3,190.8,38282,"gp_mid",10.27,37.91,"315",1,195.05,"sinemurian",1
+"60245",122159,"col","Charmouth Mudstone",-2.92,50.732498,"Lyme Regis, beach under Black Ven ",NA,"",1,"Sinemurian","",199.3,190.8,38892,"gp_mid",10.33,37.17,"315",1,195.05,"sinemurian",1
+"61041",123789,"col","Borden Island",-110.683334,78.383331,"GSCC.76362, Oyster River",NA,"",1,"Sinemurian","",199.3,190.8,39463,"gp_mid",-30.08,56.83,"106",1,195.05,"sinemurian",1
+"61042",123790,"col","Borden Island",-110.966667,78.416664,"GSC C-76353, Oyster River",NA,"",1,"Sinemurian","",199.3,190.8,39463,"gp_mid",-30.16,56.88,"106",1,195.05,"sinemurian",1
+"65265",158210,"col","",-2.92,50.732498,"0.75 miles NE of Lyme Regis",NA,"",1,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.33,37.17,"315",1,195.05,"sinemurian",1
+"66589",132601,"col","",31.063889,37.87389,"Sorkun Layla, near Bucak (Loc. No 7)",NA,"",4,"Sinemurian","",199.3,190.8,42701,"gp_mid",36.95,19.14,"504",1,195.05,"sinemurian",1
+"68659",135539,"col","",-5.06,33.200001,"Ari-bou Larfa, south of Timahdte",NA,"",1,"Sinemurian","",199.3,190.8,43337,"gp_mid",2.27,24.7,"707",1,195.05,"sinemurian",1
+"68662",135542,"col","",-7.085,31.264999,"Ounila valley, near Irheris, High Atlas",NA,"",1,"Sinemurian","",199.3,190.8,43337,"gp_mid",2.56,23.8,"714",1,195.05,"sinemurian",1
+"70360",138246,"col","",-2.938889,50.726112,"Seven Rock Point (?)",NA,"Lyme Regis",6,"Sinemurian","",199.3,190.8,44197,"gp_mid",10.32,37.16,"315",1,195.05,"sinemurian",1
+"71558",139856,"col","Charmouth Mudstone",-2.933333,50.716667,"Black Ven (Curtis coll)",NA,"",1,"Sinemurian","",199.3,190.8,45031,"gp_mid",10.33,37.16,"315",1,195.05,"sinemurian",1
+"71944",140484,"col","",-2.901667,50.733612,"Charmouth, non-specific",NA,"",0,"Sinemurian","",199.3,190.8,15587,"gp_mid",10.34,37.18,"315",1,195.05,"sinemurian",1
+"72128",140822,"col","",-1.15,46.529999,"Le Chatelard, near Bessay (Vendée)",NA,"",1,"Sinemurian","",199.3,190.8,45613,"gp_mid",13.75,33.82,"305",1,195.05,"sinemurian",1
+"73409",142711,"col","",-3.265,51.185833,"Lilstock",NA,"Excalibosaurus costini type locality",1,"Sinemurian","",199.3,190.8,46310,"gp_mid",9.84,37.5,"315",1,195.05,"sinemurian",1
+"73410",142712,"col","",-3.330278,51.183613,"Watchet",NA,"Excalibosaurus costini",1,"Sinemurian","",199.3,190.8,46310,"gp_mid",9.8,37.48,"315",1,195.05,"sinemurian",1
+"77491",148848,"col","",8.029,47.507999,"Frick, Kanton Aargau (PIMUZ)",NA,"",3,"Sinemurian","",199.3,190.8,47740,"gp_mid",20.19,37.38,"305",1,195.05,"sinemurian",1
+"77979",149425,"col","",6.187,48.951,"Louvigny b TGV excavation",NA,"",2,"Sinemurian","",199.3,190.8,47871,"gp_mid",17.98,38.12,"315",1,195.05,"sinemurian",1
+"78635",150392,"col","Jinji",116.010002,23.48,"Huizhai, Jiexi",NA,"",1,"Sinemurian","",199.3,190.8,48118,"gp_mid",138.27,37.05,"611",1,195.05,"sinemurian",1
+"81597",156323,"col","Menkoushan",117.470001,28.635,"Meixi, Yiyang County",NA,"",5,"Sinemurian","",199.3,190.8,51213,"gp_mid",139.5,42.28,"611",1,195.05,"sinemurian",1
+"82433",158209,"col","",-2.09,51.907001,"Great Western Railway cutting, Cheltenham",NA,"",1,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.3,38.46,"315",1,195.05,"sinemurian",1
+"82436",158213,"col","",-2.933333,50.716667,"Lyme Regis unspecified (OUM)",NA,"",2,"Sinemurian","",199.3,190.8,51972,"gp_mid",10.33,37.16,"315",1,195.05,"sinemurian",1
+"82884",159017,"col","",32.7766,40.064201,"Yakacik Valley",NA,"",14,"Sinemurian","",199.3,190.8,52035,"gp_mid",43.45,42.96,"510",1,195.05,"sinemurian",1
+"83049",159192,"col","Bocchigliero",16.607,39.451,"S.S. Silana di Rossano",NA,"",1,"Sinemurian","",199.3,190.8,52076,"gp_mid",26.88,23.04,"307",1,195.05,"sinemurian",1
+"84192",160783,"col","",2.792,43.046001,"Petit Guimont, bed 21, Fontjoncouse",NA,"",3,"Sinemurian","",199.3,190.8,52216,"gp_mid",18.48,31.77,"305",1,195.05,"sinemurian",1
+"89605",171322,"col","",-2.44,51.290001,"Radstock (Tutcher Coll.)",NA,"",1,"Sinemurian","",199.3,190.8,52872,"gp_mid",10.38,37.81,"315",1,195.05,"sinemurian",1
+"96622",188798,"col","",-2.92,50.732498,"Thaumatodracon weidenrothi type locality",NA,"",1,"Sinemurian","",199.3,190.8,63390,"gp_mid",10.33,37.17,"315",1,195.05,"sinemurian",1
+"97954",192973,"col","Charmouth Mudstone",-2.925,50.73,"Charmouth burden pile (Bastelberger collection)",NA,"",1,"Sinemurian","",199.3,190.8,65606,"gp_mid",10.33,37.17,"315",1,195.05,"sinemurian",1
+"100205",200112,"col","Calcaire Nankin",-1.648094,46.431625,"left bank, Payré river (4.20 m)",NA,"tracksite",2,"Sinemurian","",199.3,190.8,68164,"gp_mid",13.42,33.59,"305",1,195.05,"sinemurian",1
+"100206",200113,"col","Calcaire Nankin",-1.648094,46.431625,"left bank, Payré river (4.50 m)",NA,"tracksite",2,"Sinemurian","",199.3,190.8,68164,"gp_mid",13.42,33.59,"305",1,195.05,"sinemurian",1
+"102188",204146,"col","Lower",-1.88,51.805,"Stowell Park borehole (O. oxynotum Zone, 1441-1458ft)",NA,"",15,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102189",204147,"col","Lower",-1.88,51.805,"Stowell Park borehole (A. obtusum Zone, A. stellare Subzone, 1458-1512ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102190",204148,"col","Lower",-1.88,51.805,"Stowell Park borehole (A. obtusum Zone, A. obtusum Subzone, 1512-1548ft)",NA,"",16,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102191",204149,"col","Lower",-1.88,51.805,"Stowell Park borehole (C. turneri Zone, P. capricornoides Subzone, 1548-1578ft)",NA,"",18,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102192",204150,"col","Lower",-1.88,51.805,"Stowell Park borehole (C. turneri Zone, M. birchi Subzone, 1578-1602ft)",NA,"",20,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102193",204151,"col","Lower",-1.88,51.805,"Stowell Park borehole (C. turneri Zone, P. alcinoe Subzone, 1602-1632ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"102194",204152,"col","Lower",-1.88,51.805,"Stowell Park borehole (A. semicostatum Zone, E. sauzeanum Subzone, 1632-1687ft)",NA,"",24,"Sinemurian","",199.3,190.8,69925,"gp_mid",10.51,38.42,"315",1,195.05,"sinemurian",1
+"103405",206281,"col","Lias",-2.103889,52.125278,"Webb's Pit, Bow Bridge, Pershore",NA,"",1,"Sinemurian","",199.3,190.8,70814,"gp_mid",10.17,38.65,"315",1,195.05,"sinemurian",1

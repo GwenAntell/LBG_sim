@@ -1,559 +1,456 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"311",1412,"col","Kap Leslie",-21.97,70.48,"Milne Land M25/5",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"312",1469,"col","Kap Leslie",-21.97,70.48,"Milne Land M25/2",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"314",1471,"col","Kap Leslie",-21.97,70.48,"Milne Land M28/10",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"315",1468,"col","Kap Leslie",-21.97,70.48,"Milne Land M40/1",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"330",1489,"col","Kap Leslie",-21.97,70.48,"Milne Land CH234834",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"331",1490,"col","Kap Leslie",-21.97,70.48,"Milne Land M 28/1",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"332",1491,"col","Kap Leslie",-21.97,70.48,"Milne Land M 28/5",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"333",1492,"col","Kap Leslie",-21.97,70.48,"Milne Land M 28/2",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"334",1493,"col","Kap Leslie",-21.97,70.48,"Milne Land M 28/4",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"337",1406,"col","Kap Leslie",-21.97,70.48,"Milne Land M25/3",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"338",1405,"col","Kap Leslie",-21.97,70.48,"Milne Land M25/4",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"339",1472,"col","Kap Leslie",-21.97,70.48,"Milne Land M41",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"347",1503,"col","Kap Leslie",-21.97,70.48,"Milne Land CH/8",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"349",1509,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH 21c-d",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"369",1470,"col","Kap Leslie",-21.97,70.48,"Milne Land M25/1",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"370",1464,"col","Kap Leslie",-21.97,70.48,"Milne Land M40/2",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"371",1465,"col","Kap Leslie",-21.97,70.48,"Milne Land M40/3",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"372",1466,"col","Kap Leslie",-21.97,70.48,"Milne Land M40/4",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"373",1467,"col","Kap Leslie",-21.97,70.48,"Milne Land M40/5",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"376",1494,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/1",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"377",1495,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/2",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"378",1497,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/3",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"379",1499,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/4",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"380",1500,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/5",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"381",1501,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/6",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"382",1502,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/7",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"383",1498,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/9",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"384",1496,"col","Kap Leslie",-21.97,70.48,"Milne Land M31/10",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",17.16,47.18,"102",160.4,"oxfordian",142,10.6717,45.4697,34,1
-"430",1564,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH40",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"448",1601,"col","Osmington Oolite",-2.28,50.8,"Dorset BR55",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"1223",2552,"col","Madbi",48.56,14.27,"Al Ma'abir I-2",NA,"",7,"Oxfordian","",163.5,157.3,74,"gp_mid",43.28,-17.61,"503",160.4,"oxfordian",368,40.0678,-19.201,34,1
-"1225",2554,"col","Madbi",48.57,14.27,"Al Ma'abir III-1",NA,"",3,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",160.4,"oxfordian",369,40.0678,-19.201,34,1
-"1226",2555,"col","Madbi",48.57,14.27,"Al Ma'abir III-2",NA,"",22,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",160.4,"oxfordian",369,40.0678,-19.201,34,1
-"1227",2556,"col","Madbi",48.57,14.27,"Al Ma'abir III-3",NA,"",16,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",160.4,"oxfordian",369,40.0678,-19.201,34,1
-"1228",2557,"col","Madbi",48.57,14.27,"Al Ma'abir III-4",NA,"",15,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",160.4,"oxfordian",369,40.0678,-19.201,34,1
-"1263",2592,"col","Madbi",48.45,14.32,"Jebel Billum IV-1",NA,"",4,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1264",2593,"col","Madbi",48.45,14.32,"Jebel Billum IV-2",NA,"",7,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1265",2594,"col","Madbi",48.45,14.32,"Jebel Billum IV-3",NA,"",4,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1266",2595,"col","Madbi",48.45,14.32,"Jebel Billum IV-4",NA,"",11,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1267",2596,"col","Madbi",48.45,14.32,"Jebel Billum IV-5",NA,"",12,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1268",2597,"col","Madbi",48.45,14.32,"Jebel Billum IV-6",NA,"",18,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",160.4,"oxfordian",377,40.0678,-19.201,34,1
-"1311",2650,"col","Lower Calcareous Grit",-0.29,54.21,"Yorkshire FB 6",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2687",1563,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH28b",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2688",1565,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH31",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2689",1556,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH23a",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2690",1561,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH27",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2691",1560,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH26",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2692",1559,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH25",NA,"",40,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2693",1558,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH24",NA,"",40,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2694",1573,"col","Sandsfoot Grit",-2.45,50.6,"Dorset SCc",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2695",1562,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH28a",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2698",1567,"col","Sandsfoot Grit",-2.45,50.6,"Dorset SCa",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2701",1568,"col","Sandsfoot Grit",-2.45,50.6,"Dorset SCb",NA,"",13,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2702",1504,"col","Osmington Oolite",-2.28,50.8,"Dorset BH1",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2703",1505,"col","Osmington Oolite",-2.28,50.8,"Dorset BH6",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2704",1506,"col","Osmington Oolite",-2.28,50.8,"Dorset BH16",NA,"",3,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2705",1507,"col","Osmington Oolite",-2.28,50.8,"Dorset BH18",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2706",1557,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH23b",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2707",1508,"col","Trigonia clavellata",-2.28,50.8,"Dorset Bh21a",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2711",1914,"col","Osmington Oolite",-2.45,50.6,"Dorset EF22",NA,"",31,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2712",1915,"col","Osmington Oolite",-2.45,50.6,"Dorset EF 21",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2713",1603,"col","Osmington Oolite",-2.28,50.8,"Dorset BR37",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2714",2656,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII1",NA,"",3,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2715",2658,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII4",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2716",2666,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII11",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2717",2667,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII14",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2718",2665,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII10",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2719",2659,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII5",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2720",2663,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII8",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2721",2664,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII9",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2722",2668,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII17",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2723",2670,"col","Coralline Oolite",-0.43,54.23,"Yorskhire TBII21",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2724",2669,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII18",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2725",2662,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII7",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2726",2660,"col","Coralline Oolite",-1.08,53.97,"Yorkshire TBI2",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",16.13,36.62,"315",160.4,"oxfordian",997,15.4546,36.2732,34,1
-"2727",2657,"col","Coralline Oolite",-0.43,54.23,"Yorkshire TBII3",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",160.4,"oxfordian",996,15.4546,36.2732,34,1
-"2729",2086,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC16",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2730",2092,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC11",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2732",2093,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC9",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2733",2095,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC7",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2734",2096,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC10",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2735",2098,"col","Trigonia clavellata",-2.45,50.6,"Dorset SC13",NA,"",18,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",160.4,"oxfordian",993,15.1718,30.6724,34,1
-"2736",1611,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR47",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2737",1605,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR39",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2738",1608,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR44",NA,"",51,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2739",1609,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR45",NA,"",34,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2740",1607,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR43",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2741",1604,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR38",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2763",1920,"col","Lower Calcareous Grit",-1.25,51.75,"Oxfordshire AS",NA,"",23,"Oxfordian","",163.5,157.3,41,"gp_mid",16.37,34.41,"315",160.4,"oxfordian",998,16.6156,33.9605,34,1
-"2764",1917,"col","Nothe Grits",-2.37,50.63,"Dorset OSM6",NA,"",13,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",160.4,"oxfordian",999,15.1718,30.6724,34,1
-"2822",2653,"col","Coralline Oolite",-0.29,54.21,"Yorkshire FB29",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2823",2654,"col","Coralline Oolite",-0.29,54.21,"Yorkshire FB30",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2824",2652,"col","Coralline Oolite",-0.29,54.21,"Yorkshire FB27",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2825",2108,"col","Passage Beds",-0.29,54.21,"Yorkshire FB9",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2826",2111,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB17",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2827",2106,"col","Passage Beds",-0.29,54.21,"Yorkshire FB10",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2828",2143,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB25",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2829",2105,"col","Passage Beds",-0.29,54.21,"Yorkshire FB8",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2830",2142,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB24",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2831",2136,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB18",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2832",2139,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB20",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2833",2651,"col","Coralline Oolite",-0.29,54.21,"Yorkshire FB26",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2834",2649,"col","Lower Calcareous Grit",-0.29,54.21,"Yorkshire FB5",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2835",2107,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB12",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2836",2137,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB16",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2837",2138,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB19",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2838",2110,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB13",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2839",2140,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB21",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2840",2109,"col","Hambleton Oolite",-0.29,54.21,"Yorkshire FB11",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2841",2101,"col","Lower Calcareous Grit",-0.29,54.21,"Yorkshire FB2",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2842",2103,"col","Lower Calcareous Grit",-0.29,54.21,"Yorkshire FB4",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2843",2144,"col","Malton Oolite",-0.29,54.21,"Yorkshire FB31",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2844",2141,"col","Middle Calcareous Grit",-0.29,54.21,"Yorkshire FB22",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2845",2104,"col","Passage Beds",-0.29,54.21,"Yorkshire FB7",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",160.4,"oxfordian",384,15.4546,36.2732,34,1
-"2846",1606,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR40",NA,"",36,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2847",1599,"col","Osmington Oolite",-2.28,50.8,"Dorset BH4",NA,"",23,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2848",1899,"col","Nothe Grits",-2.28,50.8,"Dorset BC5",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2849",1900,"col","Nothe Grits",-2.28,50.8,"Dorset BC10",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2850",1901,"col","Nothe Grits",-2.28,50.8,"Dorset BC13",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2851",1904,"col","Nothe Grits",-2.28,50.8,"Dorset BC15",NA,"",28,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2852",1906,"col","Osmington Oolite",-2.37,50.63,"Dorset OS7",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",160.4,"oxfordian",999,15.1718,30.6724,34,1
-"2853",1907,"col","Osmington Oolite",-2.37,50.63,"Dorset OS9",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",160.4,"oxfordian",999,15.1718,30.6724,34,1
-"2854",1909,"col","Osmington Oolite",-2.37,50.63,"Dorset OS11",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",160.4,"oxfordian",999,15.1718,30.6724,34,1
-"2855",1602,"col","Osmington Oolite",-2.28,50.8,"Dorset BR35",NA,"",27,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2858",1555,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH22",NA,"",16,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2859",1903,"col","Nothe Grits",-2.28,50.8,"Dorset BC14",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2868",1598,"col","Osmington Oolite",-2.28,50.8,"Dorset BH17",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"2869",1600,"col","Trigonia clavellata",-2.28,50.8,"Dorset BH17",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"3657",1610,"col","Trigonia clavellata",-2.28,50.8,"Dorset BR46",NA,"",21,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",160.4,"oxfordian",143,15.1718,30.6724,34,1
-"3678",8807,"col","",5.58,48.93,"Senonville 2",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",22.04,32.29,"315",160.4,"oxfordian",1192,20.3502,32.5457,34,1
-"4898",12927,"col","",8,47,"Müllingen",NA,"",4,"Oxfordian","",163.5,157.3,4282,"gp_mid",24.31,30.67,"305",160.4,"oxfordian",1479,24.268,31.2242,34,1
-"4918",12979,"col","",6,47,"Arc-sous-Montenot",NA,"",2,"Oxfordian","",163.5,157.3,4282,"gp_mid",22.75,30.43,"305",160.4,"oxfordian",1487,24.268,31.2242,34,1
-"4919",12980,"col","",6,47,"Montmarlon",NA,"",3,"Oxfordian","",163.5,157.3,4282,"gp_mid",22.75,30.43,"305",160.4,"oxfordian",1487,24.268,31.2242,34,1
-"5351",13953,"col","Tataouine",10.47,33,"f3/4/4 (Profil 14, Faljet Jdar/Ed-Dghaghra)",NA,"",27,"Oxfordian","",163.5,157.3,6119,"gp_mid",20.91,13.8,"715",160.4,"oxfordian",1620,16.0802,11.1417,34,1
-"13020",24494,"col","",6,47,"Jura mountains (2)",NA,"",11,"Oxfordian","",163.5,157.3,6888,"gp_mid",22.75,30.43,"305",160.4,"oxfordian",1487,24.268,31.2242,34,1
-"13021",24495,"col","",6.22,47.15,"Charbonnieres-les-Sapins, Jura",24494,"",3,"Oxfordian","",163.5,157.3,6888,"gp_mid",22.89,30.6,"305",160.4,"oxfordian",2430,24.268,31.2242,34,1
-"13022",24496,"col","",5.92,46.68,"Chatelneuf, Jura",24494,"",7,"Oxfordian","",163.5,157.3,6888,"gp_mid",22.75,30.11,"305",160.4,"oxfordian",2431,24.268,31.2242,34,1
-"13023",24497,"col","",5.5,47.1,"Dole, Jura",24494,"",1,"Oxfordian","",163.5,157.3,6888,"gp_mid",22.34,30.47,"305",160.4,"oxfordian",2432,21.5721,30.2015,34,1
-"13024",24498,"col","",6.45,47.4,"L'Hopital-Saint-Lieffroy, Jura",24494,"",3,"Oxfordian","",163.5,157.3,6888,"gp_mid",23.02,30.88,"305",160.4,"oxfordian",2433,24.268,31.2242,34,1
-"21204",36421,"col","",38.51,-6.27,"Cox - 111 (E. Tanganyika)",NA,"",4,"Oxfordian","",163.5,157.3,9748,"gp_mid",31.32,-32.8,"701",160.4,"oxfordian",4236,25.7606,-35.0345,34,1
-"21205",36422,"col","",38.52,-6.28,"Cox - 112 (E. Tanganyika)",NA,"",1,"Oxfordian","",163.5,157.3,9748,"gp_mid",31.32,-32.81,"701",160.4,"oxfordian",4237,25.7606,-35.0345,34,1
-"21248",36474,"col","",41.2,3.87,"Cox - 146 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.73,-23.35,"709",160.4,"oxfordian",4259,33.0464,-24.4362,34,1
-"21249",36475,"col","",41.17,3.87,"Cox - 147 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.69,-23.34,"709",160.4,"oxfordian",4260,33.0464,-24.4362,34,1
-"21250",36476,"col","",41.2,3.9,"Cox - 148 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.74,-23.32,"709",160.4,"oxfordian",4261,33.0464,-24.4362,34,1
-"21251",36477,"col","",41.2,3.88,"Cox - 149 (N.E. Kenya)",NA,"",6,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.73,-23.34,"709",160.4,"oxfordian",4262,33.0464,-24.4362,34,1
-"21252",36478,"col","",41.22,3.85,"Cox - 150 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.74,-23.37,"709",160.4,"oxfordian",4263,33.0464,-24.4362,34,1
-"21253",36479,"col","",40.72,2.52,"Cox - 151 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.81,-24.51,"709",160.4,"oxfordian",4264,32.3264,-26.8505,34,1
-"21254",36480,"col","",40.77,2.47,"Cox - 152 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.85,-24.58,"709",160.4,"oxfordian",4265,32.3264,-26.8505,34,1
-"21255",36481,"col","",40.65,2.6,"Cox - 153 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.77,-24.41,"709",160.4,"oxfordian",4266,32.3264,-26.8505,34,1
-"21256",36482,"col","",40.53,3.38,"Cox - 154 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.89,-23.63,"709",160.4,"oxfordian",4267,32.3264,-26.8505,34,1
-"21257",36483,"col","",40.48,3.37,"Cox - 155 (N.E. Kenya)",NA,"",14,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.83,-23.63,"709",160.4,"oxfordian",4268,32.3264,-26.8505,34,1
-"21258",36484,"col","",40.75,3.4,"Cox - 156 (N.E. Kenya)",NA,"",9,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.12,-23.67,"709",160.4,"oxfordian",4269,32.3264,-26.8505,34,1
-"21259",36485,"col","",40.93,3.38,"Cox - 157 (N.E. Kenya)",NA,"",13,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.3,-23.74,"709",160.4,"oxfordian",4270,32.3264,-26.8505,34,1
-"21260",36486,"col","",40.52,3.34,"Cox - 158 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.85,-23.67,"709",160.4,"oxfordian",4271,32.3264,-26.8505,34,1
-"21261",36487,"col","",40.97,3.43,"Cox - 159 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.35,-23.7,"709",160.4,"oxfordian",4272,32.3264,-26.8505,34,1
-"21262",36488,"col","",40.59,3.42,"Cox - 160 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.96,-23.61,"709",160.4,"oxfordian",4273,32.3264,-26.8505,34,1
-"21263",36489,"col","",40.88,2.37,"Cox - 161 (N.E. Kenya)",NA,"",1,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.94,-24.7,"709",160.4,"oxfordian",4274,32.3264,-26.8505,34,1
-"21264",36490,"col","",40.82,2.48,"Cox - 162 (N.E. Kenya)",NA,"",1,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.91,-24.57,"709",160.4,"oxfordian",4275,32.3264,-26.8505,34,1
-"21299",36532,"col","Sundance",-108,44,"Tancredia transversa ASSEMBLAGE",NA,"",3,"Oxfordian","",163.5,157.3,9775,"gp_mid",-37.78,31.16,"101",160.4,"oxfordian",4284,-42.5199,30.92,34,1
-"22294",37882,"col","Suwa",92,33.33,"Tanggula Mountains, Yanshiping Section, Suwa Formation",NA,"",9,"Oxfordian","",163.5,157.3,10105,"gp_mid",100.02,25.28,"612",160.4,"oxfordian",4584,104.7206,46.1329,34,1
-"22302",37890,"col","Suwa",91.33,33.33,"Tanggula Mountains, Quemuoco Section, Suwa Formation",NA,"",3,"Oxfordian","",163.5,157.3,10105,"gp_mid",99.45,25.08,"612",160.4,"oxfordian",4589,100.4001,45.1911,34,1
-"22320",37915,"col","Suwa",92,33.33,"Tanggula Mountains, H 67, Suwa Formation",NA,"",1,"Oxfordian","",163.5,157.3,10105,"gp_mid",100.02,25.28,"612",160.4,"oxfordian",4584,104.7206,46.1329,34,1
-"22323",37918,"col","Suwa",91.83,33.33,"Tanggula Mountains, Wenquan Section, Suwa Formation",NA,"",1,"Oxfordian","",163.5,157.3,10105,"gp_mid",99.88,25.23,"612",160.4,"oxfordian",4595,100.4001,45.1911,34,1
-"22329",37924,"col","Suwa",91.25,33.33,"Tanggula Mountains, H 109, Suwa Formation",NA,"",1,"Oxfordian","",163.5,157.3,10105,"gp_mid",99.38,25.06,"612",160.4,"oxfordian",4599,100.4001,45.1911,34,1
-"22330",37925,"col","Suwa",91.83,33.33,"Tanggula Mountains, Y 217-8, Suwa Formation",NA,"",1,"Oxfordian","",163.5,157.3,10105,"gp_mid",99.88,25.23,"612",160.4,"oxfordian",4595,100.4001,45.1911,34,1
-"22331",37926,"col","Suwa",91.83,33.33,"Tanggula Mountains, Y 217-9, Suwa Formation",NA,"",1,"Oxfordian","",163.5,157.3,10105,"gp_mid",99.88,25.23,"612",160.4,"oxfordian",4595,100.4001,45.1911,34,1
-"22694",38492,"col","Ampthill Clay",-0.33,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Ampthill Clay",NA,"",3,"Oxfordian","",163.5,157.3,10298,"gp_mid",16.75,36.22,"315",160.4,"oxfordian",4704,16.6156,33.9605,34,1
-"23721",39901,"col","Yambarazaka",136.75,36.17,"Izumi (Kuzuryu) Area, Yambarazaka Formation, Honshu",NA,"",4,"Oxfordian","",163.5,157.3,10664,"gp_mid",148.49,53.65,"610",160.4,"oxfordian",4950,160.9135,50.535,34,1
-"24183",40610,"col","Yambarazaka",133.5,35.07,"Nishidani Area, Yambarazaka Formation, Honshu",NA,"",1,"Oxfordian","",163.5,157.3,10664,"gp_mid",144.79,51.87,"610",160.4,"oxfordian",5118,160.9135,50.535,34,1
-"24594",41190,"col","Buya",125,-2,"Unit 3 of the Buya Formation in Indonesia",NA,"",38,"Oxfordian","",163.5,157.3,11078,"gp_mid",115.09,-32.78,"684",160.4,"oxfordian",5219,115.3606,-27.5832,34,1
-"24777",41434,"col","L`Ammonitico Rosso Inférieur",-0.92,35.68,"Bou Rheddou, a 1",NA,"Formations 7 & 8 d`Arkell & Busson",2,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"25577",42341,"col","",-1.7,51.62,"Highworth, Wiltshire",NA,"",0,"Oxfordian","",163.5,157.3,11186,"gp_mid",16.06,34.24,"315",160.4,"oxfordian",5556,16.6156,33.9605,34,1
-"25578",42342,"col","",-1.7,51.62,"Highworth, Wiltshire",NA,"",2,"Oxfordian","",163.5,157.3,11186,"gp_mid",16.06,34.24,"315",160.4,"oxfordian",5556,16.6156,33.9605,34,1
-"27771",45045,"col","L`Ammonitico Rosso Inférieur",-0.92,35.68,"Bou Rheddou, a 2",NA,"Formations 7 & 8 d`Arkell & Busson",5,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27772",45046,"col","L`Ammonitico Rosso Inférieur",-0.92,35.68,"Bou Rheddou, a 3",NA,"Formations 7 & 8 d`Arkell & Busson",2,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27773",45047,"col","L`Ammonitico Rosso Inférieur",-0.92,35.68,"Bou Rheddou, a 4",NA,"Formations 7 & 8 d`Arkell & Busson",5,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27774",45048,"col","L `Ammonitico Rosso Inférieur",-0.92,35.68,"Bou Rheddou, a 5",NA,"Formations 7 & 8 d`Arkell & Busson",8,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27775",45049,"col","L`Ammonitico Rosso Supérieur",-0.92,35.68,"Bou Rheddou, b 1",NA,"Formation 5 d`Arkell & Busson",2,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27776",45050,"col","L`Ammonitico Rosso Supérieur",-0.92,35.68,"Bou Rheddou, b 2",NA,"Formation 5 d`Arkell & Busson",6,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"27777",45051,"col","L ´Ammonitico Rosso Supérieur",-0.92,35.68,"Bou Rheddou, b 4",NA,"Formation 5 d`Arell & Busson",3,"Oxfordian","",163.5,157.3,11003,"gp_mid",NA,NA,"coordinates not computable using this model",160.4,"oxfordian",5278,8.4671,17.4481,34,1
-"28178",45562,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H1)",NA,"",28,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28179",45563,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H1)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28184",45568,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28185",45569,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28186",45570,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28187",45571,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28188",45572,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28189",45573,"col","Hanifa",46.28,23.9,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",160.4,"oxfordian",6369,40.4051,-8.6054,34,1
-"28367",45759,"col","Hanifa",46.85,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",24,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",160.4,"oxfordian",6468,39.4591,-10.9251,34,1
-"28398",45795,"col","Hanifa",46.85,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",160.4,"oxfordian",6468,39.4591,-10.9251,34,1
-"28419",45814,"col","Hanifa",46.85,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",160.4,"oxfordian",6468,39.4591,-10.9251,34,1
-"28420",45815,"col","Hanifa",46.85,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",160.4,"oxfordian",6468,39.4591,-10.9251,34,1
-"28421",45816,"col","Hanifa",46.85,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",160.4,"oxfordian",6468,39.4591,-10.9251,34,1
-"28423",45818,"col","Hanifa",46.53,23.08,"Shaqra Group (Hanifa Fm.)",NA,"",30,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",160.4,"oxfordian",6497,39.4591,-10.9251,34,1
-"28476",45896,"col","Hanifa",46.53,23.08,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",160.4,"oxfordian",6497,39.4591,-10.9251,34,1
-"28482",45902,"col","Hanifa",46.53,23.08,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",160.4,"oxfordian",6497,39.4591,-10.9251,34,1
-"28483",45903,"col","Hanifa",46.53,23.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",160.4,"oxfordian",6497,39.4591,-10.9251,34,1
-"28484",45904,"col","Hanifa",46.63,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",160.4,"oxfordian",6533,39.4591,-10.9251,34,1
-"28485",45905,"col","Hanifa",46.63,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",160.4,"oxfordian",6533,39.4591,-10.9251,34,1
-"28486",45906,"col","Hanifa",46.63,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.28,-9.64,"503",160.4,"oxfordian",6534,39.4591,-10.9251,34,1
-"28487",45907,"col","Hanifa",46.63,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",160.4,"oxfordian",6533,39.4591,-10.9251,34,1
-"28488",45908,"col","Hanifa",46.63,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",160.4,"oxfordian",6533,39.4591,-10.9251,34,1
-"28489",45909,"col","Hanifa",46.63,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",160.4,"oxfordian",6533,39.4591,-10.9251,34,1
-"28490",45910,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",10,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28491",45911,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28493",45913,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28494",45914,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28548",45978,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28549",45979,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28550",45980,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28551",45981,"col","Hanifa",46.37,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",160.4,"oxfordian",6535,39.4591,-10.9251,34,1
-"28552",45982,"col","Hanifa",46.95,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",160.4,"oxfordian",6548,42.7618,-12.163,34,1
-"28553",45991,"col","Hanifa",46.95,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",160.4,"oxfordian",6548,42.7618,-12.163,34,1
-"28554",45992,"col","Hanifa",46.95,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",160.4,"oxfordian",6548,42.7618,-12.163,34,1
-"28555",46000,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28556",46002,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28557",46003,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28558",46004,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28559",46005,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28560",46006,"col","Hanifa",45.9,22.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",160.4,"oxfordian",6549,39.4591,-10.9251,34,1
-"28561",46007,"col","Hanifa",46.13,21.83,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",160.4,"oxfordian",6550,39.4591,-10.9251,34,1
-"28562",46008,"col","Hanifa",46.13,21.83,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",160.4,"oxfordian",6550,39.4591,-10.9251,34,1
-"28563",46009,"col","Hanifa",46.13,21.83,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",160.4,"oxfordian",6550,39.4591,-10.9251,34,1
-"28564",46010,"col","Hanifa",46.13,21.83,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",160.4,"oxfordian",6550,39.4591,-10.9251,34,1
-"28565",46011,"col","Hanifa",45.63,21.58,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.22,-9.78,"503",160.4,"oxfordian",6551,39.4591,-10.9251,34,1
-"28566",46012,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28567",46014,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28568",46015,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28569",46016,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28570",46017,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28571",46018,"col","Hanifa",45.68,21.08,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",160.4,"oxfordian",6552,38.4982,-13.2418,34,1
-"28572",46020,"col","Hanifa",46.68,24.08,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",160.4,"oxfordian",6553,40.4051,-8.6054,34,1
-"28573",46021,"col","Hanifa",46.68,24.08,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",160.4,"oxfordian",6553,40.4051,-8.6054,34,1
-"28574",46023,"col","Hanifa",46.68,24.08,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",160.4,"oxfordian",6553,40.4051,-8.6054,34,1
-"28575",46024,"col","Hanifa",46.68,24.08,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",160.4,"oxfordian",6553,40.4051,-8.6054,34,1
-"28576",46030,"col","Hanifa",46.78,24.27,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.18,-7.64,"503",160.4,"oxfordian",6554,40.4051,-8.6054,34,1
-"28577",46031,"col","Hanifa",45.95,24.52,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",160.4,"oxfordian",6555,40.4051,-8.6054,34,1
-"28584",46046,"col","Hanifa",45.95,24.52,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",160.4,"oxfordian",6555,40.4051,-8.6054,34,1
-"28585",46047,"col","Hanifa",45.95,24.52,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",160.4,"oxfordian",6555,40.4051,-8.6054,34,1
-"28586",46048,"col","Hanifa",45.95,24.52,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",160.4,"oxfordian",6555,40.4051,-8.6054,34,1
-"28587",46049,"col","Hanifa",45.95,24.52,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",160.4,"oxfordian",6555,40.4051,-8.6054,34,1
-"28588",46050,"col","Hanifa",46,24.55,"Shaqra Group (Hanifa Fm.)",NA,"",7,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.6,-7.13,"503",160.4,"oxfordian",6557,40.4051,-8.6054,34,1
-"28589",46051,"col","Hanifa",46,24.55,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.6,-7.13,"503",160.4,"oxfordian",6557,40.4051,-8.6054,34,1
-"28590",46052,"col","Hanifa",46,24.83,"Shaqra Group (Hanifa Fm.)",NA,"Wadi Hanifa Sud",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",160.4,"oxfordian",6558,40.4051,-8.6054,34,1
-"28591",46053,"col","Hanifa",46,24.83,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",160.4,"oxfordian",6558,40.4051,-8.6054,34,1
-"28592",46054,"col","Hanifa",46,24.83,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",160.4,"oxfordian",6558,40.4051,-8.6054,34,1
-"28593",46055,"col","Hanifa",46,24.83,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",160.4,"oxfordian",6558,40.4051,-8.6054,34,1
-"28594",46056,"col","Hanifa",46.15,24.95,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",160.4,"oxfordian",6559,40.4051,-8.6054,34,1
-"28595",46057,"col","Hanifa",46.15,24.95,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",160.4,"oxfordian",6559,40.4051,-8.6054,34,1
-"28596",46058,"col","Hanifa",46.15,24.95,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",160.4,"oxfordian",6559,40.4051,-8.6054,34,1
-"28597",46059,"col","Hanifa",46.15,24.95,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",160.4,"oxfordian",6559,40.4051,-8.6054,34,1
-"28598",46060,"col","Hanifa",46.15,24.95,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",160.4,"oxfordian",6559,40.4051,-8.6054,34,1
-"28599",46061,"col","Hanifa",46.22,25.02,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",160.4,"oxfordian",6560,40.4051,-8.6054,34,1
-"28600",46062,"col","Hanifa",46.22,25.02,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",160.4,"oxfordian",6560,40.4051,-8.6054,34,1
-"28601",46063,"col","Hanifa",46.22,25.02,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",160.4,"oxfordian",6560,40.4051,-8.6054,34,1
-"28602",46064,"col","Hanifa",46.22,25.02,"Shaqra Group (Hanifa Fm.)",NA,"",20,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",160.4,"oxfordian",6560,40.4051,-8.6054,34,1
-"28603",46065,"col","Hanifa",46.22,25.02,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",160.4,"oxfordian",6560,40.4051,-8.6054,34,1
-"28818",46290,"col","Hanifa",46.15,25.17,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",160.4,"oxfordian",6660,40.4051,-8.6054,34,1
-"28820",46292,"col","Hanifa",46.15,25.17,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",160.4,"oxfordian",6660,40.4051,-8.6054,34,1
-"28821",46293,"col","Hanifa",46.15,25.17,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",160.4,"oxfordian",6660,40.4051,-8.6054,34,1
-"28822",46294,"col","Hanifa",46.15,25.17,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",160.4,"oxfordian",6660,40.4051,-8.6054,34,1
-"28824",46296,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",28,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28827",46299,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28828",46300,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28829",46301,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28830",46302,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",7,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28831",46303,"col","Hanifa",45.67,25.63,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",160.4,"oxfordian",6663,40.4051,-8.6054,34,1
-"28832",46304,"col","Hanifa",45.17,25.83,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.35,-5.66,"503",160.4,"oxfordian",6666,40.4051,-8.6054,34,1
-"28833",46305,"col","Hanifa",45.17,25.83,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.35,-5.66,"503",160.4,"oxfordian",6666,40.4051,-8.6054,34,1
-"28835",46307,"col","Hanifa",45.17,26.03,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",160.4,"oxfordian",6668,40.4051,-8.6054,34,1
-"28837",46309,"col","Hanifa",45.17,26.03,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",160.4,"oxfordian",6668,40.4051,-8.6054,34,1
-"28838",46310,"col","Hanifa",45.17,26.03,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",160.4,"oxfordian",6668,40.4051,-8.6054,34,1
-"28840",46312,"col","Hanifa",45.17,26.03,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",160.4,"oxfordian",6668,40.4051,-8.6054,34,1
-"28841",46313,"col","Hanifa",45,26.33,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.39,-5.14,"503",160.4,"oxfordian",6671,41.3396,-6.2834,34,1
-"28843",46315,"col","Hanifa",45,26.33,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.39,-5.14,"503",160.4,"oxfordian",6671,41.3396,-6.2834,34,1
-"29579",47168,"col","Soccher",12.3,46.19,"Soccher, Sc 2",NA,"",98,"Oxfordian","",163.5,157.3,12583,"gp_mid",34.95,20.87,"307",160.4,"oxfordian",6983,32.8946,19.1357,34,1
-"29773",47363,"col","Calcareous Grit",-1.5,54,"Priodontognathus type (PROXY)",NA,"",2,"Oxfordian","",163.5,157.3,14179,"gp_mid",15.82,36.62,"315",160.4,"oxfordian",7007,15.4546,36.2732,34,1
-"30237",47840,"col","",20.53,39.54,"Paliambela BB9-7.7",NA,"",5,"Oxfordian","",163.5,157.3,12819,"gp_mid",30.04,13.22,"307",160.4,"oxfordian",7064,37.9975,13.5203,34,1
-"30238",47841,"col","",20.53,39.54,"Paliambela BSB-10",NA,"",6,"Oxfordian","",163.5,157.3,12819,"gp_mid",30.04,13.22,"307",160.4,"oxfordian",7064,37.9975,13.5203,34,1
-"36319",55965,"col","Kingak Shale",-140.37,65.78,"Headwaters of Kandik River - Kingak Shale",NA,"",1,"Oxfordian","",163.5,157.3,15101,"gp_mid",-47.48,58.39,"101",160.4,"oxfordian",8836,-50.1278,56.251,34,1
-"36323",55969,"col","Kingak Shale",-140.25,65.08,"Headwaters of Bern Creek - Kingak Shale",NA,"",2,"Oxfordian","",163.5,157.3,15101,"gp_mid",-48.19,57.81,"101",160.4,"oxfordian",8838,-50.1278,56.251,34,1
-"36498",56231,"col","",174.79,-38.32,"AU 3064, Paraohanga Stream, Marokopa Valley (R16/f8770)",NA,"",4,"Oxfordian","",163.5,157.3,43142,"gp_mid",107.96,-80.09,"806",160.4,"oxfordian",8866,-165.6547,-80.2518,34,1
-"36547",56290,"col","",174.77,-38.15,"Ohineruru Bay, Totara Peninsula, Kawhia (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,15164,"gp_mid",108.83,-80,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"38697",58772,"col","",-69.42,-23.58,"Amarillo 2, Antofagasta",NA,"",3,"Oxfordian","",163.5,157.3,9156,"gp_mid",-25.35,-30.14,"201",160.4,"oxfordian",9359,-33.0461,-31.6704,34,1
-"41665",62268,"col","Oxford Clay",-2.12,51.46,"Ophiuroidea, Oxfordian, Chippenham, Wiltshire, UK",NA,"",1,"Oxfordian","",163.5,157.3,16757,"gp_mid",15.77,34.05,"315",160.4,"oxfordian",10064,14.0622,33.1345,34,1
-"43915",65758,"col","Spiti Shale",78.02,32.28,"Gaitey, Spiti Shale, Mayaites zone, Himachal Pradesh",NA,"",1,"Oxfordian","",163.5,157.3,18889,"gp_mid",58.92,-32.49,"501",160.4,"oxfordian",10603,69.9566,-28.9013,34,1
-"44000",65886,"col","Spiti Shale",77.95,32.32,"Chichim, Spiti Shale, Mayaites zone, Himachal Pradesh",NA,"",2,"Oxfordian","",163.5,157.3,18889,"gp_mid",58.92,-32.42,"501",160.4,"oxfordian",10624,69.9566,-28.9013,34,1
-"45326",67865,"col","La Manga",-70.28,-38.7,"Sierra de la Vaca Muerta, La Manga Formation, Neuquen",NA,"Reef 414",5,"Oxfordian","",163.5,157.3,19397,"gp_mid",-23.6,-44.11,"291",160.4,"oxfordian",10996,-29.8217,-46.9198,34,1
-"45482",68074,"col","Qal'eh Dokhtar",57.3,33.87,"Boshrouyeh, top of Qal'eh Dokhtar Limestone Member",NA,"",7,"Oxfordian","",163.5,157.3,19437,"gp_mid",69.49,28.74,"505",160.4,"oxfordian",11034,72.1538,37.4769,34,1
-"45488",68080,"col","",-9.85,30.67,"Cap Guir, Agadir, Coral Reef",NA,"Reef 2854",12,"Oxfordian","",163.5,157.3,19547,"gp_mid",2.09,19.93,"707",160.4,"oxfordian",11035,-2.7589,17.2605,34,1
-"46069",68715,"col","Casimcea",28.42,44.5,"WP 125, Cheia Valley",NA,"",3,"Oxfordian","",163.5,157.3,19828,"gp_mid",36.94,9.59,"308",160.4,"oxfordian",11158,42.1486,36.0419,34,1
-"46070",68716,"col","Casimcea",28.43,44.5,"WP 126, Cheia Valley",NA,"",4,"Oxfordian","",163.5,157.3,19828,"gp_mid",36.94,9.59,"308",160.4,"oxfordian",11159,42.1486,36.0419,34,1
-"46071",68717,"col","Casimcea",28.43,44.5,"WP 127, Cheia Valley",NA,"",2,"Oxfordian","",163.5,157.3,19828,"gp_mid",36.94,9.59,"308",160.4,"oxfordian",11159,42.1486,36.0419,34,1
-"47997",71432,"col","Fatjet Shale",130.17,-1.87,"Misool Island, Fatjet Shale",NA,"",1,"Oxfordian","",163.5,157.3,24146,"gp_mid",119.8,-36.19,"800",160.4,"oxfordian",11723,115.4695,-29.5822,34,1
-"50302",75604,"col","Casimcea",28.48,44.47,"Gura Dobrogei Waypoint 123",NA,"",3,"Oxfordian","",163.5,157.3,25530,"gp_mid",36.93,9.54,"308",160.4,"oxfordian",12312,42.1486,36.0419,34,1
-"50970",77127,"col","",130.62,32.28,"Koguchi, Kuma 14, sample S 17",NA,"",5,"Oxfordian","",163.5,157.3,26108,"gp_mid",142.43,48.52,"610",160.4,"oxfordian",12616,155.5606,48.5562,34,1
-"50971",77128,"col","",130.62,32.28,"Koguchi, Kuma 14, sample S 15",NA,"",4,"Oxfordian","",163.5,157.3,26108,"gp_mid",142.43,48.52,"610",160.4,"oxfordian",12616,155.5606,48.5562,34,1
-"51562",78221,"col","",-2.7,42.62,"Montoria, Alava",NA,"",8,"Oxfordian","",163.5,157.3,26346,"gp_mid",17.01,25.99,"304",160.4,"oxfordian",12792,14.6139,23.8471,34,1
-"51886",78642,"col","Smackover",-92.72,33.36,"Corals from Smackover",NA,"",2,"Oxfordian","",163.5,157.3,26441,"gp_mid",-27.96,17.95,"101",160.4,"oxfordian",12882,-34.0716,15.7026,34,1
-"51922",78678,"col","",21.72,45.68,"LaP 1",NA,"",40,"Oxfordian","",163.5,157.3,26455,"gp_mid",36.31,14.43,"308",160.4,"oxfordian",12905,33.6407,31.8913,34,1
-"51923",78679,"col","",21.72,45.68,"LaP 2",NA,"",31,"Oxfordian","",163.5,157.3,26455,"gp_mid",36.31,14.43,"308",160.4,"oxfordian",12905,33.6407,31.8913,34,1
-"56471",85959,"col","",7.2,47.37,"La Caquerelle, Upper Argovian",NA,"Reef 528",30,"Oxfordian","",163.5,157.3,29019,"gp_mid",23.61,30.93,"305",160.4,"oxfordian",14498,24.268,31.2242,34,1
-"57754",87800,"col","",-1.42,46.23,"Loix, Re Island",NA,"",3,"Oxfordian","",163.5,157.3,29512,"gp_mid",17.08,28.92,"305",160.4,"oxfordian",14955,19.9108,26.909,34,1
-"57755",87801,"col","",5.55,47.58,"Neuvelle-les-Champlitte",NA,"Reef 4020",28,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.29,30.95,"305",160.4,"oxfordian",14956,21.5721,30.2015,34,1
-"59274",90080,"col","",0.34,46.58,"Poitiers environs",NA,"",2,"Oxfordian","",163.5,157.3,45099,"gp_mid",18.41,29.43,"305",160.4,"oxfordian",15460,18.8753,29.2361,34,1
-"60712",92048,"col","Oxford Clay",0.08,52.33,"St Ives pterosaur",NA,"Rhamphorhynchus jessoni holotype site",1,"Oxfordian","",163.5,157.3,30972,"gp_mid",17.26,35.1,"315",160.4,"oxfordian",15969,16.6156,33.9605,34,1
-"60764",92104,"col","Sundance",-106.76,42.53,"Alcova Lake tracks",NA,"",2,"Oxfordian","",163.5,157.3,31125,"gp_mid",-37.28,29.49,"101",160.4,"oxfordian",15993,-40.4803,27.6919,34,1
-"61432",93000,"col","Gahodleh Shale",45.12,10.25,"Daghani, bed 216",NA,"",8,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",160.4,"oxfordian",16205,38.2327,-20.4546,34,1
-"61433",93001,"col","Gahodleh Shale",45.12,10.25,"Daghani, bed 215",NA,"",3,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",160.4,"oxfordian",16205,38.2327,-20.4546,34,1
-"61434",93002,"col","Gahodleh Shale",45.12,10.25,"Daghani, bed 214",NA,"",3,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",160.4,"oxfordian",16205,38.2327,-20.4546,34,1
-"61507",93094,"col","",7.03,47.38,"Bressaucourt",NA,"",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.48,30.93,"305",160.4,"oxfordian",16228,24.268,31.2242,34,1
-"61508",93095,"col","",6.48,47.05,"Gilley",NA,"",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.12,30.54,"305",160.4,"oxfordian",16229,24.268,31.2242,34,1
-"61511",93098,"col","",7.55,47.27,"Hofbergli",NA,"Reef 529",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.9,30.88,"305",160.4,"oxfordian",16232,24.268,31.2242,34,1
-"61515",93102,"col","",5.77,47.35,"Champs de Leffond, Charcenne",NA,"Reef 4021",23,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.5,30.75,"305",160.4,"oxfordian",16235,24.268,31.2242,34,1
-"61526",93114,"col","",3.05,47.45,"Chalumeau Quarry, Alligny-Cosne",NA,"",71,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.37,30.55,"305",160.4,"oxfordian",16241,21.5721,30.2015,34,1
-"61536",93124,"col","",2.4,47.08,"Bourges",NA,"",18,"Oxfordian","",163.5,157.3,31416,"gp_mid",19.93,30.12,"305",160.4,"oxfordian",16242,21.5721,30.2015,34,1
-"61546",93134,"col","",7.2,47.37,"La Caquerelle, Lower Argovian",NA,"Reef 528",17,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.61,30.93,"305",160.4,"oxfordian",14498,24.268,31.2242,34,1
-"61556",93151,"col","",7.15,47.37,"Saint-Ursanne",NA,"Reef 528",24,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.57,30.93,"305",160.4,"oxfordian",16245,24.268,31.2242,34,1
-"61557",93152,"col","",7.37,47.38,"Soyhieres",NA,"Reef 1339",19,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.74,30.97,"305",160.4,"oxfordian",16246,24.268,31.2242,34,1
-"61558",93153,"col","",7.42,47.4,"Liesbergmühli",NA,"Reef 1339",16,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.77,30.99,"305",160.4,"oxfordian",16247,24.268,31.2242,34,1
-"61559",93154,"col","",7.47,47.37,"Bärschwil",NA,"Reef 1339",11,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.82,30.97,"305",160.4,"oxfordian",16248,24.268,31.2242,34,1
-"61560",93155,"col","",7.05,47.43,"Courchavon",NA,"Reef 528",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.48,30.98,"305",160.4,"oxfordian",16249,24.268,31.2242,34,1
-"61562",93157,"col","",5.33,47.57,"Chaume-et-Courchamp",NA,"Reef 4020",29,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.12,30.91,"305",160.4,"oxfordian",16251,21.5721,30.2015,34,1
-"61563",93158,"col","",5.68,47.62,"Roche-et-Raucourt",NA,"",8,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.38,31,"305",160.4,"oxfordian",16252,24.268,31.2242,34,1
-"61583",93184,"col","",5.8,47.37,"Charcenne",NA,"Reef 4021",11,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.52,30.77,"305",160.4,"oxfordian",16257,24.268,31.2242,34,1
-"61584",93185,"col","",6.28,46.95,"Pissenavache",NA,"",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.98,30.42,"305",160.4,"oxfordian",16258,24.268,31.2242,34,1
-"61585",93186,"col","",5.53,48.78,"Lerouville",NA,"Reef 605",5,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.04,32.14,"315",160.4,"oxfordian",16259,20.3502,32.5457,34,1
-"61586",93187,"col","",5.53,48.82,"Mecrin",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.03,32.17,"315",160.4,"oxfordian",16260,20.3502,32.5457,34,1
-"61587",93188,"col","",5.5,48.9,"Saint-Mihiel",NA,"Reef 605",33,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.99,32.25,"315",160.4,"oxfordian",16261,20.3502,32.5457,34,1
-"61588",93189,"col","",5.48,48.93,"Dompcevrin",NA,"Reef 605",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.97,32.28,"315",160.4,"oxfordian",16262,20.3502,32.5457,34,1
-"61589",93190,"col","",3.75,47.6,"Cure valley",NA,"Reef 589",15,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.89,30.77,"305",160.4,"oxfordian",16263,21.5721,30.2015,34,1
-"61591",93192,"col","",3.17,47.43,"Ciez, Les Naslots",NA,"",3,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.47,30.55,"305",160.4,"oxfordian",16264,21.5721,30.2015,34,1
-"61598",93199,"col","",7.63,47.45,"Hochwald",NA,"Reef 530",3,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.93,31.07,"305",160.4,"oxfordian",16267,24.268,31.2242,34,1
-"61640",93261,"col","",5.58,48.32,"Liffol",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.17,31.68,"305",160.4,"oxfordian",16276,21.5721,30.2015,34,1
-"61641",93262,"col","",6.38,47.05,"Arc-sous-Cicon",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.04,30.53,"305",160.4,"oxfordian",16277,24.268,31.2242,34,1
-"61642",93263,"col","",4.5,49.62,"Viel-Saint-Remy",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.08,32.84,"315",160.4,"oxfordian",16278,20.3502,32.5457,34,1
-"61643",93264,"col","",6.73,47.05,"Le Locle",NA,"",2,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.31,30.57,"305",160.4,"oxfordian",16279,24.268,31.2242,34,1
-"61644",93269,"col","",6.5,46.82,"Sainte Croix",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.18,30.31,"305",160.4,"oxfordian",16280,24.268,31.2242,34,1
-"61779",93487,"col","",42.62,9.45,"Mt. Guresu, level 3",NA,"",7,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.74,-18.33,"709",160.4,"oxfordian",16326,34.409,-19.5982,34,1
-"61781",93489,"col","",42.62,9.45,"Mt. Guresu, level 4",NA,"",1,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.74,-18.33,"709",160.4,"oxfordian",16326,34.409,-19.5982,34,1
-"61785",93493,"col","",42.12,9.27,"Mt. Hakim, upper level",NA,"",3,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.19,-18.38,"709",160.4,"oxfordian",16330,34.409,-19.5982,34,1
-"61805",93540,"col","",42.75,9.28,"Jijiga",NA,"",1,"Oxfordian","",163.5,157.3,31657,"gp_mid",38.83,-18.52,"709",160.4,"oxfordian",16342,34.409,-19.5982,34,1
-"62541",94456,"col","Newton Clay",-2.29,50.01,"Sample 2, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62542",94457,"col","Newton Clay",-2.29,50.01,"Sample 4, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62543",94458,"col","Woodrow Clay",-2.29,50.01,"Sample 6, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62544",94459,"col","Hazelbury Bryan",-2.29,50.01,"Sample 7, East Stour borehole",NA,"",2,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62545",94460,"col","Hazelbury Bryan",-2.29,50.01,"Sample 8, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62546",94461,"col","Hazelbury Bryan",-2.29,50.01,"Sample 9, East Stour borehole",NA,"",8,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62547",94462,"col","Hazelbury Bryan",-2.29,50.01,"Sample 10, East Stour borehole",NA,"",6,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62548",94463,"col","Hazelbury Bryan",-2.29,50.01,"Sample 11, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62549",94464,"col","Hazelbury Bryan",-2.29,50.01,"Sample 12, East Stour borehole",NA,"",0,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62550",94465,"col","Hazelbury Bryan",-2.29,50.01,"Sample 12, East Stour borehole",NA,"",6,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62551",94466,"col","Hazelbury Bryan",-2.29,50.01,"Sample 13, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62552",94467,"col","Hazelbury Bryan",-2.29,50.01,"Sample 14, East Stour borehole",NA,"",2,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",160.4,"oxfordian",16505,15.1718,30.6724,34,1
-"62559",94495,"col","",38.25,10.02,"Goha Tsion, unit 2",NA,"",11,"Oxfordian","",163.5,157.3,32146,"gp_mid",36.16,-17.09,"715",160.4,"oxfordian",16510,30.6396,-18.6218,34,1
-"62560",94496,"col","",38.25,10.02,"Goha Tsion, unit 3",NA,"",1,"Oxfordian","",163.5,157.3,32146,"gp_mid",36.16,-17.09,"715",160.4,"oxfordian",16510,30.6396,-18.6218,34,1
-"62592",94553,"col","Bihen Limestone",48.43,11.02,"Ahankon Tug, Inda",NA,"",1,"Oxfordian","",163.5,157.3,32170,"gp_mid",44.99,-18.09,"709",160.4,"oxfordian",16518,42.1057,-21.1853,34,1
-"62593",94554,"col","Beni Zaid Limestone",56.07,24.78,"Wadi Bih, Jebel Hagab, Ras al Khaima",NA,"",3,"Oxfordian","",163.5,157.3,32170,"gp_mid",53.48,-9.7,"503",160.4,"oxfordian",16519,50.2233,-11.8577,34,1
-"62617",94588,"col","Antalo Limestone",39.58,13.68,"Agula-Dongolo",NA,"",22,"Oxfordian","",163.5,157.3,32202,"gp_mid",38.54,-13.94,"715",160.4,"oxfordian",16524,35.0588,-17.1755,34,1
-"62646",94628,"col","",-0.03,49.3,"Vaches Noires Cliff, stratigraphic bed unknown",NA,"",71,"Oxfordian","",163.5,157.3,31666,"gp_mid",17.69,32.09,"305",160.4,"oxfordian",16544,17.7916,31.5548,34,1
-"62791",94775,"col","Summerville/Bluff Sandstone",-109.6,37.53,"Butler Wash",NA,"",2,"Oxfordian","",163.5,157.3,32291,"gp_mid",-41.22,25.32,"101",160.4,"oxfordian",16569,-45.3755,23.4037,34,1
-"64346",96679,"col","Sundance",-108.05,44.57,"Greybull",NA,"",4,"Oxfordian","",163.5,157.3,32894,"gp_mid",-37.63,31.71,"101",160.4,"oxfordian",17065,-42.5199,30.92,34,1
-"65362",98093,"col","",48.95,-12.8,"Bobasakoa",NA,"",5,"Oxfordian","",163.5,157.3,8015,"gp_mid",41.46,-29.08,"702",160.4,"oxfordian",17384,39.1965,-33.5309,34,1
-"65437",98175,"col","",44.93,-20.65,"Ankirijy",NA,"",15,"Oxfordian","",163.5,157.3,8015,"gp_mid",32.95,-33.97,"702",160.4,"oxfordian",17399,32.2148,-39.6849,34,1
-"65438",98176,"col","",45.27,-20.28,"Ambatomanendry",NA,"",19,"Oxfordian","",163.5,157.3,8015,"gp_mid",33.51,-33.82,"702",160.4,"oxfordian",17400,32.2148,-39.6849,34,1
-"65439",98177,"col","",44.8,-20.75,"Andrangory",NA,"",22,"Oxfordian","",163.5,157.3,8015,"gp_mid",32.76,-33.99,"702",160.4,"oxfordian",17401,32.2148,-39.6849,34,1
-"65444",98182,"col","",44.75,-21.03,"Ankilimanjaka",NA,"",8,"Oxfordian","",163.5,157.3,8015,"gp_mid",32.53,-34.21,"702",160.4,"oxfordian",17403,32.2148,-39.6849,34,1
-"65595",98351,"col","La Manga",-69.78,-35.8,"Bardas Blancas",NA,"Reef 569",14,"Oxfordian","",163.5,157.3,33986,"gp_mid",-23.64,-41.19,"291",160.4,"oxfordian",17481,-30.4303,-44.4562,34,1
-"65616",98372,"col","Chari",69,23.67,"Jumara Dome, unit 15",NA,"",6,"Oxfordian","",163.5,157.3,33990,"gp_mid",45.85,-29.08,"501",160.4,"oxfordian",17487,47.1589,-29.66,34,1
-"65617",98373,"col","Chari",69.37,23.48,"Bhakri",NA,"",3,"Oxfordian","",163.5,157.3,33990,"gp_mid",45.79,-29.46,"501",160.4,"oxfordian",17488,47.1589,-29.66,34,1
-"65911",98684,"col","Hanifa",46.62,24.43,"Shaib Ha, S625",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",45.09,-7.43,"503",160.4,"oxfordian",17602,40.4051,-8.6054,34,1
-"65948",98720,"col","Hanifa",46.62,24.27,"Shaib Nisa, S1050",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",45.04,-7.58,"503",160.4,"oxfordian",17618,40.4051,-8.6054,34,1
-"65959",98731,"col","Hanifa",46.22,24.97,"Jebel Bakkain, S1298",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.94,-6.8,"503",160.4,"oxfordian",17626,40.4051,-8.6054,34,1
-"65972",98744,"col","Hanifa",46.25,24.97,"Jebel Bakkain, S1443",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.96,-6.82,"503",160.4,"oxfordian",17629,40.4051,-8.6054,34,1
-"66030",98801,"col","Hanifa",45.77,25.29,"Jebel Hanifa, S1682",NA,"",1,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.67,-6.36,"503",160.4,"oxfordian",17660,40.4051,-8.6054,34,1
-"66073",98844,"col","Hanifa",46.55,24.27,"KK10, Wadi al Furayshah",NA,"",13,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.98,-7.57,"503",160.4,"oxfordian",17679,40.4051,-8.6054,34,1
-"66305",99082,"col","Hanifa",46.32,22.37,"Wadi Hamr, S776",NA,"",1,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.1,-9.27,"503",160.4,"oxfordian",17762,39.4591,-10.9251,34,1
-"67081",100139,"col","Sundance",-108,42,"Fremont County ichthyosaur (PROXY)",NA,"",1,"Oxfordian","",163.5,157.3,34365,"gp_mid",-38.46,29.25,"101",160.4,"oxfordian",18020,-43.4579,28.5564,34,1
-"67213",100370,"col","Sa Wer",43.06,10.16,"Sa Warabis, 208-211",NA,"",4,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.38,-17.75,"709",160.4,"oxfordian",18061,34.409,-19.5982,34,1
-"67217",100374,"col","Sa Wer",43.06,10.16,"Sa Warabis, 214",NA,"",5,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.38,-17.75,"709",160.4,"oxfordian",18061,34.409,-19.5982,34,1
-"67225",100382,"col","Sa Wer",42.8,10.34,"Gerigoan, 155-156",NA,"",2,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.17,-17.51,"709",160.4,"oxfordian",18064,34.409,-19.5982,34,1
-"67226",100383,"col","Sa Wer",42.8,10.34,"Gerigoan, 158-159",NA,"",5,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.17,-17.51,"709",160.4,"oxfordian",18064,34.409,-19.5982,34,1
-"67404",100657,"col","Coralline Oolite",-1.18,51.75,"Shotover Hill, Coralline Oolite",NA,"C",0,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",160.4,"oxfordian",18113,16.6156,33.9605,34,1
-"67412",100666,"col","Calcareous Grit",-1.18,51.75,"Shotover Hill, Calcareous Grit",NA,"B",2,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",160.4,"oxfordian",18113,16.6156,33.9605,34,1
-"67415",100669,"col","Calcareous Grit",-1.18,51.75,"Shotover Hill, Oxford Clay",NA,"A",31,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",160.4,"oxfordian",18113,16.6156,33.9605,34,1
-"69763",103921,"col","Sundance",-107.76,44.6,"Northeast of Shell",NA,"",2,"Oxfordian","",163.5,157.3,35011,"gp_mid",-37.39,31.69,"101",160.4,"oxfordian",19203,-42.5199,30.92,34,1
-"71331",106466,"col","",18.68,51.08,"Załęcze Wielkie",NA,"Zalecze Wielkie",1,"Oxfordian","",163.5,157.3,35546,"gp_mid",31.44,36.17,"305",160.4,"oxfordian",19845,30.8837,36.803,34,1
-"71332",106467,"col","",19.47,50.6,"Mirow",NA,"",1,"Oxfordian","",163.5,157.3,35546,"gp_mid",32.18,35.82,"305",160.4,"oxfordian",19846,30.8837,36.803,34,1
-"76369",112571,"col","",0.32,40.78,"Millers Tortosa",NA,"",3,"Oxfordian","",163.5,157.3,36657,"gp_mid",18.4,23.37,"304",160.4,"oxfordian",21358,15.7414,20.2275,34,1
-"76834",113061,"col","",19.43,50.17,"Wodna",NA,"",2,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.29,35.4,"305",160.4,"oxfordian",21478,30.8837,36.803,34,1
-"76837",113064,"col","",19.92,50.08,"Krakow",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.69,35.4,"305",160.4,"oxfordian",21479,30.8837,36.803,34,1
-"76838",113065,"col","",19.93,50.03,"Krzemionki",NA,"",2,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.71,35.35,"305",160.4,"oxfordian",21480,30.8837,36.803,34,1
-"76839",113066,"col","",19.9,50.23,"Minogi",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.63,35.54,"305",160.4,"oxfordian",21481,30.8837,36.803,34,1
-"76871",113099,"col","",19.82,50.2,"Ojcow",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.57,35.49,"305",160.4,"oxfordian",21504,30.8837,36.803,34,1
-"81625",119139,"col","Sundance",-107.65,42.84,"Gas Hills area 70km west of Casper (Megalneusaurus rex type locality)",NA,"",1,"Oxfordian","",163.5,157.3,38268,"gp_mid",-37.89,29.98,"101",160.4,"oxfordian",22783,-43.4579,28.5564,34,1
-"81767",119281,"col","Sundance",-106.75,43.41,"Off 33 mile road, near Roughlock Hill",NA,"",2,"Oxfordian","",163.5,157.3,38279,"gp_mid",-36.97,30.33,"101",160.4,"oxfordian",22809,-40.4803,27.6919,34,1
-"81769",119283,"col","Sundance",-105.59,41.64,"Albany County (Plesiosaurus shirleyensis type locality) [PROXY]",NA,"",5,"Oxfordian","",163.5,157.3,38280,"gp_mid",-36.61,28.4,"101",160.4,"oxfordian",22811,-40.4803,27.6919,34,1
-"86519",125278,"col","Sid'r",56.89,22.82,"Wadi Saal Section (10), BR52",NA,"",20,"Oxfordian","",163.5,157.3,40646,"gp_mid",53.71,-11.79,"503",160.4,"oxfordian",24283,49.5428,-14.2682,34,1
-"91777",132635,"col","",90.8,31.66,"Southeast of Angdaercuo, 76Z13, Baingoin County",NA,"",2,"Oxfordian","",163.5,157.3,42718,"gp_mid",98.44,11.82,"613",160.4,"oxfordian",25465,100.4001,45.1911,34,1
-"91778",132636,"col","",95.62,31.5,"Mula south, 76CDM5, Butuo district, Dengqen County",NA,"",3,"Oxfordian","",163.5,157.3,42718,"gp_mid",102.55,12.69,"613",160.4,"oxfordian",25466,104.7206,46.1329,34,1
-"91783",132641,"col","Jieshandaji",80.28,34.6,"Songmuxi Lake, 76AR35, Jieshandaji, Rutog County",NA,"",5,"Oxfordian","",163.5,157.3,42718,"gp_mid",89.53,23.16,"612",160.4,"oxfordian",25471,86.7462,44.3405,34,1
-"92584",133848,"col","Ohineruru",174.82,-37.39,"McF F69, Moewaka Stream (R13/f046)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92591",133855,"col","",174.82,-37.39,"GS 5037, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92592",133856,"col","",174.82,-37.39,"GS 5183, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92594",133858,"col","",174.82,-37.39,"AU 699, Moewaka Quarry (R13/f6500)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92595",133859,"col","",174.82,-37.39,"AU 700, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92596",133860,"col","",174.82,-37.39,"AU 707, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92597",133861,"col","",174.82,-37.39,"AM collection, Moewaka Quarry (R13/f6500)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92598",133862,"col","",174.82,-37.39,"McF B24, Moewaka Quarry (R13/f6500)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92599",133863,"col","",174.82,-37.39,"McF B67, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"92692",133956,"col","",174.78,-38.12,"GS 520, Totara Peninsula (R15/f8027)",NA,"",13,"Oxfordian","",163.5,157.3,18330,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92693",133957,"col","",174.78,-38.12,"GS 1190, Totara Peninsula (R15/f8027)",NA,"",3,"Oxfordian","",163.5,157.3,18330,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92694",133958,"col","",174.78,-38.12,"GS 3143, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92695",133959,"col","",174.78,-38.12,"GS 5195, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92696",133960,"col","",174.78,-38.12,"AU 2977, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92697",133961,"col","",174.78,-38.12,"AM collection, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92698",133962,"col","",174.78,-38.12,"JDC 1171, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92699",133963,"col","",174.78,-38.12,"McF B20, Totara Peninsula (R15/f8027)",NA,"",6,"Oxfordian","",163.5,157.3,43142,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"92707",133971,"col","",174.76,-38.11,"AU 676, east of Captain King's (R15/f8545)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",109.05,-79.98,"806",160.4,"oxfordian",25706,-165.6547,-80.2518,34,1
-"92809",134086,"col","",174.76,-38.23,"McF F52, Waiohipa Stream (R16/f020)",NA,"",5,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.41,-80.03,"806",160.4,"oxfordian",25724,-165.6547,-80.2518,34,1
-"92810",134087,"col","",174.75,-38.22,"AU 4605, Waiohipa Stream (R16/f021)",NA,"",5,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.44,-80.02,"806",160.4,"oxfordian",25725,-165.6547,-80.2518,34,1
-"92811",134088,"col","",174.77,-38.16,"McF F33, Whakapirau Road (R16/f022)",NA,"",6,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.78,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"92812",134089,"col","",174.77,-38.16,"AU 9457, Whakapirau Road (R16/f022)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.78,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"92813",134090,"col","Ohinereru",174.77,-38.16,"AU 6414, Whakapirau Road (R16/f031)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.8,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"92824",134101,"col","",174.75,-38.22,"McF F49, Waiohipa Stream (R16/f082)",NA,"",5,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.41,-80.03,"806",160.4,"oxfordian",25725,-165.6547,-80.2518,34,1
-"92825",134102,"col","",174.75,-38.22,"McF F51, Waiohipa Stream (R16/f082)",NA,"",7,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.41,-80.03,"806",160.4,"oxfordian",25725,-165.6547,-80.2518,34,1
-"92826",134103,"col","Ohineruru",174.77,-38.15,"McF F34, Whakapirau Road (R16/f085)",NA,"",4,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.82,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"92827",134104,"col","",174.77,-38.15,"McF F31, Whakapirau Road (R16/f087)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"92833",134110,"col","Ohineruru",174.77,-38.16,"AU 9247, Whakapirau Road (R16/f134)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"92836",134127,"col","Ohineruru",174.77,-38.15,"AU 9389, Whakapirau Road (R16/f136)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.82,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"92844",134135,"col","Ohineruru",174.77,-38.15,"AU 7859, Whakapirau Road (R16/f160)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.82,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"92869",134160,"col","",174.76,-38.22,"GS 10540, Waiohipa Stream (R16/f6914)",NA,"",3,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.44,-80.03,"806",160.4,"oxfordian",25748,-165.6547,-80.2518,34,1
-"92871",134162,"col","",174.75,-38.21,"GS 10529, Waiohipa Stream (R16/f6923)",NA,"",2,"Oxfordian","",163.5,157.3,43142,"gp_mid",108.45,-80.01,"806",160.4,"oxfordian",25749,-165.6547,-80.2518,34,1
-"93921",135362,"col","",2.39,47.07,"Bourges, Cher",NA,"",8,"Oxfordian","",163.5,157.3,43337,"gp_mid",19.93,30.11,"305",160.4,"oxfordian",26162,21.5721,30.2015,34,1
-"93941",135390,"col","",5.85,48.58,"Bulligny, Meurthe et Moselle",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",22.32,31.97,"305",160.4,"oxfordian",26172,24.268,31.2242,34,1
-"93942",135391,"col","",7.07,47.42,"Porrentruy, Old St. Remi, Launoy",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",23.5,30.97,"305",160.4,"oxfordian",26173,24.268,31.2242,34,1
-"93988",135468,"col","",4.57,47.86,"Chatillon-sur-Seine (USNM coll)",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",21.47,31.12,"305",160.4,"oxfordian",26197,21.5721,30.2015,34,1
-"93995",135475,"col","",5.08,49.33,"Romagne-sous-Montfaucon",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",21.58,32.62,"315",160.4,"oxfordian",26203,20.3502,32.5457,34,1
-"94045",135529,"col","",7.4,47.39,"Bois du Treuil, Soyhières",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",23.76,30.98,"305",160.4,"oxfordian",26220,24.268,31.2242,34,1
-"94122",135607,"col","",111.9,74.95,"Chernokhrebetnaya River, north-eastern Taimyr (Oxfordian)",NA,"",2,"Oxfordian","",163.5,157.3,43373,"gp_mid",56.1,76.79,"401",160.4,"oxfordian",26278,8.7805,78.9498,34,1
-"95248",137169,"col","",9.77,49.22,"Buchsteige, near Balingen",NA,"",3,"Oxfordian","",163.5,157.3,43855,"gp_mid",25.18,33.07,"305",160.4,"oxfordian",26604,25.6417,34.5449,34,1
-"97590",139663,"col","Ampthill Clay",-0.09,51.81,"Boulder Clay in Hertfordshire",NA,"",2,"Oxfordian","",163.5,157.3,44916,"gp_mid",17.22,34.56,"315",160.4,"oxfordian",27192,16.6156,33.9605,34,1
-"99338",141850,"col","Coral Rag",-1.13,51.75,"Wheatley",NA,"",1,"Oxfordian","",163.5,157.3,33960,"gp_mid",16.46,34.41,"315",160.4,"oxfordian",27456,16.6156,33.9605,34,1
-"99970",142571,"col","",-0.62,40.98,"Oliete section, bed 109 A",NA,"",8,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",160.4,"oxfordian",27555,15.7414,20.2275,34,1
-"99971",142572,"col","",-0.62,40.98,"Oliete section, bed 109 B",NA,"",11,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",160.4,"oxfordian",27555,15.7414,20.2275,34,1
-"99972",142573,"col","",-0.62,40.98,"Oliete section, bed 109 C",NA,"",3,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",160.4,"oxfordian",27555,15.7414,20.2275,34,1
-"107905",152938,"col","",2.57,46.89,"Dun-sur-Auron",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.1,29.95,"305",160.4,"oxfordian",28981,21.5721,30.2015,34,1
-"107906",152939,"col","",2.73,47.16,"Etrechy",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.17,30.24,"305",160.4,"oxfordian",28982,21.5721,30.2015,34,1
-"107907",152940,"col","",2.66,47.04,"Avord",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.14,30.11,"305",160.4,"oxfordian",28983,21.5721,30.2015,34,1
-"107908",152941,"col","",2.56,47.04,"Savigny-en-Septaine",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.06,30.1,"305",160.4,"oxfordian",28984,21.5721,30.2015,34,1
-"107909",152942,"col","",2.79,47.24,"Jalognes",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.2,30.32,"305",160.4,"oxfordian",28985,21.5721,30.2015,34,1
-"107910",152943,"col","",2.92,47.16,"Sancergues",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.32,30.25,"305",160.4,"oxfordian",28986,21.5721,30.2015,34,1
-"107911",152944,"col","",2.65,47.08,"Farges-en-Septaine",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.13,30.14,"305",160.4,"oxfordian",28987,21.5721,30.2015,34,1
-"107912",152945,"col","",2.73,47.08,"Baugy",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.16,"305",160.4,"oxfordian",28988,21.5721,30.2015,34,1
-"107913",152946,"col","",2.73,47.08,"Cher (Ex-Calcaires de la Vignonnerie)",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.16,"305",160.4,"oxfordian",28988,21.5721,30.2015,34,1
-"107914",152947,"col","",2.67,47.1,"Villabon",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.14,30.17,"305",160.4,"oxfordian",28989,21.5721,30.2015,34,1
-"107915",152948,"col","",2.74,47.12,"Gron",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.2,"305",160.4,"oxfordian",28990,21.5721,30.2015,34,1
-"107916",152949,"col","",2.47,46.96,"Cher (Calcaires de la Vignonnerie)",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.01,30.01,"305",160.4,"oxfordian",28991,21.5721,30.2015,34,1
-"108829",154241,"col","Curtis",-109.72,38.78,"Klondike Bluffs tracksite",NA,"",2,"Oxfordian","",163.5,157.3,61310,"gp_mid",-40.92,26.54,"101",160.4,"oxfordian",29206,-44.7716,25.8427,34,1
-"109390",154957,"col","",-0.04,49.23,"Dozulé",NA,"",1,"Oxfordian","",163.5,157.3,5993,"gp_mid",17.69,32.02,"305",160.4,"oxfordian",29305,17.7916,31.5548,34,1
-"111142",157900,"col","Malm",8.83,48.21,"Lochengrundle",NA,"",2,"Oxfordian","",163.5,157.3,51918,"gp_mid",24.69,31.96,"305",160.4,"oxfordian",29705,24.268,31.2242,34,1
-"111144",157902,"col","Chavoley Beds",5.65,45.85,"Virieu-le-Grand",NA,"",2,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.7,29.26,"305",160.4,"oxfordian",29707,7.5,45,34,1
-"111146",157904,"col","",5.56,46.39,"Arinthod",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.53,29.78,"305",160.4,"oxfordian",29709,21.5721,30.2015,34,1
-"111149",157908,"col","Birmensdorf Beds",8.24,47.46,"Birmensdorf",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",24.4,31.15,"305",160.4,"oxfordian",29711,24.268,31.2242,34,1
-"111252",158148,"col","Haute Marne",5.05,48.06,"Montsaon",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",21.81,31.37,"305",160.4,"oxfordian",29739,21.5721,30.2015,34,1
-"111253",158149,"col","Haute Marne",5.05,48.06,"Bologne",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",21.81,31.37,"305",160.4,"oxfordian",29739,21.5721,30.2015,34,1
-"111258",158160,"col","",7.48,47.37,"Fringeli",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",23.83,30.97,"305",160.4,"oxfordian",29743,24.268,31.2242,34,1
-"111259",158161,"col","",5.72,46.62,"St. Sorlin, Liefnans",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.61,30.02,"305",160.4,"oxfordian",29744,24.268,31.2242,34,1
-"111263",158176,"col","",5.13,48.11,"Chaumont",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",21.86,31.43,"305",160.4,"oxfordian",29746,21.5721,30.2015,34,1
-"111275",158200,"col","",5.4,45.67,"Sermerieu (Mont Dolet)",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.54,29.05,"305",160.4,"oxfordian",29751,22.6822,27.8974,34,1
-"112352",159776,"col","Lower Calcaerous Grit",-0.4,54.28,"Scarborough (Lower Calcaerous Grit)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",16.57,36.99,"315",160.4,"oxfordian",30147,15.4546,36.2732,34,1
-"112353",159777,"col","Lower Calcaerous Grit",-0.58,54.23,"Waydale Snainton",NA,"Wydale Rise, Snainton",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",16.44,36.92,"315",160.4,"oxfordian",30148,15.4546,36.2732,34,1
-"112510",159959,"col","Gahodleh Shale",45.13,10.17,"Bihendula (USNM)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",41.46,-18.23,"709",160.4,"oxfordian",30174,38.2327,-20.4546,34,1
-"112511",159960,"col","Gahodleh Shale",45.14,10.19,"Bosti, NW of Bihendula (USNM)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",41.47,-18.21,"709",160.4,"oxfordian",30175,38.2327,-20.4546,34,1
-"113681",161474,"col","",42.3,2.57,"Mata Gassile (Matawarsis)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.5,-24.9,"709",160.4,"oxfordian",30480,32.3264,-26.8505,34,1
-"113682",161476,"col","",42.29,1.85,"Dakatch (limestones)",NA,"Dikatch",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.29,-25.59,"709",160.4,"oxfordian",30481,32.3264,-26.8505,34,1
-"113683",161477,"col","Bihin Limestone",45.13,10.17,"Bihendula (Bihin Limestone, top)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.46,-18.23,"709",160.4,"oxfordian",30174,38.2327,-20.4546,34,1
-"113685",161479,"col","Bihin Limestone",45.13,10.17,"Bihendula (Bihin Limestone, top) Stefanini",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.46,-18.23,"709",160.4,"oxfordian",30174,38.2327,-20.4546,34,1
-"113686",161480,"col","Bihin Limestone",45.01,10.18,"Daras (Bihin Limestone, top)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.34,-18.19,"709",160.4,"oxfordian",30483,38.2327,-20.4546,34,1
-"113956",161803,"col","Bihin Limestone",45.01,10.18,"Daras (Bihin Limestone, base)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.34,-18.19,"709",160.4,"oxfordian",30483,38.2327,-20.4546,34,1
-"113969",161816,"col","",42.29,1.85,"Dakatch (grey limestone)",NA,"Dikatch",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.29,-25.59,"709",160.4,"oxfordian",30481,32.3264,-26.8505,34,1
-"114024",161875,"col","",10.23,48.62,"Giengen locality",NA,"",1,"Oxfordian","",163.5,157.3,52665,"gp_mid",25.68,32.54,"305",160.4,"oxfordian",30592,11.25,47.5,34,1
-"114704",162919,"col","Stump",-109.23,40.41,"Stump Erymid",NA,"",1,"Oxfordian","",163.5,157.3,24719,"gp_mid",-39.99,27.99,"101",160.4,"oxfordian",30758,-44.7716,25.8427,34,1
-"114707",162922,"col","Sundance",-104.61,44.72,"Sundance malacostracans",NA,"",4,"Oxfordian","",163.5,157.3,53035,"gp_mid",-34.83,31.15,"101",160.4,"oxfordian",30759,-39.6045,30.0714,34,1
-"115055",163493,"col","",40.79,44.1,"Psebay",NA,"",1,"Oxfordian","",163.5,157.3,53346,"gp_mid",51.3,33.93,"302",160.4,"oxfordian",30784,50.794,40.1634,34,1
-"115105",163714,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 9-10",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115106",163715,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 11-15",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115107",163716,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 16-19",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115108",163717,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 20-21",NA,"",8,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115109",163718,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 22-25",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115110",163719,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 29-33",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115111",163720,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 34-36",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115112",163721,"col","Staffin Shale",-6.24,57.65,"Digg Headland Beds 37-40",NA,"",10,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",160.4,"oxfordian",30801,9.4728,37.1204,34,1
-"115124",163734,"col","",-6.07,57.18,"Rudha na h'Airigh Baine 3",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",160.4,"oxfordian",30806,9.4728,37.1204,34,1
-"115125",163735,"col","",-6.07,57.18,"Rudha na h'Airigh Baine 4",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",160.4,"oxfordian",30806,9.4728,37.1204,34,1
-"115126",163736,"col","",-6.07,57.18,"Rudha na h'Airigh Baine 5",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",160.4,"oxfordian",30806,9.4728,37.1204,34,1
-"115127",163737,"col","",-6.07,57.18,"Rudha na h'Airigh Baine 6",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",160.4,"oxfordian",30806,9.4728,37.1204,34,1
-"115128",163738,"col","",-6.11,57.18,"Cliffs behind Carn Mor landslip/Airigh Baine",NA,"",3,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",160.4,"oxfordian",30807,9.4728,37.1204,34,1
-"115129",163739,"col","",-6.11,57.18,"Cliffs behind Carn Mor landslip/Airigh Baine 2",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",160.4,"oxfordian",30807,9.4728,37.1204,34,1
-"115130",163740,"col","",-6.11,57.18,"Cliffs behind Carn Mor landslip/Airigh Baine 3",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",160.4,"oxfordian",30807,9.4728,37.1204,34,1
-"115217",163869,"col","Chari",68.99,23.72,"Jara Dome, Dhosa conglomerate bed matrix",NA,"",5,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.91,-29.05,"501",160.4,"oxfordian",30843,47.1589,-29.66,34,1
-"115219",163871,"col","Chari",69.05,23.69,"Jumara Dome, Dhosa Conglomerate Bed",NA,"",6,"Oxfordian","",163.5,157.3,53499,"gp_mid",45.89,-29.12,"501",160.4,"oxfordian",30844,47.1589,-29.66,34,1
-"116465",166015,"col","Kowashozu",136.36,36.01,"Kowashozu, Miyami Town",NA,"Tedorosaurus, Asuwa, Kamishinbashi",1,"Oxfordian","",163.5,157.3,54269,"gp_mid",148.05,53.41,"610",160.4,"oxfordian",31184,160.9135,50.535,34,1
-"117210",167391,"col","Chari",69.15,23.62,"Keera Dome, bed 10, Kutch",NA,"",1,"Oxfordian","",163.5,157.3,54622,"gp_mid",45.86,-29.23,"501",160.4,"oxfordian",31463,47.1589,-29.66,34,1
-"118693",169920,"col","",37.32,49.03,"Dolgenkoe, Izyum district",NA,"",1,"Oxfordian","",163.5,157.3,55412,"gp_mid",46.48,37.76,"302",160.4,"oxfordian",31676,44.2996,42.9582,34,1
-"119573",171136,"col","Dhosa Oolite",69,23.6,"Wanda",NA,"",1,"Oxfordian","",163.5,157.3,52872,"gp_mid",45.78,-29.11,"501",160.4,"oxfordian",31848,47.1589,-29.66,34,1
-"119693",171258,"col","",33.45,30.74,"Gebel Kalieh (Millericrinus)",NA,"",7,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.73,4.05,"508",160.4,"oxfordian",31861,33.3447,0.0934,34,1
-"119695",171260,"col","",33.25,30.63,"Gebel Aroussieh (Oxfordian)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.53,4.01,"508",160.4,"oxfordian",31862,33.3447,0.0934,34,1
-"119696",171261,"col","",33.2,30.64,"Gebel Hameir (Oxfordian)",NA,"",3,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.5,4.04,"508",160.4,"oxfordian",31863,33.3447,0.0934,34,1
-"119697",171262,"col","",33.45,30.74,"Gebel Kalieh",NA,"",20,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.73,4.05,"508",160.4,"oxfordian",31861,33.3447,0.0934,34,1
-"119698",171263,"col","",33.46,30.74,"Gebel Kalieh (Belemnites)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.74,4.05,"508",160.4,"oxfordian",31864,33.3447,0.0934,34,1
-"119699",171264,"col","",33.48,30.69,"Gebel Manzour (Oxfordian)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.74,3.99,"508",160.4,"oxfordian",31865,33.3447,0.0934,34,1
-"119701",171266,"col","",33.2,30.64,"Gebel Hameir (Marl)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.5,4.04,"508",160.4,"oxfordian",31863,33.3447,0.0934,34,1
-"119864",171433,"col","",19.61,50.12,"Tenczynek, Krakauschen (München Sammlung)",NA,"",2,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",160.4,"oxfordian",31947,30.8837,36.803,34,1
-"119866",171435,"col","",19.61,50.12,"Tenczynek, Krakauschen (Wiener Sammlung)",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",160.4,"oxfordian",31947,30.8837,36.803,34,1
-"119868",171437,"col","",19.61,50.12,"Rybna, near Krakau",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",160.4,"oxfordian",31947,30.8837,36.803,34,1
-"119870",171439,"col","",19.71,50.15,"Radwanovice (Galizien)",NA,"Radwanowice",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.51,35.42,"305",160.4,"oxfordian",31950,30.8837,36.803,34,1
-"119921",171490,"col","",19.76,50.15,"Kobilany (Galizien)",NA,"Kobylany",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.55,35.44,"305",160.4,"oxfordian",31955,30.8837,36.803,34,1
-"119923",171492,"col","",8.48,47.96,"Mjatschkowa",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",24.48,31.67,"305",160.4,"oxfordian",31956,24.268,31.2242,34,1
-"126233",182017,"col","Chari",69.25,23.58,"Keera Dome, Dhosa Conglomerate Bed",NA,"",1,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.86,-29.32,"501",160.4,"oxfordian",33442,47.1589,-29.66,34,1
-"126552",182717,"col","",174.78,-38.12,"AU 9201, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126553",182718,"col","Ohineruru",174.77,-38.15,"GS 15433, Whakapirau Road (R16/f085)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.82,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126554",182719,"col","Ohineruru",174.77,-38.15,"AU 11744, Whakapirau Road (R16/f230)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126555",182720,"col","",174.82,-37.39,"AU 696, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"126562",182728,"col","",174.78,-38.12,"GS 2086, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126563",182729,"col","",174.78,-38.12,"AU 637, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126564",182730,"col","",174.78,-38.12,"AU 658, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126565",182731,"col","",174.78,-38.12,"AU 680, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126566",182732,"col","",174.78,-38.12,"AU 6442, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126567",182733,"col","",174.78,-38.12,"AU 12663, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126568",182734,"col","",174.78,-38.12,"AU 12678, Totara Peninsula (R15/f8027)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126569",182735,"col","",174.76,-38.11,"AU 672, east of Captain King's (R15/f8545)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",109.05,-79.98,"806",160.4,"oxfordian",25706,-165.6547,-80.2518,34,1
-"126570",182736,"col","",174.77,-38.16,"AU 4601, Whakapirau Road (R16/f022)",NA,"",3,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.78,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"126571",182737,"col","",174.77,-38.16,"AU 9814, Whakapirau Road (R16/f022)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.78,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"126572",182738,"col","Ohineruru",174.77,-38.15,"GS 15431, Whakapirau Road (R16/f230)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126573",182739,"col","",174.76,-38.23,"AU 4606, Waiohipa Stream (R16/f020)",NA,"",3,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.41,-80.03,"806",160.4,"oxfordian",25724,-165.6547,-80.2518,34,1
-"126574",182740,"col","Oraka",174.78,-38.32,"AU 4604, Paraohanga Stream, Marokopa Valley (R16/f171)",NA,"",4,"Oxfordian","",163.5,157.3,60902,"gp_mid",107.95,-80.08,"806",160.4,"oxfordian",33513,-165.6547,-80.2518,34,1
-"126575",182741,"col","Oraka",174.79,-38.32,"AU 4428, Paraohanga Stream, Marokopa Valley (R16/f8770)",NA,"",3,"Oxfordian","",163.5,157.3,60902,"gp_mid",107.96,-80.09,"806",160.4,"oxfordian",8866,-165.6547,-80.2518,34,1
-"126590",182757,"col","Ohineruru",174.77,-38.15,"AU 6432, Whakapirau Road (R16/f035)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126591",182758,"col","Ohineruru",174.77,-38.16,"AU 11745, Whakapirau Road (R16/f231)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",25726,-165.6547,-80.2518,34,1
-"126592",182759,"col","Ohineruru",174.77,-38.15,"AU 900, Whakapirau Road (R16/f6960)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.81,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126593",182760,"col","Ohineruru",174.82,-38.55,"AU 339, upper Awakino Valley (R17/f8593)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",106.76,-80.2,"806",160.4,"oxfordian",33515,-165.6547,-80.2518,34,1
-"126606",182773,"col","",174.78,-38.12,"AU 668, Totara Peninsula (R15/f8027)",NA,"",2,"Oxfordian","",163.5,157.3,60902,"gp_mid",109,-80,"806",160.4,"oxfordian",25703,-165.6547,-80.2518,34,1
-"126608",182775,"col","",174.82,-37.39,"AU 691, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"126609",182776,"col","",174.82,-37.39,"AU 11551, Moewaka Quarry (R13/f6500)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",112.82,-79.72,"806",160.4,"oxfordian",25677,-165.6547,-80.2518,34,1
-"126617",182784,"col","Ohineruru",174.77,-38.15,"McF F27, Whakapirau Road (R16/f091)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.82,-80.01,"806",160.4,"oxfordian",8867,-165.6547,-80.2518,34,1
-"126618",182785,"col","Ohinereru",174.8,-38.32,"AU 4279, Kairimu Valley, Marokopa (R16/f8897)",NA,"",1,"Oxfordian","",163.5,157.3,60902,"gp_mid",108.01,-80.1,"806",160.4,"oxfordian",33516,-165.6547,-80.2518,34,1
-"127820",184598,"col","La Manga",-70.2,-38.8,"Portada Covunco Creek, section  1 ",NA,"",14,"Oxfordian","",163.5,157.3,61865,"gp_mid",-23.49,-44.2,"291",160.4,"oxfordian",33786,-29.1546,-49.3799,34,1
-"132999",195173,"col","Fernie",-115.43,51.62,"Fernie - Red Deer River",NA,"",1,"Oxfordian","",163.5,157.3,66408,"gp_mid",-40.54,39.98,"101",160.4,"oxfordian",34985,-44.8122,39.6967,34,1
-"133492",196013,"col","Coralline Oolite",-0.48,54.26,"East Ayton",NA,"",1,"Oxfordian","",163.5,157.3,66694,"gp_mid",16.52,36.95,"315",160.4,"oxfordian",35099,15.4546,36.2732,34,1
-"139113",205670,"col","Aucella Limestone",124.56,-9.96,"Between Bele and Kamlachi",NA,"Belle",1,"Oxfordian","",163.5,157.3,70502,"gp_mid",100.94,-37.43,"680",160.4,"oxfordian",36569,102.7622,-33.8087,34,1
-"139120",205677,"col","",124.57,-9.91,"Between Tooi and Bele",NA,"Toi, Belle",1,"Oxfordian","",163.5,157.3,70502,"gp_mid",100.98,-37.4,"680",160.4,"oxfordian",36571,102.7622,-33.8087,34,1
-"143242",211831,"col","Agardhfjellet",13.89,78.1,"Schicht No. 4",NA,"",1,"Oxfordian","",163.5,157.3,73209,"gp_mid",15.58,61.32,"309",160.4,"oxfordian",37587,4.7889,58.3339,34,1
-"143360",212008,"col","Agardhfjellet",13.91,78.1,"Fossilniveau 4",NA,"",16,"Oxfordian","",163.5,157.3,73254,"gp_mid",15.59,61.32,"309",160.4,"oxfordian",37630,4.7889,58.3339,34,1
-"143901",212798,"col","Agardfjellet",15.01,77.62,"Van Keulenfjorden, Oxfordian",NA,"",3,"Oxfordian","",163.5,157.3,73480,"gp_mid",16.41,60.97,"309",160.4,"oxfordian",37767,4.7889,58.3339,34,1
-"144006",212944,"col","",16.56,78.29,"Sassenfjorden, Mountain side",NA,"",8,"Oxfordian","",163.5,157.3,73524,"gp_mid",16.48,61.71,"309",160.4,"oxfordian",37803,4.7889,58.3339,34,1
-"144037",212975,"col","Agardfjellet",13.9,78.1,"Festningen, Cliff exposure",NA,"",8,"Oxfordian","",163.5,157.3,73524,"gp_mid",15.58,61.32,"309",160.4,"oxfordian",37814,4.7889,58.3339,34,1
-"144348",213467,"col","",6.52,47.17,"Plaimbois-du-Miroir",NA,"",1,"Oxfordian","",163.5,157.3,73694,"gp_mid",23.12,30.66,"305",160.4,"oxfordian",37863,24.268,31.2242,34,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"227",1509,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH 21c-d",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"308",1564,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH40",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"326",1601,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BR55",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"760",2555,"col","Madbi",48.566944,14.266389,"Al Ma'abir III-2",NA,"",22,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",1,160.4,"oxfordian",1
+"761",2556,"col","Madbi",48.566944,14.266389,"Al Ma'abir III-3",NA,"",16,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",1,160.4,"oxfordian",1
+"762",2557,"col","Madbi",48.566944,14.266389,"Al Ma'abir III-4",NA,"",15,"Oxfordian","",163.5,157.3,74,"gp_mid",43.29,-17.61,"503",1,160.4,"oxfordian",1
+"772",2595,"col","Madbi",48.446667,14.316667,"Jebel Billum IV-4",NA,"",11,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",1,160.4,"oxfordian",1
+"773",2596,"col","Madbi",48.446667,14.316667,"Jebel Billum IV-5",NA,"",12,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",1,160.4,"oxfordian",1
+"774",2597,"col","Madbi",48.446667,14.316667,"Jebel Billum IV-6",NA,"",18,"Oxfordian","",163.5,157.3,74,"gp_mid",43.19,-17.52,"503",1,160.4,"oxfordian",1
+"785",2650,"col","Lower Calcareous Grit",-0.289167,54.209999,"Yorkshire FB 6",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"1934",1563,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH28b",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1935",1565,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH31",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1936",1556,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH23a",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1937",1561,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH27",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1938",1560,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH26",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1939",1559,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH25",NA,"",40,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1940",1558,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH24",NA,"",40,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1941",1573,"col","Sandsfoot Grit",-2.45,50.599998,"Dorset SCc",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1942",1562,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH28a",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1945",1567,"col","Sandsfoot Grit",-2.45,50.599998,"Dorset SCa",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1948",1568,"col","Sandsfoot Grit",-2.45,50.599998,"Dorset SCb",NA,"",13,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1949",1504,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH1",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1950",1505,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH6",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1951",1506,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH16",NA,"",3,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1952",1507,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH18",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1953",1557,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH23b",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1954",1508,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset Bh21a",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1958",1914,"col","Osmington Oolite",-2.45,50.599998,"Dorset EF22",NA,"",31,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1959",1915,"col","Osmington Oolite",-2.45,50.599998,"Dorset EF 21",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1960",1603,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BR37",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1961",2656,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII1",NA,"",3,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1962",2658,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII4",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1963",2666,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII11",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1964",2667,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII14",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1965",2665,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII10",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1966",2659,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII5",NA,"",9,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1967",2663,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII8",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1968",2664,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII9",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1969",2668,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII17",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1970",2670,"col","Coralline Oolite",-0.433333,54.233334,"Yorskhire TBII21",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1971",2669,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII18",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1972",2662,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII7",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1973",2660,"col","Coralline Oolite",-1.083333,53.966667,"Yorkshire TBI2",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",16.13,36.62,"315",1,160.4,"oxfordian",1
+"1974",2657,"col","Coralline Oolite",-0.433333,54.233334,"Yorkshire TBII3",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.55,36.94,"315",1,160.4,"oxfordian",1
+"1975",2086,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC16",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1976",2092,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC11",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1978",2093,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC9",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1979",2095,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC7",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1980",2096,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC10",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1981",2098,"col","Trigonia clavellata",-2.45,50.599998,"Dorset SC13",NA,"",18,"Oxfordian","",163.5,157.3,41,"gp_mid",15.65,33.17,"315",1,160.4,"oxfordian",1
+"1982",1611,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR47",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1983",1605,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR39",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1984",1608,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR44",NA,"",51,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1985",1609,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR45",NA,"",34,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1986",1607,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR43",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"1987",1604,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR38",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2009",1920,"col","Lower Calcareous Grit",-1.25,51.75,"Oxfordshire AS",NA,"",23,"Oxfordian","",163.5,157.3,41,"gp_mid",16.37,34.41,"315",1,160.4,"oxfordian",1
+"2010",1917,"col","Nothe Grits",-2.366667,50.633331,"Dorset OSM6",NA,"",13,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",1,160.4,"oxfordian",1
+"2054",2653,"col","Coralline Oolite",-0.289167,54.209999,"Yorkshire FB29",NA,"",15,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2055",2654,"col","Coralline Oolite",-0.289167,54.209999,"Yorkshire FB30",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2056",2652,"col","Coralline Oolite",-0.289167,54.209999,"Yorkshire FB27",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2057",2108,"col","Passage Beds",-0.289167,54.209999,"Yorkshire FB9",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2058",2111,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB17",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2059",2106,"col","Passage Beds",-0.289167,54.209999,"Yorkshire FB10",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2060",2143,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB25",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2061",2105,"col","Passage Beds",-0.289167,54.209999,"Yorkshire FB8",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2062",2142,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB24",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2063",2136,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB18",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2064",2139,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB20",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2065",2651,"col","Coralline Oolite",-0.289167,54.209999,"Yorkshire FB26",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2066",2649,"col","Lower Calcareous Grit",-0.289167,54.209999,"Yorkshire FB5",NA,"",10,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2067",2107,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB12",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2068",2137,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB16",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2069",2138,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB19",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2070",2110,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB13",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2071",2140,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB21",NA,"",17,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2072",2109,"col","Hambleton Oolite",-0.289167,54.209999,"Yorkshire FB11",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2073",2101,"col","Lower Calcareous Grit",-0.289167,54.209999,"Yorkshire FB2",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2074",2103,"col","Lower Calcareous Grit",-0.289167,54.209999,"Yorkshire FB4",NA,"",6,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2075",2144,"col","Malton Oolite",-0.289167,54.209999,"Yorkshire FB31",NA,"",11,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2076",2141,"col","Middle Calcareous Grit",-0.289167,54.209999,"Yorkshire FB22",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2077",2104,"col","Passage Beds",-0.289167,54.209999,"Yorkshire FB7",NA,"",29,"Oxfordian","",163.5,157.3,41,"gp_mid",16.66,36.92,"315",1,160.4,"oxfordian",1
+"2078",1606,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR40",NA,"",36,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2079",1599,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH4",NA,"",23,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2080",1899,"col","Nothe Grits",-2.283333,50.799999,"Dorset BC5",NA,"",8,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2081",1900,"col","Nothe Grits",-2.283333,50.799999,"Dorset BC10",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2082",1901,"col","Nothe Grits",-2.283333,50.799999,"Dorset BC13",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2083",1904,"col","Nothe Grits",-2.283333,50.799999,"Dorset BC15",NA,"",28,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2084",1906,"col","Osmington Oolite",-2.366667,50.633331,"Dorset OS7",NA,"",12,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",1,160.4,"oxfordian",1
+"2085",1907,"col","Osmington Oolite",-2.366667,50.633331,"Dorset OS9",NA,"",7,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",1,160.4,"oxfordian",1
+"2086",1909,"col","Osmington Oolite",-2.366667,50.633331,"Dorset OS11",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",15.71,33.21,"315",1,160.4,"oxfordian",1
+"2087",1602,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BR35",NA,"",27,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2090",1555,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH22",NA,"",16,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2091",1903,"col","Nothe Grits",-2.283333,50.799999,"Dorset BC14",NA,"",14,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2100",1598,"col","Osmington Oolite",-2.283333,50.799999,"Dorset BH17",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2101",1600,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BH17",NA,"",0,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2606",8282,"col","Montejunto",-9.15,39.5,"Portugal A 19",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",10.64,25.38,"304",1,160.4,"oxfordian",1
+"2607",8283,"col","Montejunto",-9.15,39.5,"Portugal A 19/20",NA,"",2,"Oxfordian","",163.5,157.3,41,"gp_mid",10.64,25.38,"304",1,160.4,"oxfordian",1
+"2611",8287,"col","Montejunto",-9.15,39.5,"Portugal A 19/19",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",10.64,25.38,"304",1,160.4,"oxfordian",1
+"2630",8513,"col","Montejunto",-9.15,39.5,"Portugal A 19/10",NA,"",4,"Oxfordian","",163.5,157.3,41,"gp_mid",10.64,25.38,"304",1,160.4,"oxfordian",1
+"2882",1610,"col","Trigonia clavellata",-2.283333,50.799999,"Dorset BR46",NA,"",21,"Oxfordian","",163.5,157.3,41,"gp_mid",15.75,33.38,"315",1,160.4,"oxfordian",1
+"2900",8806,"col","Alcobaca",-9.133333,39.516666,"Portugal A17/312",NA,"",5,"Oxfordian","",163.5,157.3,41,"gp_mid",10.66,25.39,"304",1,160.4,"oxfordian",1
+"2901",8807,"col","",5.583333,48.933334,"Senonville 2",NA,"",25,"Oxfordian","",163.5,157.3,41,"gp_mid",22.04,32.29,"315",1,160.4,"oxfordian",1
+"3871",13953,"col","Tataouine",10.466667,33,"f3/4/4 (Profil 14, Faljet Jdar/Ed-Dghaghra)",NA,"",27,"Oxfordian","",163.5,157.3,6119,"gp_mid",20.91,13.8,"715",1,160.4,"oxfordian",1
+"7462",35507,"col","",39.216667,-9.716667,"Tendaguru Tin 0a",NA,"",17,"Oxfordian","",163.5,157.3,9583,"gp_mid",30.61,-36.27,"701",1,160.4,"oxfordian",1
+"7941",36474,"col","",41.200001,3.866667,"Cox - 146 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.73,-23.35,"709",1,160.4,"oxfordian",1
+"7942",36475,"col","",41.166668,3.866667,"Cox - 147 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.69,-23.34,"709",1,160.4,"oxfordian",1
+"7943",36476,"col","",41.200001,3.9,"Cox - 148 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.74,-23.32,"709",1,160.4,"oxfordian",1
+"7944",36477,"col","",41.200001,3.875,"Cox - 149 (N.E. Kenya)",NA,"",6,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.73,-23.34,"709",1,160.4,"oxfordian",1
+"7945",36478,"col","",41.216667,3.85,"Cox - 150 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.74,-23.37,"709",1,160.4,"oxfordian",1
+"7946",36479,"col","",40.716667,2.516667,"Cox - 151 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.81,-24.51,"709",1,160.4,"oxfordian",1
+"7947",36480,"col","",40.766666,2.466667,"Cox - 152 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.85,-24.58,"709",1,160.4,"oxfordian",1
+"7948",36481,"col","",40.650002,2.6,"Cox - 153 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.77,-24.41,"709",1,160.4,"oxfordian",1
+"7949",36482,"col","",40.533333,3.383333,"Cox - 154 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.89,-23.63,"709",1,160.4,"oxfordian",1
+"7950",36483,"col","",40.483334,3.366667,"Cox - 155 (N.E. Kenya)",NA,"",14,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.83,-23.63,"709",1,160.4,"oxfordian",1
+"7951",36484,"col","",40.75,3.4,"Cox - 156 (N.E. Kenya)",NA,"",9,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.12,-23.67,"709",1,160.4,"oxfordian",1
+"7952",36485,"col","",40.933334,3.383333,"Cox - 157 (N.E. Kenya)",NA,"",13,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.3,-23.74,"709",1,160.4,"oxfordian",1
+"7953",36486,"col","",40.516666,3.335278,"Cox - 158 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.85,-23.67,"709",1,160.4,"oxfordian",1
+"7954",36487,"col","",40.966667,3.433333,"Cox - 159 (N.E. Kenya)",NA,"",3,"Oxfordian","",163.5,157.3,9748,"gp_mid",35.35,-23.7,"709",1,160.4,"oxfordian",1
+"7955",36488,"col","",40.591667,3.416667,"Cox - 160 (N.E. Kenya)",NA,"",2,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.96,-23.61,"709",1,160.4,"oxfordian",1
+"7956",36489,"col","",40.883331,2.366667,"Cox - 161 (N.E. Kenya)",NA,"",1,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.94,-24.7,"709",1,160.4,"oxfordian",1
+"7957",36490,"col","",40.816666,2.483333,"Cox - 162 (N.E. Kenya)",NA,"",1,"Oxfordian","",163.5,157.3,9748,"gp_mid",34.91,-24.57,"709",1,160.4,"oxfordian",1
+"7989",36532,"col","Sundance",-108,44,"Tancredia transversa ASSEMBLAGE",NA,"",3,"Oxfordian","",163.5,157.3,9775,"gp_mid",-37.78,31.16,"101",1,160.4,"oxfordian",1
+"9153",38492,"col","Ampthill Clay",-0.333333,53.5,"Nettleton Bottom Chalk Quarry, Lincolnshire, Ampthill Clay",NA,"",3,"Oxfordian","",163.5,157.3,10298,"gp_mid",16.75,36.22,"315",1,160.4,"oxfordian",1
+"10579",41190,"col","Buya",125,-2,"Unit 3 of the Buya Formation in Indonesia",NA,"",38,"Oxfordian","",163.5,157.3,11078,"gp_mid",115.09,-32.78,"684",1,160.4,"oxfordian",1
+"11442",42341,"col","",-1.7,51.616669,"Highworth, Wiltshire",NA,"",0,"Oxfordian","",163.5,157.3,11186,"gp_mid",16.06,34.24,"315",1,160.4,"oxfordian",1
+"11443",42342,"col","",-1.7,51.616669,"Highworth, Wiltshire",NA,"",2,"Oxfordian","",163.5,157.3,11186,"gp_mid",16.06,34.24,"315",1,160.4,"oxfordian",1
+"13644",45562,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H1)",NA,"",28,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13645",45563,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H1)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13647",45568,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13648",45569,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13649",45570,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13650",45571,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13651",45572,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13652",45573,"col","Hanifa",46.275555,23.897778,"Shaqra Group (Hanifa Fm. Unite H2)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.61,-7.82,"503",1,160.4,"oxfordian",1
+"13761",45759,"col","Hanifa",46.849998,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",24,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",1,160.4,"oxfordian",1
+"13778",45795,"col","Hanifa",46.849998,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",1,160.4,"oxfordian",1
+"13793",45814,"col","Hanifa",46.849998,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",1,160.4,"oxfordian",1
+"13794",45815,"col","Hanifa",46.849998,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",1,160.4,"oxfordian",1
+"13795",45816,"col","Hanifa",46.849998,23.5,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.97,-8.38,"503",1,160.4,"oxfordian",1
+"13797",45818,"col","Hanifa",46.533333,23.083332,"Shaqra Group (Hanifa Fm.)",NA,"",30,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",1,160.4,"oxfordian",1
+"13819",45896,"col","Hanifa",46.533333,23.083332,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",1,160.4,"oxfordian",1
+"13820",45902,"col","Hanifa",46.533333,23.083332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",1,160.4,"oxfordian",1
+"13821",45903,"col","Hanifa",46.533333,23.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-8.67,"503",1,160.4,"oxfordian",1
+"13822",45904,"col","Hanifa",46.633331,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",1,160.4,"oxfordian",1
+"13823",45905,"col","Hanifa",46.633331,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",1,160.4,"oxfordian",1
+"13824",45906,"col","Hanifa",46.633331,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.28,-9.64,"503",1,160.4,"oxfordian",1
+"13825",45907,"col","Hanifa",46.633331,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",1,160.4,"oxfordian",1
+"13826",45908,"col","Hanifa",46.633331,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",1,160.4,"oxfordian",1
+"13827",45909,"col","Hanifa",46.633331,22.75,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.52,-9.02,"503",1,160.4,"oxfordian",1
+"13828",45910,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",10,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13829",45911,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13831",45913,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13832",45914,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13870",45978,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13871",45979,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13872",45980,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13873",45981,"col","Hanifa",46.366669,22.6,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.23,-9.07,"503",1,160.4,"oxfordian",1
+"13874",45982,"col","Hanifa",46.950001,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",6,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",1,160.4,"oxfordian",1
+"13875",45991,"col","Hanifa",46.950001,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",1,160.4,"oxfordian",1
+"13876",45992,"col","Hanifa",46.950001,22.4,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.67,-9.44,"503",1,160.4,"oxfordian",1
+"13877",46000,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13878",46002,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13879",46003,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13880",46004,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13881",46005,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13882",46006,"col","Hanifa",45.900002,22.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.64,-9.4,"503",1,160.4,"oxfordian",1
+"13883",46007,"col","Hanifa",46.133331,21.833332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",1,160.4,"oxfordian",1
+"13884",46008,"col","Hanifa",46.133331,21.833332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",1,160.4,"oxfordian",1
+"13885",46009,"col","Hanifa",46.133331,21.833332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",1,160.4,"oxfordian",1
+"13886",46010,"col","Hanifa",46.133331,21.833332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.75,-9.71,"503",1,160.4,"oxfordian",1
+"13887",46011,"col","Hanifa",45.633331,21.583332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.22,-9.78,"503",1,160.4,"oxfordian",1
+"13888",46012,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13889",46014,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13890",46015,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13891",46016,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13892",46017,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13893",46018,"col","Hanifa",45.683334,21.083332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",43.09,-10.27,"503",1,160.4,"oxfordian",1
+"13894",46020,"col","Hanifa",46.683334,24.083332,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",1,160.4,"oxfordian",1
+"13895",46021,"col","Hanifa",46.683334,24.083332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",1,160.4,"oxfordian",1
+"13896",46023,"col","Hanifa",46.683334,24.083332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",1,160.4,"oxfordian",1
+"13897",46024,"col","Hanifa",46.683334,24.083332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.03,-7.78,"503",1,160.4,"oxfordian",1
+"13898",46030,"col","Hanifa",46.783333,24.266666,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",45.18,-7.64,"503",1,160.4,"oxfordian",1
+"13899",46031,"col","Hanifa",45.950001,24.516666,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",1,160.4,"oxfordian",1
+"13906",46046,"col","Hanifa",45.950001,24.516666,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",1,160.4,"oxfordian",1
+"13907",46047,"col","Hanifa",45.950001,24.516666,"Shaqra Group (Hanifa Fm.)",NA,"",9,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",1,160.4,"oxfordian",1
+"13908",46048,"col","Hanifa",45.950001,24.516666,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",1,160.4,"oxfordian",1
+"13909",46049,"col","Hanifa",45.950001,24.516666,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.55,-7.14,"503",1,160.4,"oxfordian",1
+"13910",46050,"col","Hanifa",46,24.549999,"Shaqra Group (Hanifa Fm.)",NA,"",7,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.6,-7.13,"503",1,160.4,"oxfordian",1
+"13911",46051,"col","Hanifa",46,24.549999,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.6,-7.13,"503",1,160.4,"oxfordian",1
+"13912",46052,"col","Hanifa",46,24.833332,"Shaqra Group (Hanifa Fm.)",NA,"Wadi Hanifa Sud",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",1,160.4,"oxfordian",1
+"13913",46053,"col","Hanifa",46,24.833332,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",1,160.4,"oxfordian",1
+"13914",46054,"col","Hanifa",46,24.833332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",1,160.4,"oxfordian",1
+"13915",46055,"col","Hanifa",46,24.833332,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.86,"503",1,160.4,"oxfordian",1
+"13916",46056,"col","Hanifa",46.150002,24.950001,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",1,160.4,"oxfordian",1
+"13917",46057,"col","Hanifa",46.150002,24.950001,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",1,160.4,"oxfordian",1
+"13918",46058,"col","Hanifa",46.150002,24.950001,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",1,160.4,"oxfordian",1
+"13919",46059,"col","Hanifa",46.150002,24.950001,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",1,160.4,"oxfordian",1
+"13920",46060,"col","Hanifa",46.150002,24.950001,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.87,-6.8,"503",1,160.4,"oxfordian",1
+"13921",46061,"col","Hanifa",46.216667,25.016666,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",1,160.4,"oxfordian",1
+"13922",46062,"col","Hanifa",46.216667,25.016666,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",1,160.4,"oxfordian",1
+"13923",46063,"col","Hanifa",46.216667,25.016666,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",1,160.4,"oxfordian",1
+"13924",46064,"col","Hanifa",46.216667,25.016666,"Shaqra Group (Hanifa Fm.)",NA,"",20,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",1,160.4,"oxfordian",1
+"13925",46065,"col","Hanifa",46.216667,25.016666,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.76,"503",1,160.4,"oxfordian",1
+"14015",46290,"col","Hanifa",46.150002,25.166668,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",1,160.4,"oxfordian",1
+"14017",46292,"col","Hanifa",46.150002,25.166668,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",1,160.4,"oxfordian",1
+"14018",46293,"col","Hanifa",46.150002,25.166668,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",1,160.4,"oxfordian",1
+"14019",46294,"col","Hanifa",46.150002,25.166668,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.95,-6.6,"503",1,160.4,"oxfordian",1
+"14021",46296,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",28,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14024",46299,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14025",46300,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",1,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14026",46301,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14027",46302,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",7,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14028",46303,"col","Hanifa",45.666668,25.633333,"Shaqra Group (Hanifa Fm.)",NA,"",2,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.7,-6.01,"503",1,160.4,"oxfordian",1
+"14029",46304,"col","Hanifa",45.166668,25.833332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.35,-5.66,"503",1,160.4,"oxfordian",1
+"14030",46305,"col","Hanifa",45.166668,25.833332,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.35,-5.66,"503",1,160.4,"oxfordian",1
+"14032",46307,"col","Hanifa",45.166668,26.033333,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",1,160.4,"oxfordian",1
+"14034",46309,"col","Hanifa",45.166668,26.033333,"Shaqra Group (Hanifa Fm.)",NA,"",3,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",1,160.4,"oxfordian",1
+"14035",46310,"col","Hanifa",45.166668,26.033333,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",1,160.4,"oxfordian",1
+"14037",46312,"col","Hanifa",45.166668,26.033333,"Shaqra Group (Hanifa Fm.)",NA,"",5,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.42,-5.47,"503",1,160.4,"oxfordian",1
+"14038",46313,"col","Hanifa",45,26.333332,"Shaqra Group (Hanifa Fm.)",NA,"",8,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.39,-5.14,"503",1,160.4,"oxfordian",1
+"14040",46315,"col","Hanifa",45,26.333332,"Shaqra Group (Hanifa Fm.)",NA,"",4,"Oxfordian","",163.5,157.3,11728,"gp_mid",44.39,-5.14,"503",1,160.4,"oxfordian",1
+"14350",47168,"col","Soccher",12.302778,46.191666,"Soccher, Sc 2",NA,"",98,"Oxfordian","",163.5,157.3,12583,"gp_mid",34.95,20.87,"307",1,160.4,"oxfordian",1
+"14525",47363,"col","Calcareous Grit",-1.5,54,"Priodontognathus type (PROXY)",NA,"",2,"Oxfordian","",163.5,157.3,14179,"gp_mid",15.82,36.62,"315",1,160.4,"oxfordian",1
+"15247",48387,"col","Tendaguru",39.22842,-9.704556,"Tendaguru quarry Q",NA,"",3,"Oxfordian","",163.5,157.3,12603,"gp_mid",30.63,-36.26,"701",1,160.4,"oxfordian",1
+"15248",48388,"col","Tendaguru",39.22842,-9.704556,"Tendaguru quarry J",NA,"",1,"Oxfordian","",163.5,157.3,12585,"gp_mid",30.63,-36.26,"701",1,160.4,"oxfordian",1
+"18918",55965,"col","Kingak Shale",-140.366669,65.775002,"Headwaters of Kandik River - Kingak Shale",NA,"",1,"Oxfordian","",163.5,157.3,15101,"gp_mid",-47.48,58.39,"101",1,160.4,"oxfordian",1
+"18922",55969,"col","Kingak Shale",-140.25,65.083336,"Headwaters of Bern Creek - Kingak Shale",NA,"",2,"Oxfordian","",163.5,157.3,15101,"gp_mid",-48.19,57.81,"101",1,160.4,"oxfordian",1
+"22912",62268,"col","Oxford Clay",-2.124722,51.459999,"Ophiuroidea, Oxfordian, Chippenham, Wiltshire, UK",NA,"",1,"Oxfordian","",163.5,157.3,16757,"gp_mid",15.77,34.05,"315",1,160.4,"oxfordian",1
+"23554",63529,"col","Chari",70.5,23.5,"Kachchh HW 2",NA,"",13,"Oxfordian","",163.5,157.3,17728,"gp_mid",46.24,-30.43,"501",1,160.4,"oxfordian",1
+"23558",63533,"col","Chari",70.5,23.5,"Kachchh Le 8",NA,"",26,"Oxfordian","",163.5,157.3,17728,"gp_mid",46.24,-30.43,"501",1,160.4,"oxfordian",1
+"23559",63534,"col","Chari",70.5,23.5,"Kachchh L 41",NA,"",14,"Oxfordian","",163.5,157.3,17728,"gp_mid",46.24,-30.43,"501",1,160.4,"oxfordian",1
+"26114",67866,"col","",-1.433333,38.700001,"Fuente Alamo, Sponge Biostrome, External Prebetic Zone, Albacete",NA,"Reef 449",86,"Oxfordian","",163.5,157.3,19398,"gp_mid",16.13,22.04,"304",1,160.4,"oxfordian",1
+"26115",67867,"col","",-2.166667,38.416668,"El Entredicho, Elche de la Sierra area, Sponge Biostrome, Albacete",NA,"Reef 448",34,"Oxfordian","",163.5,157.3,19398,"gp_mid",15.44,22.02,"304",1,160.4,"oxfordian",1
+"26179",67976,"col","Abenaki",-60.831669,43.690834,"Demascota G-32 well, Stromatolite-Tubiphytes bioherm, Nova Scotia",NA,"Reef 108",9,"Oxfordian","",163.5,157.3,19435,"gp_mid",-0.16,25.17,"108",1,160.4,"oxfordian",1
+"26205",68080,"col","",-9.85,30.666668,"Cap Guir, Agadir, Coral Reef",NA,"Reef 2854",12,"Oxfordian","",163.5,157.3,19547,"gp_mid",2.09,19.93,"707",1,160.4,"oxfordian",1
+"31249",78221,"col","",-2.7,42.616669,"Montoria, Alava",NA,"",8,"Oxfordian","",163.5,157.3,26346,"gp_mid",17.01,25.99,"304",1,160.4,"oxfordian",1
+"31542",78678,"col","",21.716667,45.683334,"LaP 1",NA,"",40,"Oxfordian","",163.5,157.3,26455,"gp_mid",36.31,14.43,"308",1,160.4,"oxfordian",1
+"31543",78679,"col","",21.716667,45.683334,"LaP 2",NA,"",31,"Oxfordian","",163.5,157.3,26455,"gp_mid",36.31,14.43,"308",1,160.4,"oxfordian",1
+"35524",85959,"col","",7.2,47.366669,"La Caquerelle, Upper Argovian",NA,"Reef 528",30,"Oxfordian","",163.5,157.3,29019,"gp_mid",23.61,30.93,"305",1,160.4,"oxfordian",1
+"36724",87800,"col","",-1.416667,46.233334,"Loix, Re Island",NA,"",3,"Oxfordian","",163.5,157.3,29512,"gp_mid",17.08,28.92,"305",1,160.4,"oxfordian",1
+"36725",87801,"col","",5.55,47.583332,"Neuvelle-les-Champlitte",NA,"Reef 4020",28,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.29,30.95,"305",1,160.4,"oxfordian",1
+"39342",92048,"col","Oxford Clay",0.076389,52.3325,"St Ives pterosaur",NA,"Rhamphorhynchus jessoni holotype site",1,"Oxfordian","",163.5,157.3,30972,"gp_mid",17.26,35.1,"315",1,160.4,"oxfordian",1
+"39370",92104,"col","Sundance",-106.764442,42.525002,"Alcova Lake tracks",NA,"",2,"Oxfordian","",163.5,157.3,31125,"gp_mid",-37.28,29.49,"101",1,160.4,"oxfordian",1
+"39867",92943,"col","Jaisalmer",70.716667,26.883333,"Damodar",NA,"",1,"Oxfordian","",163.5,157.3,31392,"gp_mid",49.94,-29.32,"501",1,160.4,"oxfordian",1
+"39868",92944,"col","Jaisalmer",70.76667,26.866667,"Kuldhar",NA,"",2,"Oxfordian","",163.5,157.3,31392,"gp_mid",49.94,-29.37,"501",1,160.4,"oxfordian",1
+"39899",93000,"col","Gahodleh Shale",45.116669,10.25,"Daghani, bed 216",NA,"",8,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",1,160.4,"oxfordian",1
+"39900",93001,"col","Gahodleh Shale",45.116669,10.25,"Daghani, bed 215",NA,"",3,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",1,160.4,"oxfordian",1
+"39901",93002,"col","Gahodleh Shale",45.116669,10.25,"Daghani, bed 214",NA,"",3,"Oxfordian","",163.5,157.3,31424,"gp_mid",41.46,-18.14,"709",1,160.4,"oxfordian",1
+"39955",93094,"col","",7.033333,47.383331,"Bressaucourt",NA,"",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.48,30.93,"305",1,160.4,"oxfordian",1
+"39956",93095,"col","",6.483333,47.049999,"Gilley",NA,"",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.12,30.54,"305",1,160.4,"oxfordian",1
+"39957",93098,"col","",7.55,47.266666,"Hofbergli",NA,"Reef 529",14,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.9,30.88,"305",1,160.4,"oxfordian",1
+"39960",93102,"col","",5.766667,47.349998,"Champs de Leffond, Charcenne",NA,"Reef 4021",23,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.5,30.75,"305",1,160.4,"oxfordian",1
+"39961",93114,"col","",3.05,47.450001,"Chalumeau Quarry, Alligny-Cosne",NA,"",71,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.37,30.55,"305",1,160.4,"oxfordian",1
+"39962",93124,"col","",2.4,47.083332,"Bourges",NA,"",18,"Oxfordian","",163.5,157.3,31416,"gp_mid",19.93,30.12,"305",1,160.4,"oxfordian",1
+"39963",93134,"col","",7.2,47.366669,"La Caquerelle, Lower Argovian",NA,"Reef 528",17,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.61,30.93,"305",1,160.4,"oxfordian",1
+"39971",93151,"col","",7.15,47.366669,"Saint-Ursanne",NA,"Reef 528",24,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.57,30.93,"305",1,160.4,"oxfordian",1
+"39972",93152,"col","",7.366667,47.383331,"Soyhieres",NA,"Reef 1339",19,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.74,30.97,"305",1,160.4,"oxfordian",1
+"39973",93153,"col","",7.416667,47.400002,"Liesbergmühli",NA,"Reef 1339",16,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.77,30.99,"305",1,160.4,"oxfordian",1
+"39974",93154,"col","",7.466667,47.366669,"Bärschwil",NA,"Reef 1339",11,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.82,30.97,"305",1,160.4,"oxfordian",1
+"39975",93155,"col","",7.05,47.433334,"Courchavon",NA,"Reef 528",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.48,30.98,"305",1,160.4,"oxfordian",1
+"39977",93157,"col","",5.333333,47.566666,"Chaume-et-Courchamp",NA,"Reef 4020",29,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.12,30.91,"305",1,160.4,"oxfordian",1
+"39978",93158,"col","",5.683333,47.616669,"Roche-et-Raucourt",NA,"",8,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.38,31,"305",1,160.4,"oxfordian",1
+"39998",93184,"col","",5.8,47.366669,"Charcenne",NA,"Reef 4021",11,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.52,30.77,"305",1,160.4,"oxfordian",1
+"39999",93185,"col","",6.283333,46.950001,"Pissenavache",NA,"",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.98,30.42,"305",1,160.4,"oxfordian",1
+"40000",93186,"col","",5.533333,48.783333,"Lerouville",NA,"Reef 605",5,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.04,32.14,"315",1,160.4,"oxfordian",1
+"40001",93187,"col","",5.533333,48.816666,"Mecrin",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.03,32.17,"315",1,160.4,"oxfordian",1
+"40002",93188,"col","",5.5,48.900002,"Saint-Mihiel",NA,"Reef 605",33,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.99,32.25,"315",1,160.4,"oxfordian",1
+"40003",93189,"col","",5.483333,48.933334,"Dompcevrin",NA,"Reef 605",4,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.97,32.28,"315",1,160.4,"oxfordian",1
+"40004",93190,"col","",3.75,47.599998,"Cure valley",NA,"Reef 589",15,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.89,30.77,"305",1,160.4,"oxfordian",1
+"40005",93192,"col","",3.166667,47.433334,"Ciez, Les Naslots",NA,"",3,"Oxfordian","",163.5,157.3,31416,"gp_mid",20.47,30.55,"305",1,160.4,"oxfordian",1
+"40007",93199,"col","",7.633333,47.450001,"Hochwald",NA,"Reef 530",3,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.93,31.07,"305",1,160.4,"oxfordian",1
+"40035",93261,"col","",5.583333,48.316666,"Liffol",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",22.17,31.68,"305",1,160.4,"oxfordian",1
+"40036",93262,"col","",6.383333,47.049999,"Arc-sous-Cicon",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.04,30.53,"305",1,160.4,"oxfordian",1
+"40037",93263,"col","",4.5,49.616669,"Viel-Saint-Remy",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",21.08,32.84,"315",1,160.4,"oxfordian",1
+"40038",93264,"col","",6.733333,47.049999,"Le Locle",NA,"",2,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.31,30.57,"305",1,160.4,"oxfordian",1
+"40039",93269,"col","",6.5,46.816666,"Sainte Croix",NA,"",1,"Oxfordian","",163.5,157.3,31416,"gp_mid",23.18,30.31,"305",1,160.4,"oxfordian",1
+"40078",93487,"col","",42.616669,9.45,"Mt. Guresu, level 3",NA,"",7,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.74,-18.33,"709",1,160.4,"oxfordian",1
+"40079",93489,"col","",42.616669,9.45,"Mt. Guresu, level 4",NA,"",1,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.74,-18.33,"709",1,160.4,"oxfordian",1
+"40082",93493,"col","",42.116669,9.266667,"Mt. Hakim, upper level",NA,"",3,"Oxfordian","",163.5,157.3,31622,"gp_mid",38.19,-18.38,"709",1,160.4,"oxfordian",1
+"40097",93540,"col","",42.75,9.283333,"Jijiga",NA,"",1,"Oxfordian","",163.5,157.3,31657,"gp_mid",38.83,-18.52,"709",1,160.4,"oxfordian",1
+"40660",94456,"col","Newton Clay",-2.287222,50.00528,"Sample 2, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40661",94457,"col","Newton Clay",-2.287222,50.00528,"Sample 4, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40662",94458,"col","Woodrow Clay",-2.287222,50.00528,"Sample 6, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40663",94459,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 7, East Stour borehole",NA,"",2,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40664",94460,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 8, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40665",94461,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 9, East Stour borehole",NA,"",8,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40666",94462,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 10, East Stour borehole",NA,"",6,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40667",94463,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 11, East Stour borehole",NA,"",1,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40668",94464,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 12, East Stour borehole",NA,"",0,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40669",94465,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 12, East Stour borehole",NA,"",6,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40670",94466,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 13, East Stour borehole",NA,"",3,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40671",94467,"col","Hazelbury Bryan",-2.287222,50.00528,"Sample 14, East Stour borehole",NA,"",2,"Oxfordian","",163.5,157.3,32131,"gp_mid",15.86,32.59,"305",1,160.4,"oxfordian",1
+"40676",94495,"col","",38.25,10.016667,"Goha Tsion, unit 2",NA,"",11,"Oxfordian","",163.5,157.3,32146,"gp_mid",36.16,-17.09,"715",1,160.4,"oxfordian",1
+"40677",94496,"col","",38.25,10.016667,"Goha Tsion, unit 3",NA,"",1,"Oxfordian","",163.5,157.3,32146,"gp_mid",36.16,-17.09,"715",1,160.4,"oxfordian",1
+"40706",94553,"col","Bihen Limestone",48.433334,11.016667,"Ahankon Tug, Inda",NA,"",1,"Oxfordian","",163.5,157.3,32170,"gp_mid",44.99,-18.09,"709",1,160.4,"oxfordian",1
+"40707",94554,"col","Beni Zaid Limestone",56.066666,24.783333,"Wadi Bih, Jebel Hagab, Ras al Khaima",NA,"",3,"Oxfordian","",163.5,157.3,32170,"gp_mid",53.48,-9.7,"503",1,160.4,"oxfordian",1
+"40730",94588,"col","Antalo Limestone",39.583332,13.683333,"Agula-Dongolo",NA,"",22,"Oxfordian","",163.5,157.3,32202,"gp_mid",38.54,-13.94,"715",1,160.4,"oxfordian",1
+"40749",94628,"col","",-0.033333,49.299999,"Vaches Noires Cliff, stratigraphic bed unknown",NA,"",71,"Oxfordian","",163.5,157.3,31666,"gp_mid",17.69,32.09,"305",1,160.4,"oxfordian",1
+"40884",94775,"col","Summerville/Bluff Sandstone",-109.599998,37.533333,"Butler Wash",NA,"",2,"Oxfordian","",163.5,157.3,32291,"gp_mid",-41.22,25.32,"101",1,160.4,"oxfordian",1
+"42304",96679,"col","Sundance",-108.050003,44.566666,"Greybull",NA,"",4,"Oxfordian","",163.5,157.3,32894,"gp_mid",-37.63,31.71,"101",1,160.4,"oxfordian",1
+"43250",98182,"col","",44.75,-21.033333,"Ankilimanjaka",NA,"",8,"Oxfordian","",163.5,157.3,8015,"gp_mid",32.53,-34.21,"702",1,160.4,"oxfordian",1
+"43254",98186,"col","",44.400002,-22.416668,"Miary",NA,"",9,"Oxfordian","",163.5,157.3,8015,"gp_mid",31.31,-35.21,"702",1,160.4,"oxfordian",1
+"43255",98187,"col","",44.516666,-22.450001,"Manamana",NA,"",11,"Oxfordian","",163.5,157.3,8015,"gp_mid",31.4,-35.29,"702",1,160.4,"oxfordian",1
+"43256",98188,"col","",44.549999,-22.35,"Amberomena",NA,"",14,"Oxfordian","",163.5,157.3,8015,"gp_mid",31.49,-35.23,"702",1,160.4,"oxfordian",1
+"43257",98189,"col","",44.583332,-22.450001,"Fotivolo",NA,"",4,"Oxfordian","",163.5,157.3,8015,"gp_mid",31.46,-35.33,"702",1,160.4,"oxfordian",1
+"43260",98192,"col","",44.400002,-22.766666,"Bepea",NA,"",33,"Oxfordian","",163.5,157.3,8015,"gp_mid",31.08,-35.5,"702",1,160.4,"oxfordian",1
+"43384",98350,"col","",44.533333,-22.9,"Sakaraha",NA,"",4,"Oxfordian","",163.5,157.3,33985,"gp_mid",31.12,-35.68,"702",1,160.4,"oxfordian",1
+"43404",98372,"col","Chari",69,23.666668,"Jumara Dome, unit 15",NA,"",6,"Oxfordian","",163.5,157.3,33990,"gp_mid",45.85,-29.08,"501",1,160.4,"oxfordian",1
+"43405",98373,"col","Chari",69.366669,23.483334,"Bhakri",NA,"",3,"Oxfordian","",163.5,157.3,33990,"gp_mid",45.79,-29.46,"501",1,160.4,"oxfordian",1
+"43664",98684,"col","Hanifa",46.616669,24.433332,"Shaib Ha, S625",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",45.09,-7.43,"503",1,160.4,"oxfordian",1
+"43700",98720,"col","Hanifa",46.623055,24.271667,"Shaib Nisa, S1050",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",45.04,-7.58,"503",1,160.4,"oxfordian",1
+"43711",98731,"col","Hanifa",46.216667,24.966667,"Jebel Bakkain, S1298",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.94,-6.8,"503",1,160.4,"oxfordian",1
+"43724",98744,"col","Hanifa",46.25,24.966667,"Jebel Bakkain, S1443",NA,"",3,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.96,-6.82,"503",1,160.4,"oxfordian",1
+"43779",98801,"col","Hanifa",45.766666,25.291668,"Jebel Hanifa, S1682",NA,"",1,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.67,-6.36,"503",1,160.4,"oxfordian",1
+"43822",98844,"col","Hanifa",46.549999,24.266666,"KK10, Wadi al Furayshah",NA,"",13,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.98,-7.57,"503",1,160.4,"oxfordian",1
+"44051",99082,"col","Hanifa",46.316666,22.366667,"Wadi Hamr, S776",NA,"",1,"Oxfordian","",163.5,157.3,34048,"gp_mid",44.1,-9.27,"503",1,160.4,"oxfordian",1
+"44449",99842,"col","",39.566666,-3.95,"Mombasa-Buni, loc. 34",NA,"",3,"Oxfordian","",163.5,157.3,34336,"gp_mid",31.45,-30.37,"709",1,160.4,"oxfordian",1
+"44699",100139,"col","Sundance",-108,42,"Fremont County ichthyosaur (PROXY)",NA,"",1,"Oxfordian","",163.5,157.3,34365,"gp_mid",-38.46,29.25,"101",1,160.4,"oxfordian",1
+"44809",100370,"col","Sa Wer",43.063889,10.161111,"Sa Warabis, 208-211",NA,"",4,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.38,-17.75,"709",1,160.4,"oxfordian",1
+"44812",100374,"col","Sa Wer",43.063889,10.161111,"Sa Warabis, 214",NA,"",5,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.38,-17.75,"709",1,160.4,"oxfordian",1
+"44820",100382,"col","Sa Wer",42.802776,10.344444,"Gerigoan, 155-156",NA,"",2,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.17,-17.51,"709",1,160.4,"oxfordian",1
+"44821",100383,"col","Sa Wer",42.802776,10.344444,"Gerigoan, 158-159",NA,"",5,"Oxfordian","",163.5,157.3,34459,"gp_mid",39.17,-17.51,"709",1,160.4,"oxfordian",1
+"44995",100657,"col","Coralline Oolite",-1.179167,51.745834,"Shotover Hill, Coralline Oolite",NA,"C",0,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",1,160.4,"oxfordian",1
+"45003",100666,"col","Calcareous Grit",-1.179167,51.745834,"Shotover Hill, Calcareous Grit",NA,"B",2,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",1,160.4,"oxfordian",1
+"45006",100669,"col","Calcareous Grit",-1.179167,51.745834,"Shotover Hill, Oxford Clay",NA,"A",31,"Oxfordian","",163.5,157.3,23773,"gp_mid",16.43,34.41,"315",1,160.4,"oxfordian",1
+"47200",103921,"col","Sundance",-107.762497,44.603333,"Northeast of Shell",NA,"",2,"Oxfordian","",163.5,157.3,35011,"gp_mid",-37.39,31.69,"101",1,160.4,"oxfordian",1
+"48513",106466,"col","",18.683332,51.083332,"Załęcze Wielkie",NA,"Zalecze Wielkie",1,"Oxfordian","",163.5,157.3,35546,"gp_mid",31.44,36.17,"305",1,160.4,"oxfordian",1
+"48514",106467,"col","",19.466667,50.599998,"Mirow",NA,"",1,"Oxfordian","",163.5,157.3,35546,"gp_mid",32.18,35.82,"305",1,160.4,"oxfordian",1
+"53262",112571,"col","",0.316667,40.783333,"Millers Tortosa",NA,"",3,"Oxfordian","",163.5,157.3,36657,"gp_mid",18.4,23.37,"304",1,160.4,"oxfordian",1
+"53709",113061,"col","",19.433332,50.166668,"Wodna",NA,"",2,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.29,35.4,"305",1,160.4,"oxfordian",1
+"53712",113064,"col","",19.916668,50.083332,"Krakow",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.69,35.4,"305",1,160.4,"oxfordian",1
+"53713",113065,"col","",19.933332,50.033333,"Krzemionki",NA,"",2,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.71,35.35,"305",1,160.4,"oxfordian",1
+"53714",113066,"col","",19.9,50.233334,"Minogi",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.63,35.54,"305",1,160.4,"oxfordian",1
+"53746",113099,"col","",19.816668,50.200001,"Ojcow",NA,"",1,"Oxfordian","",163.5,157.3,36718,"gp_mid",32.57,35.49,"305",1,160.4,"oxfordian",1
+"57910",119139,"col","Sundance",-107.650002,42.84,"Gas Hills area 70km west of Casper (Megalneusaurus rex type locality)",NA,"",1,"Oxfordian","",163.5,157.3,38268,"gp_mid",-37.89,29.98,"101",1,160.4,"oxfordian",1
+"58052",119281,"col","Sundance",-106.74556,43.405834,"Off 33 mile road, near Roughlock Hill",NA,"",2,"Oxfordian","",163.5,157.3,38279,"gp_mid",-36.97,30.33,"101",1,160.4,"oxfordian",1
+"58054",119283,"col","Sundance",-105.594444,41.638332,"Albany County (Plesiosaurus shirleyensis type locality) [PROXY]",NA,"",5,"Oxfordian","",163.5,157.3,38280,"gp_mid",-36.61,28.4,"101",1,160.4,"oxfordian",1
+"61928",125278,"col","Sid'r",56.893002,22.82383,"Wadi Saal Section (10), BR52",NA,"",20,"Oxfordian","",163.5,157.3,40646,"gp_mid",53.71,-11.79,"503",1,160.4,"oxfordian",1
+"61991",125376,"col","",58.185879,22.55677,"Section name not reported, BR836",NA,"",12,"Oxfordian","",163.5,157.3,40646,"gp_mid",54.83,-12.34,"503",1,160.4,"oxfordian",1
+"66605",132641,"col","Jieshandaji",80.279999,34.595001,"Songmuxi Lake, 76AR35, Jieshandaji, Rutog County",NA,"",5,"Oxfordian","",163.5,157.3,42718,"gp_mid",89.53,23.16,"612",1,160.4,"oxfordian",1
+"68537",135362,"col","",2.39,47.07,"Bourges, Cher",NA,"",8,"Oxfordian","",163.5,157.3,43337,"gp_mid",19.93,30.11,"305",1,160.4,"oxfordian",1
+"68555",135390,"col","",5.85,48.575001,"Bulligny, Meurthe et Moselle",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",22.32,31.97,"305",1,160.4,"oxfordian",1
+"68556",135391,"col","",7.07,47.419998,"Porrentruy, Old St. Remi, Launoy",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",23.5,30.97,"305",1,160.4,"oxfordian",1
+"68593",135468,"col","",4.57,47.860001,"Chatillon-sur-Seine (USNM coll)",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",21.47,31.12,"305",1,160.4,"oxfordian",1
+"68600",135475,"col","",5.08,49.330002,"Romagne-sous-Montfaucon",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",21.58,32.62,"315",1,160.4,"oxfordian",1
+"68649",135529,"col","",7.403,47.393002,"Bois du Treuil, Soyhières",NA,"",1,"Oxfordian","",163.5,157.3,43337,"gp_mid",23.76,30.98,"305",1,160.4,"oxfordian",1
+"69216",136588,"col","Tendaguru",39.217949,-9.71736,"Tin 0a, Tendaguru",NA,"Tingutinguti",2,"Oxfordian","",163.5,157.3,43685,"gp_mid",30.61,-36.27,"701",1,160.4,"oxfordian",1
+"69591",137169,"col","",9.77,49.220001,"Buchsteige, near Balingen",NA,"",3,"Oxfordian","",163.5,157.3,43855,"gp_mid",25.18,33.07,"305",1,160.4,"oxfordian",1
+"71388",139663,"col","Ampthill Clay",-0.093333,51.806946,"Boulder Clay in Hertfordshire",NA,"",2,"Oxfordian","",163.5,157.3,44916,"gp_mid",17.22,34.56,"315",1,160.4,"oxfordian",1
+"72841",141850,"col","Coral Rag",-1.129722,51.746113,"Wheatley",NA,"",1,"Oxfordian","",163.5,157.3,33960,"gp_mid",16.46,34.41,"315",1,160.4,"oxfordian",1
+"73318",142571,"col","",-0.620278,40.976944,"Oliete section, bed 109 A",NA,"",8,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",1,160.4,"oxfordian",1
+"73319",142572,"col","",-0.620278,40.976944,"Oliete section, bed 109 B",NA,"",11,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",1,160.4,"oxfordian",1
+"73320",142573,"col","",-0.620278,40.976944,"Oliete section, bed 109 C",NA,"",3,"Oxfordian","",163.5,157.3,46294,"gp_mid",17.78,23.84,"304",1,160.4,"oxfordian",1
+"80074",152938,"col","",2.572,46.892101,"Dun-sur-Auron",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.1,29.95,"305",1,160.4,"oxfordian",1
+"80075",152939,"col","",2.7261,47.1632,"Etrechy",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.17,30.24,"305",1,160.4,"oxfordian",1
+"80076",152940,"col","",2.6572,47.0429,"Avord",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.14,30.11,"305",1,160.4,"oxfordian",1
+"80077",152941,"col","",2.5563,47.043999,"Savigny-en-Septaine",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.06,30.1,"305",1,160.4,"oxfordian",1
+"80078",152942,"col","",2.7856,47.241402,"Jalognes",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.2,30.32,"305",1,160.4,"oxfordian",1
+"80079",152943,"col","",2.917,47.159,"Sancergues",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.32,30.25,"305",1,160.4,"oxfordian",1
+"80080",152944,"col","",2.65,47.075001,"Farges-en-Septaine",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.13,30.14,"305",1,160.4,"oxfordian",1
+"80081",152945,"col","",2.73,47.084801,"Baugy",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.16,"305",1,160.4,"oxfordian",1
+"80082",152946,"col","",2.73,47.084801,"Cher (Ex-Calcaires de la Vignonnerie)",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.16,"305",1,160.4,"oxfordian",1
+"80083",152947,"col","",2.675,47.097698,"Villabon",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.14,30.17,"305",1,160.4,"oxfordian",1
+"80084",152948,"col","",2.74,47.122002,"Gron",NA,"",3,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.19,30.2,"305",1,160.4,"oxfordian",1
+"80085",152949,"col","",2.469,46.958,"Cher (Calcaires de la Vignonnerie)",NA,"",5,"Oxfordian","",163.5,157.3,49280,"gp_mid",20.01,30.01,"305",1,160.4,"oxfordian",1
+"80953",154957,"col","",-0.044444,49.230278,"Dozulé",NA,"",1,"Oxfordian","",163.5,157.3,5993,"gp_mid",17.69,32.02,"305",1,160.4,"oxfordian",1
+"82300",157900,"col","Malm",8.83,48.209999,"Lochengrundle",NA,"",2,"Oxfordian","",163.5,157.3,51918,"gp_mid",24.69,31.96,"305",1,160.4,"oxfordian",1
+"82302",157902,"col","Chavoley Beds",5.65,45.848,"Virieu-le-Grand",NA,"",2,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.7,29.26,"305",1,160.4,"oxfordian",1
+"82304",157904,"col","",5.56,46.389999,"Arinthod",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.53,29.78,"305",1,160.4,"oxfordian",1
+"82307",157908,"col","Birmensdorf Beds",8.24,47.459999,"Birmensdorf",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",24.4,31.15,"305",1,160.4,"oxfordian",1
+"82411",158160,"col","",7.48,47.369999,"Fringeli",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",23.83,30.97,"305",1,160.4,"oxfordian",1
+"82412",158161,"col","",5.72,46.619999,"St. Sorlin, Liefnans",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.61,30.02,"305",1,160.4,"oxfordian",1
+"82416",158176,"col","",5.13,48.110001,"Chaumont",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",21.86,31.43,"305",1,160.4,"oxfordian",1
+"82428",158200,"col","",5.4,45.669998,"Sermerieu (Mont Dolet)",NA,"",1,"Oxfordian","",163.5,157.3,51918,"gp_mid",22.54,29.05,"305",1,160.4,"oxfordian",1
+"83459",159776,"col","Lower Calcaerous Grit",-0.399,54.283001,"Scarborough (Lower Calcaerous Grit)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",16.57,36.99,"315",1,160.4,"oxfordian",1
+"83460",159777,"col","Lower Calcaerous Grit",-0.581,54.227001,"Waydale Snainton",NA,"Wydale Rise, Snainton",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",16.44,36.92,"315",1,160.4,"oxfordian",1
+"83613",159959,"col","Gahodleh Shale",45.132999,10.166,"Bihendula (USNM)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",41.46,-18.23,"709",1,160.4,"oxfordian",1
+"83614",159960,"col","Gahodleh Shale",45.139999,10.19,"Bosti, NW of Bihendula (USNM)",NA,"",1,"Oxfordian","",163.5,157.3,33914,"gp_mid",41.47,-18.21,"709",1,160.4,"oxfordian",1
+"83926",160403,"col","Pálihálás Limestone Formaiton",18.513332,47.7225,"Tölgyhát section, Oxfordian Beds, Transdanubian Range",NA,"",12,"Oxfordian","",163.5,157.3,50315,"gp_mid",37.63,17.14,"308",1,160.4,"oxfordian",1
+"84721",161474,"col","",42.299999,2.566,"Mata Gassile (Matawarsis)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.5,-24.9,"709",1,160.4,"oxfordian",1
+"84722",161476,"col","",42.293999,1.846,"Dakatch (limestones)",NA,"Dikatch",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.29,-25.59,"709",1,160.4,"oxfordian",1
+"84723",161477,"col","Bihin Limestone",45.132999,10.166,"Bihendula (Bihin Limestone, top)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.46,-18.23,"709",1,160.4,"oxfordian",1
+"84725",161479,"col","Bihin Limestone",45.132999,10.166,"Bihendula (Bihin Limestone, top) Stefanini",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.46,-18.23,"709",1,160.4,"oxfordian",1
+"84726",161480,"col","Bihin Limestone",45.009998,10.18,"Daras (Bihin Limestone, top)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.34,-18.19,"709",1,160.4,"oxfordian",1
+"84973",161803,"col","Bihin Limestone",45.009998,10.18,"Daras (Bihin Limestone, base)",NA,"",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",41.34,-18.19,"709",1,160.4,"oxfordian",1
+"84986",161816,"col","",42.293999,1.846,"Dakatch (grey limestone)",NA,"Dikatch",1,"Oxfordian","",163.5,157.3,52567,"gp_mid",36.29,-25.59,"709",1,160.4,"oxfordian",1
+"85040",161874,"col","",-9.05,39.183334,"Pragança locality",NA,"",1,"Oxfordian","",163.5,157.3,52665,"gp_mid",10.55,25.06,"304",1,160.4,"oxfordian",1
+"85041",161875,"col","",10.233333,48.616669,"Giengen locality",NA,"",1,"Oxfordian","",163.5,157.3,52665,"gp_mid",25.68,32.54,"305",1,160.4,"oxfordian",1
+"85652",162919,"col","Stump",-109.226669,40.41,"Stump Erymid",NA,"",1,"Oxfordian","",163.5,157.3,24719,"gp_mid",-39.99,27.99,"101",1,160.4,"oxfordian",1
+"85655",162922,"col","Sundance",-104.608612,44.71611,"Sundance malacostracans",NA,"",4,"Oxfordian","",163.5,157.3,53035,"gp_mid",-34.83,31.15,"101",1,160.4,"oxfordian",1
+"85960",163714,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 9-10",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85961",163715,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 11-15",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85962",163716,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 16-19",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85963",163717,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 20-21",NA,"",8,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85964",163718,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 22-25",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85965",163719,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 29-33",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85966",163720,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 34-36",NA,"",4,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85967",163721,"col","Staffin Shale",-6.235072,57.647057,"Digg Headland Beds 37-40",NA,"",10,"Oxfordian","",163.5,157.3,53387,"gp_mid",11.89,39.91,"303",1,160.4,"oxfordian",1
+"85977",163734,"col","",-6.072355,57.182117,"Rudha na h'Airigh Baine 3",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",1,160.4,"oxfordian",1
+"85978",163735,"col","",-6.072355,57.182117,"Rudha na h'Airigh Baine 4",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",1,160.4,"oxfordian",1
+"85979",163736,"col","",-6.072355,57.182117,"Rudha na h'Airigh Baine 5",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",1,160.4,"oxfordian",1
+"85980",163737,"col","",-6.072355,57.182117,"Rudha na h'Airigh Baine 6",NA,"",2,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.07,39.46,"303",1,160.4,"oxfordian",1
+"85981",163738,"col","",-6.110304,57.180882,"Cliffs behind Carn Mor landslip/Airigh Baine",NA,"",3,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",1,160.4,"oxfordian",1
+"85982",163739,"col","",-6.110304,57.180882,"Cliffs behind Carn Mor landslip/Airigh Baine 2",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",1,160.4,"oxfordian",1
+"85983",163740,"col","",-6.110304,57.180882,"Cliffs behind Carn Mor landslip/Airigh Baine 3",NA,"",1,"Oxfordian","",163.5,157.3,53387,"gp_mid",12.04,39.45,"303",1,160.4,"oxfordian",1
+"86047",163869,"col","Chari",68.990799,23.7241,"Jara Dome, Dhosa conglomerate bed matrix",NA,"",5,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.91,-29.05,"501",1,160.4,"oxfordian",1
+"86049",163871,"col","Chari",69.047501,23.687099,"Jumara Dome, Dhosa Conglomerate Bed",NA,"",6,"Oxfordian","",163.5,157.3,53499,"gp_mid",45.89,-29.12,"501",1,160.4,"oxfordian",1
+"86051",163873,"col","Chari",69.748596,23.3699,"Rudra Mata temple, Habo Dome, Dhosa Conglomerate Bed",NA,"",2,"Oxfordian","",163.5,157.3,53499,"gp_mid",45.81,-29.83,"501",1,160.4,"oxfordian",1
+"86052",163874,"col","Gadhada",70.3703,23.7834,"South Khadir Island, top of section",NA,"",2,"Oxfordian","",163.5,157.3,53499,"gp_mid",46.5,-30.21,"501",1,160.4,"oxfordian",1
+"87746",167389,"col","Chari",69.879997,23.379999,"Habo Dome, near Lodai",NA,"",1,"Oxfordian","",163.5,157.3,54622,"gp_mid",45.87,-29.94,"501",1,160.4,"oxfordian",1
+"87747",167390,"col","Chari",69.639999,23.18,"Mundra Road",NA,"",1,"Oxfordian","",163.5,157.3,54622,"gp_mid",45.57,-29.8,"501",1,160.4,"oxfordian",1
+"87748",167391,"col","Chari",69.150002,23.620001,"Keera Dome, bed 10, Kutch",NA,"",1,"Oxfordian","",163.5,157.3,54622,"gp_mid",45.86,-29.23,"501",1,160.4,"oxfordian",1
+"88698",169920,"col","",37.32,49.025002,"Dolgenkoe, Izyum district",NA,"",1,"Oxfordian","",163.5,157.3,55412,"gp_mid",46.48,37.76,"302",1,160.4,"oxfordian",1
+"89427",171136,"col","Dhosa Oolite",69,23.6,"Wanda",NA,"",1,"Oxfordian","",163.5,157.3,52872,"gp_mid",45.78,-29.11,"501",1,160.4,"oxfordian",1
+"89544",171258,"col","",33.450001,30.74,"Gebel Kalieh (Millericrinus)",NA,"",7,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.73,4.05,"508",1,160.4,"oxfordian",1
+"89546",171260,"col","",33.25,30.629999,"Gebel Aroussieh (Oxfordian)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.53,4.01,"508",1,160.4,"oxfordian",1
+"89547",171261,"col","",33.200001,30.639999,"Gebel Hameir (Oxfordian)",NA,"",3,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.5,4.04,"508",1,160.4,"oxfordian",1
+"89548",171262,"col","",33.450001,30.74,"Gebel Kalieh",NA,"",20,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.73,4.05,"508",1,160.4,"oxfordian",1
+"89549",171263,"col","",33.459999,30.74,"Gebel Kalieh (Belemnites)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.74,4.05,"508",1,160.4,"oxfordian",1
+"89550",171264,"col","",33.48,30.690001,"Gebel Manzour (Oxfordian)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.74,3.99,"508",1,160.4,"oxfordian",1
+"89552",171266,"col","",33.200001,30.639999,"Gebel Hameir (Marl)",NA,"",1,"Oxfordian","",163.5,157.3,36012,"gp_mid",37.5,4.04,"508",1,160.4,"oxfordian",1
+"89699",171433,"col","",19.615,50.119999,"Tenczynek, Krakauschen (München Sammlung)",NA,"",2,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",1,160.4,"oxfordian",1
+"89701",171435,"col","",19.615,50.119999,"Tenczynek, Krakauschen (Wiener Sammlung)",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",1,160.4,"oxfordian",1
+"89703",171437,"col","",19.615,50.119999,"Rybna, near Krakau",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.44,35.38,"305",1,160.4,"oxfordian",1
+"89704",171438,"col","",5.37,43.400002,"Septèmes, near Marseille",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",22.93,26.81,"305",1,160.4,"oxfordian",1
+"89705",171439,"col","",19.709999,50.145,"Radwanovice (Galizien)",NA,"Radwanowice",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.51,35.42,"305",1,160.4,"oxfordian",1
+"89756",171490,"col","",19.76,50.150002,"Kobilany (Galizien)",NA,"Kobylany",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",32.55,35.44,"305",1,160.4,"oxfordian",1
+"89758",171492,"col","",8.485,47.955002,"Mjatschkowa",NA,"",1,"Oxfordian","",163.5,157.3,55750,"gp_mid",24.48,31.67,"305",1,160.4,"oxfordian",1
+"94002",182012,"col","Chari",69.505096,23.3939,"Medisar, Jhura Dome, Dhosa Conglomerate Bed",NA,"",2,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.75,-29.61,"501",1,160.4,"oxfordian",1
+"94004",182014,"col","Chari",69.761497,23.1947,"Ler, south of Bhuj, Dhosa Conglomerate",NA,"",3,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.63,-29.9,"501",1,160.4,"oxfordian",1
+"94007",182017,"col","Chari",69.245598,23.584801,"Keera Dome, Dhosa Conglomerate Bed",NA,"",1,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.86,-29.32,"501",1,160.4,"oxfordian",1
+"94012",182022,"col","Chari",69.8918,23.368999,"Lodai, Habo Dome, Dhosa Conglomerate",NA,"",1,"Oxfordian","",163.5,157.3,60523,"gp_mid",45.87,-29.95,"501",1,160.4,"oxfordian",1
+"94014",182024,"col","Gadhada",70.3703,23.7834,"South Khadir Island, base of section",NA,"",1,"Oxfordian","",163.5,157.3,60523,"gp_mid",46.5,-30.21,"501",1,160.4,"oxfordian",1
+"94025",182035,"col","Gadhada",70.385002,23.777,"Kakindia Bet",NA,"",1,"Oxfordian","",163.5,157.3,60523,"gp_mid",46.49,-30.23,"501",1,160.4,"oxfordian",1
+"94026",182037,"col","Washtawa",70.4944,23.4907,"Tramau River, Wagad Uplift (loose specimens)",NA,"",3,"Oxfordian","",163.5,157.3,60523,"gp_mid",46.23,-30.43,"501",1,160.4,"oxfordian",1
+"98741",196013,"col","Coralline Oolite",-0.475,54.255001,"East Ayton",NA,"",1,"Oxfordian","",163.5,157.3,66694,"gp_mid",16.52,36.95,"315",1,160.4,"oxfordian",1
+"99060",196750,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 14",NA,"Alqueidao da Serra",3,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99061",196751,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 2",NA,"Alqueidao da Serra",1,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99062",196752,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 4",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99063",196753,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 5",NA,"Alqueidao da Serra",3,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99064",196754,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 6",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99065",196755,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 7",NA,"Alqueidao da Serra",1,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99066",196756,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 9",NA,"Alqueidao da Serra",1,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99067",196757,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 10",NA,"Alqueidao da Serra",1,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99068",196758,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 12",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99069",196759,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 13",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99070",196760,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 15",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"99071",196761,"col","Cabacos",-8.783333,39.599998,"Cabeco da Vaca Bed 18",NA,"Alqueidao da Serra",2,"Oxfordian","",163.5,157.3,66997,"gp_mid",10.97,25.34,"304",1,160.4,"oxfordian",1
+"106273",211831,"col","Agardhfjellet",13.885833,78.098892,"Schicht No. 4",NA,"",1,"Oxfordian","",163.5,157.3,73209,"gp_mid",15.58,61.32,"309",1,160.4,"oxfordian",1
+"106385",212008,"col","Agardhfjellet",13.913611,78.098892,"Fossilniveau 4",NA,"",16,"Oxfordian","",163.5,157.3,73254,"gp_mid",15.59,61.32,"309",1,160.4,"oxfordian",1
+"106879",212798,"col","Agardfjellet",15.014167,77.622498,"Van Keulenfjorden, Oxfordian",NA,"",3,"Oxfordian","",163.5,157.3,73480,"gp_mid",16.41,60.97,"309",1,160.4,"oxfordian",1
+"106983",212944,"col","",16.561943,78.287781,"Sassenfjorden, Mountain side",NA,"",8,"Oxfordian","",163.5,157.3,73524,"gp_mid",16.48,61.71,"309",1,160.4,"oxfordian",1
+"107014",212975,"col","Agardfjellet",13.895556,78.09861,"Festningen, Cliff exposure",NA,"",8,"Oxfordian","",163.5,157.3,73524,"gp_mid",15.58,61.32,"309",1,160.4,"oxfordian",1
+"107298",213467,"col","",6.516944,47.169445,"Plaimbois-du-Miroir",NA,"",1,"Oxfordian","",163.5,157.3,73694,"gp_mid",23.12,30.66,"305",1,160.4,"oxfordian",1

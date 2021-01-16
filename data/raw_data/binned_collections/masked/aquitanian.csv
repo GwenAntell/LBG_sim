@@ -1,214 +1,168 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"9722",18663,"col","Fleming",-93.4,31,"Toledo Bend",NA,"",42,"Aquitanian","",23.03,20.44,933,"gp_mid",-84.46,34.75,"101",21.735,"aquitanian",2018,-88.9982,29.7193,10,1
-"10544",19485,"col","Temblor",-118.83,35.49,"Pyramid Hill, upper concretion-bearing bed",NA,"UCMP V6916, LACM 1628",6,"Aquitanian","",23.03,20.44,6198,"gp_mid",-107.44,39.67,"130",21.735,"aquitanian",2033,-112.0858,33.0388,10,1
-"11325",65051,"col","",-9.17,38.71,"Prazeres",NA,"",1,"Aquitanian","",23.03,20.44,18735,"gp_mid",-5.9,35.43,"304",21.735,"aquitanian",2057,-10.5436,35.0348,10,1
-"13400",25254,"col","Dehirdan",57.91,26.47,"Sardasht, Makran, Iran",NA,"Reef 656",13,"Aquitanian","",23.03,20.44,7077,"gp_mid",56.11,17.41,"503",21.735,"aquitanian",2563,51.8993,21.0584,10,1
-"14448",28307,"col","Fossil Bluff Sandstone",145.73,-40.98,"PL3029 - Upper Bed, Table Cape",NA,"Fossil Bluff, Table Cape, Wynyard",19,"Aquitanian","",23.03,20.44,26982,"gp_mid",152.84,-51.65,"801",21.735,"aquitanian",2821,144.9742,-50.5425,10,1
-"21858",37350,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 1",NA,"Chlamys praescabiuscula community sample 1",4,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21859",37351,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 2",NA,"Chlamys praescabiuscula community sample 2",8,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21860",37352,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 3",NA,"Chlamys praescabiuscula community sample 3",10,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21861",37353,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 4",NA,"Chlamys praescabiuscula community sample 4",7,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21862",37354,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 5",NA,"Chlamys praescabiuscula community sample 5",7,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21863",37355,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 6",NA,"Chlamys praescabiuscula community sample 6",3,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21864",37360,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna sample 7",NA,"Pecten purigalensis community sample 7",1,"Aquitanian","",23.03,20.44,10020,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"21953",37451,"col","",16.48,-28.58,"Orange River Core 1",NA,"",47,"Aquitanian","",23.03,20.44,10031,"gp_mid",14.25,-34.1,"701",21.735,"aquitanian",4485,11.9057,-30.6075,10,1
-"22019",37560,"col","Clallam",-124.14,48.23,"USGS M4049, Pillar Point",NA,"",38,"Aquitanian","",23.03,20.44,10046,"gp_mid",-112.5,52.53,"129",21.735,"aquitanian",4513,-117.3167,48.6264,10,1
-"22050",37595,"col","Clallam",-124.25,48.26,"NP163, Clallam Bay",NA,"",9,"Aquitanian","",23.03,20.44,10046,"gp_mid",-112.62,52.57,"129",21.735,"aquitanian",4522,-117.3167,48.6264,10,1
-"28096",45481,"col","Clallam",-124.25,48.26,"Slip Point Lighthouse",NA,"UCMP V5761, LACM 5933",5,"Aquitanian","",23.03,20.44,11885,"gp_mid",-112.61,52.57,"129",21.735,"aquitanian",4522,-117.3167,48.6264,10,1
-"28332",45727,"col","Puebla Clay",144.52,-38.25,"Ocean Grove",NA,"",1,"Aquitanian","",23.03,20.44,13672,"gp_mid",150.46,-49.19,"801",21.735,"aquitanian",6457,144.5779,-48.0559,10,1
-"30026",47623,"col","Libano Sandstone",12.22,46.14,"Libano",NA,"",40,"Aquitanian","",23.03,20.44,12902,"gp_mid",15.84,40.84,"307",21.735,"aquitanian",7043,9.6528,42.1183,10,1
-"31526",49395,"col","Arenaria di Grumi",11.36,45.71,"Schio",NA,"",1,"Aquitanian","",23.03,20.44,14542,"gp_mid",14.98,40.51,"307",21.735,"aquitanian",7492,9.6528,42.1183,10,1
-"31962",50035,"col","Foulden Hills Diatomite",170.22,-45.53,"Foulden Hills maar (I43/f8503)",NA,"",32,"Aquitanian","",23.03,20.44,38656,"gp_mid",-172.03,-47.16,"807",21.735,"aquitanian",7632,178.1471,-49.6815,10,1
-"33956",52409,"col","Monterey",-120.31,34.74,"Location #64-1 - Southeast coast of Santa Rosa Island (Monterey Fm)",NA,"",1,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
-"33957",52410,"col","Monterey",-120.31,34.74,"Location #67-26 - Southeast coast of Santa Rosa Island (Monterey Fm)",NA,"",3,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
-"33958",52411,"col","Monterey",-120.31,34.74,"Location #64-9 - SE central Santa Rosa Island (Monterey Fm)",NA,"",1,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
-"33959",52412,"col","Rincon",-120.31,34.74,"Location #64-10 - SE central Santa Rosa Island (San Miguel Volcanics)",NA,"",1,"Aquitanian","",23.03,20.44,14094,"gp_mid",-110.06,38.2,"105",21.735,"aquitanian",8168,-112.0858,33.0388,10,1
-"37073",57060,"col","",12.76,45.98,"Meduna Creek",NA,"Preplans",1,"Aquitanian","",23.03,20.44,15409,"gp_mid",16.3,40.62,"307",21.735,"aquitanian",8996,9.6528,42.1183,10,1
-"38819",58899,"col","Skooner Gulch",-123.65,38.87,"Skooner Gulch I",NA,"UCMP V75135",4,"Aquitanian","",23.03,20.44,16702,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",9377,-118.3388,41.1613,10,1
-"38896",58979,"col","Khari Nadi",68.8,23.4,"Aida",NA,"",2,"Aquitanian","",23.03,20.44,16723,"gp_mid",69.12,12.53,"501",21.735,"aquitanian",9393,62.2859,15.7669,10,1
-"38970",59056,"col","Nye",-124.07,44.56,"Thiel Creek, south",NA,"",2,"Aquitanian","",23.03,20.44,16742,"gp_mid",-112.61,48.86,"129",21.735,"aquitanian",9415,-117.6878,46.1391,10,1
-"38978",59066,"col","Astoria",-123.78,46.28,"Knappton, east",NA,"LACM 4584, LACMIP 5864",1,"Aquitanian","",23.03,20.44,16774,"gp_mid",-112.21,50.58,"129",21.735,"aquitanian",9420,-117.3167,48.6264,10,1
-"39717",59850,"col","Libano",12.22,46.14,"Belluno",NA,"",2,"Aquitanian","",23.03,20.44,36621,"gp_mid",15.84,40.84,"307",21.735,"aquitanian",7043,9.6528,42.1183,10,1
-"40287",60610,"col","",-72.82,20.07,"Station 9762",NA,"W 299 F",4,"Aquitanian","",23.03,20.44,17411,"gp_mid",-67.83,21.64,"252",21.735,"aquitanian",9733,-70.3817,18.4248,10,1
-"40288",60611,"col","",-72.13,18.88,"Station 9557",NA,"W 116 F",2,"Aquitanian","",23.03,20.44,17411,"gp_mid",-67.25,20.41,"252",21.735,"aquitanian",9734,-70.3817,18.4248,10,1
-"40289",60612,"col","",-72.13,18.88,"Station 9449",NA,"W 119 F",2,"Aquitanian","",23.03,20.44,17411,"gp_mid",-67.25,20.41,"252",21.735,"aquitanian",9734,-70.3817,18.4248,10,1
-"43206",64777,"col","Nye",-124.07,44.54,"Lost Creek",NA,"State Wayside Park, Lost Creek State Recreation Site",2,"Aquitanian","",23.03,20.44,18698,"gp_mid",-112.62,48.85,"129",21.735,"aquitanian",10418,-117.6878,46.1391,10,1
-"43662",65479,"col","",-9.14,38.71,"Tunel do Rossio",NA,"",1,"Aquitanian","",23.03,20.44,18869,"gp_mid",-5.87,35.43,"304",21.735,"aquitanian",10579,-10.5436,35.0348,10,1
-"45225",67659,"col","Unalaska",-166.52,53.87,"Arriaga Quarry",NA,"Unalaska Lake",3,"Aquitanian","",23.03,20.44,19318,"gp_mid",-164.69,59.79,"125",21.735,"aquitanian",10962,-158.868,58.7168,10,1
-"46879",69927,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 1, NW Mallorca",NA,"Reef 1996",8,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
-"46880",69928,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 2, NW Mallorca",NA,"Reef 1996",14,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
-"46881",69929,"col","Sant Elm",2.63,39.75,"Serra de Tramuntana, reef-type 3, NW Mallorca",NA,"Reef 1996",6,"Aquitanian","",23.03,20.44,23474,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",11482,0.2604,37.7954,10,1
-"47084",70315,"col","",5.15,43.33,"Chainon de La Nerthe, Bouches-du-Rhone",NA,"Reef 663",62,"Aquitanian","",23.03,20.44,23527,"gp_mid",7.99,39.38,"305",21.735,"aquitanian",11520,0.1446,40.2938,10,1
-"47303",70589,"col","Calvert",-76.69,38.75,"Lyons Creek, Zone 1",NA,"",1,"Aquitanian","",23.03,20.44,23697,"gp_mid",-66.04,40.76,"109",21.735,"aquitanian",11574,-69.6278,38.5961,10,1
-"49864",74808,"col","Turgut",28,37,"Turgut Fm (lower)",NA,"",6,"Aquitanian","",23.03,20.44,25210,"gp_mid",29.29,32.52,"504",21.735,"aquitanian",12210,22.8435,33.479,10,1
-"50307",75609,"col","Ghubbarah",57.75,19.04,"Gebel Madrakah - Ghubbarah Fm",NA,"",13,"Aquitanian","",23.03,20.44,25532,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",12316,51.136,13.5939,10,1
-"50392",75776,"col","Skooner Gulch",-123.74,38.96,"Point Arena",NA,"LACM 3402",2,"Aquitanian","",23.03,20.44,12297,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",12363,-118.3388,41.1613,10,1
-"50669",76315,"col","Khari Nadi",68.8,23.4,"Khari Nadi Fm",NA,"",7,"Aquitanian","",23.03,20.44,25850,"gp_mid",69.12,12.53,"501",21.735,"aquitanian",9393,62.2859,15.7669,10,1
-"50735",76582,"col","Kama",95.3,19.62,"Dalabe (Kama stage)",NA,"",27,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.71,10.77,"617",21.735,"aquitanian",12531,91.3485,16.2413,10,1
-"50736",76583,"col","Kama",95.15,19.02,"Kama (Kama stage)",NA,"",29,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.8,10.16,"617",21.735,"aquitanian",12532,91.3485,16.2413,10,1
-"50737",76584,"col","Kama",95.38,19.5,"Kyaungon (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.69,"617",21.735,"aquitanian",12533,91.3485,16.2413,10,1
-"50738",76585,"col","Kama",95.38,19.5,"Kyudawon (Kama stage)",NA,"",12,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.69,"617",21.735,"aquitanian",12533,91.3485,16.2413,10,1
-"50746",76593,"col","Kama",95.4,19.52,"Myaukmigon (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.84,10.71,"617",21.735,"aquitanian",12539,91.3485,16.2413,10,1
-"50747",76594,"col","Kama",95.37,19.47,"Myauktin (Kama stage)",NA,"",2,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.83,10.65,"617",21.735,"aquitanian",12540,91.3485,16.2413,10,1
-"50748",76595,"col","Kama",95.38,19.53,"Thanga (Kama stage)",NA,"",37,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.82,10.72,"617",21.735,"aquitanian",12541,91.3485,16.2413,10,1
-"50749",76596,"col","Kama",95.47,19.52,"Tittabwe (Kama stage)",NA,"",25,"Aquitanian","",23.03,20.44,25894,"gp_mid",99.9,10.73,"617",21.735,"aquitanian",12542,91.3485,16.2413,10,1
-"55703",84913,"col","Gee Greensand",170.9,-45.18,"Kakanui",NA,"",1,"Aquitanian","",23.03,20.44,28503,"gp_mid",-171.34,-46.81,"807",21.735,"aquitanian",14204,-177.7604,-49.9118,10,1
-"55860",85110,"col","",9.17,39.37,"Dolianova",NA,"Reef 1989",4,"Aquitanian","",23.03,20.44,28605,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
-"60762",92102,"col","",-9.13,38.72,"Lisboa City",NA,"Reef 1997",5,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.86,35.43,"304",21.735,"aquitanian",15991,-10.5436,35.0348,10,1
-"60763",92103,"col","",-9.15,38.47,"Alfarim",NA,"",2,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.9,35.18,"304",21.735,"aquitanian",15992,-10.5436,35.0348,10,1
-"63764",95769,"col","Khari Nadi",68.91,23.37,"Nangia",NA,"",1,"Aquitanian","",23.03,20.44,32532,"gp_mid",69.23,12.48,"501",21.735,"aquitanian",16898,62.2859,15.7669,10,1
-"70057",104943,"col","Gambier",140.76,-37.89,"Telford's Quarry",NA,"",10,"Aquitanian","",23.03,20.44,35125,"gp_mid",145.91,-49.44,"801",21.735,"aquitanian",19338,140.1336,-48.3291,10,1
-"79371",116623,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, Aquitanian",NA,"",71,"Aquitanian","",23.03,20.44,37562,"gp_mid",49.58,36.13,"402",21.735,"aquitanian",22247,44.2778,39.8338,10,1
-"79381",116633,"col","",49.47,40.51,"Mount Islamdag, Eastern Slope, Maikop Group, member 4 & 4, Aquitanian",NA,"",30,"Aquitanian","",23.03,20.44,37562,"gp_mid",49.52,36.14,"402",21.735,"aquitanian",22251,44.2778,39.8338,10,1
-"80965",118406,"col","",14.27,36.05,"Gozo, Aquitanian",NA,"",3,"Aquitanian","",23.03,20.44,38149,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",22655,11.8999,31.8925,10,1
-"84881",189023,"col","Otekaike Limestone",170.65,-44.66,"Hakataramea Quarry, Aquitanian",NA,"I40:f0399",1,"Aquitanian","",23.03,20.44,61997,"gp_mid",-171.61,-46.29,"807",21.735,"aquitanian",23735,-177.7604,-49.9118,10,1
-"92621",133885,"col","Mazantic Shale",-92,16,"Mazantic Shale",NA,"",13,"Aquitanian","",23.03,20.44,43162,"gp_mid",-84.73,19.7,"205",21.735,"aquitanian",25682,-96.0054,16.7348,10,1
-"96016",138022,"col","Holmsk",142.08,47.8,"Tomari",NA,"",9,"Aquitanian","",23.03,20.44,44130,"gp_mid",137.34,48.71,"610",21.735,"aquitanian",26819,140.4939,50.3889,10,1
-"99941",142513,"col","Gaiman",-65.48,-43.28,"Gaiman (marine vertebrates)",NA,"",5,"Aquitanian","",23.03,20.44,36733,"gp_mid",-61.48,-42.93,"291",21.735,"aquitanian",27548,-58.937,-45.19,10,1
-"100722",143488,"col","",5.48,43.6,"Venelles",NA,"",1,"Aquitanian","",23.03,20.44,46496,"gp_mid",8.32,39.63,"305",21.735,"aquitanian",27654,0.1446,40.2938,10,1
-"101597",144548,"col","",9.23,39.72,"Strintu de Melonis, Nurri",NA,"Comidanu da Strintu Argiolu alla Stazione di Nurri",1,"Aquitanian","",23.03,20.44,46758,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",27772,3.1563,38.2723,10,1
-"102458",146336,"col","",174.8,-36.3,"S1, South Mathesons Bay (R09/f130, L17560)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102459",146337,"col","",174.78,-36.3,"S2, South Mathesons Bay (R09/f131, L17561)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.14,-41.04,"806",21.735,"aquitanian",27973,-174.871,-43.3315,10,1
-"102460",146338,"col","",174.8,-36.3,"S3, South Mathesons Bay (R09/f132, L17562)",NA,"",23,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102461",146339,"col","",174.8,-36.3,"S4, South Mathesons Bay (R09/f133, L17563)",NA,"",9,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102462",146340,"col","",174.8,-36.3,"S5, South Mathesons Bay (R09/f134, L17564)",NA,"",11,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102463",146341,"col","",174.8,-36.3,"S6, South Mathesons Bay (R09/f135, L17565)",NA,"",2,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102464",146342,"col","",174.8,-36.3,"N1, North Mathesons Bay (R09/f136, L17566)",NA,"",5,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102465",146343,"col","",174.8,-36.3,"N2, North Mathesons Bay (R09/f137, L17567)",NA,"",12,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102466",146344,"col","",174.8,-36.3,"N3, North Mathesons Bay (R09/f137, L17567)",NA,"",10,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102467",146345,"col","",174.8,-36.3,"N4, North Mathesons Bay (R09/f139, L17569)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102468",146346,"col","",174.8,-36.3,"I1, Mathesons Bay Islet (R09/f140, L17570)",NA,"",9,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102469",146347,"col","",174.8,-36.3,"I2, Mathesons Bay Islet (R09/f141, L17571)",NA,"",18,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"102470",146348,"col","",174.8,-36.3,"I3, Mathesons Bay Islet (R09/f142, LI17572)",NA,"",7,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"107656",152424,"col","Abrakurrie Limestone",126.18,-32.08,"Tommy Graham Cave",NA,"",3,"Aquitanian","",23.03,20.44,49060,"gp_mid",127.16,-45.42,"801",21.735,"aquitanian",28875,122.0905,-43.8658,10,1
-"107673",152503,"col","Abrakurrie Limestone",127.02,-31.65,"Madura, 12.9 km north of Firestick Cave (Abrakurrie Lst)",NA,"",3,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.1,-44.93,"801",21.735,"aquitanian",28885,122.0905,-43.8658,10,1
-"107689",152480,"col","Abakurrie Limestone",127.73,-31.7,"Thylacine Hole",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.96,-44.91,"801",21.735,"aquitanian",28893,122.0905,-43.8658,10,1
-"107714",152511,"col","Abrakurrie Limestone",125.03,-32.73,"Cliff face of Toolinna",NA,"",2,"Aquitanian","",23.03,20.44,49060,"gp_mid",125.86,-46.16,"801",21.735,"aquitanian",28901,117.7038,-43.856,10,1
-"107726",152530,"col","Abrakurrie Limestone",127.02,-31.68,"10 km north of Firestick Cave",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.11,-44.95,"801",21.735,"aquitanian",28905,122.0905,-43.8658,10,1
-"107729",152537,"col","Abrakurrie Limestone",127.02,-31.77,"Firestick Cave",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.12,-45.04,"801",21.735,"aquitanian",28906,122.0905,-43.8658,10,1
-"107731",152540,"col","Abrakurrie Limestone",127.23,-31.72,"Mullamullang Cave, Abrakurrie Limestone talus",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.37,-44.98,"801",21.735,"aquitanian",28907,122.0905,-43.8658,10,1
-"107898",152908,"col","",10.81,43.08,"Montebamboli",NA,"Ceva, Piemonte, northwestern Italy (Fig. 1); early Miocene (MN 1–2; Delle Cave,",4,"Aquitanian","",23.03,20.44,42659,"gp_mid",13.95,37.96,"307",21.735,"aquitanian",28980,9.2598,39.636,10,1
-"108370",153678,"col","",14.17,42.35,"Chietino",NA,"",1,"Aquitanian","",23.03,20.44,49756,"gp_mid",16.89,36.88,"307",21.735,"aquitanian",29081,12.8182,39.32,10,1
-"111812",159092,"col","",145.73,-40.98,"Table Cape (USNM collection)",NA,"",1,"Aquitanian","",23.03,20.44,43337,"gp_mid",152.84,-51.65,"801",21.735,"aquitanian",2821,144.9742,-50.5425,10,1
-"112623",160181,"col","Parachucla",-82.76,30.33,"UF Loc. HA-001 - White Springs [Porters Landing Mbr, Parachucla Fm]",NA,"",1,"Aquitanian","",23.03,20.44,52284,"gp_mid",-73.59,33.04,"109",21.735,"aquitanian",30235,-77.8438,29.0474,10,1
-"113608",161388,"col","Globigerina Limestone",14.34,35.91,"Rdum ii-Vigarju",NA,"",10,"Aquitanian","",23.03,20.44,52582,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",30473,11.8999,31.8925,10,1
-"115504",164572,"col","",9.37,56.17,"Moselund West, Silkeborg",NA,"",1,"Aquitanian","",23.03,20.44,53769,"gp_mid",12.85,52.05,"302",21.735,"aquitanian",30895,2.6394,53.0532,10,1
-"116338",165883,"col","Khari Nadi",68.82,23.41,"Aida, Kutch",NA,"",1,"Aquitanian","",23.03,20.44,47015,"gp_mid",69.14,12.53,"501",21.735,"aquitanian",31127,62.2859,15.7669,10,1
-"117586",167912,"col","",9.17,39.37,"Villagreca, Monte Su Crucuri Section",NA,"Reef 1989",2,"Aquitanian","",23.03,20.44,54888,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
-"117587",167913,"col","",9.17,39.37,"Villagreca, Genna Siustas Section",NA,"",8,"Aquitanian","",23.03,20.44,54888,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
-"117588",167914,"col","",9.17,39.37,"Villagreca, Is Barrocus Section",NA,"",4,"Aquitanian","",23.03,20.44,54888,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
-"117589",167915,"col","",9.17,39.37,"Villagreca, Punta Trempu Section",NA,"",4,"Aquitanian","",23.03,20.44,54888,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",14263,3.1563,38.2723,10,1
-"118231",169440,"col","Nye",-124.06,44.65,"LACM 4318",NA,"",1,"Aquitanian","",23.03,20.44,55383,"gp_mid",-112.6,48.95,"129",21.735,"aquitanian",31648,-117.6878,46.1391,10,1
-"118232",169441,"col","Jewett Sand",-118.34,36.01,"Horse Canyon",NA,"LACM 3351; LACM 3362",1,"Aquitanian","",23.03,20.44,55383,"gp_mid",-110.28,41.62,"101",21.735,"aquitanian",31649,-112.0858,33.0388,10,1
-"122756",176773,"col","Fossil Bluff Sandstone",145.73,-40.98,"Port Willunga, near Aldinga",NA,"",1,"Aquitanian","",23.03,20.44,58320,"gp_mid",152.85,-51.65,"801",21.735,"aquitanian",2821,144.9742,-50.5425,10,1
-"123119",177173,"col","",68.8,23.4,"Khari Nadi Fm.",NA,"",51,"Aquitanian","",23.03,20.44,58522,"gp_mid",69.12,12.52,"501",21.735,"aquitanian",9393,62.2859,15.7669,10,1
-"123769",178480,"col","",3.1,43.19,"Armissan turtle",NA,"",6,"Aquitanian","",23.03,20.44,58591,"gp_mid",6.04,39.31,"305",21.735,"aquitanian",32795,0.1446,40.2938,10,1
-"124352",179122,"col","Arcadia",-85.07,30.47,"TU 1196. Farley Creek, about 0.8 mi E of bridge of Fla. Hwy. 275",NA,"",4,"Aquitanian","",23.03,20.44,57818,"gp_mid",-75.93,33.41,"109",21.735,"aquitanian",32955,-81.5541,29.2683,10,1
-"126357",182218,"col","Uitpa",-71.43,12.03,"Arroyo Uitpa",NA,"",14,"Aquitanian","",23.03,20.44,60603,"gp_mid",-64.42,12.58,"203",21.735,"aquitanian",33453,-70.2582,8.8286,10,1
-"127731",184492,"col","Upper Burman Limestone",94.7,15.17,"Yadana area (offshore Myanmar), SF3 and SF4",NA,"Reef 4092",2,"Aquitanian","",23.03,20.44,61840,"gp_mid",100.81,6.41,"617",21.735,"aquitanian",33777,91.9709,11.5161,10,1
-"130276",189024,"col","Otekaike Limestone",170.49,-44.68,"Hakataramea Valley, Aquitanian",NA,"",1,"Aquitanian","",23.03,20.44,61997,"gp_mid",-171.77,-46.31,"807",21.735,"aquitanian",34401,178.1471,-49.6815,10,1
-"130277",189025,"col","Mount Harris",170.96,-44.51,"Bluecliffs",NA,"",1,"Aquitanian","",23.03,20.44,55050,"gp_mid",-171.29,-46.14,"807",21.735,"aquitanian",34402,-177.7604,-49.9118,10,1
-"131531",191280,"col","Preplans Sandstone",12.8,46.22,"Torrente Meduna",NA,"",2,"Aquitanian","",23.03,20.44,64533,"gp_mid",16.38,40.85,"307",21.735,"aquitanian",4451,9.6528,42.1183,10,1
-"132923",194964,"col","",174.8,-36.26,"AU6658, Goat Island (R09/f7508)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1
-"132924",194965,"col","",174.8,-36.26,"AU7314, Goat Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1
-"132925",194966,"col","",174.8,-36.26,"AU8881, Goat Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1
-"132926",194967,"col","",174.82,-36.28,"AU6676, Cape Rodney (R09/f0064)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"132927",194968,"col","",174.82,-36.28,"AU7316, Cape Rodney (R09/f0064)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"132928",194969,"col","",174.82,-36.28,"AU7319, Cape Rodney (R09/f9530)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"132929",194970,"col","",174.82,-36.28,"AU8905, Cape Rodney (R09/f0090)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"132930",194971,"col","",174.73,-36.29,"MA132838, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",21.735,"aquitanian",34966,-174.871,-43.3315,10,1
-"133057",195301,"col","",174.8,-36.3,"AU6868, Te Kohuroa/Mathesons Bay (R09/f9516)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133058",195302,"col","",174.8,-36.3,"AU7320, Te Kohuroa/Mathesons Bay (R09/f9538)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133059",195303,"col","",174.8,-36.3,"AU8865, Te Kohuroa/Mathesons Bay (R09/f9538)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133060",195304,"col","",174.8,-36.3,"AU8869, Te Kohuroa/Mathesons Bay (R09/f0091)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133061",195305,"col","",174.8,-36.3,"MA132490, Te Kohuroa/Mathesons Bay (R09/f0130)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133062",195306,"col","",174.8,-36.3,"MA132533, Te Kohuroa/Mathesons Bay (R09/f0135)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133063",195307,"col","",174.8,-36.3,"MA132614, Te Kohuroa/Mathesons Bay (R09/f0142)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133064",195308,"col","",174.8,-36.3,"MA132639, Te Kohuroa/Mathesons Bay (R09/f0138)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133065",195309,"col","",174.8,-36.3,"MA132676, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133066",195311,"col","",174.87,-36.45,"AU9776, Kawau Island (R09/f9537)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133067",195312,"col","",174.87,-36.45,"AU9777, Kawau Island",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133068",195313,"col","",174.87,-36.45,"MA81970, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133069",195314,"col","",175.35,-36.47,"AU1491, Cape Colville (S09/f9515)",NA,"N35/f515",2,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.5,-41.07,"806",21.735,"aquitanian",35004,-174.871,-43.3315,10,1
-"133070",195315,"col","",175.35,-36.47,"AU6654, Cape Colville (S09/f9514)",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.5,-41.07,"806",21.735,"aquitanian",35004,-174.871,-43.3315,10,1
-"133071",195316,"col","",175.35,-36.47,"AU6677, Cape Colville (S09/f9515)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.5,-41.07,"806",21.735,"aquitanian",35004,-174.871,-43.3315,10,1
-"133072",195317,"col","",174.81,-36.47,"AU2485, Motuketekete Island (R09/f9549)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.05,-41.2,"806",21.735,"aquitanian",35005,-174.871,-43.3315,10,1
-"133073",195318,"col","",174.89,-36.76,"AU4528, Motutapu Island (R10/f9003)",NA,"N38/f3",2,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133074",195319,"col","",174.89,-36.76,"AU7296, Motutapu Island (R10/f9585)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133075",195320,"col","",174.89,-36.76,"AU11073, Motutapu Island (R10/f9003)",NA,"",3,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133076",195321,"col","",174.89,-36.76,"MA34672, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133077",195322,"col","",174.94,-36.82,"MA91103, Motuihe Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.78,-41.5,"806",21.735,"aquitanian",35007,-174.871,-43.3315,10,1
-"133078",195323,"col","",175.01,-36.92,"AU6672, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133079",195324,"col","",175.01,-36.92,"AU8818, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133080",195325,"col","",175.01,-36.92,"AU8820, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133081",195326,"col","",175.01,-36.92,"AU9166, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133082",195327,"col","",175.01,-36.92,"AU9167, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133083",195328,"col","",175.01,-36.92,"MA34667, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133084",195329,"col","",175,-36.94,"AU6672, Whitford Quarry (R11/f7654)",NA,"N42/f654",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.67,-41.6,"806",21.735,"aquitanian",35009,-174.871,-43.3315,10,1
-"133085",195330,"col","",174.98,-37.07,"AU8810, Hays Stream (R12/f0072)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133086",195331,"col","",174.98,-37.07,"MA76838, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133087",195332,"col","",174.98,-37.07,"MA91208, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133088",195333,"col","",174.98,-37.07,"OU45373, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133091",195336,"col","",175.01,-36.92,"MA34670, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133092",195337,"col","",174.72,-37.46,"AU8807, Waikawau Beach (R13/f0115)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",21.735,"aquitanian",35013,-174.871,-43.3315,10,1
-"133093",195338,"col","",174.72,-37.46,"AU15246, Waikawau Beach (R13/f0293)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",21.735,"aquitanian",35013,-174.871,-43.3315,10,1
-"133095",195340,"col","",174.98,-37.07,"MA77312, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133096",195341,"col","",174.8,-36.26,"AU6656, Goat Island (R09/f7506)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1
-"133097",195342,"col","",174.8,-36.26,"AU6657, Goat Island (R09/f7507)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",21.735,"aquitanian",34964,-174.871,-43.3315,10,1
-"133098",195343,"col","",174.82,-36.28,"AU8873, Cape Rodney",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"133099",195344,"col","",174.82,-36.28,"AU8874, Cape Rodney (R09/f0064)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"133100",195345,"col","",174.82,-36.28,"AU8878, Cape Rodney (R09/f0090)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"133101",195346,"col","",174.82,-36.28,"AU9588, Cape Rodney (R09/f0054)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"133102",195347,"col","",174.73,-36.29,"MA91104, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",21.735,"aquitanian",34966,-174.871,-43.3315,10,1
-"133103",195348,"col","",174.73,-36.29,"MA132839, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",21.735,"aquitanian",34966,-174.871,-43.3315,10,1
-"133104",195349,"col","",174.8,-36.3,"AU8870, Te Kohuroa/Mathesons Bay",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133105",195350,"col","",174.8,-36.3,"AU9595, Te Kohuroa/Mathesons Bay (R09/f0098)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133106",195351,"col","",174.8,-36.3,"MA34673, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133107",195352,"col","",174.8,-36.3,"MA132485, Te Kohuroa/Mathesons Bay (R09/f0130)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133108",195353,"col","",174.8,-36.3,"MA132534, Te Kohuroa/Mathesons Bay (R09/f0135)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133109",195354,"col","",174.8,-36.3,"MA132570, Te Kohuroa/Mathesons Bay (R09/f0141)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133110",195355,"col","",174.8,-36.3,"MA132612, Te Kohuroa/Mathesons Bay (R09/f0132)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133111",195356,"col","",174.8,-36.3,"MA132615, Te Kohuroa/Mathesons Bay (R09/f0142)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133112",195357,"col","",174.8,-36.3,"MA132649, Te Kohuroa/Mathesons Bay (R09/f0133)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133113",195358,"col","",174.8,-36.3,"MA132681, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"133114",195359,"col","",174.87,-36.45,"AU6661, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133115",195360,"col","Cape Rodney",174.87,-36.45,"AU6662, Kawau Island (R09/f9533-5)",NA,"",3,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133116",195361,"col","",174.87,-36.45,"MA81969, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133117",195362,"col","",174.81,-36.47,"AU17530, Motuketekete Island (R09/f0151)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.05,-41.2,"806",21.735,"aquitanian",35005,-174.871,-43.3315,10,1
-"133118",195363,"col","",174.89,-36.76,"MA91049, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133119",195364,"col","",174.89,-36.76,"MA91050, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133120",195365,"col","",174.89,-36.76,"MA91197, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133121",195366,"col","",174.89,-36.76,"MA92028, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133122",195367,"col","",174.94,-36.82,"AU11068, Te Motu-a-Ihenga/Motuihe Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.78,-41.5,"806",21.735,"aquitanian",35007,-174.871,-43.3315,10,1
-"133123",195368,"col","",175.01,-36.92,"MA34665, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",21.735,"aquitanian",35008,-174.871,-43.3315,10,1
-"133124",195369,"col","",174.98,-37.07,"AU8809, Hays Stream (R12/f7011)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133125",195370,"col","",174.98,-37.07,"MA76831, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133126",195371,"col","",174.98,-37.07,"OU45372, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133132",195377,"col","",174.82,-36.28,"BR001013, Cape Rodney",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"133133",195378,"col","",174.87,-36.45,"AU4529, Kawau Island (R09/f0011)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133135",195379,"col","",174.87,-36.45,"AU8900, Kawau Island (R09/f9537)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133136",195380,"col","Cape Rodney",174.87,-36.45,"MA81968, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"133137",195381,"col","",174.89,-36.76,"MA91199, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",35006,-174.871,-43.3315,10,1
-"133138",195382,"col","",174.98,-37.07,"MA77362, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",21.735,"aquitanian",35010,-174.871,-43.3315,10,1
-"133145",195390,"col","",174.7,-36.54,"AU1508, Waiwera Beach",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.13,-41.29,"806",21.735,"aquitanian",35018,-174.871,-43.3315,10,1
-"133147",195392,"col","",174.72,-37.46,"AU15266, Waikawau Beach",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",21.735,"aquitanian",35013,-174.871,-43.3315,10,1
-"133148",195393,"col","",174.72,-37.46,"AU14357, Waikawau Beach (R13/f0085)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",21.735,"aquitanian",35013,-174.871,-43.3315,10,1
-"133969",196806,"col","Lincoln Creek",-123.49,46.91,"UWBM B8944",NA,"LACMIP 17102",2,"Aquitanian","",23.03,20.44,62223,"gp_mid",-111.86,51.2,"129",21.735,"aquitanian",35185,-117.3167,48.6264,10,1
-"136186",201397,"col","Siamaná",-71.42,12.03,"Arroyo Uitpa locality, Siamaná Fm, station code PF0016",NA,"",4,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",21.735,"aquitanian",35726,-70.2582,8.8286,10,1
-"136187",201398,"col","Siamaná",-71.42,12.03,"Arroyo Uitpa locality, Siamaná Fm, station code 550005",NA,"",8,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",21.735,"aquitanian",35726,-70.2582,8.8286,10,1
-"136188",201399,"col","Siamaná",-71.42,12.03,"Arroyo Uitpa locality, Siamaná Fm, station code 550006",NA,"",5,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",21.735,"aquitanian",35726,-70.2582,8.8286,10,1
-"136189",201400,"col","Siamaná",-71.4,11.83,"Flor de La Guajira locality, Siamaná Fm, station code 550001",NA,"",5,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.4,12.38,"203",21.735,"aquitanian",35727,-70.2582,8.8286,10,1
-"136190",201401,"col","Siamaná",-71.4,11.83,"Flor de La Guajira locality, Siamaná Fm, station code 550002",NA,"",3,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.4,12.38,"203",21.735,"aquitanian",35727,-70.2582,8.8286,10,1
-"137473",203158,"col","Clallam",-124.14,48.23,"USGS M5878, Pillar Point",NA,"",7,"Aquitanian","",23.03,20.44,10046,"gp_mid",-112.5,52.53,"129",21.735,"aquitanian",4513,-117.3167,48.6264,10,1
-"138334",204642,"col","Subis Limestone",113.78,3.77,"Gunung Subis",NA,"",10,"Aquitanian","",23.03,20.44,70211,"gp_mid",118.86,4.44,"621",21.735,"aquitanian",36222,110.6652,8.7975,10,1
-"138664",205118,"col","",-69.86,11.89,"Buenavista de Maicillal",NA,"",5,"Aquitanian","",23.03,20.44,70390,"gp_mid",-62.85,12.37,"203",21.735,"aquitanian",36337,-70.2582,8.8286,10,1
-"141117",208795,"col","",174.8,-36.3,"Mathesons Bay (N34/f511)",NA,"R09/f9511",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"141118",208796,"col","",174.82,-36.28,"Cape Rodney (N34/f12)",NA,"R09/f9012",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"141119",208797,"col","",174.82,-36.28,"GS450, Cape Rodney (N29/f2)",NA,"R09/f7002",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"141120",208798,"col","",174.99,-36.79,"Church Bay, Waiheke Island (N42/f1)",NA,"R11/f7001",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.74,-41.46,"806",21.735,"aquitanian",37126,-174.871,-43.3315,10,1
-"141122",208800,"col","",174.9,-36.76,"West side Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.85,-41.45,"806",21.735,"aquitanian",37127,-174.871,-43.3315,10,1
-"141123",208801,"col","",174.85,-36.45,"Brownrigg Point, Kawai Island (N34/f11)",NA,"R09/f9011",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.01,-41.16,"806",21.735,"aquitanian",37128,-174.871,-43.3315,10,1
-"141124",208802,"col","",174.82,-36.28,"Cape Rodney (N34/f531)",NA,"R09/f9531",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",21.735,"aquitanian",34965,-174.871,-43.3315,10,1
-"141125",208803,"col","Cape Rodney",174.87,-36.45,"Kawau Island (N34/f533)",NA,"R09/f9533",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177,-41.16,"806",21.735,"aquitanian",35003,-174.871,-43.3315,10,1
-"141126",208804,"col","",174.8,-36.3,"Mathesons Bay (N34/f540)",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.12,-41.04,"806",21.735,"aquitanian",27972,-174.871,-43.3315,10,1
-"141388",209212,"col","",8.47,39.61,"Funtanazza",NA,"",1,"Aquitanian","",23.03,20.44,72204,"gp_mid",NA,NA,"coordinates not computable using this model",21.735,"aquitanian",37202,3.1563,38.2723,10,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"3987",65051,"col","",-9.168889,38.708611,"Prazeres",NA,"",1,"Aquitanian","",23.03,20.44,18735,"gp_mid",-5.9,35.43,"304",1,21.735,"aquitanian",1
+"8474",37451,"col","",16.483299,-28.5833,"Orange River Core 1",NA,"",47,"Aquitanian","",23.03,20.44,10031,"gp_mid",14.25,-34.1,"701",1,21.735,"aquitanian",1
+"14773",47623,"col","Libano Sandstone",12.2175,46.139999,"Libano",NA,"",40,"Aquitanian","",23.03,20.44,12902,"gp_mid",15.84,40.84,"307",1,21.735,"aquitanian",1
+"15603",49395,"col","Arenaria di Grumi",11.358333,45.713333,"Schio",NA,"",1,"Aquitanian","",23.03,20.44,14542,"gp_mid",14.98,40.51,"307",1,21.735,"aquitanian",1
+"21293",59850,"col","Libano",12.2175,46.139999,"Belluno",NA,"",2,"Aquitanian","",23.03,20.44,36621,"gp_mid",15.84,40.84,"307",1,21.735,"aquitanian",1
+"24372",65069,"col","",-0.147222,44.455555,"Gans",NA,"Courtebotte",3,"Aquitanian","",23.03,20.44,18736,"gp_mid",3.09,40.71,"305",1,21.735,"aquitanian",1
+"24374",65071,"col","",0.072778,44.66111,"Saint-Martin-de-Puy",NA,"",1,"Aquitanian","",23.03,20.44,18736,"gp_mid",3.31,40.91,"305",1,21.735,"aquitanian",1
+"24385",65085,"col","",-0.503056,44.650276,"Saint Morillon",NA,"",2,"Aquitanian","",23.03,20.44,18736,"gp_mid",2.77,40.92,"305",1,21.735,"aquitanian",1
+"24611",65479,"col","",-9.139167,38.713612,"Tunel do Rossio",NA,"",1,"Aquitanian","",23.03,20.44,18869,"gp_mid",-5.87,35.43,"304",1,21.735,"aquitanian",1
+"26041",67659,"col","Unalaska",-166.521729,53.868958,"Arriaga Quarry",NA,"Unalaska Lake",3,"Aquitanian","",23.03,20.44,19318,"gp_mid",-164.69,59.79,"125",1,21.735,"aquitanian",1
+"27403",70074,"col","",-0.366667,44.466667,"Gamachot near Villandraut, Bazadais, Gironde",NA,"Reef 1986",4,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.88,40.73,"305",1,21.735,"aquitanian",1
+"27488",70232,"col","",-0.6,44.733334,"Thil, L'Eau Blanche Valley, Gironde",NA,"Reef 3573",19,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.68,41.01,"305",1,21.735,"aquitanian",1
+"27492",70241,"col","",-0.616667,44.799999,"L'Eau Bourde Valley, Pessac area, Gironde",NA,"Reef 3573",16,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.67,41.07,"305",1,21.735,"aquitanian",1
+"27493",70242,"col","",-0.516667,44.366669,"Martillac, Breyra Valley, Gironde",NA,"Reef 3574",32,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.73,40.64,"305",1,21.735,"aquitanian",1
+"27494",70244,"col","",-0.6,44.650002,"Lariey, Saucats Valley, Gironde",NA,"Reef 3573",7,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.68,40.92,"305",1,21.735,"aquitanian",1
+"27507",70310,"col","",-0.433333,43.933334,"Saint Avit, Douze Valley, Landes",NA,"",4,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.78,40.2,"305",1,21.735,"aquitanian",1
+"27508",70311,"col","",-0.433333,43.933334,"Carreau, Douze Valley, Landes",NA,"",4,"Aquitanian","",23.03,20.44,23527,"gp_mid",2.78,40.2,"305",1,21.735,"aquitanian",1
+"27657",70517,"col","Calvert",-77.37056,37.766388,"Hanover Court House",NA,"",3,"Aquitanian","",23.03,20.44,23660,"gp_mid",-66.91,39.86,"109",1,21.735,"aquitanian",1
+"29951",74808,"col","Turgut",28,37,"Turgut Fm (lower)",NA,"",6,"Aquitanian","",23.03,20.44,25210,"gp_mid",29.29,32.52,"504",1,21.735,"aquitanian",1
+"29960",74859,"col","",-0.516667,44.700001,"Martillac, Aquitaine",NA,"",1,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.76,40.97,"305",1,21.735,"aquitanian",1
+"29962",74861,"col","Falun de Saucats",-0.568333,44.661667,"Lariey, Saucats, Aquitaine",NA,"",315,"Aquitanian","",23.03,20.44,25226,"gp_mid",2.71,40.93,"305",1,21.735,"aquitanian",1
+"29963",74862,"col","",-0.316667,44.450001,"Uzeste, Aquitaine",NA,"",5,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.93,40.71,"305",1,21.735,"aquitanian",1
+"29964",74863,"col","",-0.366667,44.516666,"Saint-Avit, Aquitaine",NA,"",3,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.89,40.78,"305",1,21.735,"aquitanian",1
+"29965",74864,"col","",-0.5,44.883331,"Corbleu, Aquitaine",NA,"",0,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.79,41.15,"305",1,21.735,"aquitanian",1
+"29966",74865,"col","Falun de Sainte-Avit",-0.661944,43.906666,"Meilhan",NA,"Carrière Vives, Saint-Martin-d’Oney,",173,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.56,40.19,"305",1,21.735,"aquitanian",1
+"29967",74866,"col","",-1.05,43.733334,"Saint-Paul-lès-Dax (Aquitanian), Aquitaine",NA,"",11,"Aquitanian","",23.03,20.44,25224,"gp_mid",2.18,40.03,"305",1,21.735,"aquitanian",1
+"31962",79646,"col","Qom",51.737778,33.794167,"Chalheghareh",NA,"",3,"Aquitanian","",23.03,20.44,26759,"gp_mid",50.93,27.47,"512",1,21.735,"aquitanian",1
+"37496",88796,"col","",-0.633333,43.916668,"Saint-Martin-d'Oney (Lesport collection)",NA,"",4,"Aquitanian","",23.03,20.44,29773,"gp_mid",2.59,40.19,"305",1,21.735,"aquitanian",1
+"38234",90456,"col","",-0.35,43.983334,"Moulin de Carro, Corbleu",NA,"",3,"Aquitanian","",23.03,20.44,30421,"gp_mid",2.86,40.25,"305",1,21.735,"aquitanian",1
+"38235",90457,"col","Falun de Saucats",-1.034167,43.727501,"Mainot, St.-Paul-les-Dax",NA,"",12,"Aquitanian","",23.03,20.44,55728,"gp_mid",2.2,40.02,"305",1,21.735,"aquitanian",1
+"39368",92102,"col","",-9.133333,38.716667,"Lisboa City",NA,"Reef 1997",5,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.86,35.43,"304",1,21.735,"aquitanian",1
+"39369",92103,"col","",-9.15,38.466667,"Alfarim",NA,"",2,"Aquitanian","",23.03,20.44,31005,"gp_mid",-5.9,35.18,"304",1,21.735,"aquitanian",1
+"47448",104943,"col","Gambier",140.759995,-37.887222,"Telford's Quarry",NA,"",10,"Aquitanian","",23.03,20.44,35125,"gp_mid",145.91,-49.44,"801",1,21.735,"aquitanian",1
+"61961",125336,"col","",13.728056,50.583889,"Brestany",NA,"",1,"Aquitanian","",23.03,20.44,40668,"gp_mid",16.42,46.35,"305",1,21.735,"aquitanian",1
+"67303",133885,"col","Mazantic Shale",-92,16,"Mazantic Shale",NA,"",13,"Aquitanian","",23.03,20.44,43162,"gp_mid",-84.73,19.7,"205",1,21.735,"aquitanian",1
+"69012",199542,"col","",3.199167,46.100277,"Gannat superieur",NA,"",1,"Aquitanian","",23.03,20.44,59247,"gp_mid",6.35,42.22,"305",1,21.735,"aquitanian",1
+"70198",138022,"col","Holmsk",142.07666,47.798611,"Tomari",NA,"",9,"Aquitanian","",23.03,20.44,44130,"gp_mid",137.34,48.71,"610",1,21.735,"aquitanian",1
+"73910",143488,"col","",5.483333,43.599167,"Venelles",NA,"",1,"Aquitanian","",23.03,20.44,46496,"gp_mid",8.32,39.63,"305",1,21.735,"aquitanian",1
+"75292",146336,"col","",174.796005,-36.301998,"S1, South Mathesons Bay (R09/f130, L17560)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75293",146337,"col","",174.78334,-36.299999,"S2, South Mathesons Bay (R09/f131, L17561)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.14,-41.04,"806",1,21.735,"aquitanian",1
+"75294",146338,"col","",174.796005,-36.301998,"S3, South Mathesons Bay (R09/f132, L17562)",NA,"",23,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75295",146339,"col","",174.796005,-36.301998,"S4, South Mathesons Bay (R09/f133, L17563)",NA,"",9,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75296",146340,"col","",174.796005,-36.301998,"S5, South Mathesons Bay (R09/f134, L17564)",NA,"",11,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75297",146341,"col","",174.796005,-36.301998,"S6, South Mathesons Bay (R09/f135, L17565)",NA,"",2,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75298",146342,"col","",174.800003,-36.299999,"N1, North Mathesons Bay (R09/f136, L17566)",NA,"",5,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",1,21.735,"aquitanian",1
+"75299",146343,"col","",174.800003,-36.299999,"N2, North Mathesons Bay (R09/f137, L17567)",NA,"",12,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",1,21.735,"aquitanian",1
+"75300",146344,"col","",174.800003,-36.299999,"N3, North Mathesons Bay (R09/f137, L17567)",NA,"",10,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",1,21.735,"aquitanian",1
+"75301",146345,"col","",174.800003,-36.299999,"N4, North Mathesons Bay (R09/f139, L17569)",NA,"",4,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.03,"806",1,21.735,"aquitanian",1
+"75302",146346,"col","",174.7995,-36.303501,"I1, Mathesons Bay Islet (R09/f140, L17570)",NA,"",9,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75303",146347,"col","",174.7995,-36.303501,"I2, Mathesons Bay Islet (R09/f141, L17571)",NA,"",18,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"75304",146348,"col","",174.7995,-36.303501,"I3, Mathesons Bay Islet (R09/f142, LI17572)",NA,"",7,"Aquitanian","",23.03,20.44,47276,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"79884",152424,"col","Abrakurrie Limestone",126.18,-32.080002,"Tommy Graham Cave",NA,"",3,"Aquitanian","",23.03,20.44,49060,"gp_mid",127.16,-45.42,"801",1,21.735,"aquitanian",1
+"79897",152503,"col","Abrakurrie Limestone",127.019997,-31.652,"Madura, 12.9 km north of Firestick Cave (Abrakurrie Lst)",NA,"",3,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.1,-44.93,"801",1,21.735,"aquitanian",1
+"79913",152480,"col","Abakurrie Limestone",127.73333,-31.700001,"Thylacine Hole",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.96,-44.91,"801",1,21.735,"aquitanian",1
+"79939",152530,"col","Abrakurrie Limestone",127.019997,-31.68,"10 km north of Firestick Cave",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.11,-44.95,"801",1,21.735,"aquitanian",1
+"79942",152537,"col","Abrakurrie Limestone",127.019997,-31.768999,"Firestick Cave",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.12,-45.04,"801",1,21.735,"aquitanian",1
+"79944",152540,"col","Abrakurrie Limestone",127.230499,-31.724001,"Mullamullang Cave, Abrakurrie Limestone talus",NA,"",1,"Aquitanian","",23.03,20.44,49060,"gp_mid",128.37,-44.98,"801",1,21.735,"aquitanian",1
+"80070",152908,"col","",10.810556,43.076942,"Montebamboli",NA,"Ceva, Piemonte, northwestern Italy (Fig. 1); early Miocene (MN 1–2; Delle Cave,",4,"Aquitanian","",23.03,20.44,42659,"gp_mid",13.95,37.96,"307",1,21.735,"aquitanian",1
+"83914",160388,"col","",7.816667,45.016666,"Chieri, SE of Torino",NA,"",1,"Aquitanian","",23.03,20.44,52290,"gp_mid",11.61,40.22,"307",1,21.735,"aquitanian",1
+"83917",160391,"col","",7.883333,45.099998,"Sciolze, NE of Torino",NA,"",1,"Aquitanian","",23.03,20.44,52290,"gp_mid",11.69,40.29,"307",1,21.735,"aquitanian",1
+"84657",161396,"col","",-1.1,43.549999,"Peyrehorade locality",NA,"",36,"Aquitanian","",23.03,20.44,52592,"gp_mid",2.12,39.85,"305",1,21.735,"aquitanian",1
+"86030",163837,"col","",-0.633333,43.766666,"S-W French atlantic basins",NA,"",66,"Aquitanian","",23.03,20.44,53435,"gp_mid",2.58,40.04,"305",1,21.735,"aquitanian",1
+"89631",171353,"col","",-0.516667,44.666668,"La Brède",NA,"",3,"Aquitanian","",23.03,20.44,55728,"gp_mid",2.76,40.94,"305",1,21.735,"aquitanian",1
+"90180",172003,"col","",21.549999,40.049999,"Agapi village",NA,"",18,"Aquitanian","",23.03,20.44,55876,"gp_mid",23.27,33.87,"307",1,21.735,"aquitanian",1
+"93252",179856,"col","",-0.652,43.921001,"Saint-Martin-d'Oney (Rocher collection)",NA,"",2,"Aquitanian","",23.03,20.44,59671,"gp_mid",2.57,40.2,"305",1,21.735,"aquitanian",1
+"93255",179859,"col","",-1.04,43.735001,"Saint-Paul-lès-Dax (Maynot)",NA,"",1,"Aquitanian","",23.03,20.44,59671,"gp_mid",2.19,40.03,"305",1,21.735,"aquitanian",1
+"94036",182218,"col","Uitpa",-71.431664,12.025556,"Arroyo Uitpa",NA,"",14,"Aquitanian","",23.03,20.44,60603,"gp_mid",-64.42,12.58,"203",1,21.735,"aquitanian",1
+"98336",194964,"col","",174.796997,-36.264,"AU6658, Goat Island (R09/f7508)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",1,21.735,"aquitanian",1
+"98337",194965,"col","",174.796997,-36.264,"AU7314, Goat Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",1,21.735,"aquitanian",1
+"98338",194966,"col","",174.796997,-36.264,"AU8881, Goat Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",1,21.735,"aquitanian",1
+"98339",194967,"col","",174.820999,-36.278,"AU6676, Cape Rodney (R09/f0064)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98340",194968,"col","",174.820999,-36.278,"AU7316, Cape Rodney (R09/f0064)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98341",194969,"col","",174.820999,-36.278,"AU7319, Cape Rodney (R09/f9530)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98342",194970,"col","",174.820999,-36.278,"AU8905, Cape Rodney (R09/f0090)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98343",194971,"col","",174.729004,-36.292,"MA132838, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",1,21.735,"aquitanian",1
+"98402",195301,"col","",174.796005,-36.301998,"AU6868, Te Kohuroa/Mathesons Bay (R09/f9516)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98403",195302,"col","",174.796005,-36.301998,"AU7320, Te Kohuroa/Mathesons Bay (R09/f9538)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98404",195303,"col","",174.796005,-36.301998,"AU8865, Te Kohuroa/Mathesons Bay (R09/f9538)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98405",195304,"col","",174.796005,-36.301998,"AU8869, Te Kohuroa/Mathesons Bay (R09/f0091)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98406",195305,"col","",174.796005,-36.301998,"MA132490, Te Kohuroa/Mathesons Bay (R09/f0130)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98407",195306,"col","",174.796005,-36.301998,"MA132533, Te Kohuroa/Mathesons Bay (R09/f0135)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98408",195307,"col","",174.796005,-36.301998,"MA132614, Te Kohuroa/Mathesons Bay (R09/f0142)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98409",195308,"col","",174.796005,-36.301998,"MA132639, Te Kohuroa/Mathesons Bay (R09/f0138)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98410",195309,"col","",174.796005,-36.301998,"MA132676, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98411",195311,"col","",174.867004,-36.445999,"AU9776, Kawau Island (R09/f9537)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98412",195312,"col","",174.867004,-36.445999,"AU9777, Kawau Island",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98413",195313,"col","",174.867004,-36.445999,"MA81970, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98414",195314,"col","",175.345993,-36.470001,"AU1491, Cape Colville (S09/f9515)",NA,"N35/f515",2,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.5,-41.07,"806",1,21.735,"aquitanian",1
+"98415",195315,"col","",175.345993,-36.470001,"AU6654, Cape Colville (S09/f9514)",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.5,-41.07,"806",1,21.735,"aquitanian",1
+"98416",195316,"col","",175.345993,-36.470001,"AU6677, Cape Colville (S09/f9515)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.5,-41.07,"806",1,21.735,"aquitanian",1
+"98417",195317,"col","",174.807007,-36.473,"AU2485, Motuketekete Island (R09/f9549)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.05,-41.2,"806",1,21.735,"aquitanian",1
+"98418",195318,"col","",174.893997,-36.759998,"AU4528, Motutapu Island (R10/f9003)",NA,"N38/f3",2,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98419",195319,"col","",174.893997,-36.759998,"AU7296, Motutapu Island (R10/f9585)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98420",195320,"col","",174.893997,-36.759998,"AU11073, Motutapu Island (R10/f9003)",NA,"",3,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98421",195321,"col","",174.893997,-36.759998,"MA34672, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98422",195322,"col","",174.940002,-36.817001,"MA91103, Motuihe Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.78,-41.5,"806",1,21.735,"aquitanian",1
+"98423",195323,"col","",175.005997,-36.924999,"AU6672, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98424",195324,"col","",175.005997,-36.924999,"AU8818, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98425",195325,"col","",175.005997,-36.924999,"AU8820, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98426",195326,"col","",175.005997,-36.924999,"AU9166, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98427",195327,"col","",175.005997,-36.924999,"AU9167, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98428",195328,"col","",175.005997,-36.924999,"MA34667, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98429",195329,"col","",175,-36.944,"AU6672, Whitford Quarry (R11/f7654)",NA,"N42/f654",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.67,-41.6,"806",1,21.735,"aquitanian",1
+"98430",195330,"col","",174.983994,-37.071999,"AU8810, Hays Stream (R12/f0072)",NA,"",2,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98431",195331,"col","",174.983994,-37.071999,"MA76838, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98432",195332,"col","",174.983994,-37.071999,"MA91208, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98433",195333,"col","",174.983994,-37.071999,"OU45373, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98436",195336,"col","",175.005997,-36.924999,"MA34670, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98437",195337,"col","",174.720001,-37.462002,"AU8807, Waikawau Beach (R13/f0115)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",1,21.735,"aquitanian",1
+"98438",195338,"col","",174.720001,-37.462002,"AU15246, Waikawau Beach (R13/f0293)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",1,21.735,"aquitanian",1
+"98440",195340,"col","",174.983994,-37.071999,"MA77312, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98441",195341,"col","",174.796997,-36.264,"AU6656, Goat Island (R09/f7506)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",1,21.735,"aquitanian",1
+"98442",195342,"col","",174.796997,-36.264,"AU6657, Goat Island (R09/f7507)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.14,-41,"806",1,21.735,"aquitanian",1
+"98443",195343,"col","",174.820999,-36.278,"AU8873, Cape Rodney",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98444",195344,"col","",174.820999,-36.278,"AU8874, Cape Rodney (R09/f0064)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98445",195345,"col","",174.820999,-36.278,"AU8878, Cape Rodney (R09/f0090)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98446",195346,"col","",174.820999,-36.278,"AU9588, Cape Rodney (R09/f0054)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98447",195347,"col","",174.729004,-36.292,"MA91104, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",1,21.735,"aquitanian",1
+"98448",195348,"col","",174.729004,-36.292,"MA132839, Omaha Quarry",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.2,-41.04,"806",1,21.735,"aquitanian",1
+"98449",195349,"col","",174.796005,-36.301998,"AU8870, Te Kohuroa/Mathesons Bay",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98450",195350,"col","",174.796005,-36.301998,"AU9595, Te Kohuroa/Mathesons Bay (R09/f0098)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98451",195351,"col","",174.796005,-36.301998,"MA34673, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98452",195352,"col","",174.796005,-36.301998,"MA132485, Te Kohuroa/Mathesons Bay (R09/f0130)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98453",195353,"col","",174.796005,-36.301998,"MA132534, Te Kohuroa/Mathesons Bay (R09/f0135)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98454",195354,"col","",174.796005,-36.301998,"MA132570, Te Kohuroa/Mathesons Bay (R09/f0141)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98455",195355,"col","",174.796005,-36.301998,"MA132612, Te Kohuroa/Mathesons Bay (R09/f0132)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98456",195356,"col","",174.796005,-36.301998,"MA132615, Te Kohuroa/Mathesons Bay (R09/f0142)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98457",195357,"col","",174.796005,-36.301998,"MA132649, Te Kohuroa/Mathesons Bay (R09/f0133)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98458",195358,"col","",174.796005,-36.301998,"MA132681, Te Kohuroa/Mathesons Bay (R09/f0134)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"98459",195359,"col","",174.867004,-36.445999,"AU6661, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98460",195360,"col","Cape Rodney",174.867004,-36.445999,"AU6662, Kawau Island (R09/f9533-5)",NA,"",3,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98461",195361,"col","",174.867004,-36.445999,"MA81969, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98462",195362,"col","",174.807007,-36.473,"AU17530, Motuketekete Island (R09/f0151)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.05,-41.2,"806",1,21.735,"aquitanian",1
+"98463",195363,"col","",174.893997,-36.759998,"MA91049, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98464",195364,"col","",174.893997,-36.759998,"MA91050, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98465",195365,"col","",174.893997,-36.759998,"MA91197, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98466",195366,"col","",174.893997,-36.759998,"MA92028, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98467",195367,"col","",174.940002,-36.817001,"AU11068, Te Motu-a-Ihenga/Motuihe Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.78,-41.5,"806",1,21.735,"aquitanian",1
+"98468",195368,"col","",175.005997,-36.924999,"MA34665, Waikopua Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.67,-41.58,"806",1,21.735,"aquitanian",1
+"98469",195369,"col","",174.983994,-37.071999,"AU8809, Hays Stream (R12/f7011)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98470",195370,"col","",174.983994,-37.071999,"MA76831, Hays Stream (R12/f0072)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98471",195371,"col","",174.983994,-37.071999,"OU45372, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98477",195377,"col","",174.820999,-36.278,"BR001013, Cape Rodney",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"98478",195378,"col","",174.867004,-36.445999,"AU4529, Kawau Island (R09/f0011)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98480",195379,"col","",174.867004,-36.445999,"AU8900, Kawau Island (R09/f9537)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98481",195380,"col","Cape Rodney",174.867004,-36.445999,"MA81968, Kawau Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"98482",195381,"col","",174.893997,-36.759998,"MA91199, Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"98483",195382,"col","",174.983994,-37.071999,"MA77362, Hays Stream",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.63,-41.73,"806",1,21.735,"aquitanian",1
+"98490",195390,"col","",174.703003,-36.542999,"AU1508, Waiwera Beach",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-177.13,-41.29,"806",1,21.735,"aquitanian",1
+"98492",195392,"col","",174.720001,-37.462002,"AU15266, Waikawau Beach",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",1,21.735,"aquitanian",1
+"98493",195393,"col","",174.720001,-37.462002,"AU14357, Waikawau Beach (R13/f0085)",NA,"",1,"Aquitanian","",23.03,20.44,66281,"gp_mid",-176.75,-42.16,"806",1,21.735,"aquitanian",1
+"100640",201397,"col","Siamaná",-71.422501,12.030556,"Arroyo Uitpa locality, Siamaná Fm, station code PF0016",NA,"",4,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",1,21.735,"aquitanian",1
+"100641",201398,"col","Siamaná",-71.423332,12.030556,"Arroyo Uitpa locality, Siamaná Fm, station code 550005",NA,"",8,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",1,21.735,"aquitanian",1
+"100642",201399,"col","Siamaná",-71.421112,12.030278,"Arroyo Uitpa locality, Siamaná Fm, station code 550006",NA,"",5,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.41,12.58,"203",1,21.735,"aquitanian",1
+"100643",201400,"col","Siamaná",-71.399445,11.831111,"Flor de La Guajira locality, Siamaná Fm, station code 550001",NA,"",5,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.4,12.38,"203",1,21.735,"aquitanian",1
+"100644",201401,"col","Siamaná",-71.399445,11.831111,"Flor de La Guajira locality, Siamaná Fm, station code 550002",NA,"",3,"Aquitanian","",23.03,20.44,68914,"gp_mid",-64.4,12.38,"203",1,21.735,"aquitanian",1
+"102478",204642,"col","Subis Limestone",113.783333,3.766667,"Gunung Subis",NA,"",10,"Aquitanian","",23.03,20.44,70211,"gp_mid",118.86,4.44,"621",1,21.735,"aquitanian",1
+"102741",205120,"col","Pozón",-69.701736,8.222483,"La Piedra",NA,"",3,"Aquitanian","",23.03,20.44,70390,"gp_mid",-62.87,8.7,"201",1,21.735,"aquitanian",1
+"104470",208795,"col","",174.796005,-36.301998,"Mathesons Bay (N34/f511)",NA,"R09/f9511",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1
+"104471",208796,"col","",174.820999,-36.278,"Cape Rodney (N34/f12)",NA,"R09/f9012",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"104472",208797,"col","",174.820999,-36.278,"GS450, Cape Rodney (N29/f2)",NA,"R09/f7002",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"104473",208798,"col","",174.988007,-36.792,"Church Bay, Waiheke Island (N42/f1)",NA,"R11/f7001",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.74,-41.46,"806",1,21.735,"aquitanian",1
+"104475",208800,"col","",174.895004,-36.759998,"West side Motutapu Island",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-176.85,-41.45,"806",1,21.735,"aquitanian",1
+"104476",208801,"col","",174.854996,-36.446999,"Brownrigg Point, Kawai Island (N34/f11)",NA,"R09/f9011",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.01,-41.16,"806",1,21.735,"aquitanian",1
+"104477",208802,"col","",174.820999,-36.278,"Cape Rodney (N34/f531)",NA,"R09/f9531",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.11,-41.01,"806",1,21.735,"aquitanian",1
+"104478",208803,"col","Cape Rodney",174.867004,-36.445999,"Kawau Island (N34/f533)",NA,"R09/f9533",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177,-41.16,"806",1,21.735,"aquitanian",1
+"104479",208804,"col","",174.796005,-36.301998,"Mathesons Bay (N34/f540)",NA,"",1,"Aquitanian","",23.03,20.44,72067,"gp_mid",-177.12,-41.04,"806",1,21.735,"aquitanian",1

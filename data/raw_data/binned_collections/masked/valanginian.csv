@@ -1,328 +1,269 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"805",2081,"col","",19.65,50.47,"Tomaszow2",NA,"",15,"Valanginian","",139.8,132.9,59,"gp_mid",36.5,34.67,"305",136.35,"valanginian",235,38.1127,33.518,30,1
-"806",2080,"col","",19.65,50.47,"Tomaszow1",NA,"",3,"Valanginian","",139.8,132.9,59,"gp_mid",36.5,34.67,"305",136.35,"valanginian",235,38.1127,33.518,30,1
-"817",2097,"col","Bodzanow",19.02,51.98,"Poland2",NA,"",33,"Valanginian","",139.8,132.9,61,"gp_mid",35.86,36.15,"315",136.35,"valanginian",244,37.5817,35.9797,30,1
-"822",2113,"col","",40.26,43.3,"Gagra 2",NA,"",4,"Valanginian","",139.8,132.9,62,"gp_mid",54.07,29.51,"511",136.35,"valanginian",248,59.3105,31.3804,30,1
-"829",2124,"col","",-99.78,23.57,"Miquihuana1-2",NA,"",7,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"832",2126,"col","",-99.78,23.57,"Miquihuana2-3",NA,"",11,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"833",2128,"col","",-99.78,23.57,"Miquihuana3-3",NA,"",8,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"834",2127,"col","",-99.78,23.57,"Miquihuana4-3",NA,"",7,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"835",2129,"col","",-99.78,23.57,"Miquihuana5-4",NA,"",3,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"836",2130,"col","",-99.78,23.57,"Miquihuana6",NA,"",12,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"837",2131,"col","",-99.78,23.57,"Miquihuana7-3",NA,"",6,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"838",2132,"col","",-99.78,23.57,"Miquihuana8-4",NA,"",4,"Valanginian","",139.8,132.9,64,"gp_mid",-40.97,19.46,"104",136.35,"valanginian",254,-44.484,21.4953,30,1
-"839",2133,"col","",-99.62,25.82,"Arroyo San Lazaro8",NA,"",10,"Valanginian","",139.8,132.9,64,"gp_mid",-40.07,21.55,"101",136.35,"valanginian",256,-43.5154,23.8301,30,1
-"840",2134,"col","",-99.62,25.82,"San Lazaro Anticline4",NA,"",3,"Valanginian","",139.8,132.9,64,"gp_mid",-40.07,21.55,"101",136.35,"valanginian",256,-43.5154,23.8301,30,1
-"846",2149,"col","",-102,27,"PM2-Eastern Coahuila",NA,"",2,"Valanginian","",139.8,132.9,65,"gp_mid",-41.85,23.36,"101",136.35,"valanginian",261,-42.5114,26.1586,30,1
-"891",2214,"col","",6.67,47.07,"V2v-Jura",NA,"",15,"Valanginian","",139.8,132.9,66,"gp_mid",26.52,30.89,"305",136.35,"valanginian",291,29.8745,30.0342,30,1
-"892",2215,"col","",6.75,47.07,"V2l-Jura",NA,"",21,"Valanginian","",139.8,132.9,66,"gp_mid",26.59,30.89,"305",136.35,"valanginian",292,29.8745,30.0342,30,1
-"893",2216,"col","",6.93,46,"V2n-Jura",NA,"",6,"Valanginian","",139.8,132.9,66,"gp_mid",26.75,29.82,"305",136.35,"valanginian",293,30.1581,27.5466,30,1
-"894",2217,"col","",5.72,46.75,"V2b-Jura",NA,"",25,"Valanginian","",139.8,132.9,66,"gp_mid",25.77,30.57,"305",136.35,"valanginian",294,29.8745,30.0342,30,1
-"895",2218,"col","",5.72,48.98,"V2vig-Jura",NA,"",12,"Valanginian","",139.8,132.9,66,"gp_mid",25.76,32.8,"315",136.35,"valanginian",295,29.5764,32.5212,30,1
-"896",2219,"col","",6.5,47.02,"V2Vl-Jura",NA,"",8,"Valanginian","",139.8,132.9,66,"gp_mid",26.39,30.84,"305",136.35,"valanginian",296,29.8745,30.0342,30,1
-"897",2220,"col","",5.87,46.38,"V2cq-Jura",NA,"",11,"Valanginian","",139.8,132.9,66,"gp_mid",25.89,30.2,"305",136.35,"valanginian",297,29.8745,30.0342,30,1
-"898",2221,"col","",6.75,47.07,"V1l-Jura",NA,"",12,"Valanginian","",139.8,132.9,66,"gp_mid",26.59,30.89,"305",136.35,"valanginian",292,29.8745,30.0342,30,1
-"899",2222,"col","",6.67,47.07,"V1v-Jura",NA,"",90,"Valanginian","",139.8,132.9,66,"gp_mid",26.52,30.89,"305",136.35,"valanginian",291,29.8745,30.0342,30,1
-"900",2223,"col","",6.05,46.78,"V1b-Jura",NA,"",15,"Valanginian","",139.8,132.9,66,"gp_mid",26.04,30.6,"305",136.35,"valanginian",298,29.8745,30.0342,30,1
-"901",2213,"col","",6.52,46.83,"V2sc-Jura",NA,"",14,"Valanginian","",139.8,132.9,66,"gp_mid",26.41,30.65,"305",136.35,"valanginian",299,29.8745,30.0342,30,1
-"902",2224,"col","",6.05,46.33,"V1a-Jura",NA,"",109,"Valanginian","",139.8,132.9,66,"gp_mid",26.04,30.15,"305",136.35,"valanginian",300,29.8745,30.0342,30,1
-"903",2225,"col","",6.52,46.83,"V1sc-Jura",NA,"",156,"Valanginian","",139.8,132.9,66,"gp_mid",26.41,30.65,"305",136.35,"valanginian",299,29.8745,30.0342,30,1
-"926",2118,"col","Mraznica",21.28,49.42,"Butkov Quarry1(CZE)",NA,"",22,"Valanginian","",139.8,132.9,63,"gp_mid",37.87,33.73,"305",136.35,"valanginian",312,40.9622,33.9592,30,1
-"929",2238,"col","Mergel and Kalk Zone",6.92,47.02,"Valangin1-2",NA,"",4,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"930",2239,"col","Mergel and Kalk Zone",6.92,47.02,"Valangin3",NA,"",1,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"931",2241,"col","Marbre Batard",6.92,47.02,"Valangin7",NA,"",1,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"932",2242,"col","Marbre Batard",6.92,47.02,"Valangin15",NA,"",4,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"933",2243,"col","Marbre Batard",6.92,47.02,"Valangin19",NA,"",12,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"934",2244,"col","Couche de Villers",6.92,47.02,"Valangin26",NA,"",14,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"935",2245,"col","Couche de Villers",6.92,47.02,"Valangin30",NA,"",3,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"938",2240,"col","Mergel and Kalk Zone",6.92,47.02,"Valangin5",NA,"",28,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"942",2247,"col","",6.92,47.02,"Valangin29",NA,"",116,"Valanginian","",139.8,132.9,68,"gp_mid",26.72,30.84,"305",136.35,"valanginian",315,29.8745,30.0342,30,1
-"1066",2384,"col","Buchia Ridge",-159.75,59.25,"USGS-M6301 (Buchia Ridge)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1067",2383,"col","Buchia Ridge",-159.75,59.25,"USGS-M6298 (Buchia Ridge)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1068",2385,"col","Buchia Ridge",-159.75,59.25,"USGS-M6302 (Buchia Ridge)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1069",2387,"col","Buchia Ridge",-159.75,59.25,"USGS-M6299 (Buchia Ridge)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1070",2388,"col","Buchia Ridge",-159.75,59.25,"USGS-M6300 (Buchia Ridge)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1071",2391,"col","Ungalikthluk Belt",-159.75,59.25,"USGS-74Acd29 (Ungalikthluk)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1072",2392,"col","Ungalikthluk Belt",-159.75,59.25,"USGS-74AHr41 (Ungalikthluk)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1073",2386,"col","Buchia Ridge",-159.75,59.25,"USGS-M6296 (Buchia Ridge)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1074",2389,"col","Buchia Ridge",-159.75,59.25,"USGS-M6303 (Buchia Ridge)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1075",2393,"col","Mount Oratia",-160,60,"USGS-21473 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1076",2394,"col","Mount Oratia",-160,60,"USGS-21474 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1077",2395,"col","Mount Oratia",-160,60,"USGS-21475 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1078",2396,"col","Mount Oratia",-160,60,"USGS-BA3-1716 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1079",2399,"col","Mount Oratia",-160,60,"USGS-GD3-2433 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1080",2397,"col","Mount Oratia",-160,60,"USGS-BA3-1721 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1081",2398,"col","Mount Oratia",-160,60,"USGS-BA3-2446 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1082",2400,"col","Mount Oratia",-160,60,"USGS-50AHr542 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1083",2401,"col","Mount Oratia",-160,60,"USGS-GC4-1325 (Mt. Oratia)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1084",2402,"col","Mount Oratia",-160,60,"USGS-GC4-1121 (Mt. Oratia)",NA,"",3,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1085",2404,"col","Mount Oratia",-160,60,"USGS-M6639 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1086",2405,"col","Mount Oratia",-160,60,"USGS-M6643 (Mt.Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1087",2406,"col","Mount Oratia",-160,60,"USGS-M6641 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1088",2407,"col","Mount Oratia",-160,60,"USGS-M6642 (Mt. Oratia)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1093",2390,"col","Ungalikthluk Belt",-159.75,59.25,"USGS-M6295 (Ungalikthluk)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-78.74,73.59,"125",136.35,"valanginian",325,-69.2864,72.9607,30,1
-"1094",2403,"col","Mount Oratia",-160,60,"USGS-GC4-2086 (Mt. Oratia)",NA,"",3,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1095",2408,"col","Mount Oratia",-160,60,"USGS-M6647 (Mt. Oratia)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1096",2424,"col","Mount Oratia",-160,60,"USGS-M6640 (Mt. Oratia)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1097",2425,"col","Mount Oratia",-160,60,"USGS-M6646 (Mt. Oratia)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1098",2426,"col","Mount Oratia",-160,60,"USGS-M6645 (Mt. Oratia)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1099",2427,"col","Mount Oratia",-160,60,"USGS-M6634",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-72.2,67.41,"123",136.35,"valanginian",326,-69.2864,72.9607,30,1
-"1100",2428,"col","Eek Mountain",-160.5,59.75,"USGS-M6648 (Eek Mts.)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1101",2429,"col","Eek Mountain",-160.5,59.75,"USGS-M6649",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1102",2430,"col","Eek Mountain",-160.5,59.75,"USGS-M6650 (Eek Mts.)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1103",2431,"col","Eek Mountain",-160.5,59.75,"USGS-M6644 (Eek Mts.)",NA,"",2,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1104",2432,"col","Eek Mountain",-160.5,59.75,"USGS-53ACd1049 (Eek Mts.)",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1105",2433,"col","Eek Mountain",-160.5,59.75,"USGS-50AHr708",NA,"",1,"Valanginian","",139.8,132.9,71,"gp_mid",-73.12,67.46,"123",136.35,"valanginian",327,-69.2864,72.9607,30,1
-"1136",2464,"col","",105,75,"Kheta River-11",NA,"",1,"Valanginian","",139.8,132.9,73,"gp_mid",73.71,70.03,"401",136.35,"valanginian",340,67.0831,71.9719,30,1
-"1157",2486,"col","",113,73,"Cape Urdyuk-Khaya-12",NA,"",24,"Valanginian","",139.8,132.9,73,"gp_mid",82.38,70.61,"401",136.35,"valanginian",345,77.5119,72.8082,30,1
-"1158",2487,"col","",113,73,"Cape Urdyuk-Khaya-13",NA,"",29,"Valanginian","",139.8,132.9,73,"gp_mid",82.38,70.61,"401",136.35,"valanginian",345,77.5119,72.8082,30,1
-"1164",2493,"col","",57,64.5,"Yatriya River-6",NA,"",33,"Valanginian","",139.8,132.9,73,"gp_mid",59.07,52.43,"302",136.35,"valanginian",347,57.6343,53.7821,30,1
-"1180",2509,"col","",70,62.5,"Western Siberia-4",NA,"",11,"Valanginian","",139.8,132.9,73,"gp_mid",69.14,52.85,"402",136.35,"valanginian",352,69.6129,54.9765,30,1
-"1185",2514,"col","",40.25,54.3,"Oka River-5",NA,"",5,"Valanginian","",139.8,132.9,73,"gp_mid",51.43,40.29,"302",136.35,"valanginian",354,53.2894,41.691,30,1
-"1186",2515,"col","",38.72,55.32,"Voskresensk",NA,"",19,"Valanginian","",139.8,132.9,73,"gp_mid",50.01,41.11,"302",136.35,"valanginian",355,50.5627,41.0299,30,1
-"1197",2526,"col","",48.43,53.03,"Volga River-5",NA,"",2,"Valanginian","",139.8,132.9,73,"gp_mid",57.99,40.18,"302",136.35,"valanginian",360,59.954,40.8054,30,1
-"1202",2531,"col","",48.47,53.17,"Syzran River-5",NA,"",1,"Valanginian","",139.8,132.9,73,"gp_mid",57.97,40.32,"302",136.35,"valanginian",363,59.954,40.8054,30,1
-"1205",2534,"col","",168,66.5,"Pereval'naya River-3",NA,"",3,"Valanginian","",139.8,132.9,73,"gp_mid",-179.6,73.26,"405",136.35,"valanginian",365,58.71,85.5767,30,1
-"4396",12161,"col","",4.65,44.7,"Saint-Symphorien-sous-Chomérac (Ardeche)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",24.91,28.52,"305",136.35,"valanginian",1403,27.1821,27.3156,30,1
-"4402",12167,"col","",4.5,44.5,"Beaulieu (Ardeche)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",24.79,28.32,"305",136.35,"valanginian",1404,27.1821,27.3156,30,1
-"4403",12168,"col","",6.52,43.85,"Castellane, Cheiron (Alpes de Hte Provence)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",26.43,27.67,"305",136.35,"valanginian",1405,30.1581,27.5466,30,1
-"4406",12171,"col","",6.5,43.97,"Saint-André-les-Alpes, Pont Julien (Alpes de Hte Provence)",NA,"",2,"Valanginian","",139.8,132.9,4226,"gp_mid",26.42,27.79,"305",136.35,"valanginian",1406,30.1581,27.5466,30,1
-"4412",12177,"col","",5.5,45.5,"Saint-Martin-de-Clelles, Trésanne (Isère)",NA,"",2,"Valanginian","",139.8,132.9,4226,"gp_mid",25.6,29.32,"305",136.35,"valanginian",1408,27.1821,27.3156,30,1
-"4424",12195,"col","",5.25,44.5,"Arnayon",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",25.4,28.32,"305",136.35,"valanginian",1413,27.1821,27.3156,30,1
-"4425",12196,"col","",5.08,44.83,"?La-Rochette-sur-Crest, chaîne de Raye (Drôme)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",25.27,28.65,"305",136.35,"valanginian",1414,27.1821,27.3156,30,1
-"4429",12200,"col","",5.45,44.62,"Luc-en-Diois, Claps de Luc (Drôme)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",25.56,28.43,"305",136.35,"valanginian",1415,27.1821,27.3156,30,1
-"4431",12202,"col","",5.7,44.62,"Saint-Julien-en-Beauchêne (Hautes Alpes)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",25.76,28.43,"305",136.35,"valanginian",1416,30.1581,27.5466,30,1
-"4434",12205,"col","",6.5,43.97,"Saint-André-les-Alpes, Le Plan (Alpes de Hte Provence)",NA,"",2,"Valanginian","",139.8,132.9,4226,"gp_mid",26.42,27.79,"305",136.35,"valanginian",1406,30.1581,27.5466,30,1
-"4458",12229,"col","",4,44.5,"Grospierres, Bournet (Ardeche)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",24.39,28.32,"305",136.35,"valanginian",1419,27.1821,27.3156,30,1
-"4459",12230,"col","",5.5,45.5,"Malleval (Isère)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",25.6,29.32,"305",136.35,"valanginian",1408,27.1821,27.3156,30,1
-"4462",12233,"col","",6.73,43.85,"Saint-Auban, Le Défends (Alpes Maritimes)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",26.61,27.67,"305",136.35,"valanginian",1420,30.1581,27.5466,30,1
-"4464",12235,"col","",4,44,"Puechredon (Gard)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",24.38,27.82,"305",136.35,"valanginian",1421,27.1821,27.3156,30,1
-"13330",25151,"col","Magyaregregy Conglomerate",18.25,46.17,"Janosi-puszta, Mecsek Mts., Hungary",NA,"Reef 1144",60,"Valanginian","",139.8,132.9,7062,"gp_mid",38.11,14.23,"308",136.35,"valanginian",2553,35.7613,13.9735,30,1
-"14049",27535,"col","Chachao",-69.53,-35.75,"Chihuido, Mendoza, Argentina",NA,"",4,"Valanginian","",139.8,132.9,7590,"gp_mid",-28.76,-37.75,"291",136.35,"valanginian",2734,-34.835,-35.9229,30,1
-"18028",32324,"col","Kuwajima",136.63,36.17,"Kaseki-kabe (facies III), Shiramine",NA,"Kasekiheki",85,"Valanginian","",139.8,132.9,54260,"gp_mid",141.87,49.57,"610",136.35,"valanginian",3627,146.1729,48.7679,30,1
-"21846",37333,"col","",-70.27,-37.38,"Cerro La Parva",NA,"",2,"Valanginian","",139.8,132.9,10016,"gp_mid",-29.55,-39.37,"291",136.35,"valanginian",4447,-34.8765,-38.4226,30,1
-"27008",44306,"col","Okpikruak",-163.12,68.73,"USGS 23698 - Igloo Mountain, North Slope",NA,"Loc. #11; 49ACh36",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-24.81,79.65,"103",136.35,"valanginian",6004,-47.4445,80.6592,30,1
-"27061",44359,"col","Okpikruak",-161.67,68.5,"USGS 22500 - Iligluruk Creek, North Slope",NA,"Loc. #21; 50AMg69",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.69,79.4,"103",136.35,"valanginian",6046,-47.4445,80.6592,30,1
-"27062",44360,"col","Okpikruak",-161.24,68.68,"USGS 22496 - Iligluruk Creek, North Slope",NA,"Loc. #21; 50AMg69",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.53,79.17,"103",136.35,"valanginian",6047,-47.4445,80.6592,30,1
-"27063",44361,"col","Okpikruak",-161.52,68.69,"USGS 22497 - Iligluruk Creek, North Slope",NA,"Loc. #19; 50AMg79",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.13,79.25,"103",136.35,"valanginian",6048,-47.4445,80.6592,30,1
-"27064",44362,"col","Okpikruak",-161.5,68.69,"USGS 22485 - Iligluruk Creek, North Slope",NA,"Loc. #20; 50ASa117",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.17,79.24,"103",136.35,"valanginian",6049,-47.4445,80.6592,30,1
-"27065",44363,"col","Okpikruak",-161.52,68.69,"USGS 22481 - Iligluruk Creek, North Slope",NA,"Loc. #19; 50ASa52A",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.12,79.24,"103",136.35,"valanginian",6048,-47.4445,80.6592,30,1
-"27066",44364,"col","Okpikruak",-163.03,68.73,"USGS 22128 - Kukpowruk River, North Slope",NA,"Loc. #12; 49ASa46",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-24.92,79.62,"103",136.35,"valanginian",6050,-47.4445,80.6592,30,1
-"27074",44382,"col","Okipruak",-161.32,68.56,"USGS 22487 - Iliglurak Creek, North Slope",NA,"Loc. #26; 50ASa135A",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.89,79.27,"103",136.35,"valanginian",6058,-47.4445,80.6592,30,1
-"27075",44383,"col","Okipruak",-161.13,68.53,"USGS 22493 - Utukok River, North Slope",NA,"Loc. #26; 50ASa267",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.25,79.23,"103",136.35,"valanginian",6059,-47.4445,80.6592,30,1
-"27076",44384,"col","Okipruak",-161.23,68.55,"USGS 22488 - Iliglurak Creek, North Slope",NA,"Loc. #25; 50ASa247",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.05,79.25,"103",136.35,"valanginian",6060,-47.4445,80.6592,30,1
-"27077",44385,"col","Okipruak",-161.28,68.57,"USGS 22489 - Utukok River, North Slope",NA,"Loc. #25; 50ASa251",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.91,79.25,"103",136.35,"valanginian",6061,-47.4445,80.6592,30,1
-"27078",44386,"col","Okipruak",-161.07,68.57,"USGS 22490 - Utukok River, North Slope",NA,"Loc. #23; 50ASa251",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.17,79.2,"103",136.35,"valanginian",6062,-47.4445,80.6592,30,1
-"27080",44388,"col","Okipruak",-161.32,68.6,"USGS 22486 - Iliglurak Creek, North Slope",NA,"Loc. #25; 50ASa135",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.75,79.25,"103",136.35,"valanginian",6064,-47.4445,80.6592,30,1
-"27081",44389,"col","Okipruak",-161.61,68.51,"USGS 22484 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa103",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.73,79.38,"103",136.35,"valanginian",6065,-47.4445,80.6592,30,1
-"27082",44390,"col","Okipruak",-161.61,68.54,"USGS 22483 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa97",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.61,79.36,"103",136.35,"valanginian",6066,-47.4445,80.6592,30,1
-"27083",44391,"col","Okipruak",-161.63,68.53,"USGS 22482 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa92",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.65,79.38,"103",136.35,"valanginian",6067,-47.4445,80.6592,30,1
-"27084",44392,"col","Okipruak",-161.12,68.57,"USGS 22491 - Utukok River, North Slope",NA,"Loc. #23; 50ASa249",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.1,79.21,"103",136.35,"valanginian",6068,-47.4445,80.6592,30,1
-"29590",47179,"col","Nadan",57.11,23.02,"Nadan, Oman, Na 14",NA,"",67,"Valanginian","",139.8,132.9,12583,"gp_mid",53.65,-16.31,"503",136.35,"valanginian",6987,48.8827,-20.8156,30,1
-"29591",47180,"col","Nadan",57.11,23.02,"Nadan, Oman, Na 16",NA,"",44,"Valanginian","",139.8,132.9,12583,"gp_mid",53.65,-16.31,"503",136.35,"valanginian",6987,48.8827,-20.8156,30,1
-"32116",50357,"col","Kuwajima",136.63,36.17,"Kaseki-kabe (facies II), Shiramine",NA,"Kasekiheki",26,"Valanginian","",139.8,132.9,13515,"gp_mid",141.87,49.57,"610",136.35,"valanginian",3627,146.1729,48.7679,30,1
-"32118",50359,"col","Kuwajima",136.63,36.17,"Kaseki-kabe (facies I), Shiramine",NA,"Kasekiheki",17,"Valanginian","",139.8,132.9,13515,"gp_mid",141.87,49.57,"610",136.35,"valanginian",3627,146.1729,48.7679,30,1
-"33191",51607,"col","",137.23,49.43,"M82, Lidoga Village quarry, Khabarovsk",NA,"",7,"Valanginian","",139.8,132.9,13716,"gp_mid",138.96,57.42,"628",136.35,"valanginian",7942,146.0154,63.834,30,1
-"36213",55836,"col","Kieselkalk",9.9,47.42,"Gemsmättli Mbr, Kieselkalk Fm - Breiterberg, Vorarlberg",NA,"",18,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",136.35,"valanginian",8819,33.036,23.7285,30,1
-"36297",55939,"col","Lower Sandstone",-137.33,67.92,"Bed 10, Section 5 - Lower Sandstone Division, Richardson Mtns",NA,"Bed 10, Field No. 138",1,"Valanginian","",139.8,132.9,15099,"gp_mid",-39.39,69.39,"101",136.35,"valanginian",8832,-36.4292,71.9224,30,1
-"36299",55941,"col","Bluish Grey Shale",-138.08,68.17,"Bed 2, Section 8 - Bluish Grey Shale Division, Richardson Mtns",NA,"Bed 2, Field No. 161",2,"Valanginian","",139.8,132.9,15099,"gp_mid",-39.37,69.76,"101",136.35,"valanginian",8833,-36.4292,71.9224,30,1
-"37157",57146,"col","Lo Valdés",-70.08,-33.83,"Lo Valdés Formation, Rio Volcán, Santiago Province, Unit VII",NA,"",2,"Valanginian","",139.8,132.9,12505,"gp_mid",-29.29,-35.82,"291",136.35,"valanginian",9029,-34.835,-35.9229,30,1
-"39008",59096,"col","Larriba",-2.48,42.29,"San Martín 1, La Rioja",NA,"",2,"Valanginian","",139.8,132.9,16842,"gp_mid",19.41,26.56,"304",136.35,"valanginian",9432,18.1934,27.2017,30,1
-"39009",59097,"col","Larriba",-2.48,42.29,"San Martín 2, La Rioja",NA,"",2,"Valanginian","",139.8,132.9,16842,"gp_mid",19.41,26.56,"304",136.35,"valanginian",9432,18.1934,27.2017,30,1
-"39010",59098,"col","Larriba",-2.48,42.29,"San Martín 3, La Rioja",NA,"",1,"Valanginian","",139.8,132.9,16842,"gp_mid",19.41,26.56,"304",136.35,"valanginian",9432,18.1934,27.2017,30,1
-"39563",59679,"col","Dong'anzhen",134.15,47.3,"Dong'anzhen Formation, Valanginian, eastern Heilongjiang, China",NA,"",1,"Valanginian","",139.8,132.9,17084,"gp_mid",136.97,54.68,"628",136.35,"valanginian",9533,143.136,60.5842,30,1
-"41894",62642,"col","Palnatokes Bjerg",-19.33,74.55,"Falskebugt, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",5,"Valanginian","",139.8,132.9,18075,"gp_mid",25.13,51.87,"102",136.35,"valanginian",10121,26.1593,52.1251,30,1
-"41895",62643,"col","Palnatokes Bjerg",-20.3,74.47,"N Stratumbjerg, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",3,"Valanginian","",139.8,132.9,18075,"gp_mid",24.7,51.81,"102",136.35,"valanginian",10122,26.1593,52.1251,30,1
-"41896",62644,"col","Palnatokes Bjerg",-20.3,74.47,"E Stratumbjerg, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",2,"Valanginian","",139.8,132.9,18075,"gp_mid",24.7,51.81,"102",136.35,"valanginian",10122,26.1593,52.1251,30,1
-"42674",63988,"col","Barril Viejo",-101.47,27.45,"Potrero Oballos, Barril Viejo Formation, Coahuila",NA,"",1,"Valanginian","",139.8,132.9,18448,"gp_mid",-41.2,23.63,"101",136.35,"valanginian",10289,-42.5114,26.1586,30,1
-"42684",63998,"col","Cuesta del Carbonera",-103.58,25.47,"Cuesta del Carbonera, Carbonera Formation, Durango",NA,"",2,"Valanginian","",139.8,132.9,18448,"gp_mid",-43.84,22.36,"104",136.35,"valanginian",10291,-46.9958,25.0599,30,1
-"43101",64625,"col","Bhuj",68.95,23.63,"Umia, Kutch, Bhuj Formation, Ghuneri Member",NA,"",3,"Valanginian","",139.8,132.9,18643,"gp_mid",43.21,-40.23,"501",136.35,"valanginian",10393,40.2636,-41.0377,30,1
-"43176",64723,"col","Planava",18.12,49.58,"Kotouc Quarry, Stramberk, Planava Formation",NA,"",1,"Valanginian","",139.8,132.9,18676,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43177",64724,"col","Planava",18.12,49.58,"Obecni Quarry, Stramberk, Planava Formation",NA,"",4,"Valanginian","",139.8,132.9,18676,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43289",64952,"col","",-9.22,38.42,"Serra de Arabida, Cabo Espichel, level 6b",NA,"",21,"Valanginian","",139.8,132.9,18719,"gp_mid",12.26,26.07,"304",136.35,"valanginian",10444,12.314,24.8902,30,1
-"43466",65211,"col","Pieniny Limestone",20.3,49.42,"Kapusnica Section II, near Niedzica Castle, Tintinopsella (P. P)",NA,"",6,"Valanginian","",139.8,132.9,18716,"gp_mid",37.11,33.66,"305",136.35,"valanginian",10514,38.1127,33.518,30,1
-"43530",65296,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 9, Canada Luenga, Cehegin, Murcia",NA,"",14,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43531",65297,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 10, Canada Luenga, Cehegin, Murcia",NA,"",18,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43532",65298,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 11, Canada Luenga, Cehegin, Murcia",NA,"",18,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43535",65301,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 12, Canada Luenga, Cehegin, Murcia",NA,"",16,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43536",65302,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 13, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43538",65304,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 14, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43539",65305,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 15, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43541",65307,"col","Miravetes",-1.81,38.07,"Section M.CL - Bed 16, Canada Luenga, Cehegin, Murcia",NA,"",4,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43558",65324,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 12, Canada Luenga, Cehegin, Murcia",NA,"",19,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43559",65325,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 12a, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43560",65326,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 12b, Canada Luenga, Cehegin, Murcia",NA,"",12,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43562",65328,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 12c, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43563",65329,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 13, Canada Luenga, Cehegin, Murcia",NA,"",16,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43564",65330,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 14, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43565",65332,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 15, Canada Luenga, Cehegin, Murcia",NA,"",14,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43566",65333,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Bed 16, Canada Luenga, Cehegin, Murcia",NA,"",12,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"43647",65460,"col","Koprivnice",18.12,49.58,"Stramberk 1",NA,"",5,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43648",65461,"col","Koprivnice",18.12,49.58,"Stramberk 2",NA,"Kotouc Quarry",9,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43651",65464,"col","Koprivnice",18.12,49.58,"Stramberk 2a",NA,"Kotouc Quarry",4,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43652",65466,"col","Koprivnice",18.12,49.58,"Stramberk 2b",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43653",65467,"col","Koprivnice",18.12,49.58,"Stramberk 4",NA,"Kotouc Quarry",4,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43654",65468,"col","Koprivnice",18.12,49.58,"Stramberk 5",NA,"Kotouc Quarry",3,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43655",65470,"col","Koprivnice",18.12,49.58,"Stramberk 6",NA,"Kotouc Quarry",8,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43656",65471,"col","Koprivnice",18.12,49.58,"Stramberk 6a",NA,"Kotouc Quarry",4,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43657",65473,"col","Koprivnice",18.12,49.58,"Stramberk 7",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43658",65474,"col","Koprivnice",18.12,49.58,"Stramberk 8",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43659",65475,"col","Koprivnice",18.12,49.58,"Stramberk 9",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43660",65477,"col","Koprivnice",18.12,49.58,"Stramberk 10",NA,"Kotouc Quarry",0,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43661",65478,"col","Koprivnice",18.12,49.58,"Stramberk 10",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43668",65487,"col","Koprivnice",18.12,49.58,"Stramberk 11",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43670",65489,"col","Koprivnice",18.12,49.58,"Stramberk 11a",NA,"Kotouc Quarry",6,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43673",65492,"col","Planava",18.12,49.58,"Stramberk 11c",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43676",65495,"col","Planava",18.12,49.58,"Stramberk 11d",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43680",65499,"col","Planava",18.12,49.58,"Stramberk 11e",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43682",65501,"col","Planava",18.12,49.58,"Stramberk 12",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43685",65504,"col","Koprivnice",18.12,49.58,"Stramberk 13",NA,"Kotouc Quarry",3,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43695",65515,"col","Koprivnice",18.12,49.58,"Stramberk 15",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43696",65516,"col","Koprivnice",18.12,49.58,"Stramberk 14",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43698",65518,"col","Koprivnice",18.12,49.58,"Stramberk 20",NA,"Kotouc Quarry",10,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43702",65523,"col","Koprivnice",18.12,49.58,"Stramberk 21",NA,"Kotouc Quarry",5,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43703",65525,"col","Koprivnice",18.12,49.58,"Stramberk 22",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43705",65527,"col","Planava",18.12,49.58,"Stramberk 24a",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43706",65529,"col","Koprivnice",18.12,49.58,"Stramberk 25",NA,"Kotouc Quarry",10,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43709",65532,"col","Koprivnice",18.12,49.58,"Stramberk 29",NA,"Kotouc Quarry",8,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43718",65544,"col","Koprivnice",18.12,49.58,"Stramberk 32",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43719",65545,"col","Koprivnice",18.12,49.58,"Stramberk 31",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43720",65546,"col","Koprivnice",18.12,49.58,"Stramberk 34",NA,"Kotouc Quarry",8,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43721",65547,"col","Koprivnice",18.12,49.58,"Stramberk 35",NA,"Kotouc Quarry",6,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43722",65548,"col","Koprivnice",18.12,49.58,"Stramberk 38",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43723",65549,"col","Koprivnice",18.12,49.58,"Stramberk 40",NA,"Kotouc Quarry",8,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43724",65550,"col","Koprivnice",18.12,49.58,"Stramberk 41",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43725",65551,"col","Koprivnice",18.12,49.58,"Stramberk 43",NA,"Kotouc Quarry",3,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43726",65552,"col","Planava",18.12,49.58,"Stramberk 45",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14988,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43729",65555,"col","Koprivnice",18.12,49.58,"Lower Blucher Quarry - Koprivnice Formation",NA,"",11,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43732",65558,"col","Koprivnice",18.12,49.58,"Stramberk 49",NA,"Kotouc Quarry",2,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43735",65561,"col","Koprivnice",18.12,49.58,"Stramberk 53",NA,"Kotouc Quarry",6,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43736",65562,"col","Planava",18.12,49.58,"Stramberk 57",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43737",65563,"col","Planava",18.12,49.58,"Stramberk 61",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43738",65564,"col","Planava",18.12,49.58,"Stramberk 63",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43739",65565,"col","Koprivnice",18.12,49.58,"Stramberk 62",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43740",65566,"col","Koprivnice",18.12,49.58,"Stramberk 68",NA,"Kotouc Quarry",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43741",65567,"col","Koprivnice",18.12,49.58,"Skalky near Obecni Quarry",NA,"",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43742",65568,"col","Koprivnice",18.12,49.58,"Upper Blucher Quarry - Koprivnice Formation",NA,"",1,"Valanginian","",139.8,132.9,14989,"gp_mid",35.39,33.71,"305",136.35,"valanginian",10407,38.1127,33.518,30,1
-"43796",65622,"col","",-100.46,25.66,"Hacienda de los Nogales, Cañon de Santa Catarina",NA,"",4,"Valanginian","",139.8,132.9,18877,"gp_mid",-40.9,21.65,"104",136.35,"valanginian",10588,-43.5154,23.8301,30,1
-"43862",65705,"col","",-9.38,38.77,"Linho, ENE of Aldeia de Juzo, level 10b",NA,"",4,"Valanginian","",139.8,132.9,18719,"gp_mid",12.35,26.44,"304",136.35,"valanginian",10595,11.4101,28.6514,30,1
-"43865",65708,"col","",-9.47,38.8,"Praia da Adraga, Almoçageme, level 8",NA,"",9,"Valanginian","",139.8,132.9,18719,"gp_mid",12.31,26.5,"304",136.35,"valanginian",10596,11.4101,28.6514,30,1
-"43866",65709,"col","",-9.47,38.8,"Praia da Adraga, Almoçageme, level 10a",NA,"",8,"Valanginian","",139.8,132.9,18719,"gp_mid",12.31,26.5,"304",136.35,"valanginian",10596,11.4101,28.6514,30,1
-"43870",65713,"col","",-9.47,38.8,"Praia da Adraga, Almoçageme, level 10b",NA,"",2,"Valanginian","",139.8,132.9,18719,"gp_mid",12.31,26.5,"304",136.35,"valanginian",10596,11.4101,28.6514,30,1
-"43872",65715,"col","",-9.47,38.8,"Praia da Adraga, Almoçageme, level 10c",NA,"",4,"Valanginian","",139.8,132.9,18719,"gp_mid",12.31,26.5,"304",136.35,"valanginian",10596,11.4101,28.6514,30,1
-"43931",65796,"col","Kieselkalk",9.9,47.42,"Gemsmättli Mbr, Kieselkalk Fm - Bezeck near Bezau, Vorarlberg",NA,"",1,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",136.35,"valanginian",8819,33.036,23.7285,30,1
-"43932",65797,"col","Kieselkalk",9.9,47.42,"Gemsmättli Mbr, Kieselkalk Fm - Örfla Gorge, Götzis, Vorarlberg",NA,"",1,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",136.35,"valanginian",8819,33.036,23.7285,30,1
-"44037",65930,"col","Marne gris-lilas",18.5,47.75,"Echinoidea, Clay quarry, Gray Lila marls, Mont Berzekhegyn, Labatlan",NA,"",1,"Valanginian","",139.8,132.9,18903,"gp_mid",39.75,14.18,"308",136.35,"valanginian",10632,38.3112,25.3505,30,1
-"45014",67436,"col","",20.1,41.97,"Mt. Munella, bed 3, Mirdita zone, Puke",NA,"",5,"Valanginian","",139.8,132.9,19227,"gp_mid",33.94,12.51,"307",136.35,"valanginian",10914,32.49,12.2707,30,1
-"48135",71667,"col","Cerkesli",29.55,40.8,"Cerkesli Formation type locality - conglomerate member",NA,"",4,"Valanginian","",139.8,132.9,24225,"gp_mid",45.64,25.8,"511",136.35,"valanginian",11768,50.858,24.3334,30,1
-"48136",71668,"col","Cerkesli",29.55,40.8,"Cerkesli Formation type locality - limestone member",NA,"",1,"Valanginian","",139.8,132.9,24225,"gp_mid",45.64,25.8,"511",136.35,"valanginian",11768,50.858,24.3334,30,1
-"50834",76917,"col","",-103.55,25.48,"Carbonera Formation, Las Cuevas, Durango",NA,"",3,"Valanginian","",139.8,132.9,26022,"gp_mid",-43.8,22.37,"104",136.35,"valanginian",12562,-46.9958,25.0599,30,1
-"50835",76918,"col","",-103.68,25.48,"Sierra de Hispana, Durango",NA,"",1,"Valanginian","",139.8,132.9,26022,"gp_mid",-43.93,22.4,"104",136.35,"valanginian",12563,-46.9958,25.0599,30,1
-"50836",76919,"col","",13.73,46,"Zavrh,Trnovski Gozd",NA,"Reef 3658",4,"Valanginian","",139.8,132.9,26024,"gp_mid",37.78,17.35,"307",136.35,"valanginian",12564,33.0828,15.911,30,1
-"50837",76921,"col","",7.15,47.1,"Twann",NA,"",6,"Valanginian","",139.8,132.9,26025,"gp_mid",26.91,30.92,"305",136.35,"valanginian",12565,29.8745,30.0342,30,1
-"50838",76922,"col","",6.5,46.82,"Collaz",NA,"",2,"Valanginian","",139.8,132.9,26025,"gp_mid",26.39,30.64,"305",136.35,"valanginian",12566,29.8745,30.0342,30,1
-"50839",76923,"col","",6.92,47.03,"Valangin",NA,"",1,"Valanginian","",139.8,132.9,26025,"gp_mid",26.72,30.85,"305",136.35,"valanginian",12567,29.8745,30.0342,30,1
-"50840",76924,"col","",6.68,46.93,"Villers",NA,"",4,"Valanginian","",139.8,132.9,26025,"gp_mid",26.54,30.75,"305",136.35,"valanginian",12568,29.8745,30.0342,30,1
-"50938",77072,"col","",34.5,44.75,"Crimean Mountains, algal-coral bioherms",NA,"Reef 2921",17,"Valanginian","",139.8,132.9,26090,"gp_mid",49.08,30.23,"302",136.35,"valanginian",12605,51.0295,30.7543,30,1
-"54518",83226,"col","Hortigüela",-3.46,42.1,"Mambrillas de Lara NE",NA,"",1,"Valanginian","",139.8,132.9,27940,"gp_mid",18.61,26.78,"304",136.35,"valanginian",13794,18.1934,27.2017,30,1
-"54752",83571,"col","Spieden",-123.14,48.64,"UWA A535 [Spieden Fm]",NA,"",1,"Valanginian","",139.8,132.9,28036,"gp_mid",-61.28,49.72,"128",136.35,"valanginian",13868,-52.755,47.9386,30,1
-"54753",83572,"col","",-121.9,48.83,"UWA A538 [Nooksack Gp]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-52.48,47.41,"129",136.35,"valanginian",13869,-51.0901,49.9605,30,1
-"54757",83576,"col","",-121.9,48.83,"USGS 17273 [Nooksack Gp]",NA,"",1,"Valanginian","",139.8,132.9,28036,"gp_mid",-52.48,47.41,"129",136.35,"valanginian",13869,-51.0901,49.9605,30,1
-"54866",83712,"col","",-20.25,74.88,"Kuhn Ø",NA,"",3,"Valanginian","",139.8,132.9,28065,"gp_mid",24.79,52.22,"102",136.35,"valanginian",13896,26.1593,52.1251,30,1
-"54867",83713,"col","",-20,74.5,"North Wollaston Forland",NA,"",2,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",136.35,"valanginian",13897,26.1593,52.1251,30,1
-"54868",83714,"col","Llindemann Bugt",-20,74.5,"North Wollaston Forland [Lindemann Bugt Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",136.35,"valanginian",13897,26.1593,52.1251,30,1
-"54872",83718,"col","Llindemann Bugt",-20,74.5,"North Wollaston Forland [Rigi Mbr, Lindemann Bugt Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",136.35,"valanginian",13897,26.1593,52.1251,30,1
-"54885",83741,"col","Palnatokes Bjerg",-22.58,72.48,"Loc. 1, southern Mols Berge [Palnatokes Bjerg Fm]",NA,"Loc. 92 of Donovan (1953)",34,"Valanginian","",139.8,132.9,28065,"gp_mid",23.33,49.9,"102",136.35,"valanginian",13903,24.0873,49.7501,30,1
-"54887",83748,"col","Palnatokes Bjerg",-20.17,74.46,"Pal-1/2001 (Loc. 3), north ride of Stratumbjerg [Palnatokes Bjerg Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.76,51.79,"102",136.35,"valanginian",13904,26.1593,52.1251,30,1
-"54888",83749,"col","Palnatokes Bjerg",-20.14,74.45,"Pal-2/2001 (Loc. 4), NE Stratumbjerg [Palnatokes Bjerg Fm]",NA,"",0,"Valanginian","",139.8,132.9,28065,"gp_mid",24.77,51.79,"102",136.35,"valanginian",13905,26.1593,52.1251,30,1
-"55849",85075,"col","Larriba",-2.51,42.21,"Los Chopos (LCH) tracksite",NA,"",1,"Valanginian","",139.8,132.9,28581,"gp_mid",19.34,26.5,"304",136.35,"valanginian",14259,18.1934,27.2017,30,1
-"55850",85076,"col","Larriba",-2.51,42.21,"El Robledo (1CCM) tracksite",NA,"",1,"Valanginian","",139.8,132.9,28581,"gp_mid",19.34,26.5,"304",136.35,"valanginian",14259,18.1934,27.2017,30,1
-"55851",85077,"col","Larriba",-2.52,42.2,"Camino de la Nevera 1 (2CCM) tracksite",NA,"",1,"Valanginian","",139.8,132.9,28581,"gp_mid",19.33,26.5,"304",136.35,"valanginian",14260,18.1934,27.2017,30,1
-"55852",85078,"col","Larriba",-2.51,42.2,"Camino de la Nevere 2 (3CCM) tracksite",NA,"",1,"Valanginian","",139.8,132.9,28581,"gp_mid",19.33,26.5,"304",136.35,"valanginian",14261,18.1934,27.2017,30,1
-"55853",85079,"col","Larriba",-2.52,42.19,"Barranco de Valdaedo (4CCM) tracksite",NA,"",1,"Valanginian","",139.8,132.9,28581,"gp_mid",19.32,26.49,"304",136.35,"valanginian",14262,18.1934,27.2017,30,1
-"57410",87422,"col","Deer Bay",-83,80.5,"GSC Loc. 52489 - Greely Fiord [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29438,"gp_mid",13.4,63.52,"106",136.35,"valanginian",14870,16.0676,63.2316,30,1
-"57412",87424,"col","Deer Bay",-83,80.5,"GSC Loc. 47867 - Greely Fiord [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29438,"gp_mid",13.4,63.52,"106",136.35,"valanginian",14870,16.0676,63.2316,30,1
-"57413",87425,"col","",16.98,79.93,"Stream S. of Hecla Haven, Spitsbergen",NA,"",1,"Valanginian","",139.8,132.9,29438,"gp_mid",30.02,63.88,"311",136.35,"valanginian",14871,27.2983,62.7313,30,1
-"57543",87559,"col","Deer Bay",-91.93,78.64,"GSC Loc. 93866 - Amund Ringnes Island [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29466,"gp_mid",7.93,63.97,"106",136.35,"valanginian",14893,4.3766,64.9104,30,1
-"57546",87562,"col","Deer Bay",-97.9,78.64,"GSC Loc. 91313 - Amund Ringnes Island [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29472,"gp_mid",6.73,65.03,"106",136.35,"valanginian",14895,3.3696,65.6039,30,1
-"57547",87563,"col","Deer Bay",-97.9,78.64,"GSC Loc. 93757 - Amund Ringnes Island [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29472,"gp_mid",6.73,65.03,"106",136.35,"valanginian",14895,3.3696,65.6039,30,1
-"57548",87564,"col","Deer Bay",-85.42,80,"GSC Loc. 24075 - Ellesmere Island [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29472,"gp_mid",11.97,63.6,"106",136.35,"valanginian",14896,15.4105,63.813,30,1
-"57549",87565,"col","Deer Bay",-85.42,80,"GSC Loc. 28731 - Ellesmere Island [Deer Bay Fm]",NA,"",5,"Valanginian","",139.8,132.9,29472,"gp_mid",11.97,63.6,"106",136.35,"valanginian",14896,15.4105,63.813,30,1
-"57550",87566,"col","",-90,79.5,"GSC Loc. 52491 - Axel Heiberg Island [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29472,"gp_mid",10.06,64.06,"106",136.35,"valanginian",14897,14.8132,64.4096,30,1
-"57587",87608,"col","",-101.55,24.63,"Mazapil, Sierra de Santa Rosa",NA,"",3,"Valanginian","",139.8,132.9,29490,"gp_mid",-42.25,20.98,"104",136.35,"valanginian",14917,-43.5154,23.8301,30,1
-"57588",87609,"col","",-102.63,24.75,"Astieria neohispanica bed- Localities near Cerro del Toboso, Sierra de Symón",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.21,21.41,"104",136.35,"valanginian",14918,-43.5154,23.8301,30,1
-"57590",87611,"col","",-101.63,24.77,"Holcostephanus horizon - Localities near Puerto del Canutillo, Sierra de Zuluaga",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-42.28,21.13,"104",136.35,"valanginian",14919,-43.5154,23.8301,30,1
-"57591",87612,"col","",-102.67,24.7,"Astieria astieriformis horizon - Localities near Picacho Alto, Sierra de Symón",NA,"",3,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",136.35,"valanginian",14920,-43.5154,23.8301,30,1
-"57592",87613,"col","",-102.67,24.7,"Astieria astieriformis horizon - Localities near Picacho Alto, Sierra de Symón",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",136.35,"valanginian",14920,-43.5154,23.8301,30,1
-"57593",87614,"col","",-102.67,24.7,"Astieria raricostata horizon, Sierra de Symón",NA,"",1,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",136.35,"valanginian",14920,-43.5154,23.8301,30,1
-"58954",89282,"col","",-3.33,42.07,"Pinilla de los Moros",NA,"",1,"Valanginian","",139.8,132.9,29949,"gp_mid",18.68,26.71,"304",136.35,"valanginian",15334,18.1934,27.2017,30,1
-"59658",90685,"col","Spilsby Sandstone",-0.18,53.32,"Benniworth Haven, Lincolnshire [Spilsby Sandstone]",NA,"",1,"Valanginian","",139.8,132.9,30508,"gp_mid",21.33,37.19,"315",136.35,"valanginian",15630,23.7203,34.6323,30,1
-"59771",90900,"col","Cochirleni",28.09,44.29,"Cochirleni Quarry, Dobrogea",NA,"Cernavoda",5,"Valanginian","",139.8,132.9,30580,"gp_mid",37.18,7.11,"308",136.35,"valanginian",15673,45.0535,29.5647,30,1
-"65003",97567,"col","Palnatokes Bjerg",-20.14,74.45,"Pal-2/2001 (Loc. 4), NE Stratumbjerg, Albrechts Bugt Member",NA,"",7,"Valanginian","",139.8,132.9,33295,"gp_mid",24.77,51.79,"102",136.35,"valanginian",13905,26.1593,52.1251,30,1
-"65017",97584,"col","Palnatokes Bjerg",-19.58,74.59,"Pal-5/2001 (Loc. 6), Brorson Halvø, Albrechts Bugt Mbr.",NA,"",6,"Valanginian","",139.8,132.9,33295,"gp_mid",25.03,51.91,"102",136.35,"valanginian",17241,26.1593,52.1251,30,1
-"68455",102085,"col","Agrio",-70.34,-37.42,"Arroyo Truquico plesiosar locality",NA,"",1,"Valanginian","",139.8,132.9,34690,"gp_mid",-29.63,-39.41,"291",136.35,"valanginian",18592,-34.8765,-38.4226,30,1
-"68456",102086,"col","Agrio",-70.07,-38.75,"Cerro Negro, R.N. 40",NA,"",1,"Valanginian","",139.8,132.9,34690,"gp_mid",-29.38,-40.74,"291",136.35,"valanginian",18593,-34.8765,-38.4226,30,1
-"68457",102087,"col","Agrio",-70.03,-38.04,"Agua de la Mula plesiosar locality, Neocomites sp. subzone",NA,"",1,"Valanginian","",139.8,132.9,34690,"gp_mid",-29.33,-40.03,"291",136.35,"valanginian",18594,-34.8765,-38.4226,30,1
-"79183",116301,"col","",40.42,54.37,"Oka River, Chevkino",NA,"",1,"Valanginian","",139.8,132.9,37153,"gp_mid",51.53,40.38,"302",136.35,"valanginian",22195,53.2894,41.691,30,1
-"86076",124726,"col","",33.93,44.65,"Sbrosovyi Gully  (Section no. 5) K^Vlg,. Bed 1 (11.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.64,30.07,"302",136.35,"valanginian",24124,51.0295,30.7543,30,1
-"86077",124727,"col","",33.93,44.65,"Sbrosovyi Gully  (Section no. 5) Bed 2 (0.5 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.64,30.07,"302",136.35,"valanginian",24124,51.0295,30.7543,30,1
-"86082",124732,"col","",33.98,44.7,"Basin of the Kacha River (Section no. 9) K|Vlg|. Bed 1 (1 m)",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"86083",124733,"col","",33.98,44.7,"Basin of the Kacha River (Section no. 9) K,Vlg2. Bed 3 (4.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"86084",124734,"col","",33.98,44.7,"Basin of the Kacha River (Section no. 9) Bed 4 (6 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"86085",124735,"col","",33.98,44.7,"Basin of the Kacha River (Section no. 9) Bed 5(16 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"86086",124736,"col","",33.98,44.7,"Basin of the Kacha River (Section no. 9) Bed 6 (17 m)",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"86087",124737,"col","",34.02,44.8,"Kayas- Dzhilga Ravine  (Section no. 10) K,Vlg2. Bed 2 (22 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",48.68,30.22,"302",136.35,"valanginian",24129,51.0295,30.7543,30,1
-"86088",124738,"col","",34.05,44.82,"Nikolaev Yar Gully  (Section no. 11) K|Vlgj.Bed 1 (4 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86089",124739,"col","",34.05,44.82,"Nikolaev Yar Gully  (Section no. 11) Bed 3 (4.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86090",124740,"col","",34.05,44.82,"Dlinnaya Mountain (Section no. 12) KjVlg!. Bed 1 (1.5-2.5 m)",NA,"",6,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86091",124741,"col","",34.05,44.82,"Dlinnaya Mountain (Section no. 12) Bed 2 (ca. 10 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86092",124742,"col","",34.05,44.82,"Dlinnaya Mountain (Section no. 12) K,Hau,. Bed 3 (4.5 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86094",124744,"col","",34.05,44.82,"Patil ' Mountain (Section no. 14) Bed 2 (4 m).",NA,"",4,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",136.35,"valanginian",24130,51.0295,30.7543,30,1
-"86199",124862,"col","",34.62,45.13," Mazanka (Section no. 21) K, Vlg,. Bed 1 (ca. 15 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",136.35,"valanginian",24171,51.0295,30.7543,30,1
-"86200",124863,"col","",34.62,45.13," Mazanka (Section no. 21) Bed 2 (35^1-0 m)",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",136.35,"valanginian",24171,51.0295,30.7543,30,1
-"86201",124864,"col","",34.62,45.13," Mazanka (Section no. 21) Bed 3 (8-10 m)",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",136.35,"valanginian",24171,51.0295,30.7543,30,1
-"86204",124867,"col","",34.33,45.03,"Zuiskii Quarry-Kunich Mountain(Section no. 24) K,Vlg,. Bed 1 (30-40 m).",NA,"",5,"Valanginian","",139.8,132.9,40328,"gp_mid",48.89,30.49,"302",136.35,"valanginian",24174,51.0295,30.7543,30,1
-"86205",124868,"col","",34.33,45.03,"Zuiskii Quarry-Kunich Mountain(Section no. 24) K,Vlg2 . Bed 2 (ca. 20 m).",NA,"",6,"Valanginian","",139.8,132.9,40328,"gp_mid",48.89,30.49,"302",136.35,"valanginian",24174,51.0295,30.7543,30,1
-"86531",125295,"col","Sid'r",57.19,22.71,"Wadi nayid Section (13), BR97",NA,"",12,"Valanginian","",139.8,132.9,40646,"gp_mid",53.62,-16.62,"503",136.35,"valanginian",24287,48.8827,-20.8156,30,1
-"88120",127648,"col","Vaca Muerta",-70.23,-38.02,"Neuque´n Basin",NA,"",1,"Valanginian","",139.8,132.9,41646,"gp_mid",-29.54,-40,"291",136.35,"valanginian",24605,-34.8765,-38.4226,30,1
-"105210",149338,"col","",6.08,43.73,"Provence area",NA,"",16,"Valanginian","",139.8,132.9,47796,"gp_mid",26.08,27.55,"305",136.35,"valanginian",28289,29.4806,26.2075,30,1
-"106981",151555,"col","",19.83,49.98,"Sub-Silesian Nappe, Krzywica locality",NA,"",2,"Valanginian","",139.8,132.9,48433,"gp_mid",36.69,34.2,"305",136.35,"valanginian",28715,38.1127,33.518,30,1
-"107005",151580,"col","",19.48,49.88,"Sub-Silesian Nappe, Wozniki locality",NA,"",2,"Valanginian","",139.8,132.9,48433,"gp_mid",36.43,34.08,"305",136.35,"valanginian",28722,38.1127,33.518,30,1
-"112308",159700,"col","Chebo",88.75,31.21,"Gongboxue district",NA,"",1,"Valanginian","",139.8,132.9,52161,"gp_mid",97.92,11.03,"613",136.35,"valanginian",30129,100.5495,23.6781,30,1
-"112309",159701,"col","Chebo",88.75,31.21,"Yongzhu bridge",NA,"",4,"Valanginian","",139.8,132.9,52161,"gp_mid",97.92,11.03,"613",136.35,"valanginian",30129,100.5495,23.6781,30,1
-"116194",165685,"col","",33.98,44.7,"Verkhorechye, Crimea (Valanginian)",NA,"",1,"Valanginian","",139.8,132.9,54147,"gp_mid",48.67,30.12,"302",136.35,"valanginian",24128,51.0295,30.7543,30,1
-"128478",185613,"col","",6.62,36.28,"Province de Constantine",NA,"",1,"Valanginian","",139.8,132.9,62230,"gp_mid",NA,NA,"coordinates not computable using this model",136.35,"valanginian",33985,21.4372,16.3583,30,1
-"130976",190368,"col","",6.5,46.82,"Ste. Croix (USNM collection)",NA,"",1,"Valanginian","",139.8,132.9,64021,"gp_mid",26.39,30.64,"305",136.35,"valanginian",12566,29.8745,30.0342,30,1
-"130977",190369,"col","",6.5,46.82,"Ste. Croix (MCZ collection)",NA,"",1,"Valanginian","",139.8,132.9,64021,"gp_mid",26.39,30.64,"305",136.35,"valanginian",12566,29.8745,30.0342,30,1
-"131831",191953,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 15, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"131832",191954,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 16, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"131833",191955,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 17, Barranco de Canada Lengua, Cehegin",NA,"",5,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"131834",191956,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 18, Barranco de Canada Lengua, Cehegin",NA,"",5,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"131835",191957,"col","Miravetes",-1.81,38.07,"Section Y.CL2 - Nivel 19, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",136.35,"valanginian",10546,17.6035,21.4618,30,1
-"132485",193674,"col","Mulichinco",-70.25,-38.53,"Pilmatué",NA,"9 km northeast Las Lajas City",4,"Valanginian","",139.8,132.9,65783,"gp_mid",-29.57,-40.52,"291",136.35,"valanginian",34857,-34.8765,-38.4226,30,1
-"133193",195494,"col","Yamama",47.28,24.04,"VD88.32, section 5, Riyadh quadrangle",NA,"",2,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",136.35,"valanginian",35022,43.7086,-15.4123,30,1
-"133194",195495,"col","Yamama",47.28,24.04,"VD88.19, section 5, Riyadh quadrangle",NA,"",1,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",136.35,"valanginian",35022,43.7086,-15.4123,30,1
-"133207",195508,"col","Yamama",47.28,24.04,"VD88.33, section 5, Riyadh quadrangle",NA,"",2,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",136.35,"valanginian",35022,43.7086,-15.4123,30,1
-"135821",200770,"col","Hidasivölgy Marl",18.46,46.18,"Zengővárkony lime-kilns, bed 2",NA,"",1,"Valanginian","",139.8,132.9,68663,"gp_mid",38.14,14.09,"308",136.35,"valanginian",35634,35.7613,13.9735,30,1
-"143248",211837,"col","Rurikfjellet",13.89,78.1,"Schicht No, 22",NA,"",1,"Valanginian","",139.8,132.9,73209,"gp_mid",29.17,61.99,"309",136.35,"valanginian",37589,27.3051,60.1277,30,1
-"143306",211954,"col","",13.94,78.1,"Polyptychites bidichotomus",NA,"",4,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143307",211955,"col","",13.94,78.1,"Polyptychites ramulicosta",NA,"",8,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143308",211956,"col","",13.94,78.1,"Oxynoticers marcoui",NA,"",1,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143384",212033,"col","Rurikfjellet",13.94,78.1,"Fossilniveau 21",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143385",212034,"col","Rurikfjellet",13.94,78.1,"Fossilniveau 22",NA,"",9,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143386",212035,"col","Rurikfjellet",13.94,78.1,"Fossilniveau 22a",NA,"",6,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",136.35,"valanginian",37616,27.3051,60.1277,30,1
-"143387",212036,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 22b-22g",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143388",212037,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 23",NA,"",4,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143389",212038,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 24",NA,"",1,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143390",212039,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 25",NA,"",6,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143391",212040,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 26",NA,"",9,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143392",212041,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 27",NA,"",5,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143393",212042,"col","Rurikfjellet",13.95,78.1,"Fossilniveau 28",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",136.35,"valanginian",37640,27.3051,60.1277,30,1
-"143905",212802,"col","Rurikfjellet",15.05,77.62,"Van Keulenfjorden, Valangian, horizon 1",NA,"",1,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",136.35,"valanginian",37770,27.3051,60.1277,30,1
-"143906",212803,"col","Rurikfjellet",15.05,77.62,"Van Keulenfjorden, Valangian, horizon 2",NA,"",2,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",136.35,"valanginian",37770,27.3051,60.1277,30,1
-"143911",212808,"col","Rurikfjellet",15.05,77.62,"Van Keulenfjorden, Valangian, horizon 2",NA,"",8,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",136.35,"valanginian",37770,27.3051,60.1277,30,1
-"144009",212947,"col","",16.56,78.29,"Sassenfjorden, Mountain side",NA,"",12,"Valanginian","",139.8,132.9,73524,"gp_mid",30.29,62.24,"309",136.35,"valanginian",37806,27.3051,60.1277,30,1
-"144134",213107,"col","",18.86,78.08,"Agardhfjellet",NA,"",1,"Valanginian","",139.8,132.9,73545,"gp_mid",31.35,62.1,"311",136.35,"valanginian",37836,28.8789,60.3473,30,1
-"144233",213310,"col","Rosa Blanca",-73.24,6.84,"Caucho farm, near Laguna del Sapo",NA,"",1,"Valanginian","",139.8,132.9,73635,"gp_mid",-31.94,3.11,"203",136.35,"valanginian",37856,-37.6766,7.5097,30,1
-"144498",213664,"col","Spisz Limestone",20.31,49.44," Czorsztyn Castle Klippe locality",NA,"",5,"Valanginian","",139.8,132.9,73659,"gp_mid",37.12,33.68,"305",136.35,"valanginian",37895,38.1127,33.518,30,1
-"144542",213708,"col","",18.49,46.26,"Hidas Valley samples",NA,"",1,"Valanginian","",139.8,132.9,73659,"gp_mid",38.21,14.07,"308",136.35,"valanginian",37896,38.3112,25.3505,30,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"598",2113,"col","",40.259724,43.30389,"Gagra 2",NA,"",4,"Valanginian","",139.8,132.9,62,"gp_mid",54.07,29.51,"511",1,136.35,"valanginian",1
+"612",2118,"col","Mraznica",21.279167,49.424999,"Butkov Quarry1(CZE)",NA,"",22,"Valanginian","",139.8,132.9,63,"gp_mid",37.87,33.73,"305",1,136.35,"valanginian",1
+"682",2464,"col","",105,75,"Kheta River-11",NA,"",1,"Valanginian","",139.8,132.9,73,"gp_mid",73.71,70.03,"401",1,136.35,"valanginian",1
+"710",2493,"col","",57,64.5,"Yatriya River-6",NA,"",33,"Valanginian","",139.8,132.9,73,"gp_mid",59.07,52.43,"302",1,136.35,"valanginian",1
+"726",2509,"col","",70,62.5,"Western Siberia-4",NA,"",11,"Valanginian","",139.8,132.9,73,"gp_mid",69.14,52.85,"402",1,136.35,"valanginian",1
+"731",2514,"col","",40.25,54.299999,"Oka River-5",NA,"",5,"Valanginian","",139.8,132.9,73,"gp_mid",51.43,40.29,"302",1,136.35,"valanginian",1
+"732",2515,"col","",38.716667,55.316666,"Voskresensk",NA,"",19,"Valanginian","",139.8,132.9,73,"gp_mid",50.01,41.11,"302",1,136.35,"valanginian",1
+"743",2526,"col","",48.433334,53.033333,"Volga River-5",NA,"",2,"Valanginian","",139.8,132.9,73,"gp_mid",57.99,40.18,"302",1,136.35,"valanginian",1
+"748",2531,"col","",48.474445,53.173058,"Syzran River-5",NA,"",1,"Valanginian","",139.8,132.9,73,"gp_mid",57.97,40.32,"302",1,136.35,"valanginian",1
+"3255",12168,"col","",6.516667,43.849998,"Castellane, Cheiron (Alpes de Hte Provence)",NA,"",1,"Valanginian","",139.8,132.9,4226,"gp_mid",26.43,27.67,"305",1,136.35,"valanginian",1
+"8753",37837,"col","",-9.773333,30.6075,"Aghroud 2, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.86,19.58,"707",1,136.35,"valanginian",1
+"8754",37842,"col","",-9.773333,30.6075,"Aghroud 3, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.86,19.58,"707",1,136.35,"valanginian",1
+"8755",37843,"col","",-9.773333,30.6075,"Aghroud 4, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.86,19.58,"707",1,136.35,"valanginian",1
+"8756",37844,"col","",-9.773333,30.6075,"Aghroud 5, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.86,19.58,"707",1,136.35,"valanginian",1
+"8760",37848,"col","",-9.705833,30.599722,"Addar 108, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8761",37849,"col","",-9.705833,30.599722,"Addar 109, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8762",37850,"col","",-9.705833,30.599722,"Addar 110, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8763",37851,"col","",-9.705833,30.599722,"Addar 112, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8764",37852,"col","",-9.705833,30.599722,"Addar 114, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8765",37853,"col","",-9.705833,30.599722,"Addar 119, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8766",37854,"col","",-9.705833,30.599722,"Addar 120, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8767",37855,"col","",-9.705833,30.599722,"Addar 122, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8768",37856,"col","",-9.705833,30.599722,"Addar 140, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8769",37857,"col","",-9.705833,30.599722,"Addar 142, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8770",37858,"col","",-9.705833,30.599722,"Addar 146, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8771",37859,"col","",-9.705833,30.599722,"Addar 147, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8772",37860,"col","",-9.705833,30.599722,"Addar 150, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8773",37861,"col","",-9.705833,30.599722,"Addar 151, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8774",37862,"col","",-9.705833,30.599722,"Addar 152, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8775",37863,"col","",-9.705833,30.599722,"Addar 153, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8776",37864,"col","",-9.705833,30.599722,"Addar 159, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8777",37865,"col","",-9.705833,30.599722,"Addar 161, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8778",37866,"col","",-9.705833,30.599722,"Addar 163, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.9,19.54,"707",1,136.35,"valanginian",1
+"8856",37969,"col","",-9.825278,30.697779,"Tamri 1, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8857",37970,"col","",-9.825278,30.697779,"Tamri 2, Cap Ghir",NA,"",5,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8858",37971,"col","",-9.825278,30.697779,"Tamri 3, Cap Ghir",NA,"",5,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8859",37972,"col","",-9.825278,30.697779,"Tamri 4, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8860",37973,"col","",-9.825278,30.697779,"Tamri 5, Cap Ghir",NA,"",6,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8861",37974,"col","",-9.825278,30.697779,"Tamri 6, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8862",37975,"col","",-9.825278,30.697779,"Tamri 7, Cap Ghir",NA,"",5,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8863",37976,"col","",-9.825278,30.697779,"Tamri 8, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8864",37977,"col","",-9.825278,30.697779,"Tamri 9, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.88,19.68,"707",1,136.35,"valanginian",1
+"8980",38154,"col","",-9.707778,30.6075,"Ain Hammouch 122, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"8981",38155,"col","",-9.707778,30.6075,"Ain Hammouch 123, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"8982",38156,"col","",-9.707778,30.6075,"Ain Hammouch 125, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9009",38227,"col","",-9.707778,30.6075,"Ain Hammouch 129b, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9045",38225,"col","",-9.707778,30.6075,"Ain Hammouch 127, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9050",38226,"col","",-9.707778,30.6075,"Ain Hammouch 129a, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9051",38228,"col","",-9.707778,30.6075,"Ain Hammouch 133, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9052",38229,"col","",-9.707778,30.6075,"Ain Hammouch 137, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9053",38230,"col","",-9.707778,30.6075,"Ain Hammouch 139, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9054",38231,"col","",-9.707778,30.6075,"Ain Hammouch 140, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9055",38232,"col","",-9.707778,30.6075,"Ain Hammouch 142, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9056",38233,"col","",-9.707778,30.6075,"Ain Hammouch 147, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9057",38234,"col","",-9.707778,30.6075,"Ain Hammouch 148, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9058",38235,"col","",-9.707778,30.6075,"Ain Hammouch 152, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9059",38236,"col","",-9.707778,30.6075,"Ain Hammouch 154, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9060",38237,"col","",-9.707778,30.6075,"Ain Hammouch 167, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9061",38238,"col","",-9.707778,30.6075,"Ain Hammouch 168, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9062",38239,"col","",-9.707778,30.6075,"Ain Hammouch 170, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9063",38240,"col","",-9.707778,30.6075,"Ain Hammouch 172, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9064",38241,"col","",-9.707778,30.6075,"Ain Hammouch 174, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9065",38242,"col","",-9.707778,30.6075,"Ain Hammouch 176, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9066",38243,"col","",-9.707778,30.6075,"Ain Hammouch 178, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9067",38244,"col","",-9.707778,30.6075,"Ain Hammouch 183, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9068",38245,"col","",-9.707778,30.6075,"Ain Hammouch 185, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9069",38246,"col","",-9.707778,30.6075,"Ain Hammouch 191, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9070",38247,"col","",-9.707778,30.6075,"Ain Hammouch 197a, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9071",38248,"col","",-9.707778,30.6075,"Ain Hammouch 197b, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9072",38249,"col","",-9.707778,30.6075,"Ain Hammouch 199, Cap Ghir",NA,"",4,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9073",38251,"col","",-9.707778,30.6075,"Ain Hammouch 203, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.91,19.55,"707",1,136.35,"valanginian",1
+"9076",38254,"col","",-9.675,30.602777,"Adennz lower, Cap Ghir",NA,"Addenz",8,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.53,"707",1,136.35,"valanginian",1
+"9077",38255,"col","",-9.675,30.602777,"Adennz upper, Cap Ghir",NA,"Addenz",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.53,"707",1,136.35,"valanginian",1
+"9079",38257,"col","",-9.7525,30.699167,"Taourirt Oubazine 110, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9080",38258,"col","",-9.7525,30.699167,"Taourirt Oubazine 111, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9081",38259,"col","",-9.7525,30.699167,"Taourirt Oubazine 113, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9082",38260,"col","",-9.7525,30.699167,"Taourirt Oubazine 119, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9083",38261,"col","",-9.7525,30.699167,"Taourirt Oubazine 121, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9084",38262,"col","",-9.7525,30.699167,"Taourirt Oubazine 127, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9085",38263,"col","",-9.7525,30.699167,"Taourirt Oubazine 136, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9086",38264,"col","",-9.7525,30.699167,"Taourirt Oubazine 138, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9087",38265,"col","",-9.7525,30.699167,"Taourirt Oubazine 140, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9088",38267,"col","",-9.7525,30.699167,"Taourirt Oubazine 141, Cap Ghir",NA,"",2,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9089",38268,"col","",-9.7525,30.699167,"Taourirt Oubazine 144, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9090",38269,"col","",-9.7525,30.699167,"Taourirt Oubazine 145, Cap Ghir",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9091",38270,"col","",-9.7525,30.699167,"Taourirt Oubazine 147, Cap Ghir",NA,"",7,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9092",38271,"col","",-9.7525,30.699167,"Taourirt Oubazine 154, Cap Ghir",NA,"",3,"Valanginian","",139.8,132.9,7668,"gp_mid",6.93,19.65,"707",1,136.35,"valanginian",1
+"9093",38285,"col","",-9.691667,30.69861,"Zaouia Sidi Abd-er-Rahmane, Cap Ghir, T. pertransiens zone",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.98,19.62,"707",1,136.35,"valanginian",1
+"9094",38287,"col","",-9.691667,30.69861,"Zaouia Sidi Abd-er-Rahmane, Cap Ghir, B. campylotoxus subzone",NA,"",8,"Valanginian","",139.8,132.9,7668,"gp_mid",6.98,19.62,"707",1,136.35,"valanginian",1
+"9095",38290,"col","",-9.691667,30.69861,"Zaouia Sidi Abd-er-Rahmane, Cap Ghir, K. biassalense subzone",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.98,19.62,"707",1,136.35,"valanginian",1
+"9096",38292,"col","",-9.691667,30.69861,"Zaouia Sidi Abd-er-Rahmane, Cap Ghir, S. verrucosum zone",NA,"",1,"Valanginian","",139.8,132.9,7668,"gp_mid",6.98,19.62,"707",1,136.35,"valanginian",1
+"12674",44306,"col","Okpikruak",-163.125,68.727776,"USGS 23698 - Igloo Mountain, North Slope",NA,"Loc. #11; 49ACh36",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-24.81,79.65,"103",1,136.35,"valanginian",1
+"12726",44359,"col","Okpikruak",-161.666672,68.504166,"USGS 22500 - Iligluruk Creek, North Slope",NA,"Loc. #21; 50AMg69",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.69,79.4,"103",1,136.35,"valanginian",1
+"12727",44360,"col","Okpikruak",-161.24028,68.675003,"USGS 22496 - Iligluruk Creek, North Slope",NA,"Loc. #21; 50AMg69",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.53,79.17,"103",1,136.35,"valanginian",1
+"12728",44361,"col","Okpikruak",-161.520828,68.686111,"USGS 22497 - Iligluruk Creek, North Slope",NA,"Loc. #19; 50AMg79",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.13,79.25,"103",1,136.35,"valanginian",1
+"12729",44362,"col","Okpikruak",-161.496109,68.68528,"USGS 22485 - Iligluruk Creek, North Slope",NA,"Loc. #20; 50ASa117",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.17,79.24,"103",1,136.35,"valanginian",1
+"12730",44363,"col","Okpikruak",-161.520828,68.689445,"USGS 22481 - Iligluruk Creek, North Slope",NA,"Loc. #19; 50ASa52A",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.12,79.24,"103",1,136.35,"valanginian",1
+"12731",44364,"col","Okpikruak",-163.03334,68.73333,"USGS 22128 - Kukpowruk River, North Slope",NA,"Loc. #12; 49ASa46",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-24.92,79.62,"103",1,136.35,"valanginian",1
+"12739",44382,"col","Okipruak",-161.316666,68.563889,"USGS 22487 - Iliglurak Creek, North Slope",NA,"Loc. #26; 50ASa135A",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.89,79.27,"103",1,136.35,"valanginian",1
+"12740",44383,"col","Okipruak",-161.129166,68.534164,"USGS 22493 - Utukok River, North Slope",NA,"Loc. #26; 50ASa267",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.25,79.23,"103",1,136.35,"valanginian",1
+"12741",44384,"col","Okipruak",-161.229172,68.552498,"USGS 22488 - Iliglurak Creek, North Slope",NA,"Loc. #25; 50ASa247",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.05,79.25,"103",1,136.35,"valanginian",1
+"12742",44385,"col","Okipruak",-161.28334,68.568611,"USGS 22489 - Utukok River, North Slope",NA,"Loc. #25; 50ASa251",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.91,79.25,"103",1,136.35,"valanginian",1
+"12743",44386,"col","Okipruak",-161.074997,68.569443,"USGS 22490 - Utukok River, North Slope",NA,"Loc. #23; 50ASa251",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.17,79.2,"103",1,136.35,"valanginian",1
+"12745",44388,"col","Okipruak",-161.316666,68.597221,"USGS 22486 - Iliglurak Creek, North Slope",NA,"Loc. #25; 50ASa135",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.75,79.25,"103",1,136.35,"valanginian",1
+"12746",44389,"col","Okipruak",-161.606949,68.514442,"USGS 22484 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa103",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.73,79.38,"103",1,136.35,"valanginian",1
+"12747",44390,"col","Okipruak",-161.608337,68.541389,"USGS 22483 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa97",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.61,79.36,"103",1,136.35,"valanginian",1
+"12748",44391,"col","Okipruak",-161.633331,68.525002,"USGS 22482 - Iliglurak Creek, North Slope",NA,"Loc. #24; 50ASa92",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-27.65,79.38,"103",1,136.35,"valanginian",1
+"12749",44392,"col","Okipruak",-161.120834,68.572502,"USGS 22491 - Utukok River, North Slope",NA,"Loc. #23; 50ASa249",1,"Valanginian","",139.8,132.9,11641,"gp_mid",-28.1,79.21,"103",1,136.35,"valanginian",1
+"13483",45348,"col","Abenaki",-60.831669,43.690834,"Demascota well, Nova Scotia, Canada",NA,"Reef 114",28,"Valanginian","",139.8,132.9,11807,"gp_mid",-0.88,29.74,"108",1,136.35,"valanginian",1
+"18824",55836,"col","Kieselkalk",9.9,47.416668,"Gemsmättli Mbr, Kieselkalk Fm - Breiterberg, Vorarlberg",NA,"",18,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",1,136.35,"valanginian",1
+"18896",55939,"col","Lower Sandstone",-137.333328,67.916664,"Bed 10, Section 5 - Lower Sandstone Division, Richardson Mtns",NA,"Bed 10, Field No. 138",1,"Valanginian","",139.8,132.9,15099,"gp_mid",-39.39,69.39,"101",1,136.35,"valanginian",1
+"18898",55941,"col","Bluish Grey Shale",-138.083328,68.166664,"Bed 2, Section 8 - Bluish Grey Shale Division, Richardson Mtns",NA,"Bed 2, Field No. 161",2,"Valanginian","",139.8,132.9,15099,"gp_mid",-39.37,69.76,"101",1,136.35,"valanginian",1
+"23047",62642,"col","Palnatokes Bjerg",-19.333332,74.550003,"Falskebugt, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",5,"Valanginian","",139.8,132.9,18075,"gp_mid",25.13,51.87,"102",1,136.35,"valanginian",1
+"23048",62643,"col","Palnatokes Bjerg",-20.299999,74.466667,"N Stratumbjerg, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",3,"Valanginian","",139.8,132.9,18075,"gp_mid",24.7,51.81,"102",1,136.35,"valanginian",1
+"23049",62644,"col","Palnatokes Bjerg",-20.299999,74.466667,"E Stratumbjerg, Wollaston Forland, Palnatokes Bjerg Formation, E Greenland",NA,"",2,"Valanginian","",139.8,132.9,18075,"gp_mid",24.7,51.81,"102",1,136.35,"valanginian",1
+"23789",63988,"col","Barril Viejo",-101.466667,27.450001,"Potrero Oballos, Barril Viejo Formation, Coahuila",NA,"",1,"Valanginian","",139.8,132.9,18448,"gp_mid",-41.2,23.63,"101",1,136.35,"valanginian",1
+"23799",63998,"col","Cuesta del Carbonera",-103.583336,25.466667,"Cuesta del Carbonera, Carbonera Formation, Durango",NA,"",2,"Valanginian","",139.8,132.9,18448,"gp_mid",-43.84,22.36,"104",1,136.35,"valanginian",1
+"24134",64625,"col","Bhuj",68.949997,23.633333,"Umia, Kutch, Bhuj Formation, Ghuneri Member",NA,"",3,"Valanginian","",139.8,132.9,18643,"gp_mid",43.21,-40.23,"501",1,136.35,"valanginian",1
+"24325",65007,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 269, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",12,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24330",65012,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 270, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",8,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24331",65013,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 271, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24332",65014,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 272, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",17,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24333",65015,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 273, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",4,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24334",65016,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 274, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",10,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24335",65017,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 275, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",1,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24336",65018,"col","Miravetes",-1.892222,38.093056,"Section Y.Mv - Bed 276, Cortijo de Miravetes, Rio Argos, Caravaca, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.42,22.75,"304",1,136.35,"valanginian",1
+"24445",65211,"col","Pieniny Limestone",20.299999,49.416668,"Kapusnica Section II, near Niedzica Castle, Tintinopsella (P. P)",NA,"",6,"Valanginian","",139.8,132.9,18716,"gp_mid",37.11,33.66,"305",1,136.35,"valanginian",1
+"24504",65296,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 9, Canada Luenga, Cehegin, Murcia",NA,"",14,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24505",65297,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 10, Canada Luenga, Cehegin, Murcia",NA,"",18,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24506",65298,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 11, Canada Luenga, Cehegin, Murcia",NA,"",18,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24509",65301,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 12, Canada Luenga, Cehegin, Murcia",NA,"",16,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24510",65302,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 13, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24512",65304,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 14, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24513",65305,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 15, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24515",65307,"col","Miravetes",-1.810833,38.066387,"Section M.CL - Bed 16, Canada Luenga, Cehegin, Murcia",NA,"",4,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24531",65324,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 12, Canada Luenga, Cehegin, Murcia",NA,"",19,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24532",65325,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 12a, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24533",65326,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 12b, Canada Luenga, Cehegin, Murcia",NA,"",12,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24534",65328,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 12c, Canada Luenga, Cehegin, Murcia",NA,"",11,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24535",65329,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 13, Canada Luenga, Cehegin, Murcia",NA,"",16,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24536",65330,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 14, Canada Luenga, Cehegin, Murcia",NA,"",15,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24537",65332,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 15, Canada Luenga, Cehegin, Murcia",NA,"",14,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24538",65333,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Bed 16, Canada Luenga, Cehegin, Murcia",NA,"",12,"Valanginian","",139.8,132.9,18720,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"24876",65796,"col","Kieselkalk",9.9,47.416668,"Gemsmättli Mbr, Kieselkalk Fm - Bezeck near Bezau, Vorarlberg",NA,"",1,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",1,136.35,"valanginian",1
+"24877",65797,"col","Kieselkalk",9.9,47.416668,"Gemsmättli Mbr, Kieselkalk Fm - Örfla Gorge, Götzis, Vorarlberg",NA,"",1,"Valanginian","",139.8,132.9,15037,"gp_mid",29.08,31.27,"305",1,136.35,"valanginian",1
+"25378",66566,"col","Khorasoim",60.5,64.166664,"Yatrija River, Khorasoim Formation, W Siberia",NA,"",1,"Valanginian","",139.8,132.9,19000,"gp_mid",61.58,52.67,"302",1,136.35,"valanginian",1
+"25381",66570,"col","Khorasoim",60.916668,64.26667,"Saranpaulskaja, borehole 28-u, Khorasoim Formation, W Siberia",NA,"",2,"Valanginian","",139.8,132.9,19000,"gp_mid",61.8,52.84,"302",1,136.35,"valanginian",1
+"25860",67436,"col","",20.1,41.966667,"Mt. Munella, bed 3, Mirdita zone, Puke",NA,"",5,"Valanginian","",139.8,132.9,19227,"gp_mid",33.94,12.51,"307",1,136.35,"valanginian",1
+"28459",71667,"col","Cerkesli",29.549999,40.799999,"Cerkesli Formation type locality - conglomerate member",NA,"",4,"Valanginian","",139.8,132.9,24225,"gp_mid",45.64,25.8,"511",1,136.35,"valanginian",1
+"28460",71668,"col","Cerkesli",29.549999,40.799999,"Cerkesli Formation type locality - limestone member",NA,"",1,"Valanginian","",139.8,132.9,24225,"gp_mid",45.64,25.8,"511",1,136.35,"valanginian",1
+"30591",76917,"col","",-103.550003,25.483334,"Carbonera Formation, Las Cuevas, Durango",NA,"",3,"Valanginian","",139.8,132.9,26022,"gp_mid",-43.8,22.37,"104",1,136.35,"valanginian",1
+"30592",76918,"col","",-103.683334,25.483334,"Sierra de Hispana, Durango",NA,"",1,"Valanginian","",139.8,132.9,26022,"gp_mid",-43.93,22.4,"104",1,136.35,"valanginian",1
+"30594",76921,"col","",7.15,47.099998,"Twann",NA,"",6,"Valanginian","",139.8,132.9,26025,"gp_mid",26.91,30.92,"305",1,136.35,"valanginian",1
+"30595",76922,"col","",6.5,46.816666,"Collaz",NA,"",2,"Valanginian","",139.8,132.9,26025,"gp_mid",26.39,30.64,"305",1,136.35,"valanginian",1
+"30596",76923,"col","",6.916667,47.033333,"Valangin",NA,"",1,"Valanginian","",139.8,132.9,26025,"gp_mid",26.72,30.85,"305",1,136.35,"valanginian",1
+"30597",76924,"col","",6.683333,46.933334,"Villers",NA,"",4,"Valanginian","",139.8,132.9,26025,"gp_mid",26.54,30.75,"305",1,136.35,"valanginian",1
+"30667",77072,"col","",34.5,44.75,"Crimean Mountains, algal-coral bioherms",NA,"Reef 2921",17,"Valanginian","",139.8,132.9,26090,"gp_mid",49.08,30.23,"302",1,136.35,"valanginian",1
+"34099",83572,"col","",-121.900002,48.830002,"UWA A538 [Nooksack Gp]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-52.48,47.41,"129",1,136.35,"valanginian",1
+"34103",83576,"col","",-121.900002,48.830002,"USGS 17273 [Nooksack Gp]",NA,"",1,"Valanginian","",139.8,132.9,28036,"gp_mid",-52.48,47.41,"129",1,136.35,"valanginian",1
+"34121",83593,"col","Paskenta",-122.230003,40.130001,"USGS 2265 [Paskenta Fm]",NA,"",1,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34122",83594,"col","Paskenta",-122.230003,40.130001,"USGS 1009 [Paskenta Fm]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34123",83595,"col","Paskenta",-122.230003,40.130001,"USGS 1087 [Paskenta Fm]",NA,"Sta. 90",3,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34124",83596,"col","Paskenta",-122.230003,40.130001,"USGS 1088 [Paskenta Fm]",NA,"Sta. 91",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34125",83597,"col","Paskenta",-122.230003,40.130001,"USGS 1091 [Paskenta Fm]",NA,"Sta. 94",5,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34127",83599,"col","Paskenta",-122.230003,40.130001,"USGS 1093 [Paskenta Fm]",NA,"Sta. 96",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34129",83601,"col","Paskenta",-122.230003,40.130001,"USGS 5339 [Paskenta Fm]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34131",83603,"col","Paskenta",-122.230003,40.130001,"USGS 1001 [Paskenta Fm]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34132",83604,"col","Paskenta",-122.230003,40.130001,"CAS 33502 [Paskenta Fm]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34135",83608,"col","Paskenta",-122.230003,40.130001,"USGS 1010 [Paskenta Fm]",NA,"",2,"Valanginian","",139.8,132.9,28036,"gp_mid",-56.71,39.26,"130",1,136.35,"valanginian",1
+"34210",83712,"col","",-20.25,74.883331,"Kuhn Ø",NA,"",3,"Valanginian","",139.8,132.9,28065,"gp_mid",24.79,52.22,"102",1,136.35,"valanginian",1
+"34211",83713,"col","",-20,74.5,"North Wollaston Forland",NA,"",2,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",1,136.35,"valanginian",1
+"34212",83714,"col","Llindemann Bugt",-20,74.5,"North Wollaston Forland [Lindemann Bugt Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",1,136.35,"valanginian",1
+"34216",83718,"col","Llindemann Bugt",-20,74.5,"North Wollaston Forland [Rigi Mbr, Lindemann Bugt Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.84,51.83,"102",1,136.35,"valanginian",1
+"34217",83741,"col","Palnatokes Bjerg",-22.57889,72.478333,"Loc. 1, southern Mols Berge [Palnatokes Bjerg Fm]",NA,"Loc. 92 of Donovan (1953)",34,"Valanginian","",139.8,132.9,28065,"gp_mid",23.33,49.9,"102",1,136.35,"valanginian",1
+"34219",83748,"col","Palnatokes Bjerg",-20.167778,74.456947,"Pal-1/2001 (Loc. 3), north ride of Stratumbjerg [Palnatokes Bjerg Fm]",NA,"",1,"Valanginian","",139.8,132.9,28065,"gp_mid",24.76,51.79,"102",1,136.35,"valanginian",1
+"34220",83749,"col","Palnatokes Bjerg",-20.142778,74.453056,"Pal-2/2001 (Loc. 4), NE Stratumbjerg [Palnatokes Bjerg Fm]",NA,"",0,"Valanginian","",139.8,132.9,28065,"gp_mid",24.77,51.79,"102",1,136.35,"valanginian",1
+"36154",87070,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 314 m",NA,"Reef 3926",3,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36155",87071,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 325 m",NA,"Reef 3926",4,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36156",87072,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 332-335 m",NA,"Reef 3926",3,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36157",87073,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 352 m",NA,"Reef 3926",1,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36158",87074,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 359-377 m",NA,"Reef 3926",27,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36159",87075,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 382 m",NA,"Reef 3926",13,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36160",87076,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 387 m",NA,"Reef 3926",5,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36161",87077,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 392 m",NA,"Reef 3926",4,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36162",87078,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 395 m",NA,"Reef 3926",5,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36163",87079,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 397 m",NA,"Reef 3926",6,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36164",87080,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 412 m",NA,"Reef 3926",8,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36165",87081,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 415 m",NA,"Reef 3926",20,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36166",87082,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 420 m",NA,"Reef 3926",5,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36167",87083,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 421-427 m",NA,"Reef 3926",18,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36168",87084,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 437 m",NA,"Reef 3926",9,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36169",87085,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 442-447 m",NA,"Reef 3926",3,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36170",87086,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 453 m",NA,"Reef 3926",12,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36171",87087,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 457 m",NA,"Reef 3926",7,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36172",87088,"col","Slivnitsa",22.75,42.766666,"Lyubasha Mountain, Lyalintsi, 460 m",NA,"Reef 3926",5,"Valanginian","",139.8,132.9,29296,"gp_mid",35,10.67,"308",1,136.35,"valanginian",1
+"36387",87422,"col","Deer Bay",-83,80.5,"GSC Loc. 52489 - Greely Fiord [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29438,"gp_mid",13.4,63.52,"106",1,136.35,"valanginian",1
+"36389",87424,"col","Deer Bay",-83,80.5,"GSC Loc. 47867 - Greely Fiord [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29438,"gp_mid",13.4,63.52,"106",1,136.35,"valanginian",1
+"36390",87425,"col","",16.983334,79.933334,"Stream S. of Hecla Haven, Spitsbergen",NA,"",1,"Valanginian","",139.8,132.9,29438,"gp_mid",30.02,63.88,"311",1,136.35,"valanginian",1
+"36521",87562,"col","Deer Bay",-97.900002,78.640556,"GSC Loc. 91313 - Amund Ringnes Island [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29472,"gp_mid",6.73,65.03,"106",1,136.35,"valanginian",1
+"36522",87563,"col","Deer Bay",-97.900002,78.640556,"GSC Loc. 93757 - Amund Ringnes Island [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29472,"gp_mid",6.73,65.03,"106",1,136.35,"valanginian",1
+"36523",87564,"col","Deer Bay",-85.416664,80.004997,"GSC Loc. 24075 - Ellesmere Island [Deer Bay Fm]",NA,"",3,"Valanginian","",139.8,132.9,29472,"gp_mid",11.97,63.6,"106",1,136.35,"valanginian",1
+"36524",87565,"col","Deer Bay",-85.416664,80.004997,"GSC Loc. 28731 - Ellesmere Island [Deer Bay Fm]",NA,"",5,"Valanginian","",139.8,132.9,29472,"gp_mid",11.97,63.6,"106",1,136.35,"valanginian",1
+"36525",87566,"col","",-90,79.5,"GSC Loc. 52491 - Axel Heiberg Island [Deer Bay Fm]",NA,"",1,"Valanginian","",139.8,132.9,29472,"gp_mid",10.06,64.06,"106",1,136.35,"valanginian",1
+"36560",87608,"col","",-101.550003,24.633333,"Mazapil, Sierra de Santa Rosa",NA,"",3,"Valanginian","",139.8,132.9,29490,"gp_mid",-42.25,20.98,"104",1,136.35,"valanginian",1
+"36561",87609,"col","",-102.633331,24.75,"Astieria neohispanica bed- Localities near Cerro del Toboso, Sierra de Symón",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.21,21.41,"104",1,136.35,"valanginian",1
+"36563",87611,"col","",-101.633331,24.766666,"Holcostephanus horizon - Localities near Puerto del Canutillo, Sierra de Zuluaga",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-42.28,21.13,"104",1,136.35,"valanginian",1
+"36564",87612,"col","",-102.666664,24.700001,"Astieria astieriformis horizon - Localities near Picacho Alto, Sierra de Symón",NA,"",3,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",1,136.35,"valanginian",1
+"36565",87613,"col","",-102.666664,24.700001,"Astieria astieriformis horizon - Localities near Picacho Alto, Sierra de Symón",NA,"",2,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",1,136.35,"valanginian",1
+"36566",87614,"col","",-102.666664,24.700001,"Astieria raricostata horizon, Sierra de Symón",NA,"",1,"Valanginian","",139.8,132.9,29490,"gp_mid",-43.26,21.37,"104",1,136.35,"valanginian",1
+"38514",90900,"col","Cochirleni",28.092323,44.28957,"Cochirleni Quarry, Dobrogea",NA,"Cernavoda",5,"Valanginian","",139.8,132.9,30580,"gp_mid",37.18,7.11,"308",1,136.35,"valanginian",1
+"42897",97567,"col","Palnatokes Bjerg",-20.142778,74.453056,"Pal-2/2001 (Loc. 4), NE Stratumbjerg, Albrechts Bugt Member",NA,"",7,"Valanginian","",139.8,132.9,33295,"gp_mid",24.77,51.79,"102",1,136.35,"valanginian",1
+"42911",97584,"col","Palnatokes Bjerg",-19.575001,74.58667,"Pal-5/2001 (Loc. 6), Brorson Halvø, Albrechts Bugt Mbr.",NA,"",6,"Valanginian","",139.8,132.9,33295,"gp_mid",25.03,51.91,"102",1,136.35,"valanginian",1
+"55743",116301,"col","",40.416668,54.366669,"Oka River, Chevkino",NA,"",1,"Valanginian","",139.8,132.9,37153,"gp_mid",51.53,40.38,"302",1,136.35,"valanginian",1
+"61555",124726,"col","",33.933334,44.650002,"Sbrosovyi Gully  (Section no. 5) K^Vlg,. Bed 1 (11.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.64,30.07,"302",1,136.35,"valanginian",1
+"61556",124727,"col","",33.933334,44.650002,"Sbrosovyi Gully  (Section no. 5) Bed 2 (0.5 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.64,30.07,"302",1,136.35,"valanginian",1
+"61561",124732,"col","",33.983334,44.700001,"Basin of the Kacha River (Section no. 9) K|Vlg|. Bed 1 (1 m)",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"61562",124733,"col","",33.983334,44.700001,"Basin of the Kacha River (Section no. 9) K,Vlg2. Bed 3 (4.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"61563",124734,"col","",33.983334,44.700001,"Basin of the Kacha River (Section no. 9) Bed 4 (6 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"61564",124735,"col","",33.983334,44.700001,"Basin of the Kacha River (Section no. 9) Bed 5(16 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"61565",124736,"col","",33.983334,44.700001,"Basin of the Kacha River (Section no. 9) Bed 6 (17 m)",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"61566",124737,"col","",34.016666,44.799999,"Kayas- Dzhilga Ravine  (Section no. 10) K,Vlg2. Bed 2 (22 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",48.68,30.22,"302",1,136.35,"valanginian",1
+"61567",124738,"col","",34.049999,44.816666,"Nikolaev Yar Gully  (Section no. 11) K|Vlgj.Bed 1 (4 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61568",124739,"col","",34.049999,44.816666,"Nikolaev Yar Gully  (Section no. 11) Bed 3 (4.5 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61569",124740,"col","",34.049999,44.816666,"Dlinnaya Mountain (Section no. 12) KjVlg!. Bed 1 (1.5-2.5 m)",NA,"",6,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61570",124741,"col","",34.049999,44.816666,"Dlinnaya Mountain (Section no. 12) Bed 2 (ca. 10 m).",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61571",124742,"col","",34.049999,44.816666,"Dlinnaya Mountain (Section no. 12) K,Hau,. Bed 3 (4.5 m).",NA,"",3,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61573",124744,"col","",34.049999,44.816666,"Patil ' Mountain (Section no. 14) Bed 2 (4 m).",NA,"",4,"Valanginian","",139.8,132.9,40328,"gp_mid",48.7,30.24,"302",1,136.35,"valanginian",1
+"61656",124862,"col","",34.616669,45.133331," Mazanka (Section no. 21) K, Vlg,. Bed 1 (ca. 15 m).",NA,"",2,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",1,136.35,"valanginian",1
+"61657",124863,"col","",34.616669,45.133331," Mazanka (Section no. 21) Bed 2 (35^1-0 m)",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",1,136.35,"valanginian",1
+"61658",124864,"col","",34.616669,45.133331," Mazanka (Section no. 21) Bed 3 (8-10 m)",NA,"",1,"Valanginian","",139.8,132.9,40328,"gp_mid",49.1,30.62,"302",1,136.35,"valanginian",1
+"61661",124867,"col","",34.333332,45.033333,"Zuiskii Quarry-Kunich Mountain(Section no. 24) K,Vlg,. Bed 1 (30-40 m).",NA,"",5,"Valanginian","",139.8,132.9,40328,"gp_mid",48.89,30.49,"302",1,136.35,"valanginian",1
+"61662",124868,"col","",34.333332,45.033333,"Zuiskii Quarry-Kunich Mountain(Section no. 24) K,Vlg2 . Bed 2 (ca. 20 m).",NA,"",6,"Valanginian","",139.8,132.9,40328,"gp_mid",48.89,30.49,"302",1,136.35,"valanginian",1
+"77924",149338,"col","",6.083333,43.733334,"Provence area",NA,"",16,"Valanginian","",139.8,132.9,47796,"gp_mid",26.08,27.55,"305",1,136.35,"valanginian",1
+"79444",151488,"col","",22.883333,42.733334,"Breznik area, Valanginian Stage",NA,"",5,"Valanginian","",139.8,132.9,48400,"gp_mid",34.98,10.57,"308",1,136.35,"valanginian",1
+"86858",165685,"col","",33.98,44.700001,"Verkhorechye, Crimea (Valanginian)",NA,"",1,"Valanginian","",139.8,132.9,54147,"gp_mid",48.67,30.12,"302",1,136.35,"valanginian",1
+"97179",190368,"col","",6.5,46.822224,"Ste. Croix (USNM collection)",NA,"",1,"Valanginian","",139.8,132.9,64021,"gp_mid",26.39,30.64,"305",1,136.35,"valanginian",1
+"97180",190369,"col","",6.5,46.822224,"Ste. Croix (MCZ collection)",NA,"",1,"Valanginian","",139.8,132.9,64021,"gp_mid",26.39,30.64,"305",1,136.35,"valanginian",1
+"97752",191953,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Nivel 15, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"97753",191954,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Nivel 16, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"97754",191955,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Nivel 17, Barranco de Canada Lengua, Cehegin",NA,"",5,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"97755",191956,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Nivel 18, Barranco de Canada Lengua, Cehegin",NA,"",5,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"97756",191957,"col","Miravetes",-1.8125,38.068054,"Section Y.CL2 - Nivel 19, Barranco de Canada Lengua, Cehegin",NA,"",4,"Valanginian","",139.8,132.9,64800,"gp_mid",17.46,22.69,"304",1,136.35,"valanginian",1
+"98517",195494,"col","Yamama",47.279999,24.040001,"VD88.32, section 5, Riyadh quadrangle",NA,"",2,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",1,136.35,"valanginian",1
+"98518",195495,"col","Yamama",47.279999,24.040001,"VD88.19, section 5, Riyadh quadrangle",NA,"",1,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",1,136.35,"valanginian",1
+"98531",195508,"col","Yamama",47.279999,24.040001,"VD88.33, section 5, Riyadh quadrangle",NA,"",2,"Valanginian","",139.8,132.9,66541,"gp_mid",45.36,-12.09,"503",1,136.35,"valanginian",1
+"103381",206220,"col","Tiloula",1.033333,33.711666,"El Grarij tracksite, El Bayadh site 1",NA,"Djebel Amour, Douar Grarij",4,"Valanginian","",139.8,132.9,70769,"gp_mid",16.65,16.98,"707",1,136.35,"valanginian",1
+"103382",206221,"col","Tiloula",1.038611,33.709442,"El Mouilah tracksite, El Bayadh site 2",NA,"Djebel Amour",3,"Valanginian","",139.8,132.9,70817,"gp_mid",16.66,16.98,"707",1,136.35,"valanginian",1
+"103383",206222,"col","Tiloula",1.038611,33.709442,"Abbatoirs tracksite, El Bayadh site 3",NA,"Djebel Amour, Oued Mérirès",1,"Valanginian","",139.8,132.9,70818,"gp_mid",16.66,16.98,"707",1,136.35,"valanginian",1
+"106279",211837,"col","Rurikfjellet",13.885278,78.098053,"Schicht No, 22",NA,"",1,"Valanginian","",139.8,132.9,73209,"gp_mid",29.17,61.99,"309",1,136.35,"valanginian",1
+"106332",211954,"col","",13.938889,78.09861,"Polyptychites bidichotomus",NA,"",4,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106333",211955,"col","",13.938889,78.09861,"Polyptychites ramulicosta",NA,"",8,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106334",211956,"col","",13.938889,78.09861,"Oxynoticers marcoui",NA,"",1,"Valanginian","",139.8,132.9,73250,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106409",212033,"col","Rurikfjellet",13.936111,78.098335,"Fossilniveau 21",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",1,136.35,"valanginian",1
+"106410",212034,"col","Rurikfjellet",13.936111,78.098335,"Fossilniveau 22",NA,"",9,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",1,136.35,"valanginian",1
+"106411",212035,"col","Rurikfjellet",13.936111,78.098335,"Fossilniveau 22a",NA,"",6,"Valanginian","",139.8,132.9,73254,"gp_mid",29.19,61.99,"309",1,136.35,"valanginian",1
+"106412",212036,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 22b-22g",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106413",212037,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 23",NA,"",4,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106414",212038,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 24",NA,"",1,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106415",212039,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 25",NA,"",6,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106416",212040,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 26",NA,"",9,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106417",212041,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 27",NA,"",5,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106418",212042,"col","Rurikfjellet",13.945,78.100555,"Fossilniveau 28",NA,"",10,"Valanginian","",139.8,132.9,73254,"gp_mid",29.2,62,"309",1,136.35,"valanginian",1
+"106883",212802,"col","Rurikfjellet",15.048611,77.622223,"Van Keulenfjorden, Valangian, horizon 1",NA,"",1,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",1,136.35,"valanginian",1
+"106884",212803,"col","Rurikfjellet",15.048611,77.622223,"Van Keulenfjorden, Valangian, horizon 2",NA,"",2,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",1,136.35,"valanginian",1
+"106889",212808,"col","Rurikfjellet",15.048611,77.622223,"Van Keulenfjorden, Valangian, horizon 2",NA,"",8,"Valanginian","",139.8,132.9,73480,"gp_mid",29.78,61.54,"309",1,136.35,"valanginian",1
+"106986",212947,"col","",16.561943,78.287781,"Sassenfjorden, Mountain side",NA,"",12,"Valanginian","",139.8,132.9,73524,"gp_mid",30.29,62.24,"309",1,136.35,"valanginian",1
+"107096",213107,"col","",18.863611,78.083336,"Agardhfjellet",NA,"",1,"Valanginian","",139.8,132.9,73545,"gp_mid",31.35,62.1,"311",1,136.35,"valanginian",1
+"107442",213664,"col","Spisz Limestone",20.313057,49.435001," Czorsztyn Castle Klippe locality",NA,"",5,"Valanginian","",139.8,132.9,73659,"gp_mid",37.12,33.68,"305",1,136.35,"valanginian",1

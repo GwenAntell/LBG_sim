@@ -1,383 +1,176 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"808",2083,"col","",19.65,50.47,"Tomaszow4",NA,"",10,"Barremian","",129.4,125,59,"gp_mid",40.65,36.53,"305",127.2,"barremian",237,39.404,37.3835,28,1
-"824",2115,"col","",40.26,43.3,"Gagra 4",NA,"",15,"Barremian","",129.4,125,62,"gp_mid",57.86,30.09,"511",127.2,"barremian",250,61.1684,33.9032,28,1
-"859",2162,"col","Cupido",-102.08,26.98,"32-Coahuila",NA,"",1,"Barremian","",129.4,125,65,"gp_mid",-42.69,28.55,"101",127.2,"barremian",264,-45.7123,29.7566,28,1
-"878",2195,"col","",6.58,47.05,"BMm-Jura",NA,"",43,"Barremian","",129.4,125,66,"gp_mid",30.01,33.42,"305",127.2,"barremian",279,30.5396,34.2924,28,1
-"879",2196,"col","",6.75,47.07,"BMl-Jura",NA,"",23,"Barremian","",129.4,125,66,"gp_mid",30.15,33.43,"305",127.2,"barremian",280,30.5396,34.2924,28,1
-"880",2197,"col","",6.93,46,"BMn-Jura",NA,"",12,"Barremian","",129.4,125,66,"gp_mid",30.22,32.36,"305",127.2,"barremian",281,30.6948,31.7958,28,1
-"890",2212,"col","",6.67,47.07,"BMv-Jura",NA,"",32,"Barremian","",129.4,125,66,"gp_mid",30.08,33.43,"305",127.2,"barremian",290,30.5396,34.2924,28,1
-"905",2194,"col","",6.52,46.83,"BMsc-Jura",NA,"",16,"Barremian","",129.4,125,66,"gp_mid",29.94,33.21,"305",127.2,"barremian",302,30.5396,34.2924,28,1
-"928",2121,"col","Luckovska",21.28,49.42,"Butkov Quarry3(CZE)",NA,"",22,"Barremian","",129.4,125,63,"gp_mid",41.95,35.49,"305",127.2,"barremian",314,42.4217,37.6696,28,1
-"952",2269,"col","",-3.93,37.55,"La Coronilla-9.2",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"953",2270,"col","",-3.93,37.55,"La Coronilla-10",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"954",2265,"col","",-3.93,37.55,"La Coronilla-5",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"955",2266,"col","",-3.93,37.55,"La Coronilla-6",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"956",2267,"col","",-3.93,37.55,"La Coronilla-8",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"957",2268,"col","",-3.93,37.55,"La Coronilla-9.1",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"958",2271,"col","",-3.93,37.55,"La Coronilla-10",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"959",2272,"col","",-3.93,37.55,"La Coronilla-12",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"960",2273,"col","",-3.93,37.55,"La Coronilla-13",NA,"",15,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"961",2274,"col","",-3.93,37.55,"La Coronilla-14",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"962",2275,"col","",-3.93,37.55,"La Coronilla-15",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"963",2276,"col","",-3.93,37.55,"La Coronilla-16",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"964",2277,"col","",-3.93,37.55,"La Coronilla-17",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",127.2,"barremian",320,15.2767,26.4656,28,1
-"965",2279,"col","",-2.57,37.87,"Cerro Trompeta-0",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"966",2280,"col","",-2.57,37.87,"Cerro Trompeta-1",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"967",2278,"col","",-2.57,37.87,"Cerro Trompeta-2",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"968",2282,"col","",-2.57,37.87,"Cerro Trompeta-5",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"969",2284,"col","",-2.57,37.87,"Cerro Trompeta-7",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"970",2285,"col","",-2.57,37.87,"Cerro Trompeta-8",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"971",2286,"col","",-2.57,37.87,"Cerro Trompeta-9",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"972",2287,"col","Moutonianum",-2.57,37.87,"Cerro Trompeta-11",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"973",2288,"col","",-2.57,37.87,"Cerro Trompeta-12",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"974",2289,"col","",-2.57,37.87,"Cerro Trompeta-13",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"975",2290,"col","",-2.57,37.87,"Cerro Trompeta-14",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"976",2291,"col","",-2.57,37.87,"Cerro Trompeta-15",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"977",2292,"col","",-2.57,37.87,"Cerro Trompeta-16",NA,"",15,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"978",2293,"col","",-2.57,37.87,"Cerro Trompeta-17",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"979",2294,"col","",-2.57,37.87,"Cerro Trompeta-18",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"980",2295,"col","",-2.57,37.87,"Cerro Trompeta-19",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"981",2296,"col","",-2.57,37.87,"Cerro Trompeta-20",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"982",2297,"col","",-2.57,37.87,"Cerro Trompeta-22",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"983",2300,"col","",-2.57,37.87,"Cerro Trompeta-26",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"984",2299,"col","",-2.57,37.87,"Cerro Trompeta-25",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"985",2301,"col","",-2.57,37.87,"Cerro Trompeta-24",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"986",2302,"col","",-1.88,38.05,"Barranco de Cavila-1",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"987",2310,"col","",-1.88,38.05,"Barranco de Cavila-9",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"988",2303,"col","",-1.88,38.05,"Barranco de Cavila-2",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"989",2304,"col","",-1.88,38.05,"Barranco de Cavila-3",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"990",2305,"col","",-1.88,38.05,"Barranco de Cavila-4",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"991",2306,"col","",-1.88,38.05,"Barranco de Cavila-5",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"992",2307,"col","",-1.88,38.05,"Barranco de Cavila-6",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"993",2308,"col","",-1.88,38.05,"Barranco de Cavila-7",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"994",2309,"col","",-1.88,38.05,"Barranco de Cavila-8",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"995",2312,"col","",-1.88,38.05,"Barranco de Cavila-11",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"996",2313,"col","",-1.88,38.05,"Barranco de Cavila-12",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"997",2311,"col","",-1.88,38.05,"Barranco de Cavila-10",NA,"",14,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"998",2314,"col","",-1.88,38.05,"Barranco de Cavila-12a",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"999",2315,"col","",-1.88,38.05,"Barranco de Cavila-13",NA,"",3,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1000",2316,"col","",-1.88,38.05,"Barranco de Cavila-14",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1001",2317,"col","",-1.88,38.05,"Barranco de Cavila-15",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1002",2318,"col","",-1.88,38.05,"Barranco de Cavila-16",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1003",2319,"col","",-1.88,38.05,"Barranco de Cavila-16a",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1004",2320,"col","",-1.88,38.05,"Barranco de Cavila-16b",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1005",2321,"col","",-1.88,38.05,"Barranco de Cavila-17",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1006",2322,"col","",-1.88,38.05,"Barranco de Cavila-17a",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1007",2323,"col","",-1.88,38.05,"Barranco de Cavila-17b",NA,"",13,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1008",2324,"col","",-1.88,38.05,"Barranco de Cavila-18",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1009",2325,"col","",-1.88,38.05,"Barranco de Cavila-19",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1010",2326,"col","",-1.88,38.05,"Barranco de Cavila-19a",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1011",2327,"col","",-1.88,38.05,"Barranco de Cavila-20",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1012",2328,"col","",-1.88,38.05,"Barranco de Cavila-21",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1013",2329,"col","",-1.88,38.05,"Barranco de Cavila-22",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1014",2330,"col","",-1.88,38.05,"Barranco de Cavila-23",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1015",2331,"col","",-1.88,38.05,"Barranco de Cavila-23a",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1016",2332,"col","",-1.88,38.05,"Barranco de Cavila-23b",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1017",2333,"col","",-1.88,38.05,"Barranco de Cavila-24",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1018",2334,"col","",-1.88,38.05,"Barranco de Cavila-25",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1019",2335,"col","",-1.88,38.05,"Barranco de Cavila-26",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1020",2336,"col","",-1.88,38.05,"Barranco de Cavila-26a",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"1021",2337,"col","",-1.89,38.05,"Barranco de Cavila2-5",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1022",2339,"col","",-1.89,38.05,"Barranco de Cavila2-7",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1023",2338,"col","",-1.89,38.05,"Barranco de Cavila2-6",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1024",2340,"col","",-1.89,38.05,"Barranco de Cavila2-8",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1025",2341,"col","",-1.89,38.05,"Barranco de Cavila2-9",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1026",2342,"col","",-1.89,38.05,"Barranco de Cavila2-10",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1027",2343,"col","",-1.89,38.05,"Barranco de Cavila2-11",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1028",2344,"col","",-1.89,38.05,"Barranco de Cavila2-12",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1029",2345,"col","",-1.89,38.05,"Barranco de Cavila2-13",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1030",2346,"col","",-1.89,38.05,"Barranco de Cavila2-14",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1031",2347,"col","",-1.89,38.05,"Barranco de Cavila2-16",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1032",2348,"col","",-1.89,38.05,"Barranco de Cavila2-17",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1033",2349,"col","",-1.89,38.05,"Barranco de Cavila2-18",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1034",2350,"col","",-1.89,38.05,"Barranco de Cavila2-19",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1035",2351,"col","",-1.89,38.05,"Barranco de Cavila2-20",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1036",2354,"col","",-1.89,38.05,"Barranco de Cavila2-22",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1037",2352,"col","",-1.89,38.05,"Barranco de Cavlia2-21",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1038",2353,"col","",-1.89,38.05,"Barranco de Cavila2-23",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1039",2355,"col","",-1.89,38.05,"Barranco de Cavila2-24",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1040",2356,"col","",-1.89,38.05,"Barranco de Cavila2-25",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1041",2357,"col","",-1.89,38.05,"Barranco de Cavila2-25a",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1042",2358,"col","",-1.89,38.05,"Barranco de Cavila2-26",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1043",2359,"col","",-1.89,38.05,"Barranco de Cavila2-26a",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1044",2360,"col","",-1.89,38.05,"Barranco de Cavila2-27",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1045",2361,"col","",-1.89,38.05,"Barranco de Cavila2-27a",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1046",2362,"col","",-1.89,38.05,"Barranco de Cavila2-28",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1047",2363,"col","",-1.89,38.05,"Barranco de Cavila2-28a",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1048",2364,"col","",-1.89,38.05,"Barranco de Cavila2-29",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1049",2366,"col","",-1.89,38.05,"Barranco de Cavila2-30a",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1050",2367,"col","",-1.89,38.05,"Barranco de Cavila2-31",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1051",2368,"col","",-1.89,38.05,"Barranco de Cavila2-32",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1052",2369,"col","",-1.89,38.05,"Barranco de Cavila2-33",NA,"",12,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1053",2370,"col","",-1.89,38.05,"Barranco de Cavila2-34",NA,"",14,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1054",2371,"col","",-1.89,38.05,"Barranco de Cavila2-35",NA,"",3,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1055",2372,"col","",-1.89,38.05,"Barranco de Cavila2-36",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1056",2373,"col","",-1.89,38.05,"Barranco de Cavila2-36a",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1057",2374,"col","",-1.89,38.05,"Barranco de Cavila2-37",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1058",2375,"col","",-1.89,38.05,"Barranco de Cavila2-38",NA,"",3,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1059",2376,"col","",-1.89,38.05,"Barranco de Cavila2-39",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1060",2377,"col","",-1.89,38.05,"Barranco de Cavila2-40",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1061",2378,"col","",-1.89,38.05,"Barranco de Cavila2-41",NA,"",3,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1062",2379,"col","",-1.89,38.05,"Barranco de Cavila2-42",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"1089",2281,"col","",-2.57,37.87,"Cerro Trompeta-3",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"1090",2283,"col","",-2.57,37.87,"Cerro Trompeta-6",NA,"",3,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"1091",2298,"col","",-2.57,37.87,"Cerro Trompeta-23",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",19.57,25.75,"304",127.2,"barremian",321,15.2767,26.4656,28,1
-"1092",2365,"col","",-1.89,38.05,"Barranco de Cavila2-30",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",127.2,"barremian",323,15.2767,26.4656,28,1
-"5091",13333,"col","La Amarga",-70.19,-39.48,"La Amarga (main site)",NA,"",5,"Barremian","",129.4,125,63573,"gp_mid",-29.95,-37.48,"291",127.2,"barremian",1555,-33.4103,-38.5322,28,1
-"11391",74573,"col","",5.3,43.27,"Ile Pomegues, Marseille",NA,"",2,"Barremian","",129.4,125,25065,"gp_mid",28.65,29.71,"305",127.2,"barremian",2074,23.7459,27.4451,28,1
-"11394",74572,"col","",5.57,43.23,"Les Camerlots, Marseille",NA,"",1,"Barremian","",129.4,125,25065,"gp_mid",NA,NA,"coordinates not computable using this model",127.2,"barremian",2077,23.7459,27.4451,28,1
-"11396",74571,"col","",5.45,43.23,"Mont Puget, Marseille",NA,"",2,"Barremian","",129.4,125,25065,"gp_mid",28.77,29.67,"305",127.2,"barremian",2079,23.7459,27.4451,28,1
-"11398",74570,"col","",5.6,43.27,"Souvarel, Marseille",NA,"",1,"Barremian","",129.4,125,25065,"gp_mid",NA,NA,"coordinates not computable using this model",127.2,"barremian",2080,23.7459,27.4451,28,1
-"11399",74569,"col","",5.53,43.23,"Gare de Cassis, Marseille",NA,"",1,"Barremian","",129.4,125,25065,"gp_mid",NA,NA,"coordinates not computable using this model",127.2,"barremian",2081,23.7459,27.4451,28,1
-"11543",74531,"col","",-0.41,40.75,"Castellote SW (El Estrecho)",NA,"",1,"Barremian","",129.4,125,25016,"gp_mid",22.91,27.23,"304",127.2,"barremian",2130,19.5536,26.91,28,1
-"28842",46314,"col","",78.88,11.1,"Terani Ammonites and assoc. flora and fauna",NA,"",4,"Barremian","",129.4,125,12344,"gp_mid",26.09,-52.71,"501",127.2,"barremian",6672,31.4287,-49.2235,28,1
-"28844",46316,"col","",78.88,11.1,"Terani Clay: plant fossils",NA,"",7,"Barremian","",129.4,125,12344,"gp_mid",26.09,-52.71,"501",127.2,"barremian",6672,31.4287,-49.2235,28,1
-"29483",47066,"col","",54.35,39.1,"Western End of Lesser Balkhan Range",NA,"",7,"Barremian","",129.4,125,12533,"gp_mid",70.44,27.25,"402",127.2,"barremian",6958,71.3484,31.7665,28,1
-"32125",50371,"col","",-2.59,37.85,"0 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32126",50372,"col","",-2.59,37.85,"Sample 2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32127",50373,"col","",-2.59,37.85,"Sample 2a, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32128",50374,"col","",-2.59,37.85,"Sample 3, section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32129",50375,"col","",-2.59,37.85,"Sample 4, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32130",50376,"col","",-2.59,37.85,"Sample 5, section X.HA (Cortijo del Hielo)",NA,"",6,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32131",50377,"col","",-2.59,37.85,"Sample 5a, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32132",50378,"col","",-2.59,37.85,"Sample 6.1, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32133",50379,"col","",-2.59,37.85,"Sample 6.2, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32134",50380,"col","",-2.59,37.85,"Sample 6A, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32135",50381,"col","",-2.59,37.85,"Sample 7, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32136",50382,"col","",-2.59,37.85,"Sample 8.1, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32137",50383,"col","",-2.59,37.85,"Sample 8.2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32138",50384,"col","",-2.59,37.85,"Sample 9, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32139",50385,"col","",-2.59,37.85,"Sample 9A, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32140",50386,"col","",-2.59,37.85,"Sample 10, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32141",50387,"col","",-2.59,37.85,"Sample 11, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32142",50388,"col","",-2.59,37.85,"Sample 12.1, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32143",50389,"col","",-2.59,37.85,"Sample 12.2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32144",50390,"col","",-2.59,37.85,"Sample 13, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32145",50391,"col","",-2.59,37.85,"Sample 14, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32159",50405,"col","",-2.59,37.85,"23.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32160",50406,"col","",-2.59,37.85,"20.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32161",50407,"col","",-2.59,37.85,"16.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32162",50408,"col","",-2.59,37.85,"12.4 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32163",50409,"col","",-2.59,37.85,"9 m - Section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32164",50410,"col","",-2.59,37.85,"8.2 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32165",50411,"col","",-2.59,37.85,"6.2 m - Section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32166",50412,"col","",-2.59,37.85,"4.6 m - Section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32167",50413,"col","",-2.59,37.85,"2.8 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",127.2,"barremian",7690,15.2767,26.4656,28,1
-"32170",50434,"col","",-1.88,38.05,"0.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32171",50435,"col","",-1.88,38.05,"4.6 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32172",50436,"col","",-1.88,38.05,"6.0 m - Section X.Kv (Barranco de Cavila)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32173",50437,"col","",-1.88,38.05,"7.0 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32174",50438,"col","",-1.88,38.05,"10.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32175",50439,"col","",-1.88,38.05,"11.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32176",50440,"col","",-1.88,38.05,"12.0 m - Section X.Kv (Barranco de Cavila)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32177",50441,"col","",-1.88,38.05,"15.6 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32178",50442,"col","",-1.88,38.05,"16.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32179",50443,"col","",-1.88,38.05,"17.2 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32180",50444,"col","",-1.88,38.05,"21.2 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32181",50445,"col","",-1.88,38.05,"23.0 m - Section X.Kv (Barranco de Cavila)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32182",50446,"col","",-1.88,38.05,"24.8 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",127.2,"barremian",322,15.2767,26.4656,28,1
-"32195",50460,"col","",-1.13,38.23,"5.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",127.2,"barremian",7692,18.0269,24.8212,28,1
-"32196",50461,"col","",-1.13,38.23,"4.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",127.2,"barremian",7692,18.0269,24.8212,28,1
-"32197",50462,"col","",-1.13,38.23,"3.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",127.2,"barremian",7692,18.0269,24.8212,28,1
-"32198",50463,"col","",-1.13,38.23,"3.3 m - Section X.Cp2 (Sierra del Corque)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",127.2,"barremian",7692,18.0269,24.8212,28,1
-"32199",50464,"col","",-1.13,38.23,"2.9 m - Section X.Cp2 (Sierra del Corque)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",127.2,"barremian",7692,18.0269,24.8212,28,1
-"32442",50788,"col","Schrambach",14.35,47.91,"Bed 25, Section KB1 - Schrambach Fm",NA,"",1,"Barremian","",129.4,125,13566,"gp_mid",41.6,20.17,"307",127.2,"barremian",7748,36.2323,29.0119,28,1
-"32443",50789,"col","Schrambach",14.35,47.91,"Bed 22, Section KB1 - Schrambach Fm",NA,"",7,"Barremian","",129.4,125,13566,"gp_mid",41.6,20.17,"307",127.2,"barremian",7748,36.2323,29.0119,28,1
-"32444",50790,"col","Schrambach",14.35,47.91,"Bed 19, Section KB1 - Schrambach Fm",NA,"",1,"Barremian","",129.4,125,13566,"gp_mid",41.6,20.17,"307",127.2,"barremian",7748,36.2323,29.0119,28,1
-"32445",50791,"col","Schrambach",14.35,47.91,"Bed 17, Section KB1 - Schrambach Fm",NA,"",1,"Barremian","",129.4,125,13566,"gp_mid",41.6,20.17,"307",127.2,"barremian",7748,36.2323,29.0119,28,1
-"32446",50792,"col","Schrambach",14.35,47.91,"Bed 18, Section KB1 - Schrambach Fm",NA,"",9,"Barremian","",129.4,125,13566,"gp_mid",41.6,20.17,"307",127.2,"barremian",7748,36.2323,29.0119,28,1
-"32453",50800,"col","Maiolica",12.54,43.59,"833.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32454",50801,"col","Maiolica",12.54,43.59,"839.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32455",50802,"col","Maiolica",12.54,43.59,"847.0 m, Gorgo-A-Cerbara section ( Maiolica Fm)",NA,"",2,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32456",50803,"col","Maiolica",12.54,43.59,"849.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",4,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32457",50804,"col","Maiolica",12.54,43.59,"851.5 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",0,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32458",50805,"col","Maiolica",12.54,43.59,"853.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",2,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32459",50806,"col","Maiolica",12.54,43.59,"854.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32460",50807,"col","Maiolica",12.54,43.59,"865.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"Beds 84, 85",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32461",50808,"col","Maiolica",12.54,43.59,"866.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"Beds 81",3,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32462",50809,"col","Maiolica",12.54,43.59,"869.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32463",50811,"col","Maiolica",12.54,43.59,"876.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"Bed 43",3,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32464",50812,"col","Maiolica",12.54,43.59,"878.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"32465",50813,"col","Maiolica",12.54,43.59,"882.0 m, Gorgo-A-Cerbara section (Maiolica Fm)",NA,"",1,"Barremian","",129.4,125,13572,"gp_mid",36.88,20.98,"307",127.2,"barremian",7753,30.1303,20.6607,28,1
-"36295",55937,"col","Dark Grey Siltstone",-137.33,67.92,"Bed 29, Section 5 - Dark Grey Siltstone Division, Richardson Mtns",NA,"Bed 29, Field No. 138",2,"Barremian","",129.4,125,15099,"gp_mid",-41.69,74.6,"101",127.2,"barremian",8830,-48.0244,75.6243,28,1
-"36405",56057,"col","",6.59,43.91,"Unit XIV (Barremian) - Coupe de Vergons",NA,"",9,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",127.2,"barremian",8858,30.6948,31.7958,28,1
-"36406",56058,"col","",6.59,43.91,"Unit XV (Barremian) - Coupe de Vergons",NA,"",10,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",127.2,"barremian",8858,30.6948,31.7958,28,1
-"36407",56059,"col","",6.59,43.91,"Unit XVI (Barremian) - Coupe de Vergons",NA,"",3,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",127.2,"barremian",8858,30.6948,31.7958,28,1
-"36413",56065,"col","",6.51,43.87,"Unit XIV (Barremian) - Coupe de la vallée du Cheiron",NA,"",10,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",127.2,"barremian",8860,30.6948,31.7958,28,1
-"36414",56066,"col","",6.51,43.87,"Unit XV (Barremian) - Coupe de la vallée du Cheiron",NA,"",1,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",127.2,"barremian",8860,30.6948,31.7958,28,1
-"36415",56067,"col","",6.51,43.87,"Unit XVI (Barremian) - Coupe de la vallée du Cheiron",NA,"",4,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",127.2,"barremian",8860,30.6948,31.7958,28,1
-"36867",56782,"col","",6.57,43.73,"Unit 19 (Barremian) - Castagne (W of Bargeme)",NA,"",24,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"36868",56783,"col","",6.57,43.73,"Unit 20 (Barremian) - Castagne (W of Bargeme)",NA,"",4,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"36869",56784,"col","",6.57,43.73,"Unit 21 (Barremian) - Castagne (W of Bargeme)",NA,"",7,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"36870",56786,"col","",6.57,43.73,"Unit 22 (Barremian) - Castagne (W of Bargeme)",NA,"",2,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"36871",56788,"col","",6.57,43.73,"Unit 23 (Barremian) - Castagne (W of Bargeme)",NA,"",8,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"36872",56789,"col","",6.57,43.73,"Unit 24 (Barremian) - Castagne (W of Bargeme)",NA,"",1,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",127.2,"barremian",8925,29.9171,30.4861,28,1
-"37140",57130,"col","",48.41,54.16,"Unit V - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",127.2,"barremian",9022,62.0427,45.6574,28,1
-"37141",57132,"col","",48.41,54.16,"Unit VI - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",127.2,"barremian",9022,62.0427,45.6574,28,1
-"37142",57133,"col","",48.41,54.16,"Unit VII - Volga River composite section (Barremian)",NA,"",4,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",127.2,"barremian",9022,62.0427,45.6574,28,1
-"37143",57134,"col","",48.41,54.16,"Unit VIII - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",127.2,"barremian",9022,62.0427,45.6574,28,1
-"37144",57135,"col","",48.41,54.16,"Unit IX - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",127.2,"barremian",9022,62.0427,45.6574,28,1
-"42765",64118,"col","Grodziszcze Conglomerates",19.93,49.83,"Myslenice and Tarnow areas, Grodziszcze Beds, Silesian and Sub-Silesian nappes",NA,"",26,"Barremian","",129.4,125,18506,"gp_mid",40.88,35.9,"305",127.2,"barremian",10309,39.404,37.3835,28,1
-"43934",65799,"col","Schrattenkalk",9.9,47.42,"Schrattenkalk Fm - Bezeck near Bezau, Vorarlberg",NA,"",7,"Barremian","",129.4,125,15037,"gp_mid",32.73,33.66,"305",127.2,"barremian",10616,33.4307,28.396,28,1
-"43935",65800,"col","Schrattenkalk",9.9,47.42,"Schrattenkalk Fm - Unterklein, Vorarlberg",NA,"",7,"Barremian","",129.4,125,15037,"gp_mid",32.73,33.66,"305",127.2,"barremian",10616,33.4307,28.396,28,1
-"44401",66424,"col","",13.77,41.52,"Colle Santa Lucia, Monte Cairo area, Latium",NA,"",24,"Barremian","",129.4,125,18984,"gp_mid",34.8,19.83,"307",127.2,"barremian",10725,31.7209,18.338,28,1
-"44472",66579,"col","",-9.58,31.02,"Ait Ben Melait, Ida ou Guelluill, Gentil Collection",NA,"",1,"Barremian","",129.4,125,19008,"gp_mid",9.27,22.87,"707",127.2,"barremian",10749,3.904,23.5751,28,1
-"44476",66583,"col","",-9.8,30.85,"Igueni Ouram, Gentil Collection",NA,"",2,"Barremian","",129.4,125,19008,"gp_mid",9,22.86,"707",127.2,"barremian",10753,3.904,23.5751,28,1
-"44477",66584,"col","",-9.85,30.7,"Asif Ait Ameur, Gentil Collection",NA,"",2,"Barremian","",129.4,125,19008,"gp_mid",8.86,22.77,"707",127.2,"barremian",10754,3.904,23.5751,28,1
-"44478",66585,"col","",-9.58,30.6,"Ida ou Tanan, Gentil Collection",NA,"",1,"Barremian","",129.4,125,19008,"gp_mid",8.99,22.55,"707",127.2,"barremian",10755,3.904,23.5751,28,1
-"44487",66594,"col","",-9.65,31.02,"Butte de Tibourr'm, Gentil Collection",NA,"",1,"Barremian","",129.4,125,19008,"gp_mid",9.22,22.91,"707",127.2,"barremian",10763,3.904,23.5751,28,1
-"44500",66632,"col","Rio Belgrano",-72,-47.92,"Rio Belgrano este, Austral Basin, Rio Belgrano Formation, Santa Cruz",NA,"",2,"Barremian","",129.4,125,19009,"gp_mid",-32.35,-45.82,"291",127.2,"barremian",10766,-33.3516,-46.0321,28,1
-"44501",66633,"col","",-72.08,-48,"Chorrillo Rivera, Austral Basin, Santa Cruz",NA,"",3,"Barremian","",129.4,125,19009,"gp_mid",-32.44,-45.9,"291",127.2,"barremian",10767,-33.3516,-46.0321,28,1
-"44825",67122,"col","Grodziszcze",19.77,49.87,"Jastrzebia, Grodziszcze Beds, Carpathians",NA,"",61,"Barremian","",129.4,125,19144,"gp_mid",40.74,35.93,"305",127.2,"barremian",10838,39.404,37.3835,28,1
-"44826",67123,"col","Grodziszcze",21.08,49.93,"Trzemesna, Grodziszcze Beds, Carpathians",NA,"",47,"Barremian","",129.4,125,19144,"gp_mid",41.79,36,"305",127.2,"barremian",10839,42.4217,37.6696,28,1
-"44827",67124,"col","Grodziszcze",19.85,49.95,"Bukow, Grodziszcze Beds, Carpathians",NA,"",13,"Barremian","",129.4,125,19144,"gp_mid",40.81,36.02,"305",127.2,"barremian",10840,39.404,37.3835,28,1
-"45035",67457,"col","",23.5,48.33,"Ugolka River Basin, Marmarosh Klippen Zone, Carpathians",NA,"Reef 1969",55,"Barremian","",129.4,125,19233,"gp_mid",43.75,34.42,"305",127.2,"barremian",10928,41.8343,30.4225,28,1
-"46270",68921,"col","",-60.93,10.78,"Tompire Bay (BT456)",NA,"",12,"Barremian","",129.4,125,19898,"gp_mid",-17.56,11.47,"201",127.2,"barremian",11258,-20.896,11.0009,28,1
-"46271",68922,"col","",-61.47,10.32,"Pointe-à-PIerre (K. 8187)",NA,"",7,"Barremian","",129.4,125,19898,"gp_mid",-18.13,11.05,"201",127.2,"barremian",11259,-20.896,11.0009,28,1
-"46361",69013,"col","",6.48,46,"Pointe Blanche, Massif des Bornes, Urgonian Limestone, Haute-Savoie",NA,"",6,"Barremian","",129.4,125,19915,"gp_mid",29.85,32.38,"305",127.2,"barremian",11278,30.6948,31.7958,28,1
-"46385",69058,"col","",-73.53,5.63,"Monastery 'Santo Ecco Homo', Villa de Leiva, Boyaca",NA,"",7,"Barremian","",129.4,125,19919,"gp_mid",-31.52,6.2,"203",127.2,"barremian",11283,-37.4207,7.0206,28,1
-"46386",69059,"col","",-74.47,8.27,"Loma de la Yuca, Bolivar",NA,"",2,"Barremian","",129.4,125,19919,"gp_mid",-32.18,8.92,"203",127.2,"barremian",11284,-37.5594,9.5168,28,1
-"46387",69060,"col","",-73.57,5.63,"Loma Cabrera, west of Villa de Leiva, Boyaca",NA,"",2,"Barremian","",129.4,125,19919,"gp_mid",-31.56,6.21,"203",127.2,"barremian",11285,-37.4207,7.0206,28,1
-"46388",69061,"col","",-73.53,5.6,"Loma La Yesera, south of Villa de Leiva, Boyaca",NA,"",5,"Barremian","",129.4,125,19919,"gp_mid",-31.53,6.17,"203",127.2,"barremian",11286,-37.4207,7.0206,28,1
-"46394",69068,"col","",-73.67,6.05,"Chipata Viejo - Chipata, Santander",NA,"",3,"Barremian","",129.4,125,19919,"gp_mid",-31.62,6.63,"203",127.2,"barremian",11287,-37.4207,7.0206,28,1
-"46398",69072,"col","",-73.67,6.03,"At km 4 along the road from Velez to Chipata, Santander",NA,"",2,"Barremian","",129.4,125,19919,"gp_mid",-31.62,6.61,"203",127.2,"barremian",11291,-37.4207,7.0206,28,1
-"46399",69073,"col","",-73.6,5.72,"1 km from monastery 'Santa Sofia', Boyaca",NA,"",1,"Barremian","",129.4,125,19919,"gp_mid",-31.58,6.29,"203",127.2,"barremian",11292,-37.4207,7.0206,28,1
-"46735",69737,"col","",5.03,43.78,"Notre Dame de Beauregard, Orgon, rudists, Provence",NA,"Reef 3568",7,"Barremian","",129.4,125,23401,"gp_mid",28.47,30.24,"305",127.2,"barremian",11438,27.5798,31.6832,28,1
-"46736",69738,"col","",5.03,43.78,"Cimetiere d'Orgon, rudists, Provence",NA,"Reef 3568",14,"Barremian","",129.4,125,23401,"gp_mid",28.47,30.24,"305",127.2,"barremian",11438,27.5798,31.6832,28,1
-"46755",69761,"col","Helvetiafjellet",18.16,77.5,"Kvalvågen, Svalbard",NA,"",1,"Barremian","",129.4,125,23590,"gp_mid",40.03,63.57,"311",127.2,"barremian",11442,32.6251,64.5862,28,1
-"46856",69901,"col","Zapotitlan",-97.48,18.33,"Zapotitlan, Zapotitlan Formation, Puebla",NA,"",7,"Barremian","",129.4,125,23451,"gp_mid",-41.08,19.03,"104",127.2,"barremian",11471,-45.3608,19.1805,28,1
-"46857",69902,"col","Zapotitlan",-97.47,18.25,"Cerro del Pizarro, Zapotitlan Formation, Puebla",NA,"",1,"Barremian","",129.4,125,23451,"gp_mid",-41.09,18.95,"104",127.2,"barremian",11472,-45.3608,19.1805,28,1
-"46859",69904,"col","Zapotitlan",-97.5,18.42,"San Antonio de las Salinas, Zapotitlan Formation, Puebla",NA,"",1,"Barremian","",129.4,125,23451,"gp_mid",-41.07,19.12,"104",127.2,"barremian",11474,-45.3608,19.1805,28,1
-"46862",69907,"col","Zapotitlan",-97.48,18.33,"Cerro Natucho, Zapotitlan Formation, Puebla",NA,"",1,"Barremian","",129.4,125,23451,"gp_mid",-41.08,19.03,"104",127.2,"barremian",11471,-45.3608,19.1805,28,1
-"47757",71082,"col","",-73.8,5.87,"Road from Puente Nacional to Jesus Maria, km 8, Santander",NA,"",1,"Barremian","",129.4,125,19919,"gp_mid",-31.77,6.46,"203",127.2,"barremian",11667,-37.4207,7.0206,28,1
-"48355",72029,"col","Paja",-73.58,5.63,"Loma de Monsalve, Boyaca",NA,"",4,"Barremian","",129.4,125,24371,"gp_mid",-31.57,6.21,"203",127.2,"barremian",11841,-37.4207,7.0206,28,1
-"48728",73203,"col","Les calcaires à choffatelles et dasycladacées",-9.47,38.81,"Calhau do Corvo, Marnes à bancs calcaires",NA,"",20,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48850",73338,"col","Calcaires et silts de Ladeiras",-9.22,38.4,"Serra da Arrabida, level 5.",NA,"",6,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48851",73339,"col","Calcaires et silts de Ladeiras",-9.22,38.4,"Serra da Arrabida, level 6.",NA,"",6,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48852",73346,"col","Grès de Rochadouro",-9.22,38.4,"Serra da Arrabida, level 7.",NA,"",4,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48853",73347,"col","Calcaires et marnes à Choffatelles",-9.22,38.4,"Serra da Arrabida, level 9a.",NA,"",13,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48854",73348,"col","Calcaires et marnes à Choffatelles",-9.22,38.4,"Serra da Arrabida, level 9c.",NA,"",16,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48855",73349,"col","Grès à Dinosauriens",-9.22,38.4,"Serra da Arrabida, level 10a.",NA,"",8,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48857",73351,"col","Grès à Dinosauriens",-9.22,38.4,"Serra da Arrabida, level 10b.",NA,"",4,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48858",73352,"col","Grès à Dinosauriens",-9.22,38.4,"Serra da Arrabida, level 10c.",NA,"",10,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48860",73354,"col","Calcaires à Rudistes de Boca do Chapim",-9.22,38.4,"Serra da Arrabida, level 11a.",NA,"",20,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48861",73355,"col","Calcaires à Rudistes de Boca do Chapim",-9.22,38.4,"Serra da Arrabida, level 11b.",NA,"",10,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48862",73356,"col","Calcaires à Rudistes de Boca do Chapim",-9.22,38.4,"Serra da Arrabida, level 11c.",NA,"",13,"Barremian","",129.4,125,18719,"gp_mid",15.06,29.15,"304",127.2,"barremian",11994,12.521,28.1554,28,1
-"48910",73498,"col","",-8.18,37.08,"Galiota basin, level 2.",NA,"",12,"Barremian","",129.4,125,18719,"gp_mid",14.96,27.6,"304",127.2,"barremian",12007,12.521,28.1554,28,1
-"48925",73513,"col","Grès inférieurs",-9.47,38.81,"Calhau do Corvo, Lower sandstone, level 1.",NA,"",1,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48926",73514,"col","Grès inférieurs",-9.47,38.81,"Calhau do Corvo, Lower sandstone, level 2a.",NA,"",3,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48927",73515,"col","Grès inférieurs",-9.47,38.81,"Calhau do Corvo, Lower sandstone, level 2b.",NA,"",6,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48929",73517,"col","Grès inférieurs",-9.47,38.81,"Calhau do Corvo, Lower sandstone, level 2c.",NA,"",3,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48930",73518,"col","Assises à Orbitolines",-9.47,38.81,"Calhau do Corvo, Sat with Orbitolines, level 4.",NA,"",13,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48932",73520,"col","Assises à Orbitolines",-9.47,38.81,"Calhau do Corvo, Sat with Orbitolines, level 6c.",NA,"",4,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48933",73521,"col","Calcaires récifaux supérieurs",-9.47,38.81,"Calhau do Corvo, High reef limestones, level 8.",NA,"",4,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48934",73522,"col","Calcaires récifaux supérieurs",-9.47,38.81,"Calhau do Corvo, High reef limestones, level 9.",NA,"",5,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48935",73523,"col","Calcaires récifaux supérieurs",-9.47,38.81,"Calhau do Corvo, High reef limestones, level 10.",NA,"",3,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"48936",73524,"col","Marnes à Huîtres",-9.47,38.81,"Calhau do Corvo, Oysters marls, level 11.",NA,"",12,"Barremian","",129.4,125,18719,"gp_mid",15.15,29.6,"304",127.2,"barremian",11945,11.4871,31.8967,28,1
-"49449",74159,"col","",6.78,46.1,"Massif du Haut-Giffre, foraminiferal biostromes",NA,"Reef 1284",1,"Barremian","",129.4,125,24892,"gp_mid",30.1,32.46,"305",127.2,"barremian",12125,30.6948,31.7958,28,1
-"50850",76947,"col","",7.17,52.18,"Pipeline between Bentheim and Ochtrup, Middle Barremian, Nordrhein-Westfalen",NA,"",12,"Barremian","",129.4,125,18721,"gp_mid",30.91,38.52,"315",127.2,"barremian",12569,30.1991,39.285,28,1
-"50863",76979,"col","",6.87,52.13,"Alstaette II, Große - Huendfeld (2), Nordrhein-Westfalen",NA,"",10,"Barremian","",129.4,125,18721,"gp_mid",30.67,38.48,"315",127.2,"barremian",12570,30.1991,39.285,28,1
-"51943",78699,"col","",46.47,39.43,"Alikuliushagy, Lesser Caucasus",NA,"Reef 3685",4,"Barremian","",129.4,125,26464,"gp_mid",61.67,20.86,"512",127.2,"barremian",12917,62.974,30.6846,28,1
-"53272",82196,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 70 [Taboulouart Fm]",NA,"",6,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53681",82170,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 26 [Taboulouart Fm]",NA,"",4,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53682",82171,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 27 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53684",82173,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 36 [Taboulouart Fm]",NA,"",6,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53685",82174,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 38 [Taboulouart Fm]",NA,"",5,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53686",82175,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 39 [Taboulouart Fm]",NA,"",7,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53688",82177,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 40 [Taboulouart Fm]",NA,"",3,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53689",82178,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 48 [Taboulouart Fm]",NA,"",5,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53690",82179,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 50 [Taboulouart Fm]",NA,"",5,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53693",82182,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 52 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53694",82183,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 53 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53695",82184,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 54 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53696",82185,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 56 [Taboulouart Fm]",NA,"",3,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53697",82186,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 57 [Taboulouart Fm]",NA,"",3,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53698",82187,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 61 [Taboulouart Fm]",NA,"",3,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53701",82190,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 62 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53702",82191,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 64 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53705",82194,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 65 [Taboulouart Fm]",NA,"",2,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53706",82195,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 69 [Taboulouart Fm]",NA,"",4,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53707",82197,"col","Taboulouart",-9.81,30.87,"Imsouane section, bed 72 [Taboulouart Fm]",NA,"",4,"Barremian","",129.4,125,27700,"gp_mid",9,22.88,"707",127.2,"barremian",13357,3.904,23.5751,28,1
-"53988",82498,"col","",-14,26.12,"Hole 397A, Sample 39-2, CC",NA,"",2,"Barremian","",129.4,125,27784,"gp_mid",2.7,21.44,"714",127.2,"barremian",13625,-2.6264,21.8364,28,1
-"53990",82500,"col","",-14,26.12,"Hole 397A, Sample 46-3, 93-94 cm",NA,"",1,"Barremian","",129.4,125,27784,"gp_mid",2.7,21.44,"714",127.2,"barremian",13625,-2.6264,21.8364,28,1
-"54984",83882,"col","",-73.25,7,"San Vicente-Zapatoca, Santander",NA,"",1,"Barremian","",129.4,125,28105,"gp_mid",-31.1,7.53,"203",127.2,"barremian",13945,-37.5594,9.5168,28,1
-"54990",83888,"col","",-73.95,7.96,"Simiti, Bolivar",NA,"",1,"Barremian","",129.4,125,28105,"gp_mid",-31.7,8.56,"203",127.2,"barremian",13947,-37.5594,9.5168,28,1
-"54991",83889,"col","",-74.5,10,"Magdalena Valley, Magdalena",NA,"",1,"Barremian","",129.4,125,28105,"gp_mid",-32.04,10.64,"203",127.2,"barremian",13948,-37.7002,12.013,28,1
-"54993",83891,"col","",-73.25,7,"Rio Suárez, Santander",NA,"",2,"Barremian","",129.4,125,28105,"gp_mid",-31.1,7.53,"203",127.2,"barremian",13945,-37.5594,9.5168,28,1
-"55229",84211,"col","Arcillas de Morella",0.03,40.58,"Santa Agueda, Vallibona",NA,"",4,"Barremian","",129.4,125,28208,"gp_mid",23.12,26.91,"304",127.2,"barremian",14027,19.5536,26.91,28,1
-"56013",85293,"col","La Pedrera de Rúbies",0.83,42.03,"La Pedrera de Meià, El Montsec",NA,"Sierra del Montsech, La Pedrera de Rubies",9,"Barremian","",129.4,125,28742,"gp_mid",24.59,27.78,"304",127.2,"barremian",14329,21.1377,28.9818,28,1
-"57396",87408,"col","",-137,68.17,"NE Richardson Mountains (from 750-790 ft of upper shale-siltstone division)",NA,"",11,"Barremian","",129.4,125,29431,"gp_mid",-40.68,74.68,"101",127.2,"barremian",14867,-48.0244,75.6243,28,1
-"57403",87415,"col","",-137,68.17,"NE Richardson Mountains (top 200-220 ft of upper shale-siltstone division)",NA,"",5,"Barremian","",129.4,125,29431,"gp_mid",-40.68,74.68,"101",127.2,"barremian",14867,-48.0244,75.6243,28,1
-"57404",87416,"col","",-137,68.17,"NE Richardson Mountains (lower 750 ft of upper shale-siltstone division)",NA,"",3,"Barremian","",129.4,125,29431,"gp_mid",-40.68,74.68,"101",127.2,"barremian",14867,-48.0244,75.6243,28,1
-"59181",89865,"col","Zapotitlan",-97.43,18.4,"San Antonio Texcala",NA,"",42,"Barremian","",129.4,125,30094,"gp_mid",-41.01,19.08,"104",127.2,"barremian",15415,-45.3608,19.1805,28,1
-"60363",91689,"col","",55.62,40.22,"Kel'dzhe Range, Tuarkyr",NA,"",2,"Barremian","",129.4,125,30905,"gp_mid",71.33,28.51,"402",127.2,"barremian",15872,73.1577,32.3726,28,1
-"65052",97673,"col","",-71.12,12.08,"Punta Espada and SE of de Cuiza, La Guajira (pg. 146)",NA,"",19,"Barremian","",129.4,125,33368,"gp_mid",-28.45,12.37,"203",127.2,"barremian",17258,-34.7695,13.7582,28,1
-"65053",97674,"col","",-71.12,12.08,"Punta Espada, La Guajira - 38-42 m (pg. 148)",NA,"",23,"Barremian","",129.4,125,33368,"gp_mid",-28.45,12.37,"203",127.2,"barremian",17258,-34.7695,13.7582,28,1
-"65112",97807,"col","Rio Belgrano",-71.9,-47.7,"Cerro Belgrano",NA,"Myobradypterygius hauthali type",1,"Barremian","",129.4,125,59610,"gp_mid",-32.24,-45.61,"291",127.2,"barremian",17276,-33.3516,-46.0321,28,1
-"76048",112148,"col","",5.63,44.03,"Banon",NA,"",1,"Barremian","",129.4,125,36504,"gp_mid",28.99,30.46,"305",127.2,"barremian",21289,30.6948,31.7958,28,1
-"76049",112149,"col","",5.68,44.05,"Combe-Petite",NA,"",4,"Barremian","",129.4,125,36504,"gp_mid",29.03,30.47,"305",127.2,"barremian",21290,30.6948,31.7958,28,1
-"77762",114142,"col","Huitrin",-70.38,-37.18,"Caepe Malal (La Tosca Member, Huitrin Formation)",NA,"",2,"Barremian","",129.4,125,37048,"gp_mid",-29.98,-35.18,"291",127.2,"barremian",21851,-33.4272,-36.0322,28,1
-"77813",114193,"col","Huitrin",-69.92,-37.37,"Puerta Curaco (La Tosca Member, Huitrin Formation)",NA,"Curaco Canyon (Weaver 1931)",1,"Barremian","",129.4,125,37048,"gp_mid",-29.54,-35.38,"291",127.2,"barremian",21864,-33.4272,-36.0322,28,1
-"77814",114194,"col","Huitrin",-70.15,-37.73," Pichi Neuquen (La Tosca Member, Huitrin Formation)",NA,"",5,"Barremian","",129.4,125,37048,"gp_mid",-29.79,-35.74,"291",127.2,"barremian",21865,-33.4272,-36.0322,28,1
-"77816",114195,"col","Huitrin",-69.97,-37.85," Mina La Continental (La Tosca Member, Huitrin Formation)",NA,"",1,"Barremian","",129.4,125,37048,"gp_mid",-29.62,-35.86,"291",127.2,"barremian",21867,-33.4272,-36.0322,28,1
-"77817",114196,"col","Huitrin",-70.05,-38.05," Agua de la Mula  (La Tosca Member, Huitrin Formation)",NA,"Cerro Mula",4,"Barremian","",129.4,125,37048,"gp_mid",-29.71,-36.06,"291",127.2,"barremian",21868,-33.4272,-36.0322,28,1
-"77818",114197,"col","Huitrin",-70.15,-38.05,"Arroyo Coihueco (La Tosca Member, Huitrin Formation)",NA,"",2,"Barremian","",129.4,125,37048,"gp_mid",-29.81,-36.05,"291",127.2,"barremian",21869,-33.4272,-36.0322,28,1
-"77820",114199,"col","Huitrin",-69.95,-38.37,"Agrio del Medio (La Tosca Member, Huitrin Formation)",NA,"Rio Agrio Area",2,"Barremian","",129.4,125,37048,"gp_mid",-29.63,-36.38,"291",127.2,"barremian",21870,-33.4272,-36.0322,28,1
-"77821",114200,"col","Huitrin",-70.02,-38.42,"Bajada del Agrio (La Tosca Member, Huitrin Formation)",NA,"",3,"Barremian","",129.4,125,37048,"gp_mid",-29.7,-36.42,"291",127.2,"barremian",21871,-33.4272,-36.0322,28,1
-"77823",114201,"col","Huitrin",-70,-38.58,"Mina km 34 (La Tosca Member, Huitrin Formation)",NA,"",1,"Barremian","",129.4,125,37048,"gp_mid",-29.7,-36.59,"291",127.2,"barremian",21873,-33.4272,-36.0322,28,1
-"77824",114202,"col","Huitrin",-70.03,-38.42,"Bajada Vieja (La Tosca Member, Huitrin Formation)",NA,"",1,"Barremian","",129.4,125,37048,"gp_mid",-29.72,-36.42,"291",127.2,"barremian",21874,-33.4272,-36.0322,28,1
-"80934",118322,"col","La Pedrera de Rúbies",0.89,42.02,"La Pedrera de Rubies Quarry (BMNH collection)",NA,"",9,"Barremian","",129.4,125,38101,"gp_mid",24.62,27.75,"304",127.2,"barremian",22642,21.1377,28.9818,28,1
-"80937",118325,"col","La Pedrera de Rúbies",0.89,42.02,"La Pedrera de Rubies (BMNH 1955 collection)",NA,"",13,"Barremian","",129.4,125,38101,"gp_mid",24.62,27.75,"304",127.2,"barremian",22642,21.1377,28.9818,28,1
-"80952",118362,"col","La Pedrera de Rúbies",0.89,42.02,"La Pedrera de Rubies, Sierra del Montsech (Vidal collection)",NA,"",7,"Barremian","",129.4,125,49344,"gp_mid",24.62,27.75,"304",127.2,"barremian",22642,21.1377,28.9818,28,1
-"84683",123017,"col","",36.01,34.25,"Bchare Mountain, Lebanese amber (AMNH coll)",NA,"",31,"Barremian","",129.4,125,39278,"gp_mid",42.43,2.98,"503",127.2,"barremian",23656,42.0246,2.1326,28,1
-"85781",124363,"col","",35.58,33.54,"Near Jezzine and Dar al-Baidha, Lebanese amber (Poinar collection)",NA,"",5,"Barremian","",129.4,125,40702,"gp_mid",42.6,3.77,"508",127.2,"barremian",24039,37.5281,3.7366,28,1
-"85980",124617,"col","",36.01,34.25,"El-Dabsheh, Lebanese amber (Azar coll)",NA,"",3,"Barremian","",129.4,125,40292,"gp_mid",42.43,2.98,"503",127.2,"barremian",23656,42.0246,2.1326,28,1
-"86202",124865,"col","",34.62,45.13," Mazanka (Section no. 21) K]Brm1 .",NA,"",1,"Barremian","",129.4,125,40328,"gp_mid",52.99,31.57,"302",127.2,"barremian",24172,52.591,33.8575,28,1
-"86248",124925,"col","",35.5,33.5,"Lebanese amber (AUB coll)",NA,"",7,"Barremian","",129.4,125,40468,"gp_mid",42.52,3.76,"508",127.2,"barremian",24187,37.5281,3.7366,28,1
-"87503",126611,"col","",-9.82,30.95,"Tillelt beach",NA,"",2,"Barremian","",129.4,125,41111,"gp_mid",9.05,22.95,"707",127.2,"barremian",24490,3.904,23.5751,28,1
-"93338",134727,"col","",4.52,48.29,"Amance",NA,"",1,"Barremian","",129.4,125,40991,"gp_mid",28.44,34.76,"305",127.2,"barremian",25898,27.4782,34.1817,28,1
-"98183",140348,"col","Telamim",34.7,31.56,"Hellez 1 Well, Core 6",NA,"",5,"Barremian","",129.4,125,45354,"gp_mid",41,2.38,"508",127.2,"barremian",27313,37.5281,3.7366,28,1
-"101892",144964,"col","",26.47,30.82,"Umbarka IX Borehole, Zone No. I",NA,"",12,"Barremian","",129.4,125,46914,"gp_mid",34.76,4.94,"715",127.2,"barremian",27862,30.6955,4.686,28,1
-"102451",146329,"col","Camarillas",-0.87,40.66,"Santa Bárbara tracksite, Galve",NA,"",1,"Barremian","",129.4,125,47272,"gp_mid",22.53,27.35,"304",127.2,"barremian",27970,19.5536,26.91,28,1
-"102452",146330,"col","Camarillas",-0.87,40.66,"Santa Bárbara 2 tracksite, Galve",NA,"",1,"Barremian","",129.4,125,47272,"gp_mid",22.53,27.35,"304",127.2,"barremian",27970,19.5536,26.91,28,1
-"102453",146331,"col","Camarillas",-0.87,40.66,"Santa Bárbara 3 tracksite, Galve",NA,"",1,"Barremian","",129.4,125,47272,"gp_mid",22.53,27.35,"304",127.2,"barremian",27970,19.5536,26.91,28,1
-"104740",148827,"col","",21.65,44.72,"Resita - Molodova Noua area, Barremian",NA,"",3,"Barremian","",129.4,125,47732,"gp_mid",39.11,14.71,"308",127.2,"barremian",28199,43.1793,32.708,28,1
-"105209",149337,"col","",6.08,43.73,"Provence area",NA,"",27,"Barremian","",129.4,125,47796,"gp_mid",29.34,30.14,"305",127.2,"barremian",28288,29.9171,30.4861,28,1
-"105504",149847,"col","",35.9,34.17,"Tannourine, Lebanese amber (Azar coll)",NA,"",2,"Barremian","",129.4,125,48006,"gp_mid",42.31,2.97,"503",127.2,"barremian",28375,42.0246,2.1326,28,1
-"106883",151444,"col","Emen",25.45,43.15,"Veliko Tarnovo area",NA,"",1,"Barremian","",129.4,125,48398,"gp_mid",38.19,11.68,"308",127.2,"barremian",28686,46.7067,30.5711,28,1
-"108305",153585,"col","",35.98,34.24,"Hasroun, Bcharreh Mountain, Lebanese amber (Estephan coll)",NA,"",1,"Barremian","",129.4,125,49625,"gp_mid",42.4,2.98,"503",127.2,"barremian",29060,42.0246,2.1326,28,1
-"108441",153768,"col","Fulletby Beds",0.1,53.21,"Dalby Park",NA,"",2,"Barremian","",129.4,125,49817,"gp_mid",25.52,39.91,"315",127.2,"barremian",29100,24.313,39.1165,28,1
-"108442",153769,"col","Fulletby Beds",-0.05,53.26,"Park Hill, Belchford",NA,"",1,"Barremian","",129.4,125,49817,"gp_mid",25.41,39.97,"315",127.2,"barremian",29101,24.313,39.1165,28,1
-"109226",154705,"col","",36.08,34.37,"Nabaa Es-Sukkar - Brissa, Lebanese amber (Azar coll)",NA,"",3,"Barremian","",129.4,125,48701,"gp_mid",42.54,3.05,"503",127.2,"barremian",29265,42.0246,2.1326,28,1
-"109760",155458,"col","Levashi",47.33,42.21,"Gapshima Village (Unit 4)",NA,"",2,"Barremian","",129.4,125,50718,"gp_mid",63.95,29.58,"402",127.2,"barremian",29387,65.9374,33.5188,28,1
-"109850",155583,"col","Levashi",47.33,42.21,"Gapshima Village (Unit 7)",NA,"",1,"Barremian","",129.4,125,50718,"gp_mid",63.95,29.58,"402",127.2,"barremian",29387,65.9374,33.5188,28,1
-"115654",164938,"col","",36.04,33.62,"Zarzar Lake, Bloudan (Lebanese amber)",NA,"Syrian amber",2,"Barremian","",129.4,125,53930,"gp_mid",42.11,2.43,"503",127.2,"barremian",30935,40.5602,0.1062,28,1
-"115655",164939,"col","",35.76,34.02,"Ouata-El-Joz, Kesserouan (Lebanese amber)",NA,"",1,"Barremian","",129.4,125,53930,"gp_mid",42.13,2.9,"503",127.2,"barremian",30936,42.0246,2.1326,28,1
-"116190",165681,"col","",34.49,44.99,"Sarysu River, Crimea",NA,"",2,"Barremian","",129.4,125,54147,"gp_mid",52.9,31.42,"302",127.2,"barremian",31072,52.591,33.8575,28,1
-"116195",165686,"col","",33.98,44.7,"Verkhorechye, Crimea (Barremian)",NA,"",2,"Barremian","",129.4,125,54147,"gp_mid",52.5,31.11,"302",127.2,"barremian",31075,52.591,33.8575,28,1
-"116197",165688,"col","",39.65,44.17,"Pshekha River, Caucasus",NA,"",2,"Barremian","",129.4,125,54147,"gp_mid",57.26,30.9,"302",127.2,"barremian",31076,58.9039,34.8304,28,1
-"116231",165751,"col","",43.98,43.25,"Kalukh, Urukh River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.99,30.32,"402",127.2,"barremian",31086,64.4995,33.9906,28,1
-"116232",165752,"col","",33.96,44.63,"Vysoke, Crimea",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",52.48,31.04,"302",127.2,"barremian",31087,52.591,33.8575,28,1
-"116393",165938,"col","",34.01,44.72,"Nauchnyi village, Crimea",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",52.52,31.13,"302",127.2,"barremian",31141,52.591,33.8575,28,1
-"116394",165939,"col","",34.03,44.83,"Alma River, Crimea (Barremian)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",52.53,31.24,"302",127.2,"barremian",31142,52.591,33.8575,28,1
-"116395",165940,"col","",43.56,43.46,"Nalchik, Caucasus (Barremian)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.61,30.49,"302",127.2,"barremian",31143,64.4995,33.9906,28,1
-"116396",165941,"col","",38.74,44.46,"Defan River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",56.47,31.13,"302",127.2,"barremian",31144,55.7428,34.3241,28,1
-"116397",165946,"col","",43.26,43.6,"Baksan-Gundelen River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.34,30.6,"302",127.2,"barremian",31145,64.4995,33.9906,28,1
-"116398",165947,"col","",43.36,43.62,"Baksan River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.42,30.64,"302",127.2,"barremian",31146,64.4995,33.9906,28,1
-"116399",165948,"col","",54.68,39.66,"Bol'shoy Balkhan, Turkmenia (Barremian)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",70.63,27.84,"402",127.2,"barremian",31147,73.1577,32.3726,28,1
-"116400",165949,"col","",54.68,39.66,"Karaelet, Turkmenia",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",70.63,27.84,"402",127.2,"barremian",31147,73.1577,32.3726,28,1
-"116401",165950,"col","",55.53,40.55,"Tuarkyr (uncertain age)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",71.2,28.82,"402",127.2,"barremian",31148,73.1577,32.3726,28,1
-"116646",166264,"col","",141.02,45.31,"Jizo-Iwa, Rebun Island",NA,"",1,"Barremian","",129.4,125,54324,"gp_mid",142.76,55.3,"610",127.2,"barremian",31241,154.5389,57.987,28,1
-"119310",170614,"col","",57.98,38,"W Kopetdag",NA,"Reef 2335",11,"Barremian","",129.4,125,55580,"gp_mid",73.78,26.62,"402",127.2,"barremian",31779,73.0705,28.2557,28,1
-"119704",171269,"col","",33.53,30.8,"Bir Lagama (Barremian)",NA,"",11,"Barremian","",129.4,125,36012,"gp_mid",39.76,2.2,"508",127.2,"barremian",31868,36.028,1.4921,28,1
-"119706",171271,"col","",33.44,30.84,"Gebel Lagama (Barremian)",NA,"",5,"Barremian","",129.4,125,36012,"gp_mid",39.71,2.28,"508",127.2,"barremian",31870,36.028,1.4921,28,1
-"119945",171514,"col","",6.84,43.73,"Escragnolles (Var) (Neocomian)",NA,"",1,"Barremian","",129.4,125,55772,"gp_mid",29.97,30.1,"305",127.2,"barremian",31965,29.9171,30.4861,28,1
-"122070",175836,"col","Rio Mayer",-71.96,-47.43,"Boliche Mondelo, Austral Basin",NA,"",1,"Barremian","",129.4,125,57580,"gp_mid",-32.28,-45.34,"291",127.2,"barremian",32341,-33.3516,-46.0321,28,1
-"123356",177718,"col","",6.77,43.72,"Ravin de Saint-Martin, Escragnolles",NA,"",1,"Barremian","",129.4,125,58807,"gp_mid",29.91,30.09,"305",127.2,"barremian",32661,29.9171,30.4861,28,1
-"124726",179682,"col","",24,43.08,"Batultsi village, Lovech",NA,"",1,"Barremian","",129.4,125,59540,"gp_mid",37.86,12.69,"308",127.2,"barremian",33044,43.5265,30.2256,28,1
-"124728",179684,"col","",25.27,42.95,"Kozi rog village, Gabrovo district",NA,"",1,"Barremian","",129.4,125,59540,"gp_mid",37.96,11.76,"308",127.2,"barremian",33046,46.7067,30.5711,28,1
-"124856",179817,"col","",5.05,45.87,"Bogaris, trouve au fond du ravine des Faures",NA,"",3,"Barremian","",129.4,125,59635,"gp_mid",28.66,32.32,"305",127.2,"barremian",33080,27.5798,31.6832,28,1
-"131616",191664,"col","Paja",-73.56,5.65,"Stenorhynchosaurus munozi type locality",NA,"",1,"Barremian","",129.4,125,64650,"gp_mid",-31.55,6.22,"203",127.2,"barremian",34660,-37.4207,7.0206,28,1
-"133016",195197,"col","La Amarga",-70.19,-39.48,"La Amarga (site 1)",NA,"",1,"Barremian","",129.4,125,29093,"gp_mid",-29.95,-37.48,"291",127.2,"barremian",1555,-33.4103,-38.5322,28,1
-"137704",203446,"col","Blesa",-0.73,40.91,"Iberodactylus-type locality",NA,"Los Quiñones site",1,"Barremian","",129.4,125,69758,"gp_mid",22.78,27.49,"304",127.2,"barremian",36057,19.5536,26.91,28,1
-"144215",213290,"col","La Amarga",-70.18,-39.49,"Near to La Amarga main site",NA,"",2,"Barremian","",129.4,125,73620,"gp_mid",-29.93,-37.49,"291",127.2,"barremian",37849,-33.4103,-38.5322,28,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"497",1858,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 90",NA,"Bahía de Santa Fé",12,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"614",2121,"col","Luckovska",21.279167,49.424999,"Butkov Quarry3(CZE)",NA,"",22,"Barremian","",129.4,125,63,"gp_mid",41.95,35.49,"305",1,127.2,"barremian",1
+"620",2269,"col","",-3.933611,37.551109,"La Coronilla-9.2",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"621",2270,"col","",-3.933611,37.551109,"La Coronilla-10",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"622",2265,"col","",-3.933611,37.551109,"La Coronilla-5",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"623",2266,"col","",-3.933611,37.551109,"La Coronilla-6",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"624",2267,"col","",-3.933611,37.551109,"La Coronilla-8",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"625",2268,"col","",-3.933611,37.551109,"La Coronilla-9.1",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"626",2271,"col","",-3.933611,37.551109,"La Coronilla-10",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"627",2272,"col","",-3.933611,37.551109,"La Coronilla-12",NA,"",1,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"628",2273,"col","",-3.933611,37.551109,"La Coronilla-13",NA,"",15,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"629",2274,"col","",-3.933611,37.551109,"La Coronilla-14",NA,"",11,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"630",2275,"col","",-3.933611,37.551109,"La Coronilla-15",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"631",2276,"col","",-3.933611,37.551109,"La Coronilla-16",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"632",2277,"col","",-3.933611,37.551109,"La Coronilla-17",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",18.38,26.08,"304",1,127.2,"barremian",1
+"633",2337,"col","",-1.888611,38.05389,"Barranco de Cavila2-5",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"634",2339,"col","",-1.888611,38.05389,"Barranco de Cavila2-7",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"635",2338,"col","",-1.888611,38.05389,"Barranco de Cavila2-6",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"636",2340,"col","",-1.888611,38.05389,"Barranco de Cavila2-8",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"637",2341,"col","",-1.888611,38.05389,"Barranco de Cavila2-9",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"638",2342,"col","",-1.888611,38.05389,"Barranco de Cavila2-10",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"639",2343,"col","",-1.888611,38.05389,"Barranco de Cavila2-11",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"640",2344,"col","",-1.888611,38.05389,"Barranco de Cavila2-12",NA,"",9,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"641",2345,"col","",-1.888611,38.05389,"Barranco de Cavila2-13",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"642",2346,"col","",-1.888611,38.05389,"Barranco de Cavila2-14",NA,"",10,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"643",2347,"col","",-1.888611,38.05389,"Barranco de Cavila2-16",NA,"",7,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"644",2348,"col","",-1.888611,38.05389,"Barranco de Cavila2-17",NA,"",8,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"645",2349,"col","",-1.888611,38.05389,"Barranco de Cavila2-18",NA,"",2,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"646",2350,"col","",-1.888611,38.05389,"Barranco de Cavila2-19",NA,"",5,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"647",2351,"col","",-1.888611,38.05389,"Barranco de Cavila2-20",NA,"",6,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"648",2352,"col","",-1.888611,38.05389,"Barranco de Cavlia2-21",NA,"",4,"Barremian","",129.4,125,70,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"768",2578,"col","Qishn",48.487221,14.2975,"Jebel Billum I-3",NA,"",9,"Barremian","",129.4,125,74,"gp_mid",42.29,-19.94,"503",1,127.2,"barremian",1
+"4037",74573,"col","",5.3,43.266666,"Ile Pomegues, Marseille",NA,"",2,"Barremian","",129.4,125,25065,"gp_mid",28.65,29.71,"305",1,127.2,"barremian",1
+"4039",74571,"col","",5.45,43.233334,"Mont Puget, Marseille",NA,"",2,"Barremian","",129.4,125,25065,"gp_mid",28.77,29.67,"305",1,127.2,"barremian",1
+"14287",47066,"col","",54.349998,39.099998,"Western End of Lesser Balkhan Range",NA,"",7,"Barremian","",129.4,125,12533,"gp_mid",70.44,27.25,"402",1,127.2,"barremian",1
+"15958",50371,"col","",-2.586944,37.853889,"0 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15959",50372,"col","",-2.586944,37.853889,"Sample 2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15960",50373,"col","",-2.586944,37.853889,"Sample 2a, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15961",50374,"col","",-2.586944,37.853889,"Sample 3, section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15962",50375,"col","",-2.586944,37.853889,"Sample 4, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15963",50376,"col","",-2.586944,37.853889,"Sample 5, section X.HA (Cortijo del Hielo)",NA,"",6,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15964",50377,"col","",-2.586944,37.853889,"Sample 5a, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15965",50378,"col","",-2.586944,37.853889,"Sample 6.1, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15966",50379,"col","",-2.586944,37.853889,"Sample 6.2, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15967",50380,"col","",-2.586944,37.853889,"Sample 6A, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15968",50381,"col","",-2.586944,37.853889,"Sample 7, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15969",50382,"col","",-2.586944,37.853889,"Sample 8.1, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15970",50383,"col","",-2.586944,37.853889,"Sample 8.2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15971",50384,"col","",-2.586944,37.853889,"Sample 9, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15972",50385,"col","",-2.586944,37.853889,"Sample 9A, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15973",50386,"col","",-2.586944,37.853889,"Sample 10, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15974",50387,"col","",-2.586944,37.853889,"Sample 11, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15975",50388,"col","",-2.586944,37.853889,"Sample 12.1, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15976",50389,"col","",-2.586944,37.853889,"Sample 12.2, section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15977",50390,"col","",-2.586944,37.853889,"Sample 13, section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15978",50391,"col","",-2.586944,37.853889,"Sample 14, section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15992",50405,"col","",-2.586944,37.853889,"23.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15993",50406,"col","",-2.586944,37.853889,"20.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15994",50407,"col","",-2.586944,37.853889,"16.2 m - Section X.HA (Cortijo del Hielo)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15995",50408,"col","",-2.586944,37.853889,"12.4 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15996",50409,"col","",-2.586944,37.853889,"9 m - Section X.HA (Cortijo del Hielo)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15997",50410,"col","",-2.586944,37.853889,"8.2 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15998",50411,"col","",-2.586944,37.853889,"6.2 m - Section X.HA (Cortijo del Hielo)",NA,"",5,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"15999",50412,"col","",-2.586944,37.853889,"4.6 m - Section X.HA (Cortijo del Hielo)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"16000",50413,"col","",-2.586944,37.853889,"2.8 m - Section X.HA (Cortijo del Hielo)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",19.56,25.75,"304",1,127.2,"barremian",1
+"16003",50434,"col","",-1.883333,38.052223,"0.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16004",50435,"col","",-1.883333,38.052223,"4.6 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16005",50436,"col","",-1.883333,38.052223,"6.0 m - Section X.Kv (Barranco de Cavila)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16006",50437,"col","",-1.883333,38.052223,"7.0 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16007",50438,"col","",-1.883333,38.052223,"10.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16008",50439,"col","",-1.883333,38.052223,"11.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16009",50440,"col","",-1.883333,38.052223,"12.0 m - Section X.Kv (Barranco de Cavila)",NA,"",4,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16010",50441,"col","",-1.883333,38.052223,"15.6 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16011",50442,"col","",-1.883333,38.052223,"16.2 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16012",50443,"col","",-1.883333,38.052223,"17.2 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16013",50444,"col","",-1.883333,38.052223,"21.2 m - Section X.Kv (Barranco de Cavila)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16014",50445,"col","",-1.883333,38.052223,"23.0 m - Section X.Kv (Barranco de Cavila)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16015",50446,"col","",-1.883333,38.052223,"24.8 m - Section X.Kv (Barranco de Cavila)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.19,25.61,"304",1,127.2,"barremian",1
+"16028",50460,"col","",-1.1325,38.233612,"5.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",1,127.2,"barremian",1
+"16029",50461,"col","",-1.1325,38.233612,"4.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",2,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",1,127.2,"barremian",1
+"16030",50462,"col","",-1.1325,38.233612,"3.8 m - Section X.Cp2 (Sierra del Corque)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",1,127.2,"barremian",1
+"16031",50463,"col","",-1.1325,38.233612,"3.3 m - Section X.Cp2 (Sierra del Corque)",NA,"",3,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",1,127.2,"barremian",1
+"16032",50464,"col","",-1.1325,38.233612,"2.9 m - Section X.Cp2 (Sierra del Corque)",NA,"",1,"Barremian","",129.4,125,13528,"gp_mid",20.85,25.43,"304",1,127.2,"barremian",1
+"18962",56057,"col","",6.588889,43.913334,"Unit XIV (Barremian) - Coupe de Vergons",NA,"",9,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",1,127.2,"barremian",1
+"18963",56058,"col","",6.588889,43.913334,"Unit XV (Barremian) - Coupe de Vergons",NA,"",10,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",1,127.2,"barremian",1
+"18964",56059,"col","",6.588889,43.913334,"Unit XVI (Barremian) - Coupe de Vergons",NA,"",3,"Barremian","",129.4,125,15116,"gp_mid",29.77,30.29,"305",1,127.2,"barremian",1
+"18970",56065,"col","",6.511111,43.870277,"Unit XIV (Barremian) - Coupe de la vallée du Cheiron",NA,"",10,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",1,127.2,"barremian",1
+"18971",56066,"col","",6.511111,43.870277,"Unit XV (Barremian) - Coupe de la vallée du Cheiron",NA,"",1,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",1,127.2,"barremian",1
+"18972",56067,"col","",6.511111,43.870277,"Unit XVI (Barremian) - Coupe de la vallée du Cheiron",NA,"",4,"Barremian","",129.4,125,15116,"gp_mid",29.71,30.25,"305",1,127.2,"barremian",1
+"19199",56782,"col","",6.571944,43.729721,"Unit 19 (Barremian) - Castagne (W of Bargeme)",NA,"",24,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19200",56783,"col","",6.571944,43.729721,"Unit 20 (Barremian) - Castagne (W of Bargeme)",NA,"",4,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19201",56784,"col","",6.571944,43.729721,"Unit 21 (Barremian) - Castagne (W of Bargeme)",NA,"",7,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19202",56786,"col","",6.571944,43.729721,"Unit 22 (Barremian) - Castagne (W of Bargeme)",NA,"",2,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19203",56788,"col","",6.571944,43.729721,"Unit 23 (Barremian) - Castagne (W of Bargeme)",NA,"",8,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19204",56789,"col","",6.571944,43.729721,"Unit 24 (Barremian) - Castagne (W of Bargeme)",NA,"",1,"Barremian","",129.4,125,15116,"gp_mid",29.75,30.11,"305",1,127.2,"barremian",1
+"19436",57130,"col","",48.408611,54.158054,"Unit V - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",1,127.2,"barremian",1
+"19437",57132,"col","",48.408611,54.158054,"Unit VI - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",1,127.2,"barremian",1
+"19438",57133,"col","",48.408611,54.158054,"Unit VII - Volga River composite section (Barremian)",NA,"",4,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",1,127.2,"barremian",1
+"19439",57134,"col","",48.408611,54.158054,"Unit VIII - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",1,127.2,"barremian",1
+"19440",57135,"col","",48.408611,54.158054,"Unit IX - Volga River composite section (Barremian)",NA,"",5,"Barremian","",129.4,125,15436,"gp_mid",62.77,41.51,"302",1,127.2,"barremian",1
+"23852",64118,"col","Grodziszcze Conglomerates",19.933332,49.833332,"Myslenice and Tarnow areas, Grodziszcze Beds, Silesian and Sub-Silesian nappes",NA,"",26,"Barremian","",129.4,125,18506,"gp_mid",40.88,35.9,"305",1,127.2,"barremian",1
+"24879",65799,"col","Schrattenkalk",9.9,47.416668,"Schrattenkalk Fm - Bezeck near Bezau, Vorarlberg",NA,"",7,"Barremian","",129.4,125,15037,"gp_mid",32.73,33.66,"305",1,127.2,"barremian",1
+"24880",65800,"col","Schrattenkalk",9.9,47.416668,"Schrattenkalk Fm - Unterklein, Vorarlberg",NA,"",7,"Barremian","",129.4,125,15037,"gp_mid",32.73,33.66,"305",1,127.2,"barremian",1
+"25319",66424,"col","",13.766667,41.516666,"Colle Santa Lucia, Monte Cairo area, Latium",NA,"",24,"Barremian","",129.4,125,18984,"gp_mid",34.8,19.83,"307",1,127.2,"barremian",1
+"25418",66632,"col","Rio Belgrano",-72,-47.916668,"Rio Belgrano este, Austral Basin, Rio Belgrano Formation, Santa Cruz",NA,"",2,"Barremian","",129.4,125,19009,"gp_mid",-32.35,-45.82,"291",1,127.2,"barremian",1
+"25419",66633,"col","",-72.083336,-48,"Chorrillo Rivera, Austral Basin, Santa Cruz",NA,"",3,"Barremian","",129.4,125,19009,"gp_mid",-32.44,-45.9,"291",1,127.2,"barremian",1
+"25713",67122,"col","Grodziszcze",19.766666,49.866669,"Jastrzebia, Grodziszcze Beds, Carpathians",NA,"",61,"Barremian","",129.4,125,19144,"gp_mid",40.74,35.93,"305",1,127.2,"barremian",1
+"25714",67123,"col","Grodziszcze",21.083332,49.933334,"Trzemesna, Grodziszcze Beds, Carpathians",NA,"",47,"Barremian","",129.4,125,19144,"gp_mid",41.79,36,"305",1,127.2,"barremian",1
+"25715",67124,"col","Grodziszcze",19.85,49.950001,"Bukow, Grodziszcze Beds, Carpathians",NA,"",13,"Barremian","",129.4,125,19144,"gp_mid",40.81,36.02,"305",1,127.2,"barremian",1
+"25869",67457,"col","",23.5,48.333332,"Ugolka River Basin, Marmarosh Klippen Zone, Carpathians",NA,"Reef 1969",55,"Barremian","",129.4,125,19233,"gp_mid",43.75,34.42,"305",1,127.2,"barremian",1
+"26811",68921,"col","",-60.933334,10.783333,"Tompire Bay (BT456)",NA,"",12,"Barremian","",129.4,125,19898,"gp_mid",-17.56,11.47,"201",1,127.2,"barremian",1
+"26812",68922,"col","",-61.46769,10.32357,"Pointe-à-PIerre (K. 8187)",NA,"",7,"Barremian","",129.4,125,19898,"gp_mid",-18.13,11.05,"201",1,127.2,"barremian",1
+"26890",69013,"col","",6.483333,46,"Pointe Blanche, Massif des Bornes, Urgonian Limestone, Haute-Savoie",NA,"",6,"Barremian","",129.4,125,19915,"gp_mid",29.85,32.38,"305",1,127.2,"barremian",1
+"27233",69737,"col","",5.033333,43.783333,"Notre Dame de Beauregard, Orgon, rudists, Provence",NA,"Reef 3568",7,"Barremian","",129.4,125,23401,"gp_mid",28.47,30.24,"305",1,127.2,"barremian",1
+"27234",69738,"col","",5.033333,43.783333,"Cimetiere d'Orgon, rudists, Provence",NA,"Reef 3568",14,"Barremian","",129.4,125,23401,"gp_mid",28.47,30.24,"305",1,127.2,"barremian",1
+"27247",69756,"col","Helvetiafjellet",13.966671,78.099998,"Festningen, Svalbard (lower)",NA,"",1,"Barremian","",129.4,125,23403,"gp_mid",38.07,64.2,"309",1,127.2,"barremian",1
+"27249",69758,"col","Helvetiafjellet",13.966671,78.099998,"Festningen, Svalbard (middle)",NA,"",1,"Barremian","",129.4,125,23403,"gp_mid",38.07,64.2,"309",1,127.2,"barremian",1
+"27250",69759,"col","Helvetiafjellet",13.966671,78.099998,"Festningen, Svalbard (upper)",NA,"",1,"Barremian","",129.4,125,23403,"gp_mid",38.07,64.2,"309",1,127.2,"barremian",1
+"27338",69902,"col","Zapotitlan",-97.466667,18.25,"Cerro del Pizarro, Zapotitlan Formation, Puebla",NA,"",1,"Barremian","",129.4,125,23451,"gp_mid",-41.09,18.95,"104",1,127.2,"barremian",1
+"29592",74159,"col","",6.783333,46.099998,"Massif du Haut-Giffre, foraminiferal biostromes",NA,"Reef 1284",1,"Barremian","",129.4,125,24892,"gp_mid",30.1,32.46,"305",1,127.2,"barremian",1
+"34501",84211,"col","Arcillas de Morella",0.033417,40.583359,"Santa Agueda, Vallibona",NA,"",4,"Barremian","",129.4,125,28208,"gp_mid",23.12,26.91,"304",1,127.2,"barremian",1
+"38301",90531,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 92",NA,"Bahía de Santa Fé",7,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38302",90532,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 109",NA,"Bahía de Santa Fé",5,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38303",90533,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 110",NA,"Bahía de Santa Fé; Trigonia Beds",6,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38304",90534,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 123",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38305",90535,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 124",NA,"Bahía de Santa Fé",6,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38306",90536,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 125",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38307",90537,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 126",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38308",90538,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 130",NA,"Bahía de Santa Fé",3,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38309",90539,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 132",NA,"Bahía de Santa Fé",4,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38310",90540,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 146",NA,"Bahía de Santa Fé",2,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38311",90541,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 147",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38312",90542,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 157",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38313",90543,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 177",NA,"Bahía de Santa Fé",3,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38314",90544,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 216",NA,"Bahía de Santa Fé",3,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38315",90545,"col","Barranquín",-63.546944,8.964167,"MMH locality Su 217",NA,"Bahía de Santa Fé",1,"Barremian","",129.4,125,49,"gp_mid",-20.3,9.83,"201",1,127.2,"barremian",1
+"38749",91332,"col","Kimigahama",140.721939,35.72028,"Ch0001 - Choshi area [Kimigahama Fm]",NA,"Loc. 1 (Kase & Maeda, 1980)",2,"Barremian","",129.4,125,30704,"gp_mid",148.68,46.45,"610",1,127.2,"barremian",1
+"38750",91333,"col","Kimigahama",140.873337,35.715,"Ch0002 - Choshi area [Kimigahama Fm]",NA,"Loc. 2 (Kase & Maeda, 1980)",9,"Barremian","",129.4,125,30704,"gp_mid",148.85,46.49,"610",1,127.2,"barremian",1
+"39016",91689,"col","",55.616669,40.216667,"Kel'dzhe Range, Tuarkyr",NA,"",2,"Barremian","",129.4,125,30905,"gp_mid",71.33,28.51,"402",1,127.2,"barremian",1
+"42935",97673,"col","",-71.116669,12.083333,"Punta Espada and SE of de Cuiza, La Guajira (pg. 146)",NA,"",19,"Barremian","",129.4,125,33368,"gp_mid",-28.45,12.37,"203",1,127.2,"barremian",1
+"42936",97674,"col","",-71.116669,12.083333,"Punta Espada, La Guajira - 38-42 m (pg. 148)",NA,"",23,"Barremian","",129.4,125,33368,"gp_mid",-28.45,12.37,"203",1,127.2,"barremian",1
+"42967",97807,"col","Rio Belgrano",-71.900002,-47.700001,"Cerro Belgrano",NA,"Myobradypterygius hauthali type",1,"Barremian","",129.4,125,59610,"gp_mid",-32.24,-45.61,"291",1,127.2,"barremian",1
+"52952",112148,"col","",5.633333,44.033333,"Banon",NA,"",1,"Barremian","",129.4,125,36504,"gp_mid",28.99,30.46,"305",1,127.2,"barremian",1
+"52953",112149,"col","",5.683333,44.049999,"Combe-Petite",NA,"",4,"Barremian","",129.4,125,36504,"gp_mid",29.03,30.47,"305",1,127.2,"barremian",1
+"67982",134727,"col","",4.515801,48.294834,"Amance",NA,"",1,"Barremian","",129.4,125,40991,"gp_mid",28.44,34.76,"305",1,127.2,"barremian",1
+"71860",140348,"col","Telamim",34.69611,31.561943,"Hellez 1 Well, Core 6",NA,"",5,"Barremian","",129.4,125,45354,"gp_mid",41,2.38,"508",1,127.2,"barremian",1
+"74829",144964,"col","",26.468611,30.821943,"Umbarka IX Borehole, Zone No. I",NA,"",12,"Barremian","",129.4,125,46914,"gp_mid",34.76,4.94,"715",1,127.2,"barremian",1
+"77475",148827,"col","",21.65,44.716667,"Resita - Molodova Noua area, Barremian",NA,"",3,"Barremian","",129.4,125,47732,"gp_mid",39.11,14.71,"308",1,127.2,"barremian",1
+"77923",149337,"col","",6.083333,43.733334,"Provence area",NA,"",27,"Barremian","",129.4,125,47796,"gp_mid",29.34,30.14,"305",1,127.2,"barremian",1
+"79402",151444,"col","Emen",25.450001,43.150002,"Veliko Tarnovo area",NA,"",1,"Barremian","",129.4,125,48398,"gp_mid",38.19,11.68,"308",1,127.2,"barremian",1
+"80481",153768,"col","Fulletby Beds",0.1,53.209999,"Dalby Park",NA,"",2,"Barremian","",129.4,125,49817,"gp_mid",25.52,39.91,"315",1,127.2,"barremian",1
+"80482",153769,"col","Fulletby Beds",-0.05,53.259998,"Park Hill, Belchford",NA,"",1,"Barremian","",129.4,125,49817,"gp_mid",25.41,39.97,"315",1,127.2,"barremian",1
+"81214",155458,"col","Levashi",47.326,42.212002,"Gapshima Village (Unit 4)",NA,"",2,"Barremian","",129.4,125,50718,"gp_mid",63.95,29.58,"402",1,127.2,"barremian",1
+"81294",155583,"col","Levashi",47.326,42.212002,"Gapshima Village (Unit 7)",NA,"",1,"Barremian","",129.4,125,50718,"gp_mid",63.95,29.58,"402",1,127.2,"barremian",1
+"86886",165751,"col","",43.98,43.25,"Kalukh, Urukh River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.99,30.32,"402",1,127.2,"barremian",1
+"87043",165940,"col","",43.560001,43.459999,"Nalchik, Caucasus (Barremian)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.61,30.49,"302",1,127.2,"barremian",1
+"87045",165946,"col","",43.259998,43.595001,"Baksan-Gundelen River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.34,30.6,"302",1,127.2,"barremian",1
+"87046",165947,"col","",43.360001,43.625,"Baksan River, Caucasus",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",60.42,30.64,"302",1,127.2,"barremian",1
+"87047",165948,"col","",54.68,39.66,"Bol'shoy Balkhan, Turkmenia (Barremian)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",70.63,27.84,"402",1,127.2,"barremian",1
+"87048",165949,"col","",54.68,39.66,"Karaelet, Turkmenia",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",70.63,27.84,"402",1,127.2,"barremian",1
+"87049",165950,"col","",55.535,40.549999,"Tuarkyr (uncertain age)",NA,"",1,"Barremian","",129.4,125,54147,"gp_mid",71.2,28.82,"402",1,127.2,"barremian",1
+"87280",166264,"col","",141.020004,45.313999,"Jizo-Iwa, Rebun Island",NA,"",1,"Barremian","",129.4,125,54324,"gp_mid",142.76,55.3,"610",1,127.2,"barremian",1
+"89258",170614,"col","",57.983334,38,"W Kopetdag",NA,"Reef 2335",11,"Barremian","",129.4,125,55580,"gp_mid",73.78,26.62,"402",1,127.2,"barremian",1
+"89555",171269,"col","",33.529999,30.799999,"Bir Lagama (Barremian)",NA,"",11,"Barremian","",129.4,125,36012,"gp_mid",39.76,2.2,"508",1,127.2,"barremian",1
+"89557",171271,"col","",33.439999,30.84,"Gebel Lagama (Barremian)",NA,"",5,"Barremian","",129.4,125,36012,"gp_mid",39.71,2.28,"508",1,127.2,"barremian",1
+"89780",171514,"col","",6.84,43.73,"Escragnolles (Var) (Neocomian)",NA,"",1,"Barremian","",129.4,125,55772,"gp_mid",29.97,30.1,"305",1,127.2,"barremian",1
+"91434",175836,"col","Rio Mayer",-71.963997,-47.431999,"Boliche Mondelo, Austral Basin",NA,"",1,"Barremian","",129.4,125,57580,"gp_mid",-32.28,-45.34,"291",1,127.2,"barremian",1
+"92040",177718,"col","",6.77,43.720001,"Ravin de Saint-Martin, Escragnolles",NA,"",1,"Barremian","",129.4,125,58807,"gp_mid",29.91,30.09,"305",1,127.2,"barremian",1
+"93105",179682,"col","",24,43.083332,"Batultsi village, Lovech",NA,"",1,"Barremian","",129.4,125,59540,"gp_mid",37.86,12.69,"308",1,127.2,"barremian",1
+"93107",179684,"col","",25.266666,42.950001,"Kozi rog village, Gabrovo district",NA,"",1,"Barremian","",129.4,125,59540,"gp_mid",37.96,11.76,"308",1,127.2,"barremian",1
+"93217",179817,"col","",5.05,45.866669,"Bogaris, trouve au fond du ravine des Faures",NA,"",3,"Barremian","",129.4,125,59635,"gp_mid",28.66,32.32,"305",1,127.2,"barremian",1
+"101925",203446,"col","Blesa",-0.73315,40.90527,"Iberodactylus-type locality",NA,"Los Quiñones site",1,"Barremian","",129.4,125,69758,"gp_mid",22.78,27.49,"304",1,127.2,"barremian",1
+"106890",212809,"col","Helvetiafjellet",15.048611,77.622223,"Van Keulenfjorden, Barremian, horizon 2",NA,"",14,"Barremian","",129.4,125,73480,"gp_mid",38.53,63.71,"309",1,127.2,"barremian",1
+"106988",212949,"col","",16.561943,78.287781,"Sassenfjorden, Mountain side",NA,"",44,"Barremian","",129.4,125,73524,"gp_mid",39.31,64.36,"309",1,127.2,"barremian",1
+"107018",212979,"col","Helvetiafjellet",13.934722,78.098892,"Festningen, Cliff exposure",NA,"",44,"Barremian","",129.4,125,73524,"gp_mid",38.05,64.2,"309",1,127.2,"barremian",1

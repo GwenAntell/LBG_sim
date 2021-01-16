@@ -15,8 +15,8 @@ get_ssc <- function(data, bandsize = 180, mask = NULL, res = 1){
   latbin <- cbind(bin, max, min, mid, hemisphere)
   colnames(latbin) <- c("bin", "max", "min", "mid", "hemisphere")
   
-  x <- data$getech_lng
-  y <- data$getech_lat
+  x <- data$paleolng
+  y <- data$paleolat
   z <- data$collection_no
   
   xyz <- cbind.data.frame(x, y, z)

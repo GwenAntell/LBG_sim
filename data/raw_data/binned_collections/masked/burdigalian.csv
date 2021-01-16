@@ -1,565 +1,187 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"4072",11292,"col","",67,25,"Magar Pir, Karachi, Sind, Pakistan",NA,"Reef 3097",40,"Burdigalian","",20.44,15.97,4154,"gp_mid",67.74,16.22,"501",18.205,"burdigalian",1315,63.9368,21.2719,9,1
-"8969",17910,"col","Kirkwood",-74.3,40.3,"Farmingdale",NA,"",7,"Early Hemingfordian","",20.43,15.97,3383,"gp_mid",-65.35,41.94,"109",18.2,"burdigalian",1985,-70.4098,38.7628,9,1
-"9571",18512,"col","Marks Head",-82.1,29.9,"Brooks Sink",NA,"",22,"Late Hemingfordian","",20.43,15.97,2614,"gp_mid",-74.72,32.29,"109",18.2,"burdigalian",2004,-78.5048,29.1362,9,1
-"9620",18561,"col","Torreya",-84.5,30.5,"Midway",NA,"Fuller's Earth Company<br>DUPLICATE REF 3135 or 3136",21,"Hemingfordian","",20.43,15.97,3135,"gp_mid",-77.1,33.09,"109",18.2,"burdigalian",2008,-82.2202,29.321,9,1
-"9621",18562,"col","",-83.2,29.3,"Miller Locality",NA,"",19,"Early Hemingfordian","",20.43,15.97,3558,"gp_mid",-75.91,31.78,"109",18.2,"burdigalian",2009,-78.5048,29.1362,9,1
-"9638",18579,"col","Calvert",-75.6,39.2,"Pollack Farm Site",NA,"Delaware Geological Survey locality Id11-a",173,"Early Hemingfordian","",20.43,15.97,1446,"gp_mid",-66.85,40.97,"109",18.2,"burdigalian",2011,-70.4098,38.7628,9,1
-"9645",18586,"col","Torreya",-84.2,30.3,"Seaboard Air Line Railroad Company",NA,"",23,"Hemingfordian","",20.43,15.97,2692,"gp_mid",-76.82,32.86,"109",18.2,"burdigalian",2013,-78.5048,29.1362,9,1
-"9646",18587,"col","Kirkwood",-75.2,39.3,"Shiloh Marl",NA,"",39,"Burdigalian","",20.44,15.97,35435,"gp_mid",-66.42,41.03,"109",18.205,"burdigalian",2014,-70.4098,38.7628,9,1
-"9656",18597,"col","Alachua",-82.6,29.7,"Thomas Farm",NA,"",71,"Hemingfordian","",20.43,15.97,6560,"gp_mid",-75.25,32.13,"109",18.2,"burdigalian",2015,-78.5048,29.1362,9,1
-"10210",19151,"col","Temblor",-118.88,35.44,"Barker's Ranch",NA,"Barker Ranch",7,"Burdigalian","",20.44,15.97,6198,"gp_mid",-109.77,39.08,"130",18.205,"burdigalian",2026,-112.7967,32.8799,9,1
-"10426",19367,"col","Caliente",-119,34.3,"Hidden Treasure Spring",NA,"UCMP V-5676; Dry Canyon",8,"Hemingfordian","",20.43,15.97,2012,"gp_mid",-110.76,37.32,"105",18.2,"burdigalian",2031,-112.7967,32.8799,9,1
-"10540",19481,"col","Caliente",-119,34.3,"Plush Ranch Contact",NA,"UCMP V-5679",2,"Hemingfordian","",20.43,15.97,2012,"gp_mid",-110.76,37.32,"105",18.2,"burdigalian",2031,-112.7967,32.8799,9,1
-"10575",19516,"col","Caliente",-119,34.3,"Rhino Site",NA,"UCMP V-5744; Ballinger Canyon 3",2,"Hemingfordian","",20.43,15.97,2012,"gp_mid",-110.76,37.32,"105",18.2,"burdigalian",2031,-112.7967,32.8799,9,1
-"10658",19599,"col","Branch Canyon",-119.5,34.9,"Vedder (UCMP V-6761)",NA,"",15,"Hemingfordian","",20.43,15.97,1995,"gp_mid",-111.27,37.93,"105",18.2,"burdigalian",2035,-112.7967,32.8799,9,1
-"13401",25255,"col","Sabz",57.12,27.32,"Vaziri, Makran, Iran",25257,"Reef 655",11,"Burdigalian","",20.44,15.97,7077,"gp_mid",55.62,19.77,"503",18.205,"burdigalian",2564,52.4417,22.0701,9,1
-"13403",25257,"col","Ghasr Ghand",60,26.5,"Makran",NA,"",94,"Burdigalian","",20.44,15.97,7077,"gp_mid",58.31,18.86,"503",18.205,"burdigalian",2566,56.6842,27.6677,9,1
-"13404",25258,"col","Darkhunish",57.58,26.53,"Dar Phan, Makran, Iran",25257,"Reef 654",25,"Burdigalian","",20.44,15.97,7077,"gp_mid",56.03,18.97,"503",18.205,"burdigalian",2567,52.4417,22.0701,9,1
-"20026",34720,"col","Progo Beds",110.08,-7.67,"Yunggrangan, Yogyakarta, Java, Indonesia",NA,"Reef 2042",6,"Burdigalian","",20.44,15.97,9205,"gp_mid",116.18,-8.76,"620",18.205,"burdigalian",3999,107.828,-4.5491,9,1
-"20027",34721,"col","Progo Beds",110.05,-7.65,"Sibolong, Yogyakarta, Java, Indonesia",NA,"Reef 2042",15,"Burdigalian","",20.44,15.97,9205,"gp_mid",116.15,-8.75,"620",18.205,"burdigalian",4000,107.828,-4.5491,9,1
-"20171",34913,"col","",32.31,36.18,"Bed 7b - Gebel Gharra section, Suez",NA,"",5,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",18.205,"burdigalian",4039,30.0174,32.9749,9,1
-"20172",34914,"col","",32.31,36.18,"Bed 8c - Gebel Gharra section, Suez",NA,"",5,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",18.205,"burdigalian",4039,30.0174,32.9749,9,1
-"20173",34915,"col","",32.31,36.18,"Bed 8db - Gebel Gharra section, Suez",NA,"",4,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",18.205,"burdigalian",4039,30.0174,32.9749,9,1
-"20243",35018,"col","Chipola",-85.12,30.5,"Chipola Formation (unspecified localities)",NA,"",21,"Burdigalian","",20.44,15.97,9411,"gp_mid",-77.73,33.14,"109",18.205,"burdigalian",4054,-82.2202,29.321,9,1
-"20944",35985,"col","",-9.12,38.73,"Quinta das Pedreiras, Lisbon",NA,"",5,"Burdigalian","",20.44,15.97,12513,"gp_mid",-6.45,36.04,"304",18.205,"burdigalian",4172,-10.2888,35.4603,9,1
-"20947",35988,"col","",-9.12,38.72,"Quinta da Conceiçao",NA,"",1,"Burdigalian","",20.44,15.97,12513,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"20948",35989,"col","",-9.12,38.72,"Quinta da Barbacena",NA,"",2,"Burdigalian","",20.44,15.97,12513,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21359",36617,"col","",-9.12,38.72,"Horta das Tripas",NA,"",4,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21360",36618,"col","",-9.12,38.72,"Level C5, Quarry Quinta da Torre",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21361",36619,"col","",-9.12,38.72,"Level C1, Quarry Quinta da Torre",NA,"",2,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21362",36620,"col","",-9.12,38.73,"Level C11, Quarry Quinta das Pedreiras",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.04,"304",18.205,"burdigalian",4172,-10.2888,35.4603,9,1
-"21363",36621,"col","",-9.12,38.73,"Level C7, Quarry Quinta das Pedreiras",NA,"",5,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.04,"304",18.205,"burdigalian",4172,-10.2888,35.4603,9,1
-"21364",36622,"col","",-9.12,38.73,"Level C6, Quarry Quinta das Pedreiras",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.04,"304",18.205,"burdigalian",4172,-10.2888,35.4603,9,1
-"21365",36623,"col","",-9.12,38.73,"Level C3, Quarry Quinta das Pedreiras",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.04,"304",18.205,"burdigalian",4172,-10.2888,35.4603,9,1
-"21366",36624,"col","",-9.12,38.72,"Level C1, Quarry Quebra Bilhas",NA,"",3,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21367",36625,"col","",-9.12,38.72,"Level C4, Quarry Correio Mor",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21368",36626,"col","",-9.12,38.72,"Level C1, Quarry Correio Mor",NA,"",4,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21369",36627,"col","",-9.12,38.72,"Level C5, Quarry Quinta do Narigao",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21370",36628,"col","",-9.12,38.72,"Level C4, Quarry Quinta do Narigao",NA,"",15,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21371",36629,"col","",-9.12,38.72,"Level C5, Quarry Quinta da Noiva",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21372",36630,"col","",-9.12,38.72,"Level C3, Quarry Quinta da Noiva",NA,"",1,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21373",36631,"col","",-9.12,38.72,"Level C1, Quarry Quinta da Noiva",NA,"",13,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21374",36632,"col","",-9.12,38.72,"Quarry Torre da Musgueira",NA,"Quinta da Musgueira, Mirante de Musgueira",6,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21375",36633,"col","",-9.12,38.72,"Quarry Quinta da Trindade",NA,"",6,"Burdigalian","",20.44,15.97,9820,"gp_mid",-6.45,36.02,"304",18.205,"burdigalian",4173,-10.2888,35.4603,9,1
-"21561",36878,"col","",2.48,42.5,"Ste-Catherine 2, Baixas area",NA,"Ste Catherine 2, Baixas'",12,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21562",36879,"col","",2.48,42.5,"Ste-Catherine 3, Baixas area",NA,"Ste Catherine 3, Baixas'",11,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21563",36880,"col","",2.48,42.5,"Ste-Catherine 4, Baixas area",NA,"Ste Catherine 4, Baixas'",9,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21564",36881,"col","",2.48,42.5,"Ste-Catherine 5, Baixas area",NA,"Ste Catherine 5, Baixas'",7,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21566",36883,"col","",2.48,42.5,"Ste-Catherine 7, Baixas area",NA,"Ste Catherine 7, Baixas'",6,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21567",36884,"col","",2.48,42.5,"Ste-Catherine 8F, Baixas area",NA,"Ste Catherine 8F, Baixas'",6,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21568",36885,"col","",2.48,42.5,"Ste-Catherine 8H, Baixas area",NA,"Ste Catherine 8H, Baixas'",7,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21569",36886,"col","",2.48,42.5,"Lo Fournas 1, Baixas area",NA,"Baixas'",11,"Burdigalian","",20.44,15.97,9874,"gp_mid",4.91,39.33,"304",18.205,"burdigalian",4378,0.4466,40.7402,9,1
-"21716",37050,"col","",3.03,43.02,"Port-la-Nouvelle fissure fill",NA,"Port la Nouvelle",29,"Burdigalian","",20.44,15.97,9929,"gp_mid",5.46,39.83,"305",18.205,"burdigalian",4430,0.4466,40.7402,9,1
-"21756",37214,"col","",8.82,39.61,"Sardara Amphitragulus boulangeri site",NA,"Sardegna, Sardinia",1,"Burdigalian","",20.44,15.97,10002,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",4440,4.1217,38.4468,9,1
-"21759",37238,"col","",5.48,43.6,"La Denise",NA,"",13,"Burdigalian","",20.44,15.97,10008,"gp_mid",7.82,40.33,"305",18.205,"burdigalian",4441,0.4466,40.7402,9,1
-"21865",37361,"col","Rugo Mizza Sandstone",12.8,46.22,"Torrente Meduna sample 8",NA,"Pecten purigalensis community sample 8",4,"Burdigalian","",20.44,15.97,10020,"gp_mid",15.79,41.81,"307",18.205,"burdigalian",4452,9.7504,42.5647,9,1
-"21866",37362,"col","Rugo Mizza Sandstone",12.8,46.22,"Torrente Meduna sample 9",NA,"Loripes dentatus community sample 9",9,"Burdigalian","",20.44,15.97,10020,"gp_mid",15.79,41.81,"307",18.205,"burdigalian",4452,9.7504,42.5647,9,1
-"21867",37363,"col","Rugo Mizza Sandstone",12.8,46.22,"Torrente Meduna sample 10",NA,"Pecten purigalensis community sample 10",4,"Burdigalian","",20.44,15.97,10020,"gp_mid",15.79,41.81,"307",18.205,"burdigalian",4452,9.7504,42.5647,9,1
-"21954",37487,"col","",16.48,-28.58,"Orange River Core 2",NA,"",37,"Burdigalian","",20.44,15.97,10031,"gp_mid",14.7,-33.11,"701",18.205,"burdigalian",4486,12.4128,-30.1309,9,1
-"22225",37786,"col","",5.69,41.47,"Molí Calopa",NA,"",1,"Orleanian","",20,15.97,10072,"gp_mid",NA,NA,"coordinates not computable using this model",17.985,"burdigalian",4558,3.9904,40.9448,9,1
-"24321",40791,"col","",165.02,-21.3,"Echinoidea, Burdigalian, Nepoui peninsula, New Caledonia",NA,"",2,"Burdigalian","",20.44,15.97,11022,"gp_mid",167.32,-27.68,"834",18.205,"burdigalian",5142,163.1328,-29.8321,9,1
-"24943",41614,"col","Chilcatay",-75.33,-14.66,"DV 509-2 [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11150,"gp_mid",-70.73,-13.85,"201",18.205,"burdigalian",5328,-71.6969,-17.4508,9,1
-"25029",41760,"col","Chipola",-85.19,30.44,"USGS Loc. 2213 - Baileys Ferry",NA,"",314,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25333",42069,"col","Oak Grove",-84.58,30.9,"USGS Loc. 3386 - Roseland Plantation [Oak Grove Sand]",NA,"",12,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.13,33.5,"109",18.205,"burdigalian",5461,-82.2202,29.321,9,1
-"25372",42109,"col","Oak Grove",-84.58,30.9,"USGS Loc. 3385 - Gastropod Gulch [Oak Grove Sand]",NA,"",17,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.13,33.5,"109",18.205,"burdigalian",5461,-82.2202,29.321,9,1
-"25469",42212,"col","Oak Grove",-84.58,30.9,"USGS Loc. 7148 - Gastopod Gulch [Oak Grove Sand]",NA,"",16,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.13,33.5,"109",18.205,"burdigalian",5461,-82.2202,29.321,9,1
-"25470",42213,"col","Oak Grove",-84.58,30.9,"USGS Loc. 3396 - Sam Dicken's Field [Oak Grove Sand]",NA,"",3,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.13,33.5,"109",18.205,"burdigalian",5461,-82.2202,29.321,9,1
-"25471",42214,"col","Chipola",-86.04,30.65,"USGS Loc. 10611 - White's Creek [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11206,"gp_mid",-78.67,33.36,"109",18.205,"burdigalian",5494,-82.2202,29.321,9,1
-"25473",42216,"col","Chipola",-86.04,30.72,"USGS Loc. 10596 - Red Bay [Chipola Fm]",NA,"",4,"Burdigalian","",20.44,15.97,11206,"gp_mid",-78.66,33.43,"109",18.205,"burdigalian",5496,-82.2202,29.321,9,1
-"25478",42222,"col","Chipola",-85.84,30.57,"USGS Loc. 10609 - The Woodyard, lower bed [Chipola Fm]",NA,"",41,"Burdigalian","",20.44,15.97,11206,"gp_mid",-78.47,33.27,"109",18.205,"burdigalian",5500,-82.2202,29.321,9,1
-"25479",42223,"col","Chipola",-85.84,30.57,"USGS Loc. 10610 - The Woodyard, upper bed [Chipola Fm]",NA,"",11,"Burdigalian","",20.44,15.97,11206,"gp_mid",-78.47,33.27,"109",18.205,"burdigalian",5500,-82.2202,29.321,9,1
-"25481",42225,"col","Chipola",-85.84,30.57,"USGS Loc. 7893 - Boynton Landing [Chipola Fm]",NA,"",82,"Burdigalian","",20.44,15.97,11206,"gp_mid",-78.47,33.27,"109",18.205,"burdigalian",5500,-82.2202,29.321,9,1
-"25500",42250,"col","Chipola",-85.19,30.44,"USGS Loc. 2212 - Tenmile Creek [Chipola Fm]",NA,"",106,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25518",42268,"col","Chipola",-85.19,30.44,"USGS Loc. 2214 - Tenmile Creek [Chipola Fm]",NA,"",3,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25521",42271,"col","Chipola",-84.98,30.43,"USGS Loc. 2568 - Alum Bluff [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.59,33.06,"109",18.205,"burdigalian",5529,-82.2202,29.321,9,1
-"25522",42272,"col","Chipola",-84.98,30.43,"USGS Loc. 10660 - Alum Bluff, lower bed [Chipola Fm]",NA,"",23,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.59,33.06,"109",18.205,"burdigalian",5529,-82.2202,29.321,9,1
-"25531",42281,"col","Chipola",-85.19,30.44,"USGS Loc. 7257 - Tenmile Creek, Sexton's marl bed [Chipola Fm]",NA,"",54,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25537",42290,"col","Chipola",-85.19,30.44,"USGS Loc. 2564 - McCleland farm [Chipola Fm]",NA,"",186,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25564",42328,"col","Chipola",-85.19,30.44,"USGS Loc. 3419 - McClelland Farm [Chipola Fm]",NA,"",228,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25581",42365,"col","Chipola",-85.19,30.44,"USGS Loc. 9994 - J.P. McClelland Farm [Chipola Fm]",NA,"",15,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25582",42366,"col","Chipola",-85.19,30.44,"USGS Loc. 7151 - Tenmile Creek [Chipola Fm]",NA,"",100,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25583",42367,"col","Chipola",-84.98,30.43,"USGS Loc. 7183 - Alum Bluff, lower bed [Chipola Fm]",NA,"",66,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.59,33.06,"109",18.205,"burdigalian",5529,-82.2202,29.321,9,1
-"25595",42379,"col","Chipola",-84.91,30.54,"USGS Loc. 2566 - Rock Bluff, upper bed [Chipola Fm]",NA,"",5,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.52,33.16,"109",18.205,"burdigalian",5559,-82.2202,29.321,9,1
-"25615",42418,"col","Chipola",-84.58,30.59,"USGS Loc. 2868 - Fuller's earth bed, Quincy [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.17,33.18,"109",18.205,"burdigalian",5560,-82.2202,29.321,9,1
-"25616",42419,"col","Chipola",-84.58,30.59,"USGS Loc. 3704 - Quincy [Chipola Fm]",NA,"",7,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.17,33.18,"109",18.205,"burdigalian",5560,-82.2202,29.321,9,1
-"25617",42420,"col","Chipola",-84.58,30.59,"USGS Loc. 3173 - Fuller's earth mines, Quincy [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.17,33.18,"109",18.205,"burdigalian",5560,-82.2202,29.321,9,1
-"25618",42421,"col","Chipola",-84.28,30.44,"USGS Loc. 2302 - Tallahassee [Chipola Fm]",NA,"",6,"Burdigalian","",20.44,15.97,11206,"gp_mid",-76.88,33.01,"109",18.205,"burdigalian",5561,-78.5048,29.1362,9,1
-"25619",42422,"col","Chipola",-84.28,30.44,"USGS Loc. 3424 - J.C. Henderson's well, Tallahassee [Chipola Fm]",NA,"",3,"Burdigalian","",20.44,15.97,11206,"gp_mid",-76.88,33.01,"109",18.205,"burdigalian",5561,-78.5048,29.1362,9,1
-"25620",42423,"col","Chipola",-84.49,30.06,"USGS Loc. 2322 - Sopchoppy Creek [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.14,32.65,"109",18.205,"burdigalian",5562,-82.2202,29.321,9,1
-"25621",42424,"col","Chipola",-84.49,30.06,"USGS Loc. 7468 - Sopchoppy Creek [Chipola Fm]",NA,"",31,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.14,32.65,"109",18.205,"burdigalian",5562,-82.2202,29.321,9,1
-"25622",42425,"col","Chipola",-82.76,30.33,"USGS Loc. 6175 - Suwannee River [Chipola Fm]",NA,"",10,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25623",42426,"col","Chipola",-82.76,30.33,"USGS Loc. 6769 - Suwannee River [Chipola Fm]",NA,"",7,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25624",42427,"col","Chipola",-82.76,30.33,"USGS Loc. 6775 - Suwannee River [Chipola Fm]",NA,"",3,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25625",42428,"col","Chipola",-82.76,30.33,"USGS Loc. 6776 - Suwannee River [Chipola Fm]",NA,"",9,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25627",42430,"col","Chipola",-82.76,30.33,"USGS Loc. 2324 - White Springs [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25639",42442,"col","Chipola",-85.19,30.44,"USGS Loc. 7256 - Look and Tremble Shoals [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25640",42443,"col","Chipola",-84.98,30.43,"USGS Loc. 2211 - Alum Bluff, lower bed",NA,"",161,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.59,33.06,"109",18.205,"burdigalian",5529,-82.2202,29.321,9,1
-"25642",42445,"col","Chipola",-86.57,30.92,"USGS Loc. 2653 - Otaheite beds [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25644",42447,"col","Chipola",-84.28,30.44,"USGS Loc. 395 - Tallahassee [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-76.88,33.01,"109",18.205,"burdigalian",5561,-78.5048,29.1362,9,1
-"25645",42448,"col","Chipola",-82.76,30.33,"USGS Loc. 4976 - White Springs [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-75.34,32.77,"109",18.205,"burdigalian",5563,-78.5048,29.1362,9,1
-"25646",42449,"col","Chipola",-85.19,30.44,"USGS Loc. 10971 - Turtle Lake Bluff [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"25647",42450,"col","Chipola",-84.98,30.43,"USGS Loc. 10288 - Alum Bluff [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,11206,"gp_mid",-77.59,33.06,"109",18.205,"burdigalian",5529,-82.2202,29.321,9,1
-"25680",42482,"col","Oak Grove",-86.57,30.92,"USGS Loc. 2646 - Oak Grove [Oak Grove Sand]",NA,"",184,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25769",42605,"col","Oak Grove",-86.57,30.92,"USGS Loc. 5632 - Oak Grove [Oak Grove Sand]",NA,"",114,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25804",42642,"col","Oak Grove",-86.57,30.92,"USGS Loc. 5631 - Oak Grove [Oak Grove Sand]",NA,"",58,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25816",42656,"col","Oak Grove",-86.57,30.92,"USGS Loc. 5630 - Oak Grove [Oak Grove Sand]",NA,"",34,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25817",42657,"col","Oak Grove",-86.57,30.92,"USGS Loc. 5633 - Oak Grove [Oak Grove Sand]",NA,"",71,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25820",42663,"col","Oak Grove",-86.57,30.92,"USGS Loc. 7054 - Oak Grove [Oak Grove Sand]",NA,"",94,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25825",42677,"col","Oak Grove",-86.57,30.92,"USGS Loc. 2652 - Horse Creek [Oak Grove Sand]",NA,"",13,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25826",42678,"col","Oak Grove",-86.57,30.92,"USGS Loc. 9961 - Horse Creek [Oak Grove Sand]",NA,"",41,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.17,33.68,"109",18.205,"burdigalian",5566,-82.2202,29.321,9,1
-"25830",42682,"col","Oak Grove",-86.46,30.97,"USGS Loc. 7055 - Old Senterfeit Mill [Oak Grove Sand]",NA,"",22,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.05,33.71,"109",18.205,"burdigalian",5621,-82.2202,29.321,9,1
-"25832",42684,"col","Oak Grove",-86.46,30.97,"USGS Loc. 10659 - Tanners/Old Senterfeit Mill [Oak Grove Sand]",NA,"",23,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.05,33.71,"109",18.205,"burdigalian",5621,-82.2202,29.321,9,1
-"25833",42685,"col","Oak Grove",-86.52,30.87,"USGS Loc. 3749 - Senterfeit Mill [Oak Grove Sand]",NA,"",13,"Burdigalian","",20.44,15.97,11206,"gp_mid",-79.12,33.63,"109",18.205,"burdigalian",5622,-82.2202,29.321,9,1
-"25925",42823,"col","",1.31,36.51,"Lower Member (Cartennian Group), Tenes, Algeria - Anderson (1936)",NA,"",2,"Burdigalian","",20.44,15.97,11375,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",5664,-2.9791,35.6412,9,1
-"26141",43063,"col","Castillo",-70.05,10.37,"Cerro La Cruz (Castillo Formation), Lara",NA,"",34,"Burdigalian","",20.44,15.97,11413,"gp_mid",-64.5,10.96,"203",18.205,"burdigalian",5713,-69.3567,6.6596,9,1
-"27954",179694,"col","Chipola",-85.16,30.45,"TU 551 - 0.25 mile below mouth of Fourmile Creek, Chipola River",NA,"",3,"Burdigalian","",20.44,15.97,57818,"gp_mid",-77.78,33.09,"109",18.205,"burdigalian",6289,-82.2202,29.321,9,1
-"28099",45484,"col","Chilcatay",-75.39,-14.77,"Santa Rosa",NA,"SRA",6,"Burdigalian","",20.44,15.97,10150,"gp_mid",-70.8,-13.96,"201",18.205,"burdigalian",6337,-71.6969,-17.4508,9,1
-"28108",45493,"col","Calvert",-76.53,38.67,"Chesapeake Beach, south of, Zones 3-6",NA,"",12,"Burdigalian","",20.44,15.97,15347,"gp_mid",-67.88,40.53,"109",18.205,"burdigalian",6342,-70.5963,36.2672,9,1
-"28111",45496,"col","Vaqueros",-120.54,36.02,"Stone Canyon",NA,"",1,"Burdigalian","",20.44,15.97,11907,"gp_mid",-111.5,39.69,"130",18.205,"burdigalian",6345,-112.7967,32.8799,9,1
-"28127",45511,"col","Calvert",-76.56,38.74,"Fairhaven Cliffs, Zone 3b",NA,"",5,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.89,40.6,"109",18.205,"burdigalian",6357,-70.5963,36.2672,9,1
-"28465",45885,"col","Gaiman",-65.04,-42.78,"Puerto Madryn",NA,"Bahia Nueva",5,"Burdigalian","",20.44,15.97,12337,"gp_mid",-61.95,-42.33,"291",18.205,"burdigalian",6526,-59.7537,-44.8314,9,1
-"28466",45886,"col","Gaiman",-65.42,-43.3,"Bryn Gwyn",NA,"Loma Blanca",13,"Burdigalian","",20.44,15.97,12217,"gp_mid",-62.37,-42.83,"291",18.205,"burdigalian",6527,-59.7537,-44.8314,9,1
-"28823",46295,"col","",69.35,23.25,"Cheropadi Limestone, Bryazoa and associated",NA,"",7,"Burdigalian","",20.44,15.97,12340,"gp_mid",69.69,14.18,"501",18.205,"burdigalian",6662,62.8516,16.7246,9,1
-"28836",46308,"col","",69.03,23.1,"Vinjhan Limestone: Bryozoa and associated species",NA,"Bryozoa and associated species from a highly fossiliferous brown limestone outcropping east of Vinjhan, Kutch, Gujarat, India",11,"Burdigalian","",20.44,15.97,12340,"gp_mid",69.36,14.08,"501",18.205,"burdigalian",6669,62.8516,16.7246,9,1
-"28839",46311,"col","",69.33,23.25,"Naredi Yellow Marl: Bryozoa and associated species",NA,"Bryozoa and associated species of a yellow marl, 3/4 km. upstream from Naredi, Kutch, Gujarat, India",5,"Burdigalian","",20.44,15.97,12340,"gp_mid",69.67,14.19,"501",18.205,"burdigalian",6670,62.8516,16.7246,9,1
-"28895",46368,"col","Dam",49.46,26.36,"Jabal Lidam",NA,"",1,"Burdigalian","",20.44,15.97,12357,"gp_mid",48.33,19.16,"503",18.205,"burdigalian",6679,45.2769,22.6631,9,1
-"29370",46946,"col","",136.28,34.76,"Oyamada-mura",NA,"Iga City",2,"Burdigalian","",20.44,15.97,12471,"gp_mid",133.62,34.62,"610",18.205,"burdigalian",6929,132.2559,37.6724,9,1
-"30999",48642,"col","",21.41,49.73,"Felsöesztergály",NA,"",26,"Burdigalian","",20.44,15.97,12979,"gp_mid",23.09,46.07,"305",18.205,"burdigalian",7325,18.1102,48.9369,9,1
-"31141",48884,"col","Calvert",-76.51,38.6,"Plum Point, south, Zone 10",NA,"",35,"Burdigalian","",20.44,15.97,17219,"gp_mid",-67.87,40.46,"109",18.205,"burdigalian",7381,-70.5963,36.2672,9,1
-"31527",49396,"col","",14.74,36.91,"Tabuna",NA,"",5,"Burdigalian","",20.44,15.97,13196,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",7493,12.2309,34.8689,9,1
-"32043",50179,"col","Yaponskikh Kamney",165.5,60.22,"Marine Bivalvia of Yaponskikh Kamney Suite in northeastern Kamchatka",NA,"",14,"Burdigalian","",20.44,15.97,13418,"gp_mid",161.83,63.36,"485",18.205,"burdigalian",7657,164.3204,62.3094,9,1
-"32724",51109,"col","Nataki",132.05,34.34,"Hongo",NA,"",1,"Burdigalian","",20.44,15.97,13631,"gp_mid",129.45,33.96,"610",18.205,"burdigalian",7809,128.4299,37.2149,9,1
-"33030",51404,"col","Gippsland Limestone",148.4,-37.75,"Newmerella",NA,"Neumerella",5,"Burdigalian","",20.44,15.97,13672,"gp_mid",153.31,-46.51,"801",18.205,"burdigalian",7891,148.8743,-46.1817,9,1
-"33033",51407,"col","Mannum",139.6,-34.47,"Blanchetown",NA,"",2,"Burdigalian","",20.44,15.97,13672,"gp_mid",142.54,-44.42,"801",18.205,"burdigalian",7892,135.7524,-44.3494,9,1
-"35642",54170,"col","",-9.22,38.66,"Brielas",NA,"",1,"Burdigalian","",20.44,15.97,14646,"gp_mid",-6.55,35.97,"304",18.205,"burdigalian",8657,-10.2888,35.4603,9,1
-"35944",55530,"col","Marks Head",-81.36,32.57,"Porters Landing",NA,"",16,"Burdigalian","",20.44,15.97,14997,"gp_mid",-73.64,34.88,"109",18.205,"burdigalian",8768,-78.3394,31.6321,9,1
-"36988",56957,"col","Itahashi",133.01,34.87,"Monde-cho",NA,"",13,"Burdigalian","",20.44,15.97,15356,"gp_mid",130.36,34.54,"610",18.205,"burdigalian",8959,128.4299,37.2149,9,1
-"37769",57780,"col","",4.88,44.4,"Chamaret",NA,"Drome, Romans",3,"Burdigalian","",20.44,15.97,12784,"gp_mid",7.3,41.15,"305",18.205,"burdigalian",9112,0.2033,43.3325,9,1
-"37776",57786,"col","Calvert",-76.52,38.64,"Camp Roosevelt, Zone 4-6",NA,"",7,"Burdigalian","",20.44,15.97,15550,"gp_mid",-67.87,40.5,"109",18.205,"burdigalian",9117,-70.5963,36.2672,9,1
-"38569",58646,"col","Kendeace",-61.43,12.46,"NMB #10793, Bretache Point, Carriacou",NA,"",2,"Burdigalian","",20.44,15.97,16650,"gp_mid",-57.76,13.14,"234",18.205,"burdigalian",9327,-63.5909,10.2246,9,1
-"38985",59073,"col","Branch Canyon",-119.62,34.89,"Castro Canyon",NA,"USGS M1030",10,"Hemingfordian","",20.43,15.97,16802,"gp_mid",-111.39,37.92,"105",18.2,"burdigalian",9425,-112.7967,32.8799,9,1
-"39886",60144,"col","Cantaure",-69.84,11.9,"N.V.P. Blue No. 3892 - Cantaure Formation",NA,"",140,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"39922",60212,"col","",5.24,45.62,"Isle d'Abeau (MN 5)",NA,"",1,"Orleanian","",20,15.97,16853,"gp_mid",7.71,42.36,"305",17.985,"burdigalian",9625,0.2033,43.3325,9,1
-"39990",60283,"col","",-1.64,38.42,"Agramón (MN 4)",NA,"",7,"Orleanian","",20,15.97,16853,"gp_mid",0.72,35.41,"304",17.985,"burdigalian",9664,-2.9791,35.6412,9,1
-"40304",60627,"col","La Rosa",-71.03,10.46,"Hodson Loc. 6 [La Rosa Fm]",NA,"",38,"Burdigalian","",20.44,15.97,17421,"gp_mid",-65.47,11.1,"203",18.205,"burdigalian",9742,-69.3567,6.6596,9,1
-"40344",60668,"col","Agua Clara",-70.75,10.92,"Hodson Loc. 15 [Agua Clara Fm]",NA,"",4,"Burdigalian","",20.44,15.97,17421,"gp_mid",-65.18,11.54,"203",18.205,"burdigalian",9749,-69.3567,6.6596,9,1
-"40345",60669,"col","Agua Clara",-70.75,10.92,"Hodson Loc. 16 [Agua Clara Fm]",NA,"",3,"Burdigalian","",20.44,15.97,17421,"gp_mid",-65.18,11.54,"203",18.205,"burdigalian",9749,-69.3567,6.6596,9,1
-"40380",60703,"col","Cantaure",-69.84,11.9,"Re #1148 - Cantaure Formation",NA,"",44,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40381",60704,"col","Cantaure",-69.84,11.9,"Re #1150 - Cantaure Formation",NA,"",1,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40382",60705,"col","Cantaure",-69.84,11.9,"Re #1152 - Cantaure Formation",NA,"",17,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40383",60706,"col","Cantaure",-69.84,11.9,"Re #1153 - Cantaure Formation",NA,"",9,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40384",60707,"col","Cantaure",-69.84,11.9,"Re #1154 - Cantaure Formation",NA,"",25,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40385",60708,"col","Cantaure",-69.84,11.9,"Re #1155 - Cantaure Formation",NA,"",24,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40386",60709,"col","Cantaure",-69.84,11.9,"Re #1193 - Cantaure Formation",NA,"",12,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40387",60710,"col","Cantaure",-69.84,11.9,"Re #1199 - Cantaure Formation",NA,"",39,"Burdigalian","",20.44,15.97,17318,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",9619,-70.8445,9.221,9,1
-"40522",60848,"col","Calvert",-76.69,38.72,"Patuxent River - end of Landing Road, above Nottingham",NA,"USGS Locality 26394",1,"Burdigalian","",20.44,15.97,17420,"gp_mid",-68.03,40.59,"109",18.205,"burdigalian",9785,-70.5963,36.2672,9,1
-"40813",61176,"col","Agua Clara",-70.67,11.02,"Hodson Loc. 1979 [Agua Clara Fm]",NA,"",2,"Burdigalian","",20.44,15.97,17421,"gp_mid",-65.1,11.64,"203",18.205,"burdigalian",9858,-69.3567,6.6596,9,1
-"43517",65283,"col","",3.05,39.73,"Muro",NA,"",1,"Burdigalian","",20.44,15.97,18839,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",10544,0.5683,38.242,9,1
-"43687",65506,"col","",-9.33,38.68,"Praia de Carcavelos",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.66,35.99,"304",18.45,"burdigalian",10583,-10.2888,35.4603,9,1
-"44057",65950,"col","",-9.19,38.47,"Penedo Sul",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.55,35.77,"304",18.45,"burdigalian",10642,-10.2888,35.4603,9,1
-"44058",65951,"col","",-9.2,38.46,"Foz da Fonte",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.55,35.76,"304",18.45,"burdigalian",10643,-10.2888,35.4603,9,1
-"44312",66288,"col","",4.79,44.33,"Saint-Restitut",NA,"",48,"Burdigalian","",20.44,15.97,18970,"gp_mid",7.21,41.08,"305",18.205,"burdigalian",10715,0.2033,43.3325,9,1
-"46320",68971,"col","Chipola",-84.99,30.47,"AMNH Loc. 1057 - Alum Bluff [Chipola Fm]",NA,"",32,"Burdigalian","",20.44,15.97,19909,"gp_mid",-77.6,33.1,"109",18.205,"burdigalian",11263,-82.2202,29.321,9,1
-"46321",68972,"col","Chipola",-84.99,30.47,"UC bulk sample, replicate A - Alum Bluff [Chipola Fm]",NA,"",0,"Burdigalian","",20.44,15.97,19909,"gp_mid",-77.6,33.1,"109",18.205,"burdigalian",11263,-82.2202,29.321,9,1
-"46367",69019,"col","Chipola",-85.19,30.44,"YPM bulk sample - Clarksville [Chipola Fm]",NA,"YPM-3; Acc.# 7354",0,"Burdigalian","",20.44,15.97,19909,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"46552",69303,"col","",27.42,38.62,"Sabuncubeli",NA,"",18,"MN 3","",20,16.9,19973,"gp_mid",28.49,34.89,"504",18.45,"burdigalian",11355,23.2298,34.1082,9,1
-"47304",70590,"col","Calvert",-76.51,38.63,"Plum Point, north, Zone 5",NA,"",1,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.86,40.48,"109",18.205,"burdigalian",11575,-70.5963,36.2672,9,1
-"47305",70591,"col","Calvert",-76.69,38.75,"Lyons Creek, Zone 2",NA,"",13,"Burdigalian","",20.44,15.97,23697,"gp_mid",-68.02,40.62,"109",18.205,"burdigalian",11576,-70.4098,38.7628,9,1
-"47306",70592,"col","Calvert",-76.69,38.75,"Lyons Creek, Zone 3",NA,"",0,"Burdigalian","",20.44,15.97,23697,"gp_mid",-68.02,40.62,"109",18.205,"burdigalian",11576,-70.4098,38.7628,9,1
-"47307",70593,"col","Calvert",-76.53,38.67,"Chesapeake Beach, south of, Zone 4-9",NA,"Randle Cliff Beach, north",16,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.88,40.53,"109",18.205,"burdigalian",6342,-70.5963,36.2672,9,1
-"47503",70814,"col","Bolognano",14.04,42.24,"Montagna della Maiella",NA,"Lettomanoppello",27,"Burdigalian","",20.44,15.97,23748,"gp_mid",16.41,37.77,"307",18.205,"burdigalian",11600,13.0095,39.813,9,1
-"47504",70815,"col","Calvert",-76.52,38.61,"Plum Point, Zone 6",NA,"",1,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.87,40.47,"109",18.205,"burdigalian",11601,-70.5963,36.2672,9,1
-"47505",70816,"col","Calvert",-76.52,38.61,"Plum Point, Zone 8",NA,"",0,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.87,40.47,"109",18.205,"burdigalian",11601,-70.5963,36.2672,9,1
-"47506",70817,"col","Calvert",-76.52,38.61,"Plum Point, Zone 9",NA,"",1,"Burdigalian","",20.44,15.97,23697,"gp_mid",-67.87,40.47,"109",18.205,"burdigalian",11601,-70.5963,36.2672,9,1
-"48194",71796,"col","Calvert",-76.52,38.64,"Camp Roosevelt, Zone 10",NA,"",3,"Burdigalian","",20.44,15.97,24251,"gp_mid",-67.87,40.5,"109",18.205,"burdigalian",9117,-70.5963,36.2672,9,1
-"48313",71924,"col","Calvert",-76.67,38.61,"Holland Cliff, Zone 10",NA,"Holland Cliffs",1,"Burdigalian","",20.44,15.97,24251,"gp_mid",-68.03,40.47,"109",18.205,"burdigalian",11835,-70.5963,36.2672,9,1
-"48579",72301,"col","",12.17,-5.3,"N'Tumbo Matumba, Cabinda",NA,"",1,"Burdigalian","",20.44,15.97,24513,"gp_mid",11.74,-9.63,"701",18.205,"burdigalian",11918,8.5801,-7.6347,9,1
-"49112",73801,"col","",12.13,-15.45,"Guilengues, Namibe",NA,"",1,"Burdigalian","",20.44,15.97,24734,"gp_mid",11.09,-19.76,"701",18.205,"burdigalian",12059,8.5746,-17.6347,9,1
-"49863",74807,"col","Turgut",28,37,"Turgut Fm (upper)",NA,"",6,"Burdigalian","",20.44,15.97,25210,"gp_mid",29.02,33.26,"504",18.205,"burdigalian",12209,23.2298,34.1082,9,1
-"49947",74962,"col","Baitoa",-70.7,19.17,"TU 1226, Río Yaque del Norte",NA,"",56,"Burdigalian","",20.44,15.97,19909,"gp_mid",-66.54,20.49,"252",18.205,"burdigalian",12245,-70.9139,18.5857,9,1
-"50533",75945,"col","Oakville",-95.22,30.75,"UTBEG 31190 (USNM Collection)",NA,"",13,"Hemingfordian","",20.43,15.97,6239,"gp_mid",-88.1,34.18,"101",18.2,"burdigalian",12436,-89.6709,29.6989,9,1
-"50594",76044,"col","Yoshino",133.97,35.06,"Tsuyama",NA,"",2,"Burdigalian","",20.44,15.97,12148,"gp_mid",131.3,34.79,"610",18.205,"burdigalian",12466,132.2559,37.6724,9,1
-"50671",76317,"col","Chhasra",68.82,23.36,"Chhasra Fm",NA,"",7,"Burdigalian","",20.44,15.97,25852,"gp_mid",69.2,14.36,"501",18.205,"burdigalian",12509,62.8516,16.7246,9,1
-"50773",76635,"col","Chilcatay",-75.67,-14.2,"Chilcatay Fm",NA,"",14,"Burdigalian","",20.44,15.97,27101,"gp_mid",-71.06,-13.37,"201",18.205,"burdigalian",12550,-71.6969,-17.4508,9,1
-"51199",77475,"col","Jaffna Limestone",80,9.82,"Keerimalai [Jaffna Limestone]",NA,"",19,"Burdigalian","",20.44,15.97,26213,"gp_mid",78.28,-0.36,"502",18.205,"burdigalian",12669,73.0992,3.6457,9,1
-"51200",77476,"col","Jaffna Limestone",79.88,8.35,"Pomparippu [Jaffna Limestone]",NA,"",1,"Burdigalian","",20.44,15.97,26213,"gp_mid",78.02,-1.81,"502",18.205,"burdigalian",12670,72.9888,1.1482,9,1
-"51202",77478,"col","Jaffna Limestone",80.03,9.82,"Kankesanthurai [Jaffna Limestone]",NA,"",3,"Burdigalian","",20.44,15.97,26213,"gp_mid",78.32,-0.37,"502",18.205,"burdigalian",12672,73.0992,3.6457,9,1
-"51802",78525,"col","Ipún Beds",-74.76,-44.61,"Loc. 5 - Isla Ipún",NA,"",31,"Burdigalian","",20.44,15.97,26399,"gp_mid",-71.69,-43.78,"291",18.205,"burdigalian",12865,-71.4305,-47.45,9,1
-"51817",78540,"col","Uçarsu",39.9,40.66,"Bozgeiktepe - sandy facies [Uçarsu Formation]",NA,"",4,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51818",78541,"col","Uçarsu",39.9,40.66,"Bozgeiktepe - sandy limestone facies [Uçarsu Fm]",NA,"",2,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51819",78542,"col","Uçarsu",39.9,40.66,"Uçarsu - sandy facies [Uçarsu Fm]",NA,"",1,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51820",78543,"col","Uçarsu",39.9,40.66,"Uçarsu - mudstone facies [Uçarsu Fm]",NA,"",5,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51821",78544,"col","Uçarsu",39.9,40.66,"Akçasupinan - concretionary limestone facies [Uçarsu Fm]",NA,"",6,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51822",78545,"col","Uçarsu",39.9,40.66,"Uçarsu - concretionary limestone facies [Uçarsu Fm]",NA,"",1,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51823",78546,"col","Uçarsu",39.9,40.66,"Siradona - concretionary limestone facies [Uçarsu Fm]",NA,"",1,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"51824",78547,"col","Uçarsu",39.9,40.66,"Siradona - mudstone facies [Uçarsu Fm]",NA,"",3,"Burdigalian","",20.44,15.97,25058,"gp_mid",40.36,36.9,"511",18.205,"burdigalian",12866,37.2562,39.368,9,1
-"52696",80282,"col","Akeyo",135.43,34.45,"Anabora",NA,"Kawai, Izumi-cho, MFM 40, Nanmagari, Jyorinji, Kujiri",1,"Burdigalian","",20.44,15.97,26994,"gp_mid",132.79,34.27,"610",18.205,"burdigalian",13132,132.2559,37.6724,9,1
-"52705",80298,"col","Río Banana",-83.59,9.99,"USGS Loc. 23733, Río Reventazón",NA,"",1,"Burdigalian","",20.44,15.97,27002,"gp_mid",-80.3,12.45,"204",18.205,"burdigalian",13134,-85.9626,9.3639,9,1
-"52743",80412,"col","Chilcatay",-75.64,-14.58,"LACMIP 17783 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27056,"gp_mid",-71.04,-13.75,"201",18.205,"burdigalian",13154,-71.6969,-17.4508,9,1
-"52772",80449,"col","Chilcatay",-75.64,-14.59,"DV 1608-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.04,-13.76,"201",18.205,"burdigalian",13161,-71.6969,-17.4508,9,1
-"52773",80450,"col","Chilcatay",-75.63,-14.66,"DV 544-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.03,-13.84,"201",18.205,"burdigalian",13162,-71.6969,-17.4508,9,1
-"52774",80451,"col","Chilcatay",-75.69,-14.67,"DV 590-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.09,-13.84,"201",18.205,"burdigalian",13163,-71.6969,-17.4508,9,1
-"52775",80452,"col","Chilcatay",-76.23,-13.99,"DV 775-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.6,-13.14,"201",18.205,"burdigalian",13164,-71.6969,-17.4508,9,1
-"52776",80453,"col","Chilcatay",-76.23,-14,"DV 841-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.6,-13.15,"201",18.205,"burdigalian",13165,-71.6969,-17.4508,9,1
-"52777",80454,"col","Chilcatay",-76.19,-14.1,"DV 1403-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.56,-13.25,"201",18.205,"burdigalian",13166,-71.6969,-17.4508,9,1
-"52787",80463,"col","Chilcatay",-75.64,-14.58,"DV 1611-1 [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.04,-13.75,"201",18.205,"burdigalian",13154,-71.6969,-17.4508,9,1
-"52788",80464,"col","Chilcatay",-75.64,-14.58,"DV 1648-1 [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.04,-13.75,"201",18.205,"burdigalian",13154,-71.6969,-17.4508,9,1
-"52789",80465,"col","Chilcatay",-75.82,-14.43,"DV 1320-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.22,-13.6,"201",18.205,"burdigalian",13174,-71.6969,-17.4508,9,1
-"52791",80467,"col","Chilcatay",-76.12,-14.18,"DV 631-12 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.5,-13.34,"201",18.205,"burdigalian",13175,-71.6969,-17.4508,9,1
-"52792",80468,"col","Chilcatay",-74.98,-15.03,"DV 638-1 [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,27057,"gp_mid",-70.4,-14.23,"201",18.205,"burdigalian",13176,-71.6969,-17.4508,9,1
-"52795",80478,"col","Chilcatay",-75.67,-14.59,"DV 542-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.07,-13.76,"201",18.205,"burdigalian",13178,-71.6969,-17.4508,9,1
-"52798",80482,"col","Chilcatay",-76.23,-14,"DV 1131-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27057,"gp_mid",-71.6,-13.15,"201",18.205,"burdigalian",13165,-71.6969,-17.4508,9,1
-"52799",80483,"col","Chilcatay",-75,-15,"DV 578-12 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27061,"gp_mid",-70.42,-14.2,"201",18.205,"burdigalian",13179,-71.6969,-17.4508,9,1
-"52818",80504,"col","Chilcatay",-76.12,-14.2,"DV 478-2 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27066,"gp_mid",-71.5,-13.35,"201",18.205,"burdigalian",13186,-71.6969,-17.4508,9,1
-"52819",80505,"col","Chilcatay",-75.51,-14.75,"DV 574-2 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27066,"gp_mid",-70.92,-13.93,"201",18.205,"burdigalian",13187,-71.6969,-17.4508,9,1
-"52837",80523,"col","Chilcatay",-76.12,-14.2,"DV 396-14 [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,27041,"gp_mid",-71.5,-13.35,"201",18.205,"burdigalian",13186,-71.6969,-17.4508,9,1
-"52854",80540,"col","Chilcatay",-76.12,-14.2,"DV 478-1 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27078,"gp_mid",-71.5,-13.35,"201",18.205,"burdigalian",13186,-71.6969,-17.4508,9,1
-"52861",80548,"col","Chilcatay",-76.12,-14.2,"DV 396-1, DV 478-3 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27082,"gp_mid",-71.5,-13.35,"201",18.205,"burdigalian",13186,-71.6969,-17.4508,9,1
-"52862",80549,"col","Chilcatay",-75.51,-14.76,"DV 575-3 [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,27082,"gp_mid",-70.92,-13.94,"201",18.205,"burdigalian",13202,-71.6969,-17.4508,9,1
-"55981",85260,"col","",4.98,44.44,"Taulignan",NA,"Midi",1,"Burdigalian","",20.44,15.97,33877,"gp_mid",7.4,41.19,"305",18.205,"burdigalian",14323,0.2033,43.3325,9,1
-"58606",88799,"col","",5.57,43.9,"Plateau des Courennes",NA,"",2,"Burdigalian","",20.44,15.97,29773,"gp_mid",7.92,40.63,"305",18.205,"burdigalian",15223,0.2033,43.3325,9,1
-"58889",89187,"col","Chilcatay",-74.97,-14.99,"DV 471-1, Cerro Poroma",NA,"",1,"Burdigalian","",20.44,15.97,29919,"gp_mid",-70.39,-14.19,"201",18.205,"burdigalian",15318,-71.6969,-17.4508,9,1
-"58890",89188,"col","Chilcatay",-74.99,-15,"DV 611a-1, Cerro Poroma",NA,"",1,"Burdigalian","",20.44,15.97,29919,"gp_mid",-70.41,-14.2,"201",18.205,"burdigalian",15319,-71.6969,-17.4508,9,1
-"58933",89240,"col","Chipola",-85.16,30.46,"Farley Creek [Chipola Fm]",NA,"FLMNH Loc. CA022",4,"Burdigalian","",20.44,15.97,29933,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"59039",89448,"col","Calvert",-76.79,37.97,"US 360 at Pamunkey River",NA,"",1,"Burdigalian","",20.44,15.97,29991,"gp_mid",-68.24,39.85,"109",18.205,"burdigalian",15373,-70.5963,36.2672,9,1
-"59090",89574,"col","Chipola",-85.19,30.44,"TU 951 - Tenmile Creek",NA,"",51,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"59091",89575,"col","Chipola",-85.19,30.44,"TU 546 - Tenmile Creek",NA,"",59,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"59092",89576,"col","Chipola",-85.19,30.44,"TU 547 - Fourmile Creek",NA,"",60,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"60195",91507,"col","",142.35,45.14,"Fujita coal mine",NA,"",1,"Burdigalian","",20.44,15.97,30804,"gp_mid",138.66,45.32,"609",18.205,"burdigalian",15826,140.7984,47.3654,9,1
-"60220",91536,"col","Chipola",-85.16,30.46,"TU 999 - Farley Creek",NA,"",31,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"60261",91579,"col","Oi",136.38,34.73,"Misato",NA,"",2,"Burdigalian","",20.44,15.97,30864,"gp_mid",133.72,34.6,"610",18.205,"burdigalian",15838,132.2559,37.6724,9,1
-"60761",92101,"col","",-9.2,38.67,"Porto Brandao",NA,"",3,"Burdigalian","",20.44,15.97,31005,"gp_mid",-6.54,35.97,"304",18.205,"burdigalian",15990,-10.2888,35.4603,9,1
-"61010",92379,"col","Chipola",-85.19,30.44,"TU 830 - Tenmile Creek",NA,"",55,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61073",92457,"col","Chipola",-85.19,30.44,"TU 457 - Tenmile Creek",NA,"",41,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61074",92458,"col","Chipola",-85.16,30.46,"TU 458 - Farley Creek",NA,"",54,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61075",92459,"col","Chipola",-85.17,30.26,"TU 548 - Chipola River [Chipola Fm]",NA,"",31,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61076",92460,"col","Chipola",-85.16,30.45,"TU 555 - Fourmile Creek [Chipola Fm]",NA,"",50,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.09,"109",18.205,"burdigalian",6289,-82.2202,29.321,9,1
-"61077",92461,"col","Chipola",-85.16,30.46,"TU 821 - Farley Creek",NA,"",35,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61100",92501,"col","Chipola",-85.19,30.44,"TU 456 - Tenmile Creek [Chipola Fm]",NA,"",19,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61101",92502,"col","Chipola",-85.19,30.44,"TU 196 - Tenmile Creek",NA,"",24,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61102",92503,"col","Chipola",-85.19,30.44,"TU 70 - Tenmile Creek [Chipola Fm]",NA,"",31,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61103",92504,"col","Chipola",-85.16,30.45,"TU 549 - Fourmile Creek [Chipola Fm]",NA,"",9,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.09,"109",18.205,"burdigalian",6289,-82.2202,29.321,9,1
-"61104",92505,"col","Chipola",-85.17,30.26,"TU 554 - Chipola River",NA,"",47,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61105",92506,"col","Oak Grove",-85.17,30.26,"TU 91 - Oak Grove [Oak Grove Sand]",NA,"",12,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61110",92512,"col","Chipola",-84.99,30.47,"TU 453 - Alum Bluff [Chipola Fm]",NA,"",5,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.6,33.1,"109",18.205,"burdigalian",11263,-82.2202,29.321,9,1
-"61111",92513,"col","Chipola",-85.19,30.44,"TU 655 - Tenmile Creek [Chipola Fm]",NA,"",30,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61121",92541,"col","Chipola",-85.19,30.44,"TU 708 - Tenmile Creek [Chipola Fm]",NA,"",6,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61122",92542,"col","Chipola",-85.19,30.44,"TU 709 - Tenmile Creek [Chipola Fm]",NA,"",8,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61123",92543,"col","Chipola",-85.19,30.44,"TU 710 - Tenmile Creek [Chipola Fm]",NA,"",6,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61124",92544,"col","Chipola",-85.19,30.44,"TU 787 - Tenmile Creek [Chipola Fm]",NA,"",14,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61125",92545,"col","Chipola",-85.17,30.48,"TU 810 - Taylor Branch [Chipola Fm]",NA,"",9,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.13,"109",18.205,"burdigalian",16128,-82.2202,29.321,9,1
-"61126",92546,"col","Chipola",-85.19,30.44,"TU 817 - Tenmile Creek [Chipola Fm]",NA,"",21,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61127",92547,"col","Chipola",-85.19,30.44,"TU 831 - Tenmile Creek [Chipola Fm]",NA,"",9,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61128",92548,"col","Chipola",-85.19,30.44,"TU 998 - Tenmile Creek [Chipola Fm]",NA,"",35,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61129",92549,"col","Chipola",-85.16,30.46,"TU 818 - Farley Creek",NA,"",22,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61130",92550,"col","Chipola",-85.16,30.46,"TU 820b - Farley Creek",NA,"",38,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61131",92551,"col","Chipola",-85.16,30.46,"TU 825 - Farley Creek",NA,"",44,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61132",92552,"col","Chipola",-85.16,30.46,"TU 827 - Farley Creek [Chipola Fm]",NA,"",22,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61133",92553,"col","Chipola",-85.16,30.46,"TU 828 - Farley Creek",NA,"",14,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61134",92554,"col","Chipola",-85.16,30.46,"TU 950 - Farley Creek",NA,"",31,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61135",92555,"col","Chipola",-85.17,30.26,"TU 806 - Chipola River [Chipola Fm]",NA,"",9,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61136",92556,"col","Chipola",-85.17,30.48,"TU 459 - Taylor Branch",NA,"",51,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.13,"109",18.205,"burdigalian",16128,-82.2202,29.321,9,1
-"61137",92557,"col","Chipola",-85.16,30.46,"TU 711 - Farley Creek [Chipola Fm]",NA,"",6,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61138",92558,"col","Chipola",-85.16,30.46,"TU 826 - Farley Creek [Chipola Fm]",NA,"",20,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61139",92559,"col","Chipola",-85.17,30.26,"TU 1019 - Chipola River [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61140",92560,"col","Chipola",-85.17,30.26,"TU 1020 - Chipola River [Chipola Fm]",NA,"",12,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61141",92561,"col","Chipola",-85.19,30.44,"TU 1021 - Tenmile Creek [Chipola Fm]",NA,"",10,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61142",92562,"col","Chipola",-85.16,30.46,"TU 1048 - Farley Creek",NA,"",10,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61143",92563,"col","Chipola",-85.16,30.46,"TU 1049 - Farley Creek",NA,"",6,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61144",92564,"col","Chipola",-85.17,30.26,"TU 1050 - Chipola River",NA,"",19,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61145",92565,"col","Chipola",-85.19,30.44,"TU 550 - 1.25 mile below mouth of Tenmile Creek, Chipola River",NA,"",4,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61146",92566,"col","Chipola",-85.17,30.26,"TU 807 - Chipola River [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,32.9,"109",18.205,"burdigalian",16115,-82.2202,29.321,9,1
-"61147",92567,"col","Chipola",-85.16,30.46,"TU 823 - Farley Creek [Chipola Fm]",NA,"",11,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61148",92568,"col","Chipola",-85.16,30.46,"TU 824 - Farley Creek [Chipola Fm]",NA,"",12,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"61149",92569,"col","Chipola",-85.19,30.44,"TU 1098 - Tenmile Creek [Chipola Fm]",NA,"",10,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61236",92696,"col","Chipola",-85.19,30.44,"TU 786 - Tenmile Creek [Chipola Fm]",NA,"",5,"Burdigalian","",20.44,15.97,31182,"gp_mid",-77.81,33.08,"109",18.205,"burdigalian",5359,-82.2202,29.321,9,1
-"61678",93369,"col","Cipero Marl",-61.38,10.27,"""Lothinas Limestone"", quarry near Broomage [St Croix Limestone Mbr, Cipero Marl]",NA,"",14,"Burdigalian","",20.44,15.97,31588,"gp_mid",-55.83,10.53,"201",18.205,"burdigalian",16302,-56.9478,7.7201,9,1
-"62004",93771,"col","Misawa",135,34,"Kusebara",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",132.41,33.79,"610",18.205,"burdigalian",16422,132.2559,37.6724,9,1
-"62005",93783,"col","Honya",140.9,37.05,"Taira-Yagawase",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",138.03,37.16,"610",18.205,"burdigalian",16423,140.9599,40.3954,9,1
-"62008",93774,"col","Baitoa",-70.7,19.35,"NMB Loc. 17284 - Rio Yaque del Norte [Baitoa Fm]",NA,"",16,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"62011",93784,"col","Yoka",134.82,35.54,"Takeno",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",132.1,35.32,"610",18.205,"burdigalian",16428,132.2559,37.6724,9,1
-"62012",93785,"col","Yoshinoya",140.93,37.03,"Taira-Kamitakaku",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",138.06,37.15,"610",18.205,"burdigalian",16429,140.9599,40.3954,9,1
-"62013",93786,"col","Sauramachi",140.98,38.33,"Sauramachi",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",137.99,38.45,"610",18.205,"burdigalian",16430,140.9599,40.3954,9,1
-"62014",93787,"col","Tsukinoki",140.78,38.06,"Funaoka",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",137.82,38.17,"610",18.205,"burdigalian",16431,140.9599,40.3954,9,1
-"62015",93788,"col","Kurosedani",137.2,36.7,"Kasuga",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.37,36.6,"610",18.205,"burdigalian",16432,135.6344,40.5926,9,1
-"62016",93789,"col","Kurosedani",137.33,36.6,"Tochizu",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.51,36.52,"610",18.205,"burdigalian",16433,135.6344,40.5926,9,1
-"62054",93875,"col","Kurosedani",137.2,36.7,"Suwara",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.37,36.6,"610",18.205,"burdigalian",16432,135.6344,40.5926,9,1
-"62055",93876,"col","Kurosedani",137.14,36.65,"Yatsuomachi",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.31,36.55,"610",18.205,"burdigalian",16439,135.6344,40.5926,9,1
-"62056",93877,"col","Taniguchi",136.99,36.86,"Harinoki",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.14,36.75,"610",18.205,"burdigalian",16440,135.6344,40.5926,9,1
-"62057",93878,"col","Anamizu",136.9,37.39,"Mii",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.01,37.28,"610",18.205,"burdigalian",16441,135.6344,40.5926,9,1
-"62058",93879,"col","",129.55,33.37,"Himosash",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",127.05,32.85,"610",18.205,"burdigalian",16442,128.8873,34.7425,9,1
-"62059",93880,"col","",140.41,36.54,"Kitashioko",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",137.58,36.63,"610",18.205,"burdigalian",16443,135.6344,40.5926,9,1
-"62060",93881,"col","Asawaka",140.39,36.5,"Shimoanosawa",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",137.56,36.59,"610",18.205,"burdigalian",16444,135.6344,40.5926,9,1
-"62113",93936,"col","",8.65,40.83,"Porto Torres Basin OG 7",NA,"",6,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16449,4.1217,38.4468,9,1
-"62114",93937,"col","",8.62,40.82,"Porto Torres Basin OG 5",NA,"",13,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62115",93938,"col","",8.62,40.82,"Porto Torres Basin OG 6",NA,"",16,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62116",93939,"col","",8.62,40.82,"Porto Torres Basin OG 1",NA,"",17,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62117",93940,"col","",8.62,40.82,"Porto Torres Basin OG 2",NA,"",12,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62118",93941,"col","",8.62,40.82,"Porto Torres Basin OG 3",NA,"",15,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62119",93942,"col","",8.62,40.82,"Porto Torres Basin OG 4",NA,"",17,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16450,4.1217,38.4468,9,1
-"62120",93943,"col","",8.58,40.78,"Porto Torres Basin VT 1",NA,"",35,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16451,4.1217,38.4468,9,1
-"62121",93944,"col","",8.58,40.78,"Porto Torres Basin VT 2",NA,"",41,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16451,4.1217,38.4468,9,1
-"62122",93945,"col","",8.58,40.78,"Porto Torres Basin VT 3",NA,"",19,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16451,4.1217,38.4468,9,1
-"62123",93946,"col","",8.58,40.78,"Porto Torres Basin VT 4",NA,"",3,"Burdigalian","",20.44,15.97,31935,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",16451,4.1217,38.4468,9,1
-"62302",94143,"col","Baitoa",-70.7,19.35,"NMB Loc. 17283 - Río Yaque del Norte [Baitoa Fm]",NA,"",14,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"64204",96434,"col","Cantaure",-69.85,11.9,"Cantaure Formation (unspecified localities)",NA,"",64,"Burdigalian","",20.44,15.97,32732,"gp_mid",-64.23,12.48,"203",18.205,"burdigalian",17032,-70.8445,9.221,9,1
-"67199",100330,"col","Chilcatay",-75.63,-14.62,"Zamaca",NA,"",27,"Burdigalian","",20.44,15.97,34442,"gp_mid",-71.03,-13.79,"201",18.205,"burdigalian",18055,-71.6969,-17.4508,9,1
-"75419",111230,"col","Chasra",69.05,23.09,"KW - Kankawati River, Vinjhan [Chasra Fm]",NA,"",30,"Burdigalian","",20.44,15.97,36478,"gp_mid",69.38,14.07,"501",18.205,"burdigalian",21151,62.8516,16.7246,9,1
-"75420",111231,"col","Chasra",69.03,23.09,"VJ - Kankawati River, Vinjhan [Chasra Fm]",NA,"",3,"Burdigalian","",20.44,15.97,36478,"gp_mid",69.36,14.07,"501",18.205,"burdigalian",21152,62.8516,16.7246,9,1
-"76997",113249,"col","Chilcatay",-75.66,-14.59,"M-8a, Cerro Buque [Chilcatay Fm]",NA,"",2,"Burdigalian","",20.44,15.97,36761,"gp_mid",-71.06,-13.76,"201",18.205,"burdigalian",21573,-71.6969,-17.4508,9,1
-"76998",113250,"col","Chilcatay",-75.66,-14.59,"M-2, Cerro Buque [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,36761,"gp_mid",-71.06,-13.76,"201",18.205,"burdigalian",21573,-71.6969,-17.4508,9,1
-"76999",113251,"col","Chilcatay",-75.66,-14.59,"M-20a, Cerro Buque [Chilcatay Fm]",NA,"",1,"Burdigalian","",20.44,15.97,36761,"gp_mid",-71.06,-13.76,"201",18.205,"burdigalian",21573,-71.6969,-17.4508,9,1
-"77357",113705,"col","",137.6,45.87,"Kudia River",NA,"",32,"Burdigalian","",20.44,15.97,42176,"gp_mid",134.36,46.48,"628",18.205,"burdigalian",21710,136.8237,47.4686,9,1
-"77722",114102,"col","",1.72,36.43,"Beni bou Mileuk",NA,"",13,"Burdigalian","",20.44,15.97,37013,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",21840,-2.9791,35.6412,9,1
-"78276",114719,"col","Shale of Chateau Saint-Martin",3.76,43.58,"Pignan",NA,"",1,"Burdigalian","",20.44,15.97,37188,"gp_mid",6.19,40.36,"305",18.205,"burdigalian",21972,0.4466,40.7402,9,1
-"79373",116625,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, a3 Burdigalian",NA,"",37,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.5,36.82,"402",18.205,"burdigalian",22248,44.8395,39.9827,9,1
-"79374",116626,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, unit b Burdigalian",NA,"",2,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.5,36.82,"402",18.205,"burdigalian",22248,44.8395,39.9827,9,1
-"79375",116627,"col","",49.53,40.5,"Sumgait River, Gobustan, Maikop Group, unit c Burdigalian",NA,"",5,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.5,36.82,"402",18.205,"burdigalian",22248,44.8395,39.9827,9,1
-"79377",116629,"col","",49.53,40.5,"Sumgait River, Gobustan, member 11 Burdigalian",NA,"",45,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.5,36.82,"402",18.205,"burdigalian",22248,44.8395,39.9827,9,1
-"79382",116634,"col","",49.47,40.51,"Mount Islamdag, Eastern Slope, Maikop Group, member 5, Burdigalian",NA,"",1,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.45,36.83,"402",18.205,"burdigalian",22252,44.8395,39.9827,9,1
-"79383",116635,"col","",49.47,40.51,"Mount Islamdag, Eastern Slope, Maikop Group, member 6-8, Burdigalian",NA,"",17,"Burdigalian","",20.44,15.97,37562,"gp_mid",49.45,36.83,"402",18.205,"burdigalian",22252,44.8395,39.9827,9,1
-"80964",118405,"col","",14.27,36.05,"Gozo, Burdigalian",NA,"",2,"Burdigalian","",20.44,15.97,38149,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",22654,12.2399,32.3689,9,1
-"84042",121994,"col","Globigerina Limestone",14.33,35.9,"Bahrija",NA,"It-Roz",2,"Burdigalian","",20.44,15.97,38808,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",23493,12.2399,32.3689,9,1
-"84046",121998,"col","Globigerina Limestone",14.21,36.03,"Ras il-Bajda",NA,"",1,"Burdigalian","",20.44,15.97,38808,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",23495,12.2399,32.3689,9,1
-"84077",122037,"col","Globigerina Limestone",14.27,36.02,"Mgarr ix-Xini",NA,"",1,"Burdigalian","",20.44,15.97,38808,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",23505,12.2399,32.3689,9,1
-"85130",123552,"col","Chipola",-85.15,30.45,"CH8 - Farley Creek [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.77,33.09,"109",18.205,"burdigalian",23841,-82.2202,29.321,9,1
-"85131",123553,"col","Chipola",-85.15,30.43,"CH5 - Chipola River [Chipola Fm]",NA,"",5,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.77,33.07,"109",18.205,"burdigalian",23842,-82.2202,29.321,9,1
-"85133",123555,"col","Chipola",-85.18,30.48,"CH3 - Tenmile Creek [Chipola Fm]",NA,"",5,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.8,33.13,"109",18.205,"burdigalian",23843,-82.2202,29.321,9,1
-"85140",123562,"col","Chipola",-85.15,30.48,"CH4 - Chipola River [Chipola Fm]",NA,"",2,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.77,33.12,"109",18.205,"burdigalian",23844,-82.2202,29.321,9,1
-"85141",123563,"col","Chipola",-85.15,30.45,"CH7 - Farley Creek [Chipola Fm]",NA,"",1,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.77,33.09,"109",18.205,"burdigalian",23841,-82.2202,29.321,9,1
-"85142",123564,"col","Chipola",-85.15,30.48,"FLX [Chipola Fm]",NA,"",8,"Burdigalian","",20.44,15.97,39743,"gp_mid",-77.77,33.12,"109",18.205,"burdigalian",23844,-82.2202,29.321,9,1
-"85519",156724,"col","Jimol",-71.36,11.94,"STRI Loc. 290684 - W of Paraguachon [upper Jimol Fm]",NA,"STRI Sample 37853",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"86241",124919,"col","Chilcatay",-75.64,-14.57,"Ullujaya",NA,"",9,"Burdigalian","",20.44,15.97,52751,"gp_mid",-71.04,-13.75,"201",18.205,"burdigalian",24182,-71.6969,-17.4508,9,1
-"87016",125987,"col","Granatovoya",137.6,45.87,"Prava Granatnaya (Kud'ya) river (PIN collection 3072)",NA,"",1,"Burdigalian","",20.44,15.97,40938,"gp_mid",134.36,46.48,"628",18.205,"burdigalian",21710,136.8237,47.4686,9,1
-"90884",131503,"col","Baitoa",-70.7,19.35,"NMB Loc. 17286 - Río Yaque del Norte [Baitoa Fm]",NA,"PJ# 1731",9,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"90906",131524,"col","Baitoa",-70.7,19.35,"NMB Loc. 17280 - Rio Yaque del Norte [Baitoa Fm]",NA,"PJ# 1725",4,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"90908",131526,"col","Baitoa",-70.7,19.35,"NMB Loc. 17282 - Rio Yaque del Norte [Baitoa Fm]",NA,"PJ# 1727",8,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"90909",131527,"col","Baitoa",-70.7,19.35,"NMB Loc. 16945 - Rio Yaque del Norte [Baitoa Fm]",NA,"PJ# 1699",2,"Burdigalian","",20.44,15.97,25313,"gp_mid",-66.52,20.67,"252",18.205,"burdigalian",16425,-70.9139,18.5857,9,1
-"94988",136881,"col","Castilletes",-71.32,11.95,"STRI Loc. 290455 [bulk] - Puerto Lopez [lower Castilletes Fm]",NA,"STRI Sample 17073A ",26,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"94989",136882,"col","Castilletes",-71.32,11.95,"STRI Loc. 290456 [bulk] - Puerto Lopez [lower Castilletes Fm]",NA,"STRI Sample 17049",34,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"94990",136883,"col","Castilletes",-71.32,11.94,"STRI Loc. 290460 - Puerto Lopez [lower Castilletes Fm]",NA,"STRI Sample 17072",18,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26523,-70.8445,9.221,9,1
-"94993",136886,"col","Jimol",-71.36,11.94,"STRI Loc. 290476 [bulk] - Paraguachon [upper Jimol Fm]",157978,"STRI Sample 16893",15,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.58,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"95010",136908,"col","Castilletes",-71.32,11.95,"STRI Loc. 290455B [bulk] - Puerto Lopez [lower Castilletes Fm]",136881,"STRI Sample 17073B",18,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"100832",143603,"col","Castillo",-69.7,10.57,"Siquisique",NA,"",1,"Burdigalian","",20.44,15.97,46522,"gp_mid",-64.14,11.15,"203",18.205,"burdigalian",27657,-69.3567,6.6596,9,1
-"101606",144557,"col","",14.03,42.23,"Lettomanoppello",NA,"",1,"Burdigalian","",20.44,15.97,46758,"gp_mid",16.4,37.76,"307",18.205,"burdigalian",27775,13.0095,39.813,9,1
-"102129",145379,"col","Castillo",-70.07,10.37,"Cerro La Cruz, Castillo Formation, Unit C",NA,"",11,"Burdigalian","",20.44,15.97,47006,"gp_mid",-64.52,10.97,"203",18.205,"burdigalian",27899,-69.3567,6.6596,9,1
-"102645",146538,"col","",-65.35,9.42,"Quebrada Honda - Zaraza",NA,"",2,"Santacrucian","",17.5,16.3,47291,"gp_mid",-60.18,9.85,"201",16.9,"burdigalian",27998,-60.6739,7.6621,9,1
-"103454",147454,"col","",35.27,33.42,"Khaizaran section",NA,"",2,"Burdigalian","",20.44,15.97,47514,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28044,30.4953,30.0494,9,1
-"104343",148388,"col","Gaj",67.32,26.87,"Gaj River Gavialis",NA,"",1,"Burdigalian","",20.44,15.97,47636,"gp_mid",68.32,18.02,"501",18.205,"burdigalian",28119,63.2151,21.7128,9,1
-"104644",148704,"col","",9.48,42.2,"Alzitone - Paldomo area",NA,"",30,"Burdigalian","",20.44,15.97,47723,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28182,9.4197,40.0771,9,1
-"106855",151413,"col","Cala di Labra",9.18,41.37,"Cala di Labra area, Cala di Labra Fm, lower to middle part",NA,"",7,"Burdigalian","",20.44,15.97,48378,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28682,3.9904,40.9448,9,1
-"106856",151414,"col","Cala di Labra",9.18,41.37,"Cala di Labra area, Cala di Labra Fm, inter-coral sediment",NA,"",11,"Burdigalian","",20.44,15.97,48378,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28682,3.9904,40.9448,9,1
-"106857",151415,"col","Cala di Labra",9.18,41.37,"Cala di Labra area, Cala di Labra Fm, upper part",NA,"",32,"Burdigalian","",20.44,15.97,48378,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28682,3.9904,40.9448,9,1
-"107604",152370,"col","",-11.72,51.37,"Porcupine Seabight, Hole U1316",NA,"",2,"Burdigalian","",20.44,15.97,49040,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",28854,-14.6581,50.4629,9,1
-"109653",155253,"col","Calcarenites of Sant Elm",3.06,39.92,"Pou de l’Olm",NA,"Cala Barques; Cala Sant Vicenç",23,"Burdigalian","",20.44,15.97,50623,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",29350,0.5683,38.242,9,1
-"110267",156326,"col","Jimol",-71.3,11.98,"STRI Loc. 290803 - Kabarauremana [upper Jimol Fm]",NA,"AH140103",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.69,12.62,"203",18.205,"burdigalian",29486,-70.8445,9.221,9,1
-"110268",156327,"col","Castilletes",-71.29,11.97,"STRI Loc. 290802 - Kabarauremana [lower Castilletes Fm]",NA,"AH140102",10,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.62,"203",18.205,"burdigalian",29487,-70.8445,9.221,9,1
-"110269",156328,"col","Castilletes",-71.29,11.98,"STRI Loc. 290801 - Kabarauremana [lower Castilletes Fm]",NA,"",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.62,"203",18.205,"burdigalian",29488,-70.8445,9.221,9,1
-"110270",156329,"col","Jimol",-71.31,11.98,"STRI Loc. 290804 - Kabarauremana [upper Jimol Fm]",NA,"AH140104",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.69,12.62,"203",18.205,"burdigalian",29489,-70.8445,9.221,9,1
-"110274",156334,"col","Jimol",-71.3,12.03,"STRI Loc. 290816 - Road to Siapana [middle Jimol Fm]",NA,"STRI Sample 38104; AH140118; AH140119; DDS006",15,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.68,"203",18.205,"burdigalian",29492,-70.8445,9.221,9,1
-"110275",156354,"col","Jimol",-71.32,11.97,"STRI Loc. 290810 - W of Kabarauremana [upper Jimol Fm]",NA,"STRI Sample 38098; AH140112",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29493,-70.8445,9.221,9,1
-"110277",156356,"col","Jimol",-71.31,12,"STRI Loc. 290820 - Near Huaina [middle Jimol Fm]",NA,"",37,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"110278",156361,"col","Jimol",-71.31,12,"STRI Loc. 290819 - Near Huaina [middle Jimol Fm]",NA,"STRI Sample 38108; AH140122B",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"110284",156366,"col","Jimol",-71.32,11.98,"STRI Loc. 110035 - W of Kabarauremana [middle Jimol Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.63,"203",18.205,"burdigalian",29499,-70.8445,9.221,9,1
-"110285",156367,"col","Jimol",-71.32,11.97,"STRI Loc. 290805 - W of Kabarauremana [middle Jimol Fm]",NA,"AH140106; AH140113",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29493,-70.8445,9.221,9,1
-"110286",156368,"col","Jimol",-71.32,11.97,"STRI Loc. 290806 - Yotohoro [upper Jimol Fm]",NA,"AH140107",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29493,-70.8445,9.221,9,1
-"110287",156369,"col","Jimol",-71.32,11.96,"STRI Loc. 290807 - Yotohoro [upper Jimol Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"110288",156370,"col","Jimol",-71.32,11.96,"STRI Loc. 290808 - Yotohoro [upper Jimol Fm]",NA,"AH140108; AH140109",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"110295",156487,"col","Jimol",-71.32,11.96,"STRI Loc. 290809 - Yotohoro [upper Jimol Fm]",NA,"AH140111",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"110301",156493,"col","Jimol",-71.29,12.03,"STRI Loc. 290817 - Road to Siapana [upper Jimol Fm]",NA,"AH140120",11,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.68,"203",18.205,"burdigalian",29506,-70.8445,9.221,9,1
-"110302",156494,"col","Jimol",-71.3,12.03,"STRI Loc. 290818 - Road to Siapana [upper Jimol Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.67,"203",18.205,"burdigalian",29492,-70.8445,9.221,9,1
-"110303",156495,"col","Jimol",-71.31,12,"STRI Loc. 290821 - Near Huaina [upper middle Fm]",NA,"AH140126; AH140127; AH140131",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"110382",156615,"col","Castilletes",-71.34,11.94,"STRI Loc. 290645 - Patajau [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.59,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110383",156616,"col","Castilletes",-71.34,11.94,"STRI Loc. 290646 - Patajau [lower Castilletes Fm]",NA,"STRI Sample 37843",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.58,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110387",156620,"col","Castilletes",-71.34,11.94,"STRI Loc. 290647 - Patajau [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.58,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110388",156621,"col","Castilletes",-71.34,11.94,"STRI Loc. 290648 - Patajau [lower Castilletes Fm]",NA,"STRI Sample 37173, 37844",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.58,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110389",156622,"col","Castilletes",-71.34,11.94,"STRI Loc. 290649 - Patajau [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.58,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110390",156623,"col","Castilletes",-71.34,11.94,"STRI Loc. 290650 - Patajau [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.58,"203",18.205,"burdigalian",29534,-70.8445,9.221,9,1
-"110391",156624,"col","Jimol",-71.34,11.95,"STRI Loc. 290654 - Patajau [upper Jimol Fm]",NA,"STRI Sample 37204",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.6,"203",18.205,"burdigalian",29536,-70.8445,9.221,9,1
-"110392",156625,"col","Jimol",-71.35,11.95,"STRI Loc. 290655 - Patajau [upper Jimol Fm]",NA,"",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.74,12.6,"203",18.205,"burdigalian",29537,-70.8445,9.221,9,1
-"110405",156684,"col","Castilletes",-71.37,11.88,"STRI Loc. 290669 - Aulechet-Castilletes Rd [lower Castilletes Fm]",NA,"STRI Sample 37181, 37825",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.53,"203",18.205,"burdigalian",29541,-70.8445,9.221,9,1
-"110406",156685,"col","Castilletes",-71.36,11.88,"STRI Loc. 290670 - Aulechet-Castilletes Rd [lower Castilletes Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.53,"203",18.205,"burdigalian",29542,-70.8445,9.221,9,1
-"110407",156686,"col","Castilletes",-71.36,11.88,"STRI Loc. 290671 - Aulechet-Castilletes Rd [lower Castilletes Fm]",NA,"STRI Sample 37183",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.53,"203",18.205,"burdigalian",29542,-70.8445,9.221,9,1
-"110410",156690,"col","Castilletes",-71.36,11.87,"STRI Loc. 290422 - Aulechet-Castilletes Rd [lower Castilletes Fm]",NA,"STRI Sample 16976",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.52,"203",18.205,"burdigalian",29544,-70.8445,9.221,9,1
-"110411",156691,"col","Jimol",-71.34,11.95,"STRI Loc. 290654A - Patajau [upper Jimol Fm]",NA,"",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.73,12.6,"203",18.205,"burdigalian",29536,-70.8445,9.221,9,1
-"110412",156700,"col","Castilletes",-71.37,11.85,"STRI Loc. 290674 - Braincase [lower Castilletes Fm]",NA,"STRI Sample 37822",14,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.5,"203",18.205,"burdigalian",29545,-70.8445,9.221,9,1
-"110413",156706,"col","Castilletes",-71.33,11.94,"STRI Loc. 290651 - Patajau [lower Castilletes Fm]",NA,"STRI Sample 37845",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.58,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"110418",156720,"col","Jimol",-71.36,11.95,"STRI Loc. 290681 - W of Paraguachon [middle Jimol Fm]",NA,"STRI Sample 37852",6,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",29547,-70.8445,9.221,9,1
-"110419",156721,"col","Jimol",-71.36,11.95,"STRI Loc. 290682 - W of Paraguachon [middle Jimol Fm]",NA,"STRI Sample 37200, 37201",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",29547,-70.8445,9.221,9,1
-"110421",156723,"col","Jimol",-71.36,11.95,"STRI Loc. 290683 - W of Paraguachon [middle Jimol Fm]",NA,"",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",29547,-70.8445,9.221,9,1
-"110422",156725,"col","Castilletes",-71.35,11.93,"STRI Loc. 290685 - Patajau [lower Castilletes Fm]",NA,"STRI Sample 37854",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.74,12.58,"203",18.205,"burdigalian",29548,-70.8445,9.221,9,1
-"110423",156726,"col","Castilletes",-71.35,11.93,"STRI Loc. 290686 - Patajau [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.74,12.58,"203",18.205,"burdigalian",29548,-70.8445,9.221,9,1
-"110424",156727,"col","Jimol",-71.33,12,"STRI Loc. 290405 - Siapana-Puerto Lopez Rd [upper Jimol Fm]",NA,"STRI Sample 16860",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.65,"203",18.205,"burdigalian",29549,-70.8445,9.221,9,1
-"110443",156748,"col","Castilletes",-71.28,11.99,"STRI Loc. 290406 - Siapana-Puerto Lopez Rd [lower Castilletes Fm]",NA,"STRI Sample 16849",19,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.67,12.63,"203",18.205,"burdigalian",29553,-70.8445,9.221,9,1
-"110446",156751,"col","Jimol",-71.43,11.96,"STRI Loc. 290412 - Aulechit-Castilletes Rd [upper Jimol Fm]",NA,"STRI Sample 16842, 16844, 17041",27,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.61,"203",18.205,"burdigalian",29554,-70.8445,9.221,9,1
-"110447",156752,"col","Jimol",-71.43,11.96,"STRI Loc. 290413 - Aulechit-Castilletes Rd [upper Jimol Fm]",NA,"STRI Sample 16975, 16983",18,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.61,"203",18.205,"burdigalian",29554,-70.8445,9.221,9,1
-"110448",156753,"col","Jimol",-71.43,11.96,"STRI Loc. 290414 - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"STRI Sample 16868, 16982",35,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.82,12.61,"203",18.205,"burdigalian",29554,-70.8445,9.221,9,1
-"110449",156754,"col","Jimol",-71.42,11.93,"STRI Loc. 290415 - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"STRI Sample 16870, 38480",23,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.58,"203",18.205,"burdigalian",29555,-70.8445,9.221,9,1
-"110481",156791,"col","Jimol",-71.42,11.92,"STRI Loc. 290416 - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"STRI Sample 16866",14,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.57,"203",18.205,"burdigalian",29564,-70.8445,9.221,9,1
-"110482",156792,"col","Jimol",-71.39,11.91,"STRI Loc. 290417 - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"STRI Sample 16820",8,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.78,12.56,"203",18.205,"burdigalian",29565,-70.8445,9.221,9,1
-"110483",156793,"col","Jimol",-71.39,11.9,"STRI Loc. 290418 - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"STRI Sample 16847",6,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.78,12.54,"203",18.205,"burdigalian",29566,-70.8445,9.221,9,1
-"110484",156794,"col","Jimol",-71.39,11.9,"STRI Loc. 290419 - Aulechit-Castilletes Rd [lower Jimol Fm]",NA,"STRI Sample 16843, 16973",6,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.78,12.54,"203",18.205,"burdigalian",29566,-70.8445,9.221,9,1
-"110485",156795,"col","Jimol",-71.39,11.9,"STRI Loc. 290420A - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"",16,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.78,12.54,"203",18.205,"burdigalian",29566,-70.8445,9.221,9,1
-"110486",156796,"col","Jimol",-71.39,11.9,"STRI Loc. 290420B - Aulechit-Castilletes Rd [middle Jimol Fm]",NA,"",19,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.78,12.54,"203",18.205,"burdigalian",29566,-70.8445,9.221,9,1
-"110487",156797,"col","Jimol",-71.37,11.89,"STRI Loc. 290421 - Aulechit-Castilletes Rd [upper Jimol Fm]",NA,"",31,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.54,"203",18.205,"burdigalian",29567,-70.8445,9.221,9,1
-"110522",156832,"col","Jimol",-71.36,11.94,"STRI Loc. 290426 - Paraguachon [upper Jimol Fm]",NA,"STRI Sample 17076",27,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.74,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"110535",156845,"col","Jimol",-71.36,11.94,"STRI Loc. 290427 - Paraguachon [upper Jimol Fm]",NA,"STRI Sample 16895",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"110726",157300,"col","Uipta",-71.42,11.98,"STRI Loc. 290600 - Shirrua [Uipta Fm]",NA,"",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.63,"203",18.205,"burdigalian",29630,-70.8445,9.221,9,1
-"110754",157336,"col","Jimol",-71.36,11.94,"STRI Loc. 290430 [bulk A] - Paráuachon [upper Jimol Fm]",NA,"STRI Sample 17090",33,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.58,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"110755",157337,"col","Castilletes",-71.36,11.94,"STRI Loc. 290430B - Paráuachon [lower Castilletes Fm]",NA,"STRI Sample 17068",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.58,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"110756",157342,"col","Castilletes",-71.36,11.85,"STRI Loc. 290666 - Kaitamana [lower Castilletes Fm]",NA,"STRI Loc. 290666-2; STRI Sample 37192",8,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.5,"203",18.205,"burdigalian",29635,-70.8445,9.221,9,1
-"110757",157343,"col","Castilletes",-71.36,11.85,"STRI Loc. 430053 - Kaitamana [lower Castilletes Fm]",NA,"STRI Loc. 290666-1",16,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.5,"203",18.205,"burdigalian",29635,-70.8445,9.221,9,1
-"110758",157344,"col","Castilletes",-71.37,11.85,"STRI Loc. 390126 - Kaitamana [lower Castilletes Fm]",NA,"STRI Loc. 290666-3; STRI Sample 37193",18,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.5,"203",18.205,"burdigalian",29545,-70.8445,9.221,9,1
-"111183",157975,"col","Jimol",-71.42,11.98,"STRI Loc. 290046 - Shirrua [lower Jimol Fm]",NA,"STRI Loc. 290601; STRI Sample 10348, 36977",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.63,"203",18.205,"burdigalian",29630,-70.8445,9.221,9,1
-"111184",157977,"col","Jimol",-71.42,11.98,"STRI Loc. 290047 - Shirrua [Jimol Fm]",NA,"STRI Sample 10349",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.81,12.63,"203",18.205,"burdigalian",29630,-70.8445,9.221,9,1
-"111185",157978,"col","Jimol",-71.36,11.94,"STRI Loc. 290476 [field] - Paraguachon [upper Jimol Fm]",NA,"",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.58,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"111191",158043,"col","Castilletes",-71.32,11.94,"STRI Loc. 290459 - Puerto Lopez [lower Castilletes Fm]",NA,"STRI Sample 17047",6,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26523,-70.8445,9.221,9,1
-"111192",158044,"col","Castilletes",-71.32,11.95,"STRI Loc. 290456 [field] - Puerto Lopez [lower Castilletes Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"111193",158045,"col","Castilletes",-71.32,11.95,"STRI Loc. 290455 [field] - Puerto Lopez [lower Castilletes Fm]",NA,"",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"111194",158046,"col","Castilletes",-71.33,11.95,"STRI Loc. 290454 [field] - Puerto Lopez [lower Castilletes Fm]",NA,"",6,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"111209",158101,"col","Castilletes",-71.36,11.93,"STRI Loc. 290436 - Paráuachon [lower Castilletes Fm]",NA,"STRI Sample 16882",14,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.57,"203",18.205,"burdigalian",29732,-70.8445,9.221,9,1
-"111210",158102,"col","Jimol",-71.36,11.94,"STRI Loc. 290430 - Paráuachon [upper Jimol Fm]",NA,"STRI Sample 17068, 17071, 17090, 38475",15,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.58,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"111285",158214,"col","Jimol",-71.36,11.94,"STRI Loc. 290429 - Paraguachon [upper Jimol Fm]",NA,"STRI Sample 17086",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"111286",158215,"col","Jimol",-71.36,11.94,"STRI Loc. 290428 - Paraguachon [upper Jimol Fm]",NA,"STRI Sample 16883, 16966, 16986",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"111287",158216,"col","Castilletes",-71.36,11.87,"STRI Loc. 290425 - Aulechet-Castilletes Rd [lower Castilletes Fm]",NA,"STRI Sample 17491",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.76,12.52,"203",18.205,"burdigalian",29544,-70.8445,9.221,9,1
-"111324",158284,"col","Yamato",142.04,44.6,"Wakkawenbetsu River",NA,"",1,"Burdigalian","",20.44,15.97,51983,"gp_mid",138.42,44.76,"610",18.205,"burdigalian",29763,140.7984,47.3654,9,1
-"113112",160770,"col","Jimol",-71.31,12,"STRI Loc. 290820 [field] - Near Huaina [middle Jimol Fm]",NA,"STRI Sample 38114; AH140123",34,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113118",160776,"col","Castilletes",-71.32,11.95,"STRI Loc. 290456 [hand-picked] - Puerto Lopez [lower Castilletes Fm]",NA,"STRI Sample 16891",33,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"113127",160786,"col","Jimol",-71.31,11.98,"STRI Loc. 290804 (Quadrat A) - Kabarauremana [upper Jimol Fm]",156329,"",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.69,12.62,"203",18.205,"burdigalian",29489,-70.8445,9.221,9,1
-"113128",160787,"col","Jimol",-71.31,11.98,"STRI Loc. 290804 (Quadrat B) - Kabarauremana [upper Jimol Fm]",156329,"",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.69,12.62,"203",18.205,"burdigalian",29489,-70.8445,9.221,9,1
-"113130",160789,"col","Jimol",-71.31,11.98,"STRI Loc. 290804 (Quadrat C) - Kabarauremana [upper Jimol Fm]",156329,"",5,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.69,12.62,"203",18.205,"burdigalian",29489,-70.8445,9.221,9,1
-"113131",160790,"col","Jimol",-71.32,11.96,"STRI Loc. 290808 (Quadrat A) - Yotohoro [upper Jimol Fm]",56370,"",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"113132",160791,"col","Jimol",-71.32,11.96,"STRI Loc. 290808 (Quadrat B) - Yotohoro [upper Jimol Fm]",56370,"",11,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"113133",160792,"col","Jimol",-71.32,11.96,"STRI Loc. 290808 (Quadrat C) - Yotohoro [upper Jimol Fm]",56370,"",12,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.61,"203",18.205,"burdigalian",29500,-70.8445,9.221,9,1
-"113139",160798,"col","Jimol",-71.3,12.03,"STRI Loc. 290818 (Quadrat A) - Road to Siapana [upper Jimol Fm]",156494,"",8,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.67,"203",18.205,"burdigalian",29492,-70.8445,9.221,9,1
-"113140",160799,"col","Jimol",-71.3,12.03,"STRI Loc. 290818 (Quadrat B) - Road to Siapana [upper Jimol Fm]",156494,"",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.67,"203",18.205,"burdigalian",29492,-70.8445,9.221,9,1
-"113141",160800,"col","Jimol",-71.3,12.03,"STRI Loc. 290818 (Quadrat C) - Road to Siapana [upper Jimol Fm]",156494,"",9,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.68,12.67,"203",18.205,"burdigalian",29492,-70.8445,9.221,9,1
-"113155",160814,"col","Jimol",-71.31,12,"STRI Loc. 290819 (Quadrat A) - Near Huaina [middle Jimol Fm]",156361,"",14,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113156",160815,"col","Jimol",-71.31,12,"STRI Loc. 290819 (Quadrat B) - Near Huaina [middle Jimol Fm]",156361,"",15,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113157",160816,"col","Jimol",-71.31,12,"STRI Loc. 290819 (Quadrat C) - Near Huaina [middle Jimol Fm]",156361,"",14,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113409",161091,"col","Jimol",-71.31,12,"STRI Loc. 290821 [quadrat A] - Near Huaina [middle Jimol Fm]",156495,"",8,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113411",161093,"col","Jimol",-71.31,12,"STRI Loc. 290821 [quadrat B] - Near Huaina [middle Jimol Fm]",156495,"",11,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113412",161094,"col","Jimol",-71.31,12,"STRI Loc. 290821 [quadrat C] - Near Huaina [middle Jimol Fm]",156495,"",12,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.7,12.65,"203",18.205,"burdigalian",29495,-70.8445,9.221,9,1
-"113606",161385,"col","Globigerina Limestone",14.24,36.08,"Ras ir-Reqqa",NA,"",16,"Burdigalian","",20.44,15.97,52582,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",30472,12.2399,32.3689,9,1
-"113607",161386,"col","Globigerina Limestone",14.33,35.9,"Bahrija",NA,"",12,"Burdigalian","",20.44,15.97,52582,"gp_mid",NA,NA,"coordinates not computable using this model",18.205,"burdigalian",23493,12.2399,32.3689,9,1
-"113717",161515,"col","",-120.33,35.02,"Cuyama River, near junction with Huasna Creek",NA,"",1,"Burdigalian","",20.44,15.97,52623,"gp_mid",-112.13,38.06,"105",18.205,"burdigalian",30492,-112.7967,32.8799,9,1
-"113718",161516,"col","",-119.14,35.36,"Ohio Oil well K.C.L.-G.No.1, 10450 feet depth",NA,"",1,"Burdigalian","",20.44,15.97,52624,"gp_mid",-110.05,39.01,"130",18.205,"burdigalian",30493,-112.7967,32.8799,9,1
-"113778",161591,"col","",4.93,43.88,"Caumont locality",NA,"",2,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.32,40.63,"305",18.205,"burdigalian",30501,0.2033,43.3325,9,1
-"113799",161612,"col","",4.78,44.32,"Saint-Restitut locality",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.2,41.07,"305",18.205,"burdigalian",30516,0.2033,43.3325,9,1
-"113800",161614,"col","",4.77,43.93,"Les Angles pres Villeneuve-les-Avignon",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.16,40.69,"305",18.205,"burdigalian",30517,0.2033,43.3325,9,1
-"113801",161615,"col","",4.58,43.88,"Les Angles, Gard",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",6.99,40.64,"305",18.205,"burdigalian",30518,0.2033,43.3325,9,1
-"113802",161617,"col","",4.85,44.33,"La Baume-de-Tranzit",NA,"",2,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.27,41.08,"305",18.205,"burdigalian",30519,0.2033,43.3325,9,1
-"113806",161621,"col","",4.77,43.97,"Pierrelongue près Villeneuve-lès-Avignon",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.17,40.72,"305",18.205,"burdigalian",30523,0.2033,43.3325,9,1
-"113807",161622,"col","Jimol",-71.36,11.94,"STRI Loc. 290602 - Paráuachon [upper Jimol Fm]",NA,"STRI Sample 34797, 34798, 37836, 37939, 37940",18,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.75,12.59,"203",18.205,"burdigalian",23985,-70.8445,9.221,9,1
-"113809",161624,"col","",4.65,44.18,"Vénéjan locality",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.07,40.94,"305",18.205,"burdigalian",30525,0.2033,43.3325,9,1
-"113814",161629,"col","Castilletes",-71.33,11.94,"STRI Loc. 290612 - Patajau Norte [lower Castilletes Fm]",NA,"",0,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114040",161891,"col","Castilletes",-71.33,11.94,"STRI Loc. 290613 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",7,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114041",161892,"col","Castilletes",-71.32,11.95,"STRI Loc. 290614 [field] - Patajau norte [lower Castilletes Fm]",NA,"",15,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.6,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"114042",161893,"col","Castilletes",-71.33,11.95,"STRI Loc. 290615 [field] - Patajau norte [lower Castilletes Fm]",NA,"",11,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.6,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114043",161894,"col","Castilletes",-71.33,11.95,"STRI Loc. 290616 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",16,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114140",162002,"col","Castilletes",-71.33,11.95,"STRI Loc. 290630 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114141",162003,"col","Castilletes",-71.33,11.95,"STRI Loc. 290631 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114142",162004,"col","Castilletes",-71.33,11.95,"STRI Loc. 290632A [field] - Patajau Norte [lower Castilletes Fm]",NA,"",11,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114143",162005,"col","Castilletes",-71.33,11.95,"STRI Loc. 290632B [field] - Patajau Norte [lower Castilletes Fm]",NA,"",10,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114144",162006,"col","Castilletes",-71.33,11.95,"STRI Loc. 290633 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"114145",162007,"col","Castilletes",-71.33,11.94,"STRI Loc. 290634 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",3,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114146",162008,"col","Castilletes",-71.33,11.94,"STRI Loc. 290635 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.72,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114147",162009,"col","Castilletes",-71.33,11.94,"STRI Loc. 290637 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",1,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114148",162010,"col","Castilletes",-71.33,11.94,"STRI Loc. 290636 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",4,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114149",162012,"col","Castilletes",-71.33,11.94,"STRI Loc. 290638 [field] - Patajau Norte [lower Castilletes Fm]",NA,"",2,"Burdigalian","",20.44,15.97,43760,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29546,-70.8445,9.221,9,1
-"114811",163055,"col","Jimol",-71.4,11.83,"STRI Loc. 290468 - Flor de Guajira Jimol Fm",NA,"",1,"Burdigalian","",20.44,15.97,52569,"gp_mid",-65.79,12.48,"203",18.205,"burdigalian",30761,-70.8445,9.221,9,1
-"115121",163731,"col","Castilletes",-71.32,11.94,"Yotojoro",NA,"STRI-490006",2,"Burdigalian","",20.44,15.97,60350,"gp_mid",-65.7,12.59,"203",18.205,"burdigalian",26523,-70.8445,9.221,9,1
-"115505",164586,"col","Mishan",56.45,27.83,"Dorahi-e- Homag Decapods",NA,"",0,"Burdigalian","",20.44,15.97,53621,"gp_mid",55.01,20.31,"503",18.205,"burdigalian",30896,52.4417,22.0701,9,1
-"115574",164740,"col","",117,1,"Kari Orang, East Kalimantan, TF275",NA,"",19,"Burdigalian","",20.44,15.97,53783,"gp_mid",121.7,0.85,"620",18.205,"burdigalian",30917,115.0723,3.2559,9,1
-"115578",164745,"col","",117,0,"Bontang Mine, East Kalimantan, TF18",NA,"",1,"Burdigalian","",20.44,15.97,53783,"gp_mid",121.85,-0.13,"620",18.205,"burdigalian",30918,115.0723,3.2559,9,1
-"116339",165884,"col","Chhasra",69.05,23.1,"Kankawati River section, Vinjan, Kutch",NA,"",1,"Burdigalian","",20.44,15.97,47015,"gp_mid",69.38,14.07,"501",18.205,"burdigalian",31128,62.8516,16.7246,9,1
-"116340",165885,"col","Chhasra",68.94,23.32,"Lakhania River section, Kuapadar, Kutch",NA,"",1,"Burdigalian","",20.44,15.97,47015,"gp_mid",69.31,14.31,"501",18.205,"burdigalian",31129,62.8516,16.7246,9,1
-"116388",165933,"col","Cantaure",-70.06,11.95,"Re 1184, Cantaure, Paraguaná Peninsula",NA,"",1,"Burdigalian","",20.44,15.97,54222,"gp_mid",-64.44,12.55,"203",18.205,"burdigalian",31139,-70.8445,9.221,9,1
-"116611",166229,"col","Olcese",-118.92,35.57,"LSJU loc. 676, Mount Poso oil field",NA,"",1,"Burdigalian","",20.44,15.97,54367,"gp_mid",-109.81,39.21,"130",18.205,"burdigalian",31230,-112.7967,32.8799,9,1
-"116704",166506,"col","Castilletes",-71.27,11.95,"Vertebrates Castilletes Formation",NA,"",37,"Burdigalian","",20.44,15.97,54378,"gp_mid",-65.66,12.59,"203",18.205,"burdigalian",31263,-70.8445,9.221,9,1
-"117440",167732,"col","Chilcatay",-75.63,-14.62,"Ullujaya, Chilcatay Formation",NA,"",26,"Burdigalian","",20.44,15.97,54782,"gp_mid",-71.04,-13.79,"201",18.205,"burdigalian",18055,-71.6969,-17.4508,9,1
-"117861",168746,"col","",117,-0.57,"Senoni",NA,"",4,"Burdigalian","",20.44,15.97,55182,"gp_mid",121.94,-0.69,"620",18.205,"burdigalian",31600,115.0723,3.2559,9,1
-"119721",171286,"col","Gambier",140.76,-36.95,"James Quarry, Naracoorte",NA,"",1,"Burdigalian","",20.44,15.97,55713,"gp_mid",144.4,-46.74,"801",18.205,"burdigalian",31881,140.269,-46.6689,9,1
-"119722",171287,"col","Mannum",139.31,-34.92,"Mannum",NA,"",1,"Burdigalian","",20.44,15.97,55713,"gp_mid",142.3,-44.9,"801",18.205,"burdigalian",31882,135.7524,-44.3494,9,1
-"120858",173651,"col","",117.3,0.15,"TF126, Bontang",NA,"3D Reef",53,"Burdigalian","",20.44,15.97,73825,"gp_mid",122.13,0.06,"620",18.205,"burdigalian",32131,115.0723,3.2559,9,1
-"121571",175184,"col","Setap",113.81,4.06,"BK75, Bekenu",NA,"",11,"Burdigalian","",20.44,15.97,57145,"gp_mid",118.05,2.63,"621",18.205,"burdigalian",32271,110.5164,7.9324,9,1
-"121572",175185,"col","Castillo",-70.07,10.37,"Cerro La Cruz",NA,"",3,"Burdigalian","",20.44,15.97,57241,"gp_mid",-64.52,10.97,"203",18.205,"burdigalian",27899,-69.3567,6.6596,9,1
-"122342",176265,"col","Miocene Lower Continental Complex",2,41.44,"Can Mas (El Papiol)",NA,"",10,"MN 4","",16.9,15.97,57921,"gp_mid",4.12,38.67,"304",16.435,"burdigalian",32402,0.4466,40.7402,9,1
-"122379",176303,"col","Gippsland Limestone",148.4,-37.75,"Newmerella Railway cutting",NA,"",1,"Burdigalian","",20.44,15.97,18301,"gp_mid",153.31,-46.51,"801",18.205,"burdigalian",7891,148.8743,-46.1817,9,1
-"122538",176512,"col","Hiramatsu",136.27,34.75,"MIya River at Iga City",NA,"",1,"Burdigalian","",20.44,15.97,58604,"gp_mid",133.61,34.61,"610",18.205,"burdigalian",32464,132.2559,37.6724,9,1
-"122805",176824,"col","Jimol",-71.03,12,"Gharial Locality (390092)",NA,"9 km west of Puerto Lopez",1,"Burdigalian","",20.44,15.97,58353,"gp_mid",-65.42,12.63,"203",18.205,"burdigalian",32548,-70.8445,9.221,9,1
-"122807",176826,"col","Castilletes",-71.33,11.95,"North Patajau Valley (STRI 390094)",NA,"Puerto Lopez",8,"Burdigalian","",20.44,15.97,54378,"gp_mid",-65.71,12.59,"203",18.205,"burdigalian",29728,-70.8445,9.221,9,1
-"122808",176827,"col","Jimol",-71.03,12,"Big Croc Locality (390091)",NA,"9 km northwest of Puerto Lopez",1,"Burdigalian","",20.44,15.97,58353,"gp_mid",-65.42,12.63,"203",18.205,"burdigalian",32548,-70.8445,9.221,9,1
-"122908",176936,"col","Marks Head",-82.9,29.9,"Suwannee Springs Roadcut",NA,"",7,"Hemingfordian","",20.43,15.97,58392,"gp_mid",-75.53,32.36,"109",18.2,"burdigalian",32564,-78.5048,29.1362,9,1
-"123118",177172,"col","",68.82,23.37,"Chaasra Fm.",NA,"",19,"Burdigalian","",20.44,15.97,58522,"gp_mid",69.2,14.37,"501",18.205,"burdigalian",32587,62.8516,16.7246,9,1
-"124318",179086,"col","Chasra",68.75,23.42,"Kutch",NA,"",50,"Burdigalian","",20.44,15.97,36478,"gp_mid",69.15,14.42,"501",18.205,"burdigalian",32948,62.8516,16.7246,9,1
-"124320",179088,"col","Chipola",-85.17,30.45,"USGS Loc. 2115 - Ten Mile Creek on Chipola River, 1 mile west of Baileys Ferry",NA,"",1,"Burdigalian","",20.44,15.97,59260,"gp_mid",-77.79,33.1,"109",18.205,"burdigalian",32949,-82.2202,29.321,9,1
-"124323",179091,"col","Chipola",-84.99,30.47,"Alum Bluff",42443,"",1,"Burdigalian","",20.44,15.97,59260,"gp_mid",-77.6,33.1,"109",18.205,"burdigalian",11263,-82.2202,29.321,9,1
-"124361",179131,"col","Chipola",-85.2,30.42,"Chipola 09",NA,"CA 018",1,"Burdigalian","",20.44,15.97,57818,"gp_mid",-77.83,33.06,"109",18.205,"burdigalian",32960,-82.2202,29.321,9,1
-"124632",179578,"col","Gran Bajo del Gualicho",-65.25,-40.38,"Gran Bajo del Gualicho, Basal Layers",NA,"",34,"Burdigalian","",20.44,15.97,59467,"gp_mid",-62,-39.93,"291",18.205,"burdigalian",33017,-59.8216,-42.3318,9,1
-"124633",179579,"col","Gran Bajo del Gualicho",-65.25,-40.38,"Gran Bajo del Gualicho, Medial Layers",NA,"",7,"Burdigalian","",20.44,15.97,59467,"gp_mid",-62,-39.93,"291",18.205,"burdigalian",33017,-59.8216,-42.3318,9,1
-"124683",179631,"col","Chipola",-80.79,28.57,"CAS Loc. 578. Alum Bluff, Apalachicola River left bank, 3.5 miles N. of Bristow",NA,"",3,"Burdigalian","",20.44,15.97,59507,"gp_mid",-73.54,30.85,"109",18.205,"burdigalian",33035,-78.6624,26.6401,9,1
-"124738",179695,"col","Chipola",-85.16,30.47,"TU 553 - mouth of Farley Creek, Chipola River",NA,"",1,"Burdigalian","",20.44,15.97,57818,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",33052,-82.2202,29.321,9,1
-"124739",179696,"col","Chipola",-85.16,30.46,"TU 819 - Farley Creek, south bank, 0.2 miles west of Fla Hwy 275",NA,"",6,"Burdigalian","",20.44,15.97,57818,"gp_mid",-77.78,33.11,"109",18.205,"burdigalian",15330,-82.2202,29.321,9,1
-"124740",179697,"col","Baitoa",-70.65,19.12,"TU 1443, Río Yaque del Norte, Lopez, just upstream from mouth of Arroyo Lopez",NA,"",1,"Burdigalian","",20.44,15.97,57818,"gp_mid",-66.48,20.44,"252",18.205,"burdigalian",33053,-70.9139,18.5857,9,1
-"124764",179723,"col","Cantaure",-70.03,11.95,"USGS 23888.  6.2 km WNW of San José de Cordite, Paraguaná Peninsula",NA,"",15,"Burdigalian","",20.44,15.97,59576,"gp_mid",-64.42,12.55,"203",18.205,"burdigalian",33058,-70.8445,9.221,9,1
-"124888",179849,"col","Kurosedani",137.18,36.58,"Dogawara, Zuhara, Osawano-machi",NA,"",1,"Burdigalian","",20.44,15.97,59662,"gp_mid",134.36,36.48,"610",18.205,"burdigalian",33092,135.6344,40.5926,9,1
-"124889",179850,"col","Tochizu",137.18,36.58,"Miyaji, Gohyakukoku, Tateyama-machi",NA,"",1,"Burdigalian","",20.44,15.97,59662,"gp_mid",134.36,36.48,"610",18.205,"burdigalian",33092,135.6344,40.5926,9,1
-"124891",179852,"col","Kurosedani",137.18,36.58,"Tsuzara, near Sasazu in Etchu",NA,"",1,"Burdigalian","",20.44,15.97,59667,"gp_mid",134.36,36.48,"610",18.205,"burdigalian",33092,135.6344,40.5926,9,1
-"125009",179972,"col","Lacui",-73.75,-41.74,"Punta Chocoi",NA,"",1,"Burdigalian","",20.44,15.97,59729,"gp_mid",-70.5,-40.96,"291",18.205,"burdigalian",33143,-71.4618,-44.9501,9,1
-"125013",179976,"col","Lacui",-74.12,-42.69,"Cucao",NA,"",3,"Burdigalian","",20.44,15.97,59729,"gp_mid",-70.93,-41.89,"291",18.205,"burdigalian",33146,-71.4618,-44.9501,9,1
-"125134",180408,"col","Olcese",-119,35.6,"Probably near Mount Poso oil field",NA,"",1,"Burdigalian","",20.44,15.97,59868,"gp_mid",-109.89,39.24,"130",18.205,"burdigalian",33185,-112.7967,32.8799,9,1
-"125137",180411,"col","Chipola",-85.17,30.49,"Ten Mile Creek, Chipola River",NA,"Tenmile Creek",1,"Burdigalian","",20.44,15.97,59868,"gp_mid",-77.78,33.13,"109",18.205,"burdigalian",33187,-82.2202,29.321,9,1
-"125138",180412,"col","Chipola",-85.2,30.5,"Highway 84 bridge, Tenmile Creek",NA,"",1,"Burdigalian","",20.44,15.97,27587,"gp_mid",-77.82,33.15,"109",18.205,"burdigalian",33188,-82.2202,29.321,9,1
-"125165",180438,"col","Olcese",-118.86,35.51,"LSJU loc. 328, Coffee Canyon",NA,"",1,"Burdigalian","",20.44,15.97,54367,"gp_mid",-109.75,39.15,"130",18.205,"burdigalian",33202,-112.7967,32.8799,9,1
-"125795",181413,"col","Cantaure",-70.01,11.93,"El Yacural 2",NA,"",1,"Burdigalian","",20.44,15.97,60350,"gp_mid",-64.4,12.53,"203",18.205,"burdigalian",33347,-70.8445,9.221,9,1
-"128811",186096,"col","Lacui",-74.12,-42.69,"Cucao, Chiloe Island (Feldmann locality)",NA,"",1,"Burdigalian","",20.44,15.97,14404,"gp_mid",-70.93,-41.89,"291",18.205,"burdigalian",33146,-71.4618,-44.9501,9,1
-"128863",186455,"col","",39.4,44.8,"Voskovaya Mount",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",39.86,41.03,"302",18.205,"burdigalian",34116,36.9977,44.6693,9,1
-"128864",186456,"col","Sakaraul Horizon",39.81,44.38,"Shirvanskaya",NA,"",1,"Burdigalian","",20.44,15.97,59519,"gp_mid",40.25,40.61,"302",18.205,"burdigalian",34117,36.9977,44.6693,9,1
-"128866",186458,"col","",41.23,44.01,"Urup River",NA,"",3,"Burdigalian","",20.44,15.97,59519,"gp_mid",41.59,40.26,"302",18.205,"burdigalian",34118,36.9977,44.6693,9,1
-"128867",186459,"col","",44.09,43.42,"Chyornaya River",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",44.3,39.68,"402",18.205,"burdigalian",34119,40.9199,42.3256,9,1
-"128868",186460,"col","",48.13,42.29,"Ullu-Chai",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",48.14,38.59,"402",18.205,"burdigalian",34120,44.6583,42.479,9,1
-"129149",186821,"col","Sentolo",110.16,-7.76,"N4, Klampis Village",NA,"",3,"Burdigalian","",20.44,15.97,62649,"gp_mid",116.27,-8.84,"620",18.205,"burdigalian",34184,107.828,-4.5491,9,1
-"130159",188749,"col","Chilcatay",-75.65,-14.65,"Roca Negra",NA,"",1,"Burdigalian","",20.44,15.97,63363,"gp_mid",-71.05,-13.82,"201",18.205,"burdigalian",34376,-71.6969,-17.4508,9,1
-"130529",189440,"col","Castillo",-70.05,10.37,"Cerro Zamuro",NA,"",6,"Burdigalian","",20.44,15.97,63644,"gp_mid",-64.5,10.96,"203",18.205,"burdigalian",5713,-69.3567,6.6596,9,1
-"130983",190377,"col","Castilletes",-71.32,11.95,"STRI Loc. 470058 (Castilletes Fm)",NA,"Patajau norte",4,"Burdigalian","",20.44,15.97,54378,"gp_mid",-65.71,12.6,"203",18.205,"burdigalian",26522,-70.8445,9.221,9,1
-"131110",190535,"col","Rio Yuka",-70.08,8.97,"Rio Yuka assemblage",NA,"",6,"Burdigalian","",20.44,15.97,64065,"gp_mid",-64.59,9.57,"201",18.205,"burdigalian",34519,-69.3567,6.6596,9,1
-"131361",190874,"col","",38.08,34.75,"Jebel Abiad",NA,"",1,"Burdigalian","",20.44,15.97,64171,"gp_mid",38.34,28.25,"503",18.205,"burdigalian",34588,35.459,31.1501,9,1
-"131458",191063,"col","Band-e- Chaker",57.93,26.68,"Band-e-Chaker Syncline, Irere section",NA,"Reef 656",20,"Burdigalian","",20.44,15.97,64394,"gp_mid",56.36,19.11,"503",18.205,"burdigalian",34618,52.4417,22.0701,9,1
-"132231",192828,"col","Chilcatay",-75.9,-14.38,"Cerro Colorado Macrosqualodelphis type locality",NA,"",4,"Burdigalian","",20.44,15.97,65463,"gp_mid",-71.29,-13.55,"201",18.205,"burdigalian",34790,-71.6969,-17.4508,9,1
-"132584",193998,"col","Castillo",-70.07,10.37,"Cerro La Cruz, cast-38",NA,"Cast 38",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",18.205,"burdigalian",27899,-69.3567,6.6596,9,1
-"132585",193999,"col","Castillo",-70.07,10.37,"Cerro La Cruz, cast-40",NA,"Cast 40",5,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",18.205,"burdigalian",27899,-69.3567,6.6596,9,1
-"132586",194000,"col","Castillo",-70.07,10.37,"Cerro La Cruz, cast-47",NA,"Cast 47",2,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",18.205,"burdigalian",27899,-69.3567,6.6596,9,1
-"132587",194001,"col","Castillo",-70.09,10.36,"Quebrada Agua Viva",NA,"5 km west of Cerro La Cruz",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.54,10.96,"203",18.205,"burdigalian",34878,-69.3567,6.6596,9,1
-"132588",194002,"col","Castillo",-70.09,10.36,"Cerro Pedreguyoso",NA,"",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.54,10.96,"203",18.205,"burdigalian",34878,-69.3567,6.6596,9,1
-"133146",195391,"col","Nihotupu",174.55,-36.9,"MA91060, Opanuku Stream, Walkers Bush",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-178.75,-41.15,"806",18.205,"burdigalian",35019,-176.2157,-42.43,9,1
-"134380",197512,"col","Chilcatay",-75.73,-14.06,"Ica",NA,"",1,"Burdigalian","",20.44,15.97,67362,"gp_mid",-71.11,-13.23,"201",18.205,"burdigalian",35312,-71.6969,-17.4508,9,1
-"134381",197513,"col","Oi",136.5,34.72,"Tsu City",NA,"",1,"Burdigalian","",20.44,15.97,67362,"gp_mid",133.84,34.6,"610",18.205,"burdigalian",35313,132.2559,37.6724,9,1
-"136132",201165,"col","Jimol",-71.2,12.01,"Punta Espada locality, Jimol Fm",NA,"",4,"Burdigalian","",20.44,15.97,68914,"gp_mid",-65.59,12.65,"203",18.205,"burdigalian",35716,-70.8445,9.221,9,1
-"137447",203129,"col","Gaiman",-65.33,-43.65,"Estancia El Crisol",NA,"",2,"Burdigalian","",20.44,15.97,61700,"gp_mid",-62.3,-43.18,"291",18.205,"burdigalian",35964,-59.7537,-44.8314,9,1
-"137479",203166,"col","Río Banano",-83.59,9.99,"Quebrada del Patincho, Finca Montealegre",NA,"",1,"Burdigalian","",20.44,15.97,27004,"gp_mid",-80.3,12.45,"204",18.205,"burdigalian",13134,-85.9626,9.3639,9,1
-"137673",203413,"col","Oi",136.4,34.73,"Iedokoro, Misato Village",NA,"",1,"Burdigalian","",20.44,15.97,69742,"gp_mid",133.74,34.6,"610",18.205,"burdigalian",36052,132.2559,37.6724,9,1
-"138655",205109,"col","",-75.42,10.62,"Palmar-Molinera road",NA,"",5,"Burdigalian","",20.44,15.97,26958,"gp_mid",-69.87,11.42,"203",18.205,"burdigalian",36332,-73.5788,7.2501,9,1
-"138658",205112,"col","Husillo",-82.17,22.96,"Cantera Portugalete",NA,"",4,"Burdigalian","",20.44,15.97,70390,"gp_mid",-75.54,25.39,"206",18.205,"burdigalian",36334,-78.9582,21.6473,9,1
-"139132",205719,"col","",-74.67,-44.67,"Wave cut bench, west side of Stokes Island",NA,"",1,"Burdigalian","",20.44,15.97,70510,"gp_mid",-71.61,-43.85,"291",18.205,"burdigalian",36578,-71.4305,-47.45,9,1
-"139988",206898,"col","Mannum",139.62,-34.36,"Blanchetown (University of Canterbury coll.)",NA,"",2,"Burdigalian","",20.44,15.97,71189,"gp_mid",142.55,-44.31,"801",18.205,"burdigalian",36854,135.7524,-44.3494,9,1
-"140490",207869,"col","Bolognano",14.17,42.22,"Pretoro",NA,"",1,"Burdigalian","",20.44,15.97,71756,"gp_mid",16.52,37.74,"307",18.205,"burdigalian",37026,13.0095,39.813,9,1
-"140752",208185,"col","Chilcatay",-75.63,-14.6,"Zamaca-Ullujaya area",NA,"",1,"Burdigalian","",20.44,15.97,71912,"gp_mid",-71.03,-13.77,"201",18.205,"burdigalian",37049,-71.6969,-17.4508,9,1
-"141324",209108,"col","Dam",50.91,24.85,"Saleha SE, upper Dam 5",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.58,"503",18.205,"burdigalian",37188,48.6251,19.8657,9,1
-"141327",209111,"col","Dam",50.87,24.68,"NNE Qarn Abu Wail, upper Dam 2",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.57,17.41,"503",18.205,"burdigalian",37189,48.6251,19.8657,9,1
-"141328",209112,"col","Dam",50.9,24.75,"Hazm Mishabiyah, upper Dam 4",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.6,17.48,"503",18.205,"burdigalian",37190,48.6251,19.8657,9,1
-"141329",209113,"col","Dam",51.19,24.96,"NNE Gurain al Balbul, lower Dam 2",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.88,17.67,"503",18.205,"burdigalian",37191,48.6251,19.8657,9,1
-"141330",209114,"col","Dam",50.91,24.86,"An Nafkhah SE, lower Dam 6",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.59,"503",18.205,"burdigalian",37192,48.6251,19.8657,9,1
-"141331",209115,"col","Dam",51.03,25,"Taas al Karanah, lower Dam 7",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.74,17.72,"503",18.205,"burdigalian",37193,48.6251,19.8657,9,1
-"141332",209116,"col","Dam",50.91,24.86,"An Nafkhah E, lower Dam 8",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.59,"503",18.205,"burdigalian",37192,48.6251,19.8657,9,1
-"141333",209117,"col","Dam",51.03,24.7,"Ali Bin Said, lower Dam 9",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.72,17.42,"503",18.205,"burdigalian",37194,48.6251,19.8657,9,1
-"141334",209118,"col","Dam",51.2,24.93,"NE Khararah-SE Gurain al Balbul, lower Dam 1",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.9,17.64,"503",18.205,"burdigalian",37195,48.6251,19.8657,9,1
-"141335",209119,"col","Dam",50.87,24.68,"NNE Qarn Abu Wail, upper Dam 6",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.57,17.41,"503",18.205,"burdigalian",37189,48.6251,19.8657,9,1
-"141378",209200,"col","San Marino",12.45,43.93,"Monte Titano (San Marino Fm)",NA,"",2,"Burdigalian","",20.44,15.97,72204,"gp_mid",15.15,39.56,"307",18.205,"burdigalian",37200,9.7504,42.5647,9,1
-"141380",209203,"col","San Marino",12.43,43.94,"Monte Cerreto (San Marino Fm)",NA,"",1,"Burdigalian","",20.44,15.97,72204,"gp_mid",15.13,39.57,"307",18.205,"burdigalian",37201,9.7504,42.5647,9,1
-"141593",209448,"col","Canouan",-61.32,12.72,"Carenage Bay, Canouan",NA,"",2,"Burdigalian","",20.44,15.97,72278,"gp_mid",-57.63,13.39,"234",18.205,"burdigalian",37237,-63.5909,10.2246,9,1
-"142614",210775,"col","Chhasra",69.05,23.1,"Vinjan, east",NA,"Location 6",1,"Burdigalian","",20.44,15.97,72773,"gp_mid",69.38,14.07,"501",18.205,"burdigalian",31128,62.8516,16.7246,9,1
-"143078",211578,"col","Chilcatay",-75.66,-14.58,"Cerro Submarino",NA,"",4,"Burdigalian","",20.44,15.97,73128,"gp_mid",-71.06,-13.75,"201",18.205,"burdigalian",37532,-71.6969,-17.4508,9,1
-"145090",214275,"col","Chilcatay",-75.65,-14.61,"DeleteMe",NA,"",0,"Burdigalian","",20.44,15.97,73866,"gp_mid",-71.05,-13.78,"201",18.205,"burdigalian",37936,-71.6969,-17.4508,9,1
-"145091",214276,"col","Chilcatay",-75.65,-14.61,"Zamaca, ZM 27",NA,"",1,"Burdigalian","",20.44,15.97,73866,"gp_mid",-71.05,-13.78,"201",18.205,"burdigalian",37936,-71.6969,-17.4508,9,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"3907",18512,"col","Marks Head",-82.099998,29.9,"Brooks Sink",NA,"",22,"Late Hemingfordian","",20.43,15.97,2614,"gp_mid",-74.72,32.29,"109",1,18.2,"burdigalian",1
+"7247",34913,"col","",32.306946,36.176388,"Bed 7b - Gebel Gharra section, Suez",NA,"",5,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",1,18.205,"burdigalian",1
+"7248",34914,"col","",32.306946,36.176388,"Bed 8c - Gebel Gharra section, Suez",NA,"",5,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",1,18.205,"burdigalian",1
+"7249",34915,"col","",32.306946,36.176388,"Bed 8db - Gebel Gharra section, Suez",NA,"",4,"Burdigalian","",20.44,15.97,18811,"gp_mid",33.13,32.41,"504",1,18.205,"burdigalian",1
+"8475",37487,"col","",16.483299,-28.5833,"Orange River Core 2",NA,"",37,"Burdigalian","",20.44,15.97,10031,"gp_mid",14.7,-33.11,"701",1,18.205,"burdigalian",1
+"11959",43063,"col","Castillo",-70.050003,10.366667,"Cerro La Cruz (Castillo Formation), Lara",NA,"",34,"Burdigalian","",20.44,15.97,11413,"gp_mid",-64.5,10.96,"203",1,18.205,"burdigalian",1
+"13287",44898,"col","Nga Pari",167.699997,-46.016666,"Waiau River, Clifden, New Zealand",NA,"",2,"Burdigalian","",20.44,15.97,11702,"gp_mid",-177.17,-47.59,"807",1,18.205,"burdigalian",1
+"14059",46368,"col","Dam",49.461666,26.361668,"Jabal Lidam",NA,"",1,"Burdigalian","",20.44,15.97,12357,"gp_mid",48.33,19.16,"503",1,18.205,"burdigalian",1
+"14136",46475,"col","",7.433333,47.116669,"Bucheggberg",NA,"Canton of Solothurn",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",9.88,43.78,"305",1,18.205,"burdigalian",1
+"14137",46476,"col","",8.162778,47.381943,"Staufberg",NA,"",2,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.58,44.03,"305",1,18.205,"burdigalian",1
+"14138",46477,"col","",7.965833,47.293888,"Zofingen",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.39,43.94,"305",1,18.205,"burdigalian",1
+"14139",46478,"col","",8.038056,47.283054,"Staffelbach-Bol",NA,"",3,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.46,43.93,"305",1,18.205,"burdigalian",1
+"14140",46479,"col","",7.833889,47.294445,"Katzenhole",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.26,43.95,"305",1,18.205,"burdigalian",1
+"14141",46480,"col","",7.965833,47.294445,"Kuzenhole marl stratum",NA,"",2,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.39,43.95,"305",1,18.205,"burdigalian",1
+"14142",46481,"col","",8.0825,47.316666,"Hirschthal-Sechsbuhen",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.5,43.96,"305",1,18.205,"burdigalian",1
+"14168",46521,"col","",7.765,47.200558,"Langenthal",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.19,43.86,"305",1,18.205,"burdigalian",1
+"14169",46522,"col","",7.456111,47.124168,"Schönberg",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",9.9,43.79,"305",1,18.205,"burdigalian",1
+"14171",46524,"col","",8.358611,47.450001,"Würenlos",NA,"Wurenlos",6,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.77,44.09,"305",1,18.205,"burdigalian",1
+"14172",46525,"col","",8.230833,47.411945,"Magenwil",NA,"Maggenwyl bei Lenzburg",4,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.65,44.05,"305",1,18.205,"burdigalian",1
+"14173",46526,"col","",8.055,47.341946,"Unter-Muhen bei Aarau",NA,"",1,"Burdigalian","",20.44,15.97,12186,"gp_mid",10.48,43.99,"305",1,18.205,"burdigalian",1
+"14240",46979,"col","Ranquil",-73.492996,-37.202999,"Punta El Fraile",NA,"",13,"Burdigalian","",20.44,15.97,12484,"gp_mid",-69.96,-36.44,"291",1,18.205,"burdigalian",1
+"14586",47426,"col","",7.833889,47.294724,"Katzenhohle",NA,"",1,"Burdigalian","",20.44,15.97,12747,"gp_mid",10.26,43.95,"305",1,18.205,"burdigalian",1
+"14587",47427,"col","",8.399722,45.081112,"Rosignano",NA,"",13,"Burdigalian","",20.44,15.97,13196,"gp_mid",11.55,41.02,"307",1,18.205,"burdigalian",1
+"15361",48642,"col","",21.406111,49.725555,"Felsöesztergály",NA,"",26,"Burdigalian","",20.44,15.97,12979,"gp_mid",23.09,46.07,"305",1,18.205,"burdigalian",1
+"15371",48653,"col","",7.804722,45.050556,"Valle Ceppi",NA,"",4,"Burdigalian","",20.44,15.97,12981,"gp_mid",10.99,41.04,"307",1,18.205,"burdigalian",1
+"15376",48660,"col","",-0.601111,44.728333,"Leognan",NA,"",89,"Burdigalian","",20.44,15.97,12099,"gp_mid",2.12,41.67,"305",1,18.205,"burdigalian",1
+"15378",48662,"col","",-0.115278,44.570278,"Barie",NA,"",1,"Burdigalian","",20.44,15.97,16830,"gp_mid",2.57,41.49,"305",1,18.205,"burdigalian",1
+"15895",50179,"col","Yaponskikh Kamney",165.5,60.216667,"Marine Bivalvia of Yaponskikh Kamney Suite in northeastern Kamchatka",NA,"",14,"Burdigalian","",20.44,15.97,13418,"gp_mid",161.83,63.36,"485",1,18.205,"burdigalian",1
+"16491",51190,"col","",17.321112,-30.324444,"Avontuur Mine",NA,"Ryskop",16,"Burdigalian","",20.44,15.97,13638,"gp_mid",15.46,-34.89,"701",1,18.205,"burdigalian",1
+"17095",52061,"col","Molasse of Saint Médard-en-Jalle",-0.354722,45.398056,"Saint-Medard-en-Jalle",NA,"",6,"Burdigalian","",20.44,15.97,13949,"gp_mid",2.4,42.33,"305",1,18.205,"burdigalian",1
+"18429",54170,"col","",-9.215556,38.664165,"Brielas",NA,"",1,"Burdigalian","",20.44,15.97,14646,"gp_mid",-6.55,35.97,"304",1,18.205,"burdigalian",1
+"18573",55530,"col","Marks Head",-81.358055,32.572498,"Porters Landing",NA,"",16,"Burdigalian","",20.44,15.97,14997,"gp_mid",-73.64,34.88,"109",1,18.205,"burdigalian",1
+"19320",56957,"col","Itahashi",133.009171,34.866943,"Monde-cho",NA,"",13,"Burdigalian","",20.44,15.97,15356,"gp_mid",130.36,34.54,"610",1,18.205,"burdigalian",1
+"20021",57780,"col","",4.882222,44.396667,"Chamaret",NA,"Drome, Romans",3,"Burdigalian","",20.44,15.97,12784,"gp_mid",7.3,41.15,"305",1,18.205,"burdigalian",1
+"20162",57959,"col","Calvert",-77.0625,38.018055,"Bristol Farms, Zone 3b",NA,"Cleveland Grigsby's Bristol Farms, Rollins Fork",1,"Burdigalian","",20.44,15.97,15588,"gp_mid",-68.51,39.92,"109",1,18.205,"burdigalian",1
+"20887",59265,"col","",5.783333,43.833332,"Reefal facies, Burdigalian, Manosque, Alpes de Haute-Provence",NA,"",20,"Burdigalian","",20.44,15.97,16944,"gp_mid",8.12,40.55,"305",1,18.205,"burdigalian",1
+"24356",65053,"col","",7.145833,47.194721,"Corgemont",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.61,43.87,"305",1,18.205,"burdigalian",1
+"24357",65054,"col","",7.499167,46.891388,"Belpberg",NA,"",2,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.93,43.56,"305",1,18.205,"burdigalian",1
+"24358",65055,"col","",8.333333,47.447224,"Neuenhof",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",10.74,44.09,"305",1,18.205,"burdigalian",1
+"24360",65057,"col","",7.969444,47.316666,"Safenwil-Striegel",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",10.39,43.97,"305",1,18.205,"burdigalian",1
+"24361",65058,"col","",6.463889,46.836109,"Granges, Ste-Croix",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",8.95,43.53,"305",1,18.205,"burdigalian",1
+"24362",65059,"col","",7,47.188889,"Cortebert",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.47,43.87,"305",1,18.205,"burdigalian",1
+"24366",65063,"col","",6.833333,47.099998,"Traveaux de la Gare de Chaux-de-Fonds",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.31,43.78,"305",1,18.205,"burdigalian",1
+"24367",65064,"col","",7.266667,47.238888,"Bevilard",NA,"Champ Benais",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.73,43.91,"305",1,18.205,"burdigalian",1
+"24370",65067,"col","",7.563889,47.613888,"Nenzlingen",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",10.03,44.28,"305",1,18.205,"burdigalian",1
+"24381",65081,"col","",8.486111,47.483334,"Neiderhasli",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",10.89,44.12,"305",1,18.205,"burdigalian",1
+"24383",65083,"col","",-1.146111,47.201111,"La Chaussairie",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",1.79,44.16,"305",1,18.205,"burdigalian",1
+"24463",65246,"col","",7.723611,45.058887,"Colle di Torino",NA,"Hill of Turin",3,"Burdigalian","",20.44,15.97,18833,"gp_mid",10.92,41.05,"307",1,18.205,"burdigalian",1
+"24540",65395,"col","",-1.3075,47.061943,"Saint Hilaire de Clisson",NA,"",29,"Burdigalian","",20.44,15.97,18847,"gp_mid",1.62,44.03,"305",1,18.205,"burdigalian",1
+"24636",65506,"col","",-9.330833,38.676388,"Praia de Carcavelos",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.66,35.99,"304",1,18.45,"burdigalian",1
+"24987",65950,"col","",-9.1925,38.466946,"Penedo Sul",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.55,35.77,"304",1,18.45,"burdigalian",1
+"24988",65951,"col","",-9.198889,38.455833,"Foz da Fonte",NA,"",1,"MN 3","",20,16.9,18869,"gp_mid",-6.55,35.76,"304",1,18.45,"burdigalian",1
+"25230",66288,"col","",4.789167,44.332222,"Saint-Restitut",NA,"",48,"Burdigalian","",20.44,15.97,18970,"gp_mid",7.21,41.08,"305",1,18.205,"burdigalian",1
+"25406",66595,"col","",-0.354722,45.398056,"Saint-Medard-en-Jalle, Miocene",NA,"",0,"Burdigalian","",20.44,15.97,12196,"gp_mid",2.4,42.33,"305",1,18.205,"burdigalian",1
+"27120",69539,"col","",6.8225,46.794167,"La Moliere",NA,"",13,"Burdigalian","",20.44,15.97,23348,"gp_mid",9.28,43.48,"305",1,18.205,"burdigalian",1
+"27470",70191,"col","Falun de Leognan",-0.561944,44.656113,"Le Peloua reef, Saucats Valley, Gironde",NA,"Reef 1988. La Bourasse. Péloua. Saucats (Péloua)",84,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.15,41.6,"305",1,18.205,"burdigalian",1
+"27478",70203,"col","",1.09,43.75,"Cabanes reef, Saint-Paul-les-Dax, Adour Valley, Landes",NA,"Reef 3571",66,"Burdigalian","",20.44,15.97,23527,"gp_mid",3.66,40.63,"305",1,18.205,"burdigalian",1
+"27604",70450,"col","",7.816667,45.066666,"Torino Hill, Piedmont",NA,"",231,"Burdigalian","",20.44,15.97,23527,"gp_mid",11,41.05,"307",1,18.205,"burdigalian",1
+"28813",72322,"col","Upper Marine Molasse",7.516667,46.866669,"Echinoidea, Hohburggraben section, Belpberg Beds",NA,"",3,"Burdigalian","",20.44,15.97,24530,"gp_mid",9.94,43.53,"305",1,18.205,"burdigalian",1
+"28886",72420,"col","Upper marine Molasse",7.516667,46.866669,"Echinoidea, Seitenberg section, Belpberg Beds",NA,"",1,"Burdigalian","",20.44,15.97,24530,"gp_mid",9.94,43.53,"305",1,18.205,"burdigalian",1
+"28887",72421,"col","Upper marine Molasse",7.516667,46.866669,"Echinoidea, Vorderfultigen and Hinterfultigen section, Belpberg Beds",NA,"",1,"Burdigalian","",20.44,15.97,24530,"gp_mid",9.94,43.53,"305",1,18.205,"burdigalian",1
+"28889",72423,"col","Upper Marine Molasse",7.516667,46.866669,"Echinoidea, Enggistein section, Belpberg Beds",NA,"",1,"Burdigalian","",20.44,15.97,24530,"gp_mid",9.94,43.53,"305",1,18.205,"burdigalian",1
+"29950",74807,"col","Turgut",28,37,"Turgut Fm (upper)",NA,"",6,"Burdigalian","",20.44,15.97,25210,"gp_mid",29.02,33.26,"504",1,18.205,"burdigalian",1
+"29971",74870,"col","",-0.6,44.650002,"Saucats (Burgidalian), Aquitaine",NA,"",7,"Burdigalian","",20.44,15.97,25224,"gp_mid",2.12,41.59,"305",1,18.205,"burdigalian",1
+"31427",78521,"col","Navidad",-71.866997,-33.948002,"Loc. 1 - Matanzas",NA,"",61,"Burdigalian","",20.44,15.97,26399,"gp_mid",-68.17,-33.25,"291",1,18.205,"burdigalian",1
+"31430",78524,"col","Navidad",-71.852997,-33.942001,"Loc. 4 - Punta Alta",NA,"",43,"Burdigalian","",20.44,15.97,26399,"gp_mid",-68.16,-33.24,"291",1,18.205,"burdigalian",1
+"31431",78525,"col","Ipún Beds",-74.763054,-44.60611,"Loc. 5 - Isla Ipún",NA,"",31,"Burdigalian","",20.44,15.97,26399,"gp_mid",-71.69,-43.78,"291",1,18.205,"burdigalian",1
+"31964",79649,"col","Asmari",50.979168,31.262777,"Lordegan, Zagros Mountains",NA,"",7,"Burdigalian","",20.44,15.97,26759,"gp_mid",50.06,23.98,"503",1,18.205,"burdigalian",1
+"34513",84262,"col","Molasse calcaire et sablo-marneuse",5.800833,43.849167,"Manosque",NA,"La Rochette",1,"Burdigalian","",20.44,15.97,28231,"gp_mid",8.14,40.57,"305",1,18.205,"burdigalian",1
+"35132",85260,"col","",4.979722,44.44278,"Taulignan",NA,"Midi",1,"Burdigalian","",20.44,15.97,33877,"gp_mid",7.4,41.19,"305",1,18.205,"burdigalian",1
+"35210",85360,"col","Calvert",-77.516113,37.777222,"Pamunkey River, near Hanover",NA,"",4,"Burdigalian","",20.44,15.97,12331,"gp_mid",-69.01,39.72,"109",1,18.205,"burdigalian",1
+"36187",87127,"col","Asmari",49.583332,31.716667,"Kuh-e Asmari",NA,"",6,"Burdigalian","",20.44,15.97,29249,"gp_mid",48.79,24.5,"503",1,18.205,"burdigalian",1
+"37497",88797,"col","Sables à Mactres",-0.543,44.713001,"Martillac",NA,"",2,"Burdigalian","",20.44,15.97,29773,"gp_mid",2.17,41.65,"305",1,18.205,"burdigalian",1
+"37499",88799,"col","",5.566667,43.900002,"Plateau des Courennes",NA,"",2,"Burdigalian","",20.44,15.97,29773,"gp_mid",7.92,40.63,"305",1,18.205,"burdigalian",1
+"37841",89448,"col","Calvert",-76.788612,37.965557,"US 360 at Pamunkey River",NA,"",1,"Burdigalian","",20.44,15.97,29991,"gp_mid",-68.24,39.85,"109",1,18.205,"burdigalian",1
+"37843",89454,"col","Calvert",-77.182503,37.619999,"Matadequin Creek",NA,"",0,"Burdigalian","",20.44,15.97,29991,"gp_mid",-68.7,39.54,"109",1,18.205,"burdigalian",1
+"37878",89549,"col","Calvert",-77.37056,37.766388,"Gravatt's Mill, near Hanover Court House",NA,"Gravett's Mill Pond",2,"Burdigalian","",20.44,15.97,29991,"gp_mid",-68.87,39.7,"109",1,18.205,"burdigalian",1
+"38873",91507,"col","",142.345276,45.142776,"Fujita coal mine",NA,"",1,"Burdigalian","",20.44,15.97,30804,"gp_mid",138.66,45.32,"609",1,18.205,"burdigalian",1
+"39367",92101,"col","",-9.2,38.666668,"Porto Brandao",NA,"",3,"Burdigalian","",20.44,15.97,31005,"gp_mid",-6.54,35.97,"304",1,18.205,"burdigalian",1
+"40056",93369,"col","Cipero Marl",-61.383331,10.266667,"""Lothinas Limestone"", quarry near Broomage [St Croix Limestone Mbr, Cipero Marl]",NA,"",14,"Burdigalian","",20.44,15.97,31588,"gp_mid",-55.83,10.53,"201",1,18.205,"burdigalian",1
+"40227",93877,"col","Taniguchi",136.986664,36.857498,"Harinoki",NA,"",1,"Burdigalian","",20.44,15.97,31889,"gp_mid",134.14,36.75,"610",1,18.205,"burdigalian",1
+"54942",114719,"col","Shale of Chateau Saint-Martin",3.761944,43.577778,"Pignan",NA,"",1,"Burdigalian","",20.44,15.97,37188,"gp_mid",6.19,40.36,"305",1,18.205,"burdigalian",1
+"57139",118060,"col","",7.178611,47.244167,"Saicourt",NA,"",1,"Burdigalian","",20.44,15.97,18736,"gp_mid",9.64,43.92,"305",1,18.205,"burdigalian",1
+"57140",118061,"col","",-1.347222,47.775833,"Noyal-sur-Brutz",NA,"Noyal sur Bruz",2,"Burdigalian","",20.44,15.97,18736,"gp_mid",1.64,44.74,"305",1,18.205,"burdigalian",1
+"67124",152327,"col","Pakaurangi",174.279831,-36.236179,"Holland's Point (Q08/f0582)",NA,"",4,"Burdigalian","",20.44,15.97,49018,"gp_mid",-179.23,-40.55,"806",1,18.205,"burdigalian",1
+"69065",136269,"col","Córcoles",-2.675833,40.471943,"Córcoles",NA,"Córcoles A and B",70,"MN 4","",16.9,15.97,43598,"gp_mid",-0.43,37.86,"304",1,16.435,"burdigalian",1
+"71776",140203,"col","",1.375556,41.231388,"Salomo",NA,"",1,"Burdigalian","",20.44,15.97,45275,"gp_mid",3.77,38.1,"304",1,18.205,"burdigalian",1
+"71777",140204,"col","",1.460278,41.186943,"Roda de bara",NA,"",1,"Burdigalian","",20.44,15.97,45275,"gp_mid",3.85,38.06,"304",1,18.205,"burdigalian",1
+"71778",140205,"col","",1.380556,41.146942,"Altafulla",NA,"",1,"Burdigalian","",20.44,15.97,45275,"gp_mid",3.77,38.02,"304",1,18.205,"burdigalian",1
+"74006",143603,"col","Castillo",-69.699997,10.569167,"Siquisique",NA,"",1,"Burdigalian","",20.44,15.97,46522,"gp_mid",-64.14,11.15,"203",1,18.205,"burdigalian",1
+"79955",152556,"col","",19.364201,47.776501,"Püspökhatvan, Takács-hegy (southern trench)",NA,"",6,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.03,42.91,"308",1,18.205,"burdigalian",1
+"79956",152557,"col","",19.385799,47.794498,"Acsa (west of Stare Vinica-hegy)",NA,"",1,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.05,42.92,"308",1,18.205,"burdigalian",1
+"79957",152558,"col","",19.355833,48.028057,"Szügypuszta",NA,"",1,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.06,43.16,"308",1,18.205,"burdigalian",1
+"79958",152559,"col","",19.6108,47.971699,"Felstold, Aszkalinka-hegy (east side)",NA,"",1,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.28,43.09,"308",1,18.205,"burdigalian",1
+"79959",152560,"col","",19.798889,48.103058,"Salgótarján (mine dump Károly shaft)",NA,"",2,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.47,43.2,"308",1,18.205,"burdigalian",1
+"79960",152561,"col","",19.798889,48.103058,"Salgótarján (Chlamys sandstone mine dump Károly shaft)",NA,"",2,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.47,43.2,"308",1,18.205,"burdigalian",1
+"79961",152562,"col","",19.798889,48.103058,"Salgótarján (sandpit above the former Casino)",NA,"",2,"Burdigalian","",20.44,15.97,49097,"gp_mid",22.47,43.2,"308",1,18.205,"burdigalian",1
+"84149",160736,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove",NA,"",35,"Burdigalian","",20.44,15.97,52420,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"84805",161591,"col","",4.933333,43.883331,"Caumont locality",NA,"",2,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.32,40.63,"305",1,18.205,"burdigalian",1
+"84818",161612,"col","",4.783333,44.316666,"Saint-Restitut locality",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.2,41.07,"305",1,18.205,"burdigalian",1
+"84819",161614,"col","",4.766667,43.933334,"Les Angles pres Villeneuve-les-Avignon",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.16,40.69,"305",1,18.205,"burdigalian",1
+"84820",161615,"col","",4.583333,43.883331,"Les Angles, Gard",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",6.99,40.64,"305",1,18.205,"burdigalian",1
+"84821",161617,"col","",4.85,44.333332,"La Baume-de-Tranzit",NA,"",2,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.27,41.08,"305",1,18.205,"burdigalian",1
+"84822",161618,"col","",5.65,43.866669,"Reillanne locality",NA,"",2,"Burdigalian","",20.44,15.97,52648,"gp_mid",8,40.59,"305",1,18.205,"burdigalian",1
+"84825",161621,"col","",4.766667,43.966667,"Pierrelongue près Villeneuve-lès-Avignon",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.17,40.72,"305",1,18.205,"burdigalian",1
+"84828",161624,"col","",4.65,44.183334,"Vénéjan locality",NA,"",1,"Burdigalian","",20.44,15.97,52648,"gp_mid",7.07,40.94,"305",1,18.205,"burdigalian",1
+"84946",161755,"col","",0.599722,43.729443,"Léognan, 33",NA,"",9,"Burdigalian","",20.44,15.97,52687,"gp_mid",3.19,40.63,"305",1,18.205,"burdigalian",1
+"84947",161756,"col","",0.716389,44.896389,"Saint-Médard-en-Jalles, 33",NA,"",2,"Burdigalian","",20.44,15.97,52687,"gp_mid",3.38,41.79,"305",1,18.205,"burdigalian",1
+"84948",161757,"col","",0.716389,44.896389,"Caupian, 33",NA,"",1,"Burdigalian","",20.44,15.97,52687,"gp_mid",3.38,41.79,"305",1,18.205,"burdigalian",1
+"84949",161758,"col","",0.595,44.653057,"Saucats, 33",NA,"",1,"Burdigalian","",20.44,15.97,52687,"gp_mid",3.25,41.55,"305",1,18.205,"burdigalian",1
+"85060",161895,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 5) [Laksarska Nova Ves Fm]",NA,"",3,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85061",161896,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 6) [Laksarska Nova Ves Fm]",NA,"",1,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85062",161897,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 8) [Laksarska Nova Ves Fm]",NA,"",7,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85063",161898,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 13) [Laksarska Nova Ves Fm]",NA,"",4,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85064",161899,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 14) [Laksarska Nova Ves Fm]",NA,"",3,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85065",161900,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 17) [Laksarska Nova Ves Fm]",NA,"",8,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85066",161901,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 20) [Laksarska Nova Ves Fm]",NA,"",10,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"85067",161902,"col","Laksarska Nova Ves",17.380833,48.586945,"Cerova-Lieskove section (sample 21) [Laksarska Nova Ves Fm]",NA,"",8,"Burdigalian","",20.44,15.97,52722,"gp_mid",20.33,43.85,"308",1,18.205,"burdigalian",1
+"86299",164652,"col","",7.8,45.049999,"Valle Vergnana, Torino Hills",NA,"",2,"Burdigalian","",20.44,15.97,53798,"gp_mid",10.99,41.04,"307",1,18.205,"burdigalian",1
+"86329",164740,"col","",117,1,"Kari Orang, East Kalimantan, TF275",NA,"",19,"Burdigalian","",20.44,15.97,53783,"gp_mid",121.7,0.85,"620",1,18.205,"burdigalian",1
+"86333",164745,"col","",117,0,"Bontang Mine, East Kalimantan, TF18",NA,"",1,"Burdigalian","",20.44,15.97,53783,"gp_mid",121.85,-0.13,"620",1,18.205,"burdigalian",1
+"88036",168746,"col","",117,-0.566667,"Senoni",NA,"",4,"Burdigalian","",20.44,15.97,55182,"gp_mid",121.94,-0.69,"620",1,18.205,"burdigalian",1
+"89635",171357,"col","",-0.666667,44.75,"Cestas (Fourcq)",NA,"",1,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.06,41.69,"305",1,18.205,"burdigalian",1
+"89636",171358,"col","",-0.683333,44.733334,"Cestas (Cazeaux)",NA,"",2,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.04,41.68,"305",1,18.205,"burdigalian",1
+"89637",171359,"col","",-0.633333,44.75,"Canéjan (Bouscaut)",NA,"",1,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.09,41.69,"305",1,18.205,"burdigalian",1
+"89638",171360,"col","",-0.583333,44.633331,"Saucats (Coquillière), Gironde",NA,"",8,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.13,41.57,"305",1,18.205,"burdigalian",1
+"89639",171361,"col","",-0.607778,44.65139,"Saucats (Pont-Pourquey), Gironde",NA,"",7,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.11,41.59,"305",1,18.205,"burdigalian",1
+"89640",171362,"col","",-0.566667,44.700001,"Martillac (Vigne, Barreau)",NA,"",4,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.15,41.64,"305",1,18.205,"burdigalian",1
+"89643",171366,"col","",-0.65,44.799999,"Pessac (Lorient) ",NA,"",1,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.08,41.74,"305",1,18.205,"burdigalian",1
+"89644",171367,"col","Falun de Bazas",-0.483333,44.450001,"Uzeste (Gamachot), Villandraut, Berdigots",NA,"",3,"Burdigalian","",20.44,15.97,55728,"gp_mid",2.21,41.39,"305",1,18.205,"burdigalian",1
+"90877",174763,"col","Lakšárska Nová Ves",17.402,48.588001,"Cerová, level 29",NA,"",1,"Burdigalian","",20.44,15.97,57133,"gp_mid",20.35,43.85,"308",1,18.205,"burdigalian",1
+"91079",175184,"col","Setap",113.809998,4.055,"BK75, Bekenu",NA,"",11,"Burdigalian","",20.44,15.97,57145,"gp_mid",118.05,2.63,"621",1,18.205,"burdigalian",1
+"91080",175185,"col","Castillo",-70.070557,10.368056,"Cerro La Cruz",NA,"",3,"Burdigalian","",20.44,15.97,57241,"gp_mid",-64.52,10.97,"203",1,18.205,"burdigalian",1
+"92182",178108,"col","Termofourà",7.804722,45.050556,"Valle Ceppi, Torvino Hills",NA,"",644,"Burdigalian","",20.44,15.97,58924,"gp_mid",10.99,41.04,"307",1,18.205,"burdigalian",1
+"92183",178110,"col","Termofourà",7.816667,45.058334,"Val Sanfrà, Torvino Hills",NA,"",265,"Burdigalian","",20.44,15.97,58924,"gp_mid",11,41.04,"307",1,18.205,"burdigalian",1
+"92184",178111,"col","Termofourà",7.770833,45.041668,"Villa Bertini, Torvino Hills",NA,"",81,"Burdigalian","",20.44,15.97,58924,"gp_mid",10.96,41.03,"307",1,18.205,"burdigalian",1
+"92427",178524,"col","",0.573,44.659,"Moulin de l’Église, Saucats",NA,"Giraudot; Giraudeau",5,"Burdigalian","",20.44,15.97,59706,"gp_mid",3.23,41.56,"305",1,18.205,"burdigalian",1
+"93245",179849,"col","Kurosedani",137.179993,36.575001,"Dogawara, Zuhara, Osawano-machi",NA,"",1,"Burdigalian","",20.44,15.97,59662,"gp_mid",134.36,36.48,"610",1,18.205,"burdigalian",1
+"93246",179850,"col","Tochizu",137.179993,36.575001,"Miyaji, Gohyakukoku, Tateyama-machi",NA,"",1,"Burdigalian","",20.44,15.97,59662,"gp_mid",134.36,36.48,"610",1,18.205,"burdigalian",1
+"93248",179852,"col","Kurosedani",137.179993,36.575001,"Tsuzara, near Sasazu in Etchu",NA,"",1,"Burdigalian","",20.44,15.97,59667,"gp_mid",134.36,36.48,"610",1,18.205,"burdigalian",1
+"93251",179855,"col","",-0.5885,44.650501,"Moulin de Lagus, Saucats",NA,"",1,"Burdigalian","",20.44,15.97,59671,"gp_mid",2.13,41.59,"305",1,18.205,"burdigalian",1
+"93253",179857,"col","",-0.694,44.756001,"Cestas, Pré-Cazeaux",NA,"",1,"Burdigalian","",20.44,15.97,59671,"gp_mid",2.03,41.7,"305",1,18.205,"burdigalian",1
+"93259",179863,"col","",-0.5885,44.650501,"Saucats (Lagus)",NA,"",1,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.13,41.59,"305",1,18.205,"burdigalian",1
+"93260",179864,"col","",-0.6085,44.7215,"Coquillat, Léognan",NA,"",1,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.11,41.66,"305",1,18.205,"burdigalian",1
+"93261",179865,"col","",-0.619,44.7145,"Les Bougès, Léognan",NA,"",1,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.1,41.66,"305",1,18.205,"burdigalian",1
+"93324",179939,"col","",-0.694,44.756001,"Cestas (Bordeaux collection)",NA,"",1,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.03,41.7,"305",1,18.205,"burdigalian",1
+"93325",179940,"col","",-0.65,44.82,"Mérignac (Pontic)",NA,"",1,"Burdigalian","",20.44,15.97,59706,"gp_mid",2.08,41.76,"305",1,18.205,"burdigalian",1
+"93345",179972,"col","Lacui",-73.748001,-41.742001,"Punta Chocoi",NA,"",1,"Burdigalian","",20.44,15.97,59729,"gp_mid",-70.5,-40.96,"291",1,18.205,"burdigalian",1
+"93349",179976,"col","Lacui",-74.123001,-42.689999,"Cucao",NA,"",3,"Burdigalian","",20.44,15.97,59729,"gp_mid",-70.93,-41.89,"291",1,18.205,"burdigalian",1
+"94992",184756,"col","",-2.741389,40.085835,"La Retama",NA,"",1,"Orleanian","",20,15.97,35910,"gp_mid",-0.24,37.12,"304",1,17.985,"burdigalian",1
+"95755",186096,"col","Lacui",-74.123001,-42.689999,"Cucao, Chiloe Island (Feldmann locality)",NA,"",1,"Burdigalian","",20.44,15.97,14404,"gp_mid",-70.93,-41.89,"291",1,18.205,"burdigalian",1
+"95798",186455,"col","",39.396389,44.797222,"Voskovaya Mount",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",39.86,41.03,"302",1,18.205,"burdigalian",1
+"95799",186456,"col","Sakaraul Horizon",39.808887,44.375557,"Shirvanskaya",NA,"",1,"Burdigalian","",20.44,15.97,59519,"gp_mid",40.25,40.61,"302",1,18.205,"burdigalian",1
+"95801",186458,"col","",41.231388,44.014999,"Urup River",NA,"",3,"Burdigalian","",20.44,15.97,59519,"gp_mid",41.59,40.26,"302",1,18.205,"burdigalian",1
+"95802",186459,"col","",44.093613,43.419445,"Chyornaya River",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",44.3,39.68,"402",1,18.205,"burdigalian",1
+"95803",186460,"col","",48.132294,42.286415,"Ullu-Chai",NA,"",0,"Burdigalian","",20.44,15.97,59519,"gp_mid",48.14,38.59,"402",1,18.205,"burdigalian",1
+"96881",189440,"col","Castillo",-70.050003,10.366667,"Cerro Zamuro",NA,"",6,"Burdigalian","",20.44,15.97,63644,"gp_mid",-64.5,10.96,"203",1,18.205,"burdigalian",1
+"97209",190535,"col","Rio Yuka",-70.083336,8.966389,"Rio Yuka assemblage",NA,"",6,"Burdigalian","",20.44,15.97,64065,"gp_mid",-64.59,9.57,"201",1,18.205,"burdigalian",1
+"98107",193998,"col","Castillo",-70.070557,10.368056,"Cerro La Cruz, cast-38",NA,"Cast 38",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",1,18.205,"burdigalian",1
+"98108",193999,"col","Castillo",-70.070557,10.368056,"Cerro La Cruz, cast-40",NA,"Cast 40",5,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",1,18.205,"burdigalian",1
+"98109",194000,"col","Castillo",-70.070557,10.368056,"Cerro La Cruz, cast-47",NA,"Cast 47",2,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.52,10.97,"203",1,18.205,"burdigalian",1
+"98110",194001,"col","Castillo",-70.085281,10.363333,"Quebrada Agua Viva",NA,"5 km west of Cerro La Cruz",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.54,10.96,"203",1,18.205,"burdigalian",1
+"98111",194002,"col","Castillo",-70.085281,10.363333,"Cerro Pedreguyoso",NA,"",1,"Burdigalian","",20.44,15.97,65893,"gp_mid",-64.54,10.96,"203",1,18.205,"burdigalian",1
+"98434",195334,"col","Pakaurangi",174.287003,-36.233002,"AU7026, Waipukua Bay (N28/f868)",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-179.23,-40.55,"806",1,18.205,"burdigalian",1
+"98435",195335,"col","Pakaurangi",174.294006,-36.235001,"AU7028, Pakaurangi Point (N28/f869)",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-179.22,-40.55,"806",1,18.205,"burdigalian",1
+"98439",195339,"col","Pakaurangi",174.279999,-36.233002,"OU45764, Hollands member type section",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-179.23,-40.55,"806",1,18.205,"burdigalian",1
+"98489",195389,"col","Pakaurangi",174.171005,-36.223,"AU10103, Nihotetea Creek (Q08/f234)",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-179.35,-40.56,"806",1,18.205,"burdigalian",1
+"98491",195391,"col","Nihotupu",174.546005,-36.903,"MA91060, Opanuku Stream, Walkers Bush",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-178.75,-41.15,"806",1,18.205,"burdigalian",1
+"98498",195398,"col","Pakaurangi",174.279999,-36.233002,"OU45765, Hollands member type section",NA,"",1,"Burdigalian","",20.44,15.97,66281,"gp_mid",-179.23,-40.55,"806",1,18.205,"burdigalian",1
+"101714",203168,"col","Punta Carballo",-84.739197,9.9568,"Doña Ana beach",NA,"",2,"Burdigalian","",20.44,15.97,69676,"gp_mid",-81.45,12.54,"204",1,18.205,"burdigalian",1
+"101715",203167,"col","Punta Carballo",-84.734444,9.940833,"Roca Carballo",NA,"",1,"Burdigalian","",20.44,15.97,69675,"gp_mid",-81.45,12.52,"204",1,18.205,"burdigalian",1
+"102733",205112,"col","Husillo",-82.169724,22.962221,"Cantera Portugalete",NA,"",4,"Burdigalian","",20.44,15.97,70390,"gp_mid",-75.54,25.39,"206",1,18.205,"burdigalian",1
+"103163",205719,"col","",-74.669998,-44.665001,"Wave cut bench, west side of Stokes Island",NA,"",1,"Burdigalian","",20.44,15.97,70510,"gp_mid",-71.61,-43.85,"291",1,18.205,"burdigalian",1
+"104646",209108,"col","Dam",50.91,24.85,"Saleha SE, upper Dam 5",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.58,"503",1,18.205,"burdigalian",1
+"104649",209111,"col","Dam",50.869999,24.68,"NNE Qarn Abu Wail, upper Dam 2",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.57,17.41,"503",1,18.205,"burdigalian",1
+"104650",209112,"col","Dam",50.895,24.75,"Hazm Mishabiyah, upper Dam 4",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.6,17.48,"503",1,18.205,"burdigalian",1
+"104651",209113,"col","Dam",51.185001,24.959999,"NNE Gurain al Balbul, lower Dam 2",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.88,17.67,"503",1,18.205,"burdigalian",1
+"104652",209114,"col","Dam",50.91,24.865,"An Nafkhah SE, lower Dam 6",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.59,"503",1,18.205,"burdigalian",1
+"104653",209115,"col","Dam",51.029999,25,"Taas al Karanah, lower Dam 7",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.74,17.72,"503",1,18.205,"burdigalian",1
+"104654",209116,"col","Dam",50.91,24.865,"An Nafkhah E, lower Dam 8",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.62,17.59,"503",1,18.205,"burdigalian",1
+"104655",209117,"col","Dam",51.029999,24.700001,"Ali Bin Said, lower Dam 9",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.72,17.42,"503",1,18.205,"burdigalian",1
+"104656",209118,"col","Dam",51.200001,24.93,"NE Khararah-SE Gurain al Balbul, lower Dam 1",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.9,17.64,"503",1,18.205,"burdigalian",1
+"104657",209119,"col","Dam",50.869999,24.68,"NNE Qarn Abu Wail, upper Dam 6",NA,"",1,"Burdigalian","",20.44,15.97,72184,"gp_mid",49.57,17.41,"503",1,18.205,"burdigalian",1
+"104699",209200,"col","San Marino",12.45,43.93,"Monte Titano (San Marino Fm)",NA,"",2,"Burdigalian","",20.44,15.97,72204,"gp_mid",15.15,39.56,"307",1,18.205,"burdigalian",1
+"104701",209203,"col","San Marino",12.43,43.939999,"Monte Cerreto (San Marino Fm)",NA,"",1,"Burdigalian","",20.44,15.97,72204,"gp_mid",15.13,39.57,"307",1,18.205,"burdigalian",1
+"105624",210623,"col","Pétervására",19.656944,48.236668,"Ipolytarnóc, Miocene",NA,"",24,"Burdigalian","",20.44,15.97,72646,"gp_mid",22.36,43.35,"308",1,18.205,"burdigalian",1

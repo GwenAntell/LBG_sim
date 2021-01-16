@@ -20,7 +20,6 @@ rm(list=ls())
 source("./R/figures/GIF.R") #generate GIF and spatial sampling grid plots 
 rm(list=ls())
 
-
 #frequency distributions
 source("./R/subscripts/range_freq_dist.R") #range frequency distribution analyses
 rm(list=ls())
@@ -36,8 +35,8 @@ source("./R/subscripts/compute_LBGs.R") #compute LBGs for simulated data
 rm(list=ls())
 source("./R/subscripts/sample_LBGs.R") #sample and compute LBGs for simulated data
 rm(list=ls())
-source("./R/subscripts/rarefy_LBGs.R") #rarefy sampled simulated data
-rm(list=ls())
+#source("./R/subscripts/rarefy_LBGs.R") #rarefy sampled simulated data
+#rm(list=ls())
 source("./R/subscripts/compile_data.R") #compiled LBG data
 rm(list=ls())
 source("./R/figures/LBG_plots.R") #generate individual LBG plots

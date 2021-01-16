@@ -1,142 +1,118 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number"
-"1355",2915,"col","Porters Creek",-87.76,32.2,"AMa-1 (Porters Creek)",NA,"",8,"Selandian","",61.6,59.2,124,"gp_mid",-59.27,36.39,"101",60.4,"selandian",412,-65.3472,34.6961,18
-"1356",2916,"col","Porters Creek",-87.57,32.12,"AWi-11 (Porters Creek)",NA,"",13,"Selandian","",61.6,59.2,124,"gp_mid",-59.12,36.26,"101",60.4,"selandian",413,-65.3472,34.6961,18
-"1357",2917,"col","Porters Creek",-87.45,32.03,"AWi-12 (Porters Creek)",NA,"",17,"Selandian","",61.6,59.2,124,"gp_mid",-59.03,36.14,"109",60.4,"selandian",414,-65.3472,34.6961,18
-"1358",2918,"col","Porters Creek",-87.42,32.03,"AWi-13 (Porters Creek)",NA,"",35,"Selandian","",61.6,59.2,124,"gp_mid",-59.01,36.13,"109",60.4,"selandian",415,-65.3472,34.6961,18
-"1359",2919,"col","Porters Creek",-87.45,32.03,"AWi-14 (Porters Creek)",NA,"",48,"Selandian","",61.6,59.2,124,"gp_mid",-59.03,36.14,"109",60.4,"selandian",414,-65.3472,34.6961,18
-"3285",7791,"col","Ewekoro",3.19,6.92,"Ewekoro Quarry",NA,"",237,"Selandian","",61.6,59.2,496,"gp_mid",3.32,-5.75,"714",60.4,"selandian",1110,-0.7556,-0.5043,18
-"12294",22943,"col","Agatdal",-53.07,70.6,"Sonja Lens, Agatdalen, Nugssuaq, Greenland",NA,"",176,"Selandian","",61.6,59.2,6604,"gp_mid",-7.05,59.75,"102",60.4,"selandian",2272,-20.8799,62.1428,18
-"12295",22944,"col","Agatdal",-53.1,70.6,"Turritellakloft, Agatdalen, Turritellakloft Member, Nugssuaq, Greenland",NA,"",78,"Selandian","",61.6,59.2,6604,"gp_mid",-7.07,59.75,"102",60.4,"selandian",2273,-20.8799,62.1428,18
-"12296",22945,"col","Agatdal",-53.05,70.6,"Qaersutjaegerdal, Agatdalen, Nugssuaq, Greenland",NA,"",40,"Selandian","",61.6,59.2,6604,"gp_mid",-7.04,59.74,"102",60.4,"selandian",2274,-20.8799,62.1428,18
-"20473",35263,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 1a-b",NA,"",112,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"20474",35264,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 1c",NA,"",103,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"20475",35265,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 2",NA,"",130,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"20476",35266,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 3",NA,"",146,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"20477",35267,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen 4, Selandian, Denmark",NA,"",125,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"33117",51500,"col","Lellinge Greensand",10.47,55.48,"Klintebjerg",NA,"",61,"Selandian","",61.6,59.2,13698,"gp_mid",17.38,44.7,"302",60.4,"selandian",7918,10.0375,49.4083,18
-"45580",68176,"col","",-5.85,34.32,"Ouled Abdoun Basin (lowermost bed 1)",NA,"quarries of Sidi Daoui and Recette 4",5,"Selandian","",61.6,59.2,23856,"gp_mid",NA,NA,"coordinates not computable using this model",60.4,"selandian",11067,-6.4027,28.377,18
-"45793",68431,"col","Heers",5,50.71,"Maret",NA,"",7,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",60.4,"selandian",11112,3.5622,44.2895,18
-"45794",68432,"col","Hannut",5,50.71,"Maret (Tuffeau de Lincent)",NA,"",2,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",60.4,"selandian",11112,3.5622,44.2895,18
-"46174",68822,"col","Waipara Greensand",172.6,-43.07,"Waipara River M34/f453",NA,"",5,"Selandian","",61.6,59.2,19864,"gp_mid",-151.52,-48.23,"807",60.4,"selandian",11215,-155.5366,-57.3365,18
-"46616",69608,"col","Agatdal",-53.1,70.6,"Turritellakloft, Agatdalen, Abraham Member, Nugssuaq, Greenland",NA,"",5,"Selandian","",61.6,59.2,23353,"gp_mid",-7.07,59.75,"102",60.4,"selandian",2273,-20.8799,62.1428,18
-"49788",74643,"col","",11.07,52.28,"Walbeck",NA,"",24,"Selandian","",61.6,59.2,25122,"gp_mid",17.65,41.48,"315",60.4,"selandian",12177,10.1754,46.91,18
-"52286",79300,"col","",14,45.73,"Dolenja vas West, Bed 22",NA,"Dolenja vas, Bed 22",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",60.4,"selandian",12995,18.5265,34.2836,18
-"52287",79301,"col","",14,45.73,"Dolenja vas West, Bed 23",NA,"Dolenja vas, Bed 23",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",60.4,"selandian",12995,18.5265,34.2836,18
-"53007",80977,"col","Hornerstown",-74.75,39.93,"Vincentown (Bryan collection, Hornerstown Fm)",NA,"",1,"Selandian","",61.6,59.2,27244,"gp_mid",-43.33,40.03,"109",60.4,"selandian",13251,-52.1313,40.0052,18
-"53466",81800,"col","Vine Hill Sandstone",-122.12,37.97,"UCMP 243, south of Muir Station",NA,"",7,"Selandian","",61.6,59.2,64128,"gp_mid",-90.02,47.67,"130",60.4,"selandian",13434,NA,NA,18
-"53603",82060,"col","Landana",12.13,-5.22,"Bed 4, Landana Section",NA,"",4,"Selandian","",61.6,59.2,27671,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18
-"53604",195086,"col","Landana",12.13,-5.23,"Landana Section (layer 1)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"55356",84469,"col","Porters Creek",-87.28,31.98,"ALA-1",NA,"",28,"Selandian","",61.6,59.2,28119,"gp_mid",-58.89,36.05,"109",60.4,"selandian",14076,-65.3472,34.6961,18
-"55357",84471,"col","Porters Creek",-87.28,31.98,"ALA-2",NA,"",21,"Selandian","",61.6,59.2,28119,"gp_mid",-58.89,36.05,"109",60.4,"selandian",14076,-65.3472,34.6961,18
-"55840",85066,"col","Porters Creek",-87.15,31.93,"Oak Hill",NA,"",1,"Selandian","",61.6,59.2,28573,"gp_mid",-58.78,35.96,"109",60.4,"selandian",14255,-65.3472,34.6961,18
-"56351",85839,"col","Waipara Greensand",172.53,-43.03,"Waipara River M34/fl138",NA,"",3,"Selandian","",61.6,59.2,19864,"gp_mid",-151.59,-48.2,"807",60.4,"selandian",14420,-155.5366,-57.3365,18
-"56558",86172,"col","Porters Creek",-88,32.23,"ACh-1 Rep 1",NA,"",25,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",60.4,"selandian",14545,-65.3472,34.6961,18
-"56559",86173,"col","Porters Creek",-88,32.23,"ACh-1 Rep 2",NA,"",20,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",60.4,"selandian",14545,-65.3472,34.6961,18
-"56560",86174,"col","Porters Creek",-88,32.23,"ACh-1 Rep 3",NA,"",10,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",60.4,"selandian",14545,-65.3472,34.6961,18
-"56561",86175,"col","Porters Creek",-88,32.23,"ACh-1 Rep 4",NA,"",18,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",60.4,"selandian",14545,-65.3472,34.6961,18
-"56566",86180,"col","Porters Creek",-87.43,32.02,"AWi-13 Rep 3",NA,"",11,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",60.4,"selandian",14547,-65.3472,34.6961,18
-"56567",86181,"col","Porters Creek",-87.43,32.02,"AWi-14 Rep 1",NA,"",24,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",60.4,"selandian",14547,-65.3472,34.6961,18
-"56568",86182,"col","Porters Creek",-87.43,32.02,"AWi-14 Rep 2",NA,"",28,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",60.4,"selandian",14547,-65.3472,34.6961,18
-"56570",86184,"col","Porters Creek",-87.43,32.02,"AWi-14 Rep 4",NA,"",9,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",60.4,"selandian",14547,-65.3472,34.6961,18
-"56572",86186,"col","Porters Creek",-87.43,32.02,"AWi-14 Rep 5",NA,"",11,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",60.4,"selandian",14547,-65.3472,34.6961,18
-"56583",86259,"col","Porters Creek",-87.43,31.02,"PRI Matthews Landing 1",NA,"",1,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",60.4,"selandian",14549,-65.966,32.25,18
-"56584",86262,"col","Porters Creek",-87.43,31.02,"PRI Matthews Landing 2",NA,"",4,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",60.4,"selandian",14549,-65.966,32.25,18
-"57764",87817,"col","Porters Creek",-87.42,32.02,"Matthews Landing",NA,"",20,"Selandian","",61.6,59.2,13490,"gp_mid",-59.01,36.12,"109",60.4,"selandian",14957,-65.3472,34.6961,18
-"59183",89867,"col","Naheola",-87.35,31.9,"Locality B",NA,"AWi-20",11,"Selandian","",61.6,59.2,29915,"gp_mid",-58.99,35.99,"109",60.4,"selandian",15417,-65.3472,34.6961,18
-"59193",89947,"col","Porters Creek",-87.28,31.98,"Parsely Creek",NA,"",11,"Selandian","",61.6,59.2,29915,"gp_mid",-58.89,36.05,"109",60.4,"selandian",14076,-65.3472,34.6961,18
-"59614",90605,"col","Naheola",-88.02,32.23,"PRI 2181",NA,"",4,"Selandian","",61.6,59.2,11845,"gp_mid",-59.52,36.49,"101",60.4,"selandian",15610,-65.3472,34.6961,18
-"59615",90606,"col","Porters Creek",-87.28,31.98,"PRI 2185",NA,"",59,"Selandian","",61.6,59.2,11845,"gp_mid",-58.89,36.05,"109",60.4,"selandian",14076,-65.3472,34.6961,18
-"59617",90607,"col","Naheola",-87.08,31.92,"PRI 2186",NA,"",10,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"59618",90608,"col","Naheola",-87.08,31.92,"PRI 2187",NA,"",11,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"59624",98384,"col","Naheola",-88.03,32.37,"M 672",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-59.48,36.62,"101",60.4,"selandian",15614,-65.3472,34.6961,18
-"60517",91853,"col","Porters Creek",-87.4,32.13,"M 27",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",60.4,"selandian",15926,-65.3472,34.6961,18
-"60537",91873,"col","Porters Creek",-92.29,34.75,"M 34",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-62.76,40.03,"101",60.4,"selandian",15939,-72.2872,38.4491,18
-"60816",92156,"col","Porters Creek",-84.31,32.24,"M 328",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-55.86,35.47,"109",60.4,"selandian",16012,-61.6014,34.031,18
-"61002",92371,"col","Naheola",-85.05,31.61,"PRI 2219",NA,"",5,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",60.4,"selandian",16093,-65.3472,34.6961,18
-"61007",92376,"col","Porters Creek",-88.95,34.73,"PRI 2259a",NA,"",3,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",60.4,"selandian",16097,-68.4709,37.7987,18
-"61166",92602,"col","Porters Creek",-87.57,32.03,"TU 325 - Kimbrough [Matthews Landing Marl]",NA,"",2,"Selandian","",61.6,59.2,31182,"gp_mid",-59.15,36.17,"109",60.4,"selandian",16134,-65.3472,34.6961,18
-"61168",92604,"col","Porters Creek",-87.57,32.03,"TU 735 - Kimbrough [Matthews Landing Marl]",NA,"",1,"Selandian","",61.6,59.2,31182,"gp_mid",-59.15,36.17,"109",60.4,"selandian",16134,-65.3472,34.6961,18
-"63895",95909,"col","Mead Hill",174.07,-41.92,"P30/f461 Woodside Creek",NA,"",55,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",60.4,"selandian",16927,-155.5366,-57.3365,18
-"63896",95910,"col","Mead Hill",174.07,-41.92,"P30/f376 Woodside Creek",NA,"",39,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",60.4,"selandian",16927,-155.5366,-57.3365,18
-"65518",98262,"col","Porters Creek",-88.02,32.23,"M 642",NA,"",6,"Selandian","",61.6,59.2,11845,"gp_mid",-59.52,36.49,"101",60.4,"selandian",15610,-65.3472,34.6961,18
-"65660",98417,"col","Porters Creek",-87.4,32.13,"M 441",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",60.4,"selandian",15926,-65.3472,34.6961,18
-"65661",98418,"col","Porters Creek",-87.08,31.92,"M 442",NA,"",9,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"65665",98421,"col","Porters Creek",-87.29,31.99,"M 444",NA,"",5,"Selandian","",61.6,59.2,11845,"gp_mid",-58.9,36.06,"109",60.4,"selandian",17499,-65.3472,34.6961,18
-"65666",98422,"col","Porters Creek",-87.08,31.92,"M 445",NA,"",3,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"65667",98423,"col","Porters Creek",-87.08,31.92,"M 443",NA,"",4,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"65670",98426,"col","Naheola",-87.27,32.07,"M 674",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.84,36.12,"109",60.4,"selandian",17502,-65.3472,34.6961,18
-"65673",98429,"col","Porters Creek",-87.08,31.92,"M 677",NA,"",10,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"65676",98432,"col","Porters Creek",-87.08,31.92,"M 683",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",60.4,"selandian",15611,-65.3472,34.6961,18
-"65678",98434,"col","Porters Creek",-87.4,32.13,"M 857",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",60.4,"selandian",15926,-65.3472,34.6961,18
-"65681",98436,"col","Naheola",-87.05,31.94,"M 860",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.68,35.94,"109",60.4,"selandian",17506,-65.3472,34.6961,18
-"65682",98437,"col","Naheola",-87.05,31.94,"M 861",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-58.68,35.94,"109",60.4,"selandian",17506,-65.3472,34.6961,18
-"65748",98521,"col","Porters Creek",-88.95,34.73,"M 879",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",60.4,"selandian",16097,-68.4709,37.7987,18
-"65750",98523,"col","Naheola",-88.95,34.73,"M 898",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",60.4,"selandian",16097,-68.4709,37.7987,18
-"65866",98639,"col","Porters Creek",-85.05,31.61,"M 887",NA,"",0,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",60.4,"selandian",16093,-65.3472,34.6961,18
-"71470",106699,"col","Menat",2.9,46.1,"Menat (Oudard coll.)",NA,"",2,"Selandian","",61.6,59.2,35652,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"77337",113685,"col","Menat",2.9,46.1,"Menat (Piton collection)",NA,"",113,"Selandian","",61.6,59.2,38448,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"77338",113686,"col","Menat",2.9,46.1,"Menat (Guillot coll.)",NA,"",1,"Selandian","",61.6,59.2,53100,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"77403",113750,"col","Menat",2.9,46.1,"Menat (Clermont-Ferrand coll)",NA,"",3,"Selandian","",61.6,59.2,36944,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"77410",113759,"col","Landana",12.19,-5.55,"Landana cliffs (layer 8)",NA,"Congosaurus bequaerti type locality",2,"Selandian","",61.6,59.2,54617,"gp_mid",9.66,-19.82,"701",60.4,"selandian",21731,4.954,-13.9326,18
-"82103",119661,"col","Kauru",170.75,-45.06,"J41/f220",NA,"Raupo Creek; Five Forks",3,"Selandian","",61.6,59.2,38383,"gp_mid",-153.68,-50.17,"807",60.4,"selandian",22897,-155.886,-59.8298,18
-"82699",120351,"col","Menat",2.9,46.1,"Menat (Piacentini coll.)",NA,"",5,"Selandian","",61.6,59.2,53100,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"82700",120352,"col","Menat",2.9,46.1,"Menat (Des Forest coll.)",NA,"",3,"Selandian","",61.6,59.2,53100,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"82853",120579,"col","Menat",2.9,46.1,"Menat (Olivier coll.)",NA,"",12,"Selandian","",61.6,59.2,38542,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"85028",123436,"col","Menat",2.9,46.1,"Menat (MNHN coll)",NA,"",14,"Selandian","",61.6,59.2,39599,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"85052",123463,"col","Menat",2.9,46.1,"Menat (MNT collection)",NA,"",27,"Selandian","",61.6,59.2,39660,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"85520",124000,"col","Atanikerluk",-52.22,70.06,"Upper Atanekerdluk",NA,"",4,"Selandian","",61.6,59.2,48994,"gp_mid",-7.15,59.14,"102",60.4,"selandian",23986,-20.8799,62.1428,18
-"92189",133217,"col","",-6.68,32.65,"Sidi Chennane quarries, bed IIa",NA,"Lahimia selloumi type",11,"Selandian","",61.6,59.2,42871,"gp_mid",0.64,21.45,"707",60.4,"selandian",25576,-6.9563,25.926,18
-"98820",141255,"col","",-66.94,-45.05,"Las Violetas",NA,"",0,"Selandian","",61.6,59.2,45812,"gp_mid",-56.44,-47.04,"291",60.4,"selandian",27398,-53.5642,-47.8186,18
-"107556",152290,"col","Atanikerluk",-52.14,70.05,"Naujat",NA,"",1,"Selandian","",61.6,59.2,48994,"gp_mid",-7.12,59.11,"102",60.4,"selandian",28836,-20.8799,62.1428,18
-"107557",152291,"col","Atanikerluk",-52.22,70.06,"Atanekerdluk (1850s collections)",NA,"",4,"Selandian","",61.6,59.2,48995,"gp_mid",-7.15,59.14,"102",60.4,"selandian",23986,-20.8799,62.1428,18
-"107558",152292,"col","Atanikerluk",-52.22,70.06,"Atanekerdluk (Whymper collection)",NA,"",2,"Selandian","",61.6,59.2,48996,"gp_mid",-7.15,59.14,"102",60.4,"selandian",23986,-20.8799,62.1428,18
-"107559",152293,"col","Atanikerluk",-53.15,69.32,"Puilasok",NA,"",2,"Selandian","",61.6,59.2,48997,"gp_mid",-8.43,58.68,"102",60.4,"selandian",28837,-20.8799,62.1428,18
-"107560",152294,"col","Atanikerluk",-54.77,70.43,"Haseninsel (Hareøen)",NA,"",1,"Selandian","",61.6,59.2,48994,"gp_mid",-8.18,59.92,"102",60.4,"selandian",28838,-23.4292,62.642,18
-"107561",152295,"col","Atanikerluk",-54.72,70.42,"Aumarutigsat, Haseninsel (Hareøen)",NA,"",1,"Selandian","",61.6,59.2,48994,"gp_mid",-8.17,59.89,"102",60.4,"selandian",28839,-23.4292,62.642,18
-"107562",152296,"col","Atanikerluk",-54.77,70.43,"Umivik, Haseninsel (Hareøen)",NA,"",1,"Selandian","",61.6,59.2,48994,"gp_mid",-8.18,59.92,"102",60.4,"selandian",28838,-23.4292,62.642,18
-"107698",152489,"col","Menat",2.9,46.1,"Menat (Oustalet coll)",NA,"",1,"Selandian","",61.6,59.2,49082,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"108142",153343,"col","Fort Gaines",-85.24,31.51,"Roadcut (SW Section) in Henry County",NA,"",1,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",60.4,"selandian",29017,-65.3472,34.6961,18
-"108143",153344,"col","Clayton",-85.24,31.51,"NW1/4 Section 12 in Henry County",NA,"",2,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",60.4,"selandian",29017,-65.3472,34.6961,18
-"109170",154636,"col","",-5.85,34.32,"Ouled Abdoun (Ocepeia grandis)",NA,"",1,"Selandian","",61.6,59.2,50266,"gp_mid",NA,NA,"coordinates not computable using this model",60.4,"selandian",11067,-6.4027,28.377,18
-"112368",159792,"col","",12.57,55.67,"Vestre Gasværk",NA,"",32,"Selandian","",61.6,59.2,52128,"gp_mid",19.06,44.83,"302",60.4,"selandian",30151,10.0375,49.4083,18
-"112369",159793,"col","Lellinge Greensand",12.6,55.71,"Sundkrogen [Lellinge Greensand]",NA,"",36,"Selandian","",61.6,59.2,52128,"gp_mid",19.09,44.87,"302",60.4,"selandian",4088,10.0375,49.4083,18
-"112370",159794,"col","",12.65,55.65,"Kongedyb",NA,"",22,"Selandian","",61.6,59.2,52128,"gp_mid",19.13,44.81,"302",60.4,"selandian",30152,10.0375,49.4083,18
-"112371",159795,"col","Lellinge Greensand",12.62,55.63,"Gemmas Allé [Lellinge Greensand]",NA,"",14,"Selandian","",61.6,59.2,52128,"gp_mid",19.11,44.79,"302",60.4,"selandian",30153,10.0375,49.4083,18
-"112828",160393,"col","Lellinge Greensand",12.61,55.63,"Gemmas Allé (conglomerate)",NA,"Amager; Tårnby Torv",2,"Selandian","",61.6,59.2,52305,"gp_mid",19.1,44.79,"302",60.4,"selandian",30319,10.0375,49.4083,18
-"114277",162251,"col","Getkilna",163.78,60.92,"Unspecified localities [Getkilna Fm]",NA,"",9,"Selandian","",61.6,59.2,52858,"gp_mid",151.88,70.92,"405",60.4,"selandian",30656,162.4745,69.3781,18
-"114857",163156,"col","Menat",2.9,46.1,"Menat (Balazuc collection)",NA,"",1,"Selandian","",61.6,59.2,53130,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"116883",166826,"col","Landana",12.13,-5.22,"Landana Cliffs (lower part)",NA,"",2,"Selandian","",61.6,59.2,54493,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18
-"116888",166831,"col","Menat",2.9,46.1,"Menat (Pouillon collection)",NA,"",1,"Selandian","",61.6,59.2,54510,"gp_mid",10.37,35.64,"305",60.4,"selandian",19891,3.6671,39.2901,18
-"117285",167480,"col","Syzran",46.99,51.85,"Upstream of Voskresenskoe",NA,"",1,"Selandian","",61.6,59.2,54655,"gp_mid",47.04,41.78,"302",60.4,"selandian",31483,43.9558,48.7272,18
-"123528",178129,"col","Seguin",-97.47,30.18,"Locality 11-T-101, dry creek at mouth with Colorado River",NA,"",34,"Selandian","",61.6,59.2,58332,"gp_mid",-69.91,37.08,"101",60.4,"selandian",32729,-77.3814,34.1872,18
-"124500",179310,"col","Kivinje",39.68,-10.02,"Petruny MS Thesis TDP Site 27",NA,"",45,"Selandian","",61.6,59.2,59257,"gp_mid",38.62,-27.81,"701",60.4,"selandian",32999,35.6468,-21.5219,18
-"125126",180400,"col","Manantial",-72.68,11.11,"UCMP C-14091, Manantial",NA,"",32,"Selandian","",61.6,59.2,59868,"gp_mid",-51.94,9.19,"203",60.4,"selandian",33179,-56.3682,6.4061,18
-"125128",180402,"col","Sepultura",-115.26,29.53,"UCLA 2372, Arroyo Santa Catarina",NA,"",1,"Selandian","",61.6,59.2,59868,"gp_mid",-85.95,37.21,"105",60.4,"selandian",33181,NA,NA,18
-"127318",183887,"col","Khadro",70.12,29.95,"Fossil Bed F.1836, Rakhi Nala",NA,"",2,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",60.4,"selandian",33686,62.3625,-5.4586,18
-"127355",183924,"col","Khadro",70.12,29.95,"Fossil Bed F.1838, Rakhi Nala",NA,"",1,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",60.4,"selandian",33686,62.3625,-5.4586,18
-"127439",184016,"col","",-121.85,37.94,"UCMP 1540, Stewartville",NA,"",37,"Selandian","",61.6,59.2,58450,"gp_mid",-89.71,47.6,"130",60.4,"selandian",33704,-99.6125,42.7709,18
-"128133",185135,"col","Santa Susana",-118.71,34.25,"LACMIP 22330, Meier Canyon",NA,"",1,"Selandian","",61.6,59.2,58450,"gp_mid",-88.53,42.39,"105",60.4,"selandian",33881,-97.1374,37.9619,18
-"128136",185138,"col","",-118.7,34.12,"LACMIP 25281, Stokes Canyon",NA,"",1,"Selandian","",61.6,59.2,58450,"gp_mid",-88.55,42.26,"105",60.4,"selandian",33882,-97.1374,37.9619,18
-"130010",188443,"col","Tienen",4.07,50.33,"Grand-Reng",NA,"",1,"Selandian","",61.6,59.2,29875,"gp_mid",11.75,39.8,"315",60.4,"selandian",34364,3.5622,44.2895,18
-"130161",188751,"col","Menat",2.91,46.1,"Menat southeast outcrop (MNHN coll)",NA,"",10,"Selandian","",61.6,59.2,63371,"gp_mid",10.38,35.64,"305",60.4,"selandian",34377,3.6671,39.2901,18
-"131560",191399,"col","Wills Point",-96.21,32.1,"Station 19, Foggyhead Creek, Navarro Co., TX",NA,"",3,"Selandian","",61.6,59.2,64088,"gp_mid",-67.86,38.58,"101",60.4,"selandian",34650,-76.781,36.6388,18
-"132969",195087,"col","Landana",12.13,-5.23,"Landana Section (layer 2)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132970",195088,"col","Landana",12.13,-5.23,"Landana Section (layer 3)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132971",195089,"col","Landana",12.13,-5.23,"Landana Section (layer 5)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132972",195090,"col","Landana",12.13,-5.23,"Landana Section (layer 6)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132973",195091,"col","Landana",12.13,-5.23,"Landana Section (layer 11)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132974",195092,"col","Landana",12.13,-5.23,"Landana Section (layer 12)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132975",195093,"col","Landana",12.13,-5.23,"Landana Section (layer 14)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"132976",195094,"col","Landana",12.13,-5.23,"Landana Section (layers 1-18)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",60.4,"selandian",13509,4.954,-13.9326,18
-"133947",196766,"col","Kerteminde Marl",10.35,55.56,"Gundstrup gravel pit",NA,"",3,"Selandian","",61.6,59.2,67001,"gp_mid",17.29,44.78,"302",60.4,"selandian",35177,10.0375,49.4083,18
-"137784",203526,"col","Landana",12.13,-5.22,"PaleoAngola locality Landana 1",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18
-"137785",203527,"col","Landana",12.13,-5.22,"PaleoAngola locality Landana 1 (1-2 m higher)",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",60.4,"selandian",13508,4.954,-13.9326,18
-"138891",205398,"col","",-118.55,34.07,"Stanford locality 2691, ridge east of Santa Ynez Canyon",NA,"",16,"Selandian","",61.6,59.2,70473,"gp_mid",-88.4,42.19,"105",60.4,"selandian",36450,-97.1374,37.9619,18
-"138911",205427,"col","Tuscahoma",-87.42,31.8,"BL",NA,"Bells Landing, Alabama River",51,"Selandian","",61.6,59.2,28119,"gp_mid",-59.1,35.91,"109",60.4,"selandian",36462,-65.3472,34.6961,18
-"138936",205452,"col","Porters Creek",-87.43,32.03,"Dixon Cr",NA,"Alabama River (Dixons Creek)",41,"Selandian","",61.6,59.2,28119,"gp_mid",-59.02,36.13,"109",60.4,"selandian",36476,-65.3472,34.6961,18
-"138956",205472,"col","Tuscahoma",-87.48,31.81,"GL",NA,"Greggs Landing\r\n\r\n",36,"Selandian","",61.6,59.2,28119,"gp_mid",-59.16,35.94,"109",60.4,"selandian",36490,-65.3472,34.6961,18
-"138983",205499,"col","Poerters Creek",-87.42,32.03,"ML",NA,"Matthews landing\r\n\r\n\r\n",61,"Selandian","",61.6,59.2,28119,"gp_mid",-59.01,36.13,"109",60.4,"selandian",415,-65.3472,34.6961,18
-"139009",205525,"col","Porters Creek",-87.43,32.03,"REC329",NA,"Alabama River, Dixons Creek\r\n\r\n\r\n\r\n\r\n\r\n",1,"Selandian","",61.6,59.2,28119,"gp_mid",-59.02,36.13,"109",60.4,"selandian",36476,-65.3472,34.6961,18
-"139029",205545,"col","Tuscahoma",-87.48,31.94,"YB",NA,"Yellow Bluff\r\n\r\n\r\n",3,"Selandian","",61.6,59.2,28119,"gp_mid",-59.11,36.06,"109",60.4,"selandian",36534,-65.3472,34.6961,18
-"142754",211012,"col","Lellinge Greensand",12.6,55.68,"Larsens Plads",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.09,44.84,"302",60.4,"selandian",37464,10.0375,49.4083,18
-"142755",211014,"col","Lellinge Greensand",12.57,55.66,"Copenhagen South Harbour",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.06,44.82,"302",60.4,"selandian",37465,10.0375,49.4083,18
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin"
+"829",2915,"col","Porters Creek",-87.75528,32.204166,"AMa-1 (Porters Creek)",NA,"",8,"Selandian","",61.6,59.2,124,"gp_mid",-59.27,36.39,"101",1,60.4,"selandian"
+"830",2916,"col","Porters Creek",-87.566666,32.121113,"AWi-11 (Porters Creek)",NA,"",13,"Selandian","",61.6,59.2,124,"gp_mid",-59.12,36.26,"101",1,60.4,"selandian"
+"831",2917,"col","Porters Creek",-87.445831,32.03389,"AWi-12 (Porters Creek)",NA,"",17,"Selandian","",61.6,59.2,124,"gp_mid",-59.03,36.14,"109",1,60.4,"selandian"
+"832",2918,"col","Porters Creek",-87.42083,32.031666,"AWi-13 (Porters Creek)",NA,"",35,"Selandian","",61.6,59.2,124,"gp_mid",-59.01,36.13,"109",1,60.4,"selandian"
+"833",2919,"col","Porters Creek",-87.445831,32.03389,"AWi-14 (Porters Creek)",NA,"",48,"Selandian","",61.6,59.2,124,"gp_mid",-59.03,36.14,"109",1,60.4,"selandian"
+"2515",7791,"col","Ewekoro",3.19,6.92,"Ewekoro Quarry",NA,"",237,"Selandian","",61.6,59.2,496,"gp_mid",3.32,-5.75,"714",1,60.4,"selandian"
+"4134",22943,"col","Agatdal",-53.066666,70.599998,"Sonja Lens, Agatdalen, Nugssuaq, Greenland",NA,"",176,"Selandian","",61.6,59.2,6604,"gp_mid",-7.05,59.75,"102",1,60.4,"selandian"
+"4135",22944,"col","Agatdal",-53.099998,70.599998,"Turritellakloft, Agatdalen, Turritellakloft Member, Nugssuaq, Greenland",NA,"",78,"Selandian","",61.6,59.2,6604,"gp_mid",-7.07,59.75,"102",1,60.4,"selandian"
+"4136",22945,"col","Agatdal",-53.049999,70.599998,"Qaersutjaegerdal, Agatdalen, Nugssuaq, Greenland",NA,"",40,"Selandian","",61.6,59.2,6604,"gp_mid",-7.04,59.74,"102",1,60.4,"selandian"
+"7391",35263,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 1a-b",NA,"",112,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"7392",35264,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 1c",NA,"",103,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"7393",35265,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 2",NA,"",130,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"7394",35266,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 3",NA,"",146,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"7395",35267,"col","Lellinge Greensand",12.598889,55.712223,"Sundkrogen 4, Selandian, Denmark",NA,"",125,"Selandian","",61.6,59.2,9445,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"16759",51500,"col","Lellinge Greensand",10.466667,55.483334,"Klintebjerg",NA,"",61,"Selandian","",61.6,59.2,13698,"gp_mid",17.38,44.7,"302",1,60.4,"selandian"
+"26272",68176,"col","",-5.85,34.316666,"Ouled Abdoun Basin (lowermost bed 1)",NA,"quarries of Sidi Daoui and Recette 4",5,"Selandian","",61.6,59.2,23856,"gp_mid",NA,NA,"coordinates not computable using this model",1,60.4,"selandian"
+"26451",68431,"col","Heers",4.999722,50.711109,"Maret",NA,"",7,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",1,60.4,"selandian"
+"26452",68432,"col","Hannut",4.999722,50.711109,"Maret (Tuffeau de Lincent)",NA,"",2,"Selandian","",61.6,59.2,19707,"gp_mid",12.55,40.14,"315",1,60.4,"selandian"
+"26737",68822,"col","Waipara Greensand",172.600006,-43.066666,"Waipara River M34/f453",NA,"",5,"Selandian","",61.6,59.2,19864,"gp_mid",-151.52,-48.23,"807",1,60.4,"selandian"
+"27126",69608,"col","Agatdal",-53.099998,70.599998,"Turritellakloft, Agatdalen, Abraham Member, Nugssuaq, Greenland",NA,"",5,"Selandian","",61.6,59.2,23353,"gp_mid",-7.07,59.75,"102",1,60.4,"selandian"
+"31882",79300,"col","",14,45.733334,"Dolenja vas West, Bed 22",NA,"Dolenja vas, Bed 22",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",1,60.4,"selandian"
+"31883",79301,"col","",14,45.733334,"Dolenja vas West, Bed 23",NA,"Dolenja vas, Bed 23",1,"Selandian","",61.6,59.2,26586,"gp_mid",21.43,30.55,"307",1,60.4,"selandian"
+"32429",80977,"col","Hornerstown",-74.75,39.93,"Vincentown (Bryan collection, Hornerstown Fm)",NA,"",1,"Selandian","",61.6,59.2,27244,"gp_mid",-43.33,40.03,"109",1,60.4,"selandian"
+"32872",81800,"col","Vine Hill Sandstone",-122.125,37.965,"UCMP 243, south of Muir Station",NA,"",7,"Selandian","",61.6,59.2,64128,"gp_mid",-90.02,47.67,"130",1,60.4,"selandian"
+"33009",82060,"col","Landana",12.135,-5.225,"Bed 4, Landana Section",NA,"",4,"Selandian","",61.6,59.2,27671,"gp_mid",9.68,-19.49,"701",1,60.4,"selandian"
+"33010",195086,"col","Landana",12.133333,-5.233333,"Landana Section (layer 1)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"34603",84469,"col","Porters Creek",-87.283333,31.983334,"ALA-1",NA,"",28,"Selandian","",61.6,59.2,28119,"gp_mid",-58.89,36.05,"109",1,60.4,"selandian"
+"34604",84471,"col","Porters Creek",-87.283333,31.983334,"ALA-2",NA,"",21,"Selandian","",61.6,59.2,28119,"gp_mid",-58.89,36.05,"109",1,60.4,"selandian"
+"35027",85066,"col","Porters Creek",-87.150002,31.933332,"Oak Hill",NA,"",1,"Selandian","",61.6,59.2,28573,"gp_mid",-58.78,35.96,"109",1,60.4,"selandian"
+"35412",85839,"col","Waipara Greensand",172.53334,-43.033333,"Waipara River M34/fl138",NA,"",3,"Selandian","",61.6,59.2,19864,"gp_mid",-151.59,-48.2,"807",1,60.4,"selandian"
+"35605",86172,"col","Porters Creek",-88,32.233334,"ACh-1 Rep 1",NA,"",25,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",1,60.4,"selandian"
+"35606",86173,"col","Porters Creek",-88,32.233334,"ACh-1 Rep 2",NA,"",20,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",1,60.4,"selandian"
+"35607",86174,"col","Porters Creek",-88,32.233334,"ACh-1 Rep 3",NA,"",10,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",1,60.4,"selandian"
+"35608",86175,"col","Porters Creek",-88,32.233334,"ACh-1 Rep 4",NA,"",18,"Selandian","",61.6,59.2,28506,"gp_mid",-59.5,36.48,"101",1,60.4,"selandian"
+"35612",86180,"col","Porters Creek",-87.433334,32.016666,"AWi-13 Rep 3",NA,"",11,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",1,60.4,"selandian"
+"35613",86181,"col","Porters Creek",-87.433334,32.016666,"AWi-14 Rep 1",NA,"",24,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",1,60.4,"selandian"
+"35614",86182,"col","Porters Creek",-87.433334,32.016666,"AWi-14 Rep 2",NA,"",28,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",1,60.4,"selandian"
+"35616",86184,"col","Porters Creek",-87.433334,32.016666,"AWi-14 Rep 4",NA,"",9,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",1,60.4,"selandian"
+"35618",86186,"col","Porters Creek",-87.433334,32.016666,"AWi-14 Rep 5",NA,"",11,"Selandian","",61.6,59.2,28506,"gp_mid",-59.03,36.12,"109",1,60.4,"selandian"
+"35627",86259,"col","Porters Creek",-87.433334,31.016666,"PRI Matthews Landing 1",NA,"",1,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",1,60.4,"selandian"
+"35628",86262,"col","Porters Creek",-87.433334,31.016666,"PRI Matthews Landing 2",NA,"",4,"Selandian","",61.6,59.2,28506,"gp_mid",-59.43,35.17,"109",1,60.4,"selandian"
+"36734",87817,"col","Porters Creek",-87.416664,32.016666,"Matthews Landing",NA,"",20,"Selandian","",61.6,59.2,13490,"gp_mid",-59.01,36.12,"109",1,60.4,"selandian"
+"37974",89867,"col","Naheola",-87.349998,31.9,"Locality B",NA,"AWi-20",11,"Selandian","",61.6,59.2,29915,"gp_mid",-58.99,35.99,"109",1,60.4,"selandian"
+"37983",89947,"col","Porters Creek",-87.283333,31.983334,"Parsely Creek",NA,"",11,"Selandian","",61.6,59.2,29915,"gp_mid",-58.89,36.05,"109",1,60.4,"selandian"
+"38359",90605,"col","Naheola",-88.016113,32.233334,"PRI 2181",NA,"",4,"Selandian","",61.6,59.2,11845,"gp_mid",-59.52,36.49,"101",1,60.4,"selandian"
+"38360",90606,"col","Porters Creek",-87.283333,31.983334,"PRI 2185",NA,"",59,"Selandian","",61.6,59.2,11845,"gp_mid",-58.89,36.05,"109",1,60.4,"selandian"
+"38362",90607,"col","Naheola",-87.082779,31.92111,"PRI 2186",NA,"",10,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"38363",90608,"col","Naheola",-87.082779,31.92111,"PRI 2187",NA,"",11,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"38369",98384,"col","Naheola",-88.033333,32.366669,"M 672",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-59.48,36.62,"101",1,60.4,"selandian"
+"39157",91853,"col","Porters Creek",-87.40361,32.134445,"M 27",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",1,60.4,"selandian"
+"39177",91873,"col","Porters Creek",-92.289719,34.746387,"M 34",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-62.76,40.03,"101",1,60.4,"selandian"
+"39407",92156,"col","Porters Creek",-84.309166,32.238335,"M 328",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-55.86,35.47,"109",1,60.4,"selandian"
+"39564",92371,"col","Naheola",-85.047218,31.609167,"PRI 2219",NA,"",5,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",1,60.4,"selandian"
+"39569",92376,"col","Porters Creek",-88.950554,34.729721,"PRI 2259a",NA,"",3,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",1,60.4,"selandian"
+"39718",92602,"col","Porters Creek",-87.565277,32.033611,"TU 325 - Kimbrough [Matthews Landing Marl]",NA,"",2,"Selandian","",61.6,59.2,31182,"gp_mid",-59.15,36.17,"109",1,60.4,"selandian"
+"39720",92604,"col","Porters Creek",-87.565277,32.033611,"TU 735 - Kimbrough [Matthews Landing Marl]",NA,"",1,"Selandian","",61.6,59.2,31182,"gp_mid",-59.15,36.17,"109",1,60.4,"selandian"
+"41939",95909,"col","Mead Hill",174.066666,-41.916668,"P30/f461 Woodside Creek",NA,"",55,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",1,60.4,"selandian"
+"41940",95910,"col","Mead Hill",174.066666,-41.916668,"P30/f376 Woodside Creek",NA,"",39,"Selandian","",61.6,59.2,32556,"gp_mid",-160.9,-48.47,"806",1,60.4,"selandian"
+"43318",98262,"col","Porters Creek",-88.016113,32.233334,"M 642",NA,"",6,"Selandian","",61.6,59.2,11845,"gp_mid",-59.52,36.49,"101",1,60.4,"selandian"
+"43448",98417,"col","Porters Creek",-87.40361,32.134445,"M 441",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",1,60.4,"selandian"
+"43449",98418,"col","Porters Creek",-87.082779,31.92111,"M 442",NA,"",9,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"43453",98421,"col","Porters Creek",-87.290558,31.991112,"M 444",NA,"",5,"Selandian","",61.6,59.2,11845,"gp_mid",-58.9,36.06,"109",1,60.4,"selandian"
+"43454",98422,"col","Porters Creek",-87.082779,31.92111,"M 445",NA,"",3,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"43455",98423,"col","Porters Creek",-87.082779,31.92111,"M 443",NA,"",4,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"43458",98426,"col","Naheola",-87.26667,32.066666,"M 674",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.84,36.12,"109",1,60.4,"selandian"
+"43461",98429,"col","Porters Creek",-87.082779,31.92111,"M 677",NA,"",10,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"43464",98432,"col","Porters Creek",-87.082779,31.92111,"M 683",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.72,35.93,"109",1,60.4,"selandian"
+"43466",98434,"col","Porters Creek",-87.40361,32.134445,"M 857",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.95,36.22,"101",1,60.4,"selandian"
+"43469",98436,"col","Naheola",-87.053329,31.936943,"M 860",NA,"",2,"Selandian","",61.6,59.2,11845,"gp_mid",-58.68,35.94,"109",1,60.4,"selandian"
+"43470",98437,"col","Naheola",-87.053329,31.936943,"M 861",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-58.68,35.94,"109",1,60.4,"selandian"
+"43535",98521,"col","Porters Creek",-88.950554,34.729721,"M 879",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",1,60.4,"selandian"
+"43537",98523,"col","Naheola",-88.950554,34.729721,"M 898",NA,"",1,"Selandian","",61.6,59.2,11845,"gp_mid",-59.41,39.1,"101",1,60.4,"selandian"
+"43621",98639,"col","Porters Creek",-85.047218,31.609167,"M 887",NA,"",0,"Selandian","",61.6,59.2,11845,"gp_mid",-56.83,35.08,"109",1,60.4,"selandian"
+"54194",113759,"col","Landana",12.188333,-5.553611,"Landana cliffs (layer 8)",NA,"Congosaurus bequaerti type locality",2,"Selandian","",61.6,59.2,54617,"gp_mid",9.66,-19.82,"701",1,60.4,"selandian"
+"58344",119661,"col","Kauru",170.753052,-45.058887,"J41/f220",NA,"Raupo Creek; Five Forks",3,"Selandian","",61.6,59.2,38383,"gp_mid",-153.68,-50.17,"807",1,60.4,"selandian"
+"66931",133217,"col","",-6.683333,32.650002,"Sidi Chennane quarries, bed IIa",NA,"Lahimia selloumi type",11,"Selandian","",61.6,59.2,42871,"gp_mid",0.64,21.45,"707",1,60.4,"selandian"
+"80292",153343,"col","Fort Gaines",-85.239998,31.51,"Roadcut (SW Section) in Henry County",NA,"",1,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",1,60.4,"selandian"
+"80293",153344,"col","Clayton",-85.239998,31.51,"NW1/4 Section 12 in Henry County",NA,"",2,"Selandian","",61.6,59.2,49378,"gp_mid",-57.06,35.04,"109",1,60.4,"selandian"
+"80822",154636,"col","",-5.85,34.316666,"Ouled Abdoun (Ocepeia grandis)",NA,"",1,"Selandian","",61.6,59.2,50266,"gp_mid",NA,NA,"coordinates not computable using this model",1,60.4,"selandian"
+"83474",159792,"col","",12.566667,55.666943,"Vestre Gasværk",NA,"",32,"Selandian","",61.6,59.2,52128,"gp_mid",19.06,44.83,"302",1,60.4,"selandian"
+"83475",159793,"col","Lellinge Greensand",12.597222,55.711388,"Sundkrogen [Lellinge Greensand]",NA,"",36,"Selandian","",61.6,59.2,52128,"gp_mid",19.09,44.87,"302",1,60.4,"selandian"
+"83476",159794,"col","",12.653889,55.649723,"Kongedyb",NA,"",22,"Selandian","",61.6,59.2,52128,"gp_mid",19.13,44.81,"302",1,60.4,"selandian"
+"83477",159795,"col","Lellinge Greensand",12.621389,55.63139,"Gemmas Allé [Lellinge Greensand]",NA,"",14,"Selandian","",61.6,59.2,52128,"gp_mid",19.11,44.79,"302",1,60.4,"selandian"
+"83918",160393,"col","Lellinge Greensand",12.609444,55.629444,"Gemmas Allé (conglomerate)",NA,"Amager; Tårnby Torv",2,"Selandian","",61.6,59.2,52305,"gp_mid",19.1,44.79,"302",1,60.4,"selandian"
+"85250",162251,"col","Getkilna",163.781387,60.915833,"Unspecified localities [Getkilna Fm]",NA,"",9,"Selandian","",61.6,59.2,52858,"gp_mid",151.88,70.92,"405",1,60.4,"selandian"
+"87474",166826,"col","Landana",12.135,-5.225,"Landana Cliffs (lower part)",NA,"",2,"Selandian","",61.6,59.2,54493,"gp_mid",9.68,-19.49,"701",1,60.4,"selandian"
+"87800",167480,"col","Syzran",46.985001,51.849998,"Upstream of Voskresenskoe",NA,"",1,"Selandian","",61.6,59.2,54655,"gp_mid",47.04,41.78,"302",1,60.4,"selandian"
+"92192",178129,"col","Seguin",-97.473053,30.183056,"Locality 11-T-101, dry creek at mouth with Colorado River",NA,"",34,"Selandian","",61.6,59.2,58332,"gp_mid",-69.91,37.08,"101",1,60.4,"selandian"
+"92928",179310,"col","Kivinje",39.677223,-10.020556,"Petruny MS Thesis TDP Site 27",NA,"",45,"Selandian","",61.6,59.2,59257,"gp_mid",38.62,-27.81,"701",1,60.4,"selandian"
+"93411",180400,"col","Manantial",-72.675003,11.11,"UCMP C-14091, Manantial",NA,"",32,"Selandian","",61.6,59.2,59868,"gp_mid",-51.94,9.19,"203",1,60.4,"selandian"
+"93413",180402,"col","Sepultura",-115.260002,29.530001,"UCLA 2372, Arroyo Santa Catarina",NA,"",1,"Selandian","",61.6,59.2,59868,"gp_mid",-85.95,37.21,"105",1,60.4,"selandian"
+"94594",183887,"col","Khadro",70.120003,29.950001,"Fossil Bed F.1836, Rakhi Nala",NA,"",2,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",1,60.4,"selandian"
+"94626",183924,"col","Khadro",70.120003,29.950001,"Fossil Bed F.1838, Rakhi Nala",NA,"",1,"Selandian","",61.6,59.2,599,"gp_mid",69.17,-6.81,"501",1,60.4,"selandian"
+"94671",184016,"col","",-121.851997,37.938999,"UCMP 1540, Stewartville",NA,"",37,"Selandian","",61.6,59.2,58450,"gp_mid",-89.71,47.6,"130",1,60.4,"selandian"
+"95160",185135,"col","Santa Susana",-118.712997,34.25,"LACMIP 22330, Meier Canyon",NA,"",1,"Selandian","",61.6,59.2,58450,"gp_mid",-88.53,42.39,"105",1,60.4,"selandian"
+"95163",185138,"col","",-118.696999,34.117001,"LACMIP 25281, Stokes Canyon",NA,"",1,"Selandian","",61.6,59.2,58450,"gp_mid",-88.55,42.26,"105",1,60.4,"selandian"
+"97551",191399,"col","Wills Point",-96.211639,32.104229,"Station 19, Foggyhead Creek, Navarro Co., TX",NA,"",3,"Selandian","",61.6,59.2,64088,"gp_mid",-67.86,38.58,"101",1,60.4,"selandian"
+"98379",195087,"col","Landana",12.133333,-5.233333,"Landana Section (layer 2)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98380",195088,"col","Landana",12.133333,-5.233333,"Landana Section (layer 3)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98381",195089,"col","Landana",12.133333,-5.233333,"Landana Section (layer 5)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98382",195090,"col","Landana",12.133333,-5.233333,"Landana Section (layer 6)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98383",195091,"col","Landana",12.133333,-5.233333,"Landana Section (layer 11)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98384",195092,"col","Landana",12.133333,-5.233333,"Landana Section (layer 12)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98385",195093,"col","Landana",12.133333,-5.233333,"Landana Section (layer 14)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"98386",195094,"col","Landana",12.133333,-5.233333,"Landana Section (layers 1-18)",NA,"",1,"Selandian","",61.6,59.2,66354,"gp_mid",9.67,-19.5,"701",1,60.4,"selandian"
+"99073",196766,"col","Kerteminde Marl",10.35,55.560001,"Gundstrup gravel pit",NA,"",3,"Selandian","",61.6,59.2,67001,"gp_mid",17.29,44.78,"302",1,60.4,"selandian"
+"102004",203526,"col","Landana",12.135,-5.225,"PaleoAngola locality Landana 1",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",1,60.4,"selandian"
+"102005",203527,"col","Landana",12.135,-5.225,"PaleoAngola locality Landana 1 (1-2 m higher)",NA,"",1,"Selandian","",61.6,59.2,63791,"gp_mid",9.68,-19.49,"701",1,60.4,"selandian"
+"102937",205398,"col","",-118.550003,34.065498,"Stanford locality 2691, ridge east of Santa Ynez Canyon",NA,"",16,"Selandian","",61.6,59.2,70473,"gp_mid",-88.4,42.19,"105",1,60.4,"selandian"
+"102957",205427,"col","Tuscahoma",-87.419998,31.799999,"BL",NA,"Bells Landing, Alabama River",51,"Selandian","",61.6,59.2,28119,"gp_mid",-59.1,35.91,"109",1,60.4,"selandian"
+"102982",205452,"col","Porters Creek",-87.43,32.029999,"Dixon Cr",NA,"Alabama River (Dixons Creek)",41,"Selandian","",61.6,59.2,28119,"gp_mid",-59.02,36.13,"109",1,60.4,"selandian"
+"103002",205472,"col","Tuscahoma",-87.480003,31.809999,"GL",NA,"Greggs Landing\r\n\r\n",36,"Selandian","",61.6,59.2,28119,"gp_mid",-59.16,35.94,"109",1,60.4,"selandian"
+"103029",205499,"col","Poerters Creek",-87.419998,32.029999,"ML",NA,"Matthews landing\r\n\r\n\r\n",61,"Selandian","",61.6,59.2,28119,"gp_mid",-59.01,36.13,"109",1,60.4,"selandian"
+"103054",205525,"col","Porters Creek",-87.43,32.029999,"REC329",NA,"Alabama River, Dixons Creek\r\n\r\n\r\n\r\n\r\n\r\n",1,"Selandian","",61.6,59.2,28119,"gp_mid",-59.02,36.13,"109",1,60.4,"selandian"
+"103072",205545,"col","Tuscahoma",-87.480003,31.940001,"YB",NA,"Yellow Bluff\r\n\r\n\r\n",3,"Selandian","",61.6,59.2,28119,"gp_mid",-59.11,36.06,"109",1,60.4,"selandian"
+"105820",211012,"col","Lellinge Greensand",12.598268,55.683025,"Larsens Plads",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.09,44.84,"302",1,60.4,"selandian"
+"105821",211014,"col","Lellinge Greensand",12.56754,55.660275,"Copenhagen South Harbour",NA,"",1,"Selandian","",61.6,59.2,72881,"gp_mid",19.06,44.82,"302",1,60.4,"selandian"

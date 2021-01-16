@@ -40,11 +40,11 @@ p1 <- ggplot() +
 p1
 
 p2 <- ggplot() +
-  geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=-7500, ymax= 150000), linetype = 0, color="grey90", alpha=0.1)  +
-  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y = -7500, yend = 150000), linetype = 2, size = 1, color = "grey80") +
-  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin= -7500, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
-  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -7500, ymax= 0), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
-  geom_text(data = periods, mapping=aes(x=(min_age+max_age)/2, y= -3750, label = abbr), colour = "black", alpha=1)  +
+  geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=-4000, ymax= 80000), linetype = 0, color="grey90", alpha=0.1)  +
+  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y = -4000, yend = 80000), linetype = 2, size = 1, color = "grey80") +
+  geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin= -4000, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
+  geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -4000, ymax= 0), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
+  geom_text(data = periods, mapping=aes(x=(min_age+max_age)/2, y= -2000, label = abbr), colour = "black", alpha=1)  +
   geom_line(data = MST, aes(x = mid_age, y = MST), colour = col[1], size = 1.2) +
   geom_point(data = MST, aes(x = mid_age, y = MST), shape = 21, colour= "black", fill = col[1], size = 3) +
   scale_x_reverse(expand=c(0,0), breaks = seq(0, 300, 50), labels = seq(0, 300, 50)) +

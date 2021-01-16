@@ -1,139 +1,108 @@
-"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","mid_ma","time_bin","id","getech_lng","getech_lat","Stage.number","ext"
-"3416",8526,"col","Inferior Oolite",-2.75,50.8,"England HPQ",NA,"",16,"Aalenian","",174.1,170.3,41,"gp_mid",20.6,35.86,"315",172.2,"aalenian",1143,20.9041,36.5987,38,1
-"11367",34180,"col","Kingak",-138.13,68.08,"GSC 39360, Kingak Fm, SW of Bonnet Lake, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.47,"101",172.2,"aalenian",2067,-50.1946,58.29,38,1
-"12942",24357,"col","Bearreraig Sandstone",-6.13,57.5,"P3, Bearreraig Bay",24350,"",4,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12943",24358,"col","Bearreraig Sandstone",-6.13,57.5,"P4, Bearreraig Bay",24350,"",2,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12944",24359,"col","Bearreraig Sandstone",-6.13,57.5,"P5, Bearreraig Bay",24350,"",4,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12945",24360,"col","Bearreraig Sandstone",-6.13,57.5,"P6, Bearreraig Bay",24350,"",6,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12946",24361,"col","Bearreraig Sandstone",-6.13,57.5,"P7, Bearreraig Bay",24350,"",3,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12947",24362,"col","Bearreraig Sandstone",-6.13,57.5,"P8, Bearreraig Bay",24350,"",3,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12948",24363,"col","Bearreraig Sandstone",-6.13,57.5,"P9, Bearreraig Bay",24350,"",6,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"12949",24364,"col","Bearreraig Sandstone",-6.13,57.5,"P10, Bearreraig Bay",24350,"",6,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"13039",24535,"col","Bearreraig Sandstone",-6.13,57.5,"Bearreraig Bay, Skye (2)",24350,"",13,"Aalenian","",174.1,170.3,6879,"gp_mid",16.83,42.2,"303",172.2,"aalenian",2419,14.2495,42.7689,38,1
-"16312",30468,"col","Upper Karakh Suite",47.8,41.7,"Khoredzh",NA,"PGAP 397",33,"Aalenian","",174.1,170.3,8027,"gp_mid",64.69,36.05,"402",172.2,"aalenian",3227,68.3454,46.866,38,1
-"16432",30588,"col","",155.7,65.3,"Tokur-Yuryakh River",NA,"PGAP 530",8,"Aalenian","",174.1,170.3,8080,"gp_mid",-146.16,73.94,"405",172.2,"aalenian",3284,-110.9751,69.8378,38,1
-"16567",30725,"col","Lower Beshui Suite",33.5,44.7,"Kacha River",NA,"PGAP 463",21,"Aalenian","",174.1,170.3,8092,"gp_mid",51.33,35.58,"302",172.2,"aalenian",3341,53.182,43.7161,38,1
-"16746",30904,"col","Middle and Upper Gurud Suite",66.4,37.7,"Kugitang-Tau",NA,"PGAP 542",49,"Aalenian","",174.1,170.3,8122,"gp_mid",83.14,37.21,"402",172.2,"aalenian",3385,90.2676,48.759,38,1
-"16758",30916,"col","Middle Gring Suite",70.4,38.2,"Gring",NA,"PGAP 420",49,"Aalenian","",174.1,170.3,8266,"gp_mid",86.66,38.78,"402",172.2,"aalenian",3388,96.0148,47.3132,38,1
-"17676",31897,"col","Braunjura beta",10.08,48.82,"Ophiuroidea, Braunjura beta, Flözhorizont, Aalenian, Aalen-Wasseralfingen",NA,"",1,"Aalenian","",174.1,170.3,8559,"gp_mid",31.05,35.4,"305",172.2,"aalenian",3563,31.9963,40.8344,38,1
-"19148",33604,"col","",-5,34,"J. Ahrabout, Atlas Mountains",NA,"",1,"Aalenian","",174.1,170.3,8925,"gp_mid",9.04,25.72,"707",172.2,"aalenian",3830,6.1369,26.4615,38,1
-"19642",34178,"col","",-137.2,67.83,"GSC 39343, Bug Creek Grp, Mt. McGuire area, northern Yukon",NA,"",4,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.48,59.07,"101",172.2,"aalenian",3898,-50.1946,58.29,38,1
-"19643",34179,"col","",-137.2,67.83,"GSC 39344, Bug Creek Grp, Mt. McGuire area, northern Yukon",NA,"",4,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.48,59.07,"101",172.2,"aalenian",3898,-50.1946,58.29,38,1
-"19648",34186,"col","Kingak",-138.32,68.6,"GSC 41483, Kingak Fm, Barn Mts. area, northern Yukon",NA,"",7,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.35,59.94,"101",172.2,"aalenian",3902,-50.1946,58.29,38,1
-"19649",34187,"col","Kingak",-138.3,68.6,"GSC 44211, Kingak Fm, Barn Mts, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.34,59.94,"101",172.2,"aalenian",3903,-50.1946,58.29,38,1
-"19658",34199,"col","Kingak",-137.79,68.28,"GSC 86823, Kingak Fm, Bonnet Lake area, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.37,59.57,"101",172.2,"aalenian",3910,-50.1946,58.29,38,1
-"19661",34202,"col","Kingak",-137.9,68.05,"GSC 88097, Kingak Fm, Johnson Creek, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.69,59.39,"101",172.2,"aalenian",3913,-50.1946,58.29,38,1
-"19663",34204,"col","Kingak",-138.04,68.16,"GSC 88654, Kingak Fm, northern Yukon",NA,"",8,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.66,59.51,"101",172.2,"aalenian",3915,-50.1946,58.29,38,1
-"19664",34205,"col","Kingak",-138.07,68.05,"GSC 92513, Kingak Fm, Johnson Creek, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",172.2,"aalenian",3916,-50.1946,58.29,38,1
-"19665",34206,"col","Kingak",-138.07,68.05,"GSC 92514, Kingak Fm, Johnson Creek, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",172.2,"aalenian",3916,-50.1946,58.29,38,1
-"19668",34209,"col","Kingak",-138.08,68.05,"GSC 92517, Kingak Fm, Johnson Creek, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",172.2,"aalenian",3918,-50.1946,58.29,38,1
-"20616",35451,"col","",-70.22,-28.73,"Quebrada La Totora, Profil 4, Sample 5-6",NA,"",27,"Aalenian","",174.1,170.3,487,"gp_mid",-22.9,-29.42,"291",172.2,"aalenian",4112,-27.3207,-31.5858,38,1
-"21186",36403,"col","",38.2,-6.72,"Cox - 93 (E. Tanganyika)",NA,"",1,"Aalenian","",174.1,170.3,9748,"gp_mid",30.41,-29.07,"701",172.2,"aalenian",4221,26.3508,-27.8228,38,1
-"21197",36414,"col","",38.33,-6.5,"Cox - 104 (E. Tanganyika)",NA,"",1,"Aalenian","",174.1,170.3,9748,"gp_mid",30.65,-28.93,"701",172.2,"aalenian",4232,26.3508,-27.8228,38,1
-"27052",44349,"col","",79.43,31.34,"Bolin south, 76AB2, Zanda County",NA,"",1,"Aalenian","",174.1,170.3,42718,"gp_mid",56.88,-29.65,"501",172.2,"aalenian",6041,66.7289,-18.2592,38,1
-"33142",51554,"col","Vrska Cuka",22.37,43.83,"Mala Cuka Borehole in eastern Serbia, Bed 5",NA,"",10,"Aalenian","",174.1,170.3,13711,"gp_mid",37.8,17.41,"308",172.2,"aalenian",7924,40.6971,38.2147,38,1
-"33185",51601,"col","",137.27,49.43,"M44, Manoma River Section, Khabarovsk",NA,"",7,"Aalenian","",174.1,170.3,13716,"gp_mid",158.32,56.51,"628",172.2,"aalenian",7940,-177.4385,43.1355,38,1
-"33186",51602,"col","",137.27,49.43,"M105, Manoma River Section, Khabarovsk",NA,"",5,"Aalenian","",174.1,170.3,13716,"gp_mid",158.32,56.51,"628",172.2,"aalenian",7940,-177.4385,43.1355,38,1
-"33201",51617,"col","Xialu Chert",89.03,29.02,"Sample 98061235, Xialu chert, Tibet",NA,"",35,"Aalenian","",174.1,170.3,13735,"gp_mid",59.36,-38.01,"501",172.2,"aalenian",7945,107.986,6.7642,38,1
-"33444",51869,"col","Opapaka Sandstone",174.75,-38.12,"Locality R15/f8018, Waikato",NA,"",8,"Aalenian","",174.1,170.3,13811,"gp_mid",77.83,-78.14,"806",172.2,"aalenian",7978,-4.3549,-86.4874,38,1
-"34928",53412,"col","Phantom Creek",-132.26,53.39,"GSC loc. C-157702 - Graham Island",NA,"",3,"Aalenian","",174.1,170.3,14361,"gp_mid",-70.49,45.12,"128",172.2,"aalenian",8502,-60.2156,34.1622,38,1
-"34929",53413,"col","Phantom Creek",-132.26,53.39,"GSC loc. C-158085 - Graham Island",NA,"",1,"Aalenian","",174.1,170.3,14361,"gp_mid",-70.49,45.12,"128",172.2,"aalenian",8502,-60.2156,34.1622,38,1
-"34957",53441,"col","Phantom Creek",-132.26,53.39,"GSC loc. C-158084 - Graham Island",NA,"",2,"Aalenian","",174.1,170.3,14361,"gp_mid",-70.49,45.12,"128",172.2,"aalenian",8502,-60.2156,34.1622,38,1
-"38166",58236,"col","",9.98,52.65,"Bore Hambühren, Lower Saxony",NA,"",4,"Aalenian","",174.1,170.3,15698,"gp_mid",29.93,39.12,"315",172.2,"aalenian",9189,30.4017,43.0272,38,1
-"38454",58534,"col","",-69.95,-28.38,"north of Juntas del Tolar, Atacama",NA,"",1,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.7,-29.04,"291",172.2,"aalenian",9277,-27.3207,-31.5858,38,1
-"38455",58535,"col","",-69.95,-28.25,"Río Pulido, Atacama",NA,"",2,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.73,-28.9,"291",172.2,"aalenian",9278,-27.3207,-31.5858,38,1
-"38466",58544,"col","",-69.75,-27.33,"Quebrada Larga, Atacama",NA,"",2,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.69,-27.97,"291",172.2,"aalenian",9286,-27.3207,-31.5858,38,1
-"38468",58546,"col","",-69.97,-28.37,"Cerro Salto del Toro, Atacama",NA,"",1,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.72,-29.02,"291",172.2,"aalenian",9288,-27.3207,-31.5858,38,1
-"38483",58561,"col","",-70.25,-28.83,"Quebrada Chanchoquin, Atacama",NA,"",2,"Aalenian","",174.1,170.3,9156,"gp_mid",-22.92,-29.52,"291",172.2,"aalenian",9295,-26.2048,-34.0454,38,1
-"38484",58562,"col","",-70.28,-28.95,"Quebrada Pinte, Atacama",NA,"",1,"Aalenian","",174.1,170.3,9156,"gp_mid",-22.93,-29.64,"291",172.2,"aalenian",9296,-26.2048,-34.0454,38,1
-"38485",58563,"col","",-69.17,-22.83,"Cerritos Bayos, Antofagasta",NA,"",4,"Aalenian","",174.1,170.3,9156,"gp_mid",-22.92,-24.55,"201",172.2,"aalenian",9297,-24.7879,-25.8452,38,1
-"38662",58737,"col","",-70.33,-28.95,"Cerro Tatul, Atacama",NA,"",6,"Aalenian","",174.1,170.3,9156,"gp_mid",-22.98,-29.65,"291",172.2,"aalenian",9344,-26.2048,-34.0454,38,1
-"39417",59527,"col","Braunjura beta",10.1,48.83,"Zopfplattenregion, Aalen -Oberalfingen, Baden-Württemberg",NA,"",1,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39418",59528,"col","Braunjura beta",10.1,48.83,"Unterer Donzdorfer Sandstein ,Aalen - Oberalfingen, Baden-Württemberg",NA,"",1,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39421",59531,"col","Braunjura beta",10.1,48.83,"Unteres Flöz, Aalen - Oberalfingen, Baden-Württemberg",NA,"",4,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39424",59534,"col","Braunjura beta",10.1,48.83,"Personatensandsteinregion, Aalen - Oberalfingen, Baden-Württemberg",NA,"",1,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39425",59535,"col","Braunjura beta",10.1,48.83,"Unteres Zwischenflöz, Aalen - Oberalfingen, Baden-Württemberg",NA,"",1,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39429",59539,"col","Braunjura beta",10.1,48.83,"Oberes Flöz, Aalen - Oberalfingen, Baden-Württemberg",NA,"",2,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"39439",59549,"col","Braunjura gamma",10.1,48.83,"Sowerbyi-Oolith, Aalen - Oberalfingen, Baden-Württemberg",NA,"",1,"Aalenian","",174.1,170.3,16953,"gp_mid",31.06,35.41,"305",172.2,"aalenian",9512,31.9963,40.8344,38,1
-"42460",63729,"col","",168.51,-45.95,"E45/f9442 - Hokonui Hills, Southland",NA,"GS339",6,"Aalenian","",174.1,170.3,18321,"gp_mid",64.91,-80.24,"807",172.2,"aalenian",10230,30.2448,-83.2708,38,1
-"42463",63732,"col","",169.21,-46.21,"G46/f8528 - Waipahi River, Southland",NA,"GS6843",2,"Aalenian","",174.1,170.3,18321,"gp_mid",61.89,-80.04,"807",172.2,"aalenian",10231,30.2448,-83.2708,38,1
-"42465",63734,"col","",169.45,-46.52,"G47/f7587 - Balclutha-Papatowai Highway, Otago",NA,"OU3307",1,"Aalenian","",174.1,170.3,18321,"gp_mid",60.81,-79.75,"807",172.2,"aalenian",10232,39.8382,-81.1283,38,1
-"42469",63738,"col","Oamaru",169.82,-46.45,"H46/f8822A - Oamaru Fm, Otago",NA,"OU15242",2,"Aalenian","",174.1,170.3,18321,"gp_mid",59.41,-79.83,"807",172.2,"aalenian",10233,39.8382,-81.1283,38,1
-"42484",63753,"col","",174.83,-38.54,"R17/f8599 - Awakino River Rd, Awakino",NA,"AU L247a/b",1,"Aalenian","",174.1,170.3,18321,"gp_mid",75.74,-78.13,"806",172.2,"aalenian",10238,-4.3549,-86.4874,38,1
-"42506",63775,"col","",168.46,-46.06,"E45/f9441 - Otapiri Gorge, Southland",NA,"GS338\r\nS169/441",11,"Aalenian","",174.1,170.3,18323,"gp_mid",65.01,-80.13,"807",172.2,"aalenian",10248,30.2448,-83.2708,38,1
-"42507",63817,"col","",168.46,-46.06,"E45/f9444 - Otapiri Gorge, Southland",NA,"GS341\r\nS169/444",4,"Aalenian","",174.1,170.3,18330,"gp_mid",65.01,-80.13,"807",172.2,"aalenian",10248,30.2448,-83.2708,38,1
-"42547",63818,"col","",168.49,-46.99,"E45/f9562 - Otapiri Gorge, Southland",NA,"GS 5839; S169/0562",3,"Aalenian","",174.1,170.3,18330,"gp_mid",64.14,-79.2,"807",172.2,"aalenian",10255,39.8382,-81.1283,38,1
-"42548",63819,"col","",168.49,-46,"E45/f9569 - Otapiri Gorge, Southland",NA,"GS 5904; S169/0569",7,"Aalenian","",174.1,170.3,18330,"gp_mid",64.93,-80.19,"807",172.2,"aalenian",10256,30.2448,-83.2708,38,1
-"42549",63820,"col","",168.48,-46,"E45/f9633 - Otapiri Gorge, Southland",NA,"GS6373\r\nS169/0633",4,"Aalenian","",174.1,170.3,18330,"gp_mid",64.95,-80.19,"807",172.2,"aalenian",10257,30.2448,-83.2708,38,1
-"44362",66385,"col","Calcari Oolitici di S. Vigilio",11.13,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, lower Micritic-oncolit.",NA,"",9,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",172.2,"aalenian",10719,35.945,25.2451,38,1
-"44363",66386,"col","Calcari Oolitici di S. Vigilio",11.13,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, upper Micritic-oncolit.",NA,"",10,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",172.2,"aalenian",10719,35.945,25.2451,38,1
-"44364",66387,"col","Calcari Oolitici di S. Vigilio",11.13,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, Reef facies",NA,"Reef 3556",6,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",172.2,"aalenian",10719,35.945,25.2451,38,1
-"44366",66389,"col","Calcari Oolitici di S. Vigilio",11.13,45.75,"Covolo di Camposilvano, Calcari Oolitici di S. Vigilio, lower Micritic-oncolit.",NA,"",9,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",172.2,"aalenian",10719,35.945,25.2451,38,1
-"44367",66390,"col","Calcari Oolitici di S. Vigilio",11.13,45.75,"Covolo di Camposilvano, Calcari Oolitici di S. Vigilio, Reef facies",NA,"Reef 3556",7,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",172.2,"aalenian",10719,35.945,25.2451,38,1
-"47796",71127,"col","Phantom Creek",-132.27,53.39,"GSC loc. C-080586, Graham Island",NA,"",30,"Aalenian","",174.1,170.3,23824,"gp_mid",-70.5,45.12,"128",172.2,"aalenian",11681,-60.2156,34.1622,38,1
-"49066",73743,"col","",-4.37,43.15,"Tudanca section; benthic forams, 385 m",NA,"",35,"Aalenian","",174.1,170.3,24720,"gp_mid",20.83,29.57,"304",172.2,"aalenian",12046,20.8673,29.7161,38,1
-"49067",73744,"col","",-4.37,43.15,"Tudanca section; benthic forams, 410 m",NA,"",35,"Aalenian","",174.1,170.3,24720,"gp_mid",20.83,29.57,"304",172.2,"aalenian",12046,20.8673,29.7161,38,1
-"49083",73772,"col","",-4.27,42.8,"Aguilar de Campoo section, benthic forams, 145 m",NA,"",37,"Aalenian","",174.1,170.3,24720,"gp_mid",20.71,29.23,"304",172.2,"aalenian",12050,20.8673,29.7161,38,1
-"49097",73786,"col","",-4.02,42.58,"Barrios de Villadiego section, benthic forams, 62 m",NA,"",27,"Aalenian","",174.1,170.3,24720,"gp_mid",20.77,28.95,"304",172.2,"aalenian",12057,20.8673,29.7161,38,1
-"50698",76522,"col","",135.42,34.07,"S28, radiolarian sample Shimizu area",NA,"",8,"Aalenian","",174.1,170.3,25884,"gp_mid",154.57,45.61,"610",172.2,"aalenian",12521,167.8708,34.8782,38,1
-"52102",78987,"col","",-126.83,56.7,"GSC 93221 Two Lakes Creek",NA,"",1,"Aalenian","",174.1,170.3,26536,"gp_mid",-46.47,41.16,"123",172.2,"aalenian",12937,-48.9021,43.181,38,1
-"57386",87398,"col","Polaten",22.73,42.42,"Zabljano, bed A",NA,"",3,"Aalenian","",174.1,170.3,29429,"gp_mid",36.63,16.5,"308",172.2,"aalenian",14863,45.4324,37.0868,38,1
-"59974",91223,"col","",-2.32,51.23,"Vale of the Vallis, W of Frome [Inferior Oolite]",NA,"",1,"Aalenian","",174.1,170.3,30685,"gp_mid",20.85,36.32,"315",172.2,"aalenian",15753,20.9041,36.5987,38,1
-"60138",91436,"col","",10.65,53.58,"Moorberg",NA,"",1,"Aalenian","",174.1,170.3,30800,"gp_mid",30.17,40.12,"315",172.2,"aalenian",15799,30.4017,43.0272,38,1
-"60139",91437,"col","",3.17,46.98,"Nevers (Aalénian inf.)",NA,"",1,"Aalenian","",174.1,170.3,30800,"gp_mid",25.98,32.71,"305",172.2,"aalenian",15800,27.7878,36.3771,38,1
-"63435",95425,"col","",-69.57,-27.45,"Quebrada San Miguel, Atacama",NA,"",1,"Aalenian","",174.1,170.3,32394,"gp_mid",-22.49,-28.06,"291",172.2,"aalenian",16769,-27.3207,-31.5858,38,1
-"63455",95447,"col","",-70.58,-30.67,"Mina Los Pingos, Coquimbo",NA,"",2,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.91,-31.38,"291",172.2,"aalenian",16783,-26.2048,-34.0454,38,1
-"63546",95541,"col","",-69.97,-28.5,"Río del Toro, Atacama",NA,"",1,"Aalenian","",174.1,170.3,32459,"gp_mid",-22.7,-29.15,"291",172.2,"aalenian",16811,-27.3207,-31.5858,38,1
-"71884",107354,"col","",5.82,49.5,"Moulaine",NA,"",1,"Aalenian","",174.1,170.3,35728,"gp_mid",27.52,35.51,"315",172.2,"aalenian",19999,29.151,39.7297,38,1
-"84120",122097,"col","Dealul Zanei",21.85,45.07,"Ponor Quarry, Anina",NA,"",1,"Aalenian","",174.1,170.3,38873,"gp_mid",38.76,18.31,"308",172.2,"aalenian",23520,40.6971,38.2147,38,1
-"89533",129767,"col","",136.75,54.41,"Buhkta Mamga, Tugursky Bay, Bed No. 5",NA,"",1,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",172.2,"aalenian",24985,-164.7491,73.5576,38,1
-"89534",129768,"col","",136.75,54.41,"Buhkta Mamga, Tugursky Bay, Bed No. 6",NA,"",1,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",172.2,"aalenian",24985,-164.7491,73.5576,38,1
-"89535",129769,"col","",136.75,54.41,"Buhkta Mamga, Tugursky Bay, Bed No. 7",NA,"",3,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",172.2,"aalenian",24985,-164.7491,73.5576,38,1
-"89538",129772,"col","",136.85,54.49,"Mys Chokoringra, Tugursky Bay, Section II, Bed No. 4",NA,"",2,"Aalenian","",174.1,170.3,42105,"gp_mid",155.35,69.69,"401",172.2,"aalenian",24986,-164.7491,73.5576,38,1
-"89624",130007,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-239.8 m",NA,"",1,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",172.2,"aalenian",25000,-22.6303,-43.6529,38,1
-"89625",130008,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-290.15 m",NA,"",1,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",172.2,"aalenian",25000,-22.6303,-43.6529,38,1
-"89626",130009,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-408 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",172.2,"aalenian",25000,-22.6303,-43.6529,38,1
-"89627",130010,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-415 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",172.2,"aalenian",25000,-22.6303,-43.6529,38,1
-"89628",130011,"col","Los Molles",-70.88,-39.09,"Arroyo la Jardinera Section, P-450 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",172.2,"aalenian",25000,-22.6303,-43.6529,38,1
-"92652",133916,"col","Ohautira",174.94,-37.53,"GS 5003, Naike Quarry (R13/f8501)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.61,-78.36,"806",172.2,"aalenian",25690,-4.3549,-86.4874,38,1
-"92653",133917,"col","",174.94,-37.53,"McF F71, Naike Quarry (R13/f8501)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.61,-78.36,"806",172.2,"aalenian",25690,-4.3549,-86.4874,38,1
-"92654",133918,"col","",174.95,-37.52,"AU 716, Naike Quarry (R13/f8706)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.62,-78.37,"806",172.2,"aalenian",25691,-4.3549,-86.4874,38,1
-"93672",135103,"col","",168.43,-46.04,"GS 6648, Heale Ridge (E45/f9692)",NA,"",2,"Aalenian","",174.1,170.3,43142,"gp_mid",65.13,-80.15,"807",172.2,"aalenian",26042,30.2448,-83.2708,38,1
-"93780",135211,"col","",169.04,-46.18,"GS 5143, East Gore (F45/f9622)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",62.59,-80.06,"807",172.2,"aalenian",26096,30.2448,-83.2708,38,1
-"93840",135271,"col","",169.57,-46.5,"OU 3306, Warnock Road quarry (G47/f7539)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",60.35,-79.76,"807",172.2,"aalenian",26129,39.8382,-81.1283,38,1
-"93881",135312,"col","",169.76,-46.47,"JDC 3800, Cannibal Bay (H46/f8739)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",59.65,-79.8,"807",172.2,"aalenian",26147,39.8382,-81.1283,38,1
-"93882",135313,"col","",169.76,-46.47,"GS 6978, Cannibal Bay (H46/f8739)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",59.65,-79.8,"807",172.2,"aalenian",26147,39.8382,-81.1283,38,1
-"93883",135314,"col","",169.78,-46.45,"GS 7878, Sandy Bay (H46/f8822)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",59.54,-79.82,"807",172.2,"aalenian",26148,39.8382,-81.1283,38,1
-"94021",135505,"col","Oolite Marl",-1.87,51.89,"Notgrove railroad cut, near Cheltenham",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",21.07,37.02,"315",172.2,"aalenian",26213,22.2333,39.9565,38,1
-"94050",135534,"col","Oolite Marl",-1.87,51.89,"Near Notgrove (USNM coll)",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",21.07,37.02,"315",172.2,"aalenian",26213,22.2333,39.9565,38,1
-"95247",137168,"col","",9.89,52.28,"Moorberg, near Hannover",NA,"",8,"Aalenian","",174.1,170.3,43855,"gp_mid",29.96,38.75,"315",172.2,"aalenian",26603,30.4017,43.0272,38,1
-"97184",139245,"col","",-70.29,-29,"Quebrada Pinte (Aalenian)",NA,"",1,"Aalenian","",174.1,170.3,44750,"gp_mid",-22.92,-29.69,"291",172.2,"aalenian",27106,-26.2048,-34.0454,38,1
-"99019",141468,"col","",6.03,49.46,"Hutberg Site, Rumelange, Bed I",NA,"",5,"Aalenian","",174.1,170.3,45981,"gp_mid",27.7,35.49,"315",172.2,"aalenian",27408,29.151,39.7297,38,1
-"99633",142153,"col","Northampton Sands",-0.98,52.27,"Harlestone",NA,"",1,"Aalenian","",174.1,170.3,46181,"gp_mid",21.67,37.48,"315",172.2,"aalenian",27502,22.2333,39.9565,38,1
-"106747",151229,"col","Inici",13,37.64,"Cava D'Anna, Mt. Magaggiaro",NA,"",8,"Aalenian","",174.1,170.3,48259,"gp_mid",NA,NA,"coordinates not computable using this model",172.2,"aalenian",28638,20.2914,22.9327,38,1
-"109704",155324,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit I, FL-1",NA,"",1,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109706",155325,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit II, FL-3",NA,"",1,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109707",155326,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit II, FL-4",NA,"",4,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109708",155327,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit II, FL-5",NA,"",2,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109709",155328,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit III, FL-7",NA,"",2,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109710",155329,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit III, FL-8",NA,"",1,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"109711",155330,"col","Dalichai",54.1,36.27,"Telma-Dareh, Dalichai Fm, Unit III, FL-9",NA,"",1,"Aalenian","",174.1,170.3,50679,"gp_mid",72.45,32.54,"505",172.2,"aalenian",29371,75.278,43.7815,38,1
-"110272",156331,"col","Hardgrave",-120.84,40.08,"Taylorsville [Hardgrave Sandstone]",NA,"",2,"Aalenian","",174.1,170.3,32966,"gp_mid",-44.72,29.99,"101",172.2,"aalenian",29491,-49.7337,28.9197,38,1
-"112324",159748,"col","",-2.8,50.74,"Chideock Quarry Hill (BGS)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.57,35.79,"315",172.2,"aalenian",30137,20.9041,36.5987,38,1
-"112325",159749,"col","",-2.8,50.74,"Chideock Quarry Hill (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.57,35.79,"315",172.2,"aalenian",30137,20.9041,36.5987,38,1
-"112326",159750,"col","",-2.76,50.73,"Bridport (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.6,35.79,"315",172.2,"aalenian",30138,20.9041,36.5987,38,1
-"112515",159964,"col","Birdlip Limestone",-1.87,51.89,"Notgrove station (USNM)",NA,"",2,"Aalenian","",174.1,170.3,33914,"gp_mid",21.07,37.02,"315",172.2,"aalenian",26213,22.2333,39.9565,38,1
-"113460",161169,"col","",10.9,46.31,"Plani di Monclassico",NA,"",7,"Aalenian","",174.1,170.3,52485,"gp_mid",36.64,25.8,"307",172.2,"aalenian",30450,11.25,47.5,38,1
-"113462",161172,"col","",10.94,46.3,"Val Formiga",NA,"",7,"Aalenian","",174.1,170.3,52485,"gp_mid",36.64,25.77,"307",172.2,"aalenian",30452,11.25,47.5,38,1
-"113463",161173,"col","",10.92,46.29,"Passo Nana",NA,"",12,"Aalenian","",174.1,170.3,52485,"gp_mid",36.62,25.78,"307",172.2,"aalenian",30453,11.25,47.5,38,1
-"113464",161174,"col","",10.9,46.28,"Sasso Rosso",NA,"",8,"Aalenian","",174.1,170.3,52485,"gp_mid",36.61,25.79,"307",172.2,"aalenian",30454,11.25,47.5,38,1
-"113476",161196,"col","",10.05,47.41,"Riesenkopf",NA,"",1,"Aalenian","",174.1,170.3,52485,"gp_mid",31.38,34.02,"305",172.2,"aalenian",30456,11.25,47.5,38,1
-"113482",161202,"col","",12.29,47.76,"Aschau (Laubenstein)",NA,"",1,"Aalenian","",174.1,170.3,52485,"gp_mid",33.08,34.68,"305",172.2,"aalenian",30457,11.25,47.5,38,1
-"115547",164678,"col","Hardgrave",-120.8,40.06,"Spur 34, southwest slope of Mount Jura",NA,"",1,"Aalenian","",174.1,170.3,53761,"gp_mid",-44.69,29.97,"101",172.2,"aalenian",30910,-49.7337,28.9197,38,1
-"118776",170017,"col","",4.82,45.82,"Mont Cindre",NA,"",2,"Aalenian","",174.1,170.3,53744,"gp_mid",27.55,31.77,"305",172.2,"aalenian",31695,29.0764,34.1093,38,1
-"119247",170548,"col","",9.99,36.24,"Djebel Bent Saidane east, bed 6",NA,"",2,"Aalenian","",174.1,170.3,55572,"gp_mid",24.74,21.81,"714",172.2,"aalenian",31766,19.012,21.1548,38,1
-"119299",170602,"col","Staa",10.07,36.35,"Djebel Zaghouan, eastern face of Mines of Djebel Staa, bed 56",NA,"",2,"Aalenian","",174.1,170.3,55572,"gp_mid",24.85,21.87,"714",172.2,"aalenian",31776,20.2914,22.9327,38,1
-"119758",171325,"col","Oolite Marl",-1.87,51.89,"Notgrove station, Naunton",NA,"",4,"Aalenian","",174.1,170.3,52872,"gp_mid",21.07,37.02,"315",172.2,"aalenian",26213,22.2333,39.9565,38,1
-"120442",172177,"col","",-69.14,-22.56,"Cerritos Bayos (Caliza de Stephanoceratidae)",NA,"",1,"Aalenian","",174.1,170.3,55912,"gp_mid",-22.93,-24.28,"201",172.2,"aalenian",32023,-24.7879,-25.8452,38,1
-"136807",202398,"col","Bugarone Inferiore",12.53,43.57,"Fosso del Presale. Bed 57",NA,"",2,"Aalenian","",174.1,170.3,69358,"gp_mid",34.29,23.72,"307",172.2,"aalenian",35892,11.25,42.5,38,1
-"140113",207147,"col","Calcaires a` Cancellophycus",4.67,45.88,"Lafarge quarry, Belmont-d’Azergues",NA,"",1,"Aalenian","",174.1,170.3,43370,"gp_mid",27.41,31.81,"305",172.2,"aalenian",36891,29.0764,34.1093,38,1
+"","collection_no","record_type","formation","lng","lat","collection_name","collection_subset","collection_aka","n_occs","early_interval","late_interval","max_ma","min_ma","reference_no","paleomodel","paleolng","paleolat","geoplate","marine","mid_ma","time_bin","ext"
+"2641",8526,"col","Inferior Oolite",-2.75,50.799999,"England HPQ",NA,"",16,"Aalenian","",174.1,170.3,41,"gp_mid",20.6,35.86,"315",1,172.2,"aalenian",1
+"4024",34180,"col","Kingak",-138.133331,68.083336,"GSC 39360, Kingak Fm, SW of Bonnet Lake, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.47,"101",1,172.2,"aalenian",1
+"6674",33604,"col","",-5,34,"J. Ahrabout, Atlas Mountains",NA,"",1,"Aalenian","",174.1,170.3,8925,"gp_mid",9.04,25.72,"707",1,172.2,"aalenian",1
+"7010",34178,"col","",-137.199997,67.833336,"GSC 39343, Bug Creek Grp, Mt. McGuire area, northern Yukon",NA,"",4,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.48,59.07,"101",1,172.2,"aalenian",1
+"7011",34179,"col","",-137.199997,67.833336,"GSC 39344, Bug Creek Grp, Mt. McGuire area, northern Yukon",NA,"",4,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.48,59.07,"101",1,172.2,"aalenian",1
+"7016",34186,"col","Kingak",-138.316666,68.599998,"GSC 41483, Kingak Fm, Barn Mts. area, northern Yukon",NA,"",7,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.35,59.94,"101",1,172.2,"aalenian",1
+"7017",34187,"col","Kingak",-138.300003,68.599998,"GSC 44211, Kingak Fm, Barn Mts, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.34,59.94,"101",1,172.2,"aalenian",1
+"7022",34196,"col","",-136.666672,67.883331,"GSC 86565, Murray Ridge, northern Yukon",NA,"",6,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.1,59.01,"101",1,172.2,"aalenian",1
+"7024",34199,"col","Kingak",-137.79306,68.283333,"GSC 86823, Kingak Fm, Bonnet Lake area, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.37,59.57,"101",1,172.2,"aalenian",1
+"7027",34202,"col","Kingak",-137.899994,68.050003,"GSC 88097, Kingak Fm, Johnson Creek, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.69,59.39,"101",1,172.2,"aalenian",1
+"7029",34204,"col","Kingak",-138.041672,68.158333,"GSC 88654, Kingak Fm, northern Yukon",NA,"",8,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.66,59.51,"101",1,172.2,"aalenian",1
+"7030",34205,"col","Kingak",-138.074997,68.050003,"GSC 92513, Kingak Fm, Johnson Creek, northern Yukon",NA,"",1,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",1,172.2,"aalenian",1
+"7031",34206,"col","Kingak",-138.074997,68.050003,"GSC 92514, Kingak Fm, Johnson Creek, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",1,172.2,"aalenian",1
+"7034",34209,"col","Kingak",-138.083328,68.050003,"GSC 92517, Kingak Fm, Johnson Creek, northern Yukon",NA,"",2,"Aalenian","",174.1,170.3,8997,"gp_mid",-41.8,59.43,"101",1,172.2,"aalenian",1
+"7043",34227,"col","Manuel Creek",-136.375,67.974998,"GSC 92605, Manuel Creek Fm, Murray Ridge, northern Yukon",NA,"",10,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.82,59.03,"101",1,172.2,"aalenian",1
+"7047",34231,"col","",-136.21666,68.416664,"GSC 94036, Blow River area, northern Yukon",NA,"",6,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.27,59.37,"101",1,172.2,"aalenian",1
+"7048",34232,"col","Manual Creek",-136.383331,67.98333,"GSC 94040, Manuel Creek Fm, Murray Ridge, Northwest Territories",NA,"",13,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.82,59.04,"101",1,172.2,"aalenian",1
+"7049",34233,"col","Manual Creek",-136.383331,67.98333,"GSC 94041, Murray Ridge, Northwest Territories",NA,"",13,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.82,59.04,"101",1,172.2,"aalenian",1
+"7051",34236,"col","Manuel Creek",-136.449997,68.033333,"GSC 94050, Manuel Creek, Murray Ridge, northern Yukon",NA,"",7,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.81,59.09,"101",1,172.2,"aalenian",1
+"7052",34238,"col","Manuel Creek",-136.449997,68.033333,"GSC 94051, Manuel Creek Fm, Murray Ridge, northern Yukon",NA,"",8,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.81,59.09,"101",1,172.2,"aalenian",1
+"7053",34239,"col","Manuel Creek",-136.449997,68.033333,"GSC 94052, Manuel Creek Fm, Murray Ridge, northern Yukon",NA,"",5,"Aalenian","",174.1,170.3,8997,"gp_mid",-40.81,59.09,"101",1,172.2,"aalenian",1
+"16577",51299,"col","",160.25,60.666668,"Sample 14-2, Taigonos Peninsula, Okhotsk Sea",NA,"",2,"Aalenian","",174.1,170.3,13657,"gp_mid",-162.28,72.03,"405",1,172.2,"aalenian",1
+"17018",51869,"col","Opapaka Sandstone",174.75,-38.116669,"Locality R15/f8018, Waikato",NA,"",8,"Aalenian","",174.1,170.3,13811,"gp_mid",77.83,-78.14,"806",1,172.2,"aalenian",1
+"20243",58236,"col","",9.983333,52.650002,"Bore Hambühren, Lower Saxony",NA,"",4,"Aalenian","",174.1,170.3,15698,"gp_mid",29.93,39.12,"315",1,172.2,"aalenian",1
+"23606",63753,"col","",174.827301,-38.541599,"R17/f8599 - Awakino River Rd, Awakino",NA,"AU L247a/b",1,"Aalenian","",174.1,170.3,18321,"gp_mid",75.74,-78.13,"806",1,172.2,"aalenian",1
+"25280",66385,"col","Calcari Oolitici di S. Vigilio",11.133333,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, lower Micritic-oncolit.",NA,"",9,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",1,172.2,"aalenian",1
+"25281",66386,"col","Calcari Oolitici di S. Vigilio",11.133333,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, upper Micritic-oncolit.",NA,"",10,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",1,172.2,"aalenian",1
+"25282",66387,"col","Calcari Oolitici di S. Vigilio",11.133333,45.75,"Chiusa di Camposilvano, Calcari Oolitici di S. Vigilio, Reef facies",NA,"Reef 3556",6,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",1,172.2,"aalenian",1
+"25284",66389,"col","Calcari Oolitici di S. Vigilio",11.133333,45.75,"Covolo di Camposilvano, Calcari Oolitici di S. Vigilio, lower Micritic-oncolit.",NA,"",9,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",1,172.2,"aalenian",1
+"25285",66390,"col","Calcari Oolitici di S. Vigilio",11.133333,45.75,"Covolo di Camposilvano, Calcari Oolitici di S. Vigilio, Reef facies",NA,"Reef 3556",7,"Aalenian","",174.1,170.3,18980,"gp_mid",36.12,25.45,"307",1,172.2,"aalenian",1
+"29242",73743,"col","",-4.366667,43.150002,"Tudanca section; benthic forams, 385 m",NA,"",35,"Aalenian","",174.1,170.3,24720,"gp_mid",20.83,29.57,"304",1,172.2,"aalenian",1
+"29243",73744,"col","",-4.366667,43.150002,"Tudanca section; benthic forams, 410 m",NA,"",35,"Aalenian","",174.1,170.3,24720,"gp_mid",20.83,29.57,"304",1,172.2,"aalenian",1
+"29259",73772,"col","",-4.266667,42.799999,"Aguilar de Campoo section, benthic forams, 145 m",NA,"",37,"Aalenian","",174.1,170.3,24720,"gp_mid",20.71,29.23,"304",1,172.2,"aalenian",1
+"29272",73786,"col","",-4.016667,42.583332,"Barrios de Villadiego section, benthic forams, 62 m",NA,"",27,"Aalenian","",174.1,170.3,24720,"gp_mid",20.77,28.95,"304",1,172.2,"aalenian",1
+"30774",77239,"col","",-2.083333,51.900002,"Cheltenham, Gloucestershire",NA,"",1,"Aalenian","",174.1,170.3,26156,"gp_mid",20.9,37.01,"315",1,172.2,"aalenian",1
+"31709",78987,"col","",-126.833336,56.701111,"GSC 93221 Two Lakes Creek",NA,"",1,"Aalenian","",174.1,170.3,26536,"gp_mid",-46.47,41.16,"123",1,172.2,"aalenian",1
+"38684",91223,"col","",-2.318333,51.229168,"Vale of the Vallis, W of Frome [Inferior Oolite]",NA,"",1,"Aalenian","",174.1,170.3,30685,"gp_mid",20.85,36.32,"315",1,172.2,"aalenian",1
+"38827",91436,"col","",10.65,53.583332,"Moorberg",NA,"",1,"Aalenian","",174.1,170.3,30800,"gp_mid",30.17,40.12,"315",1,172.2,"aalenian",1
+"38828",91437,"col","",3.166667,46.983334,"Nevers (Aalénian inf.)",NA,"",1,"Aalenian","",174.1,170.3,30800,"gp_mid",25.98,32.71,"305",1,172.2,"aalenian",1
+"48961",107354,"col","",5.816944,49.501389,"Moulaine",NA,"",1,"Aalenian","",174.1,170.3,35728,"gp_mid",27.52,35.51,"315",1,172.2,"aalenian",1
+"60222",122097,"col","Dealul Zanei",21.85,45.066666,"Ponor Quarry, Anina",NA,"",1,"Aalenian","",174.1,170.3,38873,"gp_mid",38.76,18.31,"308",1,172.2,"aalenian",1
+"63063",127221,"col","Snowshoe",-119.384598,44.083302,"Suplee-Izee area, OR-593",NA,"",3,"Aalenian","",174.1,170.3,41432,"gp_mid",-43.77,31.34,"129",1,172.2,"aalenian",1
+"63064",127222,"col","Snowshoe",-119.384598,44.083302,"Suplee-Izee area, OR-580",NA,"",3,"Aalenian","",174.1,170.3,41432,"gp_mid",-43.77,31.34,"129",1,172.2,"aalenian",1
+"64528",129767,"col","",136.751663,54.412498,"Buhkta Mamga, Tugursky Bay, Bed No. 5",NA,"",1,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",1,172.2,"aalenian",1
+"64529",129768,"col","",136.751663,54.412498,"Buhkta Mamga, Tugursky Bay, Bed No. 6",NA,"",1,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",1,172.2,"aalenian",1
+"64530",129769,"col","",136.751663,54.412498,"Buhkta Mamga, Tugursky Bay, Bed No. 7",NA,"",3,"Aalenian","",174.1,170.3,42105,"gp_mid",155.24,69.6,"401",1,172.2,"aalenian",1
+"64533",129772,"col","",136.851395,54.490002,"Mys Chokoringra, Tugursky Bay, Section II, Bed No. 4",NA,"",2,"Aalenian","",174.1,170.3,42105,"gp_mid",155.35,69.69,"401",1,172.2,"aalenian",1
+"64602",130007,"col","Los Molles",-70.879997,-39.09,"Arroyo la Jardinera Section, P-239.8 m",NA,"",1,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",1,172.2,"aalenian",1
+"64603",130008,"col","Los Molles",-70.879997,-39.09,"Arroyo la Jardinera Section, P-290.15 m",NA,"",1,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",1,172.2,"aalenian",1
+"64604",130009,"col","Los Molles",-70.879997,-39.09,"Arroyo la Jardinera Section, P-408 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",1,172.2,"aalenian",1
+"64605",130010,"col","Los Molles",-70.879997,-39.09,"Arroyo la Jardinera Section, P-415 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",1,172.2,"aalenian",1
+"64606",130011,"col","Los Molles",-70.879997,-39.09,"Arroyo la Jardinera Section, P-450 m",NA,"",2,"Aalenian","",174.1,170.3,42193,"gp_mid",-21.42,-39.72,"291",1,172.2,"aalenian",1
+"67334",133916,"col","Ohautira",174.940384,-37.527458,"GS 5003, Naike Quarry (R13/f8501)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.61,-78.36,"806",1,172.2,"aalenian",1
+"67335",133917,"col","",174.940384,-37.527458,"McF F71, Naike Quarry (R13/f8501)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.61,-78.36,"806",1,172.2,"aalenian",1
+"67336",133918,"col","",174.953857,-37.524231,"AU 716, Naike Quarry (R13/f8706)",NA,"",1,"Aalenian","",174.1,170.3,43142,"gp_mid",80.62,-78.37,"806",1,172.2,"aalenian",1
+"68562",135416,"col","Birdlip Limestone",-2.015,51.939999,"Cleeve Hill, Oolite Marl, Cheltenham (USNM coll)",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",20.95,37.05,"315",1,172.2,"aalenian",1
+"68567",135421,"col","Birdlip Limestone",-2.075,51.865002,"Leckhampton Hill, Oolite Marl (USNM coll)",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",20.92,36.97,"315",1,172.2,"aalenian",1
+"68611",135490,"col","",-2.25,51.759998,"Randwick Ash, Stroud",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",20.8,36.85,"315",1,172.2,"aalenian",1
+"68626",135505,"col","Oolite Marl",-1.87,51.889,"Notgrove railroad cut, near Cheltenham",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",21.07,37.02,"315",1,172.2,"aalenian",1
+"68627",135506,"col","Oolite Marl",-2.193,51.801998,"Catbrain Quarry, Painswick",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",20.84,36.9,"315",1,172.2,"aalenian",1
+"68643",135522,"col","Birdlip Limestone ",-2.075,51.865002,"Leckhampton Hill, Pea Grit (USNM coll)",NA,"",6,"Aalenian","",174.1,170.3,43337,"gp_mid",20.92,36.97,"315",1,172.2,"aalenian",1
+"68648",135528,"col","Inferior Oolite",-2.11,51.830002,"Birdlip, Pea Grit",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",20.9,36.94,"315",1,172.2,"aalenian",1
+"68654",135534,"col","Oolite Marl",-1.87,51.889,"Near Notgrove (USNM coll)",NA,"",1,"Aalenian","",174.1,170.3,43337,"gp_mid",21.07,37.02,"315",1,172.2,"aalenian",1
+"69590",137168,"col","",9.89,52.279999,"Moorberg, near Hannover",NA,"",8,"Aalenian","",174.1,170.3,43855,"gp_mid",29.96,38.75,"315",1,172.2,"aalenian",1
+"72562",141468,"col","",6.031667,49.459721,"Hutberg Site, Rumelange, Bed I",NA,"",5,"Aalenian","",174.1,170.3,45981,"gp_mid",27.7,35.49,"315",1,172.2,"aalenian",1
+"81603",156331,"col","Hardgrave",-120.839722,40.075558,"Taylorsville [Hardgrave Sandstone]",NA,"",2,"Aalenian","",174.1,170.3,32966,"gp_mid",-44.72,29.99,"101",1,172.2,"aalenian",1
+"83083",159253,"col","Inferior Oolite",-2.19,51.705002,"Minchinhampton (Inferior Oolite)",NA,"",2,"Aalenian","",174.1,170.3,52078,"gp_mid",20.86,36.81,"315",1,172.2,"aalenian",1
+"83085",159255,"col","Inferior Oolite",-2.32,51.388,"Hampton Common, near Bath",NA,"",1,"Aalenian","",174.1,170.3,52078,"gp_mid",20.82,36.48,"315",1,172.2,"aalenian",1
+"83431",159748,"col","",-2.8007,50.737999,"Chideock Quarry Hill (BGS)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.57,35.79,"315",1,172.2,"aalenian",1
+"83432",159749,"col","",-2.8007,50.737999,"Chideock Quarry Hill (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.57,35.79,"315",1,172.2,"aalenian",1
+"83433",159750,"col","",-2.758,50.733002,"Bridport (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.6,35.79,"315",1,172.2,"aalenian",1
+"83434",159751,"col","Birdlip Limestone",-2.1,51.845001,"Crickley Hill, Pea Grit (BGS)",NA,"",4,"Aalenian","",174.1,170.3,33914,"gp_mid",20.9,36.95,"315",1,172.2,"aalenian",1
+"83435",159752,"col","",-2.005,51.918999,"Cleeve Hill Inferior Oolite (lower part, Aalenian)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.96,37.03,"315",1,172.2,"aalenian",1
+"83436",159753,"col","Birdlip Limestone",-2.193,51.786999,"Painswick (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.84,36.89,"315",1,172.2,"aalenian",1
+"83467",159781,"col","",-2.07,51.889999,"Cheltenham, Inferior Oolite",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.92,37,"315",1,172.2,"aalenian",1
+"83563",159883,"col","",-2.643,51.397999,"Dundry Hill (USNM)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.57,36.46,"315",1,172.2,"aalenian",1
+"83618",159964,"col","Birdlip Limestone",-1.867,51.889,"Notgrove station (USNM)",NA,"",2,"Aalenian","",174.1,170.3,33914,"gp_mid",21.07,37.02,"315",1,172.2,"aalenian",1
+"83619",159965,"col","Birdlip Limestone",-2.075,51.865002,"Leckhampton Hill (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.92,36.97,"315",1,172.2,"aalenian",1
+"83620",159966,"col","Birdlip Limestone",-2.186,51.703999,"Minchinhampton (USNM)",NA,"",2,"Aalenian","",174.1,170.3,33914,"gp_mid",20.86,36.8,"315",1,172.2,"aalenian",1
+"83670",160058,"col","Birdlip Limestone",-2.005,51.918999,"Cleeve Hill Inferior Oolite (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.96,37.03,"315",1,172.2,"aalenian",1
+"83671",160059,"col","Birdlip Limestone",-2.07,51.898998,"Cheltenham (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.91,37.01,"315",1,172.2,"aalenian",1
+"83672",160060,"col","Birdlip Limestone",-2.193,51.786999,"Painswick (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.84,36.89,"315",1,172.2,"aalenian",1
+"83673",160061,"col","Birdlip Limestone",-2.196,51.716,"Wall's Quarry, Briscombe",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.85,36.82,"315",1,172.2,"aalenian",1
+"83674",160062,"col","Birdlip Limestone",-2.099,51.817001,"Birdlip Hill (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.91,36.92,"315",1,172.2,"aalenian",1
+"83676",160064,"col","Birdlip Limestone",-2.186,51.772999,"Frith Quarry, Painswick",NA,"",1,"Aalenian","",174.1,170.3,33914,"gp_mid",20.85,36.87,"315",1,172.2,"aalenian",1
+"84519",161169,"col","",10.898,46.311001,"Plani di Monclassico",NA,"",7,"Aalenian","",174.1,170.3,52485,"gp_mid",36.64,25.8,"307",1,172.2,"aalenian",1
+"84520",161172,"col","",10.939,46.299,"Val Formiga",NA,"",7,"Aalenian","",174.1,170.3,52485,"gp_mid",36.64,25.77,"307",1,172.2,"aalenian",1
+"84521",161173,"col","",10.922,46.293098,"Passo Nana",NA,"",12,"Aalenian","",174.1,170.3,52485,"gp_mid",36.62,25.78,"307",1,172.2,"aalenian",1
+"84522",161174,"col","",10.8978,46.2826,"Sasso Rosso",NA,"",8,"Aalenian","",174.1,170.3,52485,"gp_mid",36.61,25.79,"307",1,172.2,"aalenian",1
+"84532",161196,"col","",10.05,47.410999,"Riesenkopf",NA,"",1,"Aalenian","",174.1,170.3,52485,"gp_mid",31.38,34.02,"305",1,172.2,"aalenian",1
+"86312",164678,"col","Hardgrave",-120.800003,40.060001,"Spur 34, southwest slope of Mount Jura",NA,"",1,"Aalenian","",174.1,170.3,53761,"gp_mid",-44.69,29.97,"101",1,172.2,"aalenian",1
+"86781",165588,"col","Saltwick",-1.115,54.494999,"Roseberry Topping coprolites",NA,"",6,"Aalenian","",174.1,170.3,54141,"gp_mid",21.11,39.66,"315",1,172.2,"aalenian",1
+"88769",170017,"col","",4.824,45.821999,"Mont Cindre",NA,"",2,"Aalenian","",174.1,170.3,53744,"gp_mid",27.55,31.77,"305",1,172.2,"aalenian",1
+"89606",171323,"col","Birdlip Limestone",-2.075,51.865002,"Leckhampton Hill, Oolite Marl (Buckman coll)",NA,"",1,"Aalenian","",174.1,170.3,52872,"gp_mid",20.92,36.97,"315",1,172.2,"aalenian",1
+"89608",171325,"col","Oolite Marl",-1.867,51.889,"Notgrove station, Naunton",NA,"",4,"Aalenian","",174.1,170.3,52872,"gp_mid",21.07,37.02,"315",1,172.2,"aalenian",1
+"89613",171330,"col","Birdlip Limestone ",-2.075,51.865002,"Leckhampton Hill, Pea Grit (Buckman)",NA,"",1,"Aalenian","",174.1,170.3,52872,"gp_mid",20.92,36.97,"315",1,172.2,"aalenian",1
+"89621",171339,"col","Oolite Marl",-2.59,51.509998,"Charlton Common (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,52872,"gp_mid",20.59,36.58,"315",1,172.2,"aalenian",1
+"89622",171340,"col","",-2.05,51.900002,"Near Cheltenham (Oolite Marl)",NA,"",1,"Aalenian","",174.1,170.3,52872,"gp_mid",20.93,37.01,"315",1,172.2,"aalenian",1
+"89642",171364,"col","Birdlip Limestone",-2.044,51.872002,"Wistley Hill, Oolite Marl",NA,"",3,"Aalenian","",174.1,170.3,52872,"gp_mid",20.94,36.98,"315",1,172.2,"aalenian",1
+"89678",171412,"col","Oolite Marl",-2.23,51.759998,"Ruscombe",NA,"",1,"Aalenian","",174.1,170.3,52872,"gp_mid",20.82,36.86,"315",1,172.2,"aalenian",1
+"98702",195973,"col","Dogger",-0.485,54.400002,"Blea Wyke (Dogger Fm, BGS collection)",NA,"",1,"Aalenian","",174.1,170.3,66694,"gp_mid",21.6,39.63,"315",1,172.2,"aalenian",1
+"98703",195974,"col","Dogger",-0.485,54.400002,"Blea Wyke (Dogger Fm, SM collection)",NA,"",1,"Aalenian","",174.1,170.3,66694,"gp_mid",21.6,39.63,"315",1,172.2,"aalenian",1
+"98817",196222,"col","Birdlip Limestone",-2.215,51.695,"Nailsworth (Birdlip Limestone)",NA,"",1,"Aalenian","",174.1,170.3,66694,"gp_mid",20.84,36.79,"315",1,172.2,"aalenian",1
+"101087",202398,"col","Bugarone Inferiore",12.533333,43.566666,"Fosso del Presale. Bed 57",NA,"",2,"Aalenian","",174.1,170.3,69358,"gp_mid",34.29,23.72,"307",1,172.2,"aalenian",1
+"101108",202419,"col","Snowshoe",-119.533333,44.466667,"L207. Hill directly east of Wm. Harris Ranch house (abandoned)",NA,"Lupher 207",3,"Aalenian","",174.1,170.3,69359,"gp_mid",-43.81,31.74,"129",1,172.2,"aalenian",1
+"101444",202843,"col","",-3.583333,37.591667,"Bed -53. Barranco de Agua Larga, section 1, Alta Coloma area",NA,"JAQ1.(-53)",1,"Aalenian","",174.1,170.3,69512,"gp_mid",18.46,24.4,"304",1,172.2,"aalenian",1
+"103738",207147,"col","Calcaires a` Cancellophycus",4.668427,45.880417,"Lafarge quarry, Belmont-d’Azergues",NA,"",1,"Aalenian","",174.1,170.3,43370,"gp_mid",27.41,31.81,"305",1,172.2,"aalenian",1
