@@ -33,6 +33,7 @@ source("./R/subscripts/unimodal.R")
 source("./R/subscripts/bimodal.R")
 source("./R/subscripts/flat.R")
 
+#run as job
 #rstudioapi::jobRunScript(path = "./R/subscripts/unimodal.R", name = "unimodal", workingDir = getwd(), importEnv = TRUE)
 #rstudioapi::jobRunScript(path = "./R/subscripts/flat.R", name = "flat", workingDir = getwd(), importEnv = TRUE)
 #rstudioapi::jobRunScript(path = "./R/subscripts/bimodal.R", name = "bimodal", workingDir = getwd(), importEnv = TRUE)

@@ -67,4 +67,4 @@ p <- ggarrange(p1, p2,
                ncol=1, nrow=2, widths = c(1,1), labels = "auto", align = "v", font.label = list(size = 18), label.x = 0.07, label.y = 1.02)
 
 p
-ggsave("./figures/global_sampling_plot.png", plot = p, width = 120, height = 155, units = "mm", dpi = 600, scale = 1.7)
+ggsave("./figures/global_sampling_plot.png", plot = p, width = 115, height = 160, units = "mm", dpi = 600, scale = 1.7)

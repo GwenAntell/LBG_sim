@@ -3,7 +3,7 @@ dir.create("./results/flat/")
 
 library(parallel)
 
-cl <- makeCluster(detectCores()-2)
+cl <- makeCluster(detectCores()-1)
 
 clusterExport(cl=cl, varlist = list("reps", "species", "flat", "libs", "sim_dist"), envir=environment())
 

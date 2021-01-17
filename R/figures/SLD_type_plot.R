@@ -23,11 +23,12 @@ names(rarefied)[1] <- "SLD"
 
 data <- rbind.data.frame(simulated, sampled, rarefied)
 
-#vec <- c(40, 39, 38, 20, 17, 12, 9)
+vec <- c(40, 39, 38, 20, 17, 12, 9)
 
-#highlight <- stages[vec,]
-#highlight$SLD <- sampled$SLD[vec]
-#highlight$SLD2 <- rarefied$SLD[vec]
+highlight <- stages[vec,]
+highlight$SLD <- sampled$SLD[vec]
+highlight$SLD2 <- rarefied$SLD[vec]
+highlight$sld_min <- apply(highlight[,c("SLD", "SLD2")], 1, FUN=min)
 #---------------------------------
 
 s <- seq(2, 56, 2)
@@ -42,12 +43,12 @@ p <- ggplot() +
   geom_text(data = periods, mapping=aes(x=mid_age, y= -0.05, label = abbr), colour = "black", alpha=1)  +
   #geom_ribbon(data = skewness, aes(ymin = 0, ymax = skew/3, x = mid_age, fill = "Skewness"), colour = NA, alpha = 0.75) +
   geom_line(data = data, aes(x = mid_age, y = SLD, colour = factor(type, levels = c("Simulated", "Sampled", "Sampling-standardised "))), size = 1.2, alpha = 0.9) +
-  #geom_text_repel(data = highlight, aes(x = mid_age, y = SLD, label = stringr::str_to_title(name)),
-  #                nudge_y       = -0.15,
-  #                nudge_x       = c(-30, -30, 30, -5, 2, 2, 0),
-  #                segment.size  = 0.6,
-  #                segment.color = "grey50",
-  #                direction     = "x") +
+  geom_text_repel(data = highlight, aes(x = mid_age, y = sld_min, label = stringr::str_to_title(name)),
+                  nudge_y       = -0.17,
+                  nudge_x       = c(-30, -30, 30, -5, 2, 2, 2),
+                  segment.size  = 0.6,
+                  segment.color = "grey50",
+                  direction     = "x") +
   scale_colour_manual(values=c(col[1], col[2], col[3]), guide = guide_legend(reverse = FALSE)) +
   scale_fill_manual(values=c("darkgrey")) +
   scale_x_reverse(expand=c(0,0), limits = c(300, 0)) +
