@@ -23,8 +23,9 @@ for(i in 1:nrow(periods)){
 
 
 ssc_plot <- ggplot() + 
-  geom_tile(data = ssc, aes(x = mid_age, y = mid, fill = ssc, width = duration, height = 20), colour = "black") +
+  geom_tile(data = ssc, aes(x = mid_age, y = mid, fill = ssc, width = duration, height = 15), colour = "black") +
   scale_fill_viridis(option = "D", direction = 1, limits=c(0, 8), breaks=seq(0, 8,by=1), labels = seq(0, 8, by=1)) +
+  #geom_tile(data = NULL, aes(x = 298.900/2, y = 95, width = 298.900, height = 10), colour = "black", fill= "black")+
   geom_tile(data = stages, aes(x = mid_age, y = 95, width = duration, height = 10), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 95, label = abbr), color = "black", size = 4) +
   scale_y_continuous(expand = c(0,0), breaks = seq(-90, 90, 30)) +
@@ -55,5 +56,5 @@ ssc_plot <- ssc_plot + guides(fill = guide_colourbar(ticks.colour = "black", fra
 
 ssc_plot
 
-ggsave("./figures/heat_map_ssc.png",width = 210, height = 140, units = "mm", dpi = 600)
+ggsave("./figures/heat_map_ssc.png",width = 210, height = 140, units = "mm", dpi = 900)
 

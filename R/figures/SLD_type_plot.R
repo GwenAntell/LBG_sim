@@ -80,5 +80,5 @@ p <- ggplot() +
 
 p
 
-ggsave(file="./figures/SLD_LBG_type.png", plot = p, width = 190, height = 130, units = "mm", dpi = 600, scale = 1.25)
+ggsave(file="./figures/SLD_LBG_type.png", plot = p, width = 190, height = 130, units = "mm", dpi = 900, scale = 1.25)
 #ggsave(file="./figures/SLD_LBG_type.pdf", plot = p, width = 190, height = 130, units = "mm", dpi = 300, scale = 1.25)

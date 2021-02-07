@@ -23,7 +23,7 @@ for(i in 1:nrow(periods)){
 
 
 MST_plot <- ggplot() + 
-  geom_tile(data = MST, aes(x = mid_age, y = mid, fill = MST, width = duration, height = 20), colour = "black") +
+  geom_tile(data = MST, aes(x = mid_age, y = mid, fill = MST, width = duration, height = 15), colour = "black") +
   scale_fill_viridis(option = "D", direction = 1, limits=c(0, 28000), breaks=seq(0,28000,by=4000), labels = seq(0,28000,by=4000)) +
   geom_tile(data = stages, aes(x = mid_age, y = 95, width = duration, height = 10), colour = NA, fill= stages$periodcol)+
   geom_text(data = periods, aes(x = mid_age, y = 95, label = abbr), color = "black", size = 4) +
@@ -34,8 +34,8 @@ MST_plot <- ggplot() +
   theme(
     axis.text.x=element_text(size = 16, vjust = -1, angle = 0),
     axis.text.y=element_text(size = 16, hjust = 1, angle = 0),
-    axis.title.x=element_text(size = 16, face = "bold", vjust = -4, colour = "Black"),
-    axis.title.y=element_text(size = 16, face = "bold", vjust = 4, colour = "black"),
+    axis.title.x=element_text(size = 16, face = "bold", vjust = -4, colour = "black"),
+    axis.title.y=element_text(size = 16, face = "bold", vjust = 4, colour = "white"),
     plot.subtitle = element_text(size = 16, hjust = 0.5, face = "bold"),
     legend.position="bottom",
     plot.title = element_text(hjust = 0.5, vjust = 1, size = 10, face = "bold"),
@@ -55,5 +55,5 @@ MST_plot <- MST_plot + guides(fill = guide_colourbar(ticks.colour = "black", fra
 
 MST_plot
 
-ggsave("./figures/heat_map_mst.png",width = 210, height = 140, units = "mm", dpi = 600)
+ggsave("./figures/heat_map_mst.png",width = 210, height = 140, units = "mm", dpi = 900)
 

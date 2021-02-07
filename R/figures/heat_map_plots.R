@@ -348,6 +348,6 @@ p <- ggarrange(FlatSim_plot, UnimodalSim_plot, BimodalSim_plot, FlatSamp_plot, U
                BimodalSamp_plot, FlatCR_plot, UnimodalCR_plot, BimodalCR_plot, 
                ncol=3, nrow=3, widths = c(1,1,1,1,1,1,1,1,1), common.legend = TRUE, font.label = list(size = 12), legend="bottom", labels = "auto", align = "v", label.x = 0.15)
 
-
-ggsave("./figures/heat_map.png", plot = p, width = 280, height = 220, units = "mm", dpi = 600)
+p
+ggsave("./figures/heat_map.png", plot = p, width = 280, height = 220, units = "mm", dpi = 900)
 #ggsave("./figures/heat_map.pdf", plot = p, width = 14.9606, height = 8.26772, useDingbats = FALSE)
