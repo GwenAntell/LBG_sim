@@ -6,7 +6,8 @@ library(ggrepel)
 stages <- read.csv("./data/raw_data/stages.csv")
 periods <- read.csv("./data/raw_data/periods.csv")
 periods$abbr[1] <- NA
-col <- c("#1b9e77", "#d95f02", "#7570b3")
+#col <- c("#1b9e77", "#d95f02", "#7570b3")
+col <- rev(c("#41b6c4", "#2c7fb8", "#253494"))
 #---------------------------------
 data <- read.csv("./results/SLD/LBG_type_SLD.csv")
 simulated <- data[,c("simulated_SLD_UB", "mid_age")]
@@ -31,12 +32,12 @@ highlight$SLD2 <- rarefied$SLD[vec]
 highlight$sld_min <- apply(highlight[,c("SLD", "SLD2")], 1, FUN=min)
 #---------------------------------
 
-s <- seq(2, 56, 2)
+s <- seq(2, nrow(stages), 2)
 throwing_shade <- stages[s,]
 
 p <- ggplot() +
-  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
-  geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
+  #geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
+  #geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=0, ymax= Inf), linetype = 0, color="grey90", alpha=0.1)  +
   geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.1, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
   geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.1, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
