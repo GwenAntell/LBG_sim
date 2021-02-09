@@ -36,8 +36,8 @@ s <- seq(2, nrow(stages), 2)
 throwing_shade <- stages[s,]
 
 p <- ggplot() +
-  #geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
-  #geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
+  geom_segment(data = periods, mapping=aes(x = min_age, xend = min_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
+  geom_segment(data = periods, mapping=aes(x = max_age, xend = max_age, y =0, yend = Inf), linetype = 2, size = 1, color = "grey90") +
   geom_rect(data = throwing_shade, mapping=aes(xmin=min_age, xmax=max_age, ymin=0, ymax= Inf), linetype = 0, color="grey90", alpha=0.1)  +
   geom_rect(data = periods, mapping=aes(xmin=300, xmax=0, ymin=-0.1, ymax= 0), linetype = 1, colour = "black", fill="black", alpha=1)  +
   geom_rect(data = periods, mapping=aes(xmin=min_age, xmax=max_age, ymin= -0.1, ymax= 00), linetype = 1, colour = "black", fill=periods$color, alpha=1)  +
