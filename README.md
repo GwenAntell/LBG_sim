@@ -2,10 +2,10 @@
 
 Author(s): [Lewis A. Jones](mailto:l.jones16@imperial.ac.uk), [Christopher D. Dean](mailto:christopherdaviddean@gmail.com), [Philip D. Mannion](mailto:philipdmannion@gmail.com), [Alexander Farnsworth](mailto:alex.Farnsworth@bristol.ac.uk), [Peter A. Allison](mailto:p.a.allison@imperial.ac.uk)
 
-This repository contains the data and code required to run the analyses and results of the article, "Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients" (Jones et al. 2020). 
+This repository contains the data and code required to run the analyses and results of the article, "Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients" (Jones et al. 2021). 
 
 To cite the paper: 
-> Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. 2020. Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. (TBC).
+> Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. 2021. Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. Proceedings of the Royal Society B 288 (1945), 20202762.
 
 <p align="center">
   <img src="https://github.com/LewisAJones/LBG_sim/blob/master/figures/paper_workflow.png" alt="" width="400"/>
@@ -68,7 +68,7 @@ This folder contains plots of all stage-level sampling grids.
 </p>
 
 * **./results/frequency_dist/**
-This folder contains results from Kolmogorov–Smirnov two-sample tests between simulated and empirical range size and occurrence frequency distributions.
+This folder contains results from Kolmogorovâ€“Smirnov two-sample tests between simulated and empirical range size and occurrence frequency distributions.
 
 * **./results/SLD/**
 This folder contains total displacement results between pair-wise combinations of diversity curves.
@@ -77,7 +77,7 @@ This folder contains total displacement results between pair-wise combinations o
 This folder contains results from Pearson's correlation coefficient tests between pair-wise combinations of diversity curves.
 
 * **./results/KS_test/**
-This folder contains results from Kolmogorov–Smirnov two-sample tests between pair-wise combinations of diversity curves.
+This folder contains results from Kolmogorovâ€“Smirnov two-sample tests between pair-wise combinations of diversity curves.
 
 * **./results/max_lat/**
 This folder contains results related to the palaeolatitudinal bin with peak richness.
