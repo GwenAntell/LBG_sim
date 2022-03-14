@@ -1,3 +1,9 @@
+# GSA
+# this function tallies richness within lat bands of given width
+# its output generate both a plot and table
+# this is called by subscripts/compute_LBGs, sample_LBGs, and rarefy_LBGs.R
+# Seems to require matrixStats package
+
 get_LBG <- function(data, id = "id", bandsize = 15, reps = FALSE){
   nbins <- 180/bandsize
   bin <- as.data.frame(seq(1, nbins, 1))

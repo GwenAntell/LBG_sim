@@ -1,3 +1,7 @@
+# GSA - this script uses digital elevation maps to make shallow-marine masks
+# but DEMs aren't committed to the repo so it's not possible to source.
+# Mask files are also missing (should be in /shallow_marine_grids data subfolder)
+
 #generate shallow marine grids
 source("./R/options.R") #source options
 #load functions
