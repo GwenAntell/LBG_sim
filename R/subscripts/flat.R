@@ -1,17 +1,23 @@
 ###flat###
-dir.create("./results/flat/")
+# dir.create("./results/flat/") # GSA - dir already exists
 
 library(parallel)
+# GSA addition: time task and beep when done because simulations are so slow
+pt1 <- proc.time()
 
 cl <- makeCluster(detectCores()-1)
 
-clusterExport(cl=cl, varlist = list("reps", "species", "flat", "libs", "sim_dist"), envir=environment())
+clusterExport(cl = cl, 
+              varlist = list("reps", "species", "flat", "libs", "sim_dist"), 
+              envir = environment())
 
 clusterEvalQ(cl = cl, expr = lapply(libs, require, character.only = TRUE)) 
 
-for(i in 1:raster::nlayers(flat)){
-  r <- flat[[i]]
-  name <- names(r)
+# GSA - meant to loop through layers = gradient masked by shelf area of each stage
+# without DEM masks this is only 1 layer, so this 'loop' = index of 1
+# for(i in 1:raster::nlayers(flat)){
+  r <- flat # flat[[i]]
+  name <- 'unmasked' #names(r)
   clusterExport(cl=cl, varlist = list("r"), envir=environment())
   master <- parLapply(cl = cl, 1:reps, function(j){
     
@@ -31,10 +37,13 @@ for(i in 1:raster::nlayers(flat)){
   
   master <- dplyr::bind_rows(master, .id = "rep")
   
-  write.csv(x = master, file = paste("./results/flat/", name, ".csv", sep = ""), row.names = FALSE)
-}
+  write.csv(x = master, file = paste("./results/GSA/flat/", name, ".csv", sep = ""), row.names = FALSE)
+#  write.csv(x = master, file = paste("./results/flat/", name, ".csv", sep = ""), row.names = FALSE)
+# }
 
 stopCluster(cl)
-
-
-
+pt2 <- proc.time()
+runtime <- (pt2 - pt1)/60
+elaps <- round(runtime['elapsed'],4)
+print(paste(elaps, 'min elapsed'))
+beep()

@@ -16,9 +16,9 @@ source("./R/functions/sim_dist.R")
 
 #load libraries
 lapply(libs, require, character.only = TRUE) 
-#load DEMs
+library(beepr) # beep when each of the final sims at end of script is finished
+#load DEMs # GSA - there is no /DEMs subfolder available at GitHub repo
 # layers <- c("./data/DEMs/") #get path
-# GSA - there is no /DEMs subfolder available at GitHub repo
 
 # layers <- get_layers(layers = layers, agg = 2, fun = min, from = 0, to = 200, binary = TRUE) #convert rasters to 1 deg res with aggregation
   # GSA - Error in .rasterObjectFromFile(x, objecttype = "RasterBrick", ...) : 
@@ -44,9 +44,9 @@ bimodal <- LBG_type(type = "bimodal", sd = 10, res = res) #generate probability 
 #simulate each LBG
 # GSA - each of these 3 scripts calls sim_dist to sim genus occs
 # but weighted probs of occ placement seem off
-source("./R/subscripts/unimodal.R") # only this script modified for unmasked raster instead of stage layers
-#source("./R/subscripts/bimodal.R")
-#source("./R/subscripts/flat.R")
+source("./R/subscripts/unimodal.R") 
+source("./R/subscripts/bimodal.R")
+source("./R/subscripts/flat.R")
 
 #run as job
 #rstudioapi::jobRunScript(path = "./R/subscripts/unimodal.R", name = "unimodal", workingDir = getwd(), importEnv = TRUE)

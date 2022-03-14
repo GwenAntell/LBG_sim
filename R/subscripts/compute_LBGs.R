@@ -29,27 +29,37 @@ for(i in files){
 }
 
 # BIMODAL
-files <- list.files(path = "./results/bimodal/", pattern = ".csv")
+files <- list.files(path = "./results/GSA/bimodal/", pattern = ".csv")
+        # list.files(path = "./results/bimodal/", pattern = ".csv")
 # dir.create(path = "./results/bimodal/LBGs/") # GSA - dir exists
 
 for(i in files){
-  data <- read.csv(paste("./results/bimodal/", i, sep = ""))
+  data <- read.csv(paste("./results/GSA/bimodal/", i, sep = ""))
+          # read.csv(paste("./results/bimodal/", i, sep = ""))
   name <- tools::file_path_sans_ext(i)
-  png(paste("./results/bimodal/LBGs/", name, ".png", sep = ""), width = 210, height = 150, units = "mm", res = 300)
+  png(paste("./results/GSA/bimodal/LBGs/", name, ".png", sep = ""), 
+    # paste("./results/bimodal/LBGs/", name, ".png", sep = ""), 
+      width = 210, height = 150, units = "mm", res = 300)
   LBG <- get_LBG(data = data, id = "id", bandsize = lat_bin, reps = TRUE)
-  write.csv(LBG, paste("./results/bimodal/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
+  write.csv(LBG, paste("./results/GSA/bimodal/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
+  # write.csv(LBG, paste("./results/bimodal/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
   dev.off()
 }
 
-files <- list.files(path = "./results/flat/", pattern = ".csv")
+files <- list.files(path = "./results/GSA/flat/", pattern = ".csv")
+        # list.files(path = "./results/flat/", pattern = ".csv")
 # dir.create(path = "./results/flat/LBGs/") # GSA - dir exists
 
 # FLAT
 for(i in files){
-  data <- read.csv(paste("./results/flat/", i, sep = ""))
+  data <- read.csv(paste("./results/GSA/flat/", i, sep = ""))
+        # read.csv(paste("./results/flat/", i, sep = ""))
   name <- tools::file_path_sans_ext(i)
-  png(paste("./results/flat/LBGs/", name, ".png", sep = ""), width = 210, height = 150, units = "mm", res = 300)
+  png(paste("./results/GSA/flat/LBGs/", name, ".png", sep = ""), 
+    # paste("./results/flat/LBGs/", name, ".png", sep = ""), 
+      width = 210, height = 150, units = "mm", res = 300)
   LBG <- get_LBG(data = data, id = "id", bandsize = lat_bin, reps = TRUE)
-  write.csv(LBG, paste("./results/flat/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
+  write.csv(LBG, paste("./results/GSA/flat/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
+  # write.csv(LBG, paste("./results/flat/LBGs/", name, ".csv", sep = ""), row.names = FALSE)
   dev.off()
 }
