@@ -1,8 +1,15 @@
+# This script makes all the figures (intermediate and final) and
+# reports metadata, summary statistics, and main statistical tests
+# based on the richness rasters produced by R/sim_LBGs.R
+# - which runs in conjunction w subscripts/unimodal.R, bimodal.R, and flat.R
+
 #run analyses
 
 #spatial sampling
 source("./R/subscripts/generate_shallow_marine_grids.R") #generate shallow marine masks
 rm(list=ls())
+# GSA - not possible to run because DEMs are missing; should output masks, also missing
+
 source("./R/subscripts/bin_collections.R") #bin collections for sampling and computing SSC
 rm(list=ls())
 source("./R/subscripts/calculate_ssc.R") #calculate SSC
@@ -29,14 +36,26 @@ source("./R/subscripts/format_KS_tables.R") #format tables
 rm(list=ls())
 
 #LBG analyses
-source("./R/figures/LBG_type_plot.R") #generate LBG type figure
+
+source("./R/figures/LBG_type_plot.R") #generate LBG type figure 
 rm(list=ls())
+# GSA - runs
+
 source("./R/subscripts/compute_LBGs.R") #compute LBGs for simulated data
 rm(list=ls())
+# this script does summary stats on simulation data from /results folder
+# exports a png and summary csv of richness by lat bin, for each stage
+# ca. 10 min runtime
+
 source("./R/subscripts/sample_LBGs.R") #sample and compute LBGs for simulated data
 rm(list=ls())
+# exactly analogous to compute_LBGs.R except the input data gets masked by shelf area
+
 #source("./R/subscripts/rarefy_LBGs.R") #rarefy sampled simulated data
 #rm(list=ls())
+# exactly analogous to compute_LBGs.R again except the input data is the masked data
+# (csv's output by sample_LBGs), which this subscript rarefies before calculating stats
+
 source("./R/subscripts/compile_data.R") #compiled LBG data
 rm(list=ls())
 source("./R/figures/LBG_plots.R") #generate individual LBG plots
