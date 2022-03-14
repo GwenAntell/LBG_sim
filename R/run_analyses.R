@@ -8,7 +8,7 @@
 #spatial sampling
 source("./R/subscripts/generate_shallow_marine_grids.R") #generate shallow marine masks
 rm(list=ls())
-# GSA - not possible to run because DEMs are missing; should output masks, also missing
+# GSA - not possible to run because DEMs are missing
 
 source("./R/subscripts/bin_collections.R") #bin collections for sampling and computing SSC
 rm(list=ls())
@@ -39,13 +39,13 @@ rm(list=ls())
 
 source("./R/figures/LBG_type_plot.R") #generate LBG type figure 
 rm(list=ls())
-# GSA - runs
+# GSA - heatmap of seed cell probability, i.e. initial gradient
 
 source("./R/subscripts/compute_LBGs.R") #compute LBGs for simulated data
 rm(list=ls())
 # this script does summary stats on simulation data from /results folder
 # exports a png and summary csv of richness by lat bin, for each stage
-# ca. 10 min runtime
+# ca. 8 min runtime for each LDG type
 
 source("./R/subscripts/sample_LBGs.R") #sample and compute LBGs for simulated data
 rm(list=ls())
@@ -56,6 +56,7 @@ rm(list=ls())
 # exactly analogous to compute_LBGs.R again except the input data is the masked data
 # (csv's output by sample_LBGs), which this subscript rarefies before calculating stats
 
+# compare simulated, sampled (preserved), and rarefied LDGs of each type (Fig 3)
 source("./R/subscripts/compile_data.R") #compiled LBG data
 rm(list=ls())
 source("./R/figures/LBG_plots.R") #generate individual LBG plots
@@ -96,6 +97,7 @@ source("./R/subscripts/format_get_max_table.R")
 rm(list=ls())
 source("./R/figures/max_plot.R")
 rm(list=ls())
+# produces Fig. S14
 
 #linear models
 source("./R/subscripts/linear_models_SSC.R")
